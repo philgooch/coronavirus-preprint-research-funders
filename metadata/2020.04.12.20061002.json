@@ -1,0 +1,16 @@
+{
+    "abstract": "Final epidemic sizes of different geographical regions due to COVID-19 are estimated using logistic, SIR and generalized SEIR models. These models use different parameters which are estimated using non-linear fits from the available data. It is found that both SIR and generalized SEIR models give similar estimations for regions where curves show signs of flattening. A study of these models with data from China indicates that in such cases these estimates may be more reliable. The estimates are presented for the most affected countries due to COVID-19. According to these models, the final epidemic size in the US, Italy, Spain, and Germany could be 0.8, 0.16, 0.18 and 0.14 million respectively. Also, curves for most of the geographical regions will flatten by the middle of May 2020.",
+    "author": "Rajesh Ranjan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.12.20061002",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.12.20061002"
+    },
+    "title": "Estimating the Final Epidemic Size for COVID-19 Outbreak using Improved Epidemiological Models",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

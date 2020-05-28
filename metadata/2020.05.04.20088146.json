@@ -1,0 +1,68 @@
+{
+    "abstract": "Background SARS-CoV-2 testing reagents are expected to become in short supply worldwide. However, little is unknown whether the pooling strategy detects SARS-CoV-2 with accuracy. Method To validate the feasibility of pooling samples, serial dilution analysis and spike-in experiment were conducted using synthetic DNA and nucleic acids extracted from SARS-CoV-2 positive and negative patients. Furthermore, we studied a total of 1,000 individuals, who were 667 'healthy' (195 healthcare workers and 472 hospitalized patients with other disorders than COVID-19 infection) individuals and 333 infection-suspected patients with cough and fever, were tested. Results Serial dilution analysis showed the limit of detection of around 10-100 copies according to National Institute of Infectious Diseases, Japan. Spike-in experiment demonstrated RT-qPCR detect positive signal in pooling samples of SARS-CoV-2 negative and positive patient at the 5-, 10-, 20-fold dilution. By screening with pooling strategy by the end of April, 2020, there are 12 COVID-19 patients in 333 infection suspected patients (3.6%) and zero in 667 'healthy'. We obtained these results with total running 538 times (instead of 1,000 times) by pooling strategy. Conclusion Pooling samples is feasible for saving test reagents and detecting SARS-CoV-2 in clinical setting to prevent the spread of the virus and nosocomial transmission.",
+    "affiliations": [
+        "National Institute of Infectious Diseases, Japan. Spike-in experiment demonstrated RT-qPCR detect positive signal in pooling samples of SARS-CoV-2 negative and positive patient at the 5-, 10-, 20-fold dilution. By screening with pooling strategy by the end of April, 2020, there are",
+        "COVID-19 patients in 333 infection suspected patients (3.6%) and zero in 667 'healthy'. We obtained these results with total running 538 times (instead of 1,000 times) by pooling strategy. Conclusion Pooling samples is feasible for saving test reagents and detecting SARS-CoV-2 in clinical setting to prevent the spread of the virus and nosocomial transmission"
+    ],
+    "author": "Masahiro Shibusawa; Masao Omata; Yosuke Hirotsu; Kenji Amemiya; Kazuhiro Hosaka; Miyoko Hayakawa; Yuki Nagakubo; Hitomi Sueki; Hitoshi Mochizuki; Makoto Maejima",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20088146",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20088146"
+    },
+    "title": "Pooling RT-PCR test of SARS-CoV-2 for large cohort of 'healthy' and infection-suspected patients: A prospective and consecutive study on 1,000 individuals",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Grant-in-Aid for the Genome Research Project from Yamanashi Prefecture",
+                    "award-id": [
+                        "to M.O."
+                    ]
+                },
+                {
+                    "funding-source": "Japan Society for the Promotion of Science"
+                },
+                {
+                    "funding-source": "KAKENHI Early-Career Scientists",
+                    "award-id": [
+                        "JP18K16292",
+                        "to Y.H."
+                    ]
+                },
+                {
+                    "funding-source": "Grant-in-Aid for Scientific Research",
+                    "award-id": [
+                        "20H03668",
+                        "to Y.H."
+                    ]
+                },
+                {
+                    "funding-source": "Research Grant for Young Scholars",
+                    "award-id": [
+                        "to Y.H."
+                    ]
+                },
+                {
+                    "funding-source": "YASUDA Medical Foundation",
+                    "award-id": [
+                        "to Y.H."
+                    ]
+                },
+                {
+                    "funding-source": "Uehara Memorial Foundation",
+                    "award-id": [
+                        "to Y.H."
+                    ]
+                },
+                {
+                    "funding-source": "Medical Research Grants from the Takeda Science Foundation",
+                    "award-id": [
+                        "to Y.H."
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by a Grant-in-Aid for the Genome Research Project from Yamanashi Prefecture (to M.O. and Y.H.), the Japan Society for the Promotion of Science (JSPS) KAKENHI Early-Career Scientists JP18K16292 (to Y.H.), Grant-in-Aid for Scientific Research (B) 20H03668 (to Y.H.), a Research Grant for Young Scholars (to Y.H.), the YASUDA Medical Foundation (to Y.H.), the Uehara Memorial Foundation (to Y.H.), and Medical Research Grants from the Takeda Science Foundation (to Y.H.)"
+        }
+    ]
+}

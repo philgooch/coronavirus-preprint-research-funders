@@ -1,0 +1,66 @@
+{
+    "title": "Title of Manuscript: Assessing the Hospital Surge Capacity of the Kenyan Health System in the Face of the COVID-19 Pandemic",
+    "author": "1. Edwine Barasa, (corresponding author)",
+    "date": 2020,
+    "affiliations": [
+        "Assessing the Hospital Surge Capacity of the Kenyan Health System in the Face of the COVID-19 Pandemic"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.08.20057984",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20057984.pdf"
+    },
+    "abstract": "Introduction\nThe COVID-19 pandemic will test the capacity of health systems worldwide. Health systems will need surge capacity to absorb acute increases in caseload due to the pandemic. We assessed the capacity of the Kenyan health system to absorb surges in the number of people that will need hospitalization and critical care because of the COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Edwine Barasa"
+                },
+                {
+                    "funding-source": "Wellcome Trust"
+                },
+                {
+                    "funding-source": "KEMRI-Wellcome Trust Research Programme",
+                    "award-id": [
+                        "203077"
+                    ]
+                }
+            ],
+            "funding-statement": "Edwine Barasa is supported by the Wellcome Trust core award grant to KEMRI-Wellcome Trust Research Programme (number 203077)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Paul Ouma"
+                },
+                {
+                    "funding-source": "DELTAS"
+                },
+                {
+                    "funding-source": "KEMRI- Wellcome Trust Research Programme",
+                    "award-id": [
+                        "107769"
+                    ]
+                }
+            ],
+            "funding-statement": "Paul Ouma is supported by the DELTAS grant awarded to IDeAL/KEMRI- Wellcome Trust Research Programme (number 107769)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Emelda Okirois"
+                },
+                {
+                    "funding-source": "Wellcome Trust Intermediary Fellowship",
+                    "award-id": [
+                        "201866"
+                    ]
+                }
+            ],
+            "funding-statement": "Emelda Okirois supported by a Wellcome Trust Intermediary Fellowship (number 201866)"
+        }
+    ]
+}

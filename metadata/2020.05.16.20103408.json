@@ -1,0 +1,47 @@
+{
+    "abstract": "Background The use of CT imaging enhanced by artificial intelligence to effectively diagnose COVID-19, instead of or in addition to reverse transcription-polymerase chain reaction (RT-PCR), can improve widespread COVID-19 detection and resource allocation. Methods 904 axial lung window CT slices from 338 patients in 17 countries were collected and labeled. The data included 606 images from COVID-19 positive patients (confirmed via RT-PCR), 224 images of a variety of other pulmonary diseases including viral pneumonias, and 74 images of normal patients. We developed, trained, validated, and tested an object detection model which detects features in three categories: ground-glass opacities (GGOs) for COVID-19, GGOs for non-COVID-19 diseases, and features that are inconsistent with a COVID-19 diagnosis. These collected features are passed into an interpretable decision tree model to make a suggested diagnosis. Results On an independent test of 219 images from COVID-19 positive, a variety of pneumonia, and healthy patients, the model predicted COVID-19 diagnoses with an accuracy of 96.80 % (95% confidence interval [CI], 96.75 to 96.86) , AUC-ROC of 0.9664 (95% CI, 0.9659 to 0.9671) , sensitivity of 98.33% (95% CI, 98.29 to 98.40) , precision of 95.93% (95% CI, 95.83 to 95.99), and specificity of 94.95% (95% CI, 94.84 to 95.05). On an independent test of 34 images from asymptomatic COVID-19 positive patients, our model achieved an accuracy of 97.06% (95% CI, 96.81 to 97.06) and a sensitivity of 96.97% (95% CI, 96.71 to 96.97). Similarly high performance was also obtained for out-of-sample countries, and no significant performance difference was obtained between genders. Conclusion We present an interpretable artificial intelligence CT analysis tool to diagnose COVID-19 in both symptomatic and asymptomatic patients. Further, our model is able to differentiate COVID-19 GGOs from similar pathologies suggesting that GGOs can be disease-specific.",
+    "affiliations": [
+        "Department of Veterans Affairs or the United States Government. The funders had no role in study design, data collection, and analysis, decision to publish, or preparation of the manuscript. All other authors declare no competing interest",
+        "University of South Florida Strategic Investment Program Fund. S.M. is partially supported by Research Career Scientist Award (IK6 BX004212). G.S. has research activities partially supported by the National Science Foundation (NSF 1712867), the Department of Defense (ONR N00014-18-1-2143-P00001, ONR N00014-20-1-233, NGA HM04761912010), the National Institutes of Health (1R01-MH122370-01, 1R01-MH120093-01), the Simons Foundation, and gifts from Microsoft, AWS, and Google"
+    ],
+    "author": "Roshan Warman; Ayushman Sharma; Guillermo Sapiro; Puja Parikh; Subhra Mohapatra; Narayan Viswanadhan; Lu Chen; Pranav Warman; Anmol Warman; Shyam Mohapatra",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20103408",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20103408"
+    },
+    "title": "Interpretable Artificial Intelligence for COVID-19 Diagnosis from Chest CT Reveals Specificity of Ground-Glass Opacities",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Veteran Affairs Research Career Scientist Award",
+                    "award-id": [
+                        "IK6 BX003778"
+                    ]
+                },
+                {
+                    "funding-source": "VA COVID Rapid Response Support",
+                    "award-id": [
+                        "BX003685 Suppl"
+                    ]
+                },
+                {
+                    "funding-source": "University of South Florida Strategic Investment Program Fund"
+                }
+            ],
+            "funding-statement": ": S.S.M. is partially supported by a Veteran Affairs Research Career Scientist Award (IK6 BX003778), VA COVID Rapid Response Support (BX003685 Suppl), and University of South Florida Strategic Investment Program Fund"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Career Scientist Award",
+                    "award-id": [
+                        "IK6 BX004212"
+                    ]
+                }
+            ],
+            "funding-statement": "S.M. is partially supported by Research Career Scientist Award (IK6 BX004212)"
+        }
+    ]
+}

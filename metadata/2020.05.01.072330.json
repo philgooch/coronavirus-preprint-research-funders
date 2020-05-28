@@ -1,0 +1,33 @@
+{
+    "title": "Rampant C->U hypermutation in the genomes of SARS-CoV-2 and other coronaviruses \u2013 causes and consequences for their short and long evolutionary trajectories",
+    "author": "Peter Simmonds",
+    "date": 2020,
+    "affiliations": [
+        "Nuffield Department of Medicine, University of Oxford, South Parks Road, Oxford, OX1 3SY, UK"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.01.072330",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.01.072330.pdf"
+    },
+    "hyperbole": [
+        "directly from samples of infected individuals worldwide has been performed on an unprecedented scale. These efforts have generated many 50 thousands of high quality consensus sequences spanning the length of the genome and have defined a series of geographically defined clusters that recapitulate the early routes of international spread. However, as commented elsewhere (https://doi.org/10.1101/2020.03.16.20034470), there is remarkable little virus diversity at this early stage of the pandemic and analyses of its evolutionary dynamics remain at an early stage.",
+        "This excess was the more remarkable given there was an almost two-fold greater number of U 105 bases in the SARS-CoV-2 genome compared to C\u2019s (32.1% compared to 18.4%). To formally analyse the excess of C->U transitions we calculated an index of asymmetry (frequency[C->U] / f[U->C]) x (fU/fC) and compared this with degrees of sequence divergence and dN/dS ratio in SARS-CoV-2 and other coronavirus datasets (Fig. 2B, 2C). This comparison showed that the excess of C->U substitutions",
+        "a remarkable 50% of non-synonymous substitutions in the SARS-CoV-2 sequence dataset were the consequence of C->U transitions (Fig. 5). The underlying mechanism that leads to C->U hypermutation therefore also"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Investigator Award Grant",
+                    "award-id": [
+                        "WT103767MA"
+                    ]
+                }
+            ],
+            "funding-statement": "The work was supported by a Wellcome Investigator Award Grant WT103767MA"
+        }
+    ]
+}

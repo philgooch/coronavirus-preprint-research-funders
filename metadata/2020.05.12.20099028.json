@@ -1,0 +1,16 @@
+{
+    "abstract": "On March 28, 2020, in response to the rapidly accelerating COVID-19 pandemic, U.S FDA issued emergency use authorization for hydroxychloroquine (HCQ) in hospitalized COVID-19 patients based on limited in-vitro and anecdotal clinical data. Analysis of the accumulated real-world data utilizing electronic medical records (EMR) could indicate HCQ therapy benefits as we await the results of clinical trials. However, any such analysis of retrospective observational data should account for variables such as demographics and comorbidities that could affect treatment strategies or outcomes. Therefore, we report the outcomes of HCQ treatment in a propensity-matched cohort of COVID-19 hospitalized patients. Our analysis of a large retrospective cohort of hospitalized COVID-19 patients treated with HCQ did not show benefits in mortality or the need for mechanical ventilation when compared to a matched cohort of patients who did not receive HCQ.",
+    "author": "Monica Chowdhry; Arka Chatterjee; Shailendra Singh; Ahmad Khan",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099028",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099028"
+    },
+    "title": "Outcomes of Hydroxychloroquine Treatment Among Hospitalized COVID-19 Patients in the United States- Real-World Evidence From a Federated Electronic Medical Record Network",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

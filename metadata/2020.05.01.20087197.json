@@ -1,0 +1,16 @@
+{
+    "abstract": "To understand the effect of nationwide lockdown on transmissibilty of SARS-CoV-2 in India, time varying reproduction number during the first weeks of April, 2020 was estimated. The time varying reproduction number was estimated using EpiEstim package in R programming language. The reproduction number has come down significantly during the lockdown period both at national level and in most states but it was not reduced to less than 1. This calls for urgent need for more effective control measures in addition to lockdown to stop the epidemic spread of the virus.",
+    "author": "Padmanaban Venkatesan",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087197",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087197"
+    },
+    "title": "National and state wise estimate of time varying reproduction number for COVID-19 in India during the nationwide lockdown.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for this study"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Triphosphates of the Two Components in DESCOVY and TRUVADA are Inhibitors of the SARS-CoV-2 Polymerase",
+    "author": "Jingyue Ju",
+    "date": 2020,
+    "affiliations": [
+        "Center for Genome Technology and Biomolecular Engineering, Columbia University, New York, NY 10027; Departments of",
+        "Chemical Engineering, and",
+        "Pharmacology, Columbia University, New York, NY 10027",
+        "Departments of Biochemistry and",
+        "Institute of Molecular Virology, University of"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.03.022939",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.03.022939.pdf"
+    },
+    "abstract": "SARS-CoV-2, a member of the coronavirus family, is responsible for the current COVID-19 pandemic. We previously demonstrated that four nucleotide analogues (specifically, the active triphosphate forms of Sofosbuvir, Alovudine, AZT and Tenofovir alafenamide) inhibit the SARS-CoV-2 RNA-dependent RNA polymerase (RdRp). Tenofovir and emtricitabine are the two components in DESCOVY and TRUVADA, the two FDA-approved medications for use as pre-exposure prophylaxis (PrEP) to prevent HIV infection. This is a preventative method in which individuals who are HIV negative (but at high-risk of contracting the virus) take the combination drug daily to reduce the chance of becoming infected with HIV. PrEP can stop HIV from replicating and spreading throughout the body. We report here that the triphosphates of tenofovir and emtricitabine, the two components in DESCOVY and TRUVADA, act as terminators for the SARS-CoV-2 RdRp catalyzed reaction. These results provide a molecular basis to evaluate the potential of DESCOVY and TRUVADA as PrEP for COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Columbia University,"
+                },
+                {
+                    "funding-source": "Jack Ma Foundation"
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Disease",
+                    "award-id": [
+                        "AI123498"
+                    ]
+                }
+            ],
+            "funding-statement": "This research is supported by Columbia University, a grant from the Jack Ma Foundation to J.J. and a National Institute of Allergy and Infectious Disease grant AI123498 to R.N.K"
+        }
+    ]
+}

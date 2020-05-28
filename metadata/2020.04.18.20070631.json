@@ -1,0 +1,20 @@
+{
+    "abstract": "The World Health Organization (WHO) Director-General, Dr. Tedros Adhanom Ghebreyesus on March 11, 2020 declared the novel coronavirus (COVID-19) outbreak a global pandemic [4] the reason being the number of cases outside China increased 13-fold and the number of countries with cases increased threefold. In this paper a time series model to predict short-term prediction of the transmission of the exponentially growing COVID-19 time series is modelled and studied. Auto Regressive Integrated Moving Average (ARIMA) model prediction is performed on the number of cumulative cases over a time period and is validated over Akaike information criterion (AIC) statistics.",
+    "author": "Regis Anne",
+    "date": 2020,
+    "doi": "10.1101/2020.04.18.20070631",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.18.20070631"
+    },
+    "title": "ARIMA modelling of predicting COVID-19 infections",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "This Research"
+                }
+            ],
+            "funding-statement": "This Research was not funded by any organization"
+        }
+    ]
+}

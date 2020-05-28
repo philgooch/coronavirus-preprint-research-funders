@@ -1,0 +1,26 @@
+{
+    "abstract": "Any plan for stopping the ongoing 2019-nCov epidemic must be based on a quantitative understanding of the proportion of the at-risk population that needs to be protected by effective control measures in order for transmission to decline sufficiently and quickly enough for the epidemic to end. Using an SEIR-type transmission model, we contrasted two alternate strategies by modeling the proportion of the population that needs to be protected from infection by one-time vaccination (assuming 100% effectiveness) or by testing with isolation and treatment of individuals within six, 24, or 48 hours of symptom onset. If R is currently 2.2, vaccination at the herd immunity coverage of 55% would drive R just below 1, but transmission could persist for years. Over 80% of coverage is required to end the epidemic in 6 months with population-wide vaccination. The epidemic could be ended in just under a year if testing with isolation and treatment reached 80% of symptomatically infected patients within 24 hours of symptom onset (assuming 10% asymptomatic transmission). The epidemic could be ended in six months if testing with isolation and treatment reached 90% of symptomatic patients. If 90% of symptomatic patients could be tested within six hours of symptoms appearing, the epidemic could be ended in under four months.",
+    "author": "Devabhaktuni Srikrishna; Ranu Dhillon; Gerardo Chowell",
+    "date": 2020,
+    "doi": "10.1101/2020.02.03.20020271",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.03.20020271"
+    },
+    "title": "Getting to zero quickly in the 2019-nCov epidemic with vaccines or rapid testing",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "1414374"
+                    ]
+                },
+                {
+                    "funding-source": "NSF-NIH-USDA Ecology and Evolution of Infectious Diseases"
+                }
+            ],
+            "funding-statement": "GC acknowledges support from NSF grant 1414374 as part of the joint NSF-NIH-USDA Ecology and Evolution of Infectious Diseases program"
+        }
+    ]
+}

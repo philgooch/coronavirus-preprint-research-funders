@@ -1,0 +1,16 @@
+{
+    "abstract": "In this manuscript, we model and visualize the region-wise trends of the evolution to COVID-19 infections employing a SIR epidemiological model. The SIR dynamics are expressed using stochastic differential equations. We first optimize the parameters of the model using RMSE as loss function on the available data using L-BFGS-B gradient descent optimisation to minimise this loss function. This helps to gain better approximation of the models parameter for specific country or region. The derived parameters are aggregated to project future trends for the Indian subcontinent for next 180 days, which is currently at an early stage within the infection cycle. The projections are meant to function a suggestion for strategies for the socio-political counter measures to mitigate COVID-19. This study considers the current data for India from various open sources. The SIR models prediction is found following the actual trends till date. The inflection point analysis is important to find out which countries have reached their inflection point of the number of infection. We found that if current restrictions like lockdown in India continues with same control till 20 May 2020 then,the number of infected patients will start decreasing after this date.",
+    "author": "Ankit Khushal Barai; Amol Shinde; ANURADHA SINGH",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099184",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099184"
+    },
+    "title": "Modelling and data-based analysis of COVID-19 outbreak in India : a study on impact of social distancing measures",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There is no funding for this project."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "abstract": "Coronavirus disease-2019 (COVID-19), caused by SARS-CoV-2, has rapidly spread to most of countries in the world, threatening the health and lives of many people. Unfortunately, information regarding the immunological characteristics in COVID-19 patients remains limited. Here we collected the blood samples from 18 healthy donors (HD) and 38 COVID-19 patients to analyze changes in the adaptive immune cell populations and phenotypes. In comparison to HD, the lymphocyte percentage was slightly decreased, the percentages of CD4 and CD8 T cells in lymphocytes are similar, whereas B cell percentage increased in COVID-19 patients. T cells, especially CD8 T cells, showed an enhanced expression of late activation marker CD25 and exhaustion marker PD-1. Importantly, SARS-CoV-2 induced an increased percentage of T follicular helpher (Tfh)- and germinal center B-like (GCB-like) cells in the blood. However, the parameters in COVD-19 patients remained unchanged across various age groups. Therefore, we demonstrated that the T and B cells can be activated normally and exhibit functional features. These data provide a clue that the adaptive immunity in most people could be primed to induce a significant immune response against SARS-CoV-2 infection upon receiving standard medical care.",
+    "affiliations": [
+        "Jiaotong University Foundation (xzy032020002). We thank all the doctors, nurses, public health workers, and patients for their contribution against SARS-CoV-2 infection"
+    ],
+    "author": "Yaling Guo; Jinsong Hu; Lei Lei; Hongbo Qian; Rui Guo; Dan Zhang; Xingzhe Zhang; Lin Shi; Yanbin Cheng; Xiaobo Zhou; Xiaofeng Yang; Tongxin Dai; Baojun Zhang",
+    "date": 2020,
+    "doi": "10.1101/2020.03.23.20040675",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.23.20040675"
+    },
+    "title": "Analysis of adaptive immune cell populations and phenotypes in the patients infected by SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Natural Science Foundation of China",
+                    "award-id": [
+                        "81820108017"
+                    ]
+                },
+                {
+                    "funding-source": "Natural Science Foundation of China",
+                    "award-id": [
+                        "81771673",
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Jiaotong University Foundation",
+                    "award-id": [
+                        "xzy032020002"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants from Natural Science Foundation of China (No 81820108017), Natural Science Foundation of China (No 81771673), and COVID-19 special project of Xi\u0092an Jiaotong University Foundation (xzy032020002)"
+        }
+    ]
+}

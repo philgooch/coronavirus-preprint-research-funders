@@ -1,0 +1,130 @@
+{
+    "abstract": "Background. Coronavirus disease 2019 (COVID-19) epidemics strain health systems and households. Health systems in Africa and South Asia may be particularly at risk due to potential high prevalence of risk factors for severe disease, large household sizes and limited healthcare capacity. Methods. We investigated the impact of an unmitigated COVID-19 epidemic on health system resources and costs, and household costs, in Karachi, Delhi, Nairobi, Addis Ababa and Johannesburg. We adapted a dynamic model of SARS-CoV-2 transmission and disease to capture country-specific demography and contact patterns. The epidemiological model was then integrated into an economic framework that captured city-specific health systems and household resource use. Findings. The cities severely lack intensive care beds, healthcare workers and financial resources to meet demand during an unmitigated COVID-19 epidemic. A highly mitigated COVID-19 epidemic, under optimistic assumptions, may avoid overwhelming hospital bed capacity in some cities, but not critical care capacity. Interpretation. Viable mitigation strategies encompassing a mix of responses need to be established to expand healthcare capacity, reduce peak demand for healthcare resources, minimise progression to critical care and shield those at greatest risk of severe disease.",
+    "author": "Simon Procter; Sedona Sweeney; Fiammetta Bozzani; Mark Jit; Nichola Kitson; Edwine Barasa; Rosalind M Eggo; Nicholas G Davies; Anna Vassall; LSHTM Centre for Mathematical Modelling of Infectious Diseases COVID-19 Working Group; Matthew Quaife; Sergio Torres-Rueda",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20092734",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20092734"
+    },
+    "title": "The impact of Coronavirus disease 2019 (COVID-19) on health systems and household resources in Africa and South Asia",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation",
+                    "award-id": [
+                        "INV-003174: MJ"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was partly funded by the Bill & Melinda Gates Foundation (INV-003174: MJ)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union's Horizon",
+                    "award-id": [
+                        "101003688: MJ"
+                    ]
+                }
+            ],
+            "funding-statement": "This project has received funding from the European Union's Horizon 2020 research and innovation programme - project EpiPose (101003688: MJ)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "UK Government"
+                }
+            ],
+            "funding-statement": "This research was partly funded by the National Institute for Health Research (NIHR) using UK aid from the UK Government to support global health research"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation",
+                    "award-id": [
+                        "INV-003174"
+                    ]
+                },
+                {
+                    "funding-source": "NTD Modelling Consortium",
+                    "award-id": [
+                        "OPP1184344",
+                        "OPP1180644",
+                        "OPP1183986",
+                        "OPP1191821"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was partly funded by the Bill & Melinda Gates Foundation (INV-003174: KP, YL, KA; NTD Modelling Consortium OPP1184344: CABP, GM; OPP1180644: SRP; OPP1183986: ESN; OPP1191821: KO'R, MA)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "UK Government"
+                }
+            ],
+            "funding-statement": "Elrha R2HC/UK DFID/Wellcome Trust/This research was partly funded by the National Institute for Health Research (NIHR) using UK aid from the UK Government to support global health research"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "ERC Starting Grant",
+                    "award-id": [
+                        "#757688: CJVA",
+                        "#757699: JCE"
+                    ]
+                }
+            ],
+            "funding-statement": "ERC Starting Grant (#757688: CJVA, KEA; #757699: JCE, MQ, RMGJH)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union's Horizon",
+                    "award-id": [
+                        "101003688: KP"
+                    ]
+                }
+            ],
+            "funding-statement": "This project has received funding from the European Union's Horizon 2020 research and innovation programme - project EpiPose (101003688: KP, PK, WJE, YL)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Global Challenges Research Fund"
+                },
+                {
+                    "funding-source": "RCUK and ESRC",
+                    "award-id": [
+                        "ES/P010873/1: AG"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was partly funded by the Global Challenges Research Fund (GCRF) project 'RECAP' managed through RCUK and ESRC (ES/P010873/1: AG, CIJ, TJ)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Public Health Rapid Support Team"
+                },
+                {
+                    "funding-source": "United Kingdom Department of Health and Social Care"
+                }
+            ],
+            "funding-statement": "Authors of this research receive funding from UK Public Health Rapid Support Team funded by the United Kingdom Department of Health and Social Care (TJ)"
+        }
+    ]
+}

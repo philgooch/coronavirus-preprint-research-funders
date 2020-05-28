@@ -1,0 +1,45 @@
+{
+    "title": "RNA genome conservation and secondary structure in SARS-CoV-2 and SARS-related viruses",
+    "date": 2020,
+    "author": "Ramya Rangan, Ivan N. Zheludev, Rhiju Das,* 1Biophysics Program, Stanford University, Stanford CA 94305 2Department of Biochemistry, Stanford University School of Medicine, Stanford CA 94305 3Department of Physics, Stanford University, Stanford CA 94305 *Corresponding author: rhiju@stanford.edu",
+    "affiliations": [
+        "Stanford University, Stanford CA 94305",
+        "Department of Biochemistry, Stanford University School of Medicine, Stanford CA 94305",
+        "Department of Physics, Stanford University, Stanford CA 94305",
+        "Corresponding author:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.27.012906",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.27.012906.pdf"
+    },
+    "abstract": "As the COVID-19 outbreak spreads, there is a growing need for a compilation of conserved RNA genome regions in the SARS-CoV-2 virus along with their structural propensities to guide development of antivirals and diagnostics. Using sequence alignments spanning a range of betacoronaviruses, we rank genomic regions by RNA sequence conservation, identifying 79 regions of length at least 15 nucleotides as exactly conserved over SARS-related complete genome sequences available near the beginning of the COVID-19 outbreak. We then confirm the conservation of the majority of these genome regions across 739 SARS-CoV-2 sequences reported to date from the current COVID-19 outbreak, and we present a curated list of 30 \u2018SARS-relatedconserved\u2019 regions. We find that known RNA structured elements curated as Rfam families and in prior literature are enriched in these conserved genome regions, and we predict additional conserved, stable secondary structures across the viral genome. We provide 106 \u2018SARS-CoV-2conserved-structured\u2019 regions as potential targets for antivirals that bind to structured RNA. We further provide detailed secondary structure models for the 5 \u0301 UTR, frame-shifting element, and 3 \u0301 UTR. Last, we predict regions of the SARS-CoV-2 viral genome have low propensity for RNA secondary structure and are conserved within SARS-CoV-2 strains. These 59 \u2018SARS-CoV-2conserved-unstructured\u2019 genomic regions may be most easily targeted in primer-based diagnostic and oligonucleotide-based therapeutic strategies.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation Graduate Research Fellowship Program",
+                    "award-id": [
+                        "1650114"
+                    ]
+                },
+                {
+                    "funding-source": "Stanford Graduate Fellowship",
+                    "award-id": [
+                        "GM122579"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "GM122579",
+                        "to R.D."
+                    ]
+                }
+            ],
+            "funding-statement": "The authors acknowledge support from the National Science Foundation Graduate Research Fellowship Program under grant no. 1650114 (R.R.), a Stanford Graduate Fellowship (I.N.Z.), and NIH grant MIRA R35 GM122579 (to R.D.)"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "abstract": "A new coronavirus, SARS-CoV-2, has recently emerged to cause a human pandemic. Whereas molecular diagnostic tests were rapidly developed, serologic assays are still lacking, yet urgently needed. Validated serologic assays are important for contact tracing, identifying the viral reservoir and epidemiological studies. Here, we developed serological assays for the detection of SARS-CoV-2 neutralizing, spike- and nucleocapsid-specific antibodies. Using serum samples from patients with PCR-confirmed infections of SARS-CoV-2, other coronaviruses, or other respiratory pathogenic infections, we validated and tested various antigens in different in-house and commercial ELISAs. We demonstrate that most PCR-confirmed SARS-CoV-2 infected individuals seroconverted, as revealed by sensitive and specific in-house ELISAs. We found that commercial S1 IgG or IgA ELISAs were of lower specificity while sensitivity varied between the two, with IgA showing higher sensitivity. Overall, the validated assays described here can be instrumental for the detection of SARS-CoV-2-specific antibodies for diagnostic, seroepidemiological and vaccine evaluation studies.",
+    "author": "Wentao Li; Chunyan Wang; Erwin de Bruin; Nadhira Houhou-Fidouh; NISREEN M.A. OKBA; Chantal B. E. M. Reusken; Berend-Jan Bosch; Marcel A Muller; Corine H. GeurtsvanKessel; Felicity D. Chandler; Bart L. Haagmans; Victor M. Corman; Christian Drosten; Quentin Le Hingrat; Mart M. Lamers; Marion P.G. Koopmans; Diane Descamps; Reina S. Sikkema; Yazdan Yazdanpanah",
+    "date": 2020,
+    "doi": "10.1101/2020.03.18.20038059",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.18.20038059"
+    },
+    "title": "SARS-CoV-2 specific antibody responses in COVID-19 patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Zoonoses Anticipation and Preparedness Initiative"
+                },
+                {
+                    "funding-source": "ZAPI project",
+                    "award-id": [
+                        "115760"
+                    ]
+                },
+                {
+                    "funding-source": "IMI and the European Commission,"
+                },
+                {
+                    "funding-source": "EFPIA"
+                }
+            ],
+            "funding-statement": "This work was supported by the Zoonoses Anticipation and Preparedness Initiative (ZAPI project; IMI grant agreement no. 115760), with the assistance and financial support of IMI and the European Commission, in-kind contributions from EFPIA partners"
+        }
+    ]
+}

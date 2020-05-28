@@ -1,0 +1,27 @@
+{
+    "title": "Beware of asymptomatic transmission: Study on 2019-nCoV prevention and control measures based on extended SEIR model",
+    "author": "THINK PAD",
+    "date": 2020,
+    "affiliations": [
+        "School of Management, Xi\u2019an Polytechnic University, Xi\u2019an 710048, China",
+        "School of Finance and Economics, Xi\u2019an Jiaotong University, Xi\u2019an 710049, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.01.28.923169",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.01.28.923169.pdf"
+    },
+    "abstract": "Background: The 2019 new coronavirus, \"2019-nCoV\", was discovered from Wuhan Viral Pneumonia cases in December 2019, and was named by the World Health Organization on January 12, 2020. In the early stage, people knows little about the 2019-nCoV virus was not clear, and the spread period was encountering China's annual spring migration, which made the epidemic spread rapidly from Wuhan to almost all provinces in China. Methods: This study builds a SEIRD model that considers the movement of people across regions, revealing the effects of three measures on controlling the spread of the epidemic.Based on MATLAB R2017a, computational experiments were performed to simulate the epidemic prevention and control measures. Findings: The research results show that current prevention and control measures in China are very necessary. This study further validates the concerns of international and domestic experts regarding asymptomatic transmission (E-status). Interpretation: The results of this study are applicable to explore the impact of the implementation of relevant measures on the prevention and control of epidemic spread, and to identify key individuals that may exist during the spread of the epidemic. Keywords: 2019-nCoV; asymptomatic transmission; SEIR model; computational experiments; infection management and control",
+    "keywords": [
+        "2019-nCoV",
+        "asymptomatic transmission",
+        "SEIR model",
+        "computational experiments",
+        "infection management and control"
+    ],
+    "funding": [
+        {}
+    ]
+}

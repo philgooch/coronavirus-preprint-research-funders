@@ -1,0 +1,77 @@
+{
+    "abstract": "Background: COVID-19 pandemic has presented extreme challenges to developing countries across the world. Post-Soviet states are facing unique challenges due to their developing healthcare systems and unstable economy. The aim of this paper was to provide estimates for current development COVID-19 pandemic in the Post-Soviet states and forecast potential best and worst scenarios for spread of this deadly infection. Methods: The data on confirmed cases and deaths were extracted from official governmental sources for a period from beginning of outbreak dates for each country until April 18, 2020. A modified SEIR (Susceptible-Exposed-Infected-Recovered) modelling was used to plot the parameters of epidemic in 10 post-Soviet states and forecast the number of cases over a period of 10, 30 and 60 days. We also estimated the numbers of cases based on the optimal measures (best scenario) and suboptimal measures (worst scenarios) of potential spread of COVID-19 in these countries. Results: It was estimated that Armenia and Azerbaijan have reached their peaks, Kazakhstan, Kyrgyzstan, Moldova and Uzbekistan are expected to reach their peaks in the coming week (April 29 - May 7, 2020), with comparatively low cases of COVID-19 and loss of lives in the best-case scenario. In contrast, Belarus, Russia, and Ukraine would likely see the outbreaks with the largest number of COVID-19 cases amongst the studied Post-Soviet States in the worst scenario during the next 30 and 60 days. Geographical remoteness and small number of international travelers from the countries heavily affected by the pandemic could also have contributed to delay in the spread of COVID-19. Conclusion: Governmental response was shown to be as an important determining factor responsible for the development of COVID-19 epidemic in Post-Soviet states. The current protection rates should be maintained to reduce active cases during upcoming 30 and 60 days. The estimated possible scenarios based on the proposed model can potentially be used by healthcare professionals from each studied Post-Soviet States as well as others to improve plans to contain the current and future epidemic.\nCompeting Interest Statement",
+    "author": "Mohamad Aljofan; Alpamys Issanov; Ardak Kashkynbayev; Shalkar Adambekov; Anara Abbay; Yerlan Amanbek; Abduzhappar Gaipov",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071704",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071704"
+    },
+    "title": "COVID-19 OUTBREAK IN POST-SOVIET STATES: MODELING THE BEST AND WORST POSSIBLE SCENARIOS",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "FDCRG",
+                    "award-id": [
+                        "Nazarbayev University",
+                        "11011"
+                    ]
+                },
+                {
+                    "funding-source": "Nazarbayev University)",
+                    "award-id": [
+                        "110119FD4502",
+                        "AP08052762"
+                    ]
+                },
+                {
+                    "funding-source": "Ministry of Education and Science of the Republic of Kazakhstan and the SPG",
+                    "award-id": [
+                        "Nazarbayev University"
+                    ]
+                },
+                {
+                    "funding-source": "Nazarbayev University)"
+                }
+            ],
+            "funding-statement": "YA would like to acknowledge support of the FDCRG (Nazarbayev University), No 110119FD4502, the research grant, No AP08052762, from the Ministry of Education and Science of the Republic of Kazakhstan and the SPG (Nazarbayev University)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Nazarbayev University FDCRG",
+                    "award-id": [
+                        "090118FD5353"
+                    ]
+                }
+            ],
+            "funding-statement": "AK was supported in part by Nazarbayev University FDCRG N 090118FD5353"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Nazarbayev University Collaborative Research Program"
+                },
+                {
+                    "funding-source": "Funder Project",
+                    "award-id": [
+                        "091019CRP2105"
+                    ]
+                },
+                {
+                    "funding-source": "Faculty Development Research Grant Program FDCRGP",
+                    "award-id": [
+                        "2020-2022"
+                    ]
+                },
+                {
+                    "funding-source": "Funder Project",
+                    "award-id": [
+                        "240919FD3913"
+                    ]
+                }
+            ],
+            "funding-statement": "AG acknowledge the funding from the Nazarbayev University Collaborative Research Program (CRP) for 2020 -2022 (Funder Project Reference: 091019CRP2105) and Faculty Development Research Grant Program FDCRGP 2020-2022 (Funder Project Reference: 240919FD3913)"
+        }
+    ]
+}

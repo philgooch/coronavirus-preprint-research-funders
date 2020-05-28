@@ -1,0 +1,23 @@
+{
+    "abstract": "The ongoing Coronavirus disease 2019 (COVID-19) epidemic is different from the previous epidemic of severe acute respiratory syndrome (SARS), which demands a rigorous analysis for the selection of anti-epidemic measures and their lifting when the epidemic subsides. Here we estimate the basic reproductive number for COVID-19 and propose a dynamical model for the time course of infection number. With this model, we assessed the effects of different measures for infection risk control. The model is different from the previous ones as it models the population as heterogeneous, with subpopulations having different infection risks. Our analyses showed that after this heterogeneity is incorporated in the model, several characteristics of the epidemic are estimated more accurately: the total number of cases and peak number of cases are lower compared to the homogeneous case, the early-stage growth rate in the number of infection cases is little affected, and the decrease in the number of infections slows down during the epidemic late stage. The comparison of our model results with the available data for COVID-19 indicates that the anti-epidemic measures undertaken in China and the rest of the world managed to decrease the basic reproductive number but did not assure an accumulation of sufficient collective immunity. Thus, the epidemic has a high likelihood to restart, which necessitates a careful approach to lifting the quarantine measures.",
+    "author": "Mikhail Lebedev; Irina Semenycheva; Andrey Gerasimov; Georgy Lebedev",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090688",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090688"
+    },
+    "title": "COVID-19 DYNAMICS: A HETEROGENEOUS MODEL",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Education and Science of the Russian Federation,",
+                    "award-id": [
+                        "RFMEFI60819X0278"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by a grant from the Ministry of Education and Science of the Russian Federation, a unique project identifier RFMEFI60819X0278"
+        }
+    ]
+}

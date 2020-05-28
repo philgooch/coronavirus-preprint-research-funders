@@ -1,0 +1,27 @@
+{
+    "abstract": "Background: The serial interval is the time between symptom onsets in an infector infectee pair. The generation time, also known as the generation interval, is the time between infection events in an infector infectee pair. The serial interval and the generation time are key parameters for assessing the dynamics of a disease. A number of scientific papers reported information pertaining to the serial interval and/or generation time for COVID19. Objectives: Conduct a rapid review of available evidence to advise on appropriate parameter values for serial interval and generation time in national COVID19 transmission models for Ireland and on methodological issues relating to those parameters. Methods: A review of scientific literature was conducted covering the period between December 1, 2019 and April 27, 2020. Nineteen scientific papers were evaluated in detail from 27 papers that contained information on the serial interval and/or generation time for COVID19. Results: The mean of the serial interval ranged from 3.1 to 7.5 days, based on 22 estimates, and the median from 1.9 to 6.0 days (based on 7 estimates). Only three estimates were provided for the mean of the generation time. These ranged from 3.9 to 5.2 days. One estimate of 5.0 days was provided for the median of the generation time. Discussion: The values of the estimates for serial interval and generation time are heavily influenced by the contact rates between infectious and susceptible individuals. Mitigation measures that are introduced in a country or region are of paramount importance in this regard. The serial interval estimate of 6.6 days (95% confidence interval: 0.7, 19.0) from the paper by Cereda et al.[10] is likely to be the most relevant to European countries. National estimates should be obtained as soon as possible.\nCompeting Interest Statement",
+    "affiliations": [
+        "National estimates should be obtained as soon as possible",
+        "University College Dublin or the Irish Department of Agriculture, Food and the Marine. No additional funding was obtained for this research"
+    ],
+    "author": "Aine B Collins; David McEvoy; Ann Barber; Elizabeth Ann Lane; Conor G McAloon; Simon J More; John M Griffin; Andrew W Byrne; Miriam Casey; Kevin Hunt",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095075",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095075"
+    },
+    "title": "A rapid review of available evidence on the serial interval and generation time of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University College Dublin"
+                },
+                {
+                    "funding-source": "Irish Department of Agriculture, Food"
+                }
+            ],
+            "funding-statement": "All investigators are full-time employees (or retired former employees) of University College Dublin or the Irish Department of Agriculture, Food and the Marine. No additional funding was obtained for this research."
+        }
+    ]
+}

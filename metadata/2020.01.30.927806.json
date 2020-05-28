@@ -1,0 +1,33 @@
+{
+    "title": "The digestive system is a potential route of 2019-nCov infection: a bioinformatics 2 analysis based on single-cell transcriptomes",
+    "author": "Hao Zhang, Zijian Kang, Haiyi Gong, Da Xu, Jing Wang, Zifu Li, 4 Xingang Cui, Jianru Xiao, Tong Meng, Wang Zhou, Jianmin Liu, Huji 5 Xu,*. 6 1 Department of Rheumatology and Immunology, Changzheng Hospital, Second 7 Military Medical University, 200003 Shanghai, China 8 2 Peking-Tsinghua Center for Life Sciences, TsinghuaUniversity, Beijing, P.R. China 9 3Beijing Tsinghua Changgeng Hospital, School of Clinical Medicine, Tsinghua 10 University, 100084 Beijing, China 11 4 Department of Orthopaedic Oncology, Changzheng Hospital, Second Military 12 Medical University, 200003 Shanghai, China 13 5 Department of Neurosurgery, Changhai Hospital, Second Military Medical 14 University, 200003 Shanghai, China 15 6 Depanrtment of Urology, The Third Affiliated Hospital of Second Military Medical 16 University, 201805 Shanghai, China 17 7 Division of Spine, Department of Orthopedics, Tongji Hospital affiliated to Tongji 18 University School of Medicine, 200065 Shanghai, China 19 8 Tongji University Cancer Center, School of Medicine, Tongji University, 200092 20 Shanghai, China 21 9 Qiu-Jiang Bioinformatics Institute, 200003 Shanghai, China",
+    "date": 2020,
+    "affiliations": [
+        "Department of Rheumatology and Immunology, Changzheng Hospital, Second",
+        "Military Medical University, 200003 Shanghai, China 8",
+        "Peking-Tsinghua Center for Life Sciences, TsinghuaUniversity, Beijing, P.R. China 9",
+        "Beijing Tsinghua Changgeng Hospital, School of Clinical Medicine, Tsinghua",
+        "University, 100084 Beijing, China 11",
+        "Department of Orthopaedic Oncology, Changzheng Hospital, Second Military",
+        "Medical University, 200003 Shanghai, China 13",
+        "Department of Neurosurgery, Changhai Hospital, Second Military Medical",
+        "University, 200003 Shanghai, China 15",
+        "Depanrtment of Urology, The Third Affiliated Hospital of Second Military Medical",
+        "University, 201805 Shanghai, China 17",
+        "Division of Spine, Department of Orthopedics, Tongji Hospital affiliated to Tongji",
+        "University School of Medicine, 200065 Shanghai, China 19",
+        "Tongji University Cancer Center, School of Medicine, Tongji University, 200092 20 Shanghai, China 21",
+        "Qiu-Jiang Bioinformatics Institute, 200003 Shanghai, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.01.30.927806",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.01.30.927806.pdf"
+    },
+    "abstract": "2 Since December 2019, a newly identified coronavirus (2019 novel coronavirus, 3 2019-nCov) is causing outbreak of pneumonia in one of largest cities, Wuhan, in 4 Hubei province of China and has draw significant public health attention. The same as 5 severe acute respiratory syndrome coronavirus (SARS-CoV), 2019-nCov enters into 6 host cells via cell receptor angiotensin converting enzyme II (ACE2). In order to 7 dissect the ACE2-expressing cell composition and proportion and explore a potential 8 route of the 2019-nCov infection in digestive system infection, 4 datasets with 9 single-cell transcriptomes of lung, esophagus, gastric, ileum and colon were analyzed. The data showed that ACE2 was not only highly expressed in the lung AT2 cells, esophagus upper and stratified epithelial cells but also in absorptive enterocytes from ileum and colon. These results indicated along with respiratory systems, digestive system is a potential routes for 2019-nCov infection. In conclusion, this study has provided the bioinformatics evidence of the potential route for infection of 2019-nCov in digestive system along with respiratory tract and may have significant impact for our healthy policy setting regards to prevention of 2019-nCoV infection. Introduction At the end of 2019, a rising number of pneumonia patients with unknown pathogen has been emerging in one of largest cities of China,Wuhan, and quickly spread throughout whole country[1]. A novel coronavirus was then isolated from the human airway epithelial cells and was named 2019 novel coronavirus (2019-nCoV)[2]. The complete genome sequences has reveled that 2019-nCoV sharing 86.9% nucleotide sequence identity to a severe acute respiratory syndrome (SARS)-like coronavirus detected in bats (bat-SL-CoVZC45, MG772933.1). This suggested that 2019-nCoV is the species of SARS related coronaviruses (SARSr-CoV) by pairwise protein sequence analysis[2, 3]. As for the clinical manifestations of 2019-nCoV infection, fever and cough are most common symptoms at onset[4, 5]. In addition, it frequently induces severe enteric",
+    "funding": [
+        {}
+    ]
+}

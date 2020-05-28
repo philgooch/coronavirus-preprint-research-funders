@@ -1,0 +1,54 @@
+{
+    "title": "Novel Immunoglobulin Domain Proteins Provide Insights into Evolution and Pathogenesis Mechanisms of SARS-Related Coronaviruses",
+    "keywords": [
+        "Coronavirus",
+        "COVID-19",
+        "SARS",
+        "ORF8",
+        "Immunoglobin",
+        "Evolution",
+        "Pathogenicity",
+        "Immune 33 evasion"
+    ],
+    "author": "Theresa Schneider",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biology, College of Arts and Sciences, Saint Louis University, MO 63110 12",
+        "School of Medicine, Saint Louis University, MO 63110 13",
+        "National Center for Biotechnology Information, National Library of Medicine, National Institutes of",
+        "Health, Bethesda, MD 20894 15",
+        "Program of Bioinformatics and Computational Biology, College of Arts and Sciences, Saint Louis",
+        "University, MO 63110 17",
+        "Corresponding Author: Dapeng Zhang, Ph.D",
+        "National Center for Biotechnology Information (NCBI) with the SARS-CoV-2 genome 62 sequence (NC_045512.2) as a query (12). The program CD-HIT was used for similarity-based clustering 63 (13). A multiple sequence alignment of whole virus genomes was performed by KALIGN (14). Based on 64 the MSA, a similarity plot was constructed by a custom Python script, which calculated the identity 65 between each subject sequence and the SARS-CoV-2 genome sequence based on a custom sliding"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.04.977736",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.04.977736.pdf"
+    },
+    "abstract": "A novel coronavirus (SARS-CoV-2) is the causative agent of an emergent severe respiratory disease (COVID-19) in humans that is threatening to result in a global health crisis. By using genomic, sequence, structural and evolutionary analysis, we show that Alpha- and Beta-CoVs possess several novel families of immunoglobulin (Ig) domain proteins, including ORF8 and ORF7a from SARS-related coronaviruses and two protein groups from certain Alpha-CoVs. Among them, ORF8 is distinguished in being rapidly evolving, possessing a unique insert and a hypervariable position among SARS-CoV-2 genomes in its predicted ligand-binding groove. We also uncover many Ig proteins from several metazoan viruses which are distinct in sequence and structure but share an architecture comparable to that of CoV Ig domain proteins. Hence, we propose that deployment of Ig domain proteins is a widely-used strategy by viruses, and SARS-CoV-2 ORF8 is a potential pathogenicity factor which evolves rapidly to counter the immune response and facilitate the transmission between hosts. 32 KEYWORDS Coronavirus, COVID-19, SARS, ORF8, Immunoglobin, Evolution, Pathogenicity, Immune 33 evasion",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Saint Louis University"
+                }
+            ],
+            "funding-statement": "Z. were supported by Saint Louis University start-up fund"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intramural Research Program of the NIH, National"
+                },
+                {
+                    "funding-source": "Library of Medicine"
+                }
+            ],
+            "funding-statement": "L.A. was supported by the Intramural Research Program of the NIH, National Library of Medicine"
+        }
+    ]
+}

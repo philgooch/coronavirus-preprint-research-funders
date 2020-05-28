@@ -1,0 +1,16 @@
+{
+    "abstract": "The coronavirus disease 2019 (COVID-19) has become a public health emergency of international concern affecting 201 countries and territories around the globe. As of April 4, 2020, it has caused a pandemic outbreak with more than 11,16,643 confirmed infections and more than 59,170 reported deaths worldwide. The main focus of this paper is two-fold: (a) generating short term (real-time) forecasts of the future COVID-19 cases for multiple countries; (b) risk assessment (in terms of case fatality rate) of the novel COVID-19 for some profoundly affected countries by finding various important demographic characteristics of the countries along with some disease characteristics. To solve the first problem, we presented a hybrid approach based on autoregressive integrated moving average model and Wavelet-based forecasting model that can generate short-term (ten days ahead) forecasts of the number of daily confirmed cases for Canada, France, India, South Korea, and the UK. The predictions of the future outbreak for different countries will be useful for the effective allocation of health care resources and will act as an early-warning system for government policymakers. In the second problem, we applied an optimal regression tree algorithm to find essential causal variables that significantly affect the case fatality rates for different countries. This data-driven analysis will necessarily provide deep insights into the study of early risk assessments for 50 immensely affected countries.",
+    "author": "Tanujit Chakraborty; Indrajit Ghosh",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059311",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059311"
+    },
+    "title": "Real-time forecasts and risk assessment of novel coronavirus (COVID-19) cases: A data-driven analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received."
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Multiple expression assessments of ACE2 and TMPRSS2 SARS-CoV-",
+    "date": 2020,
+    "author": "Xiaohan Ren, Xiyi Wei, Guangyao Li, Shancheng Ren, Xinglin Chen, Tongtong Zhang, Xu Zhang, Zhongwen Lu, Zebing You, Shangqian Wang,#, Chao Qin,#, Ninghong Song,# and Zengjun Wang",
+    "affiliations": [
+        "Department of Urology, the First Affiliated Hospital of Nanjing Medical University, Nanjing, 210029, China",
+        "Department of Urology, Shanghai Changhai Hospital, Second Military Medical University, Shanghai, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.08.083618",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.08.083618.pdf"
+    },
+    "abstract": "Background: Since December 2019, the novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), first spread quickly in Wuhan, China, then globally. From previously published evidence, ACE2 and TMPRSS2, are both pivotal entry molecules that enable cellular infection by SARS-CoV-2. Meanwhile, increased expression of pro-inflammatory cytokines, or a \u201ccytokine storm,\u201d is associated with multiple organ dysfunction syndrome that is often observed in critically ill patients. Methods: We investigated the expression pattern of ACE2 and TMPRSS2 in major organs in the human body, especially under specific disease conditions. Multiple sequence alignment of ACE2 in different species was used to explain animal susceptibility. Moreover, the cell-specific expression patterns of ACE2 and cytokine receptors in the urinary tract were assessed using single-cell RNA sequencing (scRNA-seq). Additional biological relevance was determined through Gene Set Enrichment Analysis (GSEA) using an ACE2 specific signature. Results: Our results revealed that ACE2 and TMPRSS2 were highly expressed in genitourinary organs. ACE2 was highly and significantly expressed in the kidney among individuals with chronic kidney diseases or diabetic nephropathy. In single cells, ACE2 was primarily enriched in gametocytes in the testis, and renal proximal tubules. The receptors for pro-inflammatory cytokines, especially IL6ST, were remarkably concentrated in endothelial cells, macrophages, and spermatogonial stem cells in the testis, and renal endothelial cells, which suggested the occurrence of alternative damaging mechanisms via autoimmune attacks. Conclusions: This study provided new insights into the pathogenicity mechanisms of SARS-CoV2 that underlie the clinical manifestations observed in the human testis and kidney. These observations might substantially facilitate the development of effective treatments for this rapidly spreading disease.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Jiangsu Province",
+                    "award-id": [
+                        "WSN-0"
+                    ]
+                },
+                {
+                    "funding-source": "Six Talent Peaks Project\u201d",
+                    "award-id": [
+                        "WSN-011"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81672531,81972386"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Jiangsu Province \u201cSix Talent Peaks Project\u201d (WSN-011), by the National Natural Science Foundation of China (grant number 81672531,81972386)"
+        }
+    ]
+}

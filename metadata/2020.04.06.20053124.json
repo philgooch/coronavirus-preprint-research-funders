@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: India is the second-largest population in the world, and it is not well equipped, hitherto, in the scenario of the global pandemic, SARS-CoV-2 could impart a devastating impact on the Indian population. Only way to respond against this critical condition is by practicing large-scale social distancing. India lock down for 21 days, however, till 7 April 2020, SARS-CoV-2 positive cases were growing exponentially, which raises the concerns if the number of reported and actual cases are similar. Methods: We use Lasso Regression with \u03b1=0.12 and Polynomial features of degree 2 to predict the growth factor. Also, we predicted Logistic curve using the Prophet Python. Further, using the growth rate to logistic, and carrying capacity is 20000 allowed us to calculate the maximum cases and new cases per day. Results: We found the predicted growth factor with a standard deviation of 0.3443 for the upcoming days. When the growth factor becomes 1.0, which is known as Inflection point, it will be safe to state that the rate is no longer exponential. The estimated time to reach the inflection point is between 15-20 April. At that time, the estimated number of total positive cases will be over 12500, if lockdown remains continue. Conclusions: Our analysis suggests that there is an urgent need to take action to extend the period of lockdown and allocate enough resources, including personnel, beds, and intensive care facilities, to manage the situation in the next few days and weeks. Otherwise, the outbreak in India can reach the level of the USA or Italy or could be worse than these countries within a few days or weeks, given the size of the population and lack of resources.\nCompeting Interest Statement",
+    "author": "Syed Azmal Ali; Jitender Singh Virk; Gurjeet Kaur",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20053124",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20053124"
+    },
+    "title": "Recent update on COVID-19 in India: Is locking down the country enough?",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors"
+        }
+    ]
+}

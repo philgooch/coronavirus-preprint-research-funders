@@ -1,0 +1,55 @@
+{
+    "abstract": "The current epidemic of COVID-19 is unparalleled in recent history as are the social distancing interventions that have led to a significant halt on the economic and social life of so many countries. However, there is very little empirical evidence about which social distancing measures have the most impact. We report a quasi-experimental study of the impact of various interventions for control of the outbreak. Data on case numbers and deaths were taken from the daily published figures by the European Centre for Disease Control and dates of initiation of various control strategies from the Institute of Health Metrics and Evaluation website and published sources. Our primary analyses were modelled in R using Bayesian generalised additive mixed models (GAMM). We found that closure of education facilities, prohibiting mass gatherings and closure of some non-essential businesses were associated with reduced incidence whereas stay at home orders, closure of all non-businesses and requiring the wearing of facemasks or coverings in public was not associated with any independent additional impact. Our results could help inform strategies for coming out of lockdown.",
+    "author": "Julii Suzanne Brainard; Steve Rushton; Paul Raymond Hunter; Felipe Colon-Gonzalez",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20088260",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20088260"
+    },
+    "title": "Impact of non-pharmaceutical interventions against COVID-19 in Europe: a quasi-experimental study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Professor Hunter and Dr Brainard"
+                },
+                {
+                    "funding-source": "National Institute for Health Research Health Protection Research Unit",
+                    "award-id": [
+                        "NIHR HPRU"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR HPRU)"
+                },
+                {
+                    "funding-source": "Emergency Preparedness and Response"
+                },
+                {
+                    "funding-source": "College London in"
+                },
+                {
+                    "funding-source": "Public Health England"
+                },
+                {
+                    "funding-source": "University of East Anglia"
+                }
+            ],
+            "funding-statement": "Professor Hunter and Dr Brainard were funded by the National Institute for Health Research Health Protection Research Unit (NIHR HPRU) in Emergency Preparedness and Response at King\u0092s College London in partnership with Public Health England (PHE), in collaboration with the University of East Anglia"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Dr Col\u00f3n-Gonz\u00e1lez"
+                },
+                {
+                    "funding-source": "UK Space Agency Dengue Mosquito Simulation from Satellites",
+                    "award-id": [
+                        "D-MOSS"
+                    ]
+                }
+            ],
+            "funding-statement": "Dr Col\u00f3n-Gonz\u00e1lez is funded by the UK Space Agency Dengue Mosquito Simulation from Satellites (D-MOSS) project"
+        }
+    ]
+}

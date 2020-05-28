@@ -1,0 +1,26 @@
+{
+    "abstract": "Since the first outbreak in China, the Coronavirus Disease 2019 (COVID-19) has rapidly spread around the world. Iran was one of the first countries outside of China to report infections with COVID-19. With nearly 100 exported cases to various other countries, it has since been the epicentre of the outbreak in the Middle east. By examining the age-stratified COVID-19 case fatality rates across the country and 14 university hospitals in Tehran, we find that, in younger age groups, the reported cases on 13/03/2020 only capture less than 10% of symptomatic cases in the population. This indicates significant levels of under-reporting in Iran. Using the 18 full-genome sequences from cases with a travel history or link to Iran, as well as the one full genome sequence obtained from within the country, we estimate the time to the most recent common ancestor of sequences which suggests the likely start of the outbreak on 21/01/2020 (95% HPD: 05/12/2019 - 14/02/2020) with an approximate doubling time of 3.07 (95% HPD: 1.68 - 16.27). Also, based on known exported cases to Oman, Kuwait, Lebanon, and China, we estimate the outbreak size on 25 February and 6 March to be around 13,700 (95% CI: 7,600 - 33,300) and 60,500 (43,200 - 209,200), respectively. Knowing the size of the outbreak at two time points and the typical doubling times associated with the COVID-19 epidemics in countries across Europe and North America, we can independently verify that the likely start of epidemic in Iran is around 15/01/2020 (27/12/2019 - 24/01/2020). Our assessment of the fate of the epidemic based on current levels of non-pharmaceutical interventions implemented by the government suggests upward of 10 million cases (IQR: 6.7M - 18M) and 100,000 ICU beds required (IQR: 77K - 140K) during the peak of the epidemic with more than 100,000 cumulative deaths (IQR: 180K - 240K). We also predict a peak in demand for ICU beds on 21/04/2020 (IQR: 06/04/2020 - 23/05/2020). The large span of the peak of the ICU demand is a result of two separate peaks, with the first occurring at around 15/4/2020 and the second in approximately a months time. The latter is also expected to last longer and is based on the relatively relaxed social distancing measures in place. The exact magnitude and timing of the peaks strictly depends on levels of interventions and can change significantly upon new information or change of policy. We caution that a lack of, or relaxed, stringent intervention measures, during a period of highly under-reported spread, would likely lead to the healthcare system becoming overwhelmed in the next few months.",
+    "author": "Stefan Dascalu; Alice Ledda; Luca Ferretti; Bardia Hejazi; Mahan Ghafari; Aris Katzourakis; Arman Karshenas",
+    "date": 2020,
+    "doi": "10.1101/2020.04.18.20070904",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.18.20070904"
+    },
+    "title": "Ongoing outbreak of COVID-19 in Iran: challenges and signs of concern",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Mahan Ghafari and Stefan Dascalu"
+                },
+                {
+                    "funding-source": "Biotechnology and Biological Science Research Council",
+                    "award-id": [
+                        "BB/M011224/1"
+                    ]
+                }
+            ],
+            "funding-statement": "Mahan Ghafari and Stefan Dascalu are funded by the Biotechnology and Biological Science Research Council (BBSRC), grant number BB/M011224/1"
+        }
+    ]
+}

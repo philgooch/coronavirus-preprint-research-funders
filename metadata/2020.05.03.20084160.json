@@ -1,0 +1,16 @@
+{
+    "abstract": "Serology-based tests have become a key public health element in the COVID-19 pandemic to assess the degree of herd immunity that has been achieved in the population. These tests differ between one another in several ways. Here, we conducted a systematic review and meta-analysis of the diagnostic accuracy of currently available SARS-CoV-2 serological tests, and assessed their real-world performance under scenarios of varying proportion of infected individuals. We included independent studies that specified the antigen used for antibody detection and used quantitative methods. We identified nine independent studies, of which six were based on commercial ELISA or CMIA/CLIA assays, and three on in-house tests. Test sensitivity ranged from 68% to 93% for IgM, from 65% to 100% for IgG, and from 83% to 98% for total antibodies. Random-effects models yielded a summary sensitivity of 82% (95%CI 75-88%) for IgM, and 85% for both IgG (95%CI 73-93%) and total antibodies (95%CI 74-94%). Specificity was very high for most tests, and its pooled estimate was 98% (95%CI 92-100%) for IgM and 99% (95%CI 98-100%) for both IgG and total antibodies. The heterogeneity of sensitivity and specificity across tests was generally high (I2\u226450%). In populations with a low prevalence (\u22645%) of seroconverted individuals, the positive predictive value would be \u226488% for most assays, except those reporting perfect specificity. Our data suggest that the use of serological tests for large-scale prevalence surveys (or to grant \"immunity passports\") are currently only justified in hard-hit regions, while they should be used with caution elsewhere.",
+    "author": "Saverio Caini; John Paget; Pier Giuseppe Pelicci; Federica Corso; Sara Raimondi; Luca Mazzarella; Federica Bellerba; Federica Facciotti; Domenico Palli; Sara Gandini; Angelica Diaz-Basabe; Paolo Vineis; Gioacchino Natoli",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20084160",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20084160"
+    },
+    "title": "Meta-analysis of diagnostic performance of serological tests for SARS-CoV-2 antibodies and public health implications",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

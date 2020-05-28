@@ -1,0 +1,29 @@
+{
+    "title": "protein-sol pKa: prediction of electrostatic frustration, with application to coronaviruses",
+    "author": "Max Hebditch, and Jim Warwicker,* 1School of Biological Sciences, Faculty of Biology, Medicine and Health, Manchester Institute of Biotechnology, 131 Princess St, Manchester M, 7DN, UK",
+    "date": 2020,
+    "affiliations": [
+        "School of Biological Sciences, Faculty of Biology, Medicine and Health, Manchester Institute of Biotechnology, 131 Princess St, Manchester M1 7DN, UK"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.21.053967",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.21.053967.pdf"
+    },
+    "abstract": "Evolution couples differences in ambient pH to biological function through protonatable groups, in particular those that switch from buried to exposed and alter protonation state in doing so. We present a tool focusing on structure-based discovery and display of these groups. Since prediction of buried group pKas is computationally intensive, solvent accessibility of ionisable groups is displayed, from which the user can iteratively select pKa calculation centers. Results are color-coded, with emphasis on buried groups. Utility is demonstrated with coronaviruses, which exhibit variable dependence on the acidic pH of the endocytotic pathway. After benchmarking with variants of murine hepatitis virus, a pair of conserved histidine residues are identified that are predicted to be electrostatically frustrated at acidic pH in a common structural core of pre- and post-fusion coronavirus spike proteins. We suggest that an intermediate expanded conformation at endosomal pH could relax the frustration, allowing histidine protonation, and facilitating conformational conversion. This tool is available at http://www.protein-sol.manchester.ac.uk/pka/.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK EPSRC",
+                    "award-id": [
+                        "EP/N024796/1"
+                    ]
+                }
+            ],
+            "funding-statement": "This work has been supported by the UK EPSRC (grant EP/N024796/1)."
+        }
+    ]
+}

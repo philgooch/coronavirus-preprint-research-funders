@@ -1,0 +1,39 @@
+{
+    "title": "In Vitro Inhibition of SARS-CoV-2 Infection by Bovine Lactoferrin",
+    "author": "Carlos Marques",
+    "date": 2020,
+    "affiliations": [
+        "Departamento de Patologia, Centro de Ci\u00eancias Biol\u00f3gicas e da Sa\u00fade, Universidade do Estado do Par\u00e1, Bel\u00e9m, PA, Brazil",
+        "Instituto Oswaldo Cruz, Funda\u00e7\u00e3o Oswaldo Cruz, Rio de Janeiro, RJ, Brazil",
+        "Instituto de Tecnologia em Imunobiol\u00f3gicos, Funda\u00e7\u00e3o Oswaldo Cruz, Rio de Janeiro, RJ, Brazil",
+        "Coordena\u00e7\u00e3o de Preven\u00e7\u00e3o",
+        "Vigil\u00e2ncia, Instituto Nacional de C\u00e2ncer Jos\u00e9 Alencar Gomes da Silva, Rio de Janeiro, RJ, Brazil",
+        "Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia",
+        "Tecnologia do Rio de Janeiro, Rio de Janeiro, RJ, Brazil",
+        "Departamento de Bioqu\u00edmica, Instituto Biom\u00e9dico, Universidade Federal do Estado do Rio de Janeiro, Rio de Janeiro, RJ, Brazil"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.13.093781",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.13.093781.pdf"
+    },
+    "abstract": "Since its emergence in late 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been posing a serious threat to public health worldwide as the causative agent of coronavirus disease 2019 (COVID19). Now distributed in a pandemic pattern, this disease still lacks an effective drug treatment with low toxicity, leading pharmaceutical companies and research labs to work against time to find a candidate molecule to efficiently treat the affected patients. Due to the well-known broad-spectrum antimicrobial activity of the lactoferrin protein, we sought to verify whether its bovine form (bLf) would also be effective in vitro against SARS-CoV-2. Using an antiviral assay based on quantitative reverse transcription-polymerase chain reaction (qRT-PCR), we found that bLf reduced progeny virus yield by up to ~84,6% in African green monkey kidney epithelial cells (Vero E6) and ~68,6% in adenocarcinomic human alveolar basal epithelial cells (A549) at 1 mg/mL, a concentration previously shown to have low cytotoxicity. Therefore, our preliminary data suggest that bLf has the potential to constitute a biochemical approach to fight the new coronavirus pandemic.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding Information This"
+                },
+                {
+                    "funding-source": "Universidade Federal do Estado do Rio de Janeiro"
+                },
+                {
+                    "funding-source": "Funda\u00e7\u00e3o Oswaldo Cruz"
+                }
+            ],
+            "funding-statement": "Funding Information This work was supported by grants from Universidade Federal do Estado do Rio de Janeiro (UNIRIO) and Funda\u00e7\u00e3o Oswaldo Cruz (FIOCRUZ). These funding sources had no role in study design or collection, analysis and interpretation of data."
+        }
+    ]
+}

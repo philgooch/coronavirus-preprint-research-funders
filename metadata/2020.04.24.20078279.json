@@ -1,0 +1,16 @@
+{
+    "abstract": "We estimate an actual number of infected cases in Palestine based on the 18-day effect from infection to death. We find that the number of cases in April 22 varies between 506 and 2 026 infected cases. We also focus on the reproductive number in Palestine based on population dynamics with two SEIR models. Dataset is from 5 March to 22 April 2020. With a transmission rate equal to 4.55 106, on May 22, the simulations predict 11 014 total infected cases in the optimistic scenario and 113 171 in the worst one. The crest of the pandemic is from 22 to 27 May 2020. The reproductive number R0 is equal to 1.54 for a fixed fraction of 0.6 of symptomatic cases that are reported and for a removal rate of 7. Palestinian COVID-19 mortality number is equal to 6 per million. It is small compared to countries neighboring Palestine. The infected number is equal to 88.4 per million, which is less than most of its neighbors. The basic reproduction number is still greater than 1. Changes to the transmission rate (over time) would be advisable, to fall R0 below the critical threshold.",
+    "author": "Ines Abdeljaoued-Tej",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078279",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078279"
+    },
+    "title": "COVID-19 data analysis and modeling in Palestine",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding support in the work presented"
+        }
+    ]
+}

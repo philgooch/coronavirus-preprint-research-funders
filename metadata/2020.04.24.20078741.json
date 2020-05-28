@@ -1,0 +1,31 @@
+{
+    "abstract": "Chloroquine has attracted intense attention as a potential clinical candidate for prevention and treatment of COVID-19 based on reports of in-vitro efficacy against SARS-CoV-2. While the pharmacokinetic-pharmacodynamic (PK-PD) relationship of chloroquine is well established for malaria, there is sparse information regarding its dose-effect relationship in the context of COVID-19. Here, we explore the PK-PD relationship of chloroquine for COVID-19 by modelling both achievable systemic and pulmonary drug concentrations. Our data indicate that the standard anti-malarial treatment dose of 25mg/kg over three days does not deliver sufficient systemic drug exposures for the inhibition of viral replication. In contrast, PK predictions of chloroquine in the lungs using in-vivo data or human physiologically-based PK models, suggest that doses as low as 3mg/kg/day for 3 days could deliver exposures that are significantly higher than reported antiviral-EC90s for up to a week. Moreover, if pulmonary exposure is a driver for prevention, simulations show that chronic daily dosing of chloroquine may be unnecessary for prophylaxis purposes. Instead, once weekly doses of 5mg/kg would be sufficient to achieve a continuous cover of therapeutically active pulmonary exposures. These findings reveal a highly compartmentalised distribution of chloroquine in man that may significantly affect its therapeutic potential against COVID-19. The systemic circulation is shown as one site where chloroquine exposure is insufficient to inhibit SARS-CoV-2 replication. However, if therapeutic activity is driven by pulmonary exposure, it should be possible to reduce the chloroquine dose to safe levels. Carefully designed randomized controlled trials are urgently required to address these outstanding issues.",
+    "author": "Henry Pertinez; Steve Ward; W. David Hong; Paul O'Neill; Ghaith Aljayyoussi; Rajith Rajoli; Shaun Pennington; Giancarlo Biagini; Andrew Owen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078741",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078741"
+    },
+    "title": "Modelling of Systemic versus Pulmonary Chloroquine Exposure in Man for COVID-19 Dose Selection",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "MR/S00467X/1 G.A.B."
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported in part by the Medical Research Council (MR/S00467X/1 G.A.B. and S.A.W.)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "MRC Skills Development Fellowship"
+                }
+            ],
+            "funding-statement": "G.A. acknowledges funding from the MRC Skills Development Fellowship"
+        }
+    ]
+}

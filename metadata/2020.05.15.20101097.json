@@ -1,0 +1,16 @@
+{
+    "abstract": "Background. The burden of the coronavirus disease 2019 (COVID-19) pandemic has been geographically disproportionate. Certain weather factors and population characteristics are thought to drive transmission, but studies examining these factors are limited. We aimed to identify weather, sociodemographic, and geographic drivers of COVID-19 at the global scale using a comprehensive collection of country/territory-level data, and to use discovered associations to estimate the timing of community transmission. Methods. We examined COVID-19 cases and deaths reported up to May 2, 2020 across 205 countries and territories in relation to weather data collected from capital cities for the eight weeks prior to and four weeks after the date of the first reported case, as well as country/territory-level population, geographic, and planetary data. We performed univariable and multivariable regression modeling and odds ratio analyses to investigate associations with COVID-19 cases, deaths, and epidemic growth rate. We also conducted maximum likelihood analysis to estimate the timing of initial community spread. Findings. Lower temperature (p<0.0001), lower humidity (p=0.006), higher altitude (p=0.0080), higher percentage of urban population (p<0.0001), increased air travelers (p=0.00019), and higher prevalence of obesity (p<0.0001) were strong independent predictors of national COVID-19 incidence, mortality, and epidemic growth rate. Temperature at 5-7 weeks before the first reported case best predicted epidemic growth, suggesting that significant community transmission was occurring on average 1-2 months prior to detection. Interpretation. The results of this ecologic analysis demonstrate that global COVID-19 burden and timing of country-level epidemic growth can be predicted by weather and population factors. In particular, we find that cool, dry, and higher altitude environments, as well as more urban and obese populations, may be conducive to more rapid epidemic spread. Funding sources: None.",
+    "author": "Philip L. Bulterys; Michelle A. Bulterys; Nicole Y. Leung",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20101097",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20101097"
+    },
+    "title": "Predictors of COVID-19 incidence, mortality, and epidemic growth rate at the country level",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None."
+        }
+    ]
+}

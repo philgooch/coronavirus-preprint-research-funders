@@ -1,0 +1,35 @@
+{
+    "abstract": "SARS-CoV-2 has recently been detected in feces, which indicates that wastewater may be used to monitor viral prevalence in the community. Here we use two different sampling methods to monitor SARS-CoV-2 in wastewater over a 17-day period and sequencing is used to infer viral ancestry. While SARS-CoV-2 is detected over the entire time course, viral RNA has been steadily decreasing over the last week, suggesting that state mandated social isolation is having a measurable impact on containment of the outbreak.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Institutes of Health (1R35GM134867), the Montana State University Agricultural Experimental Station, the MJ Murdock Charitable Trust, the Gianforte Foundation and the MSU Office of the Vice President for Research"
+    ],
+    "author": "Anna Nemudraia; Murat Buyukyoruk; Artem Nemudryi; Royce Wilkinson; Blake Wiedenheft; Tanner Wiegand; Kevin Surya",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20066746",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20066746"
+    },
+    "title": "Temporal detection and phylogenetic assessment of SARS-CoV-2 in municipal wastewater",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "1R35GM134867"
+                    ]
+                },
+                {
+                    "funding-source": "Montana State University Agricultural Experimental Station,"
+                },
+                {
+                    "funding-source": "MJ Murdock Charitable Trust,"
+                },
+                {
+                    "funding-source": "Gianforte Foundation and the MSU Office of the Vice President for Research"
+                }
+            ],
+            "funding-statement": "This work was supported by the National Institutes of Health (1R35GM134867), the Montana State University Agricultural Experimental Station, the MJ Murdock Charitable Trust, the Gianforte Foundation and the MSU Office of the Vice President for Research"
+        }
+    ]
+}

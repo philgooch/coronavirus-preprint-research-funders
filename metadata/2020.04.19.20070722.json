@@ -1,0 +1,16 @@
+{
+    "abstract": "The high numbers of COVID-19 patients developing severe respiratory failure has placed exceptional demands on ICU capacity around the world. Understanding the determinants of ICU mortality is important for surge planning and shared decision making. We used early data from the COVID-19 Hospitalisation in England Surveillance System (from the start of data collection 8th February -14th April 2020) to look for factors associated with ICU outcome in the hope that information from such timely analysis may be actionable before the outbreak peak. Immunosuppression, chronic renal disease and age were key determinants of ICU mortality in a proportional hazards mixed effects model. However variation in site-stratified random effects were even more appreciable, suggesting substantial between-centre variability in mortality. Notwithstanding possible ascertainment and lead-time effects, these early results motivate comparative effectiveness research to understand the origin of such differences and optimise surge ICU provision.",
+    "author": "Ari Ercole; Ahmed M Alaa; Mihaela van der Schaar; Zhaozhi Qian",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20070722",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20070722"
+    },
+    "title": "Between-centre differences for COVID-19 ICU mortality from early data in England",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Not externally funded"
+        }
+    ]
+}

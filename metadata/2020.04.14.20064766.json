@@ -1,0 +1,16 @@
+{
+    "abstract": "After the spread of SARS-CoV-2 epidemic out of China, the world approaches the 2 million declared infected cases and death toll rises well above the 100 thousand. The course of pandemic evolution has shown great differences among countries and not much is yet known about the level of generated immunity, which might appear not to be long-lasting. In this situation, management of a recurrent disease seems to be a plausible scenario that countries worldwide will have to face, before effective drugs or a vaccine appear. Spain in Europe, appears to be the first country deciding to partly lift the strict social distancing regulations imposed. Whether this action may lead to further epidemic recrudescence, to a following second wave of cases or conversely, help return to previous normality, is a subject of great debate and interest to all other countries affected by COVID-19. Here we applied a modified SEIR compartmental model accounting for the spread of infection during the latent period, in which we had also incorporated effects of social confinement. We now modify this previous model configuration to mimic potential post-confinement scenarios, by simulating from instant massive liberation of different portions of the confined population, up to a more gradual incorporation of people to work. Results show how current lockdown conditions should be extended at least two weeks more to prevent a new escalation in cases and deaths, as well as a larger second wave occurring in just a few months. Conversely, best-case scenario in terms of lower COVID-19 incidence and casualties should gradually incorporate workers back in a daily proportion at most 30 percent higher than that of previous confinement. The former should begin not earlier than by the end of April and it would represent approximately 600 thousand people or a 3.75% rate for the whole of Spain.",
+    "author": "Xavier Rodo; Leonardo Lopez",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20064766",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20064766"
+    },
+    "title": "The end of the social confinement in Spain and the COVID-19 re-emergence risk",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding received"
+        }
+    ]
+}

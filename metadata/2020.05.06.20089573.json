@@ -1,0 +1,51 @@
+{
+    "abstract": "IMPORTANCE How to appropriately care for patients who become PCR-negative for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is still not known. Patients who have recovered from coronavirus disease 2019 (COVID-19) could profoundly impact the health care system if a subset were to be PCR-positive again with reactivated SARS-CoV-2. OBJECTIVE To characterize a single center COVID-19 cohort with and without recurrence of PCR positivity, and develop an algorithm to identify patients at high risk of retest positivity after discharge to inform health care policy and case management decision-making. DESIGN, SETTING, AND PARTICIPANTS A cohort of 414 patients with confirmed SARS-CoV-2 infection, at The Second Affiliated Hospital of Southern University of Science and Technology in Shenzhen, China from January 11 to April 23, 2020. EXPOSURES Polymerase chain reaction (PCR) and IgM-IgG antibody confirmed SARS-CoV-2 infection. MAIN OUTCOMES AND MEASURES Univariable and multivariable statistical analysis of the clinical, laboratory, radiologic image, medical treatment, and clinical course of admission/quarantine/readmission data to develop an algorithm to predict patients at risk of recurrence of PCR positivity. RESULTS 16.7% (95CI: 13.0%-20.3%) patients retest PCR positive 1 to 3 times after discharge, despite being in strict quarantine. The driving factors in the recurrence prediction model included: age, BMI; lowest levels of the blood laboratory tests during hospitalization for cholinesterase, fibrinogen, albumin, prealbumin, calcium, eGFR, creatinine; highest levels of the blood laboratory tests during hospitalization for total bilirubin, lactate dehydrogenase, alkaline phosphatase; the first test results during hospitalization for partial pressure of oxygen, white blood cell and lymphocyte counts, blood procalcitonin; and the first test episodic Ct value and the lowest Ct value of the nasopharyngeal swab RT PCR results. Area under the ROC curve is 0.786. CONCLUSIONS AND RELEVANCE This case series provides clinical characteristics of COVID-19 patients with recurrent PCR positivity, despite strict quarantine, at a 16.7% rate. Use of a recurrence prediction algorithm may identify patients at high risk of PCR retest positivity of SARS-CoV-2 and help modify COVID-19 case management and health policy approaches.",
+    "affiliations": [
+        "National Natural Science Foundation of China (Jia Huang)"
+    ],
+    "author": "Lifei Wang; Zhaoqin Wang; Chunyang Li; Le Zheng; Hayley A Gans; Doff B McElhinney; Wei Zhang; Fanlan Cen; Yingxia Liu; Guowei Wang; KuoYuan Hwa; Yajing Huang; Song Wang; Qing He; Wei Zheng; Yvonne A Maldonado; Xiaoming Yao; Manhua Ye; Jinxiu Li; Jiuxin Qu; Jiayu Liao; Yang Yang; Manfei Zeng; Harvey J Cohen; Tengfei Zhu; Shiying Hao; Jing Yuan; Zheng Zhang; Fangfan Ye; Lu Tian; Liping Qiu; Xuefeng B Ling; Zhen Li; Lei Liu; Zehui Xu; Jun Chen; Jia Huang; Henry Chubb; John C Whitin; Karl G Sylvester; Scott R Ceresnak; Ying Lu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20089573",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20089573"
+    },
+    "title": "Recurrence of SARS-CoV-2 PCR positivity in COVID-19 patients: a single center experience and potential implications",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Sanming Project of Medicine in Shenzhen",
+                    "award-id": [
+                        "Jia Huang"
+                    ]
+                },
+                {
+                    "funding-source": "Jia Huang)"
+                },
+                {
+                    "funding-source": "Bill & Melinda Gates Foundations",
+                    "award-id": [
+                        "Lei Liu",
+                        "81501651"
+                    ]
+                },
+                {
+                    "funding-source": "Lei Liu)",
+                    "award-id": [
+                        "81501651"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "Jia Huang"
+                    ]
+                },
+                {
+                    "funding-source": "Jia Huang)"
+                }
+            ],
+            "funding-statement": "This work was supported by grants SZSM201812065 from Sanming Project of Medicine in Shenzhen (Jia Huang); Bill & Melinda Gates Foundations (Lei Liu); and 81501651 from National Natural Science Foundation of China (Jia Huang)"
+        }
+    ]
+}

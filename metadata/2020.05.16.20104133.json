@@ -1,0 +1,16 @@
+{
+    "abstract": "In this study, we analyze the number of infected positive cases of COVID-19 outbreak with concern to lockdown in India in the time window of February 11th 2020 to Jun 30th 2020. The first case in India was reported in Kerala on January 30th 2020. To break the chain of spreading, Government announced a nationwide lockdown on March 24th 2020, which is increased two times. The Ongoing lockdown 3.0 is over on May 18th, 2020. We derived how the lockdown relaxation is going to impact on containment of the outbreak. Here the Exponential Growth Model has been used to derive the epidemic curve based on the data collected from February 11th 2020, to May 11th 2020, and the Machine Learning based Linear Regression model that gives the epidemic curve to predict the cases with the continuous flow of the lockdown. We estimate that if the lockdown is continuing with more relaxation, then the estimated infected cases reach up to 1.16 crores by June 30th 2020, and the lockdown would persist with current restriction, then the expected predicted infected cases are 5.69 lacs. The Exponential Growth Model and the Linear Regression Model are advantageous to predict the number of affected cases of COVID-19. These models can be used for forecasting in long term intervals. It shows from our result that lockdown with certain restriction has a vital role in preventing the spreading of this epidemic in this current situation.",
+    "author": "Aashirbad Maharana; Ajit Kumar Pasayat; Satya Narayan Pati",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20104133",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20104133"
+    },
+    "title": "Predicting the COVID-19 positive cases in India with concern to Lockdown by using Mathematical and Machine Learning based Models",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no funding was received</strong>"
+        }
+    ]
+}

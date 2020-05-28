@@ -1,0 +1,16 @@
+{
+    "abstract": "INTRODUCTION The COVID-19 pandemic is an ongoing event disrupting lives, health systems, and economies worldwide. Clear data about the pandemic's impact is lacking, namely regarding mortality. This work aims to study the impact of COVID-19 through the analysis of all-cause mortality data made available by different European countries, and to critique their mortality surveillance data. METHODS European countries that had publicly available data about the number of deaths per day/week were selected (England and Wales, France, Italy, Netherlands and Portugal). Two different methods were selected to estimate the excess mortality due to COVID19: (DEV) deviation from the expected value from homologue periods, and (RSTS) remainder after seasonal time series decomposition. We estimate total, age- and gender-specific excess mortality. Furthermore, we compare different policy responses to COVID-19. RESULTS Excess mortality was found in all 5 countries, ranging from 10.6% in Portugal (DEV) to 98.5% in Italy (DEV). Furthermore, excess mortality is higher than COVID-attributed deaths in all 5 countries. DISCUSSION The impact of COVID-19 on mortality appears to be larger than officially attributed deaths, in varying degrees in different countries. Comparisons between countries would be useful, but large disparities in mortality surveillance data could not be overcome. Unreliable data, and even a lack of cause-specific mortality data undermine the understanding of the impact of policy choices on both direct and indirect deaths during COVID-19. European countries should invest more on mortality surveillance systems to improve the publicly available data.",
+    "author": "Pedro Rodrigues; Jorge Felix-Cardoso; Ricardo Cruz-Correia; Henrique Vasconcelos",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083147",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083147"
+    },
+    "title": "Excess mortality during COVID-19 in five European countries and a critique of mortality analysis data",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

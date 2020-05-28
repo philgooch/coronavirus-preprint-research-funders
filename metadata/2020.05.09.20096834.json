@@ -1,0 +1,19 @@
+{
+    "abstract": "Clinical prediction scores support the assessment of patients in the emergency setting to determine the need for further diagnostic and therapeutic steps. During the current COVID-19 pandemic, physicians in emergency rooms (ER) of many hospitals have a considerably higher patient load and need to decide within a short time frame whom to hospitalize. Based on our clinical experiences in dealing with COVID-19 patients at the University Hospital Zurich, we created a triage score with the acronym AIFELL consisting of clinical, radiological and laboratory findings. The score was then evaluated in a retrospective analysis of 122 consecutive patients with suspected COVID-19 from March until mid-April 2020. Descriptive statistics, Student's t-test, ANOVA and Scheffe's post hoc analysis confirmed the diagnostic power of the score. The results suggest that the AIFELL score has potential as a triage tool in the ER setting intended to select probable COVID-19 cases for hospitalization in spontaneously presenting or referred patients with acute respiratory symptoms.",
+    "affiliations": [
+        "University Hospital Zurich and is only accessible by the study team as approved by the IRB. Anonymized data for statistical analysis is also on servers of the University Hospital Zurich"
+    ],
+    "author": "Edouard Battegay; Enrico Ullmann; Ian Levenfus; Mac\u00e9 M. Schuurmans",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20096834",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20096834"
+    },
+    "title": "Triage tool for suspected COVID-19 patients in the emergency room: AIFELL score",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "abstract": "We replicate a recent study by the Imperial College COVID-19 Response Team (Flaxman et al, 2020) that estimates both the effective reproductive number, Rt, of the current COVID-19 epidemic in 11 European countries, and the impact of different nonpharmaceutical interventions that have been implemented to try to contain the epidemic. We improve on their estimation by using data from the number of patients in intensive care, which provides two advantages over the number of deaths: first, it can be used to construct a signal with less bias: as the healthcare system of a country reaches saturation, the mortality rate would be expected to increase, which would bias the estimates of Rt and of the impact of measures implemented to contain the epidemic; and second, it is a signal with less lag, as the time from onset of symptoms to ICU admission is shorter than the time from onset to death. The intensive care signal we use is not just the number of people in ICU, as this would also be biased if the healthcare system has reached saturation. Instead, we estimate the daily demand of intensive care, as the sum of two components: the part that is satisfied (new ICU admissions) and the part that is not (which results in excess mortality). Thanks to the advantages of this ICU signal in terms of timeliness and bias, we find that most of the countries in the study have already reached Rt<1 with 95% confidence (Italy, Spain, Austria, Denmark, France, Norway and Switzerland, but not Belgium or Sweden), whereas the original methodology of Flaxman et al (2020), even with updated data, would only find Rt<1 with 95% confidence for Italy and Switzerland.",
+    "affiliations": [
+        "Imperial College COVID-19 Response Team (Flaxman et al, 2020) that estimates both the effective reproductive number, Rt, of the current COVID-19 epidemic in"
+    ],
+    "author": "David Tinajero; Samuel Hurtado",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063388",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063388"
+    },
+    "title": "Using ICU data to improve the real-time estimation of the effective reproductive number of the COVID-19 epidemic in 9 European countries",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

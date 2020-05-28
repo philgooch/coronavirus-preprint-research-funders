@@ -1,0 +1,43 @@
+{
+    "title": "Afucosylated immunoglobulin G responses are a hallmark of enveloped virus infections and show an exacerbated phenotype in COVID-19",
+    "author": "Myrthe Sonneveld",
+    "date": 2020,
+    "affiliations": [
+        "Department of Experimental Immunohematology, Sanquin Research, Amsterdam, The",
+        "Netherlands, and Landsteiner Laboratory, Amsterdam UMC, University of Amsterdam",
+        "Amsterdam, The Netherlands",
+        "Center for Proteomics and Metabolomics, Leiden University Medical Center, Leiden, The"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.18.099507",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.18.099507.pdf"
+    },
+    "abstract": "28 IgG antibodies are crucial for protection against invading pathogens. A highly conserved N29 linked glycan within the IgG-Fc-tail, essential for IgG function, shows variable composition in humans. Afucosylated IgG variants are already used in anti-cancer therapeutic antibodies for their elevated binding and killing activity through Fc receptors (Fc\u03b3RIIIa). Here, we report that afucosylated IgG which are of minor abundance in humans (~6% of total IgG) are specifically formed against surface epitopes of enveloped viruses after natural infections or immunization with attenuated viruses, while protein subunit immunization does not elicit this low fucose response. This can give beneficial strong responses, but can also go awry, resulting in a cytokine-storm and immune-mediated pathologies. In the case of COVID-19, the critically ill show aggravated afucosylated-IgG responses against the viral spike protein. In contrast, those clearing the infection unaided show higher fucosylation levels of the anti39 spike protein IgG. Our findings indicate antibody glycosylation as a potential factor in 40 inflammation and protection in enveloped virus infections including COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The ACS"
+                },
+                {
+                    "funding-source": "Netherlands HIV Monitoring Foundation and"
+                },
+                {
+                    "funding-source": "Netherlands National Institute for Public Health and the Environment"
+                }
+            ],
+            "funding-statement": "The ACS is part of the Netherlands HIV Monitoring Foundation and financially supported by the Netherlands National Institute for Public Health and the Environment"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": []
+                }
+            ],
+            "funding-statement": "Funding: This work was supported by LSBR grants number 1229 and 1908 (to"
+        }
+    ]
+}

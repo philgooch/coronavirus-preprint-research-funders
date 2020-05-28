@@ -1,0 +1,35 @@
+{
+    "abstract": "On January 23, 2020, China quarantined Wuhan to contain an emerging coronavirus (COVID-19). We estimated the probability of transportation of COVID-19 from Wuhan to 369 cities in China before the quarantine. The expected risk is >50% in 130 (95% CI 89-190) cities and >99% in the 4 largest metropolitan areas of China.\nCompeting Interest Statement",
+    "affiliations": [
+        "Laboratoire d\u0092Excellence Integrative Biology of Emerging Infectious Diseases program (Grant ANR-10-LABX-62-IBEID) and European Union V.E.O project. None of the authors or their institutions at any time received payment or services from a third party for any aspect of the submitted work"
+    ],
+    "author": "Benjamin J Cowling; Lauren Ancel Meyers; Simon Cauchemez; Xiaoke Xu; Xianwen Wang; Zhanwei Du; Ling Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.01.28.20019299",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.01.28.20019299"
+    },
+    "title": "Risk for Transportation of 2019 Novel Coronavirus (COVID-19) from Wuhan to Cities in China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "U01 GM087719"
+                    ]
+                },
+                {
+                    "funding-source": "Excellence Integrative Biology of Emerging Infectious Diseases",
+                    "award-id": [
+                        "ANR-10-LABX-62-IBEID"
+                    ]
+                },
+                {
+                    "funding-source": "European Union V.E."
+                }
+            ],
+            "funding-statement": "We acknowledge the financial support from NIH (U01 GM087719), the Investissement d\u0092Avenir program, the Laboratoire d\u0092Excellence Integrative Biology of Emerging Infectious Diseases program (Grant ANR-10-LABX-62-IBEID) and European Union V.E.O project"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Coronavirus Disease 2019 (COVID-19) is currently a global pandemic, and the early screening of COVID-19 is one of the key factors for COVID-19 control and treatment. Here, we developed and validated chest CT-based imaging biomarkers for COVID-19 patient screening. We identified the vasculature-like signals from CT images and found that, compared to healthy and community acquired pneumonia (CAP) patients, the COVID-19 patients revealed significantly higher abundance of these signals. Furthermore, unsupervised feature learning leads to the discovery of clinical-relevant imaging biomarkers from the vasculature-like signals for accurate and sensitive COVID-19 screening that has been double-blindly validated in an independent hospital (sensitivity: 0.941, specificity: 0.904, AUC: 0.952). Our findings could open a new avenue to assist screening of COVID-19 patients.",
+    "author": "Miao Xiong; Xiao-Ping Liu; Xuanyu Mao; Hang Chang; Xu Yang; Jian-Hua Mao; Shuang Zhou",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103473",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103473"
+    },
+    "title": "Development and validation of chest CT-based imaging biomarkers for early stage COVID-19 screening",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no external funding was received</strong>"
+        }
+    ]
+}

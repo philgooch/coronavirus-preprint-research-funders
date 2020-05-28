@@ -1,0 +1,78 @@
+{
+    "title": "Structural and biochemical characterization of nsp12-nsp7-nsp8 core polymerase complex from COVID-19 virus",
+    "author": "PENG Ruchao",
+    "date": 2020,
+    "affiliations": [
+        "CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology",
+        "Chinese Academy of Sciences, Beijing, China",
+        "Savaid Medical School, University of Chinese Academy of Sciences, Beijing, China",
+        "Center for Influenza Research and Early-warning (CASCIRE), CAS-TWAS Center of",
+        "Excellence for Emerging Infectious Disease (CEEID), Chinese Academy of Sciences, Beijing",
+        "Chongqing Key Laboratory of Neurodegenerative Diseases, Chongqing General Hospital",
+        "University of Chinese Academy of Sciences, Chongqing, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.23.057265",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.23.057265.pdf"
+    },
+    "abstract": "The ongoing global pandemic of coronavirus disease 2019 (COVID-19) has caused huge number of human deaths. Currently, there are no specific drugs or vaccines available for this virus. The viral polymerase is a promising antiviral target. However, the structure of COVID-19 virus polymerase is yet unknown. Here, we describe the near-atomic resolution structure of its core polymerase complex, consisting of nsp12 catalytic subunit and nsp7-nsp8 cofactors. This structure highly resembles the counterpart of SARS-CoV with conserved motifs for all viral RNA-dependent RNA polymerases, and suggests the mechanism for activation by cofactors. Biochemical studies revealed reduced activity of the core polymerase complex and lower thermostability of individual subunits of COVID28 19 virus as compared to that of SARS-CoV. These findings provide important insights into RNA synthesis by coronavirus polymerase and indicate a well adaptation of COVID-19 virus towards humans with relatively lower body temperatures than the natural bat hosts.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Strategic Priority Research Program of CAS",
+                    "award-id": [
+                        "XDB29010000"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Major Project",
+                    "award-id": [
+                        "2018ZX10101004"
+                    ]
+                },
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2020YFC0845900"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "82041016",
+                        "81802010"
+                    ]
+                },
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation"
+                }
+            ],
+            "funding-statement": "This study was supported by the Strategic Priority Research Program of CAS (XDB29010000), the National Science and Technology Major Project (2018ZX10101004), National Key Research and Development Program of China (2020YFC0845900), the National Natural Science Foundation of China (NSFC) (82041016, and 81802010), and a grant from the Bill & Melinda Gates Foundation"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science and Technology Major Project",
+                    "award-id": [
+                        "2018ZX09711003"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81802007"
+                    ]
+                }
+            ],
+            "funding-statement": "M.W. is supported by the National Science and Technology Major Project (2018ZX09711003) and National Natural Science Foundation of China (NSFC) (81802007)"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "R.P. is supported by the"
+        }
+    ]
+}

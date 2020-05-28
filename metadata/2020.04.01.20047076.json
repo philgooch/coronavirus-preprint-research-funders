@@ -1,0 +1,70 @@
+{
+    "abstract": "Highlights: 1) 1.6 million molecular diagnostic tests identified 1,388 SARS-CoV-2 infections in Guangdong Province, China, by 19th March 2020; 2) Virus genomes can be recovered using a variety of sequencing approaches from a range of patient samples. 3) Genomic analyses reveal multiple virus importations into Guangdong Province, resulting in genetically distinct clusters that require careful interpretation. 4) Large-scale epidemiological surveillance and intervention measures were effective in interrupting community transmission in Guangdong Summary: COVID-19 is caused by the SARS-CoV-2 coronavirus and was first reported in central China in December 2019. Extensive molecular surveillance in Guangdong, China's most populous province, during early 2020 resulted in 1,388 reported RNA positive cases from 1.6 million tests. In order to understand the molecular epidemiology and genetic diversity of SARS-CoV-2 in China we generated 53 genomes from infected individuals in Guangdong using a combination of metagenomic sequencing and tiling amplicon approaches. Combined epidemiological and phylogenetic analyses indicate multiple independent introductions to Guangdong, although phylogenetic clustering is uncertain due to low virus genetic variation early in the pandemic. Our results illustrate how the timing, size and duration of putative local transmission chains were constrained by national travel restrictions and by the province's large-scale intensive surveillance and intervention measures. Despite these successes, COVID-19 surveillance in Guangdong is still required as the number of cases imported from other countries is increasing.",
+    "affiliations": [
+        "Oxford Martin School. V.H. is supported by the Biotechnology and Biological Sciences Research Council (BBSRC) (grant number BB/M010996/1). NRF acknowledges funding from",
+        "Wellcome Trust and Royal Society Sir Henry Dale Fellowship (204311/Z/16/Z) and from",
+        "Medical Research Council and FAPESP award (MR/S0195/1). This work was supported by the Wellcome Trust ARTIC network"
+    ],
+    "author": "Nick Loman; Sarah Francois; Nuno R Faria; John T McCrone; Runyu Yuan; Tao Liu; Minfeng Liang; Wenzhe Su; Changwen Ke; Verity Hill; Huifang Lin; Jianpeng Xiao; Jing Lu; Jianxiong Hu; Ruilin Sun; Wenjun Ma; Jinju Peng; Oliver Pybus; Min Kang; Jun Liu; Kuibiao Li; Jiufeng Sun; Shisong Fang; Lilian Zeng; Louis du Plessis; Moritz U G Kraemer; Pingping Zhou; Xi Tang; Chuming Liang; Tie Song; Lina Yi; Juan Su; Andrew Rambaut; Zhe Liu; Huanying Zheng; Wei Li; Ru Bai; Josh Quick; Bo Peng; Jayna Raghwani; Qianling Xiong",
+    "date": 2020,
+    "doi": "10.1101/2020.04.01.20047076",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.01.20047076"
+    },
+    "title": "Genomic epidemiology of SARS-CoV-2 in Guangdong Province, China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Guangdong Provincial Novel Coronavirus Scientific and Technological Project",
+                    "award-id": [
+                        "2020111107001"
+                    ]
+                },
+                {
+                    "funding-source": "Science and Technology Planning Project of Guangdong",
+                    "award-id": [
+                        "2018B020207006"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants from Guangdong Provincial Novel Coronavirus Scientific and Technological Project (2020111107001), Science and Technology Planning Project of Guangdong (2018B020207006)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Biotechnology and Biological Sciences Research Council",
+                    "award-id": [
+                        "BB/M010996/1"
+                    ]
+                }
+            ],
+            "funding-statement": "V.H. is supported by the Biotechnology and Biological Sciences Research Council (BBSRC) (grant number BB/M010996/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust and Royal Society Sir Henry Dale Fellowship",
+                    "award-id": [
+                        "204311/Z/16/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Medical Research Council and FAPESP",
+                    "award-id": [
+                        "MR/S0195/1"
+                    ]
+                }
+            ],
+            "funding-statement": "NRF acknowledges funding from a Wellcome Trust and Royal Society Sir Henry Dale Fellowship (204311/Z/16/Z) and from a Medical Research Council and FAPESP award (MR/S0195/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust ARTIC"
+                }
+            ],
+            "funding-statement": "This work was supported by the Wellcome Trust ARTIC network"
+        }
+    ]
+}

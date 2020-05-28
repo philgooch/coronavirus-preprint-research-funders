@@ -1,0 +1,36 @@
+{
+    "abstract": "Coronavirus disease 2019 (COVID-19) has spread globally, and medical resources become insufficient in many regions. Fast diagnosis of COVID-19, and finding high-risk patients with worse prognosis for early prevention and medical resources optimization is important. Here, we proposed a fully automatic deep learning system for COVID-19 diagnostic and prognostic analysis by routinely used computed tomography. We retrospectively collected 5372 patients with computed tomography images from 7 cities or provinces. Firstly, 4106 patients with computed tomography images and gene information were used to pre-train the DL system, making it learn lung features. Afterwards, 1266 patients (924 with COVID-19, and 471 had follow-up for 5+ days; 342 with other pneumonia) from 6 cities or provinces were enrolled to train and externally validate the performance of the deep learning system. In the 4 external validation sets, the deep learning system achieved good performance in identifying COVID-19 from other pneumonia (AUC=0.87 and 0.88) and viral pneumonia (AUC=0.86). Moreover, the deep learning system succeeded to stratify patients into high-risk and low-risk groups whose hospital-stay time have significant difference (p=0.013 and 0.014). Without human-assistance, the deep learning system automatically focused on abnormal areas that showed consistent characteristics with reported radiological findings. Deep learning provides a convenient tool for fast screening COVID-19 and finding potential high-risk patients, which may be helpful for medical resource optimization and early prevention before patients show severe symptoms.",
+    "affiliations": [
+        "National Natural Science Foundation of China under Grant Nos. 81930053 and 81227901, the National Key R&D Program of China under Grant Nos. 2017YFA0205200. We thank all the colleagues in CAS key laboratory of Molecular Imaging, and collaborative hospitals for data collection"
+    ],
+    "author": "Meiyun Wang; Yongbei Zhu; Xiaohu Li; Jie Tian; Hongjun Li; Xiaoming Qiu; Yan Bai; Meng Niu; Liusu Wang; Wei Gong; Yunfei Zha; Shuo Wang; Li Li; Weimin Li; Qingxia Wu; He Yu",
+    "date": 2020,
+    "doi": "10.1101/2020.03.24.20042317",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.24.20042317"
+    },
+    "title": "A Fully Automatic Deep Learning System for COVID-19 Diagnostic and Prognostic Analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81930053",
+                        "81227901"
+                    ]
+                },
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2017YFA0205200"
+                    ]
+                },
+                {
+                    "funding-source": "Molecular Imaging,"
+                }
+            ],
+            "funding-statement": "This paper is supported by the National Natural Science Foundation of China under Grant Nos. 81930053 and 81227901, the National Key R&D Program of China under Grant Nos. 2017YFA0205200. We thank all the colleagues in CAS key laboratory of Molecular Imaging, and collaborative hospitals for data collection."
+        }
+    ]
+}

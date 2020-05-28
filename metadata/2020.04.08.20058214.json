@@ -1,0 +1,43 @@
+{
+    "abstract": "Background: A novel coronavirus strain, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), emerged in China in late 2019. The resulting disease, Coronavirus Disease 2019 (COVID-2019), soon became a pandemic. This study aims to characterize key attributes of the epidemiology of this infection in China. Methods: An age-stratified mathematical model was constructed to describe the transmission dynamics and estimate the age-specific differences in the biological susceptibility to the infection, age-assortativeness in transmission mixing, case fatality rate (CFR), and transition in rate of infectious contacts (and reproduction number R0) following introduction of mass interventions. Results: The model estimated the infectious contact rate in early epidemic at 0.59 contacts per day (95% uncertainty interval (UI)=0.48-0.71). Relative to those 60-69 years of age, susceptibility to the infection was only 0.06 in those \u226419 years, 0.34 in 20-29 years, 0.57 in 30-39 years, 0.69 in 40-49 years, 0.79 in 50-59 years, 0.94 in 70-79 years, and 0.88 in \u226580 years. The assortativeness in transmission mixing by age was very limited at 0.004 (95% UI=0.002-0.008). Final CFR was 5.1% (95% UI=4.8-5.4%). R0 rapidly declined from 2.1 (95% UI=1.8-2.4) to 0.06 (95% UI=0.05-0.07) following onset of interventions. Conclusion: Age appears to be a principal factor in explaining the patterns of COVID-19 transmission dynamics in China. The biological susceptibility to the infection seems limited among children, intermediate among young to mid-age adults, but high among those >50 years of age. There was no evidence for differential contact mixing by age, consistent with most transmission occurring in households rather than in schools or workplaces.\nCompeting Interest Statement",
+    "affiliations": [
+        "Qatar National Research Fund (a member of Qatar Foundation). GM acknowledges support by UK Research and Innovation as part of the Global Challenges Research Fund, grant number ES/P010873/1. The statements made herein are solely the responsibility of the authors. The authors are also grateful for infrastructure support provided by the Biostatistics, Epidemiology, and Biomathematics Research Core at Weill Cornell Medicine-Qatar"
+    ],
+    "author": "Monia Makhoul; Hiam Chemaitelly; Shaheen Seedat; Laith J Abu-Raddad; Susanne F Awad; Ghina R Mumtaz; Houssein H Ayoub",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20058214",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20058214"
+    },
+    "title": "Characterizing key attributes of the epidemiology of COVID-19 in China: Model-based estimations",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Qatar National Research Fund",
+                    "award-id": [
+                        "a member of Qatar Foundation"
+                    ]
+                },
+                {
+                    "funding-source": "Qatar Foundation)"
+                }
+            ],
+            "funding-statement": "This publication was made possible by NPRP grant number 9-040-3-008 and NPRP grant number 12S-0216-190094 from the Qatar National Research Fund (a member of Qatar Foundation)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Research and Innovation"
+                },
+                {
+                    "funding-source": "Global Challenges Research Fund,",
+                    "award-id": [
+                        "ES/P010873/1"
+                    ]
+                }
+            ],
+            "funding-statement": "GM acknowledges support by UK Research and Innovation as part of the Global Challenges Research Fund, grant number ES/P010873/1"
+        }
+    ]
+}

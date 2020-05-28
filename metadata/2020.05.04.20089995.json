@@ -1,0 +1,29 @@
+{
+    "abstract": "SARS-CoV-2, commonly termed COVID-19 for the illness it causes, has infected >3.2 million people, including >220,000 deaths. Human milk IgG originates mainly from blood, therefore a SARS-CoV-2-reactive antibody (Ab) response in milk would be expected (1). However, IgG comprises only ~2% of milk Ab, with most milk Abs originating from mucosa-associated lymphatic tissue (1). Therefore, the extent of the milk immune response to SARS-CoV-2 is unknown (2). This response is critical for infants and young children, who tend not to suffer greatly from COVID-19 pathology but are likely responsible for significant virus transmission (3-5). Perhaps even more significant is the fact that milk Abs could be purified and used as a COVID-19 therapeutic, given they would likely be of the secretory (s) class and highly resistant to proteolytic degradation in the respiratory tissue (2, 6). In this preliminary report, 15 milk samples obtained from donors previously-infected with SARS-CoV-2 as well as 10 negative control samples obtained prior to December 2019 were tested for reactivity to the Receptor Binding Domain (RBD) of the SARS-CoV-2 Spike protein by ELISAs measuring IgA, IgG, IgM, and secretory Ab. Eighty percent of samples obtained post-COVID-19 exhibited IgA reactivity, and all these samples were also positive for secretory Ab reactivity, suggesting the IgA is predominantly sIgA. COVID-19 group mean OD values of undiluted milk were significantly greater for IgA (p<0.0001), secretory-type Abs (p<0.0001), and IgG (p=0.017), but not for IgM, compared to pre-pandemic group mean values. Overall, these data indicate that there is strong sIgA-dominant SARS-CoV-2 immune response in human milk after infection in the majority of individuals, and that a comprehensive study of this response is highly warranted.",
+    "affiliations": [
+        "Icahn School of Medicine at Mount Sinai"
+    ],
+    "author": "Susan Zolla-Pazner; Fatima Amanat; Alisa Fox; Florian Krammer; Jennifer Hahn-Holbrook; Jessica Marino; Rebecca L Powell",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20089995",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20089995"
+    },
+    "title": "Evidence of a significant secretory-IgA-dominant SARS-CoV-2 immune response in human milk following recovery from COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "NICHD and the Icahn School of Medicine"
+                },
+                {
+                    "funding-source": "Mount Sinai"
+                }
+            ],
+            "funding-statement": "The work presented herein was supported by the NIH/NICHD and the Icahn School of Medicine at Mount Sinai"
+        }
+    ]
+}

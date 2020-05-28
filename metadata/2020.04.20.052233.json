@@ -1,0 +1,26 @@
+{
+    "title": "Rapid and quantitative detection of COVID-19 markers in micro-liter sized samples",
+    "author": "Xiaotian Tan, Cory Lin, Jie Zhang, Maung Kyaw Khaing Oo, and Xudong Fan",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biomedical Engineering, University of Michigan, Ann Arbor, MI 48109, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.20.052233",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.20.052233.pdf"
+    },
+    "abstract": "COVID-19 pandemic has caused tens of thousands of deaths and is now a severe threat to global health. Clinical practice has demonstrated that the SARS-CoV-2 S1 specific antibodies and viral antigens can be used as diagnostic and prognostic markers of COVID-19. However, the popular point-of-care biomarker detection technologies, such as the lateral-flow test strips, provide only yes/no information and have very limited sensitivities. Thus, it has a high false negative rate and cannot be used for the quantitative evaluation of patient\u2019s immune response. Conventional ELISA (enzyme-linked immunosorbent assay), on the other hand, can provide quantitative, accurate, and sensitive results, but it involves complicated and expensive instruments and long assay time. In addition, samples need to be sent to centralized labs, which significantly increases the turn-around time. Here, we present a microfluidic ELISA technology for rapid (15-20 minutes), quantitative, sensitive detection of SARS-CoV-2 biomarkers using SARS-CoV-2 specific IgG and viral antigen \u2013 S protein in serum. We also characterized various humanized monoclonal IgG, and identified a candidate with a high binding affinity towards SARS-CoV-2 S1 protein that can serve as the calibration standard of anti-SARS-CoV-2 S1 IgG in serological analyses. Furthermore, we demonstrated that our microfluidic ELISA platform can be used for rapid affinity evaluation of monoclonal anti-S1 antibodies. The microfluidic ELISA device is highly portable and requires less than 10  L of samples for each channel. Therefore, our technology will greatly facilitate rapid and quantitative analysis of COVID-19 patients and vaccine recipients at point-of-care.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Biomedical Engineering"
+                }
+            ],
+            "funding-statement": "The authors thank the financial support from the Department of Biomedical Engineering"
+        }
+    ]
+}

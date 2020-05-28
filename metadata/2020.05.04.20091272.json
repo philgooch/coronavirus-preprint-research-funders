@@ -1,0 +1,44 @@
+{
+    "title": "Spread of Covid-19 in the United States is controlled",
+    "author": "Xiong, Momiao",
+    "date": 2020,
+    "affiliations": [
+        "State Key Laboratory of Genetic Engineering and Innovation Center of Genetics and Development, School of Life Sciences, Fudan University, Shanghai, China",
+        "Human Phenome Institute, Fudan University, Shanghai, China",
+        "The School of Mathematic Sciences, Fudan University, Shanghai, China",
+        "Department of Biostatistics and Data Science, School of Public Health, The University of Texas Health Science Center at Houston, Houston, TX 77030, USA",
+        "Momiao Xiong, Department of Biostatistics and Data Science, School of Public Health, The University of Texas Health Science Center at Houston, P.O. Box 20186, Houston, Texas 77225, (Phone): 713-500-9894, (Fax): 713-500-0900"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.04.20091272",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20091272.pdf"
+    },
+    "abstract": "As of May 1, 2020, the number of cases of Covid-19 in the US passed 1,062,446, interventions to slow down the spread of Covid-19 curtailed most social activities. Meanwhile, an economic crisis and resistance to the strict intervention measures are rising. Some researchers proposed intermittent social distancing that may drive the outbreak of Covid-19 into 2022. Questions arise about whether we should maintain or relax quarantine measures. We developed novel artificial intelligence and causal inference integrated methods for real-time prediction and control of nonlinear epidemic systems. We estimated that the peak time of the Covid-19 in the US would be April 24, 2020 and its outbreak in the US will be over by the end of July and reach 1,551,901 cases. We evaluated the impact of relaxing the current interventions for reopening economy on the spread of Covid-19. We provide tools for balancing the risks of workers and reopening economy.",
+    "keywords": [
+        "Cov-19",
+        "artificial intelligence",
+        "identification of control systems dynamics",
+        "forecasting",
+        "causal inference",
+        "auto-encoder"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding Dr Li Jin"
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "91846302"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding Dr Li Jin was partially supported by National Natural Science Foundation of China (91846302)"
+        }
+    ]
+}

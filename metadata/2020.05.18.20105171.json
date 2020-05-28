@@ -1,0 +1,39 @@
+{
+    "abstract": "We studied the host transcriptional response to SARS-CoV-2 by performing metagenomic sequencing of upper airway samples in 238 patients with COVID-19, other viral or non-viral acute respiratory illnesses (ARIs). Compared to other viral ARIs, COVID-19 was characterized by a diminished innate immune response, with reduced expression of genes involved in toll-like receptor and interleukin signaling, chemokine binding, neutrophil degranulation and interactions with lymphoid cells. Patients with COVID-19 also exhibited significantly reduced proportions of neutrophils and macrophages, and increased proportions of goblet, dendritic and B-cells, compared to other viral ARIs. Using machine learning, we built 26-, 10- and 3-gene classifiers that differentiated COVID-19 from other acute respiratory illnesses with AUCs of 0.980, 0.950 and 0.871, respectively. Classifier performance was stable at low viral loads, suggesting utility in settings where direct detection of viral nucleic acid may be unsuccessful. Taken together, our results illuminate unique aspects of the host transcriptional response to SARS-CoV-2 in comparison to other respiratory viruses and demonstrate the feasibility of COVID-19 diagnostics based on patient gene expression.",
+    "affiliations": [
+        "National Heart, Lung, and Blood Institute (1K23HL138461-01A1)",
+        "UCSF Clinical Microbiology Laboratory and assess demographics and basic clinical features from the Epic-based electronic health record"
+    ],
+    "author": "Priya A Prasad; Sachin J Shah; Charles Langelier; Kirsten N Kangerlaris; Stephanie A Christenson; Amy Kistler; Norma Neff; Samantha Hao; Michelle Tan; Jack Kamm; Sabrina A Mann; Joseph L DeRisi; G. Renuka Kumar; Eran Mick; Kalani Ratnasiri; Carolyn S Calfee; Angela Oliveira Pisco; Jennifer M Babik; Paula Hayakawa Serpa; Lucy M Li; Natasha Spottiswoode; Angela M Detweiler; Gloria Castaneda",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20105171",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20105171"
+    },
+    "title": "Upper airway gene expression differentiates COVID-19 from other acute respiratory illnesses and reveals suppression of innate immune responses by SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chan Zuckerberg Biohub,"
+                },
+                {
+                    "funding-source": "Chan Zuckerberg Initiative,"
+                },
+                {
+                    "funding-source": "National Heart, Lung",
+                    "award-id": [
+                        "1K23HL138461-01"
+                    ]
+                },
+                {
+                    "funding-source": "Blood Institute",
+                    "award-id": [
+                        "1K23HL138461-01A1"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by the Chan Zuckerberg Biohub, the Chan Zuckerberg Initiative, and the National Heart, Lung, and Blood Institute (1K23HL138461-01A1)"
+        }
+    ]
+}

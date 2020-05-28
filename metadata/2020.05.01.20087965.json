@@ -1,0 +1,16 @@
+{
+    "abstract": "We analyse global data for COVID-19 deaths and recoveries and show that outbreak severity displays a striking latitude relationship with a northern hemisphere bias. Transmission rates can be explained by seasonal weather conditions, but this does not account for observed variations in fatality rates. Many factors point to Vitamin D as a candidate explanation but historical controversy surrounding Vitamin D studies and the lack of a coherent framework for causal inference has hampered acceptance of this explanation despite a wealth of evidence in its favour. We analyse global COVID-19 data using Causal Inference, constructing two contrasting directed acyclic graph (DAG) models, one causal and one acausal, and set out clearly multiple predictions made by each model. We show that observed data strongly match predictions made by the causal model but largely contradict those of the acausal model. We explore historic evidence further supporting the causal model. We review biochemical mechanisms that may explain the various ways in which vitamin D acts. We detail the mechanisms by which the SARS-Cov-2 virus causes the disease and known pathways that involve Vitamin D and show how these both protect against viral infection, as well as ameliorating disease symptoms in COVID-19 and other respiratory diseases. We examine the factors that govern confidence in causal inference models and conclude that a high level of confidence in a causal beneficial role for Vitamin D is justified.",
+    "author": "Joanna C Byers; Gareth Davies; Attila R Garami",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087965",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087965"
+    },
+    "title": "Evidence Supports a Causal Model for Vitamin D in COVID-19 Outcomes",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was conducted pro bono as part of an unfunded, independent international response to the pandemic crisis."
+        }
+    ]
+}

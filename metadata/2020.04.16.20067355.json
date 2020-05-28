@@ -1,0 +1,16 @@
+{
+    "abstract": "It was observed that the coldest countries and the eldest in terms of median-age were most distressed by COVID-19 pandemic, while the warmest countries and that have younger-aged population were the least affected. Therefore, this study utilized the non-linear least squares method to estimate the impact of weather temperatures and median age on COVID-19 cases per million in thirty-nine countries divided into two groups. The first group composed of twenty-four countries that announced the first COVID-19 case in January 2020, while the second group contains fifteen countries that witnessed the pandemic for the first time in February of the same year. The study revealed some major findings, which are: COVID-19 cases per million were not significantly affected by weather temperature or the median age in \u201cJanuary-group\u201d countries (after 72.67 days on average), while COVID-19 cases per million increased significantly by decreasing temperatures, and increasing the median age in case of \u201cFebruary-group\u201d countries (after an average of 44.80 days). This means that weather temperature and median age may influence the transmission rates of COVID-19 in its early stages, while weather temperature or median age no longer have effects in the advanced stages of the pandemic.",
+    "author": "Aly Zein Elabdeen Kassem",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067355",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067355"
+    },
+    "title": "Do Weather Temperature and Median-age affect COVID-19 Transmission?",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

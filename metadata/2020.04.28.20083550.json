@@ -1,0 +1,19 @@
+{
+    "abstract": "The coronavirus disease (COVID-19) affecting across the globe. The government of different countries has adopted various policies to contain this epidemic and the most common were social distancing and lockdown. We use a simple log-linear model with intercept and trend break to evaluate whether the measures are effective preventing/slowing down the spread of the disease in Turkey. We estimate the model parameters from the Johns Hopkins University (2020) epidemic data between 15th March and 16th April 2020. Our analysis revealed that the measures can slow down the outbreak. We can reduce the epidemic size and prolong the time to arrive at the epidemic peak by seriously following the measures suggested by the authorities.",
+    "affiliations": [
+        "Johns Hopkins University (2020) epidemic data between 15th March and 16th April 2020. Our analysis revealed that the measures can slow down the outbreak. We can reduce the epidemic size and prolong the time to arrive at the epidemic peak by seriously following the measures suggested by the authorities"
+    ],
+    "author": "irfan civcir",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083550",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083550"
+    },
+    "title": "Evaluation of Turkish social distancing measures on the spread of COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding"
+        }
+    ]
+}

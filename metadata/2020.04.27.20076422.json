@@ -1,0 +1,26 @@
+{
+    "abstract": "In absence of a vaccine or antiviral drugs for the COVID-19 pandemic, it becomes urgent to test for positiveness to the virus as many people as possible, in order to detect early outbreaks of the infection. Present testing solutions are based on the extraction of RNA from patients using oropharyngeal (OP) and nasopharyngeal (NP) swabs, and then testing with real-time PCR for the presence of specific RNA filaments identifying the virus. This approach is limited by the availability of reactants, trained technicians and laboratories. To speed up the testing procedures, some attempts have been done on group testing, which means that the swabs of multiple patients are grouped together and tested. Here we propose to use this technique in conjunction with a combinatorial replication scheme in which each patient is allocated in two or more groups to reduce total numbers of tests and to allow testing of even larger numbers of people. Under mild assumptions, a 13x average reduction of tests can be achieved.",
+    "affiliations": [
+        "Program at the National Research University Higher School of Economics (HSE). The results of Mario R. Guarracino were obtained with the support of the RFFI grant"
+    ],
+    "author": "Algirdas Lan\u010dinskas; Mario R. Guarracino; Julius \u017dilinskas",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20076422",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20076422"
+    },
+    "title": "Pooled testing with replication: a mass testing strategy for the COVID-19 pandemics",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Basic Research Program"
+                },
+                {
+                    "funding-source": "National Research University Higher School of Economics"
+                }
+            ],
+            "funding-statement": "The work of Mario R. Guarracino was prepared within the framework of the Basic Research Program at the National Research University Higher School of Economics (HSE). The results of Mario R. Guarracino were obtained with the support of the RFFI grant."
+        }
+    ]
+}

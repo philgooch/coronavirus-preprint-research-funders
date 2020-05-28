@@ -1,0 +1,36 @@
+{
+    "title": "Optimized qRT-PCR approach for the detection of intra- and extra-cellular SARS-CoV-2 RNAs",
+    "author": "Marek Widera",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Medical Virology, University Hospital Frankfurt am Main, Goethe University, Frankfurt am Main, Germany"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.20.052258",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.20.052258.pdf"
+    },
+    "abstract": "The novel coronavirus SARS-CoV-2 is the causative agent of the acute respiratory disease COVID-19 which has become a global concern due to its rapid spread. Meanwhile, increased demand in testing has led to shortage of reagents, supplies, and compromised the performance of diagnostic laboratories in many countries. Both the world health organization (WHO) and the Center for Disease Control and Prevention (CDC) recommend multi-step RT-PCR assays using multiple primer and probe pairs, which might complicate interpretation of the test results especially for borderline cases. In this study, we describe an alternative RT-PCR approach for the detection of SARS-CoV-2 RNA that can be used for the probe-based detection of clinical isolates in the diagnostics as well as in research labs using a low cost SYBR green method. For the evaluation, we used samples from patients with confirmed SARS-CoV-2 infection and performed RT-PCR assays along with successive dilutions of RNA standards to determine the limit of detection. We identified an M-gene binding primer and probe pair highly suitable for quantitative detection of SARS-CoV-2 RNA for diagnostic and research purposes.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "qRT-PCR detection",
+        "test protocol",
+        "corona virus"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Deutsche Forschungsgemeinschaft",
+                    "award-id": [
+                        "WI 5086/1\u20131"
+                    ]
+                }
+            ],
+            "funding-statement": "M.W. was supported by the Deutsche Forschungsgemeinschaft (DFG, WI 5086/1\u20131)."
+        }
+    ]
+}

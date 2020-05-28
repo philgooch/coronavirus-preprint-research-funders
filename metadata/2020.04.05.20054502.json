@@ -1,0 +1,60 @@
+{
+    "abstract": "Objectives: United States government scientists estimate that COVID-19 may kill tens of thousands of Americans. Many of the pre-existing conditions that increase the risk of death in those with COVID-19 are the same diseases that are affected by long-term exposure to air pollution. We investigated whether long-term average exposure to fine particulate matter (PM2.5) is associated with an increased risk of COVID-19 death in the United States. Design: A nationwide, cross-sectional study using county-level data. Data sources: COVID-19 death counts were collected for more than 3,000 counties in the United States (representing 98% of the population) up to April 22, 2020 from Johns Hopkins University, Center for Systems Science and Engineering Coronavirus Resource Center. Main outcome measures: We fit negative binomial mixed models using county-level COVID-19 deaths as the outcome and county-level long-term average of PM2.5 as the exposure. In the main analysis, we adjusted by 20 potential confounding factors including population size, age distribution, population density, time since the beginning of the outbreak, time since state issuance of the stay-at-home order, hospital beds, number of individuals tested, weather, and socioeconomic and behavioral variables such as obesity and smoking. We included a random intercept by state to account for potential correlation in counties within the same state. We conducted more than 68 additional sensitivity analyses. Results: We found that an increase of only 1 \u03bcg/m3 in PM2.5 is associated with an 8% increase in the COVID-19 death rate (95% confidence interval [CI]: 2%, 15%). The results were statistically significant and robust to secondary and sensitivity analyses. Conclusions: A small increase in long-term exposure to PM2.5 leads to a large increase in the COVID-19 death rate. Despite the inherent limitations of the ecological study design, our results underscore the importance of continuing to enforce existing air pollution regulations to protect human health both during and after the COVID-19 crisis. The data and code are publicly available so our analyses can be updated routinely.",
+    "affiliations": [
+        "Group at Harvard University; (2) the Research Computing Environment supported by the Institute for Quantitative Social Science in the Faculty of Arts and Sciences at Harvard University. The authors would like to thank Lena Goodwin and Stacey Tobin for editorial assistance in the preparation of this manuscript"
+    ],
+    "author": "Danielle Braun; Xiao Wu; Rachel C. Nethery; Benjamin M. Sabath; Francesca Dominici",
+    "date": 2020,
+    "doi": "10.1101/2020.04.05.20054502",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.05.20054502"
+    },
+    "title": "Exposure to air pollution and COVID-19 mortality in the United States: A nationwide cross-sectional study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "ES024332-01A1",
+                        "P50MD010428",
+                        "ES024012",
+                        "ES026217",
+                        "ES028033",
+                        "MD012769",
+                        "4953-RFA14-3/16-4"
+                    ]
+                },
+                {
+                    "funding-source": "USEPA",
+                    "award-id": [
+                        "83587201-0",
+                        "RD-83479801"
+                    ]
+                },
+                {
+                    "funding-source": "FAS Division of Science, Research"
+                },
+                {
+                    "funding-source": "Computing Group"
+                },
+                {
+                    "funding-source": "Harvard University;"
+                },
+                {
+                    "funding-source": "Research Computing Environment"
+                },
+                {
+                    "funding-source": "Institute for Quantitative Social Science in the Faculty of Arts and Sciences"
+                },
+                {
+                    "funding-source": "Harvard University. The"
+                },
+                {
+                    "funding-source": "Lena Goodwin and Stacey Tobin for"
+                }
+            ],
+            "funding-statement": "This work was made possible by the support from the NIH grant R01 ES024332-01A1, P50MD010428, ES024012, ES026217, ES028033; MD012769, HEI grant 4953-RFA14-3/16-4, and USEPA grants 83587201-0, RD-83479801. The contents are solely the responsibility of the grantee and do not necessarily represent the official views of the funding agencies. Further, funding agencies do not endorse the purchase of any commercial products or services related to this publication. The computations in this paper were run on (1) the Odyssey cluster supported by the FAS Division of Science, Research Computing Group at Harvard University; (2) the Research Computing Environment supported by the Institute for Quantitative Social Science in the Faculty of Arts and Sciences at Harvard University. The authors would like to thank Lena Goodwin and Stacey Tobin for editorial assistance in the preparation of this manuscript."
+        }
+    ]
+}

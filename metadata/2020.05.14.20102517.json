@@ -1,0 +1,37 @@
+{
+    "abstract": "Background Nasal High Flow (NHF) therapy delivers flows of heated humidified gases up to 60 LPM (litres per minute) via a nasal cannula. Particles of oral/nasal fluid released by patients undergoing NHF therapy may pose a cross-infection risk, which is a potential concern for treating COVID-19 patients. Methods Liquid particles within the exhaled breath of healthy participants were measured with two protocols: (1) high speed camera imaging and counting exhaled particles under high magnification (6 participants) and (2) measuring the deposition of a chemical marker (riboflavin-5-monophosphate) at a distance of 100 and 500 mm on filter papers through which air was drawn (10 participants). The filter papers were assayed with HPLC. Breathing conditions tested included quiet (resting) breathing and vigorous breathing (which here means nasal snorting, voluntary coughing and voluntary sneezing). Unsupported (natural) breathing and NHF at 30 and 60 LPM were compared. Results (1) Imaging: During quiet breathing, no particles were recorded with unsupported breathing or 30 LPM NHF (detection limit for single particles 33 microns). Particles were detected in 2 of 6 participants at 60 LPM quiet breathing at approximately 10% of the rate caused by unsupported vigorous breathing. Unsupported vigorous breathing released the greatest numbers of particles. Vigorous breathing with NHF at 60 LPM, released half the number of particles compared to vigorous breathing without NHF. (2) Chemical marker tests: No oral/nasal fluid was detected in quiet breathing without NHF (detection limit 0.28 microlitres/m3). In quiet breathing with NHF at 60 LPM, small quantities were detected in 4 out of 29 quiet breathing tests, not exceeding 17 microlitres/m3. Vigorous breathing released 200-1000 times more fluid than the quiet breathing with NHF. The quantities detected in vigorous breathing were similar whether using NHF or not. Conclusion During quiet breathing, 60 LPM NHF therapy may cause oral/nasal fluid to be released as particles, at levels of tens of microlitres per cubic metre of air. Vigorous breathing (snort, cough or sneeze) releases 200 to 1000 times more oral/nasal fluid than quiet breathing. During vigorous breathing, 60 LPM NHF therapy caused no statistically significant difference in the quantity of oral/nasal fluid released compares to unsupported breathing. NHF use does not increase the risk of dispersing infectious aerosols above the risk of unsupported vigorous breathing. Standard infection prevention and control measures should apply when dealing with a patient who has an acute respiratory infection, independent of which, if any, respiratory support is being used.",
+    "affiliations": [
+        "University of Kansas and was partly supported by",
+        "University of Canterbury Erskine Fellowship"
+    ],
+    "author": "Sally Gaw; Ronald L Dougherty; Callum JT Spence; Zulkhairi Zainol Abidin; Sally Roberts; Robert Kirton; Philip Rowe; Amelia Gibbs; Mark C Jermy; Yannan Jiang; Jane F O'Donnell; Natalia Kabaliuk; Anjula Mahaliyana",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20102517",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20102517"
+    },
+    "title": "Assessment of dispersion of airborne particles of oral/nasal fluid by high flow nasal cannula therapy",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fisher & Paykel Healthcare Ltd,",
+                    "award-id": [
+                        "Optiflow",
+                        "Airvo/Airvo2"
+                    ]
+                },
+                {
+                    "funding-source": "Malaysian Ministry of Higher Education; RD"
+                },
+                {
+                    "funding-source": "University of Kansas and"
+                },
+                {
+                    "funding-source": "University of Canterbury Erskine Fellowship"
+                }
+            ],
+            "funding-statement": "This study was partially funded by Fisher & Paykel Healthcare Ltd, who also provided the NHF cannulae (Optiflow) and the NHF source (Airvo/Airvo2); ZZA was supported by a scholarship from the Malaysian Ministry of Higher Education; RD was on sabbatical from the University of Kansas and was partly supported by a University of Canterbury Erskine Fellowship"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "abstract": "Infectious disease outbreaks pose a significant threat to human health worldwide. The outbreak of pandemic coronavirus disease 2019 (COVID 2019) has caused a global health emergency. Identification of regions with high risk for COVID 19 outbreak is a major priority of the governmental organizations and epidemiologists worldwide. The aims of the present study were to analyze the risk factors of coronavirus outbreak and identify areas with a high risk of human infection with virus in Fars Province, Iran. A geographic information system (GIS) based machine learning algorithm (MLA), support vector machine (SVM), was used for the assessment of the outbreak risk of COVID 19 in Fars Province, Iran. The daily observations of infected cases was tested in the third-degree polynomial and the autoregressive and moving average (ARMA) models to examine the patterns of virus infestation in the province and in Iran. The results of disease outbreak in Iran were compared with the data for Iran and the world. Sixteen effective factors including minimum temperature of coldest month (MTCM), maximum temperature of warmest month (MTWM), precipitation in wettest month (PWM), precipitation of driest month (PDM), distance from roads, distance from mosques, distance from hospitals, distance from fuel stations, human footprint, density of cities, distance from bus stations, distance from banks, distance from bakeries, distance from attraction sites, distance from automated teller machines (ATMs), and density of villages were selected for spatial modelling. The predictive ability of an SVM model was assessed using the receiver operator characteristic area under the curve (ROC AUC) validation technique. The validation outcome reveals that SVM achieved an AUC value of 0.786 (March 20), 0.799 (March 29), and 86.6 (April 10) a good prediction of change detection. The growth rate (GR) average for active cases in Fars for a period of 41 days was 1.26, whilst it was 1.13 in country and the world. The results of the third-degree polynomial and ARMA models revealed an increasing trend for GR with an evidence of turning, demonstrating extensive quarantines has been effective. The general trends of virus infestation in Iran and Fars Province were similar, although an explosive growth of the infected cases is expected in the country. The results of this study might assist better programming COVID 19 disease prevention and control and gaining sorts of predictive capability would have wide ranging benefits.",
+    "affiliations": [
+        "Shiraz University, Iran, Grant No. 96GRD1M271143"
+    ],
+    "author": "Zakariya Farajzadeh; Hamid Reza Pourghasemi; Sedigheh Babaei; John P Tiefenbacher; Bahram Heidari; Nitheshnirmal Sadhasivam; Soheila Pouyan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083998",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083998"
+    },
+    "title": "Assessment of the outbreak risk, mapping and infestation behavior of COVID-19: Application of the autoregressive and moving average (ARMA) and polynomial models",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Shiraz University, Iran",
+                    "award-id": [
+                        "96GRD1M271143"
+                    ]
+                }
+            ],
+            "funding-statement": "Shiraz University, Iran, Grant No 96GRD1M271143"
+        }
+    ]
+}

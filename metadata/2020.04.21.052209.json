@@ -1,0 +1,43 @@
+{
+    "title": "Recombinant SARS-CoV-2 spike S1-Fc fusion protein induced high levels of neutralizing responses in nonhuman primates",
+    "author": "1. AnyGo Technology Co., LTD, D, New China International Square, 89 Dayangfan Rd, Beijing, China",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Microbiology Chinese Academy of Sciences, China",
+        "ZhenGe Biotechnology Co., LTD, Shanghai, China",
+        "SinoVac, Beijing, China",
+        "Advaccine (Suzhou) Biopharmaceuticals, Co., LTD. Suzhou, Jiangsu, China",
+        "Department of Lab Medine, Medical School of Nanjing University, Nanjing",
+        "Public Health Clinical Center, Fudan University, Shanghai, China *Co-corresponding Authors Le Sun, Ph.D. AnyGo Technology Co., D1117 New China International Square, 89 Dayangfan Rd, Beijing, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.21.052209",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.21.052209.pdf"
+    },
+    "abstract": "The COVID-19 outbreak has become a global pandemic responsible for over 2,000,000 confirmed cases and over 126,000 deaths worldwide. In this study, we examined the immunogenicity of CHO-expressed recombinant SARS-CoV-2 S1-Fc fusion protein in mice, rabbits, and monkeys as a potential candidate for a COVID-19 vaccine. We demonstrate that the S1-Fc fusion protein is extremely immunogenic, as evidenced by strong antibody titers observed by day 7. Strong virus neutralizing activity was observed on day 14 in rabbits immunized with the S1-Fc fusion protein using a pseudovirus neutralization assay. Most importantly, in less than 20 days and three injections of the S1-Fc fusion protein, two monkeys developed higher virus neutralizing titers than a recovered COVID-19 patient in a live SARS-CoV-2 infection assay. Our data strongly suggests that the CHO-expressed SARS-CoV-2 S1-Fc recombinant protein could be a strong candidate for vaccine development against COVID-19.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "Spike protein",
+        "Vaccine"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Grants from Beijing Science and Technology Commission,"
+                },
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation"
+                },
+                {
+                    "funding-source": "Le Sun"
+                }
+            ],
+            "funding-statement": "This work is supported by Research Grants from Beijing Science and Technology Commission, and Bill & Melinda Gates Foundation to Le Sun"
+        }
+    ]
+}

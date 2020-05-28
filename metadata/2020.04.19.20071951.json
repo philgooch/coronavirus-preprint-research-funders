@@ -1,0 +1,26 @@
+{
+    "abstract": "The virus causing COVID-19 has spread rapidly worldwide and threatens millions of lives. It remains unknown if summer weather will reduce its continued spread, thereby alleviating strains on hospitals and providing time for vaccine development. Early insights from laboratory studies of related coronaviruses predicted that COVID-19 would decline at higher temperatures, humidity, and ultraviolet light. Using current, fine-scaled weather data and global reports of infection we developed a model that explained 36% of variation in early growth rates before intervention, with 17% based on weather or demography and 19% based on country-specific effects. We found that ultraviolet light was most strongly associated with lower COVID-19 growth rates. Projections suggest that, in the absence of intervention, COVID-19 will decrease temporarily during summer, rebound by autumn, and peak next winter. However, uncertainty remains high and the probability of a weekly doubling rate remained >20% throughout the summer in the absence of control. Consequently, aggressive policy interventions will likely be needed in spite of seasonal trends.",
+    "author": "Cory Merow; Mark C Urban",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071951",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071951"
+    },
+    "title": "Seasonality and uncertainty in COVID-19 growth rates",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "HDR-1394790"
+                    ]
+                },
+                {
+                    "funding-source": "CM and DEB-1555876"
+                }
+            ],
+            "funding-statement": "NSF awards HDR-1394790 supported CM and DEB-1555876 supported MCU."
+        }
+    ]
+}

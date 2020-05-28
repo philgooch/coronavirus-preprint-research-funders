@@ -1,0 +1,62 @@
+{
+    "title": "Substrate specificity profiling of SARS-CoV-2 Mpro protease provides basis for anti-COVID-19 drug design",
+    "author": "Wioletta Ruta, Katarzyna Groborza, Linlin Zhangb,c, Xinyuanyuan Sunb,c, Mikolaj Zmudzinskia, Rolf Hilgenfeldb,c, Marcin Draga,* aDepartment of Chemical Biology and Bioimaging, Wroclaw University of Science and Technology, Wyb. Wyspianskiego 27, 50-370 Wroclaw, Poland",
+    "date": 2020,
+    "affiliations": [
+        "Department of Chemical Biology and Bioimaging, Wroclaw University of Science and Technology, Wyb. Wyspianskiego 27, 50-370 Wroclaw, Poland",
+        "Institute of Biochemistry, Center for Structural and Cell Biology in Medicine, University of Lubeck, Ratzeburger Allee 160, 23562 Lubeck, Germany",
+        "German Center for Infection Research (DZIF), Hamburg-Lubeck-Borstel-Riems Site, University of Lubeck, 23562 Lubeck, Germany"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.07.981928",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.07.981928.pdf"
+    },
+    "abstract": "In December 2019, the first cases of a novel coronavirus infection were diagnosed in Wuhan, China. Due to international travel and human-to-human transmission, the virus spread rapidly inside and outside of China. Currently, there is no effective antiviral treatment for COVID-19, therefore research efforts are focused on the rapid development of vaccines and antiviral drugs. The SARS-CoV-2 Mpro protease constitutes one of the most attractive antiviral drug targets. To address this emerging problem, we have synthesized a combinatorial library of fluorogenic substrates with glutamine in the P1 position. We used it to determine the substrate preferences of the SARS-CoV and SARS-CoV-2 proteases, using natural and a large panel of unnatural amino acids. The results of our work provide a structural framework for the design of inhibitors as antiviral agents or diagnostic tests.",
+    "keywords": [
+        "cysteine protease",
+        "substrate specificity",
+        "unnatural amino acids"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Drag"
+                },
+                {
+                    "funding-source": "National Science Centre in Poland and the",
+                    "award-id": [
+                        "TEAM/2017-4/32"
+                    ]
+                },
+                {
+                    "funding-source": "Foundation for Polish Science"
+                },
+                {
+                    "funding-source": "European Union"
+                },
+                {
+                    "funding-source": "European Regional Development Fund"
+                }
+            ],
+            "funding-statement": "The Drag laboratory is supported by the National Science Centre in Poland and the \"TEAM/2017-4/32\" project, which is conducted within the TEAM programme of the Foundation for Polish Science cofinanced by the European Union under the European Regional Development Fund"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Work in the Hilgenfeld"
+                },
+                {
+                    "funding-source": "German Center for Infection Research",
+                    "award-id": [
+                        "8011801806"
+                    ]
+                }
+            ],
+            "funding-statement": "Work in the Hilgenfeld laboratory was supported by the German Center for Infection Research (DZIF), TTU 01, grant # 8011801806"
+        }
+    ]
+}

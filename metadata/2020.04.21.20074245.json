@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 has created an interesting discourse among the people of the world particularly regarding preventive measures of infectious diseases. In this paper, the authors forecast the spread of the Corona virus outbreak and study how the reduction of transmission rates influences its decline. The paper makes use of the SIR (Susceptible Infected Recovered) Model which is a deterministic model used in the field of epidemiology-based on differential equations derived from sections of the population. The Basic Reproduction Number (Ro) represents the criticality of the epidemic in numeric terms. Forecasting an epidemic provides insights about the geographic spreading of the disease and the case incidences required to better inform intervention strategists about situations that may occur during the outbreak. Through this research paper, the authors wish to provide an insight into the impact of control measures on the pandemic. By drawing a comparison of three countries and their quarantine measures, observations on the decline of the outbreak are made. Authors intend to guide the intervention strategies of under-resourced countries like India and aid in the overall containment of the outbreak.",
+    "author": "Dhananjay Kalbande; Garima Kaushik; Shaney Mantri; Shrishti Kaushik; B. N. Chaudhari",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20074245",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20074245"
+    },
+    "title": "Analysis of Effectiveness of Quarantine Measures in Controlling COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None."
+        }
+    ]
+}

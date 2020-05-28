@@ -1,0 +1,33 @@
+{
+    "abstract": "The consequences of COVID-19 infection varies substantially based on individual social risk factors and predisposing health conditions. Understanding this variability may be critical for targeting COVID-19 control measures, resources and policies, including efforts to return people back to the workplace. We compiled individual level data from the National Health Information Survey and Quarterly Census of Earnings and Wages to estimate the number of at-risk workers for each US county and industry, accounting for both social and health risks. Nearly 80% of all workers have at least one health risk and 11% are over 60 with an additional health risk. We document important variation in the at-risk population across states, counties, and industries that could provide a strategic underpinning to a staged return to work.",
+    "affiliations": [
+        "National Health Information Survey and Quarterly Census of Earnings and Wages to estimate the number of at-risk workers for each US county and industry, accounting for both social and health risks. Nearly 80% of all workers have at least one health risk and 11% are over 60 with an additional health risk. We document important variation in the at-risk population across states, counties, and industries that could provide a strategic underpinning to a staged return to work",
+        "The National Institute of Allergy and Infectious Diseases (NIH) and the US Agency for International Development (USAID)"
+    ],
+    "author": "Peter Daszak; Sammantha Maher; Eli P Fenichel; Jude Bayham; Peter Britton; Carlos Zambrana-Torrelio; Alexandra E Hill",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063776",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063776"
+    },
+    "title": "A COVID-19 Risk Assessment for the US Labor Force",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Zambrana-Torrelio from EcoHealth Alliance"
+                },
+                {
+                    "funding-source": "The National Institute of Allergy and Infectious Diseases"
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "US Agency for International Development"
+                }
+            ],
+            "funding-statement": "Funding for authors Maher, Daszak, and Zambrana-Torrelio from EcoHealth Alliance is provided by the The National Institute of Allergy and Infectious Diseases (NIH) and the US Agency for International Development (USAID)."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Recently, a wide array of epidemiological models has been developed to guide public health actors in containing the rapid dissemination of the new severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), cause of COVID-19. Despite their usefulness, many epidemiological models recently developed to understand the spread of SARS-CoV-2 and infection rates of COVID-19 fall short as they ignore human mobility, limiting our understanding of the spread of the disease, together with the vulnerability of population centers in a broad scale. We developed a new temporally-explicit model and simulated several social distancing scenarios to predict the vulnerability to COVID-19 of 50 Mexican cities that are interconnected by their air transportation network. Additionally, we assessed the sufficiency of the public health infrastructure in the focal cities to face the pandemic over time. Based on our model, we show that the most important cities within the Mexican air transportation network are the most vulnerable to COVID-19, with all assessed public health infrastructure being insufficient to face the modeled scenario for the pandemic after 100 days. Despite these alarming findings, our results show that social distancing could dramatically decrease the total number of infected people (77% drop-off for the 45% distancing scenario when contrasted with no distancing), flattening the growth of infection rate. Thus, we consider that this study provides useful information that may help decision-makers to timely implement health policies to anticipate and lessen the impact of the current pandemic in Mexico.",
+    "author": "Wesley Dattilo; Servio Pontes Ribeiro; Roger Guevara; Alcides Castro e Silva; Ian MacGregor-Fors",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20061192",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20061192"
+    },
+    "title": "COVID-19 most vulnerable Mexican cities lack the public health infrastructure to face the pandemic: a new temporally-explicit model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "SPR is granted by CNPq-Brazil."
+        }
+    ]
+}

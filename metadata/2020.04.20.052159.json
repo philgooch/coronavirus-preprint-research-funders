@@ -1,0 +1,21 @@
+{
+    "title": "A Scalable, Easy-to-Deploy, Protocol for Cas13-Based Detection of SARS-CoV-2 Genetic Material",
+    "date": 2020,
+    "author": "Jennifer N. Rauch, Eric Valois, Sabrina C. Solley, Friederike Braig, Ryan S. Lach, Naomi J. Baxter, Kenneth S. Kosik,a, Carolina Arias,b, Diego Acosta-Alvear,c, Maxwell Z. Wilson,d",
+    "affiliations": [
+        "University of California Santa Barbara, Department of Molecular, Cellular, and Developmental Biology",
+        "Neuroscience Research Institute, University of California, Santa Barbara",
+        "University of California, Santa Barbara a"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.20.052159",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.20.052159.pdf"
+    },
+    "abstract": "The COVID-19 pandemic has created massive demand for widespread, distributed tools for detecting SARS-CoV-2 genetic material. The hurdles to scalable testing include reagent and instrument accessibility, availability of highly-trained personnel, and large upfront investment. Here we showcase an orthogonal pipeline we call CREST (Cas13-based, Rugged, Equitable, Scalable Testing) that addresses some of these hurdles. Specifically, CREST pairs commonplace and reliable biochemical methods (PCR) with low-cost instrumentation, without sacrificing detection sensitivity. By taking advantage of simple fluorescence visualizers, CREST allows for a binary interpretation of results. CREST may provide a pointof-care solution to increase the distribution of COVID-19 surveillance.",
+    "funding": [
+        {}
+    ]
+}

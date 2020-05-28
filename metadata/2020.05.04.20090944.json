@@ -1,0 +1,53 @@
+{
+    "abstract": "Importance: Preliminary reports indicate that acute kidney injury (AKI) is common in coronavirus disease (COVID)-19 patients and is associated with worse outcomes. AKI in hospitalized COVID-19 patients in the United States is not well-described. Objective: To provide information about frequency, outcomes and recovery associated with AKI and dialysis in hospitalized COVID-19 patients. Design: Observational, retrospective study. Setting: Admitted to hospital between February 27 and April 15, 2020. Participants: Patients aged \u226518 years with laboratory confirmed COVID-19 Exposures: AKI (peak serum creatinine increase of 0.3 mg/dL or 50% above baseline). Main Outcomes and Measures: Frequency of AKI and dialysis requirement, AKI recovery, and adjusted odds ratios (aOR) with mortality. We also trained and tested a machine learning model for predicting dialysis requirement with independent validation. Results: A total of 3,235 hospitalized patients were diagnosed with COVID-19. AKI occurred in 1406 (46%) patients overall and 280 (20%) with AKI required renal replacement therapy. The incidence of AKI (admission plus new cases) in patients admitted to the intensive care unit was 68% (553 of 815). In the entire cohort, the proportion with stages 1, 2, and 3 AKI were 35%, 20%, 45%, respectively. In those needing intensive care, the respective proportions were 20%, 17%, 63%, and 34% received acute renal replacement therapy. Independent predictors of severe AKI were chronic kidney disease, systolic blood pressure, and potassium at baseline. In-hospital mortality in patients with AKI was 41% overall and 52% in intensive care. The aOR for mortality associated with AKI was 9.6 (95% CI 7.4-12.3) overall and 20.9 (95% CI 11.7-37.3) in patients receiving intensive care. 56% of patients with AKI who were discharged alive recovered kidney function back to baseline. The area under the curve (AUC) for the machine learned predictive model using baseline features for dialysis requirement was 0.79 in a validation test. Conclusions and Relevance: AKI is common in patients hospitalized with COVID-19, associated with worse mortality, and the majority of patients that survive do not recover kidney function. A machine-learned model using admission features had good performance for dialysis prediction and could be used for resource allocation.",
+    "affiliations": [
+        "National, Heart, Lung, and Blood Institute",
+        "National Institutes of Health (NIH) (K23DK107908) and is also supported by R01DK108803, U01HG007278, U01HG009610, and U01DK116100. SGC is supported by the following grants: U01DK106962, R01DK115562, R01HL085757, U01OH011326, R01DK112258, and RRTI UG 2019"
+    ],
+    "author": "Anuradha Lala; Eddye Golden; Shuchita Sharma; Robert Freeman; Micol Zweig; Mukta Baweja; Ruth J.F. Loos; Steven G Coca; Rong Chen; Barbara Murphy; Vijay Lapsia; Riccardo Miotto; Joseph A Vassalotti; Patricia Glowe; Matteo Danieletto; Felix Richter; Lili Chan; Jaime Uribarri; Jagat Narula; Valentin Fuster; Alexander W Charney; John Cijiang He; Kumardeep Chaudhary; Joji Tokita; Akhil Vaid; Eric Schadt; Kirk Campbell; Girish N Nadkarni; Ishan Paranjpe; Zahi Fayad; Lewis Kaufman; Tonia Kim; Joshua L Rein; Jonathan Winston; Benjamin S Glicksberg; Arash Kia; Carlos Cordon-Cardo; Sulaiman Somani; Prem Timsina; Matthew A Levin; Shan Zhao; Staci Leisman; Kusum S Mathews; Priya Deshpande; Li Li; Eric Nestler; Aparna Saha; Emily Lu; Judith Aberg; Ron Do; Erwin P Bottinger; Kristin Meliambro; Manbir Singh; Carol Horowitz; David L Reich; Madhav C Menon; Kinsuk Chauhan; Miriam Chung; Nicholas Chun; Samira S Farouk; Allan C Just; Judy Cho; Holly Koncicki",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090944",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090944"
+    },
+    "title": "Acute Kidney Injury in Hospitalized Patients with COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Blood Institute"
+                }
+            ],
+            "funding-statement": "K.S.M. is supported by K23HL130648 from the National, Heart, Lung, and Blood Institute"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "K23DK107908"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "K23DK107908",
+                        "R01DK108803",
+                        "U01HG007278",
+                        "U01HG009610",
+                        "U01DK116100"
+                    ]
+                }
+            ],
+            "funding-statement": "GNN is supported by a career development award from the National Institutes of Health (NIH) (K23DK107908) and is also supported by R01DK108803, U01HG007278, U01HG009610, and U01DK116100"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "RRTI UG"
+                }
+            ],
+            "funding-statement": "SGC is supported by the following grants: U01DK106962, R01DK115562, R01HL085757, U01OH011326, R01DK112258, and RRTI UG 2019"
+        }
+    ]
+}

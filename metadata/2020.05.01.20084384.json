@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: In this work, we presented a Susceptible-Infected-Removed (SIR) epidemiological model of COVID-19 epidemic in Malaysia post- and pre-Movement Control Order (MCO). The proposed SIR model was fitted to confirmed COVID-19 cases from the official press statements to closely reflect the observed epidemic trend in Malaysia. The proposed model is aimed to provide an accurate predictive information for decision makers in assessing the public health and social measures related to COVID-19 epidemic. Methods: The SIR model was fitted to the data by minimizing a weighted loss function; the sum of the residual sum of squares (RSS) of infected, removed and total cases. Optimized beta (\u03b2), gamma (\u03b3) parameter values and the starting value of susceptible individuals (N) were obtained. Results: The SIR model post-MCO indicates the peak of infection on 10 April 2020, less than 100 active cases by 8 July 2020, less than 10 active cases by 29 August 2020, and close to zero daily new case by 22 July 2020, with a total of 6562 infected cases. In the absence of MCO, the model predicts the peak of infection on 1 May 2020, less than 100 active cases by 14 February 2021, less than 10 active cases by 26 April 2021 and close to zero daily new case by 6 October 2020, with a total of 1.6 million infected cases. Conclusion: The results suggest that the present MCO has significantly reduced the number of susceptible population and the total number of infected cases. The method to fit the SIR model used in this study was found to be accurate in reflecting the observed data. The method can be used to predict the epidemic trend of COVID-19 in other countries.\nCompeting Interest Statement",
+    "author": "Wan Nor Arifin; Safiya Amaran; Kamarul Imran Musa; Weng Howe Chan",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20084384",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20084384"
+    },
+    "title": "A Susceptible-Infected-Removed (SIR) model of COVID-19 epidemic trend in Malaysia under Movement Control Order (MCO) using a data fitting approach",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors received no funding for the work."
+        }
+    ]
+}

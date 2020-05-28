@@ -1,0 +1,29 @@
+{
+    "abstract": "Background: Efforts to suppress transmission of SARS-CoV-2 in the UK have seen non-pharmaceutical interventions being invoked. The most severe measures to date include all restaurants, pubs and cafes being ordered to close on 20th March, followed by a \"stay at home\" order on the 23rd March and the closure of all non-essential retail outlets for an indefinite period. Government agencies are presently analysing how best to develop an exit strategy from these measures and to determine how the epidemic may progress once measures are lifted. Mathematical models are currently providing short and long term forecasts regarding the future course of the COVID-19 outbreak in the UK to support evidence-based policymaking. Methods: We present a deterministic, age-structured transmission model that uses real-time data on confirmed cases requiring hospital care and mortality to provide up-to-date predictions on epidemic spread in ten regions of the UK. We simulated a suite of scenarios to assess the impact of differing approaches to relaxing social distancing measures from 7th May 2020, on the estimated number of patients requiring inpatient and critical care treatment, and deaths. With regard to future epidemic outcomes, we investigated the impact of reducing compliance, ongoing shielding of elder age groups, reapplying stringent social distancing measures using region based triggers and the role of asymptomatic transmission. Findings: We find that significant relaxation of social distancing measures on 7th May can lead to a rapid resurgence of COVID-19 disease and the health system being quickly overwhelmed by a sizeable, second epidemic wave. In all considered age-shielding based strategies, we projected serious demand on critical care resources during the course of the pandemic. The reintroduction and release of strict measures on a regional basis, based on ICU bed occupancy, results in a long epidemic tail, until the second half of 2021, but ensures that the health service is protected by reintroducing social distancing measures for all individuals in a region when required. Conclusions: Our work supports the decision to apply stringent non-pharmaceutical measures in March 2020 to suppress the epidemic. We provide strong evidence to support the need for a cautious, measured approach to relaxation of lockdown measures, to protect the most vulnerable members of society and support the health service through subduing demand on hospital beds, in particular bed occupancy in intensive care units.\nCompeting Interest Statement",
+    "author": "Bridget Penman; Trystan Leng; Edward Hill; Erin Gorsich; Massimiliano Tamborrino; Matt J Keeling; Alex Holmes; Hector McKimm; Michael Tildesley; Louise Dyson; Glen Guyver-Fletcher",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20083683",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20083683"
+    },
+    "title": "Predictions of COVID-19 dynamics in the UK: short-term forecasting and analysis of potential exit strategies",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Engineering and Physical Sciences Research Council",
+                    "award-id": [
+                        "EP/S02"
+                    ]
+                },
+                {
+                    "funding-source": "MathSys CDT",
+                    "award-id": [
+                        "EP/S022244/1"
+                    ]
+                }
+            ],
+            "funding-statement": "This work has been funded by the Engineering and Physical Sciences Research Council through the MathSys CDT [grant number EP/S022244/1]"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Objectives: Health care system of many countries are facing a surging burden of COVID-19. Although Vietnam has successfully controlled the COVID-19 pandemic to date, there is a sign of initial community transmission. An estimate of possible scenarios to prepare health resources in the future is needed. We used modelling methods to estimate impacts of mitigation measures on the COVID-19 pandemic in Vietnam. Methods: SEIR model built in the COVIDSIM1.1 tool was adopted using available data for estimation. The herd immunization scenario was with no intervention implemented. Other scenarios consisted of isolation and social distancing at different levels (25%, 50%, 75% and 10%, 20%, 30%, respectively). Outcomes include epidemic apex, daily new and cumulative cases, deaths, hospitalized patients and ICU beds needed. Results: By April 8, 2020, there would be 465 infected cases with COVID-19 in Viet Nam, of those 50% were detected. Cumulatively, there would be 1,400 cases and 30 deaths by end of 2020, if 75% of cases was detected and isolated, and 30% of social distancing could be maintained. The most effective intervention scenario is the detection and isolation of 75% infected cases and reduction of 10% social contacts. This will require an expansion of testing capacity at health facilities and in the community, posing a challenge to identify high-risk groups to prioritized testing. Conclusions: In a localized epidemic setting, the expansion of testing should be the key measure to control the epidemic. Social distancing plays a significant role to prevent further transmission to the community.",
+    "author": "Thao Thi Huong Nguyen; Quoc Cuong Nguyen; Huyen Nguyen Nguyen; Anh Thi Kim Le; Thu Anh Nguyen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078030",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078030"
+    },
+    "title": "Modelling the impact of control measures against the COVID-19 pandemic in Viet Nam",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors."
+        }
+    ]
+}

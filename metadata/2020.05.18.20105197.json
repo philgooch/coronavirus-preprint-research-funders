@@ -1,0 +1,52 @@
+{
+    "abstract": "Background The correlates of protection against SARS-CoV-2 and their longevity remain unclear. Studies in severely ill individuals have identified robust cellular and humoral immune responses against the virus. Asymptomatic infection with SARS-CoV-2 has also been described, but it is unknown whether this is sufficient to produce antibody responses. Methods We performed a cross-sectional study recruiting 554 health care workers from University Hospitals Birmingham NHS Foundation Trust who were at work and asymptomatic. Participants were tested for current infection with SARS-CoV-2 by nasopharyngeal swab for real-time polymerase chain reaction and for seroconversion by the measurement of anti-SARS-CoV-2 spike glycoprotein antibodies by enzyme linked immunosorbent assay. Results were interpreted in the context of previous, self-reported symptoms of illness consistent with COVID-19. Results The point prevalence of infection with SARS-CoV-2, determined by the detection of SARS-CoV-2 RNA on nasopharnygeal swab was 2.39% (n=13/544). Serum was available on 516 participants. The overall rate of seroconversion in the cohort was 24.4% (n=126/516). Individuals who had previously experienced a symptomatic illness consistent with COVID-19 had significantly greater seroconversion rates than those who had remained asymptomatic (37.5% vs 17.1%, \u03c72 =21.1034, p<0.0001). In the week preceding peak COVID-19-related mortality at UHBFT, seroconversion rates amongst those who were suffering from symptomatic illnesses peaked at 77.8%. Prior symptomatic illness generated quantitatively higher antibody responses than asymptomatic seroconversion. Seroconversion rates were highest amongst those working in housekeeping (34.5%), acute medicine (33.3%) and general internal medicine (30.3%) with lower rates observed in participants working in intensive care (14.8%) and emergency medicine (13.3%). Conclusions In a large cross-sectional seroprevalence study of health-care workers, we demonstrate that asymptomatic seroconversion occurs, however prior symptomatic illness is associated with quantitatively higher antibody responses. The identification that the potential for seroconversion in health-care workers can associate differentially with certain hospital departments may inform future infection control and occupational health practices.",
+    "affiliations": [
+        "Cancer Research UK Advanced Clinician Scientist award (C31641/A23923) and his laboratory is supported by CRUK Centre Birmingham (C17422/A25154) and the Birmingham Experimental Cancer Medicine Centre (C11497/A25127)"
+    ],
+    "author": "Gabriella Morley; Andrew D Beggs; I Michael Kidd; Adam F Cunningham; Joanne Grey; Oliver Pickles; Joel D Allen; Sian E Faustini; Alex G Richter; Marisol Perez-Toledo; Beena Emmanuel; Charlotte Poxon; Mark T Drayson; Kasun Wanigasooriya; Megan Richter; Daniel Ebanks; Andrew Bosworth; Erin L Aldera; Saly Al-Taei; Agnieszka E Zielinska; Adrian M Shields; Claire Backhouse; Golaeh McGinnell; Max Crispin; Sian Jossi; Yasunori Watanabe; David C Wraith; Joanne O'Neill; Danai Papakonstantinou; Eloise Walker; Lyndsey Dunbar; Dee McLoughlin; Celina Whalley",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20105197",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20105197"
+    },
+    "title": "SARS-CoV-2 seroconversion in health care workers",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK National Institute for Health Research, Birmingham"
+                },
+                {
+                    "funding-source": "Biomedical Research Centres Funding"
+                }
+            ],
+            "funding-statement": "This study was also supported by the UK National Institute for Health Research, Birmingham Biomedical Research Centres Funding scheme"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Andrew Beggs"
+                },
+                {
+                    "funding-source": "Cancer Research UK Advanced Clinician Scientist",
+                    "award-id": [
+                        "C31641/A23923"
+                    ]
+                },
+                {
+                    "funding-source": "CRUK Centre Birmingham",
+                    "award-id": [
+                        "C17422/A25154"
+                    ]
+                },
+                {
+                    "funding-source": "Birmingham Experimental Cancer Medicine Centre",
+                    "award-id": [
+                        "C11497/A25127"
+                    ]
+                }
+            ],
+            "funding-statement": "Andrew Beggs is currently supported by a Cancer Research UK Advanced Clinician Scientist award (C31641/A23923) and his laboratory is supported by CRUK Centre Birmingham (C17422/A25154) and the Birmingham Experimental Cancer Medicine Centre (C11497/A25127)"
+        }
+    ]
+}

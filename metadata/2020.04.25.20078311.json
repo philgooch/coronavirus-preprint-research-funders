@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: COVID-19 rapidly escalated into a pandemic, threatening 213 countries, areas, and territories the world over. We aimed to identify potential province-level socioeconomic determinants of the virus's dissemination, and explain between-province differences in the speed of its spread, based on data from 36 provinces of Northern Italy. Methods: This is an ecological study. We included all confirmed cases of SARS-CoV-2 reported between February 24th and March 30th, 2020. For each province, we calculated the trend of contagion as the relative increase in the number of individuals infected between two time endpoints, assuming an exponential growth. Pearson's test was used to correlate the trend of contagion with a set of healthcare-associated, economic, and demographic parameters by province. The virus's spread was input as a dependent variable in a stepwise OLS regression model to test the association between rate of spread and province-level indicators. Findings: Multivariate analysis showed that the spread of COVID-19 was correlated negatively with aging index (p-value=0.003), and positively with public transportation per capita (p-value=0.012), the % of private long-term care hospital beds and, to a lesser extent (p-value=0.070), the % of private acute care hospital beds (p-value=0.006). Interpretation: Demographic and socioeconomic factors, and healthcare organization variables were found associated with a significant difference in the rate of COVID-19 spread in 36 provinces of Northern Italy. An aging population seemed to naturally contain social contacts. The availability of healthcare resources and their coordination could play an important part in spreading infection.\nCompeting Interest Statement",
+    "author": "Vincenzo Baldo; Silvia Cocchio; Manuela Scioni; Vincenzo Rebba; Matteo Paganini; Alessandra Buja",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20078311",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20078311"
+    },
+    "title": "Demographic and Socio-Economic Factors, and Healthcare Resource Indicators Associated with the Rapid Spread of COVID-19 in Northern Italy: An Ecological Study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for this study"
+        }
+    ]
+}

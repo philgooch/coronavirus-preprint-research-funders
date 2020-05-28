@@ -1,0 +1,36 @@
+{
+    "abstract": "Background The risk of severe COVID-19 disease is known to be higher in older individuals and those with underlying health conditions. Understanding the number of individuals at increased risk of severe COVID-19 illness, and how this varies between countries may inform the design of possible strategies to shield those at highest risk. Methods We estimated the number of individuals at increased risk of severe COVID-19 disease by age (5-year age groups), sex and country (n=188) based on prevalence data from the Global Burden of Disease (GBD) study for 2017 and United Nations population estimates for 2020. We also calculated the number of individuals without an underlying condition that could be considered at-risk because of their age, using thresholds from 50-70 years. The list of underlying conditions relevant to COVID-19 disease was determined by mapping conditions listed in GBD to the guidelines published by WHO and public health agencies in the UK and US. We analysed data from two large multimorbidity studies to determine appropriate adjustment factors for clustering and multimorbidity. Results We estimate that 1.7 (1.0 - 2.4) billion individuals (22% [15-28%] of the global population) are at increased risk of severe COVID-19 disease. The share of the population at increased risk ranges from 16% in Africa to 31% in Europe. Chronic kidney disease (CKD), cardiovascular disease (CVD), diabetes and chronic respiratory disease (CRD) were the most prevalent conditions in males and females aged 50+ years. African countries with a high prevalence of HIV/AIDS and Island countries with a high prevalence of diabetes, also had a high share of the population at increased risk. The prevalence of multimorbidity (>1 underlying conditions) was three times higher in Europe than in Africa (10% vs 3%). Conclusion Based on current guidelines and prevalence data from GBD, we estimate that one in five individuals worldwide has a condition that is on the list of those at increased risk of severe COVID-19 disease. However, for many of these individuals the underlying condition will be undiagnosed or not severe enough to be captured in health systems, and in some cases the increase in risk may be quite modest. There is an urgent need for robust analyses of the risks associated with different underlying conditions so that countries can identify the highest risk groups and develop targeted shielding policies to mitigate the effects of the COVID-19 pandemic.",
+    "affiliations": [
+        "Department of Health and Social Care using UK Aid funding and is managed by the NIHR. The views expressed in this publication are those of the author(s) and not necessarily those of the Department of Health and SocialCare (grant code: ITCRZ 03010); CWG: Wellcome Intermediate Clinical Fellowship (201440_Z_16_Z)"
+    ],
+    "author": "Stewart W Mercer; Christopher Troeger; Pablo Perel; Colin Sanderson; Mark Jit; Harry HX Wang; Sarah Joseph; Hamish P Gibbs; Andrew Clark; Martin McKee; LSHTM CMMID COVID-19 working group; Rosalind M Eggo; Bruce Guthrie; Charlotte Warren-Gash; Amitava Banerjee; Francesco Checchi; Kanyin I Ong",
+    "date": 2020,
+    "doi": "10.1101/2020.04.18.20064774",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.18.20064774"
+    },
+    "title": "How many are at increased risk of severe COVID-19 disease? Rapid global, regional and national estimates for 2020",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "HDR UK",
+                    "award-id": [
+                        "MR/S003975/1",
+                        "MC_PC 19065"
+                    ]
+                },
+                {
+                    "funding-source": "Department of Health and Social Care"
+                },
+                {
+                    "funding-source": "UK Aid"
+                },
+                {
+                    "funding-source": "NIHR"
+                }
+            ],
+            "funding-statement": "RME: HDR UK (grant: MR/S003975/1), MRC (grant: MC_PC 19065); HPG: This research is funded by the Department of Health and Social Care using UK Aid funding and is managed by the NIHR"
+        }
+    ]
+}

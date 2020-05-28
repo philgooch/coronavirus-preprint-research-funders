@@ -1,0 +1,60 @@
+{
+    "title": "Structure, function and antigenicity of the SARS-CoV-2 spike glycoprotein",
+    "author": "Alexandra C. Walls, Young-Jun Park, M. Alejandra Tortorici, Abigail Wall, Andrew T. McGuire, and David Veesler",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biochemistry, University of Washington, Seattle, Washington 98195, USA",
+        "Institute Pasteur & CNRS UMR 3569, Unit\u00e9 de Virologie Structurale, 75015, Paris, France",
+        "Vaccines and Infectious Diseases Division, Fred Hutchinson Cancer Research Center, Seattle, Washington 98195, USA",
+        "Department of Global Health, University of Washington, Seattle, Washington 98195, USA",
+        "These authors contributed equally"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.19.956581",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.19.956581.pdf"
+    },
+    "abstract": "The recent emergence of a novel coronavirus associated with an ongoing outbreak of pneumonia (Covid-2019) resulted in infections of more than 72,000 people and claimed over 1,800 lives. Coronavirus spike (S) glycoprotein trimers promote entry into cells and are the main target of the humoral immune response. We show here that SARS-CoV-2 S mediates entry in VeroE6 cells and in BHK cells transiently transfected with human ACE2, establishing ACE2 as a functional receptor for this novel coronavirus. We further demonstrate that the receptor-binding domains of SARS-CoV-2 S and SARS-CoV S bind with similar affinities to human ACE2, which correlates with the efficient spread of SARS-CoV-2 among humans. We found that the SARS-CoV-2 S glycoprotein harbors a furin cleavage site at the boundary between the S1/S2 subunits, which is processed during biogenesis and sets this virus apart from SARS-CoV and other SARS-related CoVs. We determined a cryo-electron microscopy structure of the SARS-CoV-2 S ectodomain trimer, demonstrating spontaneous opening of the receptor-binding domain, and providing a blueprint for the design of vaccines and inhibitors of viral entry. Finally, we demonstrate that SARS-CoV S murine polyclonal sera potently inhibited SARS-CoV-",
+    "keywords": [
+        "Coronavirus",
+        "SARS-CoV-2",
+        "SARS-CoV",
+        "spike glycoprotein",
+        "antibodies",
+        "neutralizing antibodies",
+        "viral receptor"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of General Medical Sciences",
+                    "award-id": [
+                        "R01GM120553"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases",
+                    "award-id": [
+                        "HHSN272201700059C"
+                    ]
+                },
+                {
+                    "funding-source": "Pew Biomedical Scholars Award"
+                },
+                {
+                    "funding-source": "Investigators in the Pathogenesis of Infectious Disease Award from the Burroughs Wellcome Fund"
+                },
+                {
+                    "funding-source": "Open Philantropic Foundation"
+                },
+                {
+                    "funding-source": "Pasteur Institute"
+                }
+            ],
+            "funding-statement": "This study was supported by the National Institute of General Medical Sciences (R01GM120553, D.V.), the National Institute of Allergy and Infectious Diseases (HHSN272201700059C, DV), a Pew Biomedical Scholars Award (D.V.), an Investigators in the Pathogenesis of Infectious Disease Award from the Burroughs Wellcome Fund (D.V.), the Open Philantropic Foundation (D.V.) and the Pasteur Institute (M.A.T.)"
+        }
+    ]
+}

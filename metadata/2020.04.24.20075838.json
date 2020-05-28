@@ -1,0 +1,44 @@
+{
+    "abstract": "Background: COVID-19 is a major pandemic that has killed more than 196,000 people. The COVID-19 disease course is strikingly divergent. Approximately 80-85% of patients experience mild or no symptoms, while the remainder develop severe disease. The mechanisms underlying these divergent outcomes are unclear. Emerging health disparities data regarding African American and homeless populations suggest that vitamin D insufficiency (VDI) may be an underlying driver of COVID-19 severity. To better define the VDI-COVID-19 link, we determined the prevalence of VDI among our COVID-19 intensive care unit (ICU) patients. Methods: In an Institutional Review Board approved study performed at a single, tertiary care academic medical center, the medical records of COVID-19 patients were retrospectively reviewed. Subjects were included for whom serum 25-hydroxycholecalcifoerol (25OHD) levels were determined. COVID-19-relevant data were compiled and analyzed. We determined the frequency of VDI among COVID-19 patients to evaluate the likelihood of a VDI-COVID-19 relationship. Results: Twenty COVID-19 patients with serum 25OHD levels were identified; 65.0% required ICU admission.The VDI prevalence in ICU patients was 84.6%, vs. 57.1% in floor patients. Strikingly, 100% of ICU patients less than 75 years old had VDI. Coagulopathy was present in 62.5% of ICU COVID-19 patients, and 92.3% were lymphocytopenic. Conclusions: VDI is highly prevalent in severe COVID-19 patients. VDI and severe COVID-19 share numerous associations including hypertension, obesity, male sex, advanced age, concentration in northern climates, coagulopathy, and immune dysfunction. Thus, we suggest that prospective, randomized controlled studies of VDI in COVID-19 patients are warranted.\nCompeting Interest Statement",
+    "affiliations": [
+        "Louisiana State University Health Sciences Center; 2) 1R01HL118557-01A1, NIHLBI, NIH",
+        "ASH Bridge Funding",
+        "Texas A&M University System",
+        "National Institutes of Health grant AI40165"
+    ],
+    "author": "Fouad Saeg; Jeffrey D. Cirillo; Radbeh Torabi; Frank H. Lau; Ryan Hoffman; Patrick Greiffenstein; Rinku Majumder",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20075838",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20075838"
+    },
+    "title": "Vitamin D Insufficiency is Prevalent in Severe COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Louisiana State University Health Sciences Center;",
+                    "award-id": [
+                        "1R01HL118557-01A1"
+                    ]
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "ASH Bridge Funding;"
+                },
+                {
+                    "funding-source": "Texas A&M University System;"
+                },
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "AI40165"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the following sources: 1) Louisiana State University Health Sciences Center; 2) 1R01HL118557-01A1, NIHLBI, NIH; 3) ASH Bridge Funding; 4) Texas A&M University System; 5) National Institutes of Health grant AI40165"
+        }
+    ]
+}

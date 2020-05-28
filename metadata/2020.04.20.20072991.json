@@ -1,0 +1,16 @@
+{
+    "abstract": "The coronavirus disease 2019 (COVID-19) pandemic is causing public health emergency and economic crisis all over the globe. Being widely spread, the virus can make any place in the world a new epicenter of the possible second wave of outbreaks. To control the pandemic progression, monitoring of the virus spreading is imperative. This paper proposes a simple and robust approach to monitor the COVID-19 pandemic progression in many countries or regions. This data science pipeline can provide actionable insights via straightforward COVID-19 data visualization for many regions at a glance, which informs of relative time delay of the pandemic progression, projected numbers of confirmed cases in the near future, and the sizes of infections.",
+    "author": "Jungsik Noh",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072991",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072991"
+    },
+    "title": "Monitoring COVID-19 progression: Look at Us Today, See Yourself Tomorrow",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None."
+        }
+    ]
+}

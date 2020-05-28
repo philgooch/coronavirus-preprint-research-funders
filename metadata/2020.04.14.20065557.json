@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: The COVID-19 epidemic has taken a fearsome toll on individuals residing in long-term care facilities (LTC). As of April 10, 2020 half COVID-19 deaths in Canada had occurred in LTC. We sought to better understand trends and risk factors for COVID-19 death in LTC in Ontario. Methods: We analyzed a COVID-19 outbreak database created by the Ontario Ministry of Health, for the period March 29-April 7, 2020. Mortality incidence rate ratios for LTC were calculated with community living Ontarians aged > 69 used as the comparator group. Count-based regression methods were used to model temporal trends and identify associations between infection risk in staff and residents, and subsequent LTC resident death. Results: Confirmed or suspected cases of COVID-19 were identified in 272/627 LTC by April 7, 2020. The incidence rate ratio for COVID-19 death was 13.1 (9.9-17.3) relative to community living adults over 69. Incidence rate ratio increased over time and was 87.28 (90% CrI 9.98 to 557.08) by April 7, 2020. Lagged infection in staff was a strong predictor of death in residents (e.g., adjusted IRR for death per infected staff member 1.17, 95% CI 1.11 to 1.26 at a 6-day lag). Interpretation: Mortality risk in elders in Ontario is currently concentrated in LTC, and this risk has increased sharply over a short period of time. Early identification of risk requires a focus on testing and provision of personal protective equipment to staff, and restructuring the LTC workforce to prevent movement of COVID-19 between LTC.\nCompeting Interest Statement",
+    "author": "Ashleigh Tuite; Isaac Bogoch; Janine McCready; Lauren Lapointe-Shaw; David Fisman",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065557",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065557"
+    },
+    "title": "Failing our Most Vulnerable: COVID-19 and Long-Term Care Facilities in Ontario",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "DNF from the Canadian Institutes for Health Research",
+                    "award-id": [
+                        "2019 COVID-19 rapid researching funding OV4-170360"
+                    ]
+                }
+            ],
+            "funding-statement": "The research was supported by a grant to DNF from the Canadian Institutes for Health Research (2019 COVID-19 rapid researching funding OV4-170360)"
+        }
+    ]
+}

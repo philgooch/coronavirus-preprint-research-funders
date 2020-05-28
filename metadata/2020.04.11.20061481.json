@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Sri Lanka diagnosed its first local case of COVID-19 on 11 March 2020. The government acted swiftly to contain transmission, with extensive public health measures. At the end of 30 days, Sri Lanka had 197 cases, 54 recovered and 7 deaths; a staged relaxing of the lockdown is now underway. This paper proposes a theoretical basis for estimating the limits within which transmission should be constrained in order to ensure that the case load remains within the capacity of the health system. Methods: We used the Susceptible, Infected, Recovered (SIR) model to explore the number of new infections and estimate ICU bed requirement at different levels of R0 values after lockout. We developed a web-based application that enables visualization of cases and ICU bed requirements with time, with adjustable parameters that include: population exposed; proportion asymptomatic; number of active and recovered cases; infectious period; R0 or doubling time; proportion critically ill; available ICU beds; duration of ICU stay; and uncertainty of projection. Results: The three-day moving average of the caseload suggested two waves of transmission from Day 0 to 17 (R0=3.32, 95% CI 1.85 - 5.41) and from Day 18 - 30 (R=1.25, 95%CI: 0.93 - 1.63). We estimate that if there are 156 active cases with 91 recovered at the time of lockout, and R increases to 1.5 (doubling time 19 days), under the standard parameters for Sri Lanka, the ICU bed capacity of 300 is likely to be saturated by about 100 days days, signalled by 18 new infections (95% CI 15 - 22) on Day 14 after lockout. Conclusion: Our model suggests that to ensure that the case load remains within the available capacity of the health system after lockout, transmission should not exceed R=1.5. This model and the web-based application may be useful in other low and middle income countries which have similar constraints on health resources.\nCompeting Interest Statement",
+    "author": "Dileepa S Ediriweera; H Janaka de Silva; Neelika G Malavige; Nilanthi R de Silva",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20061481",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20061481"
+    },
+    "title": "AN EPIDEMIOLOGICAL MODEL TO AID DECISION-MAKING FOR COVID-19 CONTROL IN SRI LANKA",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "We did not receive any funding for this work."
+        }
+    ]
+}

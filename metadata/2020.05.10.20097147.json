@@ -1,0 +1,16 @@
+{
+    "abstract": "The SIR (susceptible-infected-removed) model, statistical approach for the parameter identification and the official WHO data about the confirmed cumulative number of cases were used to estimate the characteristics of COVID-19 pandemic in USA, Germany, UK, South Korea and in the world. Epidemic in every country has rather long hidden period before fist cases were confirmed. In particular, the pandemic began in China no later than October, 2019. If current trends continue, the end of the pandemic should be expected no earlier than March 2021, the global number of cases will exceed 5 million.",
+    "author": "Igor Nesteruk",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20097147",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20097147"
+    },
+    "title": "Hidden periods, duration and final size of COVID-19 pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no funding</strong>"
+        }
+    ]
+}

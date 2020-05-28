@@ -1,0 +1,22 @@
+{
+    "abstract": "Evidence of smell loss in COVID-19 is growing. Researchers and analysts have suggested to use Google searches on smell loss as indicators of COVID-19 cases. However, such searches may be due to interest elicited by media coverage of the COVID-19-related smell loss, rather than attempts to understand self-symptoms. We analyzed searches related to 4 senses: smell and taste (both recently shown to be impaired in some COVID-19 patients), vision and sight (senses not currently known to be impaired in COVID-19 patients), and an additional general control (\u201cCOVID-19 symptoms\u201d). Focusing on two countries with a large number of cases, Italy and the United States, we have compared Google Trends results per region or state to the number of new cases prevalence in that region. The analysis was performed for each of the 8 weeks ranging from March 4th till April 28th. No correlation with vision loss or sight loss searches was identified, while taste and smell loss searches were correlated with new COVID-19 cases during a limited time window, that starts when the number of weekly new cases reached for the first time 21357 cases in Italy (11-17 March) and 47553 in the US (18-24 March). Media effect on the specific symptoms searches was also analyzed, establishing a different impact according to the country. Our results suggest that Google Trends for taste loss and smell loss searches captured a genuine connection between these symptoms and new COVID-19 cases prevalence in the population. However, due to variability in correlation from week to week, and overall decrease in correlation as taste and smell loss are becoming known COVID-19 symptoms, recognized now by CDC and World Health Organization, Google Trends is no longer a reliable marker for monitoring the disease spread. The \u201csurprise rise\u201d followed by decrease, probably attributable to knowledge saturation, should be kept in mind for future digital media analyses of potential new symptoms of COVID-19 or future pandemics.",
+    "author": "Yuli Slavutsky; Johannes Frasnelli; Fabrizio Fierro; Masha Y Niv; Kim Asseo",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20093955",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20093955"
+    },
+    "title": "Utility and limitations of Google searches on sensory loss as markers for new COVID-19 cases",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "1129/19"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the ISF grant #1129/19"
+        }
+    ]
+}

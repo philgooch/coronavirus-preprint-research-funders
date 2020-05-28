@@ -1,0 +1,34 @@
+{
+    "title": "Elevated ACE2 expression in the olfactory neuroepithelium: implications for anosmia and upper respiratory SARS-CoV-2 entry and replication",
+    "author": "Mengfei Chen, Wenjuan Shen, Nicholas R. Rowan, Heather Kulaga, Alexander Hillel, Murugappan Ramanathan Jr, and Andrew P. Lane",
+    "date": 2020,
+    "affiliations": [
+        "Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University School of Medicine, Baltimore, MD",
+        "MD Department of Otolaryngology \u2013 Head and Neck Surgery th Johns Hopkins Outpatient Center, 6 floor 601 N Caroline Street Baltimore, MD 21287-0910"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.08.084996",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.08.084996.pdf"
+    },
+    "abstract": "The site of SARS-CoV-2 entry and replication critically impacts strategies for COVID-19 diagnosis, transmission mitigation, and treatment. We determined the cellular location of the SARS-CoV-2 target receptor protein, ACE2, in the human upper airway, finding striking enrichment (200-700 folds) in the olfactory neuroepithelium relative to nasal respiratory or tracheal epithelial cells. This cellular tropism of SARS-CoV-2 may underlie its high transmissibility and association with olfactory dysfunction, while suggesting a viral reservoir potentially amenable to intranasal therapy.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH Grants",
+                    "award-id": [
+                        "AI132590",
+                        "DC016106"
+                    ]
+                },
+                {
+                    "funding-source": "AUTHOR CONTRIBUTIONS M.C."
+                }
+            ],
+            "funding-statement": "This work was funded by NIH Grants R01 AI132590, R01 DC016106 (A.P.L). AUTHOR CONTRIBUTIONS M.C. and A.P.L. designed research; M.C., W.S., and H.K. collected data, M.C. performed experiment; M.C., W.S., A.H., and A.P.L. analyzed data; M.C., N.R.R., M.R., and A.P.L. wrote the paper"
+        }
+    ]
+}

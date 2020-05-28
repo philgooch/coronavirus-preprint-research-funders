@@ -1,0 +1,26 @@
+{
+    "abstract": "Predicting COVID-19 epidemic development in the upcoming warm season has attracted much attention in the hope of providing helps to fight the epidemic. It requires weather (environmental) factors to be included in prediction models, but there are few models to achieve it successfully. In this study, we proposed a new concept of environmental infection rate (RE), based on floating time of respiratory droplets in the air and inactivation rate of virus to solve the problem. More than half of the particles in the droplets can float in the atmosphere for 1-2 hours. The prediction results showed that high RE values (>3.5) are scattered around 30N in winter (Dec.-Feb.). As the weather warms, its distribution area expands and extends to higher latitudes of northern hemisphere, reaching its maximum in April, and then shrinking northward. These indicated that the spread of COVID-19 in most parts of the northern hemisphere is expected to decline after Apr., but the risks in high latitudes will remain high in May. In the south of southern hemisphere, the RE values tend to subside from Apr. to July. The high modeled RE values up to July, however, suggested that warmer weather will not stop COVID-19 from spreading. Public health intervention is needed to overcome the outbreak.",
+    "affiliations": [
+        "National Natural Science Foundation of China through grants 41425014"
+    ],
+    "author": "Cheng Liu; Hong Li; Huayun Xiao; Hongwei Xiao; Renguo Zhu; Chengxing Sun",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20084004",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20084004"
+    },
+    "title": "Warmer weather and global trends in the coronavirus COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "41425014"
+                    ]
+                }
+            ],
+            "funding-statement": "National Natural Science Foundation of China through grants 41425014."
+        }
+    ]
+}

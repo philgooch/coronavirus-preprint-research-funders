@@ -1,0 +1,23 @@
+{
+    "title": "The global population of SARS-CoV-2 is composed of six major subtypes",
+    "author": "Alison Lima",
+    "date": 2020,
+    "affiliations": [
+        "Departamento de Fitopatologia/Universidade de Bras\u00edlia, Bras\u00edlia, DF 70910-900, Brazil 7",
+        "Departamento de Veterin\u00e1ria/Universidade Federal de Vi\u00e7osa, Vi\u00e7osa, MG 36570-900, Brazil 8",
+        "Instituto de Ci\u00eancias Agr\u00e1rias/Universidade Federal de Uberl\u00e2ndia, Uberl\u00e2ndia, MG 38410-337",
+        "Instituto de Biotecnologia/Universidade Federal de Uberl\u00e2ndia, Monte Carmelo, MG 38500-000"
+    ],
+    "journal": "In December",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.14.040782",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.14.040782.pdf"
+    },
+    "abstract": "16 17 The World Health Organization characterized the COVID-19 as a pandemic in March 2020, the second pandemic of the 21st century. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a positive-stranded RNA betacoronavirus of the family Coronaviridae. Expanding virus populations, as that of SARS-CoV-2, accumulate a number of narrowly shared polymorphisms imposing a confounding effect on traditional clustering methods. In this context, approaches that reduce the complexity of the sequence space occupied by the SARS-CoV-2 population are necessary for a robust clustering. Here, we proposed the subdivision of the global SARS-CoV-2 population into sixteen well24 defined subtypes by focusing on the widely shared polymorphisms in nonstructural (nsp3, nsp4, nsp6, nsp12, nsp13 and nsp14) cistrons, structural (spike and nucleocapsid) and accessory (ORF8) genes. Six virus subtypes were predominant in the population, but all sixteen showed amino acid replacements which might have phenotypic implications. We hypothesize that the virus subtypes detected in this study are records of the early stages of the SARS-CoV-2 diversification that were randomly sampled to compose the virus populations around the world, a typical founder effect. The genetic structure determined for the SARS-CoV-2 population provides substantial guidelines for maximizing the effectiveness of trials for testing the candidate vaccines or drugs.",
+    "funding": [
+        {}
+    ]
+}

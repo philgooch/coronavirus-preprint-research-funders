@@ -1,0 +1,16 @@
+{
+    "abstract": "While case numbers remain low, population-wide control methods combined with efficient tracing, testing, and case isolation, offer the opportunity for New Zealand to contain and eliminate COVID-19. We use a stochastic model to investigate containment and elimination scenarios for COVID-19 in New Zealand, as the country considers the exit from its four week period of strong Level 4 population-wide control measures. In particular we consider how the effectiveness of its case isolation operations influence the outcome of lifting these strong population-wide controls. The model is parameterised for New Zealand and is initialised using current case data, although we do not make use of information concerning the geographic dispersion of cases and the model is not stratified for age or co-morbidities. We find that fast tracing and case isolation (i.e. operations that are sustained at rates comparable to that at the early stages of New Zealand's response) can lead to containment or elimination, as long as strong population-wide controls remain in place. Slow case isolation can lead to containment (but not elimination) as long as strong Level 4 population-wide controls remain in place. However, we find that relaxing strong population-wide controls after four weeks will most likely lead to a further outbreak, although the speed of growth of this outbreak can be reduced by fast case isolation, by tracing, testing, or otherwise. We find that elimination is only likely if case isolation is combined with strong population-wide controls that are maintained for longer than four weeks. Further versions of this model will include an age-structured population as well as considering the effects of geographic dispersion and contact network structure, the possibility of regional containment combined with inter-regional travel restrictions, and the potential for harm to at risk communities and essential workers.",
+    "author": "Michael J Plank; Rachelle N Binny; Alex James; Shaun C Hendy; Nicholas Steyn; Audrey Lustig",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20058743",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20058743"
+    },
+    "title": "A stochastic model for COVID-19 spread and the effects of Alert Level 4 in Aotearoa New Zealand",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "The protein expression profile of ACE2 in human tissues",
+    "author": "Feria Hikmet, Loren M\u00e9ar, \u00c5sa Edvinsson, Patrick Micke, Mathias Uhl\u00e9n",
+    "date": 2020,
+    "affiliations": [
+        "Uppsala University, Department of Immunology, Genetics and Pathology, Rudbeck",
+        "Laboratory, 75185 Uppsala, Sweden",
+        "Science for Life Laboratory, School of engineering Sciences in Chemistry",
+        "Biotechnology and health, KTH - Royal Institute of Technology, 17121 Stockholm",
+        "Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden",
+        "Department of Immunology, Genetics and Pathology",
+        "Rudbeck Laboratory 20 Uppsala University 21 751 85 Uppsala, Sweden. 22"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.31.016048",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.31.016048.pdf"
+    },
+    "abstract": "The novel SARS-coronavirus 2 (SARS-CoV-2) poses a global challenge on healthcare and society. For understanding the susceptibility for SARS-CoV-2 infection, the cell type-specific expression of the host cell surface receptor is necessary. The key protein suggested to be involved in host cell entry is Angiotensin I converting enzyme 2 (ACE2). Here, we report the expression pattern of ACE2 across >150 different cell types corresponding to all major human tissues and organs based on stringent immunohistochemical analysis. The results were compared with several datasets both on the mRNA and protein level. ACE2 expression was mainly observed in enterocytes, renal tubules, gallbladder, cardiomyocytes, male reproductive cells, placental trophoblasts, ductal cells, eye and vasculature. In the respiratory system, the expression was limited, with no or only low expression in a subset of cells in a few individuals, observed by one antibody only. Our data constitutes an important resource for further studies on SARS-CoV-2 host cell entry, in order to understand the biology of the disease and to aid in the development of effective treatments to the viral infection.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Knut and Alice Wallenberg Foundation"
+                }
+            ],
+            "funding-statement": "The project was funded by the Knut and Alice Wallenberg Foundation"
+        }
+    ]
+}

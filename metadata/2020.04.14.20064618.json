@@ -1,0 +1,30 @@
+{
+    "abstract": "The COVID-19 pandemic is rapidly spreading throughout the world. Recent reports suggest that 10-30% of SARS-CoV-2 infected patients are asymptomatic. Other studies report that some subjects have significant viral shedding prior to symptom onset. Since both asymptomatic and pre-symptomatic subjects can spread the disease, identifying such individuals is critical for effective control of the SARS-CoV-2 pandemic. Therefore, there is an urgent need to increase diagnostic testing capabilities in order to also screen asymptomatic carriers. In fact, such tests will be routinely required until a vaccine is developed. Yet, a major bottleneck of managing the COVID-19 pandemic in many countries is diagnostic testing, due to limited laboratory capabilities as well as limited access to genome-extraction and Polymerase Chain Reaction (PCR) reagents. We developed P-BEST - a method for Pooling-Based Efficient SARS-CoV-2 Testing, using a non-adaptive group-testing approach, which significantly reduces the number of tests required to identify all positive subjects within a large set of samples. Instead of testing each sample separately, samples are pooled into groups and each pool is tested for SARS-CoV-2 using the standard clinically approved PCR-based diagnostic assay. Each sample is part of multiple pools, using a combinatorial pooling strategy based on compressed sensing designed for maximizing the ability to identify all positive individuals. We evaluated P-BEST using leftover samples that were previously clinically tested for COVID-19. In our current proof-of-concept study we pooled 384 patient samples into 48 pools providing an 8-fold increase in testing efficiency. Five sets of 384 samples, containing 1-5 positive carriers were screened and all positive carriers in each set were correctly identified. P-BEST provides an efficient and easy-to-implement solution for increasing testing capacity that will work with any clinically approved genome-extraction and PCR-based diagnostic methodologies.",
+    "author": "Angel Porgador; Noam Shental; Shosh Skorniakov; Shlomia Levy; Vered Wuvshet; Tomer Hertz; Yonat Shemer-Avni",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20064618",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20064618"
+    },
+    "title": "Efficient high throughput SARS-CoV-2 testing to detect asymptomatic carriers",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Author Declarations All"
+                },
+                {
+                    "funding-source": "Yes All",
+                    "award-id": [
+                        "note: if posting a prospective study registered retrospectively",
+                        "please provide a statement in the trial ID field explaining why the study was not registered in advance"
+                    ]
+                },
+                {
+                    "funding-source": "EQUATOR Network"
+                }
+            ],
+            "funding-statement": "Statement no external funding was used for this study Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript.  Yes All necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived. I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance). I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Shortage of reagents and consumables required for the extraction and molecular detection of SARS-CoV-2 RNA in respiratory samples has led many laboratories to investigate alternative approaches for sample preparation. Fomsgaard et al 2020 recently presented results using heat-processing of respiratory samples prior to RT-qPCR as an economical method enabling an extremely fast streamlining of the processes at virtually no cost. Here, we present our results using this method and highlight some major pitfalls that diagnostics laboratories should be aware of before proceeding with this technique. We first investigated various treatments using different temperatures, incubation times and sample volumes based on the above study to optimise the heat-treatment conditions. Although the initial data confirmed the published results, further investigations revealed unexpected inhibitory properties of some commonly used virus transport media (VTMs) on some commercially available RT-qPCR mixes, emphasising the critical importance of a thorough validation process to determine the most adapted reagents to be used depending on the sample types to be tested. In conclusion, although the method works, with very consistent Ct values and an excellent sensitivity when compared to a conventional RNA extraction method, it is critical to include an internal control to check each sample for potential inhibition.",
+    "author": "Ronan MM Calvez; Andrew Taylor; Colin G Fink; Leonides Calvo-Bado",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083626",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083626"
+    },
+    "title": "Molecular detection of SARS-CoV-2 using a reagent-free approach",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

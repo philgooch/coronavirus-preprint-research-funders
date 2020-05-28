@@ -1,0 +1,59 @@
+{
+    "title": "Complexity in SARS-CoV-2 genome data: Price theory of mutant isolates",
+    "keywords": [
+        "SARS-CoV-2",
+        "Multifractal analysis",
+        "Hurst exponent",
+        "Generalized dimension",
+        "Price equation"
+    ],
+    "author": "Saurav Mandal,#, R.K. Sanayaima Singh,#, Saurabh Kumar Sharma, Md. Zubbair Malik, and R.K. Brojen Singh,\u2217 1School of Computational and Integrative Sciences, Jawaharlal Nehru University, New Delhi-110067, India",
+    "date": 2020,
+    "affiliations": [
+        "School of Computational and Integrative Sciences, Jawaharlal Nehru University, New Delhi-110067, India",
+        "School of Computer and Systems Sciences, Jawaharlal Nehru University, New Delhi-110067, India"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.04.077511",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.04.077511.pdf"
+    },
+    "abstract": "SARS-CoV-2 is a highly virulent and deadly RNA virus causing the Covid-19 pandemic and several deaths across the world. The pandemic is so fast that any concrete theory of sudden widespread of this disease is still not known. In this work, we studied and analyzed a large number of publicly available SARS-CoV-2 genomes across the world using the multifractal approach. The mutation events in the isolates obey the Markov process and exhibit very high mutational rates, which occur in six specific genes and highest in orf1ab gene, leading to virulent nature. f (\u03b1) analysis indicated that the isolates are highly asymmetric (left-skewed), revealing the richness of complexity and dominance by large fluctuations in genome structure organization. The values of Hq and Dq are found to be significantly large, showing heterogeneous genome structure self-organization, strong positive correlation in organizing the isolates, and quite sensitive to fluctuations in and around it. We then present multiple-isolates hosts-virus interaction models, and derived Price equation for the model. The phase plane analysis of the model showed asymptotic stability type bifurcation. The competition among the mutant isolates drives the trade-off of the dominant mutant isolates, otherwise confined to the present hosts.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Indian Council of Medical"
+                }
+            ],
+            "funding-statement": "SM (Project ID: 2019-5116, File No: ISRM/11(16)/2019) is financially supported by Indian Council of Medical Research(ICMR)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Health and Research, Ministry"
+                },
+                {
+                    "funding-source": "Health and Family Welfare, Government"
+                },
+                {
+                    "funding-source": "FTS No",
+                    "award-id": [
+                        "3146887"
+                    ]
+                }
+            ],
+            "funding-statement": "MZM financially supported by Department of Health and Research, Ministry of Health and Family Welfare, Government of India under young scientist FTS No 3146887"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Author Contributions RKB and MZM"
+                }
+            ],
+            "funding-statement": "R.K.B.S. acknowledges UPE-II, sanction no. 101, India, for providing financial support. Author Contributions RKB and MZM conceptualized and designed the model"
+        }
+    ]
+}

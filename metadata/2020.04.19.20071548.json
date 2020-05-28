@@ -1,0 +1,50 @@
+{
+    "abstract": "Importance: Currently, there is no unified framework linking disease progression to established viral levels, clinical tests, inflammatory markers, and investigational treatment options. Objective: It may take many weeks or months to establish a standard treatment approach. Given the growing morbidity and mortality with respect to COVID-19, we present a treatment approach based on a thorough review of scholarly articles and clinical reports. Our focus is on staged progression, clinical algorithms, and individualized treatment. Evidence Review: We followed the protocol for a quality review article proposed by Heyn et. al.1 A literature search was conducted to find all relevant studies related to COVID-19. The search was conducted between April 1, 2020 and April 13, 2020 using the following electronic databases: PubMed (1809 to present), Google Scholar (1900 to present), MEDLINE (1946 to present), CINAHL (1937 to present), and Embase (1980 to present). Keywords used included COVID-19, 2019-nCov, SARS-CoV-2, SARS-CoV, and MERS-CoV, with terms such as efficacy, seroconversion, microbiology, pathophysiology, viral levels, inflammation, survivability, and treatment and pharmacology. No language restriction was placed on the search. Reference lists were manually scanned for additional studies. Findings: Of the articles found in the literature search, 70 were selected for inclusion in this study (67 cited in the body of the manuscript and 3 additional unique references in the Figures). The articles represent work from China, Japan, Taiwan, Vietnam, Rwanda, Israel, France, the United Kingdom, the Netherlands, Canada, and the United States. Most of the articles were cohort or case studies, but we also drew upon information found in guidelines from hospitals and clinics instructing their staff on procedures to follow. In addition, we based some decisions on data collected by agencies such as the CDC, FDA, IHME, ISDA, and Worldometer. None of the case studies or cohort studies used a large number of participants. The largest group of participants numbered less than 500 and some case studies had fewer than 30 patients. However, the review of the literature revealed the need for individualized treatment protocols due to the variability of patient clinical presentation and survivability. A number of factors appear to influence mortality: the stage at which the patient first presented for care, pre-existing health conditions, age, and the viral load the patient carried. Conclusion and Relevance: COVID-19 can be divided into three distinct Stages, beginning at the time of infection (Stage I), sometimes progressing to pulmonary involvement (Stage II, with or without hypoxemia) and less frequently to systemic inflammation (Stage III). In addition to modeling the stages of disease progression, we have also created a treatment algorithm which considers age, comorbidities, clinical presentation, and disease progression to suggest drug classes or treatment modalities. This paper presents the first evidence-based recommendations for individualized treatment for COVID-19.",
+    "author": "Darby Sider; Jinesh Mehta; Antonio Lewis Camargo; Luis Andux; Patrick Hardigan; Kathleen Hagen; Richard B Aguilar; Yelenis Seijo; Jared Piotrkowski; Jenankan Dev; Marlow B Hernandez; Bindu Mayi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071548",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071548"
+    },
+    "keywords": [
+        "used included COVID-19",
+        "2019-nCov",
+        "SARS-CoV-2",
+        "SARS-CoV",
+        "and MERS-CoV",
+        "with terms such as efficacy",
+        "seroconversion",
+        "microbiology",
+        "pathophysiology",
+        "viral levels",
+        "inflammation",
+        "survivability",
+        "and treatment and pharmacology",
+        "Japan",
+        "Taiwan",
+        "Vietnam",
+        "Rwanda",
+        "Israel",
+        "France",
+        "the United Kingdom",
+        "the Netherlands",
+        "Canada",
+        "and the United States",
+        "In addition",
+        "IHME",
+        "ISDA",
+        "and Worldometer",
+        "However",
+        "pre-existing health conditions",
+        "age",
+        "comorbidities",
+        "clinical presentation"
+    ],
+    "title": "Current Understanding of COVID-19 Clinical Course and Investigational Treatments",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No third party funding was requested or received. Moreover, the authors' institutions did not offer specific or special compensation for working on this paper."
+        }
+    ]
+}

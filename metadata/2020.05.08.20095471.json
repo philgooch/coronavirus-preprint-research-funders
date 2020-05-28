@@ -1,0 +1,33 @@
+{
+    "abstract": "Background: COVID-19 disease, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has spread globally, and no proven treatments are available. Convalescent plasma therapy has been used with varying degrees of success to treat severe microbial infections for more than 100 years. Methods: Patients (n=25) with severe and/or life-threatening COVID-19 disease were enrolled at the Houston Methodist hospitals from March 28 to April 14, 2020. Patients were transfused with convalescent plasma obtained from donors with confirmed SARS-CoV-2 infection and had been symptom free for 14 days. The primary study outcome was safety, and the secondary outcome was clinical status at day 14 post-transfusion. Clinical improvement was assessed based on a modified World Health Organization 6-point ordinal scale and laboratory parameters. Viral genome sequencing was performed on donor and recipient strains. Results: At baseline, all patients were receiving supportive care, including anti-inflammatory and anti-viral treatments, and all patients were on oxygen support. At day 7 post-transfusion with convalescent plasma, nine patients had at least a 1-point improvement in clinical scale, and seven of those were discharged. By day 14 post-transfusion, 19 (76%) patients had at least a 1-point improvement in clinical status and 11 were discharged. No adverse events as a result of plasma transfusion were observed. The whole genome sequencing data did not identify a strain genotype-disease severity correlation. Conclusions: The data indicate that administration of convalescent plasma is a safe treatment option for those with severe COVID-19 disease. Randomized, controlled trials are needed to determine its efficacy.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Institutes of Health grants AI146771-01 and AI139369-01, and the Fondren Foundation, Houston Methodist Hospital and Research Institute (to JMM). This research has been funded in whole or part with federal funds under a contract from the National Institute of Allergy and Infectious Diseases, National Institutes of Health, Contract Number 75N93019C00050 (to JL and GCI). A portion of this work was funded through Cooperative Agreement W911NF-12-1-0390 by the Army Research Office (to JDG)"
+    ],
+    "author": "Taryn Eubank; James M. Musser; S. Wesley Long; Katharine G. Dlouhy; Matthew Ojeda Saavedra; Todd N. Eagar; Mary R. Schwartz; Curt Hampton; David W. Bernard; John Rogers; Katherine K. Perez; Karen Thomas; Monisha Dey; Randall J. Olsen; Ahmed Shehabeldin; Gregory C. Ippolito; Andre C. Maranhao; Sishir Subedi; Christopher Leveque; Brian Castillo; Concepcion C. Cantu; Jason Lavinder; Christina Talley; Jimmy D. Gollihar; Cheryl Chavez-East; Jian Chen; Madiha Ashraf; Faisal Masud; Prasanti Yerramilli; Paul A. Christensen; Guy Williams; David Joseph; Bevin Valdez Lopez; Layne Pruitt; Eric Salazar",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095471",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095471"
+    },
+    "title": "Treatment of COVID-19 Patients with Convalescent Plasma in Houston, Texas",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "AI146771-01",
+                        "AI139369-01"
+                    ]
+                },
+                {
+                    "funding-source": "Fondren Foundation, Houston"
+                },
+                {
+                    "funding-source": "Methodist Hospital and Research Institute"
+                }
+            ],
+            "funding-statement": "This study was supported by the National Institutes of Health grants AI146771-01 and AI139369-01, and the Fondren Foundation, Houston Methodist Hospital and Research Institute (to JMM)"
+        }
+    ]
+}

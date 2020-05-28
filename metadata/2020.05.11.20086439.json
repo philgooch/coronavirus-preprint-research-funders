@@ -1,0 +1,33 @@
+{
+    "abstract": "In the current SARS-CoV-2 pandemic a key unsolved question is the quality and duration of acquired immunity in recovered individuals. This is crucial to solve, however SARS-CoV-2 has circulated for under five months, precluding a direct study. We therefore monitored 10 subjects over a time span of 35 years (1985-2020), providing a total of 2473 follow up person-months, and determined a) their antibody levels following infection by any of the four seasonal human coronaviruses, and b) the time period after which reinfections by the same virus can occur. An alarmingly short duration of protective immunity to coronaviruses was found by both analyses. We saw frequent reinfections at 12 months post-infection and a substantial reduction in antibody levels as soon as 6 months post-infection.",
+    "author": "Martin Deijs; Joanna M Kaczorowska; Alexis CR Hoste; Amy Matser; Patricia Sastre; Maria Prins; Cormac Kinsella; Lia van der Hoek; Margreet Bakker; Maarten F Jebbink; Michelle Klein; Paloma Rueda; Arthur WD Edridge",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20086439",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20086439"
+    },
+    "title": "Human coronavirus reinfection dynamics: lessons for SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union's Horizon"
+                },
+                {
+                    "funding-source": "Marie Sklodowska-Curie Actions",
+                    "award-id": [
+                        "721367",
+                        "HONOURs"
+                    ]
+                },
+                {
+                    "funding-source": "Amsterdam UMC"
+                },
+                {
+                    "funding-source": "Amsterdam UMC PhD"
+                }
+            ],
+            "funding-statement": "This work was supported by a grant from the European Union's Horizon 2020 research and innovation programme, under the Marie Sklodowska-Curie Actions grant agreement no. 721367 (HONOURs), Amsterdam UMC funding connected to HONOURs, and the Amsterdam UMC PhD scholarship of A.W.D"
+        }
+    ]
+}

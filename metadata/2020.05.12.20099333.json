@@ -1,0 +1,46 @@
+{
+    "title": "THE MUC5B PROMOTOR POLYMORPHISM ASSOCIATES WITH SEVERE COVID-19",
+    "author": "Coline van Moorsel",
+    "date": 2020,
+    "affiliations": [
+        "St Antonius ILD Center of Excellence, Department of Pulmonology, St. Antonius Hospital, Nieuwegein, The Netherlands",
+        "Division of Heart and Lungs, University Medical Center Utrecht, Utrecht, The Netherlands 3 St Antonius ILD Center of Excellence, Department of Clinical Chemistry, St. Antonius Hospital, Nieuwegein, The Netherlands 4St Antonius ILD Center of Excellence, Department of Medical Microbiology and Immunology, St. Antonius Hospital, Nieuwegein, The Netherlands",
+        "These authors contributed equally to the study"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.20099333",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099333.pdf"
+    },
+    "abstract": "Background Diversity in response to exposition to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is common and may be related to the innate immune response. The mucin MUC5B is an important component of the innate immune response and expression levels are associated with the MUC5B promoter polymorphism, rs35705950. The high expressing T-allele of rs35705950 is an accepted risk allele for a non-infectious aging lung disease called idiopathic pulmonary fibrosis (IPF). However, given the theory of trade-offs in aging lung disease and the importance of high expression for an adequate immune response, we hypothesize that the T-allele is protective against severe coronavirus disease 2019 (COVID-19). Methods We collected demographics, radiology, survival data and MUC5B rs35705950 allele status for 108 patients requiring hospitalisation for COVID-19 at St Antonius Hospital in The Netherlands. For comparison of allele frequencies and allele carriership with a white control cohort, the patient cohort was divided in a white (n=83) and non-white cohort. Results The patients had a median age of 66 years and consisted predominantly of males (74%) and 23 patients (21%) died. The T-allele frequencies of rs35705950 in white patients was 0.04 which was significantly lower than the T-allele frequency of 0.10 in white controls (p= 0.02). Moreover, comparison of the number of carriers and non-carriers of the T allele showed that only 8.4% of patients carried the Tallele versus 18% of controls (p=0.029; OR= 0.41, CI=0.19-0.94). Conclusions The MUC5B rs35705950 promoter polymorphism associates with COVID-19. The risk allele (T) for IPF is protective against the development of severe COVID-19 disease. This is a further example of a trade-off between optimal expression levels in the respiratory system which associates with aging diseases. However, these results require further investigation.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Coline HM"
+                },
+                {
+                    "funding-source": "ZonMW TopZorg St Antonius Care",
+                    "award-id": [
+                        "842002001"
+                    ]
+                },
+                {
+                    "funding-source": "ZonMW Topspecialistische Zorg",
+                    "award-id": [
+                        "10070012010004"
+                    ]
+                },
+                {
+                    "funding-source": "Nederlandse Vereniging"
+                },
+                {
+                    "funding-source": "Tuberculose COVID-19"
+                }
+            ],
+            "funding-statement": "Corresponding author: Coline HM van Moorsel c.van.moorsel@antoniusziekenhuis.nl, Funding: ZonMW TopZorg St Antonius Care grant nr 842002001; ZonMW Topspecialistische Zorg en Onderzoek grant nr 10070012010004; Nederlandse Vereniging van Artsen voor Longziekten en Tuberculose COVID-19 grant"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "A calculation model for predicting the spread of the COVID-19 epidemic under quarantine conditions is proposed. The obtained simple analytical ratios allow estimating the factors determining the intensity of the infection spread, including changing requirements for quarantine severity. The presented method of forecasting allows to calculate both the total number of infected persons and the number of active infections. Comparison of the results of calculations according to the proposed model with the statistics for a number of cities shows their satisfactory qualitative and quantitative compliance. The proposed simple model can be useful in preliminary assessment of possible consequences of changing quarantine conditions.",
+    "author": "Felix Mairanowski; Denis Below",
+    "date": 2020,
+    "doi": "10.1101/2020.05.17.20104810",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.17.20104810"
+    },
+    "title": "Prediction of the coronavirus epidemic prevalence in quarantine conditions based on an approximate calculation model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There were no external fundings received."
+        }
+    ]
+}

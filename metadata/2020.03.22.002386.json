@@ -1,0 +1,70 @@
+{
+    "title": "A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential DrugRepurposing",
+    "date": 2020,
+    "author": "David E. Gordon, Gwendolyn M. Jang, Mehdi Bouhaddou, Jiewei Xu, Kirsten Obernier, Matthew J. O'Meara, Jeffrey Z. Guo, Danielle L. Swaney, Tia A. Tummino, Ruth Huettenhain, Robyn M. Kaake, Alicia L. Richards, Beril Tutuncuoglu, Helene Foussard, Jyoti Batra, Kelsey Haas, Maya Modak, Minkyu Kim, Paige Haas, Benjamin J. Polacco, Hannes Braberg, Jacqueline M. Fabius, Manon Eckhardt, Margaret Soucheray, Melanie J. Bennett, Merve Cakir, Michael J. McGregor, Qiongyu Li, Zun Zar Chi Naing, Yuan Zhou, Shiming Peng, Ilsa T. Kirby, James E. Melnyk, John S. Chorba, Kevin Lou, Shizhong A. Dai, Wenqi Shen, Ying Shi, Ziyang Zhang, Inigo Barrio-Hernandez, Danish Memon, Claudia Hernandez-Armenta, Christopher J.P. Mathy,10, Tina Perica, Kala B. Pilla, Sai J. Ganesan, Daniel J. Saltzberg, Rakesh Ramachandran, Xi Liu, Sara B. Rosenthal, Lorenzo Calviello, Srivats Venkataramanan, Jose Liboy-Lugo, Yizhu Lin, Stephanie A. Wankowicz, Markus Bohn, Phillip P. Sharp, Raphael Trenker, Janet M. Young, Devin A. Cavero, Joseph Hiatt, Theodore L. Roth, Ujjwal Rathore, Advait Subramanian, Julia Noack, Mathieu Hubert, Ferdinand Roesch, Thomas Vallet, Bj\u00f6rn Meyer, Kris M. White20, Lisa Miorin20, Oren S. Rosenberg, Kliment A Verba, David Agard, Melanie Ott, Michael Emerman, Davide Ruggero, Adolfo Garc\u00eda-Sastre20, Natalia Jura, Mark von Zastrow, Jack Taunton, Alan Ashworth, Olivier Schwartz, Marco Vignuzzi, Christophe d\u2019Enfert, Shaeri Mukherjee, Matt Jacobson, Harmit S. Malik, Danica G. Fujimori, Trey Ideker30, Charles S. Craik, Stephen Floor, James S. Fraser, John Gross, Andrej Sali, Tanja Kortemme,10, Pedro Beltrao, Kevan Shokat, Brian K. Shoichet, Nevan J. Krogan",
+    "affiliations": [
+        "University of California San Francisco, Quantitative Biosciences Institute (QBI), San Francisco, CA, 94158, USA 3J. David Gladstone Institutes, San Francisco, CA 94158, USA",
+        "University of California San Francisco, Department of Cellular and Molecular Pharmacology, San Francisco, CA, 94158, USA",
+        "Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI, 48109, USA",
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco",
+        "Howard Hughes Medical Institute",
+        "European Molecular Biology Laboratory (EMBL), European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, UK",
+        "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco",
+        "The UC Berkeley-UCSF Graduate Program in Bioengineering, University of California San Francisco, San Francisco, CA, USA",
+        "Center for Computational Biology and Bioinformatics, Department of Medicine, University of California San Diego",
+        "Department of Cell and Tissue Biology, University of California, San Francisco",
+        "Biophysics Graduate Program, University of California, San Francisco",
+        "Cardiovascular Research Institute, University of California San Francisco, San Francisco, CA, 94158, USA",
+        "Division of Basic Sciences, Fred Hutchinson Cancer Research Center",
+        "Medical Scientist Training Program, University of California, San Francisco, CA 94143, USA",
+        "George William Hooper Foundation, Department of Microbiology and Immunology, UC San Francisco",
+        "Virus and Immunity Unit, Institut Pasteur, 28 rue du Dr Roux, 75724 Paris Cedex 15, France",
+        "Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, 28 rue du Dr Roux, 75724 Paris cedex 15, France",
+        "Department for Microbiology, Icahn School of Medicine at Mount Sinai, New York, NY",
+        "Department of Medicine, University of California San Francisco, San Francisco, CA, USA",
+        "Department of Biochemistry and Biophysics, University of California San Francisco, San Francisco, CA, USA",
+        "Chan-Zuckerberg Biohub",
+        "Biochemistry & Biophysics and Quantitative Biosciences Institute UCSF 600 16th St San Francisco, CA 94143",
+        "Division of Human Biology, Fred Hutchinson Cancer Research Center, Seattle, WA 98103",
+        "Department of Urology, University of California, San Francisco, San Francisco, CA, USA",
+        "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, 94158, USA",
+        "University of California San Francisco, Department of Psychiatry, San Francisco, CA, 94158, USA",
+        "Direction Scientifique, Institut Pasteur, 28 rue du Dr Roux, 75724 Paris cedex 15, France",
+        "Division of Genetics, Department of Medicine, University of California San Diego"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.22.002386",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.22.002386.pdf"
+    },
+    "abstract": "An outbreak of the novel coronavirus SARS-CoV-2, the causative agent of COVID-19 respiratory disease, has infected over 290,000 people since the end of 2019, killed over 12,000, and caused worldwide social and economic disruption1,2. There are currently no antiviral drugs with proven efficacy nor are there vaccines for its prevention. Unfortunately, the scientific community has little knowledge of the molecular details of SARS-CoV-2 infection. To illuminate this, we cloned, tagged and expressed 26 of the 29 viral proteins in human cells and identified the human proteins physically associated with each using affinitypurification mass spectrometry (AP-MS), which identified 332 high confidence SARS-CoV-2-human protein-protein interactions (PPIs). Among these, we identify 67 druggable human proteins or host factors targeted by 69 existing FDA-approved drugs, drugs in clinical trials and/or preclinical compounds, that we are currently evaluating for efficacy in live SARS-CoV-2 infection assays. The identification of host dependency factors mediating virus infection may provide key insights into effective molecular targets for developing broadly acting antiviral therapeutics against SARS-CoV-2 and other deadly coronavirus strains.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Joshua Sarlo for"
+                },
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "P50AI150476",
+                        "U19AI135990",
+                        "U19AI135972",
+                        "R01AI143292",
+                        "R01AI120694",
+                        "P01A1063302",
+                        "R01AI122747 to N.J.K.",
+                        "R35GM122481 to B.K.S.",
+                        "1R01CA221969",
+                        "1R01CA244550 to K.M.S.",
+                        "K08HL124068 to J.S.C.",
+                        "1F32CA236347-01 to J.E.M."
+                    ]
+                }
+            ],
+            "funding-statement": "We thank Joshua Sarlo for his artistic contributions to the manuscript. This research was funded by grants from the National Institutes of Health (P50AI150476, U19AI135990, U19AI135972, R01AI143292, R01AI120694, P01A1063302, and R01AI122747 to N.J.K.; R35GM122481 to B.K.S.; 1R01CA221969 and 1R01CA244550 to K.M.S.; K08HL124068 to J.S.C.; 1F32CA236347-01 to J.E.M.); funding from F"
+        }
+    ]
+}

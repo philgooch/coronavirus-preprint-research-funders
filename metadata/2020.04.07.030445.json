@@ -1,0 +1,33 @@
+{
+    "title": "Analysis of the SARS-CoV-2 spike protein glycan shield: implications for immune recognition",
+    "date": 2020,
+    "affiliations": [
+        "Complex Carbohydrate Research Center, University of Georgia, 315 Riverbend Rd, Athens, GA 30602 Corresponding Author",
+        "Mailing address: 315 Riverbend Road, Athens, GA 30602. Tel.: 706-542-4454. Fax: 706-542-4412"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.07.030445",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.030445.pdf"
+    },
+    "abstract": "Here we have generated 3D structures of glycoforms of the spike (S) glycoprotein from SARS-CoV-2, based on reported 3D structures and glycomics data for the protein produced in HEK293 cells. We also analyze structures for glycoforms representing those present in the nascent glycoproteins (prior to enzymatic modifications in the Golgi), as well as those that are commonly observed on antigens present in other viruses.\nThese models were subjected to molecular dynamics (MD) simulation to determine the extent to which glycan microheterogeneity impacts the antigenicity of the S glycoprotein. Lastly, we have identified peptides in the S glycoprotein that are likely to be presented in human leukocyte antigen (HLA) complexes, and discuss the role of S protein glycosylation in potentially modulating the adaptive immune response to the SARS-CoV-2 virus or to a related vaccine.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "U01 CA207824",
+                        "P41 GM103390"
+                    ]
+                },
+                {
+                    "funding-source": "Author Contributions O.C."
+                }
+            ],
+            "funding-statement": "R.J.W. thanks the National Institutes of Health (U01 CA207824 and P41 GM103390) for financial support. Author Contributions O.C.G. and R.J.W. designed the research; O.C.G., D"
+        }
+    ]
+}

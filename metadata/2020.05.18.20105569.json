@@ -1,0 +1,16 @@
+{
+    "abstract": "The gold standard for COVID-19 diagnosis is detection of viral RNA in a reverse transcription PCR test. Due to global limitations in testing capacity, effective prioritization of individuals for testing is essential. Here, we devised a model that estimates the probability of an individual to test positive for COVID-19 based on answers to 9 simple questions regarding age, gender, presence of prior medical conditions, general feeling, and the symptoms fever, cough, shortness of breath, sore throat and loss of taste or smell, all of which have been associated with COVID-19 infection. Our model was devised from a subsample of a national symptom survey that was answered over 2 million times in Israel over the past 2 months and a targeted survey distributed to all residents of several cities in Israel. Overall, 43,752 adults were included, from which 498 self-reported as being COVID-19 positive. The model provides statistically significant predictions on held-out individuals and achieves a positive predictive value (PPV) of 46.3% at a 10% sensitivity. As our tool can be used online and without the need of exposure to suspected patients, it may have worldwide utility in combating COVID-19 by better directing the limited testing resources through prioritization of individuals for testing, thereby increasing the rate at which positive individuals can be identified and isolated.",
+    "author": "Angela Irony; Benjamin Geiger; Dmitry Kolobkov; Saar Shoer; Smadar Shilo; Hagai Rossman; Noam Castel; Ayya Keshet; Amir Gavrieli; Iris Kalka; Adam Kariv; Ran Balicer; Varda Shalev; Dorit Hizi; Eran Segal; Mushon Zer-Aviv; Ori Hoch; Anat Ekka Zohar; Amit Lavon; Tal Karady; Ori Cohen; Anastasia Godneva; Tomer Meir",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20105569",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20105569"
+    },
+    "title": "Who should we test for COVID-19? A triage model built from national symptom surveys",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no external funding was received</strong>"
+        }
+    ]
+}

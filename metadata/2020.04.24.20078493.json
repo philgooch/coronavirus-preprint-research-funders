@@ -1,0 +1,32 @@
+{
+    "abstract": "In this paper, a generalized fractional-order SEIR model is proposed, denoted by SEIQRP model, which has a basic guiding significance for the prediction of the possible outbreak of infectious diseases like COVID-19 and other insect diseases in the future. Firstly, some qualitative properties of the model are analyzed. The basic reproduction number R0 is derived. When R0 < 1, the disease-free equilibrium point is unique and locally asymptotically stable. When R0 > 1, the endemic equilibrium point is also unique. Furthermore, some conditions are established to ensure the local asymptotic stability of disease-free and endemic equilibrium points. The trend of COVID-19 spread in the United States is predicted. Considering the influence of the individual behavior and government mitigation measurement, a modified SEIQRP model is proposed, defined as SEIQRPD model. According to the real data of the United States, it is found that our improved model has a better prediction ability for the epidemic trend in the next two weeks. Hence, the epidemic trend of the United States in the next two weeks is investigated, and the peak of isolated cases are predicted. The modified SEIQRP model successfully capture the development process of COVID-19, which provides an important reference for understanding the trend of the outbreak.",
+    "affiliations": [
+        "National Nature Science Foundation of China under Grant 61772063, Beijing Natural Science Foundation under Grant Z180005"
+    ],
+    "author": "YangQuan Chen; Zhenzhen Lu; Yongguang Yu; Conghui Xu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078493",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078493"
+    },
+    "title": "Forecast analysis of the epidemics trend of COVID-19 in the United States by a generalized fractional-order SEIR model",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Nature Science Foundation of China",
+                    "award-id": [
+                        "61772063"
+                    ]
+                },
+                {
+                    "funding-source": "Beijing Natural Science Foundation",
+                    "award-id": [
+                        "Z180005"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is supported by the National Nature Science Foundation of China under Grant 61772063, Beijing Natural Science Foundation under Grant Z180005"
+        }
+    ]
+}

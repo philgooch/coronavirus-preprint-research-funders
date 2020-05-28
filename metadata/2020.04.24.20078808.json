@@ -1,0 +1,23 @@
+{
+    "abstract": "We study the dynamics of epidemics in a networked metapopulation model. In each subpopulation, representing a locality, disease propagates according to a modified susceptible-exposed-infected-recovered (SEIR) dynamics. We assume that individuals reduce their number of contacts as a function of the weighted sum of cumulative number of cases within the locality and in neighboring localities. The susceptible and exposed (pre-symptomatic and infectious) individuals are allowed to travel between localities undetected. To investigate the combined effects of mobility and contact reduction on disease progression within interconnected localities, we consider a scenario with two localities where disease originates in one and is exported to the neighboring locality via travel of undetected pre-symptomatic individuals. We associate the behavior change at the disease-importing locality due to the outbreak size at the origin with the level of preparedness of the locality. Our results show that restricting mobility is valuable if the importing locality is increasing its level of preparedness with respect to the outbreak size at the origin. Moreover, increased levels of preparedness can yield lower total outbreak size by further reducing the outbreak size at the importing locality, even when the response at the origin is weak. Our results highlight that public health decisions on social distancing at localities with less severe outbreaks should strongly account for potential impact of neighbouring localities with a poor response to the outbreak rather than localities with successful responses.",
+    "author": "Ceyhun Eksin; Martial Ndeffo-Mbah; Joshua S Weitz",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078808",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078808"
+    },
+    "title": "Reacting to outbreaks at neighboring localities",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Army Research Office",
+                    "award-id": [
+                        "W911NF1910384"
+                    ]
+                }
+            ],
+            "funding-statement": "Weitz was supported, in part, by a grant from the Army Research Office (W911NF1910384)"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "abstract": "Since the initial outbreak in Wuhan (Hubei, China) in December 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus responsible for coronavirus disease 2019 (COVID-19), has rapidly spread to cause one of the most pressing challenges facing our world today: the COVID-19 pandemic. Within four months of the first reported cases, more than two and a half million cases were confirmed with over two hundred thousand deaths globally, and many countries had taken extreme measures to stop the spread. In this work, we analyse the response to the COVID-19 outbreak for 103 countries over the period 22 January to 13 April 2020. We utilise a novel stochastic epidemiological model that includes a regulatory mechanism that captures the level of tolerance to rising confirmed cases within the response behaviour. Using approximate Bayesian computation, we identify that the top ten outbreaks as of 31 March are characterised by a high tolerance to rising cases tallies, whereas countries that avoided severe outbreak have a low tolerance. Countries that recovered rapidly also have a higher identification rate. As of 13 April, almost all countries show declines in transmission rates and basic reproductive numbers. Furthermore, countries approaching recovery also increased their identification rate between 31 March and 13 April. We also demonstrate that uncertainty in undocumented infections dramatically impacts uncertainty in predictions. Overall, we recommend that broader testing is required to understand the magnitude of undocumented infections.",
+    "author": "Christopher Drovandi; David J. Warne; Anthony Ebert; Antonietta Mira; Kerrie Mengersen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20085662",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20085662"
+    },
+    "title": "Hindsight is 2020 vision: Characterisation of the global response to the COVID-19 pandemic",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "105218_163196"
+                    ]
+                }
+            ],
+            "funding-statement": "AE is supported by a SNF grant (105218_163196)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "ARC Discovery Project",
+                    "award-id": [
+                        "DP200102101"
+                    ]
+                }
+            ],
+            "funding-statement": "CD is supported by an ARC Discovery Project (DP200102101)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "ARC Laureate",
+                    "award-id": [
+                        "LF150100150"
+                    ]
+                }
+            ],
+            "funding-statement": "KM is supported by an ARC Laureate grant (LF150100150)"
+        }
+    ]
+}

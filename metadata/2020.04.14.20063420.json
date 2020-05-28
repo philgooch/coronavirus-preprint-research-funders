@@ -1,0 +1,19 @@
+{
+    "abstract": "Background: Emergence of COVID-19 caught the world off-guard and unprepared, initiating a global pandemic. In the absence of evidence, individual communities had to take timely action to reduce the rate of disease spread and avoid overburdening their healthcare systems. Although a few predictive models have been published to guide these decisions, most have not taken into account spatial differences and have included assumptions that do not match the local realities. Access to reliable information that is adapted to local context is critical for policymakers to make informed decisions during a rapidly evolving pandemic. Objective: The goal of this study was to develop an adapted susceptible-infected-removed (SIR) model to predict the trajectory of the COVID-19 pandemic in North Carolina (NC) and the Charlotte metropolitan region and to incorporate the effect of a public health intervention to reduce disease spread, while accounting for unique regional features and imperfect detection. Methods: Using the software package R, three SIR models were fit to infection prevalence data from the state and the greater Charlotte region and then rigorously compared. One of these models (SIR-Int) accounted for a stay-at-home intervention and imperfect detection of COVID-19 cases. We computed longitudinal total estimates of the susceptible, infected, and removed compartments of both populations, along with other pandemic characteristics (e.g., basic reproduction number). Results: Prior to March 26, disease spread was rapid at the pandemic onset with the Charlotte region doubling time of 2.56 days (95% CI: (2.11, 3.25)) and in NC 2.94 days (95% CI: (2.33, 4.00)). Subsequently, disease spread significantly slowed with doubling times increased in the Charlotte region to 4.70 days (95% CI: (3.77, 6.22)) and in NC to 4.01 days (95% CI: (3.43, 4.83)). Reflecting spatial differences, this deceleration favored the greater Charlotte region compared to NC as a whole. A comparison of the efficacy of intervention, defined as 1 - the hazard ratio of infection, gave 0.25 for NC and 0.43 for the Charlotte region. Also, early in the pandemic, the initial basic SIR model had good fit to the data; however, as the pandemic and local conditions evolved, the SIR-Int model emerged as the model with better fit. Conclusions: Using local data and continuous attention to model adaptation, our findings have enabled policymakers, public health officials and health systems to proactively plan capacity and evaluate the impact of a public health intervention. Our SIR-Int model for estimated latent prevalence was reasonably flexible, highly accurate, and demonstrated the efficacy of a stay-at-home order at both the state and regional level. Our results highlight the importance of incorporating local context into pandemic forecast modeling, as well as the need to remain vigilant and informed by the data as we enter into a critical period of the outbreak.\nCompeting Interest Statement",
+    "affiliations": [
+        "North Carolina Department of Health and Human Services website, which can be accessed here: https://www.ncdhhs.gov/divisions/public-health/covid19/covid-19-nc-case-count"
+    ],
+    "author": "Jennifer S. Priem; Shih-Hsiung Chou; Andrew D. McWilliams; Pooja P. Palmer; Marc A. Kowalkowski; Philip J. Turk; Melanie D. Spencer; Yhenneko J. Taylor",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20063420",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20063420"
+    },
+    "title": "Modeling COVID-19 latent prevalence to assess a public health intervention at a state and regional scale",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Neither the authors nor their institution received external funding for the conduct of this study."
+        }
+    ]
+}

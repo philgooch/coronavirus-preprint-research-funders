@@ -1,0 +1,92 @@
+{
+    "abstract": "The current COVID-19 outbreak represents a most serious challenge for societies worldwide. It is endangering the health of millions of people, and resulting in severe socioeconomic challenges due to lock-down measures. Governments worldwide aim to devise exit strategies to revive the economy while keeping the pandemic under control. The problem is that the effects of distinct measures are not well quantified. This paper compares several suppression approaches and potential exit strategies using a new extended epidemic SEIR model. It concludes that while rapid and strong lock-down is an effective pandemic suppression measure, a combination of other strategies such as social distancing, active protection and removal can achieve similar suppression synergistically. This quantitative understanding will support the establishment of mid- and long-term interventions. Finally, the paper provides an online tool that allows researchers and decision makers to interactively simulate diverse scenarios with our model.",
+    "author": "Jose Ameijeiras-Alonso; Francoise Kemp; Daniele Proverbio; Laurent Mombaerts; Andreas Dominik Husch; Christophe Ley; Jorge Goncalves; Atte Aalto; Alexander Skupin; Stefano Magni",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075804",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075804"
+    },
+    "title": "Assessing suppression strategies against epidemic outbreaks like COVID-19: the SPQEIR model",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "DP and SM's"
+                },
+                {
+                    "funding-source": "FNR PRIDE DTU CriTiCS,",
+                    "award-id": [
+                        "10907093"
+                    ]
+                }
+            ],
+            "funding-statement": "DP and SM's work is supported by the FNR PRIDE DTU CriTiCS, ref 10907093"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Luxembourg National Research Fund",
+                    "award-id": [
+                        "PRIDE17/12244779/PARK-QC"
+                    ]
+                }
+            ],
+            "funding-statement": "FK's work is supported by the Luxembourg National Research Fund PRIDE17/12244779/PARK-QC"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Project on Computational Intelligence and Intelligent Control,",
+                    "award-id": [
+                        "B18024"
+                    ]
+                }
+            ],
+            "funding-statement": "JG is partly supported by the 111 Project on Computational Intelligence and Intelligent Control, ref B18024"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Luxembourg National Research Fund",
+                    "award-id": [
+                        "Project code: 13684479"
+                    ]
+                }
+            ],
+            "funding-statement": "AA is supported by the Luxembourg National Research Fund (FNR) (Project code: 13684479)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Flemish Science Foundation)",
+                    "award-id": [
+                        "GOA/12/014"
+                    ]
+                },
+                {
+                    "funding-source": "Research Fund KU Leuven)",
+                    "award-id": [
+                        "MTM2016-76969-P"
+                    ]
+                },
+                {
+                    "funding-source": "Spanish State Research Agency"
+                },
+                {
+                    "funding-source": "European Regional Development Fund"
+                },
+                {
+                    "funding-source": "Competitive Reference Groups",
+                    "award-id": [
+                        "2017-2020",
+                        "ED431C 2017/38"
+                    ]
+                },
+                {
+                    "funding-source": "Xunta de Galicia"
+                }
+            ],
+            "funding-statement": "JAA is supported by the FWO research project G.0826.15N (Flemish Science Foundation), GOA/12/014 project (Research Fund KU Leuven), Project MTM2016-76969-P from the Spanish State Research Agency (AEI) co-funded by the European Regional Development Fund (ERDF) and the Competitive Reference Groups 2017-2020 (ED431C 2017/38) from the Xunta de Galicia through the ERDF"
+        }
+    ]
+}

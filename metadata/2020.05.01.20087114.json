@@ -1,0 +1,16 @@
+{
+    "abstract": "Aims. The in-hospital mortality rate of the coronavirus disease 2019 (COVID-19) is higher in case of myocardial injury, but the underlying mechanism is unknown. We conducted a study on COVID-19 patients to determine the association of the extent of lung disease or coronary artery chest computed tomography (HRCT) variables, the Agatston coronary calcium score (CCS) and peri-coronary adipose tissue (PCAT) attenuation, with mortality. Methods and results. A single-center retrospective case series of 500 consecutive patients was collected, with chest HRCT performed as a gatekeeping-strategy in the workup of patients admitted for suspected COVID-19 to our emergency department in Northern Italy, from March 5 to March 15, 2020. Patients with laboratory-confirmed COVID-19 formed the final study group. The endpoint was in-hospital mortality at the time of final follow-up (March 30, 2020). Demographic, clinical, laboratory and HRCT data were collected from hospital electronic records, and HRCT features (CCS and PCAT attenuation) were measured post-hoc from HRCT images. Among 500 patients with suspected COVID-19, 279 had laboratory-confirmed COVID-19 and formed the study group. Among them, 170 patients (61%) were discharged alive and 109 (39%) died. Comparing patients discharged alive with patients who died, the median age was 65 vs 77 (p<0.001), with males 56% vs 68% (p=0.061), prior cardiovascular disease 9% vs 24% (p=0.001), median D-dimer 723 vs 1083 ng/ml (p<0.001), median C-reactive protein 78 vs 148 mg/L (p<0.001), the mean CCS 17 vs 189 (p<0.001) and the median PCAT attenuation -76.4 HU vs -68.6 HU (p<0.001). In multivariable analysis, only age (p<0.001), D-dimer (p=0.041), C-reactive protein (p=0.002), HRCT lung disease extent (p=0.002) and peri-coronary adipose tissue attenuation (p<0.001) not the Agatston CCS were independently associated with mortality. Conclusions. Our study suggests that higher mortality in COVID-19 may be at least partly mediated by coronary artery inflammation, rather than subclinical coronary artery disease extent.",
+    "author": "Chiara Martini; Angela Guidorossi; Nicola Gaibazzi; Maria Mattioli; Sergio Suma; Damini Dey; Massimo De Filippo; Anselmo Palumbo; Domenico Tuttolomondo",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087114",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087114"
+    },
+    "title": "Lung disease severity, Coronary Artery Calcium, Coronary inflammation and Mortality in Coronavirus Disease 2019.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "We received no funding regarding the work presented"
+        }
+    ]
+}

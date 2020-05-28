@@ -1,0 +1,64 @@
+{
+    "title": "Mutations, Recombination and Insertion in the Evolution of 2019-nCoV",
+    "date": 2020,
+    "affiliations": [
+        "Center for Systems Medicine, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100005; Suzhou Institute of Systems Medicine, Suzhou, Jiangsu 215123, China",
+        "NHC Key Laboratory of Biosafety, National Institute for Viral Disease Control and Prevention, China CDC, Beijing 102206, China",
+        "Department of Microbiology, Immunology and Molecular Genetics, University of California, Los Angeles, CA 90095, USA",
+        "Department of Microbiology and Molecular Genetics, University of Pittsburgh, Pittsburgh, PA 15213",
+        "College of Biology, Hunan Provincial Key Laboratory of Medical Virology, Hunan University, Changsha, 410082, China"
+    ],
+    "journal": "Mutations",
+    "volume": "2",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.29.971101",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.29.971101.pdf"
+    },
+    "abstract": "Background: The 2019 novel coronavirus (2019-nCoV or SARS-CoV-2) has spread more rapidly than any other betacoronavirus including SARS-CoV and MERS-CoV.\nHowever, the mechanisms responsible for infection and molecular evolution of this virus remained unclear.\nMethods: We collected and analyzed 120 genomic sequences of 2019-nCoV including\n11 novel genomes from patients in China. Through comprehensive analysis of the available genome sequences of 2019-nCoV strains, we have tracked multiple inheritable SNPs and determined the evolution of 2019-nCoV relative to other coronaviruses.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R01AI069120",
+                        "R01AI140718"
+                    ]
+                },
+                {
+                    "funding-source": "National Key Plan for Scientific Research and Development of China",
+                    "award-id": [
+                        "2016YFD0500301",
+                        "2016YFC1200200"
+                    ]
+                },
+                {
+                    "funding-source": "CAMS Initiative for Innovative Medicine",
+                    "award-id": [
+                        "CAMS-I2M",
+                        "2016-I2M-1- 005"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "U1603126"
+                    ]
+                },
+                {
+                    "funding-source": "Central Public- Interest Scientific Institution Basal Research Fund",
+                    "award-id": [
+                        "2016ZX310195",
+                        "2017PT31026",
+                        "2018PT31016",
+                        "2019M660548"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by NIH R01AI069120 and R01AI140718 grants, the National Key Plan for Scientific Research and Development of China (2016YFD0500301, 2016YFC1200200), CAMS Initiative for Innovative Medicine (CAMS-I2M, 2016-I2M-1- 005), the National Natural Science Foundation of China (U1603126), the Central Public- Interest Scientific Institution Basal Research Fund (2016ZX310195, 2017PT31026 and 2018PT31016), China postdoctoral science foundation grant (2019M660548)"
+        }
+    ]
+}

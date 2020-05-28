@@ -1,0 +1,27 @@
+{
+    "abstract": "Summary Background: To date, large amounts of epidemiological and case study data have been available for the Coronavirus Disease 2019 (COVID-19), which suggested that the mortality was related to not just respiratory complications. Here, we specifically analyzed kidney functions in COVID-19 patients and their relations to mortality. Methods: In this multi-centered, retrospective, observational study, we included 193 adult patients with laboratory-confirmed COVID-19 from 2 hospitals in Wuhan, 1 hospital in Huangshi (Hubei province, 83 km from Wuhan) and 1 hospital in Chongqing (754 km from Wuhan). Demographic data, symptoms, laboratory values, comorbidities, treatments, and clinical outcomes were all collected, including data regarding to kidney functions. Data were compared among three groups: non-severe COVID-19 patients (128), severe COVID-19 patients (65) and a control group of other pneumonia (28). For the data from computed tomographic (CT) scans, we also included a control group of healthy subjects (110 cases, without abnormalities in the lung and without kidney diseases). The primary outcome was a common presence of kidney dysfunctions in COVID-19 patients and the occurrence of acute kidney injury (AKI) in a fraction of COVID-19 patients. Secondary outcomes included a survival analysis of COVID-19 patients in conditions of AKI or comorbid chronic illnesses. Findings: We included 193 COVID-19 patients (128 non-severe, 65 severe (including 32 non-survivors), between January 6th and February 21th,2020; the final date of follow-up was March 4th, 2020) and 28 patients of other pneumonia (15 of viral pneumonia, 13 of mycoplasma pneumonia) before the COVID-19 outbreak. On hospital admission, a remarkable fraction of patients had signs of kidney dysfunctions, including 59% with proteinuria, 44% with hematuria, 14% with increased levels of blood urea nitrogen, and 10% with increased levels of serum creatinine, although mild but worse than that in cases with other pneumonia. While these kidney dysfunctions might not be readily diagnosed as AKI at admission, over the progress during hospitalization they could be gradually worsened and diagnosed as AKI. A univariate Cox regression analysis showed that proteinuria, hematuria, and elevated levels of blood urea nitrogen, serum creatinine, uric acid as well as D-dimer were significantly associated with the death of COVID-19 patients respectively. Importantly, the Cox regression analysis also suggested that COVID-19 patients that developed AKI had a ~5.3-times mortality risk of those without AKI, much higher than that of comorbid chronic illnesses (~1.5 times risk of those without comorbid chronic illnesses). Interpretation: To prevent fatality in such conditions, we suggested a high degree of caution in monitoring the kidney functions of severe COVID-19 patients regardless of the past disease history. In addition, upon day-by-day monitoring, clinicians should consider any potential interventions to protect kidney functions at the early stage of the disease and renal replacement therapies in severely ill patients, particularly for those with strong inflammatory reactions or a cytokine storm. Funding: None.",
+    "affiliations": [
+        "Department of Physiology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore 117597 and Singapore Bioimaging Consortium, Agency for Science Technology and Research, Singapore 138667"
+    ],
+    "author": "Ming Wu; Yahua Hu; Chuou Xu; Jiali Li; Chong Lei; Taojiao Wang; Xiaojun Wu; Hongbo Jia; Junan Yan; Xiaowei Chen; Yuanxiu Zhou; Yu Fu; Anti-2019-nCoV Volunteers; Min Han; Xiang Liao; Siji Song; Hailong Dong; Zhansong Zhou; Xianxiang Chen; Jiwei Yao; Yi Zhou; Zhen Li; Guangjie Duan; Jie Guo; Ming Hu",
+    "date": 2020,
+    "doi": "10.1101/2020.02.08.20021212",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.08.20021212"
+    },
+    "title": "Caution on Kidney Dysfunctions of COVID-19 Patients",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Funding: None"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Talents Program for Young Scholars\""
+                }
+            ],
+            "funding-statement": "This study was supported by grants from the \"1000-Talents Program for Young Scholars\" of China (X"
+        }
+    ]
+}

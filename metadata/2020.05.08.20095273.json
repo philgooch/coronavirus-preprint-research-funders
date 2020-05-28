@@ -1,0 +1,16 @@
+{
+    "abstract": "The analysis of COVID-19 statistics in different regions of the world with the intention of understanding the trend of progression of the pandemic is a task of paramount importance. Publicly available data includes cumulative number of cases, new cases each day, and the mortality. Extracting information from this data necessitates mathematical modeling. In this note a simple technique is adopted to determine the trend towards stabilized elimination of the infection. Results pertaining to several representative regions of the world are presented.",
+    "author": "Kirthi Tennakone; L. Ajith DeSilva; Zachary J. Welchel; Kasun Jayanath",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095273",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095273"
+    },
+    "title": "Evolution of the COVID Pandemic: A Technique for Mathematical Analysis of Data",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This study is not funded by organization or an individual"
+        }
+    ]
+}

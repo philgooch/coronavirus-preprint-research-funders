@@ -1,0 +1,26 @@
+{
+    "abstract": "Countries around the world are in a state of lockdown to help limit the spread of SARS-CoV-2. However, as the number of new daily confirmed cases begins to decrease, governments must decide how to release their populations from quarantine as efficiently as possible without overwhelming their health services. We applied an optimal control framework to an adapted Susceptible-Exposure-Infection-Recovery (SEIR) model framework to investigate the efficacy of two potential lockdown release strategies, focusing on the UK population as a test case. To limit recurrent spread, we find that ending quarantine for the entire population simultaneously is a high-risk strategy, and that a gradual re-integration approach would be more reliable. Furthermore, to increase the number of people that can be first released, lockdown should not be ended until the number of new daily confirmed cases reaches a sufficiently low threshold. We model a gradual release strategy by allowing different fractions of those in lockdown to re-enter the working non-quarantined population. Mathematical optimisation methods, combined with our adapted SEIR model, determine how to maximise those working while preventing the health service from being overwhelmed. The optimal strategy is broadly found to be to release approximately half the population two-to-four weeks from the end of an initial infection peak, then wait another three-to-four months to allow for a second peak before releasing everyone else. We also modelled an ''on-off'' strategy, of releasing everyone, but re-establishing lockdown if infections become too high. We conclude that the worst-case scenario of a gradual release is more manageable than the worst-case scenario of an on-off strategy, and caution against lockdown-release strategies based on a threshold-dependent on-off mechanism. The two quantities most critical in determining the optimal solution are transmission rate and the recovery rate, where the latter is defined as the fraction of infected people in any given day that then become classed as recovered. We suggest that the accurate identification of these values is of particular importance to the ongoing monitoring of the pandemic.",
+    "affiliations": [
+        "Council award of National Capability Funds to the Centre for Ecology and Hydrology"
+    ],
+    "author": "Michael B. Bonsall; Tom Brewer; Thomas Rawson; Dessislava Veltcheva; Chris Huntingford",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20084517",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20084517"
+    },
+    "title": "How and when to end the COVID-19 lockdown: an optimisation approach",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "BBSRC Industrial CASE",
+                    "award-id": [
+                        "BB/R505067/1"
+                    ]
+                }
+            ],
+            "funding-statement": "T.R.B is supported by the BBSRC Industrial CASE studentship BB/R505067/1"
+        }
+    ]
+}

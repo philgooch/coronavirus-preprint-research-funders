@@ -1,0 +1,57 @@
+{
+    "abstract": "Neutralizing antibodies could be antivirals against COVID-19 pandemics. Here, we report the isolation of four human-origin monoclonal antibodies from a convalescent patient in China. All of these isolated antibodies display neutralization abilities in vitro. Two of them (B38 and H4) block the binding between RBD and vial cellular receptor ACE2. Further competition assay indicates that B38 and H4 recognize different epitopes on the RBD, which is ideal for a virus-targeting mAb-pair to avoid immune escape in the future clinical applications. Moreover, therapeutic study on the mouse model validated that these two antibodies can reduce virus titers in the infected mouse lungs. Structure of RBD-B38 complex revealed that most residues on the epitope are overlapped with the RBD-ACE2 binding interface, which explained the blocking efficacy and neutralizing capacity. Our results highlight the promise of antibody-based therapeutics and provide the structural basis of rational vaccine design.",
+    "affiliations": [
+        "Zhejiang University special scientific research fund for COVID-19 prevention and control (2020XGZX019), the National Science and Technology Major Project (2018ZX10733403), the National Key R&D Program of China (2018YFC1200603), the National Key Plan for Scientific Research and Development of China (2016YFD0500304), National Natural Science Foundation of China (81902058), and the National Science and Technology Major Projects of Infectious Disease Funds (2017ZX10304402)"
+    ],
+    "author": "Guizhen Wu; Qihui Wang; Yan Wu; Feiran Wang; Changfa Fan; Yingxia Liu; Feng Gao; Jianxun Qi; Xuancheng Lu; Cheng Zhao; Shihua Li; Zheng Fan; Zhaohui Li; Yang Yang; Weiyu Peng; Yuhuan Gong; Yuhai Bi; Wenjie Tan; Delin Li; Chenguang Shen; Haixia Xiao; George Fu Gao; Shuguang Tan; Lei Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20077743",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20077743"
+    },
+    "title": "A non-competing pair of human neutralizing antibodies block COVID-19 virus binding to its receptor ACE2",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Zhejiang University",
+                    "award-id": [
+                        "COVID-19",
+                        "2020XGZX019"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Major Project",
+                    "award-id": [
+                        "2018ZX10733403"
+                    ]
+                },
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2018YFC1200603"
+                    ]
+                },
+                {
+                    "funding-source": "National Key Plan for Scientific Research and Development of China",
+                    "award-id": [
+                        "2016YFD0500304"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81902058"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Major Projects of Infectious Disease Funds",
+                    "award-id": [
+                        "2017ZX10304402"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by Zhejiang University special scientific research fund for COVID-19 prevention and control (2020XGZX019), the National Science and Technology Major Project (2018ZX10733403), the National Key R&D Program of China (2018YFC1200603), the National Key Plan for Scientific Research and Development of China (2016YFD0500304), National Natural Science Foundation of China (81902058), and the National Science and Technology Major Projects of Infectious Disease Funds (2017ZX10304402)"
+        }
+    ]
+}

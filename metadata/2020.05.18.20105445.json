@@ -1,0 +1,23 @@
+{
+    "abstract": "Prior to lockdown the spread of COVID-19 in UK is found to be exponential, with an exponent 0.207. In case of COVID-19 this spreading behaviour is quantitatively better described with a mobility-driven SIR-SEIR model [2] rather than the homogenous mixing models. Lockdown has dramatically slowed down the spread of COVID-19 in UK, and even more significantly, has changed the growth in the total number of infected from exponential to quadratic. This significant change is due to a transition from a mobility-driven epidemic spreading to a spatial epidemic which is dominated by slow growth of spatially isolated clusters of infected population. Our results strongly indicate that, to avoid a return to exponential growth of COVID-19 (also known as second wave), mobility restrictions should not be prematurely lifted. Instead mobility should be kept restricted while new measures, such as wearing of masks and contact tracing, get implemented in order to prevent health services becoming overwhelmed due to a resurgence of exponential growth.",
+    "author": "Maziar Nekovee",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20105445",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20105445"
+    },
+    "title": "Understanding the spreading patterns of COVID-19 in UK and its impact on exit strategies",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Economic and Social Research Council"
+                },
+                {
+                    "funding-source": "Impact Acceleator Account"
+                }
+            ],
+            "funding-statement": "This research was partially funded by UK Economic and Social Research Council (ESRC) through an Impact Acceleator Account"
+        }
+    ]
+}

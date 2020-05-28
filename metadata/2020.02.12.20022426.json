@@ -1,0 +1,68 @@
+{
+    "abstract": "Background: We evaluated if interventions aimed at air travellers can delay local SARS-CoV-2 community transmission in a previously unaffected country. Methods: We simulated infected air travellers arriving into countries with no sustained SARS-CoV-2 transmission or other introduction routes from affected regions. We assessed the effectiveness of syndromic screening at departure and/or arrival & traveller sensitisation to the COVID-2019-like symptoms with the aim to trigger rapid self-isolation and reporting on symptom onset to enable contact tracing. We assumed that syndromic screening would reduce the number of infected arrivals and that traveller sensitisation reduces the average number of secondary cases. We use stochastic simulations to account for uncertainty in both arrival and secondary infections rates, and present sensitivity analyses on arrival rates of infected travellers and the effectiveness of traveller sensitisation. We report the median expected delay achievable in each scenario and an inner 50% interval. Results: Under baseline assumptions, introducing exit and entry screening in combination with traveller sensitisation can delay a local SARS-CoV-2 outbreak by 8 days (50% interval: 3-14 days) when the rate of importation is 1 infected traveller per week at time of introduction. The additional benefit of entry screening is small if exit screening is effective: the combination of only exit screening and traveller sensitisation can delay an outbreak by 7 days (50% interval: 2-13 days). In the absence of screening, with less effective sensitisation, or a higher rate of importation, these delays shrink rapidly to less than 4 days. Conclusion: Syndromic screening and traveller sensitisation in combination may have marginally delayed SARS-CoV-2 outbreaks in unaffected countries.\nCompeting Interest Statement",
+    "author": "Kevin Van Zandvoort; Carl A B Pearson; Petra Klepac; Stefan Flasche; Samuel J Clifford; Billy J Quilty; Rosalind M Eggo; CMMID COVID-19 working group",
+    "date": 2020,
+    "doi": "10.1101/2020.02.12.20022426",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.12.20022426"
+    },
+    "title": "Effectiveness of interventions targeting air travellers for delaying local outbreaks of SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Sir Henry Dale Fellowship"
+                },
+                {
+                    "funding-source": "Wellcome Trust and the Royal Society",
+                    "award-id": [
+                        "208812/Z/17/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "SF and SC are supported by a Sir Henry Dale Fellowship jointly funded by the Wellcome Trust and the Royal Society (Grant number 208812/Z/17/Z)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "HDR UK Innovation Fellowship",
+                    "award-id": [
+                        "MR/S003975/1"
+                    ]
+                }
+            ],
+            "funding-statement": "RME acknowledges an HDR UK Innovation Fellowship (Grant number MR/S003975/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "UK Government"
+                }
+            ],
+            "funding-statement": "BQ was funded by the National Institute for Health Research (NIHR) (16/137/109) using UK aid from the UK Government to support global health research"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation",
+                    "award-id": [
+                        "INV-003174"
+                    ]
+                }
+            ],
+            "funding-statement": "PK was funded by the Bill & Melinda Gates Foundation (INV-003174)"
+        }
+    ]
+}

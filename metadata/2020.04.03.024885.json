@@ -1,0 +1,49 @@
+{
+    "title": "Rapid in silico design of antibodies targeting SARS-CoV-2 using machine learning and supercomputing",
+    "date": 2020,
+    "author": "Thomas Desautels, Adam Zemla, Edmond Lau, Magdalena Franco, Daniel Faissol, Lawrence Livermore National Laboratory",
+    "affiliations": [
+        "Lawrence Livermore National Laboratory",
+        "Department of Energy by Lawrence Livermore National Laboratory under contract DE-AC52-07NA27344. Lawrence Livermore National Security, LLC",
+        "Correspondence to:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.03.024885",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.03.024885.pdf"
+    },
+    "abstract": "Rapidly responding to novel pathogens, such as SARS-CoV-2, represents an extremely challenging and complex endeavor. Numerous promising therapeutic and vaccine research efforts to mitigate the catastrophic effects of COVID-19 pandemic are underway, yet an efficacious countermeasure is still not available. To support these global research efforts, we have used a novel computational pipeline combining machine learning, bioinformatics, and supercomputing to predict antibody structures capable of targeting the SARS-CoV-2 receptor binding domain (RBD). In 22 days, using just the SARS-CoV-2 sequence and previously published neutralizing antibody structures for SARS-CoV-1, we generated 20 initial antibody sequences predicted to target the SARS-CoV-2 RBD. As a first step in this process, we predicted (and publicly released) structures of the SARS-CoV-2 spike protein using homology-based structural modeling. The predicted structures proved to be accurate within the targeted RBD region when compared to experimentally derived structures published weeks later. Next we used our in silico design platform to iteratively propose mutations to SARS-CoV-1 neutralizing antibodies (known not to bind SARS-Cov-2) to enable and optimize binding within the RBD of SARS-CoV-2. Starting from a calculated baseline free energy of -48.1 kcal/mol (\u00b1 8.3), our 20 selected first round antibody structures are predicted to have improved interaction with the SARS-CoV-2 RBD with free energies as low as -82.0 kcal/mole. The baseline SARS-CoV-1 antibody in complex with the SARS-CoV-1 RBD has a calculated interaction energy of -52.2 kcal/mole and neutralizes the virus by preventing it from binding and entering the human ACE2 receptor. These results suggest that our predicted antibody mutants may bind the SARS-CoV-2 RBD and potentially neutralize the virus. Additionally, our selected antibody mutants score well according to multiple antibody developability metrics. These antibody designs are being expressed and experimentally tested for binding to COVID-19 viral proteins, which will provide invaluable feedback to further improve the machine learning\u2013driven designs. This technical report is a high-level description of that effort; the Supplementary Materials includes the homology-based structural models we developed and 178,856 in silico free energy calculations for 89,263 mutant antibodies derived from known SARS-CoV-1 neutralizing antibodies.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "DARPA",
+                    "award-id": [
+                        "HR0011940414",
+                        "HR0011832631"
+                    ]
+                }
+            ],
+            "funding-statement": "The design platform leveraged in this work was supported by DARPA contract HR0011940414 and HR0011832631"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The COVID-19"
+                },
+                {
+                    "funding-source": "Laboratory Directed Research and Development",
+                    "award-id": [
+                        "LDRD 20-ERD-032"
+                    ]
+                },
+                {
+                    "funding-source": "Lawrence Livermore National Laboratory"
+                }
+            ],
+            "funding-statement": "The COVID-19 effort described in this document was supported by Laboratory Directed Research and Development (LDRD 20-ERD-032) at Lawrence Livermore National Laboratory (LLNL)"
+        }
+    ]
+}

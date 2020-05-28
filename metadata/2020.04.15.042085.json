@@ -1,0 +1,50 @@
+{
+    "title": "TMPRSS2 and furin are both essential for proteolytic activation and spread of SARS-CoV-2 in human airway epithelial cells and provide promising drug targets",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Virology, Philipps-University, Marburg, Germany 11",
+        "Institute of Pharmaceutical Chemistry, Philipps-University, Marburg, Germany 12",
+        "Department of Biomedical Sciences, Carlson College of Veterinary Medicine, Oregon",
+        "State University, Corvallis, USA 14",
+        "Fraunhofer Institute for Molecular Biology and Applied Ecology, Gie\u00dfen, Germany 15",
+        "German Center for Infection Research (DZIF), Marburg-Gie\u00dfen-Langen Site, Emerging",
+        "Infections Unit, Philipps-University, Marburg, Germany 17 18 #These authors contributed equally to this work. 19 20",
+        "Corresponding author: Eva B\u00f6ttcher-Friebertsh\u00e4user 21 Institute of Virology, Philipps-University Marburg 22 Hans-Meerwein-Stra\u00dfe 2, 35043 Marburg, Germany 23 Tel: 0049-6421-2866019 24"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.15.042085",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.15.042085.pdf"
+    },
+    "abstract": "(295) In December 2019, a novel coronavirus named SARS-CoV-2 first reported in Wuhan, China, emerged and rapidly spread to numerous other countries globally, causing the current pandemic. SARS-CoV-2 causes acute infection of the respiratory tract (COVID-19) that can result in severe disease and lethality. Currently, there is no approved antiviral drug for treating COVID-19 patients and there is an urgent need for specific antiviral therapies and vaccines. In order for SARS-CoV-2 to enter cells, its surface glycoprotein spike (S) must be cleaved at two different sites by host cell proteases, which therefore represent potential drug targets. In the present study we investigated which host cell proteases activate the SARS-CoV-2 S protein in Calu-3 human airway epithelial cells. We show that S can be cleaved by both the proprotein convertase furin at the S1/S2 site and the transmembrane serine protease 2 (TMPRSS2) at the S2\u2019 site. We demonstrate that TMPRSS2 is essential for activation of SARS-CoV-2 S in Calu-3 cells through antisense-mediated knockdown of TMPRSS2 expression. Further, we show that SARS-CoV-2 replication can be efficiently inhibited by two synthetic inhibitors of TMPRSS2 and also by the broad range serine protease inhibitor aprotinin. Additionally, SARS-CoV-2 replication was also strongly inhibited by the synthetic furin inhibitor MI-1851. Combining various TMPRSS2 inhibitors with MI-1851 produced more potent antiviral activity against SARS-CoV-2 than an equimolar amount of any single serine protease inhibitor. In contrast, inhibition of endosomal cathepsins by E64d did not affect virus replication. Our data demonstrate that both TMPRSS2 and furin are essential for SARS-CoV-2 activation in human airway cells and are promising drug targets for the treatment of COVID-19 either by targeting one of these proteases alone or by a combination of furin and TMPRSS2 inhibitors. Therefore, this approach has a high therapeutic potential for treatment of COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "LOEWE Center DRUID",
+                    "award-id": [
+                        "project D1"
+                    ]
+                },
+                {
+                    "funding-source": "German Center for Infection Research"
+                },
+                {
+                    "funding-source": "Deutsche Forschungsgemeinschaft",
+                    "award-id": [
+                        "German Research Foundation"
+                    ]
+                },
+                {
+                    "funding-source": "German Research Foundation) SFB",
+                    "award-id": [
+                        "project B07"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was funded by the LOEWE Center DRUID (project D1), by the German Center for Infection Research (DZIF), and by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) SFB 1021 (project B07)"
+        }
+    ]
+}

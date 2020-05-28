@@ -1,0 +1,55 @@
+{
+    "title": "Suramin inhibits SARS-CoV-2 infection in cell culture by interfering with early steps of the replication cycle",
+    "date": 2020,
+    "author": "5 Clarisse Salgado Benvindo da Silva, Melissa Thaler, Ali Tas, Natacha S. Ogando, Peter J. 6 Bredenbeek, Dennis K. Ninaber, Ying Wang, Pieter S. Hiemstra, Eric J. Snijder, Martijn J. van 7 Hemert",
+    "affiliations": [
+        "Department of Medical Microbiology, Leiden University Medical Center, Leiden, The",
+        "Department of Pulmonology, Leiden University Medical Center, Leiden, The Netherlands"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.06.081968",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.06.081968.pdf"
+    },
+    "abstract": "The SARS-CoV-2 pandemic that originated from Wuhan, China, in December 2019 has impacted public health, society and economy and the daily lives of billions of people in an unprecedented manner. There are currently no specific registered antiviral drugs to treat or prevent SARS-CoV-2 infections. Therefore, drug repurposing would be the fastest route to provide at least a temporary solution while better, more specific drugs are being developed. Here we demonstrate that the antiparasitic drug suramin inhibits SARS-CoV-2 replication, protecting Vero E6 cells with an EC50 of ~20 \u03bcM, which is well below the maximum attainable level in human serum. Suramin also decreased the viral load by 2-3 logs when Vero E6 cells or cells of a human lung epithelial cell line (Calu-3) were treated. Time of addition and plaque reduction assays showed that suramin acts on early steps of the replication cycle, possibly preventing entry of the virus. In a primary human airway epithelial cell culture model, suramin also inhibited the progression of infection. The results of our preclinical study warrant further investigation and suggest it is worth evaluating whether suramin provides any benefit for COVID-19 patients, which obviously requires well-designed, properly controlled randomized clinical trials.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Coordination for the Improvement of Higher Education Personnel",
+                    "award-id": [
+                        "Process nr. 88881.171440/2018-01"
+                    ]
+                },
+                {
+                    "funding-source": "Ministry of Education, Brazil"
+                }
+            ],
+            "funding-statement": "B. da Silva was supported by the Coordination for the Improvement of Higher Education Personnel (CAPES) (Process nr. 88881.171440/2018-01), Ministry of Education, Brazil"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ying Wang"
+                },
+                {
+                    "funding-source": "China Scholarship Council"
+                }
+            ],
+            "funding-statement": "Ying Wang was supported in part by a grant from the China Scholarship Council"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Leiden University Fund"
+                },
+                {
+                    "funding-source": "Bontius Foundation and"
+                }
+            ],
+            "funding-statement": "Part of this research was supported by the Leiden University Fund (LUF), the Bontius Foundation and donations from the crowdfunding initiative \"wake up to corona\""
+        }
+    ]
+}

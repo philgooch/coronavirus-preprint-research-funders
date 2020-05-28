@@ -1,0 +1,26 @@
+{
+    "abstract": "In this study we demonstrate that the adoption of a segmenting and shielding (S&S) strategy could increase scope to partially exit COVID-19 lockdown while limiting the risk of an overwhelming second wave of infection. The S&S strategy has an antecedent in the \"cocooning\" of infants by immunisation of close family members (Forsyth et al., 2015), and forms a pillar of infection, prevention and control (IPC) strategies (RCN, 2017). We are unaware of it being proposed as a major public health initiative previously. We illustrate the S&S strategy using a mathematical model that segments the vulnerable population and their closest contacts, the \"shielders\". We explore the effects on the epidemic curve of a gradual ramping up of protection for the vulnerable population and a gradual ramping down of restrictions on the non-vulnerable population over a period of 12 weeks after lockdown. The most important determinants of outcome are: i) post-lockdown transmission rates within the general population segment and between the general and vulnerable segments; ii) the fraction of the population in the vulnerable and shielder segments; iii) adherence with need to be protected; and iv) the extent to which population immunity builds up in all segments. We explored the effects of extending the duration of lockdown and faster or slower transition to post-lockdown conditions and, most importantly, the trade-off between increased protection of the vulnerable segment and fewer restrictions on the general population. We illustrate how the potential for the relaxation of restrictions interacts with specific policy objectives. We show that the range of options for relaxation in the general population can be increased by maintaining restrictions on the shielder segment and by intensive routine screening of shielders. We find that the outcome of any future policy is strongly influenced by the contact matrix between segments and the relationships between physical distancing measures and transmission rates. These relationships are difficult to quantify so close monitoring of the epidemic would be essential during and after the exit from lockdown. More generally, S&S has potential applications for any infectious disease for which there are defined proportions of the population who cannot be treated or who are at risk of severe outcomes.",
+    "author": "Feifei Zhang; Bram A.D. van Bunnik; Jordan Ashworth; Hannah C. Lepper; Mark E.J. Woolhouse; Nicola Rose Cave; Aziz Sheikh; Graham F. Medley; Lu Lu; Meghan R. Perry; Paul Kellam; Giles Calder-Gerver; Alex L.K. Morgan; Shengyuan Zhao; Paul Bessell; Samuel Haynes",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090597",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090597"
+    },
+    "title": "Segmentation and shielding of the most vulnerable members of the population as elements of an exit strategy from COVID-19 lockdown",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union",
+                    "award-id": [
+                        "ref. 874735"
+                    ]
+                },
+                {
+                    "funding-source": "Novo Nordisk Foundation"
+                }
+            ],
+            "funding-statement": "Our work is supported by the European Union (ref. 874735), Novo Nordisk Foundation (ref"
+        }
+    ]
+}

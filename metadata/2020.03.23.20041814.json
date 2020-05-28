@@ -1,0 +1,34 @@
+{
+    "title": "Population-Level Mortality Rates from Novel Coronavirus (COVID-19) in South Korea",
+    "author": "Samir Soneji",
+    "date": 2020,
+    "affiliations": [
+        "University of North Carolina, Chapel Hill (Soneji & Mann), University of California, Los Angeles (Beltr\u00e1n-S\u00e1nchez), Brown University (Yang)",
+        "Korean Center for Disease Control and Prevention (as of 22 March, 2020). We estimated population-level mortality rates by fitting a negative binomial regression model with the number of deaths as the outcome and population by age as an offset. We then calculated the age-standardized death rate (ASDR) based on the current COVID-19 figures and for alternative scenarios of increased prevalence"
+    ],
+    "journal": "Word Count",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.23.20041814",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.23.20041814.pdf"
+    },
+    "abstract": "Background: South Korea was among the first countries to report a case of the novel coronavirus (COVID-19) outside of China. As of 22 March, 2020, South Korea reported 8897 confirmed cases of and 104 deaths from COVID-19.\nMethods: We collected the number of laboratory-confirmed cases and deaths in South Korea from the World Health Organization (as of 21 March, 2020) and case distribution and fatality rates by age from the Korean Center for Disease Control and Prevention (as of 22 March, 2020). We estimated population-level mortality rates by fitting a negative binomial regression model with the number of deaths as the outcome and population by age as an offset. We then calculated the age-standardized death rate (ASDR) based on the current COVID-19 figures and for alternative scenarios of increased prevalence.\nFindings: The COVID-19 population-level mortality rate (per 100,000 person-years) increased with age: from 0.1 deaths among 30-39 year olds to 9.5 deaths among \u226580 year olds. The ASDR (per 100,000 person-years) was 0.8 deaths. The ASDR would increase to 52.0 deaths at a 1% prevalence (becoming the third leading cause of death) and 155.9 deaths at 3% prevalence (becoming the leading cause of death).",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "California Center for Population Research, University"
+                },
+                {
+                    "funding-source": "Los Angeles"
+                },
+                {
+                    "funding-source": "US NIH)"
+                }
+            ],
+            "funding-statement": "Grant P2C-HD041022, California Center for Population Research, University of California, Los Angeles (US NIH)."
+        }
+    ]
+}

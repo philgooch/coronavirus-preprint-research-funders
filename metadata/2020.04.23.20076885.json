@@ -1,0 +1,16 @@
+{
+    "abstract": "Global spread of coronavirus disease 2019 (COVID-19) has created an unprecedented infectious disease crisis worldwide. Despite uncertainties about COVID-19, model-based forecasting of competing mitigation measures on its course is urgently needed to inform mitigation policy. We used a stochastic agent-based microsimulation model of the COVID-19 epidemic in New York City and evaluated the potential impact of quarantine duration (from 4 to 16 weeks), quarantine lifting type (1-step lifting for all individuals versus a 2-step lifting according to age), post-quarantine screening, and use of a hypothetical effective treatment against COVID-19 on the disease's cumulative incidence and mortality, and on ICU-bed occupancy. The source code of the model has been deposited in a public source code repository. The model calibrated well and variation of model parameter values had little impact on outcome estimates. While quarantine is efficient to contain the viral spread, it is unlikely to prevent a rebound of the epidemic once lifted. We projected that lifting quarantine in a single step for the full population would be unlikely to substantially lower the cumulative mortality, regardless of quarantine duration. By contrast, a two-step quarantine lifting according to age was associated with a substantially lower cumulative mortality and incidence, up to 71% and 23%, respectively, as well as lower ICU-bed occupancy. Although post-quarantine screening was associated with diminished epidemic rebound, this strategy may not prevent ICUs from being overcrowded. It may even become deleterious after a 2-step quarantine lifting according to age if the herd immunity effect does not had sufficient time to become established in the younger population when the quarantine is lifted for the older population. An effective treatment against COVID-19 would considerably reduce the consequences of the epidemic, even more so if ICU capacity is not exceeded.",
+    "author": "Martin Blachier; Mark Olfson; Carlos Blanco; Marc Massetti; Henri Leleu; Frederic Limosin; Nicolas Hoertel",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076885",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076885"
+    },
+    "title": "Facing the COVID-19 epidemic in NYC: a stochastic agent-based model of various intervention strategies",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work did not receive any external funding."
+        }
+    ]
+}

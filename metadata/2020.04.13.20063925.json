@@ -1,0 +1,23 @@
+{
+    "abstract": "Objective: This study investigates the regional differences in the occurrence of COVID-19 in Brazil and its relationship with climatic and demographic factors by use data from February 26 to April 04, 2020. Methods: A Polynomial Regression Model with cubic adjustments of the number of days of contagion, demographic density, city population and climatic factors was designed and used to explain the spread of COVID-19 in Brazil. Main results: It was evidenced that temperature variation maintains a relationship with the reduction in the number of cases of COVID-19. A variation -3.4% in the number of COVID-19 cases was found for each increase of 1 C. Conclusion: There are evidences that the temperature, has a relative effect in the variation in the number of COVID-19's researched cases. For the reason, it recommends this relationship deserves to be investigated in other tests with more extended time series, wide and with especially non-linear data adjustments.",
+    "affiliations": [
+        "Federal University of Tocantins - Brazil"
+    ],
+    "author": "David Nadler Prata; Wainesten Camargo; Waldecy Rodrigues",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063925",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063925"
+    },
+    "title": "REGIONAL DETERMINANTS OF THE EXPANSION OF COVID-19 IN BRAZIL",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Federal University of Tocantins"
+                }
+            ],
+            "funding-statement": "The research was financed with resources from the Federal University of Tocantins - Brazil."
+        }
+    ]
+}

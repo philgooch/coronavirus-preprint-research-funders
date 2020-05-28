@@ -1,0 +1,38 @@
+{
+    "title": "SARS-CoV-2 codon usage bias downregulates host expressed genes with similar codon usage",
+    "date": 2020,
+    "author": "Andres Mariano Alonso 2,3 and Luis Diambra 1,\u2217 1 CREG, Universidad Nacional de La Plata. La Plata, Argentina. 2InTech, Universidad Nacional de San Martin. Chascomus, Argentina. 3 CONICET, Argentina. Correspondence,: Luis Diambra ldiambra@gmail.com",
+    "affiliations": [
+        "Universidad Nacional de La Plata. La Plata, Argentina",
+        "InTech, Universidad Nacional de San Martin. Chascomus, Argentina",
+        "CONICET, Argentina. Correspondence*: Luis Diambra"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.05.079087",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.05.079087.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome is quickly spreading throughout the world and was declared as a pandemic by the World Health Organisation (WHO). The pathogenic agent is a new coronavirus (SARS-CoV-2) that infects pulmonary cells with great effectiveness. In this study we focus on the codon composition for the viral proteins synthesis and its relationship with the proteins synthesis of the host. Our analysis reveals that SARS-CoV-2 preferred codons have poor representation of G or C nucleotides in the third position, a characteristic which could conduct to an unbalance in the tRNAs pools of the infected cells with serious implications in host protein synthesis. By integrating this observation with proteomic data from infected cells, we observe a reduced translation rate of host proteins associated with highly expressed genes, and that they share the codon usage bias of the virus. The functional analysis of these genes suggests that this mechanism of epistasis contributes to understand some deleterious collateral effect as result of the viral replication. In this manner, our finding contribute to the understanding of the SARS-CoV-2 pathogeny and could be useful for the design of a vaccine based on the live attenuated strategy.",
+    "keywords": [
+        "SARS-CoV-2",
+        "codon usage bias",
+        "translational control",
+        "pathogeny",
+        "vaccine design"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "Argentina",
+                        "Argentina"
+                    ]
+                }
+            ],
+            "funding-statement": "AA is a postdoctoral fellow of the CONICET (Argentina) and LD is researcher member of the CONICET (Argentina)."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "abstract": "Control of the ongoing severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic requires accurate laboratory testing to identify infected individuals, while also clearing essential staff to continue work. At the current time a number of RT-PCR tests have been developed to identify SARS-CoV-2, targeting multiple regions in the viral genome. In comparison to other RNA viruses the mutation rate of SARS-CoV-2 is moderate, however given the large number of transmission chains it is prudent to monitor circulating viruses for mutations that might compromise these tests. Here we report the identification of a C-to-T transition at position 26340 of the SARS-CoV-2 genome which is associated with failure of the cobas\u00ae SARS-CoV-2 E-gene assay. This variant was detected in four health care workers from the same team. Whole genome sequencing of SARS-CoV-2 showed all four to carry genetically identical viruses. Examination of viral genomes deposited on GISAID showed this mutation has arisen independently on three occasions. This work highlights the necessity of monitoring SARS-CoV-2 for the emergence of SNPs which might adversely affect the RT-PCRs used in diagnostics. Additionally, it argues that two regions in the SARS-CoV-2 should be targeted in RT-PCRs to avoid false negatives.",
+    "author": "Paul Gobbels; Raphael Boreux; Cecile Meex; Pierrette Melin; Marc Franckh; Vincent Bours; Maria Artesi; Keith Durkin; Sebastien Bontems; Marie-Pierre Hayette",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083337",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083337"
+    },
+    "title": "Failure of the cobas\u00ae SARS-CoV-2 (Roche) E-gene assay is associated with a C-to-T transition at position 26340 of the SARS-CoV-2 genome",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "R\u00e9gion Wallonne",
+                    "award-id": [
+                        "convention n\u00b0 1710180"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the R\u00e9gion Wallonne project WALGEMED(convention n\u00b0 1710180)"
+        }
+    ]
+}

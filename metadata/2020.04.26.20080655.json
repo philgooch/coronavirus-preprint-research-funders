@@ -1,0 +1,16 @@
+{
+    "abstract": "The outbreak of COVID-19 is first identified in China, which later spread to various parts of the globe and was pronounced pandemic by the World Health Organization (WHO). The disease of transmissible person-to-person pneumonia caused by the extreme acute respiratory coronavirus 2 syndrome (SARS-COV-2, also known as COVID-19), has sparked a global warning. Thermal screening, quarantining, and later lockdown were methods employed by various nations to contain the spread of the virus. Though exercising various possible plans to contain the spread help in mitigating the effect of COVID-19, projecting the rise and preparing to face the crisis would help in minimizing the effect. In the scenario, this study attempts to use Machine Learning tools to forecast the possible rise in number of cases by considering the data of daily new cases. To capture the uncertainty, three different techniques: (i) Decision Tree algorithm, (ii) Support Vector Machine algorithm, and (iii) Gaussian process regression are used to project the data and capture the possible deviation. Based on the projection of new cases, recovered cases, deceased cases, medical facilities, population density, number of test conducted, and facilities of services, are considered to define the criticality index (CI). CI is used to classify all the districts of country in the regions of high risk, low risk and moderate risk. An online dashpot is created which updates the data on daily bases for next four weeks. The prospective suggestions of this study would aid in planning the strategies to apply the lockdown/ any other plan for any country, which can take other parameters to define the CI.",
+    "author": "Akshay Kumar; Farhan Mohammad Khan; Rajiv Gupta; Harish Puppala",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20080655",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20080655"
+    },
+    "title": "Preparedness and Mitigation by projecting the risk against COVID-19 transmission using Machine Learning Techniques",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding is received for the completion of this work"
+        }
+    ]
+}

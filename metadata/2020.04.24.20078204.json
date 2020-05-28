@@ -1,0 +1,16 @@
+{
+    "abstract": "Paraphrasing [Morano and Holt, 2017], contextual determinants of health including social, environmental, healthcare and others, are a so-called deck of cards one is dealt. The ability to modify health outcomes varies then based upon how one's hand is played. It is thus of great interest to understand how these determinants associate with the emerging pandemic covid-19. To this end, we conducted a deep-dive analysis into this problem using a recently curated public dataset on covid-19 that connects infection spread over time to a rich collection of contextual determinants for all counties of the U.S and Washington, D.C. Using random forest machine learning methodology, we identified a relevant constellation of contextual factors of disease spread which manifest differently for urban and rural counties. The findings also have clear implications for better preparing for the next wave of disease.",
+    "author": "J. Sunil Rao; Hang Zhang; Alejandro Mantero",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078204",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078204"
+    },
+    "title": "Contextualizing covid-19 spread: a county level analysis, urban versus rural, and implications for preparing for the next wave",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

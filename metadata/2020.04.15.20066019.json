@@ -1,0 +1,16 @@
+{
+    "abstract": "The COVID-19 pandemic poses two challenges to healthcare providers. Firstly, a high number of patients require hospital admission. Second, a high number of healthcare staff are either falling ill with the infection, or self-isolating. This poses significant problems for the staffing of busy hospital departments. We have created a simple model which allows users to stress test their rota. The model provides plots of staff availability over time using either a constant infection rate, or a changing infection rate fitted to population-based infection curves. It allows users to gauge the extent and timing of dips in staff availability. The basic constant infection rate model is available within an on-line web application (https://covid19.shef.ac.uk). As for any model, our work is imperfect. However, it allows a range of infection rates to be simulated quickly across different work patterns. We hope it will be useful to those planning staff deployment and will stimulate debate on the most effective patterns of work during the COVID-19 epidemic.",
+    "author": "Norbert Gyenge; James J.P. Alix; Visakan Kadirkamanathan; Chloe N Schooling",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20066019",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20066019"
+    },
+    "title": "Forecasting Hospital Staff Availability During The COVID-19 Epidemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding to declare."
+        }
+    ]
+}

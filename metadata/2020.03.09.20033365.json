@@ -1,0 +1,37 @@
+{
+    "abstract": "Analysis of genetic sequence data from the pandemic SARS Coronavirus 2 can provide insights into epidemic origins, worldwide dispersal, and epidemiological history. With few exceptions, genomic epidemiological analysis has focused on geographically distributed data sets with few isolates in any given location. Here we report an analysis of 20 whole SARS-CoV 2 genomes from a single relatively small and geographically constrained outbreak in Weifang, People's Republic of China. Using Bayesian model-based phylodynamic methods, we estimate the reproduction number for the outbreak to be 1.99(95% CI:1.48-3.14). We further estimate the number of infections through time and compare these estimates to confirmed diagnoses by the Weifang Centers for Disease Control. We find that these estimates are consistent with reported cases and there is unlikely to be a large undiagnosed burden of infection over the period we studied.",
+    "author": "Junjie Zai; Wei Chen; Han Fu; Xiauoyue Xi; Yingying Chen; Xinguang Li; Dehui Liu; Wei Tan; Wanying Zan; Haowei Wang; Erik Volz; Qing Nie; Mengmeng Tian",
+    "date": 2020,
+    "doi": "10.1101/2020.03.09.20033365",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.09.20033365"
+    },
+    "title": "Genomic epidemiology of a densely sampled COVID19 outbreak in China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Medical Research Council"
+                },
+                {
+                    "funding-source": "UK Department for International Development"
+                }
+            ],
+            "funding-statement": "This work was supported by Centre funding from the UK Medical Research Council under a concordat with the UK Department for International Development"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Special Project for Prevention and Control of Pneumonia of New Coronavirus Infection in Weifang Science and Technology Development Plan in",
+                    "award-id": [
+                        "2020YQFK015"
+                    ]
+                },
+                {
+                    "funding-source": "Associate Senior Technologist Qing Nie"
+                }
+            ],
+            "funding-statement": "This work was also supported by a grant from the Special Project for Prevention and Control of Pneumonia of New Coronavirus Infection in Weifang Science and Technology Development Plan in 2020 (2020YQFK015) to Associate Senior Technologist Qing Nie"
+        }
+    ]
+}

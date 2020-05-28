@@ -1,0 +1,122 @@
+{
+    "abstract": "We estimate the number of COVID-19 cases from newly reported deaths in a population without previous reports. Our results suggest that by the time a single death occurs, hundreds to thousands of cases are likely to be present in that population. This suggests containment via contact tracing will be challenging at this point, and other response strategies should be considered. Our approach is implemented in a publicly available, user-friendly, online tool.",
+    "author": "Sam Abbott; Samuel Clifford; Kevin van Zandvoort; Hamish Gibbs; Tim Russell; Yang Liu; Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group; Christopher Jarvis; Carl Pearson; Thibaut Jombart; Nikos Bosse; Rosalind M Eggo; Adam J Kucharski; Amy Gimma; John Edmunds; Sebastian Funk",
+    "date": 2020,
+    "doi": "10.1101/2020.03.10.20033761",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.10.20033761"
+    },
+    "title": "Inferring the number of COVID-19 cases from recently reported deaths",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Global Challenges Research Fund"
+                },
+                {
+                    "funding-source": "RCUK and ESRC",
+                    "award-id": [
+                        "ES/P010873/1"
+                    ]
+                }
+            ],
+            "funding-statement": "The named authors (TJ, SA, AG, CIJ, , TWR, KvZ, SC, SF, HG, YL, CP, NIB, RME, AJK, WJE) had the following sources of funding: TJ, CIJ and AG receive funding from the Global Challenges Research Fund (GCRF) project \u0091RECAP\u0092 managed through RCUK and ESRC (ES/P010873/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Public Health Rapid Support Team"
+                },
+                {
+                    "funding-source": "United Kingdom Department of Health and Social Care"
+                }
+            ],
+            "funding-statement": "TJ receives funding from the UK Public Health Rapid Support Team funded by the United Kingdom Department of Health and Social Care"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "Health Protection Research Unit for Modelling Methodology"
+                }
+            ],
+            "funding-statement": "TJ receives funding from the National Institute for Health Research - Health Protection Research Unit for Modelling Methodology"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "210758/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "206250/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "208812/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "HDR UK",
+                    "award-id": [
+                        "MR/S003975/1"
+                    ]
+                }
+            ],
+            "funding-statement": "SA and SF were funded by the Wellcome Trust (grant number: 210758/Z/18/Z), TWR and AJK were funded by the Wellcome Trust (grant number: 206250/Z/17/Z), SC was funded by the Wellcome Trust (grant number: 208812/Z/17/Z), and RME was funded by HDR UK (grant number: MR/S003975/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Health and Social Care"
+                },
+                {
+                    "funding-source": "UK Aid"
+                },
+                {
+                    "funding-source": "NIHR"
+                }
+            ],
+            "funding-statement": "HG is funded by the Department of Health and Social Care using UK Aid funding and is managed by the NIHR"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation",
+                    "award-id": [
+                        "INV-003174"
+                    ]
+                }
+            ],
+            "funding-statement": "YL receives funding from the National Institute for Health (grant number: 16/137/109) and from the Bill and Melinda Gates Foundation (grant number: INV-003174)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The UK Public Health Rapid Support Team"
+                },
+                {
+                    "funding-source": "Department of Health and Social Care and"
+                },
+                {
+                    "funding-source": "Public Health England and the London School of Hygiene & Tropical Medicine"
+                }
+            ],
+            "funding-statement": "The UK Public Health Rapid Support Team is funded by UK aid from the Department of Health and Social Care and is jointly run by Public Health England and the London School of Hygiene & Tropical Medicine"
+        }
+    ]
+}

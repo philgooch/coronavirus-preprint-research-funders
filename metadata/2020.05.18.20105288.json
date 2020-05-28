@@ -1,0 +1,49 @@
+{
+    "abstract": "Background: The association between current tobacco smoking, the risk of developing COVID-19 and the severity of illness is an important information gap. Methods: UK users of the COVID Symptom Study app provided baseline data including demographics, anthropometrics, smoking status and medical conditions, were asked to log symptoms daily from 24th March 2020 to 23rd April 2020. Participants reporting that they did not feel physically normal were taken through a series of questions, including 14 potential COVID-19 symptoms and any hospital attendance. The main study outcome was the association between current smoking and the development of classic symptoms of COVID-19 during the pandemic defined as fever, new persistent cough and breathlessness. The number of concurrent COVID-19 symptoms was used as a proxy for severity. In addition, association of subcutaneous adipose tissue expression of ACE2, both the receptor for SARS-CoV-2 and a potential mediator of disease severity, with smoking status was assessed in a subset of 541 twins from the TwinsUK cohort. Results: Data were available on 2,401,982 participants, mean(SD) age 43.6(15.1) years, 63.3% female, overall smoking prevalence 11.0%. 834,437 (35%) participants reported being unwell and entered one or more symptoms. Current smokers were more likely to develop symptoms suggesting a diagnosis of COVID-19; classic symptoms adjusted OR[95%CI] 1.14[1.10 to 1.18]; >5 symptoms 1.29[1.26 to 1.31]; >10 symptoms 1.50[1.42 to 1.58]. Smoking was associated with reduced ACE2 expression in adipose tissue (Beta(SE)= -0.395(0.149); p=7.01x10-3). Interpretation: These data are consistent with smokers having an increased risk from COVID-19.\nCompeting Interest Statement",
+    "affiliations": [
+        "Ltd and the National Institute for Health Research (NIHR)-funded BioResource, Clinical Research Facility and Biomedical Research Centre based at Guy\u0092s and St Thomas\u0092 NHS Foundation Trust in partnership with King\u0092s College London. JSES, TDS and KSS acknowledge support from the Medical Research Council (MR/M004422/1)"
+    ],
+    "author": "Claire J Steves; Maxim B Freydin; Anthony A Laverty; Benjamin Murray; Kerrin Small; Marc Modat; Jennifer K Quint; Jonathan Wolf; Mario Falchi; Timothy Spector; Nicholas S Hopkinson; Julia El-Sayed Moustafa; Alessia Visconti; Niccolo Rossi; Sebastien Ourselin; Richard Davies",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20105288",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20105288"
+    },
+    "title": "Current tobacco smoking and risk from COVID-19: results from a population symptom app in over 2.4 million people",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Zoe Global Limited"
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "212904/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Medical Research Council"
+                },
+                {
+                    "funding-source": "British Heart Foundation Ancestry and Biological Informative Markers for Stratification of Hypertension",
+                    "award-id": [
+                        "MR/M016560/1"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by Zoe Global Limited as well as grants from the Wellcome Trust (212904/Z/18/Z) and the Medical Research Council (MRC)/British Heart Foundation Ancestry and Biological Informative Markers for Stratification of Hypertension (AIMHY; MR/M016560/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "MR/M004422/1"
+                    ]
+                }
+            ],
+            "funding-statement": "JSES, TDS and KSS acknowledge support from the Medical Research Council (MR/M004422/1)"
+        }
+    ]
+}

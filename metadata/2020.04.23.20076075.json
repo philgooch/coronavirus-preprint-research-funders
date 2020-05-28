@@ -1,0 +1,16 @@
+{
+    "abstract": "We introduce the problem of determining the mutational support of genes in the SARS-Cov-2 virus and estimating the distribution of mutations within different genes using small sample sizes that do not allow for accurate maximum likelihood estimation. The mutational support refers to the unknown number of sites mutated across all strains and individual samples of the SARS-Cov-2 genome; given the high cost and limited availability of real-time polymerase chain reaction (RT-PCR) test kits, especially in early stages of infections when only a small number of genomic samples (\u223c 1000s) are available that do not allow for determining the exact degree of mutations in an RNA virus that comprises roughly 30, 000 nucleotides. Nevertheless, working with small sample sets is required in order to quickly predict the mutation rate of this and other viruses and get an insight into their transformational power. Furthermore, with the small number of samples available, it is hard to estimate the mutational landscape across different age/gender groups and geographical locations which may be of great importance in assessing different risk categories and factors influencing susceptibility to infection. To this end, we use our state-of-the art polynomial estimator techniques and the Good-Turing estimator to obtain estimates based on only roughly 1, 000 samples per category. Our analysis reveals an interesting finding: the mutational support appears to be statistically more significant in patients which appear to have lower infection rates and handle the exposure with milder symptoms, such as women and people of relatively young age (\u2264 55).",
+    "author": "Olgica Milenkovic; Vishal Rana; Jianhao Peng; Eli Chien",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076075",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076075"
+    },
+    "title": "How fast does the SARS-Cov-2 virus really mutate in heterogeneous populations?",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "A Rapid, Cost-Effective Tailed Amplicon Method for Sequencing SARS-CoV-2",
+    "date": 2020,
+    "author": "Auch, Andrew Nelson, Sophia Yohe, and Kenneth B. Beckman, 1University of Minnesota Genomics Center, Minneapolis, MN, 55455, USA 2Department of Genetics, Cell Biology, and Development, University of Minnesota, Minneapolis",
+    "affiliations": [
+        "University of Minnesota Genomics Center, Minneapolis, MN, 55455, USA",
+        "Department of Genetics, Cell Biology, and Development, University of Minnesota, Minneapolis",
+        "Department of Lab Medicine and Pathology, Division of Molecular Pathology and Genomics",
+        "University of Minnesota, Minneapolis, MN 55455, USA",
+        "Corresponding author:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.11.088724",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.11.088724.pdf"
+    },
+    "abstract": "The global COVID-19 pandemic has led to an urgent need for scalable methods for clinical diagnostics and viral tracking. Next generation sequencing technologies have enabled largescale genomic surveillance of SARS-CoV-2 as thousands of isolates are being sequenced around the world and deposited in public data repositories. A number of methods using both short- and long-read technologies are currently being applied for SARS-CoV-2 sequencing, including amplicon approaches, metagenomic methods, and sequence capture or enrichment methods. Given the small genome size, the ability to sequence SARS-CoV-2 at scale is limited by the cost and labor associated with making sequencing libraries. Here we describe a low-cost, streamlined, all amplicon-based method for sequencing SARS-CoV-2, which bypasses costly and time-consuming library preparation steps. We benchmark this tailed amplicon method against both the ARTIC amplicon protocol and sequence capture approaches and show that an optimized tailed amplicon approach achieves comparable amplicon balance, coverage metrics, and variant calls to the ARTIC v3 approach and represents a cost-effective and highly scalable method for SARS-CoV-2 sequencing.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "Genome Sequencing",
+        "Viral Surveillance"
+    ],
+    "funding": [
+        {}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Insights on early mutational events in SARS-CoV-2 2 virus reveal founder effects across geographical 3 regions",
+    "date": 2020,
+    "author": "Carlos Farkas, Francisco Fuentes-Villalobos, Jos\u00e9 Luis Garrido, Jody J, Haigh, 6 and Mar\u00eda In\u00e9s Barr\u00eda,* 7 8 1Research Institute in Oncology and Hematology, CancerCare Manitoba, Winnipeg, Manitoba, 9 Canada. 10 2Department of Pharmacology and Therapeutics, Rady Faculty of Health Sciences, University of 11 Manitoba, Winnipeg, Manitoba, Canada 12 3Faculty of Biological Sciences, Department of Microbiology, Center of Biotechnology, 13 Universidad de Concepci\u00f3n, 4070386 Concepci\u00f3n, Chile. 14 4Ichor Biologics LLC, New York, NY 10065, USA. 15 16 Corresponding Author(s): 17 Carlos Farkas, 18 Research Institute in Oncology and Hematology, CancerCare Manitoba, ON5029, 675 19 McDermot Ave, Winnipeg, MB, Canada, R3E 0V, 20 Email address: carlos.farkaspool@umanitoba.ca 21 22 Mar\u00eda In\u00e9s Barr\u00eda, 23 3Faculty of Biological Sciences, Department of Microbiology, Center of Biotechnology, 24 Universidad de Concepci\u00f3n, 4070386 Concepci\u00f3n, Chile Email address: mbarriac@udec.cl 25",
+    "affiliations": [
+        "Research Institute in Oncology and Hematology, CancerCare Manitoba, Winnipeg, Manitoba",
+        "Department of Pharmacology and Therapeutics, Rady Faculty of Health Sciences, University of",
+        "Manitoba, Winnipeg, Manitoba, Canada 12",
+        "Faculty of Biological Sciences, Department of Microbiology, Center of Biotechnology",
+        "Universidad de Concepci\u00f3n, 4070386 Concepci\u00f3n, Chile. 14",
+        "Ichor Biologics LLC, New York, NY 10065, USA. 15",
+        "Corresponding Author(s):",
+        "Research Institute in Oncology and Hematology, CancerCare Manitoba, ON5029, 675",
+        "McDermot Ave, Winnipeg, MB, Canada, R3E 0V9 20 Email address:",
+        "Faculty of Biological Sciences, Department of Microbiology, Center of Biotechnology, 24 Universidad de Concepci\u00f3n, 4070386 Concepci\u00f3n, Chile Email address:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.09.034462",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.09.034462.pdf"
+    },
+    "abstract": "Here we aim to describe early mutational events across samples from publicly available SARS28 CoV-2 sequences from the sequence read archive repository. Up until March 27, 2020, we 29 downloaded 53 illumina datasets, mostly from China, USA (Washington DC) and Australia 30 (Victoria). Of 30 high quality datasets, 27 datasets (90%) contain at least a single founder mutation and most of the variants are missense (over 63%). Five-point mutations with clonal (founder) effect were found in USA sequencing samples. Sequencing samples from USA in GenBank present this signature with 50% allele frequencies among samples. Australian mutation signatures were more diverse than USA samples, but still, clonal events were found in those samples. Mutations in the helicase and orf1a coding regions from SARS-CoV-2 were predominant, among others, suggesting that these proteins are prone to evolve by natural selection. Finally, we firmly urge that primer sets for diagnosis be carefully designed, since rapidly occurring variants would affect the performance of the reverse transcribed quantitative PCR (RT-qPCR) based viral testing.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding from the Canadian Institute of Health Research",
+                    "award-id": [
+                        "project 419220",
+                        "USA-WA"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding from the Canadian Institute of Health Research (CIHR, project grant 419220).    Fig1    A    USA-WA    Australia-VIC"
+        }
+    ]
+}

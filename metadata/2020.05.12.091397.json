@@ -1,0 +1,31 @@
+{
+    "title": "Origin of Novel Coronavirus (COVID-19): A Computational Biology Study using Artificial Intelligence",
+    "date": 2020,
+    "author": "Thanh Thi Nguyen, Mohamed Abdelrazek, Dung Tien Nguyen, Sunil Aryal, Duc Thanh Nguyen and Amin Khatami School of Information Technology, Deakin University, Victoria, Australia E-mail: thanh.nguyen@deakin.edu.au. Tel: +61 3 52278281",
+    "affiliations": [
+        "Amin Khatami School of Information Technology, Deakin University, Victoria, Australia",
+        "National Center for Biotechnology Information (NCBI), in early April 2020. Among these sequences, 258 were reported from USA, 49 were from China and the rest were distributed through various countries from Asia to Europe and South America. Accession numbers and detailed distribution of these genome sequences across different countries are presented in Tables 4 and 5 in Appendix 1"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.091397",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.091397.pdf"
+    },
+    "abstract": "Origin of the COVID-19 virus has been intensely debated in the scientific community since the first infected cases were detected in December 2019. The disease has caused a global pandemic, leading to deaths of thousands of people across the world and thus finding origin of this novel coronavirus is important in responding and controlling the pandemic. Recent research results suggest that bats or pangolins might be the original hosts for the virus based on comparative studies using its genomic sequences. This paper investigates the COVID-19 virus origin by using artificial intelligence (AI) and raw genomic sequences of the virus. More than 300 genome sequences of COVID-19 infected cases collected from different countries are explored and analysed using unsupervised clustering methods. The results obtained from various AI-enabled experiments using clustering algorithms demonstrate that all examined COVID-19 virus genomes belong to a cluster that also contains bat and pangolin coronavirus genomes. This provides evidences strongly supporting scientific hypotheses that bats and pangolins are probable hosts for the COVID-19 virus. At the whole genome analysis level, our findings also indicate that bats are more likely the hosts for the COVID-19 virus than pangolins.",
+    "keywords": [
+        "Artificial intelligence",
+        "machine learning",
+        "coronavirus",
+        "COVID-19",
+        "SARS-CoV-2",
+        "origin",
+        "bat",
+        "pangolin",
+        "pandemic"
+    ],
+    "funding": [
+        {}
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Cryo-electron microscopy structure of the SADS-CoV spike glycoprotein provides insights into an evolution of unique coronavirus spike proteins",
+    "author": "Hongxin Guan, Youwang Wang, Abdullah F.U.H. Saeed, Jinyu Li, Syed",
+    "date": 2020,
+    "affiliations": [
+        "The Key Laboratory of Innate Immune Biology of Fujian Province, Provincial",
+        "University Key Laboratory of Cellular Stress Response and Metabolic Regulation",
+        "Biomedical Research Center of South China, Key Laboratory of OptoElectronic",
+        "Science and Technology for Medicine of Ministry of Education, College of Life"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.04.976258",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.04.976258.pdf"
+    },
+    "abstract": "The current outbreak of Coronavirus Disease 2019 (COVID-19) by a novel betacoronavirus severe acute respiratory syndrome coronavirus 2 (SARS30 CoV-2) has aroused great public health concern. Coronavirus has a history of causing epidemics in human and animals. In 2017 an outbreak in piglets by a novel coronavirus was emerged designated as swine acute diarrhea syndrome coronavirus (SADS-CoV) which is originated from the same genus of horseshoe bats (Rhinolophus) as Severe Acute Respiratory Syndrome CoV (SARS-CoV) having a broad species tropism. In addition to human cells, it can also infect cell lines from diverse species. Coronavirus host range is determined by its spike glycoprotein (S). Given the importance of S protein in viral entry to cells and host immune responses, here we report the cryo-EM structure of the SADS-CoV S in the prefusion conformation at a resolution of 3.55 \u00c5. Our study reveals that SADS-CoV S structure takes an intra-subunit quaternary packing mode where the NTD and CTD from the same subunit pack together by facing each other. The comparison of NTD and CTD with that of the other four genera suggests the evolutionary process of the SADS44 CoV S. Moreover, SADS-CoV S has several characteristic structural features, such as more compact architecture of S trimer, and masking of epitopes by glycan shielding, which may facilitate viral immune evasion. These data provide new insights into the evolutionary relationships of SADS-CoV S and would extend our understanding of structural and functional diversity, which",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31770948",
+                        "31570875"
+                    ]
+                },
+                {
+                    "funding-source": "Fujian Normal University",
+                    "award-id": [
+                        "Z0210509"
+                    ]
+                },
+                {
+                    "funding-source": "Special Funds of the Central Government",
+                    "award-id": [
+                        "2017L3009"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of  Guiding"
+                },
+                {
+                    "funding-source": "Development China",
+                    "award-id": [
+                        "31425007"
+                    ]
+                },
+                {
+                    "funding-source": "Chinese Ministry of Science and Technology",
+                    "award-id": [
+                        "2017YFA0504700"
+                    ]
+                },
+                {
+                    "funding-source": "Strategic Priority Research Program from Chinese Academy of Sciences",
+                    "award-id": [
+                        "XDB08010100"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31900879"
+                    ]
+                },
+                {
+                    "funding-source": "Natural Science"
+                }
+            ],
+            "funding-statement": "S.O was funded by National Natural Science Foundation of China grants (31770948, and 31570875) (S.O), The high-level personnel introduction grant of Fujian Normal University (Z0210509), Special Funds of the Central Government (2017L3009); P.Z was funded by National Natural Science Foundation of  Guiding  Local  Science and  Technology  Development China grants (31425007), grants from the Chinese Ministry of Science and Technology (2017YFA0504700), Strategic Priority Research Program from Chinese Academy of Sciences (XDB08010100); H.G was funded by National Natural Science Foundation of China grants (31900879), Natural Science"
+        }
+    ]
+}

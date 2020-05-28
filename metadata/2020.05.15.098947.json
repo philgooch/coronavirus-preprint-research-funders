@@ -1,0 +1,25 @@
+{
+    "title": "Implications of SARS-CoV-2 mutations for genomic RNA structure and host microRNA targeting",
+    "author": "Alexander McLellan",
+    "date": 2020,
+    "affiliations": [
+        "Department of Microbiology and Immunology, University of Otago, Dunedin 9010, Otago, New Zealand",
+        "Department of Microbiology and Immunology, University of Otago, Dunedin 9010, Otago, New Zealand"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.15.098947",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.15.098947.pdf"
+    },
+    "abstract": "The SARS-CoV-2 virus is a recently-emerged zoonotic pathogen already well adapted to transmission and replication in humans. Although the mutation rate is limited, recently introduced mutations in SARS-CoV-2 have the potential to alter viral fitness. In addition to amino acid changes, mutations could affect RNA secondary structure critical to viral life cycle, or interfere with sequences targeted by host miRNAs. We have analysed subsets of genomes from SARS-CoV-2 isolates from around the globe and show that several mutations introduce changes in Watson-Crick pairing, with resultant changes in predicted secondary structure. Filtering to targets matching miRNAs expressed in SARS-CoV-2 permissive host cells, we identified twelve separate target sequences in the SARS-CoV-2 genome; eight of these targets have been lost through conserved mutations. A genomic site targeted by the highly abundant miR-197-5p, overexpressed in patients with cardiovascular disease, is lost by a conserved mutation. Our results are compatible with a model that SARS-CoV-2 replication within the human host could be constrained by host miRNA defence. The impact of these and further mutations on secondary structures, miRNA targets or potential splice sites offers a new context in which to view future SARS-CoV-2 evolution, and a potential platform for engineered viral attenuation and antigen presentation. Keywords: SARS-CoV-2, RNA secondary structure, Conserved mutation and miRNA.",
+    "keywords": [
+        "SARS-CoV-2",
+        "RNA secondary structure",
+        "Conserved mutation and miRNA"
+    ],
+    "funding": [
+        {}
+    ]
+}

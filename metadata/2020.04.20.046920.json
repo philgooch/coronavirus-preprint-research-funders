@@ -1,0 +1,19 @@
+{
+    "title": "Leveraging Deep Learning to Simulate Coronavirus Spike proteins has the potential to predict future Zoonotic sequences",
+    "author": "Lisa C Crossman SequenceAnalysis.co.uk, Norwich Research Park, Norwich, Norfolk, UK & Honorary Senior Lecturer, School of Biological Sciences, University of East Anglia, Norwich, UK",
+    "date": 2020,
+    "affiliations": [
+        "Honorary Senior Lecturer, School of Biological Sciences, University of East Anglia, Norwich, UK"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.20.046920",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.20.046920.pdf"
+    },
+    "abstract": "Motivation Coronaviridae are a family of positivesense RNA viruses capable of infecting humans and animals. These viruses usually cause a mild to moderate upper respiratory tract infection, however, they can also cause more severe symptoms, gastrointestinal and central nervous system diseases. These viruses are capable of flexibly adapting to new environments, hence health threats from coronavirus are constant and long-term. Immunogenic spike proteins are glycoproteins found on the surface of Coronaviridae particles that mediate entry to host cells. The aim of this study was to train deep learning neural networks to produce simulated spike protein sequences, which may be able to aid in knowledge and/or vaccine design by creating alternative possible spike sequences that could arise from zoonotic sources in future. Results Here we have trained deep learning recurrent neural networks (RNN) to provide computer-simulated coronavirus spike protein sequences in the style of previously known sequences and examine their characteristics. Training used a dataset of alpha, beta, gamma and delta coronavirus spike sequences. In a test set of 100 simulated sequences, all 100 had most significant BLAST matches to Spike proteins in searches against NCBI nonredundant dataset (NR) and also possessed concomitant Pfam domain matches.",
+    "funding": [
+        {}
+    ]
+}

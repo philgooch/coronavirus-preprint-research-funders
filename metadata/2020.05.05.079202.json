@@ -1,0 +1,132 @@
+{
+    "title": "Neutralization of SARS-CoV-2 by destruction of the prefusion Spike",
+    "author": "Jiandong Huo, Yuguang Zhao, Jingshan Ren, Daming Zhou, Helen ME Duyvesteyn, Helen M Ginn, Loic Carrique, Tomas Malinauskas, Reinis R Ruza, Pranav NM Shah, Tiong Kit Tan, Pramila Rijal, Naomi Coombes, Kevin Bewley, Julika Radecke, Neil G Paterson, Piyasa Supasa, Juthathip Mongkolsapaya, Gavin R Screaton, Miles Carroll, Alain Townsend, Elizabeth E Fry, Raymond J Owens, David I Stuart",
+    "date": 2020,
+    "affiliations": [
+        "Division of Structural Biology, University of Oxford, The Wellcome Centre for Human Genetics, Headington, Oxford, OX3 7BN, UK",
+        "The Rosalind Franklin Institute, Harwell Campus, OX11 0FA, UK",
+        "Protein Production UK, Research Complex at Harwell, Harwell Science & Innovation Campus, Didcot, OX11 0FA, UK",
+        "MRC Human Immunology Unit, Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford, OX3 9DS, UK",
+        "National Infection Service, Public Health England, Porton Down, Salisbury, SP4 0JG, UK",
+        "Diamond Light Source Ltd, Harwell Science & Innovation Campus, Didcot, OX11 0DE, UK",
+        "Nuffield Department of Medicine, Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, UK",
+        "Dengue Hemorrhagic Fever Research Unit, Office for Research and Development, Faculty of Medicine, Siriraj Hospital, Mahidol University, Bangkok, Thailand"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.05.079202",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.05.079202.pdf"
+    },
+    "abstract": "There are as yet no licenced therapeutics for the COVID-19 pandemic. The causal coronavirus (SARS-CoV-2) binds host cells via a trimeric Spike whose receptor binding domain (RBD) recognizes angiotensin-converting enzyme 2 (ACE2), initiating conformational changes that drive membrane fusion. We find that monoclonal antibody CR3022 binds the RBD tightly, neutralising SARS-CoV-2 and report the crystal structure at 2.4 \u00c5 of the Fab/RBD complex. Some crystals are suitable for screening for entry-blocking inhibitors. The highly conserved, structure-stabilising, CR3022 epitope is inaccessible in the prefusion Spike, suggesting that CR3022 binding would facilitate conversion to the fusion-incompetent post-fusion state. Cryo-EM analysis confirms that incubation of Spike with CR3022 Fab leads to destruction of the prefusion trimer. Presentation of this cryptic epitope in an RBD-based vaccine might advantageously focus immune responses. Binders at this epitope may be useful therapeutically, possibly in synergy with an antibody blocking receptor attachment.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "CAMS-Oxford Institute"
+                }
+            ],
+            "funding-statement": "This work was supported by a grant from the CAMS-Oxford Institute to D.I.S"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "E.F and J.Ren"
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "101122/Z/13/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Cancer Research UK",
+                    "award-id": [
+                        "C375/A17721"
+                    ]
+                },
+                {
+                    "funding-source": "UK Medical Research Council",
+                    "award-id": [
+                        "MR/N00065X/1"
+                    ]
+                }
+            ],
+            "funding-statement": "E.E.F and J.Ren are supported by the Wellcome Trust (101122/Z/13/Z), Y.Z. by Cancer Research UK (C375/A17721) and D.I.S. and E.E.F. by the UK Medical Research Council (MR/N00065X/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "EPA Cephalosporin Fund"
+                }
+            ],
+            "funding-statement": "J.H. is supported by a grant from the EPA Cephalosporin Fund"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Rosalind Franklin Institute EPSRC Grant"
+                }
+            ],
+            "funding-statement": "PPUK is funded by the Rosalind Franklin Institute EPSRC Grant no"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The National Institute for Health Research Biomedical Research Centre Funding Scheme"
+                },
+                {
+                    "funding-source": "Chinese Academy of Medical Sciences"
+                },
+                {
+                    "funding-source": "Innovation Fund for Medical Science",
+                    "award-id": [
+                        "2018-I2M-2-002"
+                    ]
+                }
+            ],
+            "funding-statement": "The National Institute for Health Research Biomedical Research Centre Funding Scheme supports G.R.S. together with the Chinese Academy of Medical Sciences (CAMS) Innovation Fund for Medical Science (CIFMS), China (grant number: 2018-I2M-2-002), which also supports D.I.S"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust Senior Investigator",
+                    "award-id": [
+                        "095541/A/11/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "G.R.S. is also supported as a Wellcome Trust Senior Investigator (grant 095541/A/11/Z)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Cancer Research UK",
+                    "award-id": [
+                        "C20724/A14414",
+                        "C20724/A26752"
+                    ]
+                },
+                {
+                    "funding-source": "Christian Siebold"
+                }
+            ],
+            "funding-statement": "T.M. is supported by Cancer Research UK grants C20724/A14414 and C20724/A26752 to Christian Siebold"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Wellcome Centre for Human Genetics"
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "090532/Z/09/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "The Wellcome Centre for Human Genetics is supported by the Wellcome Trust (grant 090532/Z/09/Z)"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "title": "The novel coronavirus 2019 (2019-nCoV) uses the SARS-coronavirus receptor ACE2 and the cellular protease TMPRSS2 for entry into target cells",
+    "author": "Markus Hoffmann,*\u2020 Hannah Kleine-Weber, Nadine Kr\u00fcger, Marcel M\u00fcller",
+    "date": 2020,
+    "affiliations": [
+        "German Primate Center \u2013 Leibniz Institute for Primate Research",
+        "Faculty of Biology and Psychology, University G\u00f6ttingen, G\u00f6ttingen, Germany 10",
+        "Institute of Virology, University of Veterinary Medicine Hannover, Hannover, Germany. 11",
+        "Research Center for Emerging Infections and Zoonoses, University of Veterinary Medicine",
+        "Freie Universit\u00e4t Berlin, Humboldt-"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.01.31.929042",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.01.31.929042.pdf"
+    },
+    "abstract": "The emergence of a novel, highly pathogenic coronavirus, 2019-nCoV, in China, and its rapid national and international spread pose a global health emergency. Coronaviruses use their spike proteins to select and enter target cells and insights into nCoV-2019 spike (S)-driven entry might facilitate assessment of pandemic potential and reveal therapeutic targets. Here, we demonstrate that 2019-nCoV-S uses the SARS29 coronavirus receptor, ACE2, for entry and the cellular protease TMPRSS2 for 2019-nCoV30 S priming. A TMPRSS2 inhibitor blocked entry and might constitute a treatment option. 31 Finally, we show that the serum form a convalescent SARS patient neutralized 2019-nCoV32 S-driven entry. Our results reveal important commonalities between 2019-nCoV and SARS-coronavirus infection, which might translate into similar transmissibility and disease pathogenesis. Moreover, they identify a target for antiviral intervention. 36 One sentence summary: The novel 2019 coronavirus and the SARS-coronavirus share central biological properties which can guide risk assessment and intervention. 39 40 41 42 43 44 45 46",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "RAPID Consortium,",
+                    "award-id": [
+                        "01KI1723D",
+                        "01KI1723A"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding: This work was supported by BMBF (RAPID Consortium, 01KI1723D and 01KI1723A)"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "S.P. and C.D. acquired funding for the study"
+        }
+    ]
+}

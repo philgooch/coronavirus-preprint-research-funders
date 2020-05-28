@@ -1,0 +1,29 @@
+{
+    "abstract": "Objectives: Our objective was to review the literature on the inferred duration of the infectious period of COVID-19, caused by SARS-COV-2 virus, and provide an overview of the variation depending on the methodological approach. Design: Rapid scoping review. Literature review with fixed search terms, up to 1st April 2020. Central tendency and variation of the parameter estimates for infectious period in (a) asymptomatic (b) symptomatic cases from (i) virological studies (repeated testing), (ii) tracing studies (iii) modelling studies were gathered. Narrative review of viral dynamics. Information sources: Search strategies developed and the following searched: PubMed, Google Scholar, MedRxiv, BioRxiv. Additionally, the Health Information Quality Authority (Ireland) viral load synthesis was utilised, which screened literature from PubMed, Embase, ScienceDirect, NHS evidence, Cochrane, medRxiv and bioRxiv, HRB open databases. Results: There was substantial variation in the estimates, and how infectious period was inferred. One study provided approximate median infectious period for asymptomatic cases of 6.5-9.5 days. Median pre-symptomatic infectious period across studies varied over <1-4 days. Estimated mean time from symptom onset to two negative RT-PCR tests was 13.4 days (95%CI: 10.9-15.8), but was shorter when studies included children or less severe cases. Estimated mean duration from symptom onset to hospital discharge or death (potential maximal infectious period) was 18.1 days (95%CI: 15.1-21.0); time to discharge was on average 4 days shorter than time-to-death. Viral dynamic data and model infectious parameters were often shorter than repeated diagnostic data. Conclusions: There are limitations of inferring infectiousness from repeated diagnosis, viral loads, and viral replication data alone, and also potential patient recall bias relevant to estimating exposure and symptom onset times. Despite this, available data provides a preliminary evidence base to inform models of central tendency for key parameters, and variation for exploring parameter space and sensitivity analysis. Some current models may be underestimating infectious period.",
+    "affiliations": [
+        "University College Dublin, the Irish Department of Food and the Marine (DAFM), or the Irish Health Information and Quality Authority (HIQA). No additional funding was obtained for this research"
+    ],
+    "author": "David McEvoy; Ann Barber; Elizabeth Lane; Kieran Walsh; Francis Butler; John Griffin; Patrick Wall; Kirsty O'Brien; Conor McAloon; Andrew W. Byrne; Miriam Casey; Aine Collins; Kevin Hunt; Simon More",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20079889",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20079889"
+    },
+    "title": "Inferred duration of infectious period of SARS-CoV-2: rapid scoping review and analysis of available evidence for asymptomatic and symptomatic COVID-19 cases",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University College Dublin,"
+                },
+                {
+                    "funding-source": "Irish Department of Food and the Marine"
+                },
+                {
+                    "funding-source": "Irish Health Information and Quality Authority"
+                }
+            ],
+            "funding-statement": "All investigators are full-time employees (or retired former employees) of University College Dublin, the Irish Department of Food and the Marine (DAFM), or the Irish Health Information and Quality Authority (HIQA). No additional funding was obtained for this research."
+        }
+    ]
+}

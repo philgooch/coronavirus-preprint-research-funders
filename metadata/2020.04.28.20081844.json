@@ -1,0 +1,23 @@
+{
+    "abstract": "Background Serological testing for SARS-CoV-2 IgG antibodies is needed to document the community prevalence and distribution of the virus, particularly since many individuals have mild symptoms and cannot access molecular diagnostic testing of naso-pharyngeal swabs. However, the requirement for serum/plasma limits serological testing to clinical settings where it is feasible to collect and process venous blood. To address this problem we developed a serological test for SARS-CoV-2 IgG antibodies that requires only a single drop of capillary whole blood, collected from a simple finger prick and dried on filter paper (dried blood spot, DBS). Methods Enzyme linked immunosorbent assay (ELISA) was optimized to detect SARS-CoV-2 IgG antibodies against the receptor-binding domain (RBD) of the spike protein. DBS samples were eluted overnight and transferred to a 96-well plate coated with antigen, and anti-human IgG-HRP was used to generate signal in proportion to bound antibody. DBS samples spiked with anti-SARS IgG antibody, and samples from known positive and negative cases, were compared to evaluate assay performance. Results Analysis of samples with known concentrations of anti-SARS IgG produced the expected pattern of dose-response. Optical density (OD) values were significantly elevated for known positive cases in comparison with samples from unexposed individuals. Discussion DBS ELISA provides a minimally-invasive alternative to venous blood collection that combines the convenience of sample collection in the home or non-clinical setting with the accuracy of ELISA in the lab. Serological testing for SARS-CoV-2 IgG antibodies in DBS samples should facilitate research across a wide range of community- and population-based settings on seroprevalence, predictors and duration of antibody responses, as well as correlates of protection from reinfection, each of which is critically important for pandemic control.",
+    "affiliations": [
+        "Canadian Institute for Advanced Research and Northwestern University. This funding supported the purchase of necessary reagents and supplies. No authors received any payments or services from a third party for any aspect of this work"
+    ],
+    "author": "Nina Reiser; Brian Mustanski; Elizabeth McNally; Aaron Miller; Lauren Vaught; Richard Thomas D'Aquila; Thomas W McDade; Elena Bogdanovic; Aaron Zelikovich; Alexis Demonbreun",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20081844",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20081844"
+    },
+    "title": "Enzyme immunoassay for SARS-CoV-2 antibodies in dried blood spot samples: A minimally-invasive approach to facilitate community- and population-based screening",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Canadian Institute for Advanced Research and Northwestern University. This"
+                }
+            ],
+            "funding-statement": "Funding for this project was provided by the Canadian Institute for Advanced Research and Northwestern University. This funding supported the purchase of necessary reagents and supplies. No authors received any payments or services from a third party for any aspect of this work."
+        }
+    ]
+}

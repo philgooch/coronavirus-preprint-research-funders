@@ -1,0 +1,16 @@
+{
+    "abstract": "Polymorphism in MHC-I protein sequences across human populations significantly impacts their binding to viral peptides and alters T cell immunity to infection. Prioritization of MHC-I restricted viral epitopes remains a fundamental challenge for understanding adaptive immunity to SARS-CoV-2. Here, we present a consensus MHC-I binding prediction model, EnsembleMHC, based on the biochemical and structural basis of peptide presentation to aid the discovery of SARS-CoV-2 MHC-I peptides. We performed immunopeptidome predictions of SARS-CoV-2 proteins across 52 common MHC-I alleles identifying 658 high confidence peptides. Analysis of the resulting peptide-allele assignment distribution demonstrated significant variation across the allele panel up to an order of magnitude. Using MHC-I population-based allele frequencies, we estimated the average SARS-CoV-2 peptide population binding capacity across 21 individual countries. We have discovered a strong inverse association between the predicted population SARS-CoV-2 peptide binding capacity and overall mortality from SARS-CoV-2. Furthermore, we found that the consideration of only structural proteins produced a stronger association with observed death rate, highlighting their importance in protein-targeted immune responses. The 108 predicted SARS-CoV-2 structural protein peptides were shown to be derived from enriched regions in the originating protein, and present minimal risk for disruption by mutation. These results suggest that the immunologic fitness of both individuals and populations to generate class I-restricted T cell immunity to SARS-CoV-2 infection may impact clinical outcome from viral infection.",
+    "author": "Karen S Anderson; Abhishek Singharoy; Gabrielle Herneise; Eric Wilson",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095430",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095430"
+    },
+    "title": "Total predicted MHC-I epitope load is inversely associated with mortality from SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "NA"
+        }
+    ]
+}

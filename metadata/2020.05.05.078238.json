@@ -1,0 +1,30 @@
+{
+    "title": "Translation-associated mutational U-pressure in the first ORF of SARS-CoV-2 and other coronaviruses",
+    "author": "Khrustalev Vladislav Victorovich, Giri Rajanish, Khrustaleva Tatyana Aleksandrovna, Kapuganti Shivani Krishna, Stojarov Aleksander Nicolaevich, Poboinev Victor Vitoldovich",
+    "date": 2020,
+    "affiliations": [
+        "Department of General Chemistry, Belarusian State Medical University, Dzerzinskogo 83",
+        "School of Basic Sciences, Indian Institute of Technology Mandi, Himachal Pradesh 175005",
+        "Biochemical Group of Multidisciplinary Diagnostic Laboratory, Institute of Physiology of the National Academy of Sciences of Belarus, Minsk, Belarus",
+        "Department of Radiation Medicine and Ecology, Belarusian State Medical University",
+        "Vladislav V Khrustalev, Department of General Chemistry, Belarusian State Medical University, Dzerzinskogo 83, Minsk, Belarus"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.05.078238",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.05.078238.pdf"
+    },
+    "abstract": "Within four months of the ongoing COVID-19 pandemic caused by SARS-CoV-2, more than 250 nucleotide mutations have been detected in the ORF1 of the virus isolated from different parts of the globe. These observations open up an obvious question about the rate and direction of mutational pressure for further vaccine and therapeutics designing. In this study, we did a comparative analysis of ORF1a and ORF1b by using the first isolate (Wuhan strain) as the parent sequence. We observed that most of the nucleotide mutations are C to U transitions. The rate of synonymous C to U transitions is significantly higher than the rate of nonsynonymous ones, indicating negative selection on amino acid substitutions. Further, trends in nucleotide usage bias have been investigated in 49 coronaviruses species. A strong bias in nucleotide usage in fourfold degenerated sites towards uracil residues is seen in ORF1 of all the studied coronaviruses. A more substantial mutational U pressure is observed in ORF1a than in ORF1b owing to the translation of ORF1ab via programmed ribosomal frameshifting. Unlike other nucleotide mutations, mutational U pressure caused by cytosine deamination, mostly occurring in the RNAplus strand, cannot be corrected by the proof-reading machinery of coronaviruses. The knowledge generated on the direction of mutational pressure during translation of viral RNAplus strands has implications for vaccine and nucleoside analogue development for treating covid-19 and other coronavirus infections.",
+    "keywords": [
+        "Covid-19",
+        "SARS",
+        "MERS",
+        "mutational pressure",
+        "cytosine deamination"
+    ],
+    "funding": [
+        {}
+    ]
+}

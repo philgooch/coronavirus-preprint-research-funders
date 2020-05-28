@@ -1,0 +1,73 @@
+{
+    "abstract": "We propose an algebraic-type formula that describes with high accuracy the spread of Covid-19 pandemic under aggressive management for the periods of the intensive growth of the total number of infections. The formula can be used as a powerful forecasting tool. The parameters of the theory are the transmission rate, reflecting the viral fitness and \"normal\" frequency of contacts in the infected areas, and the intensity of prevention measures. The duration of the period of intensive growth is essentially inversely proportional to the square root of the intensity of hard measures for the most aggressive mode. A more precise formula is based on the Bessel functions. The data for the USA, UK, Sweden, Israel are provided, including the \"forecast cones\".",
+    "author": "Ivan Cherednik",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20084483",
+    "identifiers": {
+        "arxiv": "2004.06021v3",
+        "doc_id": null,
+        "doi": null,
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20084483"
+    },
+    "title": "A surprising formula for the spread of Covid-19 under aggressive management",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "DMS-1901796"
+                    ]
+                },
+                {
+                    "funding-source": "Simons Foundation."
+                },
+                {
+                    "funding-source": "Author Declarations All"
+                }
+            ],
+            "funding-statement": "### Funding Statement Funding: partially supported by NSF grant DMS-1901796 and the Simons Foundation. ### Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Yes Extended"
+                },
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "DMS-1901796"
+                    ]
+                },
+                {
+                    "funding-source": "Simons Foundation."
+                },
+                {
+                    "funding-source": "Author Declarations All"
+                }
+            ],
+            "funding-statement": "Yes Extended data and a complete theory are in arxiv 2004.06021v3 (q-bio)\" /> \" /> ### Funding Statement Funding: partially supported by NSF grant DMS-1901796 and the Simons Foundation. ### Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Yes Extended"
+                },
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "DMS-1901796"
+                    ]
+                },
+                {
+                    "funding-source": "Simons Foundation."
+                },
+                {
+                    "funding-source": "Author Declarations All"
+                }
+            ],
+            "funding-statement": "Yes Extended data and a complete theory are in arxiv 2004.06021v3 (q-bio)\" /> ### Funding Statement Funding: partially supported by NSF grant DMS-1901796 and the Simons Foundation. ### Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript"
+        }
+    ]
+}

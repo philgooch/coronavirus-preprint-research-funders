@@ -1,0 +1,20 @@
+{
+    "abstract": "Background: Public health efforts to determine population infection rates from coronavirus disease 2019 (COVID-19) have been hampered by limitations in testing capabilities and the large shares of mild and asymptomatic cases. We developed a methodology that corrects observed positive test rates for non-random sampling to estimate population infection rates across U.S. states from March 31 to April 7. Methods We adapted a sample selection model that corrects for non-random testing to estimate population infection rates. The methodology compares how the observed positive case rate vary with changes in the size of the tested population, and applies this gradient to infer total population infection rates. Model identification requires that variation in testing rates be uncorrelated with changes in underlying disease prevalence. To this end, we relied on data on day-to-day changes in completed tests across U.S. states for the period March 31 to April 7, which were primarily influenced by immediate supply-side constraints. We used this methodology to construct predicted infection rates across each state over the sample period. We also assessed the sensitivity of the results to controls for state-specific daily trends in infection rates. Results The median population infection rate over the period March 31 to April 7 was 0.9% (IQR 0.64 1.77). The three states with the highest prevalence over the sample period were New York (8.5%), New Jersey (7.6%), and Louisiana (6.7%). Estimates from models that control for state-specific daily trends in infection rates were virtually identical to the baseline findings. The estimates imply a nationwide average of 12 population infections per diagnosed case. We found a negative bivariate relationship (corr. = -0.51) between total per capita state testing and the ratio of population infections per diagnosed case. Interpretation The effectiveness of the public health response to the coronavirus pandemic will depend on timely information on infection rates across different regions. With increasingly available high frequency data on COVID-19 testing, our methodology could be used to estimate population infection rates for a range of countries and subnational districts. In the United States, we found widespread undiagnosed COVID-19 infection. Expansion of rapid diagnostic and serological testing will be critical in preventing recurrent unobserved community transmission and identifying the large numbers individuals who may have some level of viral immunity.\nCompeting Interest Statement",
+    "author": "Raphael Godefroy; Joshua Lewis; David Benatia",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072942",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072942"
+    },
+    "title": "Estimating COVID-19 Prevalence in the United States: A Sample Selection Model Approach",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Social Sciences and Humanities Research Council"
+                }
+            ],
+            "funding-statement": "Social Sciences and Humanities Research Council"
+        }
+    ]
+}

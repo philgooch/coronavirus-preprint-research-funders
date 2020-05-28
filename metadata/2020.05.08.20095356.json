@@ -1,0 +1,27 @@
+{
+    "abstract": "The COVID-19 epidemics are differentially progressing in different countries. Here, comparative analyses of daily new cases reveal that 61 most affected countries can be classified into four types: downward (22), upward (20), static-phase (12) and uncertain ones (7). In particular, the 12 static-phase countries including US and UK are characterized by largely constant numbers of daily new cases in the past over 14 days. Furthermore, these static-phase countries are overall significantly lower in testing density but higher in the level of positive COVID-19 tests than downward countries. These findings suggest that the testing capacity in static-phase countries is lagging behind the spread of the outbreak, i.e., daily new cases (confirmed) are likely less than daily new infections and the remaining undocumented infections are thus still expanding, resulting in unstoppable epidemics. As such, increasing the testing capacity and/or reducing the COVID-19 transmission are urgently needed to stop the severing crisis in static-phase countries.",
+    "affiliations": [
+        "National Natural Science Foundation of China (No. 31972918 and 31770830 to XF)"
+    ],
+    "author": "XINMIAO FU; Cheng Long; Yan Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095356",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095356"
+    },
+    "title": "Global analysis of daily new COVID-19 cases reveals many static-phase countries including US and UK potentially with unstoppable epidemics",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31972918",
+                        "31770830 to XF"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is support by the National Natural Science Foundation of China (No 31972918 and 31770830 to XF)"
+        }
+    ]
+}

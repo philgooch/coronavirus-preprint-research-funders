@@ -1,0 +1,20 @@
+{
+    "abstract": "At early stages of the COVID-19 pandemic which we are experiencing, the publicly reported incidence, mortality and case fatality rates (CFR) vary significantly between countries. Here we aim to untangle factors that are associated with the differences during the first quarter of the year 2020. Number of performed COVID-19 tests has a strong correlation with country-specific incidence (p <2\u00d710-16) and mortality rate (p = 5.1\u00d710-8). Using multivariate linear regression we show that incidence and mortality rates correlate significantly with GDP per capita (p = 2.6\u00d710-15 and 7.0\u00d710-4, respectively), country-specific duration of the outbreak (2.6\u00d710-4 and 0.0019), fraction of citizens over 65 years old (p = 0.0049 and 3.8\u00d710-4) and level of press freedom (p = 0.021 and 0.019) which cumulatively explain 80% of variability of incidence and more than 60% of variability of mortality of the disease during the period analyzed. Country hemisphere demonstrated significant correlation only with mortality (p = 0.17 and 0.036) whereas population density (p = 0.94 and p = 0.75) and latitude (p = 0.61 and 0.059) did not reach significance in our model. Case fatality rate is shown to rise as the outbreak progresses (p = 0.028). We rank countries by COVID-19 mortality corrected for incidence and the factors that were shown to affect it, and by CFR corrected for outbreak duration, yielding very similar results. Among the countries where the outbreak started after the 15th of February and with at least 1000 registered patients during the period analyzed, the lowest corrected CFR are seen in Israel, South Africa and Chile. The ranking results should be considered with caution as they do not consider all confounding factors or data reporting biases.",
+    "author": "Lev Shagam",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075580",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075580"
+    },
+    "title": "Untangling factors associated with country-specific COVID-19 incidence, mortality and case fatality rates during the first quarter of 2020",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "FNRS and L\u00e9on Fredericq Fund"
+                }
+            ],
+            "funding-statement": "The work was funded by F.R.S\u0096FNRS and L\u00e9on Fredericq Fund grants"
+        }
+    ]
+}

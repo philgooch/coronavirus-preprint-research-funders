@@ -1,0 +1,16 @@
+{
+    "abstract": "It is shown that estimates of the effective reproduction number Rt for COVID-19 using standard packages such as EPIESTIM can be reproduced very accurately using the expression Rt = c(t) /c(t + \u03c4) , where c(t) is the incidence at time t and \u03c4 the mean value of the series interval\nCompeting Interest Statement\nThe authors have declared no competing interest.\nFunding Statement",
+    "author": "Jose Menendez",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20076430",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20076430"
+    },
+    "title": "A poor-man's approach to the effective reproduction number: the COVID-19 case",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding."
+        }
+    ]
+}

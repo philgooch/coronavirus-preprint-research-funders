@@ -1,0 +1,80 @@
+{
+    "title": "Structure of SARS-CoV-2 main protease in the apo state reveals the inactive conformation",
+    "author": "Xuelan Zhoua, Fangling Zhong, Cheng Lind,e, Xiaohui Hua, Yan Zhangf, Bing Xiongg",
+    "date": 2020,
+    "affiliations": [
+        "School of Basic Medical Sciences, Nanchang University, Nanchang, Jiangxi, 330031, China",
+        "College of Pharmaceutical Sciences, Gannan Medical University, Ganzhou, 341000, Jiangxi"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.092171",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.092171.pdf"
+    },
+    "abstract": "Mpro is of considerable interest as a drug target in the treatment of COVID-19 since the proteolytic activity of this viral protease is essential for viral replication. Here we report the first insight of the structure Mpro for SARS-CoV-2 in the inactive conformation under conditions close to the physiological state (pH 7.5) to an overall resolution of 1.9 \u00c5. The comparisons of Mpro in different states reveal that substrate binding site and the active site are more flexible in the inactive conformation than that in the active conformations. Notably, compared with the active conformation of the apo state structure in pH7.6 of SARS, the SARS-CoV-2 apo state is in the inactive conformation under condition close to physiological state (pH7.5). Two water molecules are present in the oxyanion hole in our apo state structure, whereas in the ligand-bound structure, water molecular is absence in the same region. This structure provides novel and important insights that have broad implications for understanding the structural basis underlying enzyme activity, and can facilitate rational, structure-based, approaches for the design of specific SARS-CoV-2 ligands as new therapeutic agents.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Jin Zhang"
+                },
+                {
+                    "funding-source": "Thousand Young Talents Program of China,"
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31770795",
+                        "81974514"
+                    ]
+                },
+                {
+                    "funding-source": "Jiangxi Province Natural Science Foundation",
+                    "award-id": [
+                        "20181ACB20014"
+                    ]
+                }
+            ],
+            "funding-statement": "Jin Zhang was supported by the Thousand Young Talents Program of China, the National Natural Science Foundation of China (grant no. 31770795; grant no. 81974514), and the Jiangxi Province Natural Science Foundation (grant no. 20181ACB20014)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Jian Li"
+                },
+                {
+                    "funding-source": "Open Project of Key Laboratory of Prevention and"
+                },
+                {
+                    "funding-source": "Ministry of Education",
+                    "award-id": [
+                        "XN201904"
+                    ]
+                },
+                {
+                    "funding-source": "Gannan Medical University",
+                    "award-id": [
+                        "QD201910"
+                    ]
+                },
+                {
+                    "funding-source": "Jiangxi\"Double Thousand Plan\""
+                }
+            ],
+            "funding-statement": "Jian Li was supported by the Open Project of Key Laboratory of Prevention and treatment of cardiovascular and cerebrovascular diseases, Ministry of Education (No XN201904), Gannan Medical University (QD201910) and Jiangxi\"Double Thousand Plan\""
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ganzhou COVID-19 Emergency Research Project. Author"
+                },
+                {
+                    "funding-source": "Jin Zhang and Jian Li"
+                }
+            ],
+            "funding-statement": "This work was also supported by Ganzhou COVID-19 Emergency Research Project. Author contributions Jin Zhang and Jian Li designed the project"
+        }
+    ]
+}

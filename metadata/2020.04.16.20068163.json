@@ -1,0 +1,36 @@
+{
+    "abstract": "We propose a Bayesian model for projecting first-wave COVID-19 deaths in all 50 U.S. states. Our model's projections are based on data derived from mobile-phone GPS traces, which allows us to estimate how social-distancing behavior is \"flattening the curve\" in each state. In a two-week look-ahead test of out-of-sample forecasting accuracy, our model significantly outperforms the widely used model from the Institute for Health Metrics and Evaluation (IHME), achieving 42% lower prediction error: 13.2 deaths per day average error across all U.S. states, versus 22.8 deaths per day average error for the IHME model. Our model also provides an accurate, if slightly conservative, assessment of forecasting accuracy: in the same look-ahead test, 98% of data points fell within the model's 95% credible intervals. Our model's projections are updated daily at https://covid-19. tacc.utexas.edu/projections/",
+    "affiliations": [
+        "Institute for Health Metrics and Evaluation (IHME), achieving 42% lower prediction error: 13.2 deaths per day average error across all U.S. states, versus 22.8 deaths per day average error for the IHME model. Our model also provides an accurate, if slightly conservative, assessment of forecasting accuracy: in the same look-ahead test, 98% of data points fell within the model's 95% credible intervals. Our model's projections are updated daily at https://covid-19. tacc.utexas.edu/projections/",
+        "National Science Foundation, the National Institutes of Health, and by a gift from Tito\u0092s Handmade Vodka to the UT COVID-19 Modeling Consortium"
+    ],
+    "author": "Spencer Fox; Lauren Ancel Meyers; Maytal Dahan; Mauricio Garcia Tec; Michael Lachmann; Spencer Woody; Kelly Gaither; James G Scott",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20068163",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20068163"
+    },
+    "title": "Projections for first-wave COVID-19 deaths across the US using social-distancing measures derived from mobile phones",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation,"
+                },
+                {
+                    "funding-source": "National Institutes of Health,"
+                },
+                {
+                    "funding-source": "Handmade Vodka",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "UT COVID-19 Modeling Consortium"
+                }
+            ],
+            "funding-statement": "This work was partially funded by grants from the National Science Foundation, the National Institutes of Health, and by a gift from Tito\u0092s Handmade Vodka to the UT COVID-19 Modeling Consortium"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "abstract": "The emergent coronavirus, designated severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), is a zoonotic pathogen that has demonstrated remarkable transmissibility in the human population and is the etiological agent of a current global pandemic called COVID-19. We measured the dynamic (short-term) aerosol efficiencies of SARS-CoV-2 and compared the efficiencies with two other emerging coronaviruses, SARS-CoV (emerged in 2002) and Middle Eastern respiratory syndrome CoV (MERS-CoV; emerged starting in 2012). We also quantified the long-term persistence of SARS-CoV-2 and its ability to maintain infectivity when suspended in aerosols for up to 16 hours.\nCompeting Interest Statement",
+    "author": "Allison Totura; Scott C. Weaver; Diana Fernandez; Matthew Lackemeyer; Amy Hartman; Patricia V. Aguilar; William B Klimstra; J. Kyle Bohannon; Robert F Garry; Ken S. Plante; Paul Duprex; Jessica Plante; Divya Mirchandani; Alyssa C Fears; Brian Kearney; Reed Johnson; Chad J Roy; Doug S Reed; Aysegul Nalca; David Dyer",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063784",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063784"
+    },
+    "title": "Comparative dynamic aerosol efficiencies of three emergent coronaviruses and the unusual persistence of SARS-CoV-2 in aerosol suspensions",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intramural Research Program of the National Institute of Allergy and Infectious Diseases, National"
+                },
+                {
+                    "funding-source": "Institutes of Health,"
+                },
+                {
+                    "funding-source": "Office of the Chancellor"
+                },
+                {
+                    "funding-source": "University of Pittsburgh"
+                }
+            ],
+            "funding-statement": "This work was supported by the Intramural Research Program of the National Institute of Allergy and Infectious Diseases, National Institutes of Health, and the the Office of the Chancellor at the University of Pittsburgh"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "U19AI135995"
+                    ]
+                }
+            ],
+            "funding-statement": "RFG was supported by the National Institutes of Health grant number U19AI135995"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R24AI120942"
+                    ]
+                }
+            ],
+            "funding-statement": "UTMB work was supported by NIH grant R24AI120942"
+        }
+    ]
+}

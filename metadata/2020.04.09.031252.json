@@ -1,0 +1,61 @@
+{
+    "title": "In-depth Bioinformatic Analyses of Human SARS-CoV-2, SARS-CoV, MERS-CoV, and Other Nidovirales Suggest Important Roles of Noncanonical Nucleic Acid Structures in Their Lifecycles",
+    "author": "Martin Bartas,#, V\u00e1clav Br\u00e1zda,#, Nat\u00e1lia Boh\u00e1lov\u00e1, Alessio Cantara, Adriana Voln\u00e1, Tereza Stachurov\u00e1, Kate\u0159ina Malachov\u00e1, Eva B. Jagelsk\u00e1, Ot\u00edlia Porubiakov\u00e1, Ji\u0159\u00ed \u010cerve\u0148, and Petr Pe\u010dinka",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biology and Ecology, Faculty of Science, University of Ostrava, Ostrava, Czech Republic",
+        "Department of Biophysical Chemistry and Molecular Oncology, Institute of Biophysics, Academy of Sciences of the Czech Republic, Brno, Czech Republic",
+        "Brno University of Technology, Faculty of Chemistry, Brno, Czech Republic",
+        "Department of Experimental Biology, Faculty of Science, Masaryk University, Brno, Czech Republic",
+        "Department of Physics, Faculty of Science, University of Ostrava, Ostrava, Czech Republic"
+    ],
+    "journal": "Lai and Cavanagh",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.09.031252",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.09.031252.pdf"
+    },
+    "abstract": "Noncanonical nucleic acid structures play important roles in the regulation of molecular processes. Considering the importance of the ongoing coronavirus crisis, we decided to evaluate genomes of all coronaviruses sequenced to date (stated more broadly, the order Nidovirales) to determine if they contain noncanonical nucleic acid structures. We discovered much evidence of putative G-quadruplex sites and even much more of inverted repeats (IRs) loci, which in fact are ubiquitous along the whole genomic sequence and indicate a possible mechanism for genomic RNA packaging. The most notable enrichment of IRs was found inside 5\u2032UTR for IRs of size 12+ nucleotides, and the most notable enrichment of putative quadruplex sites (PQSs) was located before 3\u2032UTR, inside 5\u2032UTR, and before mRNA. This indicates crucial regulatory roles for both IRs and PQSs. Moreover, we found multiple G-quadruplex binding motifs in human proteins having potential for binding of SARS-CoV-2 RNA. Noncanonical nucleic acids structures in Nidovirales and in novel SARS-CoV-2 are therefore promising druggable structures that can be targeted and utilized in the future.",
+    "keywords": [
+        "coronavirus",
+        "genome",
+        "G-quadruplex",
+        "inverted repeats"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Education, Youth"
+                },
+                {
+                    "funding-source": "Sports of the Czech Republic in the"
+                },
+                {
+                    "funding-source": "National Feasibility Program",
+                    "award-id": [
+                        "LO1208 TEWEP"
+                    ]
+                },
+                {
+                    "funding-source": "Operational Programme Research and Development for"
+                },
+                {
+                    "funding-source": "No CZ.",
+                    "award-id": [
+                        "05/2",
+                        "00/19",
+                        "SGS/01",
+                        "SGS/07"
+                    ]
+                },
+                {
+                    "funding-source": "University of Ostrava."
+                }
+            ],
+            "funding-statement": "This work was supported by the Ministry of Education, Youth and Sports of the Czech Republic in the \u201cNational Feasibility Program I\u201d (LO1208 TEWEP); by the EU structural funding Operational Programme Research and Development for innovation, project No CZ.1.05/2.1.00/19.0388; and by the projects SGS/01/PrF/2020 and SGS/07/PrF/2020 financed by University of Ostrava."
+        }
+    ]
+}

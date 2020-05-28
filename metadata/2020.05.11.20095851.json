@@ -1,0 +1,16 @@
+{
+    "abstract": "The novel COVID-19 outbreak started in 2019 in Wuhan China and quickly spread to at least 185 countries. We developed an interactive web application that allows users to visualize the spread of COVID-19 in the Unites States at state and county levels. This tool allows visualization of how the virus spreads over time and how state-wide efforts to reduce transmissions have affected the curve in local areas. The downloadable application data allows users to conduct additional analyses. We demonstrate exemplars of trend analyses comparing the daily infection and death rates before and after safer at home orders were implemented per state. The goal was to develop a COVID-19 tracking tool that informs users about the spread of the virus to enable them to make informed decisions after better understanding the presented data.",
+    "author": "Kristina Y Aguilera; Mudaser M Basam; Mark LaBarge; Stefan Hinz",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20095851",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20095851"
+    },
+    "title": "Internet-based tool for visualizing county and state level COVID-19 trends in the United States.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement na</strong>"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "abstract": "Background: A hospital-level pandemic response involves anticipating local surge in healthcare needs. Methods: We developed a mechanistic transmission model to simulate a range of scenarios of COVID-19 spread in the Greater Toronto Area. We estimated healthcare needs against 2019 daily admissions using healthcare administrative data, and applied outputs to hospital-specific data on catchment, capacity, and baseline non-COVID admissions to estimate potential surge by day 90 at two hospitals (St. Michael\u0092s Hospital [SMH] and St. Joseph\u0092s Health Centre [SJHC]). We examined fast/large, default, and slow/small epidemics, wherein the default scenario (R0 2.4) resembled the early trajectory in the GTA. Results: Without further interventions, even a slow/small epidemic exceeded the city\u0092s daily ICU capacity for patients without COVID-19. In a pessimistic default scenario, for SMH and SJHC to remain below their non-ICU bed capacity, they would need to reduce non-COVID inpatient care by 70% and 58% respectively. SMH would need to create 86 new ICU beds, while SJHC would need to reduce its ICU beds for non-COVID care by 72%. Uncertainty in local epidemiological features was more influential than uncertainty in clinical severity. If physical distancing reduces contacts by 20%, maximizing the diagnostic capacity or syndromic diagnoses at the community-level could avoid a surge at each hospital. Interpretation: As distribution of the city\u0092s surge varies across hospitals over time, efforts are needed to plan and redistribute ICU care to where demand is expected. Hospital-level surge is based on community-level transmission, with community-level strategies key to mitigating each hospital\u0092s surge. Keywords: COVID-19, pandemic preparedness, mathematical model, transmission model\nCompeting Interest Statement",
+    "author": "Sharon Straus; Michael J Schull; Victoria Pequegnat; Eliane Kim; Eric Coomes; Matthew Muller; Kristy CY Yiu; Lisa Ishiguro; Adrienne Chan; Linwei Wang; Sharmistha Mishra; Mark Downing; David Landsman; J Michael Paterson; Huiting Ma; Anthea Lee",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20073023",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20073023"
+    },
+    "keywords": [
+        "COVID-19",
+        "pandemic preparedness",
+        "mathematical model",
+        "transmission model"
+    ],
+    "title": "Estimated surge in hospitalization and intensive care due to the novel coronavirus pandemic in the Greater Toronto Area, Canada: a mathematical modeling study with application at two local area hospitals",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ontario Ministry of Health"
+                }
+            ],
+            "funding-statement": "This study was supported by ICES, a non-profit research institute funded by the Ontario Ministry of Health"
+        }
+    ]
+}

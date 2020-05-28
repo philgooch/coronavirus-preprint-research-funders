@@ -1,0 +1,16 @@
+{
+    "abstract": "The outbreak of coronavirus diseases (COVID-19) has rabidly spread all over the world. The World Health Organization (WHO) has announced that coronavirus COVID19 is an international pandemic. The Real-Time Reverse transcription polymerase Chain Reaction (RTPCR) has a low positive and sensitivity rate in the early stage of COVID19. As a result, the Computed Tomography (CT) imaging is used for diagnosing. COVID19 has different key signs on a CT scan differ from other viral pneumonia. These signs include ground glass opacities, consolidations, and crazy paving. In this paper, an Artificial Intelligence-inspired Model for COVID19 Diagnosis and Prediction for Patient Response to Treatment (AIMDP) is proposed. AIMDP model has two main functions reflected in two proposed modules, namely, the Diagnosis Module (DM) and Prediction Module (PM). The Diagnosis Module (DM) is proposed for early and accurately detecting the patients with COVID 19 and distinguish it from other viral pneumonias using COVID19 signs obtained from CT scans. The DM model, uses Convolutional Neural Networks (CNNs) as a Deep learning technique for segmentation, can process hundreds of CT images in seconds to speed up diagnosis of COVID19 and contribute in its containment. In addition, some countries have no ability to provide all patients with the treatment and intensive care services, so it will be mandatory to give treatment to only responding patients. In this context, the Prediction Module (PM) is proposed for predicting the ability of the patient to respond to treatment based on different factors e.g. age, infection stage, respiratory failure, multi-organ failure and the treatment regimens. PM implement the Whale Optimization Algorithm for selecting the most relevant patients features. The experimental results show promising performance for the proposed diagnosing and prediction modules, using a dataset with hundreds of real data and CT images.",
+    "author": "Sally M. ELGhamrawy; Abou Ellah Hassanien",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20063990",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20063990"
+    },
+    "title": "Diagnosis and Prediction Model for COVID19 Patients Response to Treatment based on Convolutional Neural Networks and Whale Optimization Algorithm Using CT Images",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There is no Funding applied"
+        }
+    ]
+}

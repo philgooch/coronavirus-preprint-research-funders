@@ -1,0 +1,86 @@
+{
+    "title": "A phylodynamic workflow to rapidly gain insights into the dispersal history and dynamics of SARS-CoV-2 lineages",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "phylodynamic",
+        "phylogeog",
+        "Nextstrain",
+        "Specifically",
+        "we"
+    ],
+    "author": "Simon Dellicour, Keith Durkin, Samuel L. Hong, Bert Vanmechelen, Joan Mart\u00ed-Carreras, Mandev S. Gill, C\u00e9cile",
+    "date": 2020,
+    "affiliations": [
+        "Universit\u00e9 Libre de Bruxelles, CP160/12 50, av. FD Roosevelt, 1050 Bruxelles, Belgium",
+        "Department of Microbiology, Immunology and Transplantation, Rega Institute, KU Leuven, Herestraat 49, 3000 Leuven, Belgium",
+        "Department of Human Genetics, CHU Li\u00e8ge, and Medical Genomics, GIGA Research Center, University of Li\u00e8ge, Belgium",
+        "Department of Clinical Microbiology, University of Li\u00e8ge, 4000, Li\u00e8ge, Belgium",
+        "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK",
+        "Hutchinson Cancer Research Center, Seattle, WA 98109, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.05.078758",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.05.078758.pdf"
+    },
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fonds National de la Recherche Scientifique",
+                    "award-id": [
+                        "Belgium"
+                    ]
+                }
+            ],
+            "funding-statement": "SD and MG are supported by the Fonds National de la Recherche Scientifique (FNRS, Belgium)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "FWO SB"
+                }
+            ],
+            "funding-statement": "BV is supported by a FWO SB grant for strategic basic research of the coronavirus: implications for virus origins and receptor binding"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "JMC is supported by a doctoral grant from HONOURs (Host switching pathogens, infectious"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Interne Fondsen KU Leuven"
+                },
+                {
+                    "funding-source": "Internal Funds KU Leuven"
+                }
+            ],
+            "funding-statement": "GB acknowledges support from the Interne Fondsen KU Leuven / Internal Funds KU Leuven travellers from Iran"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "4121\u20134123"
+                    ]
+                }
+            ],
+            "funding-statement": "TWB is supported by the SpeBioinformatics 34, 4121\u20134123 (2018)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "PLoS Comp."
+                },
+                {
+                    "funding-source": "Walloon Region"
+                }
+            ],
+            "funding-statement": "PLoS Comp. tifique de Belgique (FNRS) under Grant No 2.5020.11 and by the Walloon Region"
+        }
+    ]
+}

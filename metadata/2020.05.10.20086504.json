@@ -1,0 +1,29 @@
+{
+    "abstract": "In March 2020, a multidisciplinary task force (so-called Basque Modelling Task Force, BMTF) was created to assist the Basque Health managers and the Basque Government during the COVID-19 responses. BMTF is a modeling team, working on different approaches, including statistical methods and artificial intelligence. In this paper we describe and present the results obtained by a new stochastic SHARUCD model framework which was able to describe the disease incidence data provided by the Basque Health Services. Our models differentiate mild and asymptomatic from severe infections prone to be hospitalized and were able to predict the course of the epidemic, from introduction to control measure response, providing important projections on the national health system necessities during the increased population demand on hospital admissions. Short and longer-term predictions were tested with good results adjusted to the current epidemiological data, showing that the partial lockdown measures were effective and enough to slow down disease transmission in the Basque Country. The growth rate (\u03bb(t)) is calculated from the model and from the data and the implications for the reproduction ratio r are shown. At the moment, the reproduction ratio (r(t)) is estimated to be below the threshold behavior of r=1, but still close to 1, meaning that although the number of new cases are decelerating, a careful monitoring of the development of the outbreak is required. This framework is now being used to monitor disease transmission while the country lockdown is gradually lifted, with insights to specific programs for a general policy of ``social distancing'' and home quarantining. These are the first publicly available modeling results for the Basque Country and the efforts will be continued taking into consideration the updated data and new information that are generated over time.",
+    "author": "Eduardo Millan Ortuondo; Nico Stollenwerk; Joseba Bidaurrazaga Van-Dierdonck; Maira Aguiar; Javier Mar",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20086504",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20086504"
+    },
+    "title": "Modeling COVID 19 in the Basque Country: from introduction to control measure response",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ma\u00edra Aguiar"
+                },
+                {
+                    "funding-source": "European Union's Horizon"
+                },
+                {
+                    "funding-source": "Marie Sk\u0142odowska-Curie",
+                    "award-id": [
+                        "792494"
+                    ]
+                }
+            ],
+            "funding-statement": "Ma\u00edra Aguiar has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sk\u0142odowska-Curie grant agreement No 792494"
+        }
+    ]
+}

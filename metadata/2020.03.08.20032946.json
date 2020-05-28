@@ -1,0 +1,20 @@
+{
+    "abstract": "The newly emergent human virus SARS-CoV-2 is resulting in high fatality rates and incapacitated health systems. Preventing further transmission is a priority. We analysed key parameters of epidemic spread to estimate the contribution of different transmission routes and determine requirements for case isolation and contact-tracing needed to stop the epidemic. We conclude that viral spread is too fast to be contained by manual contact tracing, but could be controlled if this process was faster, more efficient and happened at scale. A contact-tracing App which builds a memory of proximity contacts and immediately notifies contacts of positive cases can achieve epidemic control if used by enough people. By targeting recommendations to only those at risk, epidemics could be contained without need for mass quarantines ('lock-downs') that are harmful to society. We discuss the ethical requirements for an intervention of this kind.",
+    "author": "Luca Ferretti; Michael Parker; Lele Zhao; Christophe Fraser; Anel Nurtay; Lucie Abeler-Dorner; David G Bonsall; Chris Wymant; Michelle Kendall",
+    "date": 2020,
+    "doi": "10.1101/2020.03.08.20032946",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.08.20032946"
+    },
+    "title": "Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Li Ka Shing Foundation"
+                }
+            ],
+            "funding-statement": "This work was funded by the Li Ka Shing Foundation"
+        }
+    ]
+}

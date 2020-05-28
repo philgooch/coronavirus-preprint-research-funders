@@ -1,0 +1,30 @@
+{
+    "title": "Optimization of SARS-CoV-2 detection by RT-QPCR without RNA extraction",
+    "date": 2020,
+    "author": "89 Following RNA extraction and RT-QPCR SeeGene vs Altona 90 To determine the concordance between the standard Altona method and the SeeGene protocol, 91 RNA extracted from 65 SARS-CoV-2-positive and 23 -negative samples were tested using 92 SeeGene kit in three consecutive assays. 23 negative samples were confirmed negative, 64 out 93 of 65 positive samples were confirmed positive (96,92 %). One sample, detected at Ct= 35.6 94 (gene S only) with Altona\u2019s kit was missed using SeeGene\u2019s kit (Figure 1, Tables 1 and 2). Ct 95 means between the two methods cannot be directly compared as SeeGene uses less RNA, 96 which can have important and this assay was performed following an additional cycle of 97 freeze/thaw. Moreover, both manufacturers target different genes and likely do not use the 98 same primers for the E gene in the PCR which can also results in Ct variation. Although both 99 manufacturers neither use the same amount of RNA in the RT-QPCR reaction nor detect the 100 same viral genes, all compounding factors which could lead to important differences in Ct 101 between the two methods, we still observed a strong correlation between the Ct values 102 obtained by both methods (r=0.9746; p<0.0001). 103 104 RT-QPCR directly from swabs: without RNA extraction 105 The swab storage media for respiratory virus detection can have important impact on the RT106 PCR efficiency, when this media is used directly for PCR reaction, without RNA extraction. To 107 assess the feasibility of direct RT-QPCR using different media we performed the following 108 experiments. 109 110 Samples stored in UTM",
+    "affiliations": [
+        "D\u00e9partement de chimie, biochimie et physique, Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res, Trois8 Rivi\u00e8res, Qu\u00e9bec, Canada 9",
+        "Centre Int\u00e9gr\u00e9 Universitaire de sant\u00e9 et services sociaux de la Mauricie et Centre du Qu\u00e9bec",
+        "Trois-Rivi\u00e8res, Quebec, Canada 11",
+        "D\u00e9partement de biologie m\u00e9dicale, Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res, Trois-Rivi\u00e8res",
+        "Qu\u00e9bec, Canada 13",
+        "D\u00e9partement de microbiologie infectiologie et immunologie, facult\u00e9 de m\u00e9decine, Universit\u00e9 14 de Montr\u00e9al, Montr\u00e9al, Qu\u00e9bec, Canada 15 NM:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.06.028902",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.06.028902.pdf"
+    },
+    "abstract": "Rapid and reliable screening of SARS-CoV-2 is fundamental to assess viral spread and limit the pandemic we are facing. In this study we evaluated the reliability and the efficiency of a direct RT-QPCR method (without RNA extraction) using SeeGene AllplexTM 2019-nCoV RT-QPCR and the influence of swab storage media composition on further viral detection. We show that SeeGene\u2019s assay provides similar efficiency as the RealStar\u00ae SARS-CoV-2 RT-PCR kit (Altona Diagnostics), and that RNA extraction is not necessary nor advantageous if samples are stored in UTM or molecular water but is recommended if samples are stored in saline solution and in Hanks medium. 35 Keywords: COVID19, SARS-CoV-2, coronavirus, virus detection, PCR, RNA extraction 36 37 38 39 40 41 42 43 44\n\f Introduction The SARS-CoV-2 pandemic that the world is fighting since January 2020 has already caused devastating mortality (1). As we are facing our biggest public health threat in the modern history, there is a huge number of samples testing to be performed. Most of the current methods described so far are based on viral genes detection by RT-QPCR from patients fluids, including from the respiratory tract (2-4). To slow the spread of the pandemic, screening is the key (5). This allows to isolate positive patients and stop the transmission. Many medical laboratories now have automated protocol to test the samples. These protocols are based on a Real-time PCR amplification on extracted RNA from fluids or swabs stored in media. However, in many laboratories worldwide, fear of shortage in the chain of supplies is growing. Shortage of RNA extraction kit, PCR detection kits and even swabs storage media will likely arise in many testing laboratories. This outstanding situation called for alternatives protocols to ensure the continuity of rapid testing in medical laboratories. In addition, the development of new methods could also be used in case of an increase in demand for testing. In this paper, we have compared the concordance rate of positive viral genes detection of extracted RNA from the Abott M2000sp automated plate preparation system using Altona RealStar\u00ae SARS-CoV-2 RT-PCR Kit RUO with the SeeGene AllplexTM 2019-nCoV RT-QPCR Assay running on CFX96 BioRad. In addition, we demonstrate that direct testing of viral genes by skipping the RNA extraction step on swabs storage media could be achieved when the samples originate from standard UTM media and from molecular water.",
+    "keywords": [
+        "COVID19",
+        "SARS-CoV-2",
+        "coronavirus",
+        "virus detection"
+    ],
+    "funding": [
+        {}
+    ]
+}

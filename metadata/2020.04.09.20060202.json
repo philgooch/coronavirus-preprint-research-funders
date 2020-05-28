@@ -1,0 +1,16 @@
+{
+    "abstract": "In this paper, I used multivariate linear regression analysis to determine if latitude and ozone concentration predict Covid-2019 cases in 34 countries worldwide. Data pertaining to Covid-2019 cases were extracted from Worldometer. Ozone concentration levels were taken from the open-access database of World Ozone and Ultraviolet Radiation Data Centre (WOUDC). Latitude of specific area where measurement took place was also provided in the database. Preliminary Kendall rank correlation test revealed that Covid-2019 incidence was positively and significantly related to ozone concentration; however, incidence was not significantly related to latitude. Using multivariate linear regression, a statistically significant link between ozone concentration and Covid-2019 incidence in 34 countries was established; however, I found no statistical association between latitude and Covid-2019 incidence refuting previous claims. Prompt health actions should be developed for areas with high ozone concentration in the present and possibly, future outbreaks; however, extensive laboratory analysis should be conducted to further confirm the findings of the study. Nevertheless, the results of this study could serve as a basis for further clinical and large-scale studies.",
+    "author": "Mark Marcos Alipio",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20060202",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20060202"
+    },
+    "title": "Do latitude and ozone concentration predict Covid-2019 cases in 34 countries?",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None. No funding to declare."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "abstract": "IMPORTANCE Coronavirus disease 2019 (COVID-19) is a global pandemic associated with high mortality and effective treatment to prevent clinical deterioration to severe pneumonia has not yet been well clarified. OBJECTIVE To investigate the role of several adjuvant treatments in preventing severe pneumonia in patients with COVID-19. DESIGN, SETTING, AND PARTICIPANTS Multicenter, retrospective cohort study of 564 consecutively hospitalized patients with confirmed COVID-19 at Third Xiangya Hospital of Central South University, Changsha Public Health Treatment Center, First Hospital of Yueyang, Junshan People's Hospital of Yueyang, Central Hospital of Shaoyang, Central Hospital of Xiangtan, Second Hospital of Changde, Central Hospital of Loudi, and First Affiliated Hospital of University of South China in Hunan province from January 17, 2020 to February 28, 2020; The final date of follow-up was March 15, 2020. EXPOSURES Nonspecific antivirals (arbidol, lopinavir/ritonavir, and interferon \u03b1), antihypertensives, and chloroquine. MAIN OUTCOMES AND MEASURES The development of severe COVID-19 pneumonia; Demographic, epidemiological, clinical, laboratory, radiological, and treatment data were collected and analyzed. RESULTS Of 564 patients, the median age was 47 years (interquartile range, 36-58 years), and 284 (50.4%) patients were men. Sixty-nine patients (12.2%) developed severe pneumonia. Patients who developed severe pneumonia were older (median age of 59 and 45 years, respectively), and more patients had comorbidities including hypertension (30.4% and 12.3%, respectively), diabetes (17.4% and 6.7%, respectively), and cardiovascular disease (8.7% and 3.2%, respectively) and presented with fever (84.1% and 60.4%, respectively) and shortness of breath (10.1% and 3.8%, respectively) compared with those who did not. Nonspecific antiviral therapy did not prevent clinical progression to severe pneumonia, although fewer hypertensive patients on angiotensin-converting enzyme inhibitors or angiotensin-receptor blockers (ACEI/ARB) therapy developed severe pneumonia in contrast with those on non-ACEI/ARB antihypertensive therapy (1 of 16 [6.3%] patients and 16 of 49 [32.7%] patients, respectively [difference, 26.4%; 95% CI, 1.5% to 41.3%]). Multivariate logistic regression analysis showed that hypertension without receiving ACEI/ARB therapy was an independent risk factor (odds ratio [OR], 2.07; 95% CI, 1.07 to 4.00) for developing severe pneumonia irrespective of age. Besides, none of patients treated with chloroquine developed severe pneumonia, though without significance (difference, 12.0%; 95% CI, -3.5% to 30.0%) by propensity score matching. CONCLUSIONS AND RELEVANCE Hypertensive patients on ACEI or ARB may be protective from severe pneumonia in COVID-19 and hence these therapies should not be ceased unless there is a strong indication or further epidemiological evidence. Though none of the current antiviral and immunoregulation therapy showed benefit in preventing COVID-19 progression, chloroquine deserved further investigation.",
+    "affiliations": [
+        "National Natural Science Foundation (grant 81771827 and 81471715 to Dr Rong)"
+    ],
+    "author": "Wendi Kang; Wenming Zhou; Xin Ouyang; Huiling Li; Jincai Liu; Xiaowen Mao; Qizhi Yu; Zhichao Feng; Xiaoqian Ma; Qiuhua Zeng; Shanhu Yao; Jennifer Li; Pengfei Rong; Ji Mei; Wei Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20057539",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20057539"
+    },
+    "title": "The Use of Adjuvant Therapy in Preventing Progression to Severe Pneumonia in Patients with Coronavirus Disease 2019: A Multicenter Data Analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation",
+                    "award-id": [
+                        "81771827",
+                        "81471715"
+                    ]
+                },
+                {
+                    "funding-source": "Dr Rong)"
+                }
+            ],
+            "funding-statement": "This study was supported by National Natural Science Foundation (grant 81771827 and 81471715 to Dr Rong)"
+        }
+    ]
+}

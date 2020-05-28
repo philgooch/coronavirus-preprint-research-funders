@@ -1,0 +1,16 @@
+{
+    "abstract": "The human-infecting corona virus disease (COVID-19) caused by the novel severe acute respiratory syndrome corona virus 2 (SARS-CoV-2) was declared a global pandemic on March 11th, 2020. Current human deaths due to the infection have raised the threat globally with only 1 African country free of Virus (Lesotho) as of May 6th, 2020. Different countries have adopted different interventions at different stages of the outbreak, with social distancing being the first option while lock down the preferred option for flattening the curve at the peak of the pandemic. Lock down is aimed at adherence to social distancing, preserve the health system and improve survival. We propose a Susceptible-Exposed-Infected-Expected recoveries (SEIR) mathematical model to study the impact of a variety of prevention and control strategies Uganda has applied since the eruption of the pandemic in the country. We analyze the model using available data to find the infection-free, endemic/infection steady states and the basic reproduction number. In addition, a sensitivity analysis done shows that the transmission rate and the rate at which persons acquire the virus, have a positive influence on the basic reproduction number. On other hand the rate of evacuation by rescue ambulance greatly reduces the reproduction number. The results have potential to inform the impact and effect of early strict interventions including lock down in resource limited settings and social distancing",
+    "author": "Livingstone Serwadda Luboobi; Gavamukulya Yahaya; Fulgensia Kamugisha Mbabazi; Richard Awichi; Peter Olupot Olupot; Samson Rwahwire; Saphina Biira",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095067",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095067"
+    },
+    "title": "A Mathematical Model Approach for Prevention and Intervention Measures of the COVID-19 Pandemic in Uganda",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No exteternal funding was received"
+        }
+    ]
+}

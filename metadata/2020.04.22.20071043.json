@@ -1,0 +1,20 @@
+{
+    "abstract": "One of the more widely advocated solutions to slowing down the spread of COVID-19 has been automated contact tracing. Since proximity data can be collected by personal mobile devices, the natural proposal has been to use this for contact tracing as this provides a major gain over a manual implementation. In this work, we study the characteristics of automated contact tracing and its effectiveness for mapping the spread of a pandemic due to the spread of SARS-CoV-2. We highlight the infrastructure and social structures required for automated contact tracing to work for the current pandemic. We display the vulnerabilities of the strategy to inadequately sample the population, which results in the inability to sufficiently determine significant contact with infected individuals. Of crucial importance will be the participation of a significant fraction of the population for which we derive a minimum threshold. We conclude that a strong reliance on contact tracing to contain the spread of the SARS-CoV-2 pandemic can lead to the potential danger of allowing the pandemic to spread unchecked. A carefully thought out strategy for controlling the spread of the pandemic along with automated contact tracing can lead to an optimal solution.",
+    "author": "Ayan Paul; Hyunju Kim",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20071043",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20071043"
+    },
+    "title": "Contact Tracing: a game of big numbers in the time of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "John Templeton Foundation"
+                }
+            ],
+            "funding-statement": "This work was partially supported by a grant from the John Templeton Foundation"
+        }
+    ]
+}

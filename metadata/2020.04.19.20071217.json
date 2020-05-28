@@ -1,0 +1,29 @@
+{
+    "abstract": "Background Following successful implementation of strong containment measures by the community, Australia is now close to the point of eliminating detectable community transmission of COVID-19. We aimed to develop an efficient, rapid and scalable surveillance strategy for detecting all remaining COVID-19 community transmission through exhaustive identification of every active transmission chain. We also identified measures to enable early detection and effective management of any reintroduction of transmission once containment measures are lifted to ensure strong containment measures do not need to be reinstated. Methods We compared efficiency and sensitivity to detect community transmission chains through testing of: hospital cases; primary care fever and cough patients; or asymptomatic community members, using surveillance evaluation methods and mathematical modelling, varying testing capacities and prevalence of COVID-19 and non-COVID-19 fever and cough, and the reproduction number. System requirements for increasing testing to allow exhaustive identification of all transmission chains, and then enable complete follow-up of all cases and contacts within each chain, were assessed per million population. Findings Assuming 20% of cases are asymptomatic and all symptomatic COVID-19 cases present to primary care, with high transmission (R=2.2) there are a median of 13 unrecognised community cases (5 infectious) when a transmission chain is identified through hospital surveillance versus 3 unrecognised cases (1 infectious) through primary care surveillance. 3 unrecognised community upstream community cases themselves are estimated to generate a further 22-33 contacts requiring follow-up. The unrecognised community cases rise to 5 if only 50% of symptomatic cases present to primary care. Screening for asymptomatic disease in the community cannot exhaustively identify all transmission under any of the scenarios assessed. The additional capacity required to screen all fever and cough primary care patients would be approximately 2,000 tests/million population per week using 1/16 pooling of samples. Interpretation Screening all syndromic fever and cough primary care presentations, in combination with exhaustive and meticulous case and contact identification and management, enables appropriate early detection and elimination of community transmission of COVID-19. If testing capacity is limited, interventions such as pooling allow increased case detection, even given reduced test sensitivity. Wider identification and testing of all upstream contacts, (i.e. potential sources of infection for identified cases, and their related transmission chains) is critical, and to be done exhaustively requires more resources than downstream contact tracing. The most important factor in determining the performance of such a surveillance system is community participation in screening and follow up, and as such, appropriate community engagement, messaging and support to encourage presentation and compliance is essential. We provide operational guidance on implementing such a system.",
+    "affiliations": [
+        "National Health and Medical Research Council of Australia (Principal Research Fellowship 1136128)"
+    ],
+    "author": "Tatum Street; Stephanie Davis; Emily Banks; Leslee Roberts; Grazia Caleo; Kathryn Glass; Kamalini Lokuge; Declan O'Donovan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071217",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071217"
+    },
+    "title": "Exit strategies: optimising feasible surveillance for detection, elimination and ongoing prevention of COVID-19 community transmission",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Health and Medical Research Council of Australia"
+                },
+                {
+                    "funding-source": "Principal Research Fellowship",
+                    "award-id": [
+                        "1136128"
+                    ]
+                }
+            ],
+            "funding-statement": "Professor Banks is supported by the National Health and Medical Research Council of Australia (Principal Research Fellowship 1136128)"
+        }
+    ]
+}

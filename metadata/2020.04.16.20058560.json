@@ -1,0 +1,53 @@
+{
+    "title": "Epidemiological and Genomic Analysis of SARS-CoV-2 in Ten Patients from a Mid-sized 2 City outside of Hubei, China 3 Jinkun Chen1\u00a7, Evann E. Hilt2\u00a7, Huan Wu3, Zhuojing Jiang1, QinChao Zhang1, JiLing Wang1, 4 Yifang Wang3, Fan Li4, Ziqin Li5, Jialiang Tang1*, Shangxin Yang2,5* 5 6 1Shaoxing Center for Disease Control and Prevention, Shaoxing, Zhejiang, China; 2Department 7 of Pathology and Laboratory Medicine, University of California Los Angeles, Los Angeles, CA, 8 USA; 3IngeniGen XunMinKang Biotechnology Inc., Shaoxing, Zhejiang, China; 4Three Coin 9 Analytics, Inc. Pleasanton, CA, USA; 5Zhejiang-Californina International Nanosystems Institute, 10 Zhejiang University, Hangzhou, Zhejiang, China 11 12 \u00a7Authors contributed equally. 13 *Corresponding authors: Jialiang Tang: 992488904@qq.com; Shangxin Yang, PhD, D(ABMM): 14 shangxinyang@mednet.ucla.edu 15 16 RUNNING TITLE: Genomic Analysis of SARS-CoV-2 by Metagenomic Sequencing 17 18 KEYWORDS: SARS-CoV-2, Metagenomic Sequencing, Mutation Rate, S Genotype, COVID19 19, 2019-nCoV 20",
+    "author": "Real-time PCR Ct values less than 28. We found that a cluster of 4 patients with travel history to",
+    "date": 2020,
+    "affiliations": [
+        "Shaoxing Center for Disease Control and Prevention, Shaoxing, Zhejiang, China",
+        "Department 7 of Pathology and Laboratory Medicine, University of California Los Angeles, Los Angeles, CA",
+        "IngeniGen XunMinKang Biotechnology Inc., Shaoxing, Zhejiang, China",
+        "Analytics, Inc. Pleasanton, CA, USA",
+        "Zhejiang-Californina International Nanosystems Institute",
+        "Zhejiang University, Hangzhou, Zhejiang, China 11 12",
+        "Authors contributed equally. 13",
+        "Corresponding authors: Jialiang Tang:",
+        "RUNNING TITLE: Genomic Analysis of SARS-CoV-2 by Metagenomic Sequencing 17",
+        "KEYWORDS: SARS-CoV-2, Metagenomic Sequencing, Mutation Rate, S Genotype, COVID19 19, 2019-nCoV 20"
+    ],
+    "journal": "In December",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.16.20058560",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20058560.pdf"
+    },
+    "abstract": "CoV-2) is the cause of the ongoing COVID-19 pandemic. In this study, we performed a comprehensive epidemiological and genomic analysis of SARS-CoV-2 genomes from ten patients in Shaoxing, a mid-sized city outside of the epicenter Hubei province, China, during the early stage of the outbreak (late January to early February, 2020). We obtained viral genomes with > 99% coverage and a mean depth of 296X demonstrating that viral genomic analysis is feasible via metagenomics sequencing directly on nasopharyngeal samples with SARS-CoV-2",
+    "keywords": [
+        "SARS-CoV-2",
+        "Metagenomic Sequencing",
+        "Mutation Rate",
+        "S Genotype",
+        "COVID19 19",
+        "2019-nCoV 20"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Shaoxing IngeniGen XMK Biotechnologies, Inc",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Treatment Coronavirus",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                }
+            ],
+            "funding-statement": "This study is funded by Shaoxing IngeniGen XMK Biotechnologies, Inc. Treatment Coronavirus (COVID-19)"
+        }
+    ]
+}

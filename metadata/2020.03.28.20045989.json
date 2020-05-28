@@ -1,0 +1,34 @@
+{
+    "abstract": "Background Approximately 15-20% of COVID-19 patients will develop severe pneumonia, about 10 % of which will die if not properly managed. Methods 125 COVID-19 patients enrolled in this study were classified into mild (93 cases) and severe (32 cases) groups, basing on their 3 to 7-days clinical outcomes. Patients' gender, age, comorbid with underlying diseases, epidemiological history, clinical manifestations, and laboratory tests on admission were collected and subsequently analyzed with single-factor and multivariate logistic regression methods. Finally, we evaluate their prognostic values with the receiver operating characteristic curve (ROC) analysis. Results Seventeen factors on admission differed significantly between mild and severe groups. Next, only four factors, including the comorbid with underlying diseases, increased respiratory rate (>24/min), elevated C-reactive protein (CRP >10mg/liter), and lactate dehydrogenase (LDH >250U/liter), were found to be independently associated with the later disease development. Prognostic value analysis by ROC indicated that individual factors could not confidently predict the occurrence of severe pneumonia, but that the combination of fast respiratory rate and elevated LDH significantly increase the predictive confidence (AUC= 0.944, sensitivity= 0.941, and specificity= 0.902). Three- or four-factors combinations, including elevated LDH and fast respiratory rate, further increased the prognostic value. Additionally, measurable serum viral RNA post-admission could independently predict the severe illness occurrence. Conclusions General clinical characteristics and laboratory tests, such as combinations consisting of elevated LDH and fast respiratory rate, and detectable viral RNA in serum post-admission could provide high confident prognostic value for identifying potential severe COVID-19 pneumonia patients.",
+    "affiliations": [
+        "Chinese National Grand Program on Key Infectious Disease Control (2017ZX10202203-004-002 and 2018ZX10301404-003-002)"
+    ],
+    "author": "Youxia Li; Yinqiang Fan; Xilong Deng; Linghua Li; Huang Huang; Fengyu Hu; Chunliang Lei; Shuijiang Cai; Xiaoping Tang; Yueping Li; Feng Li",
+    "date": 2020,
+    "doi": "10.1101/2020.03.28.20045989",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.28.20045989"
+    },
+    "title": "Prognostic factors for COVID-19 pneumonia progression to severe symptom based on the earlier clinical features: a retrospective analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Natural Science Foundation of China",
+                    "award-id": [
+                        "81670536",
+                        "81770593"
+                    ]
+                },
+                {
+                    "funding-source": "Chinese National Grand Program on Key Infectious Disease Control",
+                    "award-id": [
+                        "2017ZX10202203-004-002",
+                        "2018ZX10301404-003-002"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by Natural Science Foundation of China (No 81670536 and 81770593) and by the Chinese National Grand Program on Key Infectious Disease Control (2017ZX10202203-004-002 and 2018ZX10301404-003-002)"
+        }
+    ]
+}

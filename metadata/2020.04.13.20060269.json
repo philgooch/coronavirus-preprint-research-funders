@@ -1,0 +1,23 @@
+{
+    "abstract": "The dynamics of infectious diseases spread is crucial in determining their risk and offering ways to contain them. We study sequential vaccination of individuals in networks, where there is a limit on the number of individuals that can be vaccinated every day. Effective allocation of vaccine will play a critical role in preventing the spread and reducing the effects of a future pandemic. We derive methods for calculating upper and lower bounds of the expected number of infected individuals, as well as provide estimates on the number of vaccinations that is needed for containment. We calculate these explicitly on trees, d-dimensional grids, and Erd\u0151s R\u00e9nyi graphs. Finally, we construct a time-dependent budget allocation strategy and demonstrate its superiority over constant budget allocation on real networks following first acquaintance vaccination. Our results provide a principled approach to assess the needed vaccination rate given the social graph topology.",
+    "author": "Guy Tennenholtz; Shie Mannor; Constantine Caramanis",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20060269",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20060269"
+    },
+    "title": "Sequential Vaccination for Containing Epidemics",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ISF Contract",
+                    "award-id": [
+                        "1380/16"
+                    ]
+                }
+            ],
+            "funding-statement": "ISF Contract 1380/16."
+        }
+    ]
+}

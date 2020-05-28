@@ -1,0 +1,19 @@
+{
+    "abstract": "Background The novel coronavirus SARS-CoV-2 (COVID-19) emerged in December 2019 in Wuhan, China and has spread since then to around 210 countries and territories by April 2020. Consequently, countries have adopted physical distance measures in an attempt to mitigate the uncontrolled spread of the virus. A critical question for policymakers to inform evidence-based practice is if and how physical distance measures slowed the propagation of COVID-19 in the early phase of the pandemic. Methods This study aims to quantify the effects of physical distance mitigation measures on the propagation of the COVID-19 pandemic. Data from John Hopkins University on confirmed cases and testing data from the Our World in Data were used in an interrupted time series analysis to estimate the effects of physical distance measures on the growth rates of the pandemic in 12 countries of Asia, Africa, and Europe. Findings We found that physical distance measures produced a significant decrease in the growth rates of the COVID-19 pandemic in five countries (Austria, Belgium, Italy, Malaysia, and South Korea). The test-positivity rate was significant in understanding the slowing growth rate of COVID-19 cases caused by the mitigation measures, as it provides important context that is missing from analysis based only on confirmed case data. Interpretation Physical distance interventions effectively slowed the progression of the COVID-19 pandemic. The results of this study could inform infectious disease mitigation policies based on physical distance measures by quantifying the differential health outcomes of a pandemic with and without physical distance interventions.",
+    "affiliations": [
+        "Johns Hopkins University Center for Systems Science and Engineering (https://github.com/CSSEGISandData/COVID-19)"
+    ],
+    "author": "Adam J Branscum; F. DeWolfe Miller; Diego F Cuadros; Andres Hernandez; Esteban Correa-Agudelo; Hana Kim; Neil MacKinnon",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20092304",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092304"
+    },
+    "title": "On the impact of early non-pharmaceutical interventions as containment strategies against the COVID-19 pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There is no funding to declare"
+        }
+    ]
+}

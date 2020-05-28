@@ -1,0 +1,43 @@
+{
+    "title": "Cryo-EM Structure of the 2019-nCoV Spike in the Prefusion Conformation",
+    "author": "Daniel Wrapp, Nianshuang Wang, Kizzmekia S. Corbett, Jory A. Goldsmith, Ching-Lin Hsieh, Olubukola Abiona, Barney S. Graham, Jason S. McLellan,#",
+    "date": 2020,
+    "affiliations": [
+        "Department of Molecular Biosciences, The University of Texas at Austin, Austin, TX 78712, USA",
+        "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA",
+        "These authors contributed equally #Correspondence to"
+    ],
+    "journal": "Cryo",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.11.944462",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.11.944462.pdf"
+    },
+    "abstract": "2 The outbreak of a novel betacoronavirus (2019-nCov) represents a pandemic threat that has been 3 declared a public health emergency of international concern. The CoV spike (S) glycoprotein is a 4 key target for urgently needed vaccines, therapeutic antibodies, and diagnostics. To facilitate 5 medical countermeasure (MCM) development we determined a 3.5 \u00c5-resolution cryo-EM 6 structure of the 2019-nCoV S trimer in the prefusion conformation. The predominant state of the 7 trimer has one of the three receptor-binding domains (RBDs) rotated up in a receptor-accessible 8 conformation. We also show biophysical and structural evidence that the 2019-nCoV S binds 9 ACE2 with higher affinity than SARS-CoV S. Additionally we tested several published SARS10 CoV RBD-specific monoclonal antibodies and found that they do not have appreciable binding to nCoV-2019 S, suggesting antibody cross-reactivity may be limited between the two virus RBDs. The atomic-resolution structure of 2019-nCoV S should enable rapid development and evaluation of MCMs to address the ongoing public health crisis.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "NIAID",
+                    "award-id": [
+                        "R01-AI127521"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by an NIH/NIAID grant awarded to J.S.M. (R01-AI127521)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Sauer Structural Biology Laboratory"
+                }
+            ],
+            "funding-statement": "The Sauer Structural Biology Laboratory is supported by the"
+        }
+    ]
+}

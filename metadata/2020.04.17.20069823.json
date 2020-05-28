@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: New York City was the first major urban center of the COVID-19 pandemic in the USA. Cases are clustered in the city, with certain neighborhoods experiencing more cases than others. We investigate whether potential socioeconomic factors can explain between-neighborhood variation in the number of detected COVID-19 cases. Methods: Data were collected from 177 Zip Code Tabulation Areas (ZCTA) in New York City (99.9% of the population). We fit multiple Bayesian Besag-York-Molli\u00e9 (BYM) mixed models using positive COVID-19 tests as the outcome and a set of 10 representative economic, demographic, and health-care associated ZCTA-level parameters as potential predictors. The BYM model includes both spatial and nonspatial random effects to account for clustering and overdispersion. Results: Multiple different regression approaches indicated a consistent, statistically significant association between detected COVID-19 cases and dependent (under 18 or 65+ years old) population, male to female ratio, and median household income. In the final model, we found that an increase of only 1% in dependent population is associated with a 2.5% increase in detected COVID-19 cases (95% confidence interval (CI): 1.6% to 3.4%, p < 0.0005). An increase of 1 male per 100 females is associated with a 1.0% (95% CI: 0.6% to 1.5%, p < 0.0005) increases in detected cases. A decrease of $10,000 median household income is associated with a 2.5% (95% CI: 1.0% to 4.1% p = 0.002) increase in detected COVID-19 cases. Conclusions: Our findings indicate associations between neighborhoods with a large dependent population, those with a high proportion of males, and low-income neighborhoods and detected COVID-19 cases. Given the elevated mortality in aging populations, the study highlights the importance of public health management during and after the current COVID-19 pandemic. Further work is warranted to fully understand the mechanisms by which these factors may have affected the number of detected cases, either in terms of the true number of cases or access to testing.\nCompeting Interest Statement",
+    "author": "Richard Stuart Whittle; Ana Diaz-Artiles",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20069823",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20069823"
+    },
+    "title": "An ecological study of socioeconomic predictors in detection of COVID-19 cases across neighborhoods in New York City",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this study."
+        }
+    ]
+}

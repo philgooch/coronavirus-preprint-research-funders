@@ -1,0 +1,16 @@
+{
+    "abstract": "Objectives: Mortality from Covid-19 is monitored in detail both within as well as between countries with different strategies against the virus. However, death counts and relative risks based on crude numbers can be misleading. Instead, age specific death rates should be used for comparability. Given the difficulty of ascertainment of Covid-19 specific deaths, excess all-cause mortality is currently more appropriate for comparisons. By estimating age- and sex-specific death rates we aim to get more accurate estimates of the excess mortality attributed to Covid-19, as well as the difference between men and women in Sweden. Design: We make use of Swedish register data about total weekly deaths, total population at risk, and estimate age- and sex-specific weekly death rates for 2020 and the 5 previous years. The data is provided by Statistics Sweden. Results: From the first week of April and onwards, the death rates at all ages above 60 are higher than those in previous years in Sweden. Persons above age 80 are dis-proportionally more affected, and men suffer higher levels of excess mortality than women at all ages with 75% higher death rates for males and 50% higher for females. Current excess mortality corresponds to a decline in remaining life expectancy of 3 years for men and 2 years for women. Conclusion: The Covid-19 pandemic has so far had a clear and consistent effect on total mortality in Sweden, with male death rates being comparably more affected. What consequences the pandemic will eventually have on mortality and life expectancy will depend on the progression of the pandemic, the extent that some of the deaths would have occurred in the absence of the pandemic, only somewhat later, the consequences for other health conditions, as well as the health care sector at large.",
+    "author": "Karin Modig; Marcus Ebeling",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20096909",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20096909"
+    },
+    "title": "EXCESS MORTALITY FROM COVID-19. WEEKLY EXCESS DEATH RATES BY AGE AND SEX FOR SWEDEN.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No specific funding was achieved for this work."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "abstract": "Objectives. To determine if specific ethnic groups are at higher risk of mortality from COVID19 infection. Design. Retrospective cohort study Setting. University Hospitals Birmingham NHS Foundation Trust (UHB) in Birmingham, UK Participants. Patients with confirmed SARS CoV 2 infection requiring admission to UHB between 10th March 2020 and 17th April 2020 Exposure. Ethnicity Main outcome measures. Standardised Admission Ratio (SAR) and Standardised Mortality Ratio (SMR) for each ethnicity was calculated using observed sex specific age distributions of COVID19 admissions/deaths and 2011 census data for Birmingham/Solihull. Hazard Ratio (aHR) for mortality was estimated for each ethnic group with white population as reference group, using Cox proportional hazards model adjusting for age, sex, social deprivation and co-morbidities, and propensity score matching. Results. 2217 patients admitted to UHB with a proven diagnosis of COVID19 were included. 58.2% were male, 69.5% White and the majority (80.2%) had co morbidities. 18.5% were of South Asian ethnicity, and these patients were more likely to be younger (median age 61 years vs.77 years), have no co morbidities (27.8% vs. 16.6%) but a higher prevalence of diabetes mellitus (48.0% vs 28.2%) than White patients. SAR and SMR suggested more admissions and deaths in South Asian patients than would be predicted. South Asian patients were also more likely to present with severe disease despite no delay in presentation since symptom onset. South Asian ethnicity was associated with an increased risk of death; both by Cox regression (Hazard Ratio 1.66 (95%CI 1.32 to 2.10)) after adjusting for age, sex, deprivation and comorbidities and by propensity score matching, (Hazard ratio 1.68 (1.33 to 2.13), using the same factors but categorising ethnicity into South Asian or not. Conclusions. Current evidence suggests those of South Asian ethnicity may be at risk of worse COVID19 outcomes, further studies need to establish the underlying mechanistic pathways.",
+    "author": "Felicity Evison; Simon Ball; Elizabeth Sapey; David McNulty; Peter Nightingale; Suzy Gallier; Alastair K Denniston; Krishnarajah Nirantharakumar; Chris Mainey; Peter Diggle; Domenico Pagano; Katharine Reeves; Hannah Crothers",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20092296",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092296"
+    },
+    "title": "Ethnicity and risk of death in patients hospitalised for COVID-19 infection: an observational cohort study in an urban catchment area",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "HDR-UK Health"
+                },
+                {
+                    "funding-source": "Research Hub in Acute"
+                }
+            ],
+            "funding-statement": "This work was funded by the HDR-UK Health data and Research Hub in Acute Care: PIONEER"
+        }
+    ]
+}

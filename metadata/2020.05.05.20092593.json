@@ -1,0 +1,16 @@
+{
+    "abstract": "Objective: Social determinants of evolving covid-19 pandemic have not been well studied. To determine trends in transition of this epidemic in India we performed a study in states at various levels of human development index (HDI). Methods: We used publicly available data sources to track progress of covid-19 epidemic in India in different states and territories where it was reported in significant numbers. The states (n=20) were classified into tertiles of HDI and weekly trends in cases and deaths plotted from 15 March to 2 May 2020. To assess association of HDI with state-level covid-19 burden we performed Pearson correlation. Logarithmic trends were evaluated for calculation of projections. A microlevel study was performed in select urban agglomerations for identification of socioeconomic status (SES) differentials. Results: There is wide regional variation in covid-19 cases and deaths in India from mid-March to early-May 2020. High absolute numbers have been reported from states of Maharashtra, Gujarat, Delhi, Madhya Pradesh, Rajasthan and Tamilnadu. Growth rate in cases and deaths is slow in high HDI states while it has increased rapidly in middle and lower HDI states. In mid-March 2020 there was a strong positive correlation of state-level HDI with weekly covid-19 cases (r= 0.37, 0.40) as well as deaths (r= 0.31, 0.42). This declined by early-May for cases (r= 0.04, 0.06) as well as deaths (r= -0.005, 0.001) with significant negative logarithmic trend (cases R squared= 0.92; deaths R squared= 0.84). These trends indicate increasing cases and deaths in low HDI states. Projection reveals that this trend is likely to continue to early-June 2020. Microlevel evaluation shows that urban agglomerations are major focus of the disease in India and it has transited from middle SES to low SES locations. Conclusion: There is wide variability in burden of covid-19 in India. Slow growth and flattening of curve is observed in high-HDI states while disease is increasing in mid and lower HDI states. Projections reveal that lower HDI states would achieve parity with high HDI states by early-June 2020. Covid-19 is mostly present in urban agglomerations where it has transited from upper-middle to low SES locations. Public health strategies focusing on urban low SES locations and low HDI states are crucial to decrease covid-19 burden in India.",
+    "author": "Rajeev Gupta; Rajinder K Dhamija; Kiran Gaur",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20092593",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092593"
+    },
+    "title": "Epidemiological Transition of Covid-19 in India from Higher to Lower HDI States and Territories: Implications for Prevention and Control",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding received."
+        }
+    ]
+}

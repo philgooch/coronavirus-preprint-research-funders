@@ -1,0 +1,126 @@
+{
+    "abstract": "There is a worldwide shortage of reagents to perform detection of SARS-2. Many clinical diagnostic laboratories rely on commercial platforms that provide integrated end-to-end solutions. While this provides established robust pipelines, there is a clear bottleneck in the supply of reagents given the current situation of extraordinary high demand. Some laboratories resort to implementing kit-free handling procedures, but many other small laboratories will not have the capacity to develop those and/or will perform manual handling of their samples. In order to provide multiple workflows for SARS-CoV-2 nucleic acid detection we compared several commercially available RNA extraction methods: QIAamp Viral RNA Mini Kit (QIAgen), the recently developed RNAdvance Blood (Beckman) and Mag-Bind Viral DNA/RNA 96 Kit (Omega Bio-tek). We also compared different 1-step RT-qPCR Master Mix brands: TaqMan\u2122 Fast Virus 1-Step Master Mix (ThermoFisher Scientific), qPCRBIO Probe 1-Step Go Lo-ROX (PCR Biosystems) and Luna\u00ae Universal Probe One-Step RT-qPCR Kit (NEB). We used the Centre for Disease Control (CDC) recommended primers that detect two regions of the viral N gene as well as those that detect the RdRP gene region as per Public Health England (PHE) guidelines (Charite/WHO/PHE). Our data show that the RNA extraction methods provide similar results. Amongst the qPCR reagents tested, TaqMan\u2122 Fast Virus 1-Step Master Mix and Luna\u00ae Universal Probe One-Step RT-qPCR Kit proved most sensitive. The N1 and N2 primer-probes provide a more reliable detection than the RdRP-SARSr primer-probe set, particularly in samples with low viral titres. Importantly, we have implemented a protocol using heat inactivation and demonstrate that it has minimal impact on the sensitivity of the qPCR in clinical samples - potentially making SARS-CoV-2 testing portable to settings that do not have CL-3 facilities.",
+    "affiliations": [
+        "College London member of the MRC Doctoral Training Partnership in Biomedical Sciences; R.E.D. is"
+    ],
+    "author": "Thomas J.A. Maguire; Emma Cunningham; Mark Howard; Juan Martin-Serrano; Esperanza Perucha; Mark Tan Kia Ik; Amita Patel; Maria Jose Lista; Ruth E Dickenson; Elena Ortiz-Zapater; Penny Cliff; Adrian W Signell; Aoife O'Byrne; Michael H Malim; Stuart Neil; Suzanne Pickering; Gilberto Betancor; Harry Wilson; Mattia Ficarelli; Rui Pedro Galao; Hannah E Mischo; Helin Sertkaya; Rocio Teresa Martinez-Nunez; Rahul Batra; Monica Agromayor; Robert Page; Kate Poulton; Pedro Matos; Clement Bouton; Jonathan Edgeworth; Eithne MacMahon; Manu Shankar-Hari",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20074351",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20074351"
+    },
+    "title": "Resilient SARS-CoV-2 diagnostics workflows including viral heat inactivation",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "King's Together Rapid COVID-19 Call"
+                },
+                {
+                    "funding-source": "R.T.M-N"
+                }
+            ],
+            "funding-statement": "This work was funded by King's Together Rapid COVID-19 Call award to R.T.M-N"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "MRC-KCL Doctoral Training Partnership in Biomedical Sciences",
+                    "award-id": [
+                        "MR/N013700/1",
+                        "MR/S009191/1"
+                    ]
+                },
+                {
+                    "funding-source": "UK Medical Research Council",
+                    "award-id": [
+                        "MR/R50225X/1"
+                    ]
+                },
+                {
+                    "funding-source": "College London"
+                },
+                {
+                    "funding-source": "MRC Doctoral Training Partnership in Biomedical Sciences;"
+                },
+                {
+                    "funding-source": "College London"
+                },
+                {
+                    "funding-source": "MRC Doctoral Training Partnership in Biomedical Sciences;"
+                },
+                {
+                    "funding-source": "BBSRC",
+                    "award-id": [
+                        "BB/P504609/1"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "106223/Z/14/Z to MHM"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "NHS Foundation Trust and"
+                },
+                {
+                    "funding-source": "College London;"
+                },
+                {
+                    "funding-source": "Asthma UK"
+                },
+                {
+                    "funding-source": "Asthma UK Centre in Allergic Mechanisms of Asthma;"
+                }
+            ],
+            "funding-statement": "A.S. was supported by the MRC-KCL Doctoral Training Partnership in Biomedical Sciences (MR/N013700/1); EOZ was supported by MR/S009191/1 to Parsons M and Santis G; M.F. was supported by the UK Medical Research Council (MR/R50225X/1) and is a King\u0092s College London member of the MRC Doctoral Training Partnership in Biomedical Sciences; R.E.D. is a King\u0092s College London member of the MRC Doctoral Training Partnership in Biomedical Sciences; H.S was supported by the BBSRC (BB/P504609/1); G.B. was supported by the Wellcome Trust (106223/Z/14/Z to MHM); R.P. was supported by the by the (NIHR) Biomedical Research Centre based at Guy\u0092s and St Thomas\u0092 NHS Foundation Trust and King\u0092s College London; T.J.A.M. was supported by Asthma UK at the Asthma UK Centre in Allergic Mechanisms of Asthma; P.M., S"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "M.J.L.B and C.B.",
+                    "award-id": [
+                        "MR/S000844/1"
+                    ]
+                }
+            ],
+            "funding-statement": "P. and H.W. were supported by WT098049AIA to Neil S. and Swanson C.; M.J.L.B and C.B. were supported by MRC: MR/S000844/1 to Neil S. and Swanson C"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "This UK"
+                },
+                {
+                    "funding-source": "European Union;"
+                },
+                {
+                    "funding-source": "KHP Challenge Fund",
+                    "award-id": [
+                        "RP_0"
+                    ]
+                },
+                {
+                    "funding-source": "R.T.M-N;",
+                    "award-id": [
+                        "RP_007_20190305"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust and Royal Society Sir Henry Dale Fellowship",
+                    "award-id": [
+                        "218537/Z/19/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "This UK funded award is part of the EDCTP2 programme supported by the European Union; K.P. was funded by KHP Challenge Fund to R.T.M-N; M.H. was funded by RP_007_20190305 from Kidney research UK; H.M. was funded by the Wellcome Trust and Royal Society Sir Henry Dale Fellowship 218537/Z/19/Z"
+        }
+    ]
+}

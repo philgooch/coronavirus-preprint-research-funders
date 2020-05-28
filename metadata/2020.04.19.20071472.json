@@ -1,0 +1,35 @@
+{
+    "abstract": "Background The mortality of COVID-19 differs between countries and regions. By now, reports on COVID-19 are largely focused on first-generation cases. This study aimed to clarify the clinical characteristics of imported and second-generation cases. Methods This retrospective, multicenter cohort study included 134 confirmed COVID-19 cases from 9 cities outside Wuhan. Epidemiological, clinical and outcome data were extracted from medical records and were compared between severe and non-severe cases. We further profiled the dynamic laboratory findings of some patients. Results 34.3% of the 134 patients were severe cases, and 11.2% had complications. As of March 7, 2020, 91.8% patients were discharged and one patient (0.7%) died. The median age was 46 years. The median interval from symptom onset to hospital admission was 4.5 (IQR 3-7) days. The median lymphocyte count was 1.1*109/L. Age, lymphocyte count, CRP, ESR, DBIL, LDH, HBDH showed difference between severe and no-severe cases (all P<0.05). Baseline lymphocyte count was higher in the survived patients than in the non-survivor case, and it increased as the condition improved, but declined sharply when death occurred. The IL-6 level displayed a downtrend in survivors, but rose very high in the death case. Pulmonary fibrosis was found on later chest CT images in 51.5% of the pneumonia cases. Conclusion Imported and second-generation cases outside Wuhan had a better prognosis than initial cases in Wuhan. Lymphocyte count and IL-6 level could be used for evaluating prognosis. Pulmonary fibrosis as the sequelae of COVID-19 should be taken into account.",
+    "author": "Zhiqiang Li; Jun Yang; Miao Li; Fuping Chen; Yuanjun Li; Shujiao Deng; Chunyan Li; Zhaofeng Xie; Mingwei Chen; Shasha Wang; Xiaofeng Xu; Xiaohua Yang; Zhengxia Wu; Guoxia Ren; Puyu Shi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071472",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071472"
+    },
+    "title": "Clinical characteristics of imported and second-generation COVID-19 cases outside Wuhan, China: A multicenter retrospective study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Major Projects of Ministry of Science and Technology of the People\u2019s Republic of China",
+                    "award-id": [
+                        "2017ZX10103004-010"
+                    ]
+                },
+                {
+                    "funding-source": "Mingwei Chen)"
+                },
+                {
+                    "funding-source": "Science and Technology Planning Project of Xi",
+                    "award-id": [
+                        "20200003YX003"
+                    ]
+                },
+                {
+                    "funding-source": "Mingwei Chen)"
+                }
+            ],
+            "funding-statement": "This work was supported by Major Projects of Ministry of Science and Technology of the People\u2019s Republic of China (No.2017ZX10103004-010; to Mingwei Chen); Science and Technology Planning Project of Xi 'an (No.20200003YX003(3); to Mingwei Chen)"
+        }
+    ]
+}

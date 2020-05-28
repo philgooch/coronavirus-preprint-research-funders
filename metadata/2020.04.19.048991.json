@@ -1,0 +1,52 @@
+{
+    "title": "CoV2ID: Detection and Therapeutics Oligo Database for SARS-CoV-2",
+    "author": "Jo\u00e3o Carneiro, and Filipe Pereira",
+    "date": 2020,
+    "affiliations": [
+        "Interdisciplinary Centre of Marine and Environmental Research (CIIMAR), University of Porto, Portugal",
+        "IDENTIFICA, Science and Technology Park of the University of Porto - UPTEC, Porto, Portugal",
+        "China National Center for Bioinformation (https://bigd.big.ac.cn/ncov/variation/annotation)"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.19.048991",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.19.048991.pdf"
+    },
+    "abstract": "The ability to detect the SARS-CoV-2 in a widespread epidemic is crucial for screening of carriers and for the success of quarantine efforts. Methods based on real-time reverse transcription polymerase chain reaction (RT-qPCR) and sequencing are being used for virus detection and characterization. However, RNA viruses are known for their high genetic diversity which poses a challenge for the design of efficient nucleic acid-based assays. The first SARS-CoV-2 genomic sequences already showed novel mutations, which may affect the efficiency of available screening tests leading to false-negative diagnosis or inefficient therapeutics. Here we describe the CoV2ID (http://covid.portugene.com/), a free database built to facilitate the evaluation of molecular methods for detection of SARS-CoV-2 and treatment of COVID-19. The database evaluates the available oligonucleotide sequences (PCR primers, RT-qPCR probes, etc.) considering the genetic diversity of the virus. Updated sequences alignments are used to constantly verify the theoretical efficiency of available testing methods. Detailed information on available detection protocols are also available to help laboratories implementing SARS-CoV-2 testing.",
+    "keywords": [
+        "COVID-19",
+        "oligonucleotides",
+        "coronavirus",
+        "false negatives",
+        "RT-qPCR"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Foundation for Science and Technology",
+                    "award-id": [
+                        "UIDB/04423/2020",
+                        "UIDP/04423/2020"
+                    ]
+                },
+                {
+                    "funding-source": "Decree Law",
+                    "award-id": [
+                        "57/2016",
+                        "57/2017"
+                    ]
+                },
+                {
+                    "funding-source": "Genomic Mean Mean Mean",
+                    "award-id": [
+                        "3PIS"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported by national funds through FCT - Foundation for Science and Technology within the scope of UIDB/04423/2020 and UIDP/04423/2020. J.C. also acknowledges the FCT funding for his research contract at CIIMAR, established under the transitional rule of Decree Law 57/2016, amended by Law 57/2017. Database reference  Target  Original name  Sequence (5\u2019-3\u2019) Position in reference genome Genomic Mean Mean Mean CoV2ID region PIS* 3PIS* PPI* score CoV2ID007 CoV2ID011 CoV2ID019 CoV2ID020 CoV2ID028 CoV2ID036 CoV2ID041 CoV2ID047 CoV2ID050 CoV2ID052 CoV2ID008 CoV2ID010 CoV2ID009 PCR primer forward Charite_RdRP_SARSr-F2 Charite_E_Sarbeco_F1"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "abstract": "Objective: To evaluate novel coronavirus pneumonia cases by establishing the mathematical model of the number of confirmed cases daily, and to assess the current situation and development of the epidemic situation, so as to provide a digital basis for decision-making. Methods: The number of newly confirmed covid-19 cases per day was taken as the research object, and the seven-day average value (M)) and the sequential value (R) of M were calculated to study the occurrence and development of covid-19 epidemic through the analysis of charts and data. Results: M reflected the current situation of epidemic development; R reflected the current level of infection and the trend of epidemic development. Conclusion: The current data can be used to evaluate the number of people who have been infected, and when R < 1, the peak of epidemic can be predicted.",
+    "affiliations": [
+        "Hopkins Coronavirus Resource Center"
+    ],
+    "author": "Zhenguo Wu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20061432",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20061432"
+    },
+    "title": "Application of COVID-19 pneumonia diffusion data to predict epidemic situation",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "title": "SARS-CoV-2 receptor ACE2 and TMPRSS2 are predominantly expressed in a transient secretory cell type in subsegmental bronchial branches",
+    "author": "Soeren Lukassen,#, Robert Lorenz Chua,#, Timo Trefzer,#, Nicolas C. Kahn,#, Marc A. Schneider,#, Thomas Muley, Hauke Winter, Michael Meister, Carmen Veith, Agnes W. Boots, Bianca P. Hennig, Michael Kreuter, Christian Conrad,* & Roland Eils",
+    "date": 2020,
+    "affiliations": [
+        "Freie Universit\u00e4t Berlin, HumboldtUniversit\u00e4t zu Berlin, and Berlin Institute of Health, Charit\u00e9platz 1, 10117 Berlin, Germany",
+        "Berlin Institute of Health (BIH), Center for Digital Health, Anna-Louisa-Karsch-Strasse 2, 10178 Berlin, Germany",
+        "Thoraxklinik, Heidelberg University Hospital, Department of Pneumology and Critical Care Medicine, Roentgenstrasse 1, 69126 Heidelberg, Germany",
+        "Translational Lung Research Center Heidelberg (TLRC), Member of the German Center for Lung Research (DZL), Im Neuenheimer Feld 156, 69120 Heidelberg, Germany",
+        "Thoraxklinik, Heidelberg University Hospital, Translational Research Unit, Roentgenstrasse 1, 69126 Heidelberg, Germany",
+        "Thoraxklinik, Heidelberg University Hospital, Department of Thoracic Surgery, Roentgenstrasse 1, 69126 Heidelberg, Germany",
+        "Division of Redox Regulation, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120 Heidelberg, Germany",
+        "Department of Pharmacology and Toxicology, NUTRIM School of Nutrition, Translational Research and Metabolism. Faculty of Health, Medicine and Life Sciences, Maastricht University, Universiteitssingel 50, Maastricht, the Netherlands",
+        "Health Data Science Unit, Heidelberg University Hospital and BioQuant, Im Neuenheimer Feld 267, 69120 Heidelberg, Germany"
+    ],
+    "journal": "Lukassen",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.13.991455",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.13.991455.pdf"
+    },
+    "abstract": "The SARS-CoV-2 pandemic affecting the human respiratory system severely challenges public health and urgently demands for increasing our understanding of COVID-19 pathogenesis, especially host factors facilitating virus infection and replication. SARS-CoV-2 was reported to enter cells via binding to ACE2, followed by its priming by TMPRSS2. Here, we investigate ACE2 and TMPRSS2 expression levels and their distribution across cell types in lung tissue (twelve donors, 39,778 cells) and in cells derived from subsegmental bronchial branches (four donors, 17,521 cells) by single nuclei and single cell RNA sequencing, respectively. While TMPRSS2 is expressed in both tissues, in the subsegmental bronchial branches ACE2 is predominantly expressed in a transient secretory cell type. Interestingly, these transiently differentiating cells show an enrichment for pathways related to RHO GTPase function and viral processes suggesting increased vulnerability for SARS-CoV-2 infection. Our data provide a rich resource for future investigations of COVID-19 infection and pathogenesis.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "ACE2",
+        "TMPRSS2",
+        "FURIN",
+        "human cell atlas",
+        "healthy lung tissue",
+        "healthy bronchial cells",
+        "epithelial differentiation",
+        "single cell RNA sequencing"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Commission",
+                    "award-id": [
+                        "874710",
+                        "Horizon 2020"
+                    ]
+                },
+                {
+                    "funding-source": "German Center for Lung Research",
+                    "award-id": [
+                        "82DZL00402"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by the European Commission (ESPACE, 874710, Horizon 2020) and the German Center for Lung Research (DZL, 82DZL00402)"
+        }
+    ]
+}

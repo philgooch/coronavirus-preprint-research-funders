@@ -1,0 +1,42 @@
+{
+    "abstract": "A new Severe Acute Respiratory Syndrome Coronavirus variant (SARS-CoV-2) that first emerged in late 2019 is responsible for a pandemic of severe respiratory illness. People infected with this highly contagious virus present with clinically inapparent, mild or severe disease. Currently, the presence of the virus in individual patients and at the population level is being monitored by testing symptomatic cases by PCR for the presence of viral RNA. There is an urgent need for SARS-CoV-2 serologic tests to identify all infected individuals, irrespective of clinical symptoms, to conduct surveillance and implement strategies to contain spread. As the receptor binding domain (RBD) of the viral spike (S) protein is poorly conserved between SARS-CoVs and other pathogenic human coronaviruses, the RBD represents a promising antigen for detecting CoV specific antibodies in people. Here we use a large panel of human sera (70 SARS-CoV-2 patients and 71 control subjects) and hyperimmune sera from animals exposed to zoonotic CoVs to evaluate the performance of the RBD as an antigen for accurate detection of SARS-CoV-2-specific antibodies. By day 9 after the onset of symptoms, the recombinant SARS-CoV-2 RBD antigen was highly sensitive (98%) and specific (100%) to antibodies induced by SARS-CoVs. We observed a robust correlation between levels of RBD binding antibodies and SARS-CoV-2 neutralizing antibodies in patients. Our results, which reveal the early kinetics of SARS-CoV-2 antibody responses, strongly support the use of RBD-based antibody assays for population-level surveillance and as a correlate of neutralizing antibody levels in people who have recovered from SARS-CoV-2 infections.",
+    "affiliations": [
+        "University of North Carolina School of Medicine (PL and AD), National Institutes of Health contract Nr. 75N9301900065 (A.S. and D.W.), NIH NIAID T32 AI007151 (DM) and",
+        "Burroughs Welcome Fund Postdoctoral Enrichment Program Award (DM)"
+    ],
+    "author": "Eric Weimer; David Margolis; Aravinda M. de Silva; Alena Markmann; Bruno Segovia-Chumbez; Lakshmanane Premkumar; Susan Weiss; Ralph S. Baric; Sri Edupuganti; Yixuan J. Hou; Caleb Cornaby; Luther Bartelt; Longping V. Tse; David R. Martinez; Daniela Weiskopf; Alessandro Sette; Rajendra Raut; Yara Park; Caitlin E. Edwards; Matthew H. Collins; Ramesh Jadi; Erin M. Scherer; Nadine Roupael; John Schmitz",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093377",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093377"
+    },
+    "title": "The RBD Of The Spike Protein Of SARS-Group Coronaviruses Is A Highly Specific Target Of SARS-CoV-2 Antibodies But Not Other Pathogenic Human and Animal Coronavirus Antibodies",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of North Carolina School of Medicine"
+                },
+                {
+                    "funding-source": "PL and AD)"
+                },
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "75N9301900065"
+                    ]
+                },
+                {
+                    "funding-source": "NIH NIAID",
+                    "award-id": [
+                        "AI007151"
+                    ]
+                },
+                {
+                    "funding-source": "Burroughs Welcome Fund Postdoctoral Enrichment Program Award"
+                }
+            ],
+            "funding-statement": "This work was funded by the University of North Carolina School of Medicine (PL and AD), National Institutes of Health contract Nr. 75N9301900065 (A.S. and D.W.), NIH NIAID T32 AI007151 (DM) and a Burroughs Welcome Fund Postdoctoral Enrichment Program Award (DM)"
+        }
+    ]
+}

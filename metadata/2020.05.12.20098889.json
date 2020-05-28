@@ -1,0 +1,16 @@
+{
+    "abstract": "Differences in COVID-19 testing and tracing across countries, as well as changes in testing within each country over time, make it difficult to estimate the true (population) infection rate based on the confirmed number of cases obtained through RNA viral testing. We applied a backcasting approach, coupled with Monte Carlo methods, to estimate a distribution for the true (population) cumulative number of infections (infected and recovered) for 15 countries where reliable data are available. We find a positive relationship between the testing rate per 1,000 people and the implied true detection rate of COVID-19, and a negative relationship between the proportion who test positive and the implied true detection rate. Our estimates suggest that the true number of people infected across our sample of 15 developed countries is 18.2 (5-95% CI: 11.9-39.0) times greater than the reported number of cases. In individual countries, the true number of cases exceeds the reported figure by factors that range from 1.7 (5-95% CI: 1.1-3.6) for Australia to 35.6 (5-95% CI: 23.2-76.3) for Belgium.",
+    "author": "Tom Kompas; Steven John Phipps; Rupert Quentin Grafton",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20098889",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20098889"
+    },
+    "title": "Estimating the true (population) infection rate for COVID-19: A Backcasting Approach with Monte Carlo Methods",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

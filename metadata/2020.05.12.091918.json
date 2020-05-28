@@ -1,0 +1,40 @@
+{
+    "title": "Antibody repertoire induced by SARS-CoV-2 spike protein immunogens",
+    "author": "Supriya Ravichandran, Elizabeth M. Coyle, Laura Klenow, Juanjie Tang, Gabrielle Grubbs, 4 Shufeng Liu, Tony Wang, Hana Golding, and Surender Khurana",
+    "date": 2020,
+    "affiliations": [
+        "Division of Viral Products, Center for Biologics Evaluation and Research (CBER), FDA, Silver",
+        "Spring, Maryland, USA, 20871"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.091918",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.091918.pdf"
+    },
+    "abstract": "Multiple vaccine candidates against SARS-CoV-2 based on viral spike protein are under development. However, there is limited information on the quality of antibody response generated following vaccination by these vaccine modalities. To better understand antibody response induced by spike protein-based vaccines, we immunized rabbits with various SARS-CoV-2 spike protein antigens: S-ectodomain (S1+S2) (aa 16-1213), which lacks the cytoplasmic and transmembrane domains (CT-TM), the S1 domain (aa 16-685), the receptor-binding domain (RBD) (aa 319-541), and the S2 domain (aa 686-1213 as control). Antibody response was analyzed by ELISA, Surface Plasmon Resonance (SPR) against different Spike proteins in native conformation, and a pseudovirion neutralization assay to measure the quality and function of the antibodies elicited by the different Spike antigens. All three antigens (S1+S2 ectodomain, S1 domain, and RBD) generated strong neutralizing antibodies against SARS-CoV-2. Vaccination induced antibody repertoire was analyzed by SARS-CoV-2 spike Genome Fragment Phage Display Libraries (SARS-CoV-2 GFPDL), which identified immunodominant epitopes in the S1, S1-RBD and S2 domains. Furthermore, these analyses demonstrated that surprisingly the RBD immunogen elicited a higher antibody titer with 5-fold higher affinity antibodies to native spike antigens compared with other spike antigens. These findings may help guide rational vaccine design and facilitate development and evaluation of effective therapeutics and vaccines against COVID-19 disease.",
+    "keywords": [
+        "SARS-CoV-2",
+        "Vaccine",
+        "Spike",
+        "Neutralization",
+        "Epitope",
+        "Virus",
+        "Antibody",
+        "Antigen"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Health and Human Services,"
+                },
+                {
+                    "funding-source": "U.S Government. AUTHOR"
+                }
+            ],
+            "funding-statement": "The antibody characterization work described in this manuscript was supported by FDA intramural grant funds. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. The content of this publication does not necessarily reflect the views or policies of the Department of Health and Human Services, nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S Government. AUTHOR CONTRIBUTIONS: Designed research: S.K. Performed research: S.R., J. T., E.C., L.K., G. G., S.L., T.W., and S.K."
+        }
+    ]
+}

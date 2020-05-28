@@ -1,0 +1,35 @@
+{
+    "abstract": "The Corona virus disease 2019 (COVID-19) has significantly affected lives of people around the world. Today, isolation policy is enforced by identifying infected individuals based on symptoms when these appear or by testing people and quarantining those who have been in close contact with infected people. In addition, many countries have imposed complete or partial lock-downs to control the spread of the disease. While this has resulted in some some success in slowing down the spread of the virus, lock-downs as well as widespread quarantine have devastating effects on the economy and social life. Thus, governments are urgently looking for efficient strategies to significantly relax lock-downs, while still controlling the spread of the virus. We argue that this can be done by using active feedback to control testing for infection by actively testing individuals with a high probability of being infected. We develop an active testing strategy to achieve this goal, and demonstrate that it would have tremendous success in controlling the spread of the virus on one million people, using 3; 000 tests per day. Our results show up to a 50% reduction in quarantine rate and morbidity rate in typical settings as compared to existing methods.",
+    "author": "Amir Leshem; Kobi Cohen",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089730",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089730"
+    },
+    "title": "Suppressing the impact of the COVID-19 pandemic using controlled testing and isolation",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "S.-Israel Binational Science Foundation",
+                    "award-id": [
+                        "2017723"
+                    ]
+                },
+                {
+                    "funding-source": "Israel Science Foundation",
+                    "award-id": [
+                        "1644/18"
+                    ]
+                },
+                {
+                    "funding-source": "Grant ISF",
+                    "award-id": [
+                        "1644/18"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported in part by the U.S.-Israel Binational Science Foundation (BSF) under Grant 2017723, and by the Israel Science Foundation (ISF) under Grant ISF 1644/18"
+        }
+    ]
+}

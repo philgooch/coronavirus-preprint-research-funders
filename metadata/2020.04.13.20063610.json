@@ -1,0 +1,16 @@
+{
+    "abstract": "It is critical to understand the impact of distinct policy interventions to the ongoing December 2019 coronavirus (SARS-CoV-2) pandemic. We develop a flexible behavioral, dynamic, and sectorial epidemic policy model comprising both endogenous virus transmission and public health and citizen responses. Applicable to the full epidemic cycle including resurgence, the model allows exploring the multivariate impact of distinct policy interventions, including general and targeted testing and social contact reduction efforts. Calibrating the model to the early SARS-CoV-2 outbreak at the level of continents, we demonstrate how early, rapid, and extensive buildup of testing and social contact reduction efforts interplay to suppress the outbreak. Next, applying the model within hypothetical contexts we demonstrate how: i) sociodemographic variation in vulnerability to the virus affects overall reported and actual outbreak patterns; ii) feasible timing of deconfinement depends on earlier responses to the outbreak; and, iii) targeted approaches help suppress resurgent outbreaks and their various impacts. Finally, given the importance of broad support of outbreak control efforts, across public health experts, policymakers, volunteers, media, and citizens, we make the model also accessible in the form of a free web-based management flight simulator.",
+    "author": "Jeroen Struben",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063610",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063610"
+    },
+    "title": "The December 2019 New Corona Virus (SARS-CoV-2) Outbreak: A Behavioral Infectious Disease Policy Model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no external funding was received</strong>"
+        }
+    ]
+}

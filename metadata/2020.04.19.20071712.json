@@ -1,0 +1,29 @@
+{
+    "abstract": "Background: The global spread of coronavirus disease 2019 (COVID-19) continues in several jurisdictions, causing significant strain to healthcare systems. The purpose of our study is to predict the impact of the COVID-19 pandemic on patient outcomes and the healthcare system in Ontario, Canada. Methods: We developed an individual-level simulation to model the flow of COVID-19 patients through the Ontario healthcare system. We simulated different combined scenarios of epidemic trajectory and healthcare capacity. Outcomes include numbers of patients needing admission to the ward, Intensive Care Unit (ICU), and requiring ventilation; days to resource depletion; and numbers of patients awaiting resources and deaths associated with limited access to resources. Findings: We demonstrate that with effective early public health measures system resources need not be depleted. For scenarios considering late or ineffective implementation of physical distancing, health system resources would be depleted within 14-26 days. Resource depletion was also avoided or delayed with aggressive measures to rapidly increase ICU, ventilator, and acute care hospital capacity. Interpretation: We found that without aggressive physical distancing measures the Ontario healthcare system would have been inadequately equipped to manage the expected number of patients with COVID-19, despite the rapid capacity increase. This overall lack of resources would have led to an increase in mortality. By slowing the spread of the disease via ongoing public health measures and having increased healthcare capacity, Ontario may have avoided catastrophic stresses to its health care system.\nCompeting Interest Statement",
+    "author": "Beate Sander; Stephen Mac; Raphael Ximenes; Kali Barrett; David MJ Naimark; Yasin A Khan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071712",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071712"
+    },
+    "title": "Potential magnitude of COVID-19-induced healthcare resource depletion in Ontario, Canada",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Canada Research Chair in Economics of Infectious Diseases",
+                    "award-id": [
+                        "CRC-950-232429"
+                    ]
+                },
+                {
+                    "funding-source": "Beate Sander",
+                    "award-id": [
+                        "CRC-950-232429"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported, in part, by a Canada Research Chair in Economics of Infectious Diseases held by Beate Sander (CRC-950-232429)"
+        }
+    ]
+}

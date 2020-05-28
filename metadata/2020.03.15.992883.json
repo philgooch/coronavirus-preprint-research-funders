@@ -1,0 +1,66 @@
+{
+    "title": "A Cryptic Site of Vulnerability on the Receptor Binding Domain of the SARS-CoV-2 Spike Glycoprotein",
+    "author": "Gordon Joyce",
+    "date": 2020,
+    "affiliations": [
+        "Walter Reed Army Institute of Research, Silver Spring, MD, USA. 2U.S. Military HIV Research Program, Walter Reed Army Institute of Research, Silver Spring, MD, USA",
+        "Henry M. Jackson Foundation for the Advancement of Military Medicine, Bethesda, MD, USA",
+        "Department of Microbiology and Immunology, Uniformed Services University, Bethesda, MD, USA, Bethesda, MD, USA",
+        "Center for Molecular Microscopy, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Frederick, MD, USA",
+        "Cancer Research Technology Program, Frederick National Laboratory for Cancer Research, Leidos Biomedical Research Inc., Frederick, MD, USA",
+        "Center for Infectious Diseases Research, Walter Reed Army Institute of Research, Silver Spring, MD, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.15.992883",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.15.992883.pdf"
+    },
+    "abstract": "SARS-CoV-2 is a zoonotic virus that has caused a pandemic of severe respiratory disease\u2014COVID-19\u2014 within several months of its initial identification. Comparable to the first SARS-CoV, this novel coronavirus\u2019s surface Spike (S) glycoprotein mediates cell entry via the human ACE-2 receptor, and, thus, is the principal target for the development of vaccines and immunotherapeutics. Molecular information on the SARS-CoV-2 S glycoprotein remains limited. Here we report the crystal structure of the SARS-CoV-2 S receptor-binding-domain (RBD) at a the highest resolution to date, of 1.95 \u00c5. We identified a set of SARS-reactive monoclonal antibodies with cross-reactivity to SARS-CoV-2 RBD and other betacoronavirus S glycoproteins. One of these antibodies, CR3022, was previously shown to synergize with antibodies that target the ACE-2 binding site on the SARS-CoV RBD and reduce viral escape capacity. We determined the structure of CR3022, in complex with the SARS-CoV-2 RBD, and defined a broadly reactive epitope that is highly conserved across betacoronaviruses. This epitope is inaccessible in the \u201cclosed\u201d prefusion S structure, but is accessible in \u201copen\u201d conformations. This first-ever resolution of a human antibody in complex with SARS-CoV-2 and the broad reactivity of this set of antibodies to a conserved betacoronavirus epitope will allow antigenic assessment of vaccine candidates, and provide a framework for accelerated vaccine, immunotherapeutic and diagnostic strategies against SARS-CoV-2 and related betacoronaviruses.",
+    "keywords": [
+        "Coronavirus",
+        "COVID-19",
+        "SARS-CoV-2",
+        "Antibodies",
+        "Pandemic",
+        "Structural Biology",
+        "Receptor-BindingDomain"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Defense Health Agency,",
+                    "award-id": [
+                        "W81XWH-07-2-0067"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by funding from the Defense Health Agency, as well as a cooperative agreement (W81XWH-07-2-0067) between the Henry M"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Northeastern Collaborative Access Team",
+                    "award-id": [
+                        "NE-CAT"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of General Medical Sciences from the National Institutes of Health",
+                    "award-id": [
+                        "P41 GM103403"
+                    ]
+                },
+                {
+                    "funding-source": "Advanced Photon Source, Argonne"
+                },
+                {
+                    "funding-source": "National Laboratory"
+                }
+            ],
+            "funding-statement": "The Northeastern Collaborative Access Team (NE-CAT) beamlines are funded by the National Institute of General Medical Sciences from the National Institutes of Health (P41 GM103403) at the Advanced Photon Source, Argonne National Laboratory"
+        }
+    ]
+}

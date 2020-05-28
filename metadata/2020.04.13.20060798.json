@@ -1,0 +1,64 @@
+{
+    "abstract": "An ecologic analysis was conducted to explore the correlation between air pollution, and COVID-19 cases and fatality rates in London. The analysis demonstrated a strong correlation (R2>0.7) between increment in air pollution and an increase in the risk of COVID-19 transmission within London boroughs. Particularly, strong correlations (R2>0.72) between the risk of COVID-19 fatality and NO2 and PM2.5 pollution concentrations were also found. Although this study assumed the same level of air pollution across a particular London borough, it demonstrates the possibility to employ air pollution as an indicator to rapidly identify the vulnerable regions within a city. Such an approach can inform the decisions to suspend or reduce the operation of different public transport modes within a city. The methodology and learnings from the study can thus aid public transport to respond to the COVID-19 outbreak by adopting different levels of human-mobility reduction strategies based on the vulnerability of a given region.",
+    "affiliations": [
+        "University of Cambridge was funded by the Engineering and Physical Science Research Council (EPSRC) through the grant EP/N021614/1 (CSIC Innovation and Knowledge Centre Phase 2) and Innovate UK through the grant 920035 (Centre for Smart Infrastructure and Construction). Dr Mehran Eskandari Torbagahan\u0092s time on this research at the University of Birmingham was funded by EPSRC through the grant EP/N010523/1 (Balancing the Impact of City Infrastructure Engineering on Natural Systems using Robots)"
+    ],
+    "author": "Ajit Singh; Ajith Kumar Parlikad; Manu Sasidharan; Mehran Eskandari Torbaghan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20060798",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20060798"
+    },
+    "title": "A vulnerability-based approach to human-mobility reduction for countering COVID-19 transmission in London while considering local air quality",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Cambridge"
+                },
+                {
+                    "funding-source": "Engineering and Physical Science Research Council",
+                    "award-id": [
+                        "EP/N021614/1"
+                    ]
+                },
+                {
+                    "funding-source": "CSIC Innovation and Knowledge Centre Phase"
+                },
+                {
+                    "funding-source": "Innovate UK",
+                    "award-id": [
+                        "920035"
+                    ]
+                },
+                {
+                    "funding-source": "Centre for Smart Infrastructure and Construction)"
+                }
+            ],
+            "funding-statement": "Dr Manu Sasidharan\u0092s time on this research at the University of Cambridge was funded by the Engineering and Physical Science Research Council (EPSRC) through the grant EP/N021614/1 (CSIC Innovation and Knowledge Centre Phase 2) and Innovate UK through the grant 920035 (Centre for Smart Infrastructure and Construction)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Dr Mehran Eskandari"
+                },
+                {
+                    "funding-source": "University of Birmingham",
+                    "award-id": [
+                        "EP/N0105"
+                    ]
+                },
+                {
+                    "funding-source": "EPSRC",
+                    "award-id": [
+                        "EP/N010523/1"
+                    ]
+                },
+                {
+                    "funding-source": "Balancing the Impact of City Infrastructure Engineering on Natural Systems"
+                }
+            ],
+            "funding-statement": "Dr Mehran Eskandari Torbagahan\u0092s time on this research at the University of Birmingham was funded by EPSRC through the grant EP/N010523/1 (Balancing the Impact of City Infrastructure Engineering on Natural Systems using Robots)"
+        }
+    ]
+}

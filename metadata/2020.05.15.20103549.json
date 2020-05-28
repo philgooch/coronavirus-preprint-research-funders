@@ -1,0 +1,61 @@
+{
+    "abstract": "Rationale: Elevated levels of inflammatory cytokines have been associated with poor outcomes among COVID-19 patients. It is unknown, however, how these levels compare to those observed in critically ill patients with ARDS or sepsis due to other causes. Objectives: To directly compare plasma levels of inflammatory cytokines, with a focus on 6 cytokines associated with cytokine storm (IL-1b, IL-1RA, IL-6, IL-8, IL-18, and TNF\u03b1), between hospitalized COVID-19 patients and banked plasma samples from ARDS and sepsis patients from prior to the COVID-19 pandemic. Findings: 15 hospitalized COVID-19 patients, 9 of whom were critically ill, were compared to 28 critically ill patients with ARDS or sepsis. There were no statistically significant differences in baseline levels of IL-1b, IL-1RA, IL-6, IL-8, IL-18, and TNF\u03b1 between patients with severe COVID-19 and critically ill controls with ARDS or sepsis. Conclusions: Levels of inflammatory cytokines IL-1b, IL-1RA, IL-6, IL-8, IL-18, and TNF\u03b1 were not higher in critically ill COVID-19 patients than in critically ill patients admitted with ARDS or sepsis due to other causes in this small cohort. Broad use of immunosuppressive therapies in ARDS has failed in numerous Phase 3 studies; use of these therapies in unselected patients with COVID-19 is likely unwarranted.",
+    "affiliations": [
+        "John Morgridge Faculty Scholar in Pediatric Translational Medicine from the Stanford Maternal Child Health Research Institute and an Investigator of the Chan Zuckerberg Biohub"
+    ],
+    "author": "Catherine A Blish; Susan P Holmes; Thanmayi Ranganath; Jennifer G Wilson; Yael Rosenberg-Hasson; Arjun Rustagi; Philip M Grant; Jonasel Roque; Joseph E Levitt; Holden T Maecker; Anne-Maud Ferreira; Laura J Simpson; Adijat Asuni; Aruna Subramanian; Angela J Rogers",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103549",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103549"
+    },
+    "title": "Cytokine profile in plasma of severe COVID-19 does not differ from ARDS and sepsis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Stanford ICU Biobank"
+                },
+                {
+                    "funding-source": "NHLBI",
+                    "award-id": [
+                        "HL125663"
+                    ]
+                }
+            ],
+            "funding-statement": "The Stanford ICU Biobank is funded by Dr Rogers\u0092 NHLBI K23 HL125663"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Burroughs Wellcome Fund Investigators in the Pathogenesis of Infectious Diseases",
+                    "award-id": [
+                        "1016687"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "U19AI057229-16"
+                    ]
+                },
+                {
+                    "funding-source": "NIAID",
+                    "award-id": [
+                        "U19AI057229-16"
+                    ]
+                },
+                {
+                    "funding-source": "PI MM Davis)"
+                },
+                {
+                    "funding-source": "Tashia and John Morgridge Faculty Scholar in Pediatric Translational Medicine from the Stanford Maternal Child Health Research Institute and"
+                },
+                {
+                    "funding-source": "Investigator of the Chan Zuckerberg Biohub"
+                }
+            ],
+            "funding-statement": "C.A.B. is supported by the Burroughs Wellcome Fund Investigators in the Pathogenesis of Infectious Diseases #1016687, NIH/NIAID U19AI057229-16 (PI MM Davis), and is the Tashia and John Morgridge Faculty Scholar in Pediatric Translational Medicine from the Stanford Maternal Child Health Research Institute and an Investigator of the Chan Zuckerberg Biohub"
+        }
+    ]
+}

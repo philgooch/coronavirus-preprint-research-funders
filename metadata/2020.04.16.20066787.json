@@ -1,0 +1,19 @@
+{
+    "abstract": "Background: Cases with negative reverse transcription-polymerase chain reaction (RT-PCR) results at initial testing for suspicion of SARS-CoV-2 infection, and found to be positive in a subsequent test, are considered as RT-PCR false-negative cases. False-negative cases have important implications for COVID-19 management, isolation, and risk of transmission. We aimed to review and critically appraise evidence about the proportion of RT-PCR false-negatives at initial testing for COVID-19. Methods: We performed a systematic review and critical appraisal of literature with high involvement of stakeholders in the review process. We searched on MEDLINE, EMBASE, LILACS, the WHO database of COVID-19 publications, the EPPI-Centre living systematic map of evidence about COVID-19, and the living systematic review developed by the University of Bern (ISPM). Two authors screened and selected studies according to the eligibility criteria and collected data of included studies (no-independent verification). Risk of bias was assessed using the Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2) tool. We calculated the false-negative proportion with the corresponding 95% CI using a multilevel mixed-effect logistic regression model using STATA 16. Certainty of the evidence about false-negative cases was rated using the GRADE approach for tests and strategies. The information is current up to 6 April 2020. Findings: Five studies enrolling 957 patients were included. All studies were affected by several biases and applicability concerns. Pooled estimation of false-negative proportion was 0.085 (95% CI= 0.034 to 0.196; tau-squared = 1.08; 95% CI= 0.27 to 8.28; p<0.001); however, this estimation is highly affected by unexplained heterogeneity, and its interpretation should be avoided. The certainty of the evidence was judged as very low, due to the risk of bias, indirectness, and inconsistency issues. Conclusions: The collected evidence has several limitations, including risk of bias issues, high heterogeneity, and concerns about its applicability. Nonetheless, our findings reinforce the need for repeated testing in patients with suspicion of SARS-Cov-2 infection given that up to 29% of patients could have an initial RT-PCR false-negative result. Systematic review registration: Protocol available on OSF website: https://osf.io/gp38w/\nCompeting Interest Statement",
+    "affiliations": [
+        "Certainty of the evidence about false-negative cases was rated using the GRADE approach for tests and strategies. The information is current up to"
+    ],
+    "author": "Nicola Low; Diana Buitrago-Garcia; Ingrid Arevalo-Rodriguez; Javier Zamora; Anne Rutjes; Rosa del Campo; Paula Zambrano-Achig; Jose A Perez-Molina; Laura Martinez-Garcia; Daniel Simancas-Racines; Agustin Ciapponi; Omar Sued",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20066787",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20066787"
+    },
+    "title": "FALSE-NEGATIVE RESULTS OF INITIAL RT-PCR ASSAYS FOR COVID-19: A SYSTEMATIC REVIEW",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

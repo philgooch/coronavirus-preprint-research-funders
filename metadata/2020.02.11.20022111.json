@@ -1,0 +1,39 @@
+{
+    "abstract": "We integrate the human movement and healthcare resource data to identify cities with high vulnerability towards the 2019-nCoV epidemic with respect to available health resources. The results inform public health responses in multiple ways.\nCompeting Interest Statement\nThe authors have declared no competing interest.",
+    "affiliations": [
+        "National Natural Science Foundation of China (71621002, and 71972164), and Chinese Academy of Sciences (ZDRW-XH-2017-3)"
+    ],
+    "author": "Kaichen Tang; Dirk Pfeiffer; Jianan Yang; Daniel Dajun Zeng; zhidong cao; Hanchu Zhou; Qingpeng Zhang",
+    "date": 2020,
+    "doi": "10.1101/2020.02.11.20022111",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.11.20022111"
+    },
+    "title": "Healthcare-resource-adjusted vulnerabilities towards the 2019-nCoV epidemic across China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Science and Technology",
+                    "award-id": [
+                        "2016QY02D0305"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "71621002",
+                        "71972164"
+                    ]
+                },
+                {
+                    "funding-source": "Chinese Academy of Sciences",
+                    "award-id": [
+                        "ZDRW-XH-2017-3"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported in part by grants from the Ministry of Science and Technology (2016QY02D0305), National Natural Science Foundation of China (71621002, and 71972164), and Chinese Academy of Sciences (ZDRW-XH-2017-3)"
+        }
+    ]
+}

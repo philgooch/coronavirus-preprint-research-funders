@@ -1,0 +1,51 @@
+{
+    "abstract": "Background: The introduction and rapid transmission of SARS CoV2 in the United States resulted in implementation of methods to assess, mitigate and contain the resulting COVID-19 disease based on limited knowledge. Screening for testing has been based on symptoms typically observed in inpatients, yet outpatient symptom complexes may differ. Methods: Classification and regression trees (CART) recursive partitioning created a decision tree classifying enrollees into laboratory-confirmed cases and non-cases. Demographic and symptom data from patients ages 18-87 years who were enrolled from March 29-April 26, 2020 were included. Presence or absence of SARSCoV2 was the target variable. Results: Of 736 tested, 55 were positive for SARS-CoV2. Cases significantly more often reported chills, loss of taste/smell, diarrhea, fever, nausea/vomiting and contact with a COVID-19 case, but less frequently reported shortness of breath and sore throat. A 7-terminal node tree with a sensitivity of 96% and specificity of 53%, and an AUC of 78% was developed. The positive predictive value for this tree was 14% while the negative predictive value was 99%. Almost half (44%) of the participants could be ruled out as likely non-cases without testing. Discussion: Among those referred for testing, negative responses to three questions could classify about half of tested persons with low risk for SARS-CoV2 and would save limited testing resources. These questions are: was the patient in contact with a COVID-19 case? Has the patient experienced 1) a loss of taste or smell; or 2) nausea or vomiting? The outpatient symptoms of COVID-19 appear to be broader than the well-known inpatient syndrome.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Institutes of Health grant number 1UL1 TR001857. The US Flu VE Network is supported through cooperative agreements funded by CDC. The findings and conclusions are those of the authors and do not necessarily represent the official position of the Centers for Disease Control and Prevention. It is subject to the CDC\u0092s Open Access Policy"
+    ],
+    "author": "Rachel Taber; Goundappa K Balasubramani; Todd Bear; Heather Eng; Richard K Zimmerman; Theresa M Sax; Mary Patricia Nowalk",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20097980",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20097980"
+    },
+    "title": "Proposed Clinical Indicators for Efficient Screening and Testing for COVID-19 Infection from Classification and Regression Trees (CART) Analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Drs Zimmerman, Nowalk"
+                },
+                {
+                    "funding-source": "Balasubramani and Ms Eng and Ms Sax"
+                },
+                {
+                    "funding-source": "Merck & Co, Inc"
+                }
+            ],
+            "funding-statement": "Drs Zimmerman, Nowalk, and Balasubramani and Ms Eng and Ms Sax have research funding from Merck & Co, Inc. for unrelated projects"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "Dr Zimmerman has funding from Sanofi for an unrelated project"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Centers for Disease Control and Prevention",
+                    "award-id": [
+                        "IP000467"
+                    ]
+                },
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "1UL1",
+                        "TR001857"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported through a cooperative agreement with the Centers for Disease Control and Prevention (CDC) through grant number U01 IP000467 and the National Institutes of Health grant number 1UL1 TR001857"
+        }
+    ]
+}

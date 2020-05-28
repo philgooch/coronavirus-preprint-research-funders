@@ -1,0 +1,32 @@
+{
+    "abstract": "The rapid global spread of the novel coronavirus SARS-CoV-2 has strained existing healthcare and testing resources, making the identification and prioritization of individuals most at-risk a critical challenge. A recent study of patients in China discovered an association between ABO blood type and SARS-CoV-2 infection status by comparing COVID-19 patients with the general population. Whether blood type is associated with increased COVID-19 morbidity or mortality remains unknown. We used observational healthcare data on 1559 individuals tested for SARS-CoV-2 (682 COV+) with known blood type in the New York Presbyterian (NYP) hospital system to assess the association between ABO+Rh blood type and SARS-CoV-2 infection status, intubation, and death. We found a higher proportion of blood group A and a lower proportion of blood group O among COV+ patients compared to COV-, though in both cases the result is significant only in Rh positive blood types. We show that the effect of blood type is not explained by risk factors we considered (age, sex, hypertension, diabetes mellitus, overweight status, and chronic cardiovascular and lung disorders). In a meta-analysis of NYP data with previously-reported data from China, we find enrichment for A and B and depletion of O blood groups among COVID-19 patients compared to the general population. Our data do not provide strong evidence of associations between blood group and intubation or death among COVID-19 patients. In this preliminary observational study of data currently being collected during the outbreak, we find new evidence of associations between B, AB, and Rh blood groups and COVID-19 and further evidence of recently-discovered associations between A and O blood groups and COVID-19.",
+    "author": "Michael Zietz; Nicholas P. Tatonetti",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20058073",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20058073"
+    },
+    "title": "Testing the association between blood type and COVID-19 infection, intubation, and death",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "LM007079"
+                    ]
+                }
+            ],
+            "funding-statement": "MZ is funded by T15 LM007079"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "R35GM131905"
+                    ]
+                }
+            ],
+            "funding-statement": "NPT is funded by R35GM131905"
+        }
+    ]
+}

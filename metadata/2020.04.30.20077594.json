@@ -1,0 +1,35 @@
+{
+    "title": "Early transmission dynamics and control of COVID-19 in a southern hemisphere setting: Lima-Peru, February 29th-March 30th, 2020 .",
+    "author": "Amna Tariq",
+    "date": 2020,
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.30.20077594",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20077594.pdf"
+    },
+    "abstract": "The COVID-19 pandemic that emerged in Wuhan China has generated substantial morbidity and mortality impact around the world during the last four months. The daily trend in reported cases has been rapidly rising in Latin America since March 2020 with the great majority of the cases reported in Brazil followed by Peru as of April 15th, 2020. Although Peru implemented a range of social distancing measures soon after the confirmation of its first case on March 6th, 2020, the daily number of new COVID-19 cases continues to accumulate in this country. We assessed the early COVID-19 transmission dynamics and the effect of social distancing interventions in Lima, Peru. 57 We estimated the reproduction number, R, during the early transmission phase in Lima from the daily series of imported and autochthonous cases by the date of symptoms onset as of March 30th, 2020. We also assessed the effect of social distancing interventions in Lima by generating short60 term forecasts grounded on the early transmission dynamics before interventions were put in place. 61 62 Prior to the implementation of the social distancing measures in Lima, the local incidence curve by the date of symptoms onset displays near exponential growth dynamics with the mean scaling of growth parameter, p, estimated at 0.9 (95%CI: 0.9,1.0) and the reproduction number at 2.3 (95% CI: 2.0, 2.5). Our analysis indicates that school closures and other social distancing interventions have helped slow down the spread of the novel coronavirus, with the nearly exponential growth trend shifting to an approximately linear growth trend soon after the broad scale social distancing interventions were put in place by the government. 70 While the interventions appear to have slowed the transmission rate in Lima, the number of new COVID-19 cases continue to accumulate, highlighting the need to strengthen social distancing and active case finding efforts to mitigate disease transmission in the region. 74 Key words COVID-19; SARS-CoV-2; Transmission potential; Short-term forecast; Reproduction number; Generalized growth model 78",
+    "affiliations": [
+        "Department of Population Health Sciences, School of Public Health, Georgia State University",
+        "Instituto Nacional de Salud, Peruvian Ministry of Health, Lima, Peru"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "1610429",
+                        "1633381",
+                        "130900"
+                    ]
+                },
+                {
+                    "funding-source": "Author Contributions A.T."
+                }
+            ],
+            "funding-statement": "G.C. is partially supported from NSF grants 1610429 and 1633381 and R01 GM 130900. Author Contributions A.T., C.M. and G.C. analyzed the data. A.T. and C.M. retrieved and managed data. A.T and G.C. wrote the first draft of the manuscript. A.T. and G.C worked on subsequent versions of the manuscript. All authors contributed to writing and interpretation of results. All authors read and approved the final manuscript."
+        }
+    ]
+}

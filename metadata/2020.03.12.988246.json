@@ -1,0 +1,22 @@
+{
+    "title": "Highly sensitive and full-genome interrogation of SARS-CoV-2 using multiplexed PCR enrichment followed by next-generation sequencing",
+    "author": "Zhitong Liu",
+    "date": 2020,
+    "affiliations": [
+        "Department of Psychiatry and Behavioral Sciences, Department of Genetics, Stanford University, CA 94305 USA",
+        "MGI, BGI-Shenzhen, Shenzhen 518083 China",
+        "BGI-Shenzhen, Shenzhen 518083 China",
+        "Department of Pathology and Laboratory Medicine, Children's Hospital Los Angeles, Los Angeles, CA 90027"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.12.988246",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.12.988246.pdf"
+    },
+    "abstract": "Many detection methods have been used or reported for the diagnosis and/or surveillance of COVID-19. Among them, reverse transcription polymerase chain reaction (RT-PCR) is the most commonly used because of its high sensitivity, typically claiming detection of about 5 copies of viruses. However, it has been reported that only 47-59% of the positive cases were identified by some RT-PCR methods, probably due to low viral load, timing of sampling, degradation of virus RNA in the sampling process, or possible mutations spanning the primer binding sites. Therefore, alternative and highly sensitive methods are imperative. With the goal of improving sensitivity and accommodating various application settings, we developed a multiplex-PCR-based method comprised of 343 pairs of specific primers, and demonstrated its efficiency to detect SARS-CoV-2 at low copy numbers. The assay produced clean characteristic target peaks of defined sizes, which allowed for direct identification of positives by electrophoresis. We further amplified the entire SARS-CoV-2 genome from 8 to half a million viral copies purified from 13 COVID-19 positive specimens, and detected mutations through next generation sequencing. Finally, we developed a multiplex-PCR-based metagenomic method in parallel, that required modest sequencing depth for uncovering SARS-CoV-2 mutational diversity and potentially novel or emerging isolates.",
+    "funding": [
+        {}
+    ]
+}

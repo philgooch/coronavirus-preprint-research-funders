@@ -1,0 +1,34 @@
+{
+    "abstract": "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused a global pandemic of novel corona virus disease (COVID-19). To date, no prophylactic vaccines or approved therapeutic agents are available for preventing and treating this highly transmittable disease. Here we report two monoclonal antibodies (mAbs) cloned from memory B cells of patients recently recovered from COVID-19, and both mAbs specifically bind to the spike (S) protein of SARS-CoV-2, block the binding of receptor binding domain (RBD) of SARS-CoV-2 to human angiotensin converting enzyme 2 (hACE2), and effectively neutralize S protein-pseudotyped virus infection. These human mAbs hold the promise for the prevention and treatment of the ongoing pandemic of COVID-19.",
+    "affiliations": [
+        "National Natural Science Fund for Distinguished Young Scholars (No. 31825011 to L.Y.) and the Chongqing Special Research Project for Novel Coronavirus Pneumonia Prevention and Control (No. cstc2020jscx-2 to L.Y.; No. cstc2020jscx-fyzx0074 to Y.C.; cstc2020jscx-fyzx0135 to Y.C.)"
+    ],
+    "author": "Zhirong Li; Zhiwei Pan; Jing Zhao; Leiqong Gao; Yaokai Chen; Qin Tian; Ren Li; Qizhao Huang; Li Hu; Xiaofeng Yan; Pinghuang Liu; Xinyuan Zhou; Chunfeng Qian; Jianfang Tang; Lilin Ye; Yang Yang; Renrong You; Xiangyu Chen; Zheng Zhang; Zhaohui Qian; Wei Yao; Lifan Xu; Kai Deng; Yuzhang Wu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20055475",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055475"
+    },
+    "title": "Human monoclonal antibodies block the binding of SARS-CoV-2 spike protein to angiotensin converting enzyme 2 receptor",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Fund for Distinguished Young Scholars",
+                    "award-id": [
+                        "31825011 to L.Y."
+                    ]
+                },
+                {
+                    "funding-source": "Chongqing Special Research Project for Novel Coronavirus Pneumonia Prevention and Control",
+                    "award-id": [
+                        "cstc2020jscx-2 to L.Y.",
+                        "cstc2020jscx-fyzx0074 to Y.C.",
+                        "cstc2020jscx-fyzx0135 to Y.C."
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants from the National Natural Science Fund for Distinguished Young Scholars (No 31825011 to L.Y.) and the Chongqing Special Research Project for Novel Coronavirus Pneumonia Prevention and Control (No cstc2020jscx-2 to L.Y.; No cstc2020jscx-fyzx0074 to Y.C.; cstc2020jscx-fyzx0135 to Y.C.)"
+        }
+    ]
+}

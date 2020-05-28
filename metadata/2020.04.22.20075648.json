@@ -1,0 +1,29 @@
+{
+    "abstract": "The SARS-CoV-2 virus has so far infected more than2.4 million people around the world, and its impact is being felt by all. Patients with airborne diseases such as Covid-19 should ideally be treated in negative pressure isolation rooms. However, due to the overwhelming demand for hospital beds, patients treated in general wards, hospital corridors, and makeshift hospitals. Adequate building ventilationin hospitals and public spaces is a crucial factor to contain the disease [1,2], to exit the current lockdown situation, and reduce the chance of subsequent waves of outbreaks. Lu et al. [3] reported an air-conditioner induced Covid-19 outbreak, by an asymptomatic patient, in a restaurant in Guangzhou, China, which exposes our vulnerability to future outbreaks linked to ventilation in public spaces. We demonstrate that displacement ventilation(either mechanical or naturalventilation), where air intakes are at low level and extracts are at high level, is a viable alternative to negative pressure isolation rooms, which are often not available on site in hospital wards and makeshift hospitals. Displacement ventilation produces negative pressure at the occupant level, which draws fresh air from outdoor, and positive pressure near the ceiling, which expels the hot and contaminated air out. We acknowledge that, in both developed and developing countries, many modern large structures lack the openings required for natural ventilation. This lack of openings can be supplemented by installing extract fans. We provide guidelines for such mechanically assisted-naturally ventilated makeshift hospitals, and public spaces such as supermarkets and essential public buildings",
+    "author": "Paul Linden; Rajesh Kumar Bhagat",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075648",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075648"
+    },
+    "title": "Displacement ventilation: available ventilation strategy for makeshift hospitals and public buildings to contain Covid-19and other airborne diseases",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Engineering and Physical Sciences Research Council"
+                },
+                {
+                    "funding-source": "Grand Challenge"
+                },
+                {
+                    "funding-source": "Managing Air for Green Inner Cities",
+                    "award-id": [
+                        "EP/N010221/1"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the UK Engineering and Physical Sciences Research Council (EPSRC) Grand Challenge grant \u0091Managing Air for Green Inner Cities (MAGIC) grant number EP/N010221/1"
+        }
+    ]
+}

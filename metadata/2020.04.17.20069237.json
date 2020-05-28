@@ -1,0 +1,22 @@
+{
+    "abstract": "After the outbreak of severe acute respiratory syndrome (SARS-2002/2003) and middle east respiratory syndrome (MERS-2012/2014) in the world, new public health crisis, called new coronavirus disease (COVID-19), started in China in December 2019 and has spread all over countries. COVID-19 coronavirus has been global threat of the disease and infected humans rapidly. Control of the pandemi is urgently essential, and science community have continued to research treatment agents. Support therapy and intensive care units in hospitals are also efective to overcome of COVID-19. Statistic forecasting models could aid to healthcare system in preventation of COVID-19. This study aimed to compose of forecasting model that could be practical to predict the spread of COVID-19 in Italy, Spain and Turkey. For this purpose, we performed Auto Regressive Integrated Moving Average (ARIMA) model on the European Centre for Disease Prevention and Control COVID-19 data to predict the number of cases and deaths in COVID-19. According to the our results, while number of cases in Italy and Spain is expected to decrease as of July, in Turkey is expected to decline as of September. The number of deaths in Italy and Spain is expected to be the lowest in July. In Turkey, this number is expected to reach the highest in July. In addition, it is thought that if studies in which the sensitivity and validity of this method are tested with more cases, they will contribute to researchers working in this field. KEYWORDS: COVID-19, pandemi, ARIMA, time series analysis",
+    "author": "Burcu Bayyurt; Lutfi Bayyurt",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20069237",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20069237"
+    },
+    "keywords": [
+        "COVID-19",
+        "pandemi",
+        "ARIMA",
+        "time series analysis"
+    ],
+    "title": "Forecasting of COVID-19 Cases and Deaths Using ARIMA Models",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no external funding was received</strong>"
+        }
+    ]
+}

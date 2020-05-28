@@ -1,0 +1,38 @@
+{
+    "abstract": "The novel coronavirus disease (COVID-19) that emerged at the end of 2019 has been controlled in mainland China so far, while it is still spreading globally. When the pandemic will end is a question of great concern. A logistic model depicting the growth rules of infected and recovered cases in mainland China may shed some light on this question. We extended this model to 31 countries outside China experiencing serious COVID-2019 outbreaks. The model well explained the data in our study (R2 >0.95). For infected cases, the semi-saturation period (SSP) ranges from 63 to 170 days (March 3 to June 18). The logistic growth rate of infected cases is positively correlated with that of recovered cases, and the same holds for the SSP. According to the linear connection between the growth rules for infected and recovered cases identified from the Chinese data, we predicted that the SSP of the recovered cases outside China ranges from 82 to 196 days (March 22 to July 8). More importantly, we found a strong positive correlation between the SSP of infected cases and the timing of the government's response, providing strong evidence for the effectiveness of rapid epidemic control measures in various countries.",
+    "affiliations": [
+        "National Key Research and Development Program of China (2018YFC1508903), the National Natural Science Foundation of China (41621061) and the support of International Center for Collaborative Research on Disaster Risk Reduction (ICCR-DRR)"
+    ],
+    "author": "Saini Yang; Yimeng Liu; Carlo Jaeger; Chuanliang Han; Yuyao Zhu; Jiting Tang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067454",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067454"
+    },
+    "title": "Lessons from mainland China's epidemic experience about the growth rules of infected and recovered cases of COVID-19 worldwide",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2018YFC1508903"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "41621061"
+                    ]
+                },
+                {
+                    "funding-source": "International Center for Collaborative Research on Disaster Risk Reduction",
+                    "award-id": [
+                        "ICCR-DRR"
+                    ]
+                }
+            ],
+            "funding-statement": "This study is sponsored by the National Key Research and Development Program of China (2018YFC1508903), the National Natural Science Foundation of China (41621061) and the support of International Center for Collaborative Research on Disaster Risk Reduction (ICCR-DRR)"
+        }
+    ]
+}

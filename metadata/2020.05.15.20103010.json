@@ -1,0 +1,29 @@
+{
+    "abstract": "The goal of the lockdown is to mitigate and if possible prevent the spread of an epidemic. It consists in reducing social interactions. This is taken into account by the introduction of a factor of reduction of social interactions q, and by decreasing the transmission coefficient of the disease accordingly. Evaluating q is a difficult question and one can ask if it makes sense to compute an average coefficient q for a given population, in order to make predictions on the basic reproduction rate R0, the dynamics of the epidemic or the fraction of the population that will have been infected by the end of the epidemic. On a very simple example, we show that the computation of R0 in a heterogeneous population is not reduced to the computation of an average q but rather to the direct computation of an average coefficient R0. Even more interesting is the fact that, in a range of data compatible with the Covid-19 outbreak, the size of the epidemic is deeply modified by social heterogeneity, as is the height of the epidemic peak, while the date at which it is reached mainly depends on the average R0 coefficient.",
+    "affiliations": [
+        "French National Research Agency (ANR). The authors thank the CNRS-MODCOV19 platform for support"
+    ],
+    "author": "Jean Dolbeault; Gabriel TURINICI",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103010",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103010"
+    },
+    "title": "Social heterogeneity and the COVID-19 lockdown in a multi-group SEIR model",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Project EFI",
+                    "award-id": [
+                        "ANR-17-CE40-0030"
+                    ]
+                },
+                {
+                    "funding-source": "French National Research Agency"
+                }
+            ],
+            "funding-statement": "This work has been partially supported by the Project EFI (ANR-17-CE40-0030) of the French National Research Agency (ANR)"
+        }
+    ]
+}

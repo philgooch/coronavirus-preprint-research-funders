@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 has been declared as a global pandemic by the World Health Organization (WHO) on March 11, 2020. In this paper, we investigate various aspects of the clinical recovery of the first 1000 COVID-19 patients in Singapore, spanning from January 23 to April 01, 2020. This data consists of 245 clinically recovered patients. The first part of the paper studies the descriptive statistics and the influence of demographic parameters, namely age and gender, in the clinical recovery-period of COVID-19 patients. The second part of the paper is on identifying the distribution of the length of the recovery-period for the patients. We identify a piecewise analysis of three different periods, identified based on trends of both positive confirmation and clinical recovery of COVID-19. As expected, the overall recovery rate has reduced drastically during the exponential increase of incidences. However, our in-depth analysis shows that there is a shift in the age-group of incidences to the younger population, and the recovery-period of the younger population is considerably lower. Here, we have estimated the recovery rate to be 0.125. Overall, the prognosis of COVID-19 indicates an improvement in recovery rate owing to the government-mandated practices of restricted mobility of the older population and aggressive contact tracing.",
+    "author": "Reddy Rani Vangimalla; Jaya Sreevalsan-Nair; Pritesh Rajesh Ghogale",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20069724",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20069724"
+    },
+    "title": "ANALYSIS OF CLINICAL RECOVERY-PERIOD AND RECOVERY RATE ESTIMATION OF THE FIRST 1000 COVID-19 PATIENTS IN SINGAPORE",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors have not received any external funding for conducting this work."
+        }
+    ]
+}

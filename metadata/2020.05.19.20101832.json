@@ -1,0 +1,55 @@
+{
+    "title": "Serologic responses to SARS-CoV-2 infection among hospital staff with mild disease in eastern France",
+    "date": 2020,
+    "author": "Samira FAFI-KREMER, Timoth\u00e9e BRUEL, Yoann MADEC, Rebecca GRANT, Laura TONDEUR, Ludivine GRZELAK, Isabelle STAROPOLI, Fran\u00e7ois ANNA, Philippe SOUQUE, Catherine SCHMIDT-MUTTER, Nicolas COLLONGUES, Alexandre BOLLE, Aur\u00e9lie VELAY, Nicolas LEFEBVRE, Marie MIELCAREK10, Nicolas MEYER10, David REY 12, Pierre CHARNEAU, Bruno HOEN, J\u00e9r\u00f4me De SEZE, Olivier SCHWARTZ,** and Arnaud FONTANET",
+    "affiliations": [
+        "CHU de Strasbourg, Laboratoire de virologie, F-67091 Strasbourg, France",
+        "Universit\u00e9 de Strasbourg, INSERM, IRM UMR_S 1109, Strasbourg, France",
+        "Virus & Immunity Unit, Department of Virology, Institut Pasteur, Paris, France; CNRS UMR",
+        "Vaccine Research Institute, Creteil, France",
+        "Institut Pasteur, Emerging Diseases Epidemiology Unit, Paris, France",
+        "Universit\u00e9 de Paris, Sorbonne Paris Cit\u00e9, Paris, France",
+        "Pasteur-TheraVectys joined unit",
+        "Molecular Virology & Vaccinology Unit, Department of Virology, Institut Pasteur, Paris, France",
+        "Centre d\u2019investigation Clinique INSERM 1434, CHU Strasbourg, France",
+        "CHU de Strasbourg, Service des infectieuses et tropicales, F-67091 Strasbourg, France",
+        "CHU de Strasbourg, Service de sant\u00e9 Publique, GMRC, F-67091 Strasbourg, France",
+        "Universit\u00e9 de Strasbourg, CNRS",
+        "CUBE UMR 7357, Strasbourg, France",
+        "CHU de Strasbourg, P\u00f4le SMO, le Trait d\u2019Union, F-67091 Strasbourg, France",
+        "Direction de la recherche m\u00e9dicale, Institut Pasteur, Paris, France",
+        "CHU de Strasbourg, Service de Neurologie, F-67091 Strasbourg, France",
+        "Conservatoire National des Arts et M\u00e9tiers, PACRI Unit, Paris, France * Co-first authors ** Co-last authors Correspondence to",
+        "Strasbourg University Hospitals from the first week of March. Most of them are young individuals who developed mild forms of disease. The epidemic in Strasbourg, and specifically, the cluster of infected hospital staff, provides the opportunity to use serologic assays, to assess antibody kinetics in individuals who had recovered from COVID-19 and to understand how this correlates with protective immunity"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.19.20101832",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.19.20101832.pdf"
+    },
+    "abstract": "Background: The serologic response of individuals with mild forms of SARS-CoV-2 infection is poorly characterized. Methods: Hospital staff who had recovered from mild forms of PCR-confirmed SARS-CoV-2 infection were tested for anti-SARS-CoV-2 antibodies using two assays: a rapid immunodiagnostic test (99.4% specificity) and the S-Flow assay (~99% specificity).The neutralizing activity of the sera was tested with a pseudovirus-based assay. Results: Of 162 hospital staff who participated in the investigation, 160 reported SARS-CoV2 infection that had not required hospital admission and were included in these analyses. The median time from symptom onset to blood sample collection was 24 days (IQR: 21-28, range 13-39). The rapid immunodiagnostic test detected antibodies in 153 (95.6%) of the samples and the S-Flow assay in 159 (99.4%), failing to detect antibodies in one sample collected 18 days after symptom onset (the rapid test did not detect antibodies in that patient). Neutralizing antibodies (NAbs) were detected in 79%, 92% and 98% of samples collected 13-20, 21-27 and 28-41 days after symptom onset, respectively (P=0.02). Conclusion: Antibodies against SARS-CoV-2 were detected in virtually all hospital staff sampled from 13 days after the onset of COVID-19 symptoms. This finding supports the use of serologic testing for the diagnosis of individuals who have recovered from SARS-CoV-2 infection. The neutralizing activity of the antibodies increased overtime. Future studies will help assess the persistence of the humoral response and its associated neutralization capacity in recovered patients.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "French Ministry of Higher Education, Research"
+                }
+            ],
+            "funding-statement": "LG is supported by the French Ministry of Higher Education, Research and Innovation"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Strasbourg University Hospitals",
+                    "award-id": [
+                        "COVID-HUS ",
+                        "CE-2020-34"
+                    ]
+                }
+            ],
+            "funding-statement": "SFK lab receives funding from Strasbourg University Hospitals (COVID-HUS ; CE-2020-34)"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Bioinformatic characterization of angiotensin-converting enzyme 2, the entry receptor for SARS-CoV-2",
+    "date": 2020,
+    "author": "Harlan Barker and Seppo Parkkila Faculty of Medicine and Health Technology, Tampere University and Fimlab Ltd, Tampere University Hospital, 33520 Tampere, Finland The authors have declared that no conflict of interest exists",
+    "affiliations": [
+        "Seppo Parkkila Faculty of Medicine and Health Technology, Tampere University and Fimlab Ltd, Tampere University Hospital, 33520 Tampere, Finland The authors have declared that no conflict of interest exists",
+        "Faculty of Medicine and Health Technology Tampere University Arvo Ylp\u00f6n katu 34, 33520 Tampere, Finland"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.13.038752",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.13.038752.pdf"
+    },
+    "abstract": "The World Health Organization declared the COVID-19 epidemic a public health emergency of international concern on March 11th, 2020, and the pandemic is rapidly spreading worldwide. COVID-19 is caused by a novel coronavirus SARS-CoV-2, which enters human target cells via angiotensin converting enzyme 2 (ACE2). We used a number of bioinformatics tools to computationally characterize ACE2 by determining its cell-specific expression, putative functions, and transcriptional regulation. The small intestine expressed higher levels of ACE2 than any other organ. The large intestine, kidney and testis showed moderate signals, whereas the signal was weak in the lung specimens. Single cell RNA-Seq data indicated positive signals along the respiratory tract in the key protective cell types including the goblet and ciliary epithelial cells, as well as in the endothelial cells and type I pneumocytes. Gene ontology analysis suggested that, besides its classical role in renin-angiotensin system, ACE2 may be functionally associated with angiogenesis/blood vessel morphogenesis. A novel tool for the prediction of transcription factor binding sites identified several putative sites for determined transcription factors within the ACE2 gene promoter. Our results also confirmed that age and gender play no significant role in the regulation of ACE2 mRNA expression in the lung.",
+    "keywords": [
+        "angiotensin converting enzyme",
+        "coronavirus",
+        "COVID-19",
+        "lung",
+        "promoter",
+        "RNA-Seq",
+        "SARS",
+        "receptor",
+        "transcription"
+    ],
+    "funding": [
+        {}
+    ]
+}

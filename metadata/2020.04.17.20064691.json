@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: Since the pandemic outbreak of coronavirus disease 2019 (COVID-19), the health system capacity in highly endemic areas has been overwhelmed. Approaches to efficient management are urgently needed. We aimed to develop and validate a score for early prediction of clinical deterioration of COVID-19 patients. Methods: In this retrospective multicenter cohort study, we included 1138 mild to moderate COVID-19 patients admitted to 33 hospitals in Guangdong Province from December 27, 2019 to March 4, 2020 (N =818; training cohort), as well as two hospitals in Hubei Province from January 21 to February 22, 2020 (N =320; validation cohort) in the analysis. Results: The 14-day cumulative incidences of clinical deterioration were 7.9% and 12.1% in the training and validation cohorts, respectively. An Early WArning Score (EWAS) (ranging from 0 to 4.5), comprising of age, underlying chronic disease, neutrophil to lymphocyte ratio, C-reactive protein, and D-dimer levels, was developed (AUROC: 0.857). By applying the EWAS, patients were categorized into low-, medium-, and high risk groups (cut-off values: two and three). The 14-day cumulative incidence of clinical deterioration in the low-risk group was 1.8%, which was significantly lower than the incidence rates in the medium- (14.4%) and high-risk (40.9%) groups (P\nCompeting Interest Statement",
+    "author": "Rong Fan; Minfeng Liang; Jinyu Xia; Ridong He; Yingxia Liu; Lisi Deng; Jian Sun; Zhihong Liu; Lu Tang; Mingxing Huang; Jiatao Lu; Zhanzhou Lin; Jinlin Hou; Rui Xin; Baolin Liao; Li Liu; Xiaoping Tang; Xilin Zhang; Shufang Hu; Fuchun Zhang; Boliang Zhao; Qinglang Zeng; Changzheng Hu; Xueru Yin; Qiongya Wang; Jing Yuan; Zheng Zhang; Yabing Guo; Sichun Yin; Lei Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20064691",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20064691"
+    },
+    "title": "Development and validation of an early warning score (EWAS) for predicting clinical deterioration in patients with coronavirus disease 2019",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Local Innovative and Research Teams Project of Guangdong Pearl River Talents Program",
+                    "award-id": [
+                        "2017BT01S131"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded by the Local Innovative and Research Teams Project of Guangdong Pearl River Talents Program (2017BT01S131)"
+        }
+    ]
+}

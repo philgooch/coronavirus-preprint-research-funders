@@ -1,0 +1,28 @@
+{
+    "abstract": "In the midst of epidemics such as COVID-19, therapeutic candidates are unlikely to be able to complete the usual multi-year clinical trial and regulatory approval process within the course of an outbreak. We apply a Bayesian adaptive patient-centered model---which minimizes the expected harm of false positives and false negatives---to optimize the clinical trial development path during such outbreaks. When the epidemic is more infectious and fatal, the Bayesian-optimal sample size in the clinical trial is lower and the optimal statistical significance level is higher. For COVID-19 (assuming a static R0=2 and initial infection percentage of 0.1%), the optimal significance level is 7.1% for a clinical trial of a non-vaccine anti-infective therapeutic clinical trial and 13.6% for that of a vaccine. For a dynamic R0 ranging from 2 to 4, the corresponding values are 14.4% and 26.4%, respectively. Our results illustrate the importance of adapting the clinical trial design and the regulatory approval process to the specific parameters and stage of the epidemic.",
+    "affiliations": [
+        "Israel Deaconess Medical Center and the NIH\u0092s National Center for Advancing Translational Sciences Advisory Council and Cures Acceleration Network Review Board. S.C. is a co-founder and partner of QLS Advisors, a healthcare analytics company",
+        "MIT Laboratory for Financial Engineering and its sponsors (listed at https://lfe.mit.edu/about/sponsors/). No funding bodies had any role in study design, data collection and analysis, decision to publish, or preparation of this manuscript. No direct funding was received for this study. The authors were personally salaried by their institutions during the period of writing (though no specific salary was set aside or given for the writing of this manuscript)"
+    ],
+    "author": "Andrew W Lo; Danying Xiao; Shomesh Chaudhuri; Qingyang Xu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059634",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059634"
+    },
+    "title": "Bayesian Adaptive Clinical Trials for Anti-Infective Therapeutics during Epidemic Outbreaks",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "MIT Laboratory for Financial Engineering and",
+                    "award-id": [
+                        "listed at https://lfe.mit.edu/about/sponsors/",
+                        "though specific salary was set aside or given for the writing of this manuscript"
+                    ]
+                }
+            ],
+            "funding-statement": "Research funding for this project was provided by the MIT Laboratory for Financial Engineering and its sponsors (listed at https://lfe.mit.edu/about/sponsors/). No funding bodies had any role in study design, data collection and analysis, decision to publish, or preparation of this manuscript. No direct funding was received for this study. The authors were personally salaried by their institutions during the period of writing (though no specific salary was set aside or given for the writing of this manuscript)."
+        }
+    ]
+}

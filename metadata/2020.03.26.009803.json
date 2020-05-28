@@ -1,0 +1,62 @@
+{
+    "title": "The potential SARS-CoV-2 entry inhibitor",
+    "date": 2020,
+    "author": "Jrhau Lung, Yu-Shih Lin, Yao-Hsu Yang, Yu-Lun Chou, Geng-He Chang 7, Ming-Shao Tsai 7, Cheng-Ming Hsu 7 , Reming-Albert Yeh 7,Li-Hsin Shu 3, Yu-Ching Cheng 3, Hung Te Liu 3, Ching-Yuan Wu 3, 5* 1 Department of Research and Development, Chiayi Chang Gung Memorial Hospital, Chiayi Branch, Putzu, Taiwan 2 Department of Pharmacy, Chiayi Chang Gung Memorial Hospital, Chiayi Branch, Putzu, Taiwan. 3 Department of Traditional Chinese Medicine, Chang Gung Memorial Hospital, Chiayi Branch, Putzu, Taiwan. 4 Health Information and Epidemiology Laboratory of Chang Gung Memorial Hospital, Chiayi Branch, Putzu, Taiwan. 5 School of Chinese medicine, College of Medicine, Chang Gung University, Tao-Yuan, Taiwan. 6 Department of surgery, Kaohsiung Chang Gung Memorial Hospital 7 Department of Otolaryngology, Chang Gung Memorial Hospital, Chiayi, Taiwan 8 Center of Excellence for Chang Gung Research Datalink, Chang Gung Memorial Hospital, Chiayi, Taiwan *Correspondence to: Ching-Yuan Wu, M.D., Ph. D",
+    "affiliations": [
+        "Department of Research and Development, Chiayi Chang Gung Memorial Hospital, Chiayi Branch, Putzu, Taiwan",
+        "Department of Pharmacy, Chiayi Chang Gung Memorial Hospital, Chiayi Branch, Putzu, Taiwan",
+        "Department of Traditional Chinese Medicine, Chang Gung Memorial Hospital, Chiayi Branch, Putzu, Taiwan",
+        "Health Information and Epidemiology Laboratory of Chang Gung Memorial Hospital, Chiayi Branch, Putzu, Taiwan",
+        "School of Chinese medicine, College of Medicine, Chang Gung University, Tao-Yuan, Taiwan",
+        "Department of surgery, Kaohsiung Chang Gung Memorial Hospital",
+        "Department of Otolaryngology, Chang Gung Memorial Hospital, Chiayi, Taiwan",
+        "Center of Excellence for Chang Gung Research Datalink, Chang Gung Memorial Hospital, Chiayi, Taiwan",
+        "Correspondence to: Ching-Yuan Wu, M.D., Ph. D"
+    ],
+    "journal": "Introduction In December",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.26.009803",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.26.009803.pdf"
+    },
+    "abstract": "Outbreak of coronavirus disease 2019 (COVID-19) occurred in Wuhan and has rapidly spread to almost all parts of world. In coronaviruses, the receptor binding domain (RBD) in the distal part of S1 subunit of SARS-CoV-2 spike protein can directly bind to angiotensin converting enzyme 2 (ACE2). RBD promote viral entry into the host cells and is an important therapeutic target. In this study, we discovered that theaflavin showed the lower idock score (idock score: \u22127.95 kcal/mol). To confirm the result, we discovered that theaflavin showed FullFitness score of -991.21 kcal/mol and estimated \u0394G of -8.53 kcal/mol for the most favorable interaction with contact area of SARS-CoV-2 RBD by SwissDock service. Regarding contact modes, hydrophobic interactions contribute significantly in binding and additional hydrogen bonds were formed between theaflavin and Arg454, Phe456, Asn460, Cys480, Gln493, Asn501 and Val503 of SARS-CoV-2 RBD, near the direct contact area with ACE2. Our results suggest that theaflavin could be the candidate of SARS-CoV-2 entry inhibitor for further study.",
+    "keywords": [
+        "SARS-CoV-2",
+        "spike protein",
+        "receptor binding domain",
+        "theaflavin"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chang Gung Memorial Hospital,",
+                    "award-id": [
+                        "108-2320-B-182-021"
+                    ]
+                },
+                {
+                    "funding-source": "Ministry of Science and Technology",
+                    "award-id": [
+                        "NMRPG6H004"
+                    ]
+                },
+                {
+                    "funding-source": "Dr Ching Yuan Wu,",
+                    "award-id": [
+                        "NMRPG6H0041"
+                    ]
+                },
+                {
+                    "funding-source": "Ministry of Science and Technology"
+                },
+                {
+                    "funding-source": "Dr Jrhau Lung"
+                }
+            ],
+            "funding-statement": "This work was supported by grant CMRPG6H0162 from Chang Gung Memorial Hospital, and MOST 108-2320-B-182-021 from Ministry of Science and Technology to Dr Ching Yuan Wu, and NMRPG6H0041 from Ministry of Science and Technology to Dr Jrhau Lung"
+        }
+    ]
+}

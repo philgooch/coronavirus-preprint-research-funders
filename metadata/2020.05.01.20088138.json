@@ -1,0 +1,16 @@
+{
+    "abstract": "Using a stochastic epidemic model explicitly considering the entire population of Guadeloupe (1), we explore the domain of solutions presenting an efficient slowing down of the COVID-19 epidemic spread during the post-containment period. The considered model parameters are the basic reproduction number R0 to simulate the effects of social distancing, the time delay \u03b4TQ elapsed between the detection of a symptomatic person and her/his placement in quarantine to suppress her/his contagiousness, and the number Na of asymptomatic people tested positively and isolated. We show that acceptable solutions are obtained for a wide range of parameter values. Thanks to a good control of the initial epidemic spread resulting from an early containment and efficient communication by the sanitary and administrative authorities, the present situation corresponds to a pre-epidemic state. The most safe solutions are a combinations of social distancing, numerous testing to perform a systematic isolation of symptomatic patients and guided detection of asymptomatic people in the entourage of localised symptomatic patients.",
+    "author": "Patrick PORTECOP; Meriem ALLALI; Dominique GIBERT; Michel CARLES",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20088138",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20088138"
+    },
+    "title": "Model of a Testing-and-Quarantine Strategy to Slow-Down the COVID-19 Outbreak in Guadeloupe",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No dedicated fundings was assigned to this study"
+        }
+    ]
+}

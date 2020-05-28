@@ -1,0 +1,20 @@
+{
+    "abstract": "Background Routine services for tuberculosis (TB) are being disrupted by stringent lockdowns against the novel SARS-CoV-2 virus. We sought to estimate the potential long-term epidemiological impact of such disruptions on TB burden in high-burden countries, and how this negative impact could be mitigated. Methods We adapted mathematical models of TB transmission in three high-burden countries (India, Kenya and Ukraine) to incorporate lockdown-associated disruptions in the TB care cascade. The anticipated level of disruption reflected consensus from a rapid expert consultation. We modelled the impact of these disruptions on TB incidence and mortality over the next five years, and also considered potential interventions to curtail this impact. Results Even temporary disruptions can cause long-term increases in TB incidence and mortality. We estimated that a 3-month lockdown, followed by 10 months to restore normal TB services, would cause, over the next 5 years, an additional 1.92 million TB cases (Crl 1.74 - 2.15) and 488,000 TB deaths (CrI 449 - 541 thousand) in India, 48,000 (33,400 - 72,320) TB cases and 16,800 deaths (11.9 - 21.9 thousand) in Kenya, and 9,100 (6,980 - 11,200) cases and 1,960 deaths (1,620 - 2,350) in Ukraine. However, any such negative impacts could be averted through supplementary 'catch-up' TB case detection and treatment, once restrictions are eased. Interpretation Lockdown-related disruptions can cause long-lasting increases in TB burden, but these negative effects can be mitigated with targeted interventions implemented rapidly once lockdowns are lifted.",
+    "author": "Carel Pretorius; Nimalan Arinaminpathy; Han Fu; David Dowdy; Lucia Cilloni; Sreenivas A Nair; Juan F Vesga; Sevim Ahmedov; Sahu Suvanand; Andrei Mosneaga; Enos O Masini",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20104075",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20104075"
+    },
+    "title": "The potential impact of the COVID-19 pandemic on tuberculosis: a modelling analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Stop TB Partnership"
+                }
+            ],
+            "funding-statement": "USAID, Stop TB Partnership"
+        }
+    ]
+}

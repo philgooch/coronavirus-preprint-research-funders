@@ -1,0 +1,40 @@
+{
+    "title": "Deep phylogenetic analysis of Orthocoronavirinae genomes traces the origin, evolution and transmission route of 2019 novel coronavirus",
+    "author": "Amresh Kumar Sharma and Anup Som, Centre of Bioinformatics",
+    "date": 2020,
+    "affiliations": [
+        "Centre of Bioinformatics",
+        "Institute of Interdisciplinary Studies University of Allahabad Prayagraj \u2013 211002, India"
+    ],
+    "journal": "Keywords",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.091199",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.091199.pdf"
+    },
+    "abstract": "The outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in Wuhan city, China in December 2019 and thereafter its spillover across the world has created a global pandemic and public health crisis. Today, it appears as a threat to human civilization. Scientists and medical practitioners across the world are involved to trace out the origin and evolution of SARS-CoV-2 (also called 2019 novel coronavirus and referred as 2019-nCoV), its transmission route, cause of pathogenicity, and possible remedial action. In this work, we aim to find out the origin, evolut ionary patternthat led to its pathogenicity and possible transmission pathway of 2019-nCoV. To achieve the aims we conducted a large-scale deep phylogenetic analysis on the 162 complete Orthocoronavirinae genomes consisting of four genera namely Alphacoronavirus, Betacoronavirus, Deltacoronavirus and Gammacoronavirus, their gene trees analysis and subsequently genome and gene recombination analyses. Our analyses revealed that i) bat, pangolin and anteater are the natural hosts of 2019-nCoV, ii) outbreak of 2019-nCoV took place via inter-intra species transmission mode, iii) host-specific adaptive mutation made 2019-nCoV more virulent, and iv) the presence of widespread recombination events led to the evolution of new 2019-nCoV strain and/or could be determinant of its pathogenicity.",
+    "keywords": [
+        "Orthocoronavirinae",
+        "2019-nCoV",
+        "Genome/Gene phylogeny",
+        "Adaptive mutation",
+        "Recombination",
+        "Transmission pathway",
+        "COVID-19"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Biotechnology"
+                },
+                {
+                    "funding-source": "University Grants Commission"
+                }
+            ],
+            "funding-statement": "This work was partly supported by the Department of Biotechnology (DBT) and University Grants Commission (UGC), India"
+        }
+    ]
+}

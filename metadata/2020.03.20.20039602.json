@@ -1,0 +1,39 @@
+{
+    "abstract": "Background: Understanding the global epidemic trends, geographic distribution, and transmission patterns of COVID-19 contribute to providing timely information for the global response of the epidemic. This study aims to understand the global pandemic geospatial patterns and trends and identify new epicenters requiring urgent attention. Methods: Data on COVID-19 between 31st Dec. 2019 and 14th Mar. 2020 was included. The epidemic trend was analyzed using joinpoint regressions; the growth of affected countries was by descriptive analysis; and the global distribution and transmission trend by spatial analysis. Findings: The number of new cases in the regions outside of China slowly increased before 24th Feb. and rapidly accelerated after 24th Feb. Compared to China, other affected countries experienced a longer duration of a slow increase at the early stage and rapid growth at the latter stages. The first apparent increase in the number of affected countries occurred from 23rd Jan to 1st Feb, and the second apparent increase started from 25th Feb. The fist COVID-19 cases reported by countries from 28th Feb. were mainly imported from Europe. The geographic distribution changed from single-center (13th Jan.-20th Feb.) to multi-centers pattern (20th Feb.-14th Mar.). More countries were affected with COVID-19 and developed local transmission. Interpretation: The joinpoint regression and geospatial analysis indicated a multi-center pandemic of COVID-19. Strategies to prevent the new multiple centers as well as prevent ongoing transmission are needed.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Key Research and Development Program of China (2017YFE0103800), NIMH (R34MH119963), National Science and Technology Major Project (2018ZX10101-001-001-003), and the National Nature Science Foundation of China (81903371). Tang acknowledged their kindly supports. The funders had no role in study design, data collection, and analysis, decision to publish, or preparation of the manuscript. The authors thank all the people who contributed to this study"
+    ],
+    "author": "Yewei Xie; Yafei Si; Huipeng Liao; Zaisheng Wang; Weiming Tang; Gifty Marley; Cheng Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.03.20.20039602",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.20.20039602"
+    },
+    "title": "A Tempo-geographic Analysis of Global COVID-19 Epidemic Outside of China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2017YFE0103800",
+                        "R34MH119963"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Major Project",
+                    "award-id": [
+                        "2018ZX10101-001-001-003"
+                    ]
+                },
+                {
+                    "funding-source": "National Nature Science Foundation of China",
+                    "award-id": [
+                        "81903371"
+                    ]
+                }
+            ],
+            "funding-statement": "Source of funding: This work was supported by the National Key Research and Development Program of China (2017YFE0103800), NIMH (R34MH119963), National Science and Technology Major Project (2018ZX10101-001-001-003), and the National Nature Science Foundation of China (81903371)"
+        }
+    ]
+}

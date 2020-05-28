@@ -1,0 +1,91 @@
+{
+    "title": "Distinct Structural Flexibility within SARS-CoV-2 Spike Protein Reveals Potential Therapeutic Targets",
+    "date": 2020,
+    "author": "Serena H. Chen\u21e4, M. Todd Young\u21e4, John Gounley\u21e4, Christopher Stanley\u21e4, and Debsindhu Bhowmik\u21e4 \u21e4Computational Sciences and Engineering Division, Oak Ridge National Laboratory, Oak Ridge, TN 37830 USA",
+    "affiliations": [
+        "Oak Ridge National Laboratory, Oak Ridge, TN 37830 USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.17.047548",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.17.047548.pdf"
+    },
+    "abstract": "The emergence and rapid worldwide spread of the novel coronavirus disease, COVID-19, has prompted concerted efforts to find successful treatments. The causative virus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), uses its spike (S) protein to gain entry into host cells. Therefore, the S protein presents a viable target to develop a directed therapy. Here, we deployed an integrated artificial intelligence with molecular dynamics simulation approach to provide new details of the S protein structure. Based on a comprehensive structural analysis of S proteins from SARS-CoV-2 and previous human coronaviruses, we found that the protomer state of S proteins is structurally flexible. Without the presence of a stabilizing beta sheet from another protomer chain, two regions in the S2 domain and the hinge connecting the S1 and S2 subunits lose their secondary structures. Interestingly, the region in the S2 domain was previously identified as an immunodominant site in the SARS-CoV-1 S protein. We anticipate that the molecular details elucidated here will assist in effective therapeutic development for COVID-19.",
+    "keywords": [
+        "SARS-CoV-2",
+        "Spike protein",
+        "MD simulation"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "David Bell, Theodore"
+                },
+                {
+                    "funding-source": "Jacob Hinkle for"
+                },
+                {
+                    "funding-source": "Oak Ridge Leadership Computing Facility"
+                },
+                {
+                    "funding-source": "Oak Ridge National Laboratory"
+                },
+                {
+                    "funding-source": "Office of Science of the U.S Department of Energy",
+                    "award-id": [
+                        "DEAC05-00OR22725"
+                    ]
+                },
+                {
+                    "funding-source": "Extreme Science and Engineering Discovery Environment",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "COVID-19 HPC Consortium",
+                    "award-id": [
+                        "TG-ASC200020"
+                    ]
+                },
+                {
+                    "funding-source": "U.S Department of Energy, Office"
+                },
+                {
+                    "funding-source": "Office of Advanced Scientific Computing Research,",
+                    "award-id": [
+                        "DE-AC05-00OR22725"
+                    ]
+                },
+                {
+                    "funding-source": "Exascale Computing Project",
+                    "award-id": [
+                        "17-SC-20-SC"
+                    ]
+                },
+                {
+                    "funding-source": "U.S Department of Energy Office of Science and the National Nuclear Security Administration;"
+                },
+                {
+                    "funding-source": "Joint Design of Advanced Computing Solutions for Cancer",
+                    "award-id": [
+                        "JDACS4C"
+                    ]
+                },
+                {
+                    "funding-source": "U.S Department of Energy"
+                },
+                {
+                    "funding-source": "National Cancer Institute"
+                },
+                {
+                    "funding-source": "National Institutes of Health"
+                }
+            ],
+            "funding-statement": "We would like to thank David Bell, Theodore Papamarkou, and Jacob Hinkle for helpful discussions. This work was performed at the Oak Ridge Leadership Computing Facility (OLCF) of the Oak Ridge National Laboratory (ORNL), which is funded by the Office of Science of the U.S Department of Energy under Contract No DEAC05-00OR22725 and used the Extreme Science and Engineering Discovery Environment (XSEDE) [31] COVID-19 HPC Consortium at the IBM AC922 Summit supercomputer of the OLCF at ORNL through allocation TG-ASC200020. The research was supported by the U.S Department of Energy, Office of Science, Office of Advanced Scientific Computing Research, under contract number DE-AC05-00OR22725; the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S Department of Energy Office of Science and the National Nuclear Security Administration; and in part by the Joint Design of Advanced Computing Solutions for Cancer (JDACS4C) program established by the U.S Department of Energy (DOE) and the National Cancer Institute (NCI) of the National Institutes of Health"
+        }
+    ]
+}

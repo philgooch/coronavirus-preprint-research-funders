@@ -1,0 +1,46 @@
+{
+    "abstract": "There is strong interest globally amidst the current COVID-19 pandemic in tracing contacts of infectious patients using mobile technologies, both as a warning system to individuals and as a targeted intervention strategy for governments. Several governments, including India, have introduced mobile apps for this purpose, which give a warning when the individual's phone establishes bluetooth contact with the phone of an infected person. We present a methodology to probabilistically evaluate risk of infection given the network of contacts that individuals are likely to encounter in real life. Instead of binary \"infected\" or \"uninfected\" statuses, an infection risk probability is maintained which can be efficiently calculated based on probabilities of recent contacts, and updated when a recent contact is diagnosed with a disease. We demonstrate on realistic networks that this method sharply outperforms a naive immediate-contact method even in an ideal circumstance that all infected persons are known to the naive method. We demonstrate robustness to missing contact information (such as when phones fail to make bluetooth contact or the app is not installed). We show, within our model, a strong flattening of the infectious peak when even a small fraction of cases are identified, tested and isolated. In the real world, where most known-infected persons are isolated or quarantined and where many individuals may not carry their mobiles in public, we believe the improvement offered by our method warrants consideration. Importantly, in view of widespread concerns on privacy and contact-tracing, our method relies mainly on direct contact data that can be stored locally on users' phones, and uses limited communication via intermediary servers only upon testing, mitigating privacy concerns.",
+    "affiliations": [
+        "Department of Atomic Energy, Government of India, under project no. 12-R&D-TFR-5.04-0800. RS is funded by the Computational Biology project at his institute, from the Department of Atomic Energy, Government of India. The above are general research funding. No payment was received for any specific aspect of this work"
+    ],
+    "author": "Rahul Siddharthan; Sandeep Krishna; Vishwesha Guttal",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20080648",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20080648"
+    },
+    "title": "Risk assessment via layered mobile contact tracing for epidemiological intervention",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "VG acknowledges support from DBT-IISc partnership program"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Simons Foundation,"
+                },
+                {
+                    "funding-source": "Department of Atomic Energy, Government",
+                    "award-id": [
+                        "12-R",
+                        "D-TFR-5",
+                        "04-0800"
+                    ]
+                }
+            ],
+            "funding-statement": "SK is funded by the Simons Foundation, and the Department of Atomic Energy, Government of India, under project no. 12-R&D-TFR-5.04-0800"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Computational Biology"
+                },
+                {
+                    "funding-source": "Department of Atomic Energy, Government"
+                }
+            ],
+            "funding-statement": "RS is funded by the Computational Biology project at his institute, from the Department of Atomic Energy, Government of India"
+        }
+    ]
+}

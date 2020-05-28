@@ -1,0 +1,42 @@
+{
+    "abstract": "We consider two sub-populations consisting of individuals below or above 40 years of age, which will be referred to as \"young\" and \"older\". A person infected with SARS-CoV-2, following an incubation period, will become either sick (with COVID-19) or will be asymptomatic; the latter will recover, whereas a sick person will either recover or will be hospitalized where they will either die or recover. We assume that the interaction between a person who is infected and a person with the capacity to be infected is described by the usual mechanism of the standard epidemiological models. We first show that by choosing appropriately the parameters of the mathematical equations describing the dynamics of the above sub-populations in data stemming from Greece, one can obtain a reasonable match of the existing data for the time evolution of the total number of deaths and infections for both subpopulations during the current state of lockdown. Then, we consider two possible alternatives: first, we keep the two parameters describing the interactions of older-older and older-young as they are now, but we increase the value of the parameter describing the interaction of young-young; this means that we allow the lockdown measures to be eased only in the young sub-population. Second, we increase the values of all the three above parameters, which means we ease the lockdown measures in both sub-populations. In the first case, the number of deaths remains relatively small, whereas in the second case the situation, upon sufficient increase of the number of contacts, may become catastrophic potentially leading to a dramatic loss of lives.",
+    "affiliations": [
+        "US National Science Foundation under Grants No. PHY-1602994 and DMS-1809074 (PGK). PGK also acknowledges support from the Leverhulme Trust via",
+        "Visiting Fellowship and thanks the Mathematical Institute of the University of Oxford for its hospitality during part of this work"
+    ],
+    "author": "Panayotis G. Kevrekidis; Jes\u00fas Cuevas-Maraver; Athanasios S. Fokas",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095380",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095380"
+    },
+    "title": "Two alternative scenarios for easing COVID-19 lockdown measures: one reasonable and one catastrophic",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "US National Science Foundation",
+                    "award-id": [
+                        "PHY-1602994",
+                        "DMS-1809074"
+                    ]
+                }
+            ],
+            "funding-statement": "This material is based upon work supported by the US National Science Foundation under Grants No PHY-1602994 and DMS-1809074 (PGK)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Leverhulme Trust"
+                },
+                {
+                    "funding-source": "Visiting Fellowship and"
+                },
+                {
+                    "funding-source": "Mathematical Institute of the University of Oxford for"
+                }
+            ],
+            "funding-statement": "PGK also acknowledges support from the Leverhulme Trust via a Visiting Fellowship and thanks the Mathematical Institute of the University of Oxford for its hospitality during part of this work"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "title": "Androgen Regulates SARS-CoV-2 Receptor Levels and Is Associated with Severe COVID-19 Symptoms in Men",
+    "date": 2020,
+    "author": "Zaniar Ghazizadeh, Homa Majd 3*, Mikayla Richter, Ryan Samuel, Seyedeh Maryam Zekavat, Hosseinali Asgharian 7, Sina Farahvashi, Ali Kalantari, Jonathan Ramirez, Hongyu Zhao, Pradeep",
+    "affiliations": [
+        "Department of Internal Medicine, Yale School of Medicine, New Haven, CT, 06510",
+        "Yale School of Medicine, New Haven, CT, 06510",
+        "Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research, University of California, San Francisco, CA, 94143",
+        "Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, MA 02142",
+        "Department of computational Biology & Bioinformatics, Yale University, New Haven, CT, 06510",
+        "Cardiovascular Research Center, Massachusetts General Hospital, Boston, MA 02114",
+        "Department of Biochemistry and Biophysics, University of California, San Francisco, CA 94158",
+        "Department of Biostatistics, Yale School of Public Health, New Haven, CT, 06510",
+        "Department of Medicine, Harvard Medical School, Boston, MA 02115",
+        "Department of Urology, University of California, San Francisco, CA 94158",
+        "Bakar Computational Health Sciences Institute, University of California, San Francisco, CA 94158",
+        "Program in Craniofacial Biology, University of California, San Francisco, CA 94110 USA",
+        "Edythe Broad Center of Regeneration Medicine and Stem Cell Research University of California, San Francisco 35 Medical Center Way, RMB-1014, Box 0667 San Francisco, CA 94143 Tel: (415) 476-7979",
+        "Hani Goodarzi Department of Biochemistry and Biophysics University of California, San Francisco Genentech Hall, S312D, 600 16th St San Francisco, CA 94158"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.091082",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.091082.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has led to a global health crisis, and yet our understanding of the disease pathophysiology and potential treatment options remains limited. SARS-CoV-2 infection occurs through binding and internalization of the viral spike protein to angiotensin converting enzyme 2 (ACE2) on the host cell membrane. Lethal complications are caused by damage and failure of vital organs that express high levels of ACE2, including the lungs, the heart and the kidneys. Here, we established a high-throughput drug screening strategy to identify therapeutic candidates that reduce ACE2 levels in human embryonic stem cell (hESC) derived cardiac cells. Drug target analysis of validated hit compounds, including 5 alpha reductase inhibitors, revealed androgen signaling as a key modulator of ACE2 levels. Treatment with the 5 alpha reductase inhibitor dutasteride reduced ACE2 levels and internalization of recombinant spike receptor binding domain (Spike-RBD) in hESC-derived cardiac cells and human alveolar epithelial cells. Finally, clinical data on coronavirus disease 2019 (COVID-19) patients demonstrated that abnormal androgen states are significantly associated with severe disease complications and cardiac injury as measured by blood troponin T levels. These findings provide important insights on the mechanism of increased disease susceptibility in male COVID-19 patients and identify androgen receptor inhibition as a potential therapeutic strategy.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Sandler foundation"
+                }
+            ],
+            "funding-statement": "We are grateful to the UCSF program for breakthrough biomedical research and Sandler foundation for the grant to F.F. that supported this work"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH Director\u2019s New Innovator Award",
+                    "award-id": [
+                        "DP2NS116769"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "award-id": [
+                        "R01DK121169"
+                    ]
+                }
+            ],
+            "funding-statement": "F.F. is also supported by the NIH Director\u2019s New Innovator Award (DP2NS116769) and the National Institute of Diabetes and Digestive and Kidney Diseases (R01DK121169)"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "H.M. is supported by Larry L"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health\u2019s NHLBI",
+                    "award-id": [
+                        "1F30HL149180-01"
+                    ]
+                },
+                {
+                    "funding-source": "National Institutes of Health\u2019s Medical Scientist Training Program"
+                },
+                {
+                    "funding-source": "Yale School of Medicine"
+                }
+            ],
+            "funding-statement": "S.M.Z. is supported by the National Institutes of Health\u2019s NHLBI under award number 1F30HL149180-01 and the National Institutes of Health\u2019s Medical Scientist Training Program at the Yale School of Medicine"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "F32GM133118"
+                    ]
+                },
+                {
+                    "funding-source": "Sandler foundation"
+                }
+            ],
+            "funding-statement": "H.A. is supported by the NIH postdoctoral fellowship F32GM133118 and the postdoctoral grant from the program for breakthrough biomedical research grant and the Sandler foundation at UCSF"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Cancer Institute",
+                    "award-id": [
+                        "R01 CA240984"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of General Medical Sciences",
+                    "award-id": [
+                        "R01 GM123977"
+                    ]
+                }
+            ],
+            "funding-statement": "H.G. is supported by the National Cancer Institute (R01 CA240984) and the National Institute of General Medical Sciences (R01 GM123977)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Hassenfeld Scholar Award from the Massachusetts General Hospital,"
+                },
+                {
+                    "funding-source": "National Heart, Lung",
+                    "award-id": [
+                        "R01HL1427"
+                    ]
+                },
+                {
+                    "funding-source": "Blood Institute",
+                    "award-id": [
+                        "R01HL1427",
+                        "R01HL148565",
+                        "R01HL148050"
+                    ]
+                },
+                {
+                    "funding-source": "Fondation Leducq",
+                    "award-id": [
+                        "TNE-18CVD04"
+                    ]
+                }
+            ],
+            "funding-statement": "P.N. is supported by a Hassenfeld Scholar Award from the Massachusetts General Hospital, and grants from the National Heart, Lung, and Blood Institute (R01HL1427, R01HL148565, and R01HL148050) and Fondation Leducq (TNE-18CVD04)"
+        }
+    ]
+}

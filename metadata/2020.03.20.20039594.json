@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: While the COVID-19 outbreak in China now appears surpressed, Europe and the US have become the epicenters, both reporting many more deaths than China. Responding to the pandemic, Sweden has taken a different approach aiming to mitigate, not suppressing community transmission, by using physical distancing without lock-downs. Here we contrast consequences of different responses to COVID-19 within Sweden, the resulting demand for care, intensive care, the death tolls, and the associated direct healthcare related costs. Methods: We use an age stratified health-care demand extended SEIR compartmental model calibrated to the municipality level for all municipalities in Sweden, and a radiation model describing inter-municipality mobility. Results: Our model fit well with the observed deaths in Sweden up to 20th of April, 2020. The intensive care unit (ICU) demand is estimated to reach almost 10,000 patients per day by early May in an unmitigated scenario, far above the pre-pandemic ICU capacity of 526 beds. In contrast, a scenario with moderate physical distancing and shielding of elderly in combination with more effective isolation of infectious individuals would reduce numbers to below 500 per day. This would substantially flatten the curve, extend the epidemic period, but a risk resurgence is expected if measures are relaxed. The different scenarios show quite different death tolls up to the 1th of September, ranging from 5,000 to 41,000 deaths, exluding deaths potentially caused by ICU shortage. Further, analyses of the total all-cause mortality in Stockholm indicate that a confirmed COVID-19 death is associated with a additional 0.40 (95% CI: 0.24, 0.57) all-cause death. Conclusion: The results of this study highlight the impact of different combinations of non-pharmaceutical interventions, especially moderate physical distancing and shielding of elderly in combination with more effective isolation of infectious individuals, on reducing deaths and lower healthcare costs. In less effective mitigation scenarios, the demand on ICU beds would rapidly exceed capacity, showing the tight interconnection between the healthcare demand and physical distancing in the society. These findings have relevance for Swedish policy and response to the COVID-19 pandemic and illustrate the importance of maintaining the level of physical distancing for a longer period to suppress or mitigate the impacts from the pandemic.\nCompeting Interest Statement",
+    "author": "Joacim Rocklov",
+    "date": 2020,
+    "doi": "10.1101/2020.03.20.20039594",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.20.20039594"
+    },
+    "title": "COVID-19 healthcare demand and mortality in Sweden in response to non-pharmaceutical (NPIs) mitigation and suppression scenarios",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "The Infection Fatality Rate (IFR) for COVID-19 is a poorly known, yet crucial, aspect of the disease. Counting only current deaths in a region and assuming everyone in that region is infected provides an absolute lower bound on the IFR. Using this estimator for New York City, Lombardy and Madrid yields strong bounds on the average IFR in overwhelmed health systems. Their combined 35,152 deaths implies IFR > 0.14% averaged over 25.1 million people. This is the best-case scenario and conclusively demonstrates that COVID-19 is more deadly than influenza. The actual value of the average COVID-19 IFR is likely to be higher than this bound.",
+    "author": "Bruce A Bassett",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20076026",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20076026"
+    },
+    "title": "Strict Lower Bound on the COVID-19 Fatality Rate in Overwhelmed Healthcare Systems",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding has been received to support this research. The authors have not received payment of services from any third party for any aspect of the submitted work."
+        }
+    ]
+}

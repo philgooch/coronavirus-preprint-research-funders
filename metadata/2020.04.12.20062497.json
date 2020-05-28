@@ -1,0 +1,16 @@
+{
+    "abstract": "Objectives With large numbers of COVID-19 patients requiring mechanical ventilation and ventilators possibly being in short supply, in extremis two patients may have to share one ventilator. Careful matching of patient ventilation requirements is necessary. However, good matching is difficult to achieve as lung characteristics can have a wide range and may vary over time. Adding flow restriction to the flow path between ventilator and patient gives the opportunity to control the airway pressure and hence flow and volume individually for each patient. This study aimed to create and validate a simple model for calculating required flow restriction. Design/Setting Experimental/Secondary Care Methods We created a simple linear resistance-compliance model, termed the BathRC model, of the ventilator tubing system and lung allowing direct calculation of the relationships between pressures, volumes, and required flow restriction. Experimental measurements were made for parameter determination and validation using a clinical ventilator connected to two test lungs. For validation, differing amounts of restriction were introduced into the ventilator circuit. Results The BathRC model was able to predict tidal lung volumes with a mean error of 4% (min:1.2%, max:9.3%). Conclusion We present a simple model validated model that can be used to estimate required flow restriction for dual patient ventilation. The BathRC model is freely available; this tool is provided to demonstrate that flow restriction can be readily estimated.",
+    "author": "Malcolm Thornton; Andrew R Plummer; Andy Padkin; Jonathan L du Bois; Patrick Magee; Jens Roesner; Joseph M Flynn; Harinderjit S Gill; Siu Man Lee",
+    "date": 2020,
+    "doi": "10.1101/2020.04.12.20062497",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.12.20062497"
+    },
+    "title": "A Simple Method to Estimate Flow Restriction for Dual Ventilation of Dissimilar Patients: The BathRC Model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding."
+        }
+    ]
+}

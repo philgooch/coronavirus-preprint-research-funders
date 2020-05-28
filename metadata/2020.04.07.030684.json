@@ -1,0 +1,42 @@
+{
+    "title": "The aging transcriptome and cellular landscape of the human lung in relation to SARS-CoV-2",
+    "date": 2020,
+    "author": "Ryan D. Chow 1,4 and Sidi Chen 1,10,#",
+    "affiliations": [
+        "Department of Genetics, Yale University School of Medicine, New Haven, Connecticut, USA",
+        "System Biology Institute, Yale University, West Haven, Connecticut, USA",
+        "Center for Cancer Systems Biology, Yale University, West Haven, Connecticut, USA 4. M.D.-Ph.D. Program, Yale University, West Haven, Connecticut, USA",
+        "Immunobiology Program, Yale University, New Haven, Connecticut, USA",
+        "Combined Program in the Biological and Biomedical Sciences, Yale University, New Haven",
+        "Yale Comprehensive Cancer Center, Yale University School of Medicine, New Haven",
+        "Department of Neurosurgery, Yale University School of Medicine, New Haven, Connecticut, USA",
+        "Yale Stem Cell Center, Yale University School of Medicine, New Haven, Connecticut, USA",
+        "Yale Liver Center, Yale University School of Medicine, New Haven, Connecticut, USA",
+        "Yale Center for Biomedical Data Science, Yale University School of Medicine, New Haven",
+        "Yale Center for RNA Science and Medicine, Yale University School of Medicine, New Haven"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.07.030684",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.030684.pdf"
+    },
+    "abstract": "Since the emergence of SARS-CoV-2 in December 2019, Coronavirus Disease-2019 (COVID-19) has rapidly spread across the globe. Epidemiologic studies have demonstrated that age is one of the strongest risk factors influencing the morbidity and mortality of COVID-19. Here, we interrogate the transcriptional features and cellular landscapes of the aging human lung through integrative analysis of bulk and single-cell transcriptomics. By intersecting these age-associated changes with experimental data on host interactions between SARS-CoV-2 or its relative SARSCoV, we identify several age-associated factors that may contribute to the heightened severity of COVID-19 in older populations. We observed that age-associated gene expression and cell populations are significantly linked to the heightened severity of COVID-19 in older populations. The aging lung is characterized by increased vascular smooth muscle contraction, reduced mitochondrial activity, and decreased lipid metabolism. Lung epithelial cells, macrophages, and Th1 cells decrease in abundance with age, whereas fibroblasts, pericytes and CD4+ Tcm cells increase in abundance with age. Several age-associated genes have functional effects on SARSCoV replication, and directly interact with the SARS-CoV-2 proteome. Interestingly, ageassociated genes are heavily enriched among those induced or suppressed by SARS-CoV-2 infection. These analyses illuminate potential avenues for further studies on the relationship between the aging lung and COVID-19 pathogenesis, which may inform strategies to more effectively treat this disease.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Genotype-Tissue Expression"
+                },
+                {
+                    "funding-source": "Common Fund of the Office of the Director of the National Institutes of Health,"
+                },
+                {
+                    "funding-source": "NINDS"
+                }
+            ],
+            "funding-statement": "The Genotype-Tissue Expression (GTEx) Project was supported by the Common Fund of the Office of the Director of the National Institutes of Health, and by NCI, NHGRI, NHLBI, NIDA, NIMH, and NINDS 10,11"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Estimating the number of people affected by COVID-19 is crucial in deciding which public health policies to follow. The authorities in different countries carry out mortality counts. We propose that the mortality reported in each country can be used to create an index of the number of actual cases at a given time. The specificity of whether or not deaths are rapid or not by COVID-19 also affects the number of actual cases. The number of days between the declaration of illness and death varies between 12 and 18 days. For a delay of 18 days, and using an estimated mortality rate of 2%, the number of cases in April 2020 in Tunisia would be 5 580 people. The pessimistic scenario predicts 22 320 infected people, and the most optimistic predicts 744 (which is the number of reported cases on April 12, 2020). Modeling the occurrence of COVID-19 cases is critical to assess the impact of policies to prevent the spread of the virus.",
+    "author": "Ines Abdeljaoued-Tej; Marc Dhenain",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20065532",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20065532"
+    },
+    "title": "Estimation of Tunisia COVID-19 infected cases based on mortality rate",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding received"
+        }
+    ]
+}

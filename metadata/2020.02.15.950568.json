@@ -1,0 +1,46 @@
+{
+    "title": "Multivariate Analyses of Codon Usage of SARS-CoV-2 and other betacoronaviruses",
+    "author": "Haogao Gu, Daniel Chu, Malik Peiris, Leo L.M. Poon",
+    "date": 2020,
+    "affiliations": [
+        "School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, Hong"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.15.950568",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.15.950568.pdf"
+    },
+    "abstract": "Coronavirus disease 2019 (COVID-19) is a global health concern as it continues to spread within China and beyond. The causative agent of this disease, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), belongs to the genus Betacoronavirus which also includes severe acute respiratory syndrome related coronavirus (SARSr-CoV) and Middle East respiratory syndrome related coronavirus (MERSr-CoV). Codon usage of viral genes are believed to be subjected to different selection pressures in different host environments. Previous studies on codon usage of influenza A viruses can help identify viral host origins and evolution trends, however, similar studies on coronaviruses are lacking. In this study, global correspondence analysis (CA), within-group correspondence analysis (WCA) and between-group correspondence analysis (BCA) were performed among different genes in coronavirus viral sequences. The amino acid usage pattern of SARS-CoV-2 was generally found similar to bat and human SARSr-CoVs. However, we found greater synonymous codon usage differences between SARS-CoV-2 and its phylogenetic relatives on spike and membrane genes, suggesting these two genes of SARS-CoV-2 are subjected to different evolutionary pressures.",
+    "keywords": [
+        "SARS-CoV-2",
+        "coronavirus",
+        "codon usage analysis"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Health and Medical Research Fund",
+                    "award-id": [
+                        "Hong Kong"
+                    ]
+                },
+                {
+                    "funding-source": "Hong Kong)"
+                },
+                {
+                    "funding-source": "National Institutes of Allergy and Infectious Diseases, National"
+                },
+                {
+                    "funding-source": "Institutes of Health",
+                    "award-id": [
+                        "HHSN272201400006C"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by Health and Medical Research Fund (Hong Kong) and National Institutes of Allergy and Infectious Diseases, National Institutes of Health (USA) (contract HHSN272201400006C)."
+        }
+    ]
+}

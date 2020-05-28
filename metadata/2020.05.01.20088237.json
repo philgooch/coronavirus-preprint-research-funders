@@ -1,0 +1,16 @@
+{
+    "abstract": "OBJECTIVE: To examine the associations of stay-at-home order and face-masking recommendation with trends in daily new cases and deaths of laboratory-confirmed coronavirus disease 2019 (COVID-19) in the United States DESIGN: Piecewise log-linear modelling of temporal trends with turning-points, followed by quasi-experimental study on trend turning-point. Simulation studies were carried out to understand the outcomes under the scenarios if early-implementation and removal of stay-at-home order occurred. SETTING: Population data in the United States PARTICIPANTS: Residents in the U.S., who were affected by the stay-at-home and face-masking policies MAIN OUTCOME MEASURES: Turning-points of the daily new cases and deaths of COVID-19, and COVID-19 time-varying reproduction numbers (Rt) in the U.S. RESULTS: The number and the proportion of U.S. residents under SAHO increased between March 19 and April 7, and plateaued at 29,0829,980 and 88.6%, respectively. The trend in COVID-19 daily cases reduced after March 23 (P<0.001) and further reduced on April 3 (P<0.001), which was associated with implementation of SAHO by 10 states on March 23, and the Centers for Disease Control and Preventions recommendation of face-masking, respectively. Similar turning points were identified in the trends of daily deaths with a lag time. The estimates of Rt based on the 3 reported mean serial-intervals of COVID-19 all started to decline on March 19, when SAHO was first implemented in the U.S. and declined faster after March 23. After a short plateau, Rt continued to decline after April 3 and fell below/around 1.0 on April 13. CONCLUSIONS: There were 2 turning points of COVID-19 daily new cases or deaths in the U.S., which appeared to associate with implementation of SAHO and the CDC face-masking recommendation. Simulation on early-implementation and removal of SAHO reveals considerable impact on COVID-19 daily new cases and deaths. These findings may inform decision-making of lifting SAHO and face.",
+    "author": "Guanzhu Lu; Wei Bao; Sabiha Hussain; Lanjing Zhang; Shi Wei; Jie Xu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20088237",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20088237"
+    },
+    "title": "Associations of stay-at-home order and face-masking recommendation with trends in daily new cases and deaths of laboratory-confirmed COVID-19 in the United States",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None."
+        }
+    ]
+}

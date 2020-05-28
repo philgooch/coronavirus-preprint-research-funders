@@ -1,0 +1,16 @@
+{
+    "abstract": "The number of daily deaths, reported by Public Health England (PHE) during the UK Covid-19 epidemic, initially omitted out-of-hospital deaths in England. The epidemic has been mitigated by social distancing and the lockdown introduced on 17 and 23 March 2020 respectively. We recently reported a stochastic model of a mitigated epidemic which incorporated changes in social interactions and daily movements and whose simulations were consistent with the initial PHE daily mortality data. However, on 29 April, PHE revised their historic data to include out-of-hospital deaths in England. Out-of-hospital deaths occur sooner than in-hospital deaths. Here we show that if 20% of deaths, representing out-of-hospital deaths, are assigned a shorter illness period, then simulated daily mortality matches the revised PHE mortality at least until 4 May. We now predict that if the lockdown is gently relaxed in late May, whilst maintaining social distancing, there would be a modest second-wave which may be acceptable when weighed against the risks of maintaining the lockdown. Our model complements other more sophisticated work currently guiding national policy but which is not presently in the public domain.",
+    "author": "Thejasvi Subramanian; Anthony D Lander",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091579",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091579"
+    },
+    "title": "Modelling exit strategies for the UK Covid-19 lockdown with revised mortality data",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement unfunded</strong>"
+        }
+    ]
+}

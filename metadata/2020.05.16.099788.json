@@ -1,0 +1,45 @@
+{
+    "title": "Nrf2 Activator PB125\u00ae as a Potential Therapeutic Agent Against COVID-19",
+    "author": "Brooks Hybertson",
+    "date": 2020,
+    "affiliations": [
+        "Department of Medicine, Division of Pulmonary Sciences and Critical Care Medicine, University of Colorado Anschutz Medical Campus, Aurora, CO 80045, USA",
+        "Correspondence:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.16.099788",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.16.099788.pdf"
+    },
+    "abstract": "Nrf2 is a transcription factor that regulates cellular redox balance and the expression of a wide array of genes involved in immunity and inflammation, including antiviral actions. Nrf2 activity declines with age, making the elderly more susceptible to oxidative stress-mediated diseases, which include type 2 diabetes, chronic inflammation, and viral infections. Published evidence suggests that Nrf2 activity may regulate important mechanisms affecting viral susceptibility and replication. We examined gene expression levels by GeneChip microarray and by RNA-seq assays. We found that the potent Nrf2 activating composition PB125\u00ae downregulates ACE2 and TMPRSS2 mRNA expression in human liver-derived HepG2 cells. ACE2 is a surface receptor and TMPRSS2 activates the spike protein for SARS-Cov-2 entry into host cells. Furthermore, in endotoxin-stimulated primary human pulmonary artery endothelial cells we report the marked downregulation by PB125 of 36 genes encoding cytokines. These include IL1-beta, IL6, TNF-  the cell adhesion molecules ICAM1, VCAM1, and E-selectin, and a group of IFN- -induced genes. Many of these cytokines have been specifically identified in the \u201ccytokine storm\u201d observed in fatal cases of COVID-19, suggesting that Nrf2 activation may significantly decrease the intensity of the storm.",
+    "keywords": [
+        "Nrf2",
+        "SARS-CoV-2",
+        "coronavirus",
+        "COVID-19",
+        "cytokine storm",
+        "NFE2L2",
+        "TMPRSS2",
+        "HDAC5",
+        "CXCL10",
+        "ACE2"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health"
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "United States."
+                }
+            ],
+            "funding-statement": "This research was funded in part by grant number 1R43AG053128 from the National Institutes of Health (NIH) of the United States."
+        }
+    ]
+}

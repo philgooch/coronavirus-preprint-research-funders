@@ -1,0 +1,16 @@
+{
+    "abstract": "Social distancing has been one of the primary mitigation strategies in the United States to control the spread of novel coronavirus disease (COVID-19) and can be viewed as a multi-faceted public health measure. Using Twitter data, we aim to (1) define and quantify the prevalence and evolution of facets of social distancing during the COVID-19 pandemic in the US in a spatiotemporal context and (2) examine the most amplified tweets among social distancing facets. We analyzed a total of 259,529 unique tweets containing \"coronavirus\" from 115,485 unique users between January 23, 2020 and March 24, 2020 that were identified by the Twitter API as English and U.S.-based. Tweets containing specified keywords (determined a priori) were grouped into six social distancing facets: implementation, purpose, social disruption, adaptation, positive emotions, and negative emotions. Tweets about social disruptiveness were most retweeted, and implementation tweets were most favorited. Social distancing tweets became overall more prevalent in the U.S. from late January to March but were not geographically uniform. In January and February, facets of social distancing appeared in Los Angeles, San Francisco, and Seattle, which were among the first cities impacted by the COVID-19 outbreak. Tweets related to the \"implementation\" and \"negative emotions\" facets of social distancing largely dominated in combination with topics of \"social disruption\" and \"adaptation\", albeit to a lesser degree. Social distancing can be defined in terms of facets that respond and represent certain moments and events in a pandemic, including travel restrictions and rising COVID-19 case counts. For example, in February, Miami, FL had a low volume of social distancing tweets but grew in March which corresponded with the rise of COVID-19 cases in the city. This suggests that overall volume of social distancing tweets can reflect the relative case count in respective locations.",
+    "author": "Jiye Kwon; Connor Grady; Samah J. Fodeh; Josemari T. Feliciano",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20080937",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20080937"
+    },
+    "title": "Defining Facets of Social Distancing during the COVID-19 Pandemic: Twitter Analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding to declare"
+        }
+    ]
+}

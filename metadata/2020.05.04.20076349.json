@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The rapidly evolving dynamics of coronavirus disease 2019 (COVID-19) and the steadily increasing infection numbers require diagnostic tools to identify patients at high risk for a severe disease course. Here we evaluate clinical and imaging parameters for estimating the need of intensive care unit (ICU) treatment. Methods: We collected clinical, laboratory and imaging data from 65 patients with confirmed COVID-19 infection based on PCR positivity. IL-6, CRP, leukocyte and lymphocyte counts were determined in blood samples. Two radiologists evaluated the severity of imaging findings in computed tomography (CT) images on a scale from 1 (no characteristic signs of COVID-19) to 5 (confluent ground glass opacities in over 50% of the lung parenchyma). The volume of affected lung was quantified using commercially available software. Machine learning modelling was performed to estimate the risk for intensive care unit treatment. Findings: Patients with a severe course of COVID-19 had significantly increased IL-6, CRP and leukocyte counts and significantly decreased lymphocyte counts. The radiological severity grading was significantly increased in ICU patients. Multivariate random forest modelling showed a mean +/- standard deviation sensitivity, specificity and accuracy of 0.72 +/- 0.1, 0.86 +/- 0.16 and 0.80 +/- 0.1 and a ROC-AUC of 0.79 +/- 0.1. The most important predictive parameters were affected lung volume, radiological severity score, CRP and IL-6. Summary and Conclusion: Estimation of need for intensive care treatment is possible based on the clinical and radiological parameters.\nCompeting Interest Statement",
+    "author": "Marcus R. Makowski; Egon Burian; Friederike Jungmann; Matthias Treiber; Georgios A. Kaissis; Rickmer F. Braren; Fabian K. Lohoefer; Ulrike Protzer; Fabian Geisler; Christoph D. Spinner; Wolfgang Huber; Michael Dommasch; Gerhard Schneider; Tobias Lahmer; Markus Schwaiger; Roland M. Schmid",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20076349",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20076349"
+    },
+    "title": "Intensive care risk estimation in COVID-19 pneumonia based on clinical and imaging parameters: experiences from the Munich cohort",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no external funding was received</strong>"
+        }
+    ]
+}

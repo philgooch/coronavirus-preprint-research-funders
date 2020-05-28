@@ -1,0 +1,16 @@
+{
+    "abstract": "Currently, novel coronavirus disease 2019 (COVID-19) is a big threat to global health. The rapid spread of the virus has created pandemic, and countries all over the world are struggling with a surge in COVID-19 infected cases. There are no drugs or other therapeutics approved by the US Food and Drug Administration to prevent or treat COVID-19: information on the disease is very limited and scattered even if it exists. This motivates the use of data integration, combining data from diverse sources and eliciting useful information with a unified view of them. In this paper, we propose a Bayesian hierarchical model that integrates global data for real-time prediction of infection trajectory for multiple countries. Because the proposed model takes advantage of borrowing information across multiple countries, it outperforms an existing individual country-based model. As fully Bayesian way has been adopted, the model provides a powerful predictive tool endowed with uncertainty quantification. Additionally, the proposed model uses countrywide covariates to adjust infection trajectories in curve fitting. A joint variable selection technique has been integrated into the proposed modeling scheme, which aimed to identify possible country-level risk factors for severe disease due to COVID-19.",
+    "author": "Bowen Lei; Bani Mallick; Se Yoon Lee",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20077065",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20077065"
+    },
+    "title": "Estimation of COVID-19 spread curves integrating global data and borrowing information",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "N/A"
+        }
+    ]
+}

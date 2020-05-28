@@ -1,0 +1,29 @@
+{
+    "abstract": "We develop a minimalist compartmental model to analyze policies on mobility restriction in Italy during the Covid-19 outbreak. Our findings show that a early lockdowns barely shift the epidemic in time: moreover, beyond a critical value of the lockdown strength, an epidemic that seems to be quelled fully recovers after lifting the restrictions. We investigate the effects on lockdown scenarios and exit mechanisms by introducing heterogeneities in the model. In particular, we consider Italian regions as separate administrative entities in which social interactions through different age classes occur. We find that, due to the sparsity of the mobility matrix, epidemics developed independently in different regions once the outbreak starts. Moreover, after the epidemics ha started, the influence of contacts with other regions becomes soon irrelevant. Sparsity accounts for the observed delays across different regions. Analogous arguments would apply to the international borders. We also show how disregarding the structure of social contacts could lead to severe underestimation of the post-lockdown effects. Nevertheless, age class based mechanisms can help to mitigate rebound effects with milder strategies. Finally, we point out that our results can be generalized beyond this particular model by providing a description of the effects of key parameters on non-medical mitigation strategies for epidemics.",
+    "affiliations": [
+        "CNR-PNR National Project DFM.AD004.027 Crisis-Lab"
+    ],
+    "author": "Walter Quattrociocchi; Antonio Scala; Alessandro Spelta; Emanuele Brugnoli; Matteo Cinelli; Fabio Pammolli; Andrea Flori",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059592",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059592"
+    },
+    "title": "Between Geography and Demography: Key Interdependencies and Exit Mechanisms for Covid-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "AMOFI"
+                },
+                {
+                    "funding-source": "Analysis and Models OF"
+                },
+                {
+                    "funding-source": "CNR-PNR National Project DFM."
+                }
+            ],
+            "funding-statement": "A.S., E.B., M.C. and W.Q. acknowledge the support from CNR P0000326 project AMOFI (Analysis and Models OF social medIa) and CNR-PNR National Project DFM.AD004.027 Crisis-Lab"
+        }
+    ]
+}

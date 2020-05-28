@@ -1,0 +1,25 @@
+{
+    "title": "Validation of a SARS-CoV-2 spike protein ELISA for use in contact investigations and sero-surveillance",
+    "date": 2020,
+    "affiliations": [
+        "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda MD"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.24.057323",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.24.057323.pdf"
+    },
+    "abstract": "(250)\nSince emergence of SARS-CoV-2 in late 2019, there has been a critical need to understand prevalence, transmission patterns, to calculate the burden of disease and case fatality rates. Molecular diagnostics, the gold standard for identifying viremic cases, are not ideal for determining true case counts and rates of asymptomatic infection. Serological detection of SARS-CoV-2 specific antibodies can contribute to filling these knowledge gaps. In this study, we describe optimization and validation of a SARS-CoV-2-specific-enzyme linked immunosorbent assay (ELISA) using the prefusion-stabilized form of the spike protein [1]. We performed receiver operator characteristic (ROC) analyses to define the specificities and sensitivities of the optimized assay and examined cross reactivity with immune sera from persons confirmed to have had infections with other coronaviruses. These assays will be used to perform contact investigations and to conduct large-scale, cross sectional surveillance to define disease burden in the population.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases"
+                }
+            ],
+            "funding-statement": "This work was supported in part by intramural funding from the National Institute of Allergy and Infectious Diseases"
+        }
+    ]
+}

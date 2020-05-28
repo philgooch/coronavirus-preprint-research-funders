@@ -1,0 +1,35 @@
+{
+    "abstract": "Coronavirus disease 2019 (COVID-19) is caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The most widely used method of COVID-19 diagnostics is a reverse transcription quantitative polymerase chain reaction (RT-qPCR) assay, detecting the presence of SARS-CoV-2 RNA in patient samples, typically from nasopharyngeal swabs. The RNA extraction is a major bottleneck in current COVID-19 testing, in terms of turn-around, logistics, component availability and cost, which delays or completely precludes COVID-19 diagnostics in many settings. Efforts to simplify the current methods are important, as increased diagnostic availability and efficiency is expected to benefit patient care and infection control. Here, we describe methods to circumvent RNA extraction in COVID-19 testing by performing RT-qPCR directly on heat-inactivated subject samples as well as samples lysed with readily available detergents. Our data, including cross-comparisons with clinically diagnosed patient samples, suggest that direct RT-qPCR is a viable option to extraction-based COVID-19 diagnostics. We argue that significant savings in terms of time and cost can be achieved by embracing RNA-extraction-free protocols, that feeds directly into the established PCR-based testing pipeline. This could aid the expansion of COVID-19 testing.",
+    "author": "Ioanna Smyrlaki; Antonio Lentini; Bj\u00f6rn H\u00f6gberg; Hamzah Safari; Martin Ekman; Jan Albert; Bj\u00f6rn Reinius; Martin Vondracek; Johan Aarum; Natali Papanicoloau; Shaman Muradrasoli",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20067348",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20067348"
+    },
+    "title": "Massive and rapid COVID-19 testing is feasible by extraction-free SARS-CoV-2 RT-qPCR",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "SciLifeLab COVID-19"
+                },
+                {
+                    "funding-source": "Knut and Alice Wallenberg Foundation",
+                    "award-id": [
+                        "KAW 2020.0182"
+                    ]
+                },
+                {
+                    "funding-source": "Swedish Research Council",
+                    "award-id": [
+                        "2017-01723"
+                    ]
+                },
+                {
+                    "funding-source": "Ragnar S\u00f6derberg Foundation"
+                }
+            ],
+            "funding-statement": "This research was supported and funded by the SciLifeLab COVID-19 initiative, the Knut and Alice Wallenberg Foundation (KAW 2020.0182), the Swedish Research Council (2017-01723) and the Ragnar S\u00f6derberg Foundation to BR"
+        }
+    ]
+}

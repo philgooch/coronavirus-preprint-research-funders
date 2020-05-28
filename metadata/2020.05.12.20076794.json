@@ -1,0 +1,16 @@
+{
+    "abstract": "After two months from the first case in COVID-19 outbreak, Italy counts more than 190,000 confirmed positive cases. From the beginning of April 2020, the nationwide lockdown started to show early effects by reducing the total cumulative incidence reached by the epidemic wave. This allows the government to program the measures to loosen lockdown restrictions for the so called \"Phase 2\". Here we provided the reproduction number estimation both in space and in time from February 24th to April 24th, 2020 across two months into the epidemic. Our estimates suggest basic reproduction number averaged over all the regions of 3.29, confirming that epidemiological figures of the SARS-CoV-2 epidemic in Italy are higher than those observed at the early stage of Wuhan (China) outbreak. Based on the SARS-CoV-2 transmission dynamics reported here, we gave a quantitative evaluation of the efficiency of the government measures to low the reproduction number under the unity (control regime). We estimated that among the worst hit regions in Italy, Lombardy reached the control regime on March 22nd followed by Emilia-Romagna (March 23th), Veneto (March 25th) and Piemonte (March 26th). Overall, we found that the mean value of time to reach the control regime in all the country is about 31 days from the February 24th and about 14 days from the first day of nationwide lockdown (March 12th). Finally, we highlighted the interplay between the reproduction number and two demographic indices in order to probe the \"state of activity\" of the epidemic for each Italian region in the control regime. We believe that this approach can provide a tool in the management of \"Phase 2\", potentially helping in challenging decision to continue, ease or tighten up restrictions.",
+    "author": "Mattia Allieta; Andrea Allieta; Davide Rossi Sebastiano",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20076794",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20076794"
+    },
+    "title": "COVID-19 outbreak in Italy: estimation of reproduction numbers over two months toward the Phase 2",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

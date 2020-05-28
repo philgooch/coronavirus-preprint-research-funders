@@ -1,0 +1,55 @@
+{
+    "title": "Site-specific analysis of the SARS-CoV-2 glycan shield",
+    "author": "Yasunori Watanabe",
+    "date": 2020,
+    "affiliations": [
+        "School of Biological Sciences, University of Southampton, Southampton, SO17 1BJ, UK",
+        "Oxford Glycobiology Institute, Department of Biochemistry, University of Oxford, South Parks Road, Oxford, OX1 3QU, UK",
+        "Division of Structural Biology, University of Oxford, Wellcome Centre for Human Genetics, Oxford, OX3 7BN, UK",
+        "Department of Molecular Biosciences, The University of Texas at Austin, Austin, TX 78712, USA # These authors contributed to this work equally. *To whom correspondence may be addressed"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.26.010322",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.26.010322.pdf"
+    },
+    "abstract": "The emergence of the betacoronavirus, SARS-CoV-2 that causes COVID-19, represents a significant threat to global human health. Vaccine development is focused on the principal target of the humoral immune response, the spike (S) glycoprotein, that mediates cell entry and membrane fusion. SARS-CoV-2 S gene encodes 22 N-linked glycan sequons per protomer, which likely play a role in immune evasion and occluding immunogenic protein epitopes. Here, using a site-specific mass spectrometric approach, we reveal the glycan structures on a recombinant SARS-CoV-2 S immunogen. This analysis enables mapping of the glycanprocessing states across the trimeric viral spike. We show how SARS-CoV-2 S glycans differ from typical host glycan processing, which may have implications in viral pathobiology and vaccine design.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Gowland-Pryde for supporting our work on this project during the difficulties arising from the pandemic, and G"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "International AIDS Vaccine Initiative, Bill"
+                },
+                {
+                    "funding-source": "Melinda Gates Foundation"
+                },
+                {
+                    "funding-source": "Collaboration for AIDS Discovery",
+                    "award-id": [
+                        "OPP1084519 to M.C.",
+                        "1196345 to M.C."
+                    ]
+                },
+                {
+                    "funding-source": "NIAID",
+                    "award-id": [
+                        "R01-AI127521 to J.S.M"
+                    ]
+                },
+                {
+                    "funding-source": "Scripps Consortium for HIV Vaccine Development",
+                    "award-id": [
+                        "AI144462 to M.C."
+                    ]
+                }
+            ],
+            "funding-statement": "This work was funded by the International AIDS Vaccine Initiative, Bill and Melinda Gates Foundation through the Collaboration for AIDS Discovery (OPP1084519 to M.C., and 1196345 to M.C.), the NIAID (R01-AI127521 to J.S.M) and the Scripps Consortium for HIV Vaccine Development (CHAVD) (AI144462 to M.C.)"
+        }
+    ]
+}

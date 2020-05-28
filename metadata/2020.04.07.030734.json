@@ -1,0 +1,31 @@
+{
+    "title": "Reversal of Infected Host Gene Expression Identifies Repurposed Drug Candidates for COVID-19",
+    "date": 2020,
+    "author": "Repurposed Drug Candidates for COVID-19",
+    "affiliations": [
+        "Department of Pediatrics and Human Development, Michigan State University, Grand Rapids, Michigan, USA",
+        "Departments of Microbiology and Immunology, University of Texas Medical Branch, Galveston, Texas, USA",
+        "Department of Pharmacology and Toxicology, Michigan State University, Grand Rapids, Michigan, USA",
+        "Helen Devos Children Hospital, Grand Rapids, Michigan, USA",
+        "Center of Biodefense and Emerging Disease, University of Texas Medical Branch, Galveston, Texas, USA # These authors contributed equally",
+        "Correspondence to Bin Chen:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.07.030734",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.030734.pdf"
+    },
+    "abstract": "Repurposing existing drugs is a timely option to cope with COVID-19. We predicted therapeutic candidates that could reverse the gene expression of coronavirus-infected host cells. Thirteen expression signatures computed from various experimental conditions and preclinical models could be reversed by those compounds known to be effective against SARS- or MERS-CoV, as well as the drug candidates recently shown to be effective against SARS-CoV-2. We selected ten novel candidates to further evaluate their in vitro efficacy against SARS-CoV-2 infection. Four compounds bortezomib, dactolisib, alvocidib and methotrexate inhibited the formation of virus infection-induced cytopathic effect in Vero E6 cells at 1 \u03bcM, yet such a concentration seems toxic to the cells as well. While the evaluation in other permissive cells and",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "MSU Global Impact Initiative"
+                }
+            ],
+            "funding-statement": "The research is supported by R01GM134307 and K01 ES028047 and the MSU Global Impact Initiative"
+        }
+    ]
+}

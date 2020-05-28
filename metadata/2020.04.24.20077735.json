@@ -1,0 +1,46 @@
+{
+    "abstract": "Background Novaferon, a novel protein drug approved for the treatment of chronic hepatitis B in China, exhibits potent antiviral activities. We aimed to determine the anti-SARS-CoV-2 effects of Novaferon in vitro, and conducted a randomized, open-label, parallel group study to explore the antiviral effects of Novaferon for COVID-19. Methods In laboratory, the inhibition of Novaferon on viral replication in cells infected with SARS-CoV-2, and on SARS-CoV-2 entry into healthy cells was determined. Antiviral effects of Novaferon were evaluated in COVID-19 patients with treatment of Novaferon, Novaferon plus Lopinavir/Ritonavir, or Lopinavir/Ritonavir. The primary endpoint was the SARS-CoV-2 clearance rates on day 6 of treatment, and the secondary endpoint was the time to the SARS-CoV-2 clearance in COVID-19 patients Results Novaferon inhibited the viral replication in infected cells (EC50=1.02 ng/ml), and protected healthy cells from SARS-CoV-2 infection (EC50=0.1 ng/ml). Results from the 89 enrolled COVID-19 patients showed that both Novaferon and Novaferon plus Lopinavir/Ritonavir groups had significantly higher SARS-CoV-2 clearance rates on day 6 than the Lopinavir/Ritonavir group (50.0% vs.24.1%, p = 0.0400, and 60.0% vs.24.1%, p = 0.0053). Median time to SARS-CoV-2 clearance were 6 days, 6 days, and 9 days for three groups respectively, suggesting a 3-dayreduction of time to SARS-CoV-2 clearance in both Novaferon and Novaferon plus Lopinavir/Ritonavir groups compared with Lopinavir/Ritonavir group. Conclusions Novaferon exhibited anti-SARS-CoV-2 effects in vitro and in COVID-19 patients. These data justified the further evaluation of Novaferon. Key words: COVID-19, SARS-CoV-2, Novaferon, Antiviral drug, Lopinavir/Ritonavir",
+    "affiliations": [
+        "National Science and Technology Major Project (2017ZX10202201, 2017ZX10202203), the National Key Research and Development Program of China (Nos. 2016YFD0500301), and Specialized Science and Technology Project of Hunan Province (2020SK3013)"
+    ],
+    "author": "Peihua Niu; Yuanlin Xie; Yanwen Zhou; Fei Ye; Yongfang Jiang; Jing Ma; Qi Zuo; Chunlin Cai; Yun Xu; Yi Li; Ning Zhou; Wenlong Wang; Xin Tan; Zhiguo Zhou; Xinqiang Xiao; Wenjie Tan; Guozhong Gong; Baoying Huang; Wei Tang; Jun Xie; Feng Peng; Fang Zheng; Yaxiong Huang; Zhiguang Zhou",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20077735",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20077735"
+    },
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "Novaferon",
+        "Antiviral drug",
+        "Lopinavir/Ritonavir"
+    ],
+    "title": "A Novel Protein Drug, Novaferon, as the Potential Antiviral Drug for COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science and Technology Major Project",
+                    "award-id": [
+                        "2017ZX10202201",
+                        "2017ZX10202203"
+                    ]
+                },
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2016YFD0500301"
+                    ]
+                },
+                {
+                    "funding-source": "Specialized Science and Technology Project of Hunan Province",
+                    "award-id": [
+                        "2020SK3013"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by National Science and Technology Major Project (2017ZX10202201, 2017ZX10202203), the National Key Research and Development Program of China (Nos. 2016YFD0500301), and Specialized Science and Technology Project of Hunan Province (2020SK3013)"
+        }
+    ]
+}

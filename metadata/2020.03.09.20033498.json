@@ -1,0 +1,28 @@
+{
+    "abstract": "This paper proposed a quarantine-susceptible-exposed-infectious-resistant (QSEIR) model which considers the unprecedented strict quarantine measures in almost the whole of China to resist the epidemic. We estimated model parameters from . During March18-30, 2020, the epidemic would be controlled. The end date would be in the period from August 20 to September 1, 2020. With 80% probability, our prediction on the peak date was 4 days ahead of the real date, the prediction error of the peak value is 0.43%, both estimates are much closer to the observed values compared with published studies. The sensitive analysis indicated that the quarantine measures (or with vaccination) are the most effective containment strategy to control the epidemic, followed by measures to increase the cured rate (like finding special medicine). The long-term simulation result and sensitive analysis in mainland China showed that the QSEIR model is stable and can be empirically validated. It is suggested that the QSEIR model can be applied to predict the development trend of the epidemic in other regions or countries in the world. In mainland China, the quarantine measures can't be relaxed before the end of March 2020. China can fully resume production with appropriate anti-epidemic measures beginning in early April 2020. The results of this study also implied that other countries now facing the epidemic outbreaks should act more decisively and take in time quarantine measures though it may have negative short-term public and economic consequences.\nCompeting Interest Statement\nThe authors have declared no competing interest.\nFunding Statement\nThe 2019 Chinese Government Scholarship and National Natural Science Foundation of China under Grants No. 71874184 and No.71988101.\nAuthor Declarations\nAll relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript.\nYes\nAll necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived.\nYes\nI understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).",
+    "affiliations": [
+        "Government Scholarship and National Natural Science Foundation of China under Grants No. 71874184 and No.71988101"
+    ],
+    "author": "Xin Xiang; Xuefeng Li; Xiuli Liu; Minghui Qin; Shouyang Wang; Geoffrey J.D. Hewings; Shan Zheng",
+    "date": 2020,
+    "doi": "10.1101/2020.03.09.20033498",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.09.20033498"
+    },
+    "journal": "The",
+    "title": "Modeling the situation of COVID-19 and effects of different containment strategies in China with dynamic differential equations and parameters estimation",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chinese Government Scholarship and National Natural Science Foundation of China",
+                    "award-id": [
+                        "71874184",
+                        "71988101"
+                    ]
+                }
+            ],
+            "funding-statement": "The 2019 Chinese Government Scholarship and National Natural Science Foundation of China under Grants No 71874184 and No.71988101."
+        }
+    ]
+}

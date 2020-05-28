@@ -1,0 +1,16 @@
+{
+    "abstract": "Coronavirus disease (COVID-2019) is a severe ongoing novel pandemic that is spreading quickly across the world. Italy, that is widely considered one of the main epicenters of the pandemic, has registered the highest COVID-2019 death rates and death toll in the world, to the present day. In this article I estimate an autoregressive integrated moving average (ARIMA) model to forecast the epidemic trend over the period after April 4, 2020, by using the Italian epidemiological data at national and regional level. The data refer to the number of daily confirmed cases officially registered by the Italian Ministry of Health (www.salute.gov.it) for the period February 20 to April 4, 2020. The main advantage of this model is that it is easy to manage and fit. Moreover, it may give a first understanding of the basic trends, by suggesting the hypothetic epidemic's inflection point and final size.",
+    "author": "Gaetano Perone",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20081539",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20081539"
+    },
+    "title": "An ARIMA Model to Forecast the Spread and the Final Size of COVID-2019 Epidemic in Italy",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The author received no specific funding for this work"
+        }
+    ]
+}

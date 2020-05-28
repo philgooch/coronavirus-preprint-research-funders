@@ -1,0 +1,16 @@
+{
+    "abstract": "The ongoing SARS-CoV-2 pandemic has caused large outbreaks around the world and every heavily affected community has experienced a substantial strain on the health care system and a high death toll. Communities therefore have to monitor the incidence of COVID-19 carefully and attempt to project the demand for health care. To enable such projections, we have developed an interactive web application that simulates an age-structured SEIR model with separate compartments for severely and critically ill patients. The tool allows the users to modify most parameters of the model, including age specific assumptions on severity. Infection control and mitigation measures that reduce transmission can be specified, as well as age-group specific isolation. The simulation of the model runs entirely on the client side in the browser; all parameter settings and results of the simulation can be exported for further downstream analysis. The tool is available at covid19-scenarios.org and the source code at github.com/neherlab/covid19_scenarios.",
+    "author": "Richard Neher; Valentin Druelle; Ivan Aksamentov; Abrie Badenhorst; Gavin Jefferies; Jan Albert; Nicholas B Noll; Bruno Ronzani",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091363",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091363"
+    },
+    "title": "COVID-19 Scenarios: an interactive tool to explore the spread and associated morbidity and mortality of SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was supported by institutional core funding"
+        }
+    ]
+}

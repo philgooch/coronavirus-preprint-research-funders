@@ -1,0 +1,42 @@
+{
+    "title": "A structured open dataset of government interventions in response to COVID-19",
+    "author": "Amelie Desvars-Larrive, Elma Dervic, Nils Haug, Thomas Niederkrotenthaler, Jiaying Chen, Anna Di Natale, Jana Lasser, Diana S. Gliga, Alexandra Roux, Abhijit Chakraborty, Alexandr Ten, Alija Dervic10, Andrea Pacheco, David Cserjan, Diana Lederhilger, Dorontin\u00eb Berishaj, Erwin Flores Tames, Huda Takriti, Jan Korbel, Jenny Reddish, Johannes Stangl, Lamija Hadziavdic, Laura Stoeger, Leana Gooriah, Lukas Geyrhofer, Marcia R. Ferreira, Rainer Vierlinger, Samantha Holder, Samuel \u00c1lvarez, Simon Haberfellner, Verena Ahne, Viktoria Reisch, Vito D.P. Servedio, Xiao Chen, Xochilt Mar\u00eda Pocasangre-Orellana, David Garcia, Stefan Thurner",
+    "date": 2020,
+    "affiliations": [
+        "Unit of Veterinary Public Health and Epidemiology, University of Veterinary Medicine Vienna, Veterinaerplatz 1, 1210 Vienna, Austria",
+        "Complexity Science Hub Vienna, Josefstaedter Strasse 39, 1080 Vienna, Austria",
+        "Section for Science of Complex Systems, Medical University of Vienna, Spitalgasse 23, 1090 Vienna, Austria",
+        "Unit Suicide Research & Mental Health Promotion, Center for Public Health, Department of Social and Preventive Medicine, Medical University of Vienna, Kinderspitalgasse 15, 1090 Vienna",
+        "Independent scholar",
+        "CERMES3, Ecole des Hautes Etudes en Sciences Sociales, 7 rue Guy Moquet, 94801 Villejuif, France",
+        "Gender, Sexuality, Health, CESP, INSERM, Paris-Saclay University, Paris-Sud University, UVSQ, H\u00f4pital Paul Brousse, 16 avenue Paul Vaillant Couturier, 94807 Villejuif, France",
+        "Advanced Systems Analysis, International Institute for Applied Systems Analysis (IIASA), Schlossplatz 1, A-2361 Laxenburg, Austria",
+        "Flowers project-team, National Research Institute for Digital Sciences (INRIA), 200 avenue de la Vieille Tour, 33405 Talence cedex, France",
+        "Institute of Electrodynamics, Microwave and Circuit Engineering, Vienna University of Technology, Gusshausstrasse 25/354, 1040 Vienna, Austria",
+        "German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5E, 04103 Leipzig, Germany",
+        "Seshat: The Global History Databank",
+        "Research Department, Colonia Escal\u00f3n, San Salvador, CP 1101, El Salvador",
+        "Santa Fe Institute, Santa Fe, NM 87501, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.04.20090498",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090498.pdf"
+    },
+    "abstract": "In response to the COVID-19 pandemic, governments have implemented a wide range of nonpharmaceutical interventions (NPIs). Monitoring and documenting government strategies during the COVID-19 crisis is crucial to understand the progression of the epidemic. Following a content analysis strategy of existing public information sources, we developed a specific hierarchical coding scheme for NPIs. We generated a comprehensive structured dataset of government interventions and their respective timelines of implementation. To improve transparency and motivate collaborative validation process, information sources are shared via an open library. We also provide codes that enable users to visualise the dataset. Standardization and structure of the dataset facilitate inter-country comparison and the assessment of the impacts of different NPI categories on the epidemic parameters, population health indicators, the economy, and human rights, among others. This dataset provides an in-depth insight of the government strategies and can be a valuable tool for developing relevant preparedness plans for pandemic. We intend to further develop and update this dataset on a weekly basis until the end of December 2020.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Vienna Science and Technology Fund",
+                    "award-id": [
+                        "VRG16-005"
+                    ]
+                }
+            ],
+            "funding-statement": "D.G. and A.D.N. acknowledge funding from the Vienna Science and Technology Fund - WWTF (VRG16-005)"
+        }
+    ]
+}

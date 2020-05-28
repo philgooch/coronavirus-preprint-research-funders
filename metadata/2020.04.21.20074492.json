@@ -1,0 +1,16 @@
+{
+    "abstract": "The novel coronavirus (COVID-19) pandemic continues to be a global health problem whose impact has been significantly felt in South Africa. Social distancing has been touted as the best form of response in managing a rapid increase in the number of infected cases. In this paper, we present a deterministic model to model the impact of social distancing on the transmission dynamics of COVID-19 in South Africa. The model is fitted to the currently available data on the cumulative number of infected cases and a scenario analysis on different levels of social distancing are presented. The results show a continued rise in the number of cases in the lock down period with the current levels of social distancing albeit at a lower rate. The model shows that the number of cases will rise to above 4000 cases by the end of the lockdown. The model also looks at the impact of relaxing the social distancing measures after the initial announcement of the lock down measures. A relaxation of the social distancing by 2% can result in a 23% rise in the number of cumulative cases while on the other hand increasing the levels of social distancing by 2% would reduce the number of cumulative cases by about 18%. These results have implications on the management and policy direction in the early phases of the epidemic.",
+    "author": "Faraimunashe Chirove; Farai Nyabadza; Maria Vivien Visaya; Williams Chidozie Chukwu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20074492",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20074492"
+    },
+    "title": "Modelling the potential impact of social distancing on the COVID-19 epidemic in South Africa",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

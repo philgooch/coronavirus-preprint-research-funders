@@ -1,0 +1,27 @@
+{
+    "abstract": "On basis of laboratory examinations indicators from a total of 620 samples, a machine learning-based diagnosis model was developed, and subsequently implemented as a COVID-19 diagnosis aid APP. External validation showed satisfiable model prediction performance (i.e., AUC= 0.872) which guarantees the promising use of this tool for extensive screening.\nCompeting Interest Statement\nThe authors have declared no competing interest.",
+    "affiliations": [
+        "Sichuan Provincial Department of Science and Technology Program \u00932020YFS0004\u0094 and Science and technology project of west China hospital \u0093HX-2019-nCov-066\u0094"
+    ],
+    "author": "Minjin Wang; Yongzhao Zhou; Yi Zhou; Yanbing Zhou; Qingfeng Li; Mengjiao Li; Zirui Meng; Binwu Ying; Xingbo Song; Weimin Li; Huan Song; Xiaojun Lu; Shuo Guo",
+    "date": 2020,
+    "doi": "10.1101/2020.03.18.20035816",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.18.20035816"
+    },
+    "title": "Development and utilization of an intelligent application for aiding COVID-19 diagnosis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Sichuan Provincial Department of Science and Technology Program",
+                    "award-id": [
+                        "2020YFS0004",
+                        "HX-2019"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by Sichuan Provincial Department of Science and Technology Program \u00932020YFS0004\u0094 and Science and technology project of west China hospital \u0093HX-2019-nCov-066\u0094"
+        }
+    ]
+}

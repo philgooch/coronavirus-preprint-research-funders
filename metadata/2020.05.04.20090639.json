@@ -1,0 +1,36 @@
+{
+    "title": "Assessing the impact of non-pharmaceutical interventions on SARS-CoV-2 transmission in Switzerland",
+    "date": 2020,
+    "author": "Joseph. C. Lemaitre,\u200b ,Javier Perez-Saez,\u200b ,Andrew S. Azman,\u200b ,Andrea Rinaldo,\u200b ,3\u200b and Jacques Fellay",
+    "affiliations": [
+        "Laboratory of Ecohydrology, School of Architecture, Civil and Environmental Engineering, \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne, CH-1015 Lausanne",
+        "Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA",
+        "Dipartimento di Ingegneria Civile Edile ed Ambientale, Universit\u00e0 di Padova, I-35131 Padua, Italy",
+        "School of Life Sciences, \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne, CH-1015 Lausanne",
+        "Precision Medicine Unit, Lausanne University Hospital and University of Lausanne, CH-1011 Lausanne",
+        "Imperial College COVID-19 Response Team 2020). Making decisions around relaxing NPIs requires both a careful assessment of the level of pre-relaxation transmission (e.g., R\u200b0)and quantification of the expected increase in transmission from relaxation of different NPIs",
+        "Federal Office of Public Health due to reporting delays"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.04.20090639",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090639.pdf"
+    },
+    "abstract": "Following the rapid dissemination of COVID-19 cases in Switzerland, large-scale non-pharmaceutical interventions (NPIs) were implemented by the cantons and the federal government between February 28 and March 20. Estimates of the impact of these interventions on SARS-CoV-2 transmission are critical for decision making in this and future outbreaks. We here aim to assess the impact of these NPIs on disease transmission by estimating changes in the basic reproduction number (R\u200b0)at national and cantonal levels in relation to the timing of these NPIs. We estimate the time-varying R\u200b0 nationally and in twelve cantons by fitting a stochastic transmission model explicitly simulating within hospital dynamics. We use individual-level data of >1,000 hospitalized patients in Switzerland and public daily reports of hospitalizations and deaths. We estimate the national R\u200b0 was 3.15 (95% CI: 2.13-3.76) at the start of the epidemic. Starting from around March 6, we find a strong reduction in R0\u200b with a 85% median decrease (95% quantile range, QR: 83%-90%) to a value of 0.44 (95% QR: 0.27-0.65) in the period of March 29-April 5. At the cantonal-level R\u200b0 decreased over the course of the epidemic between 71% and 94%. We found that reductions in R\u200b0 were synchronous with changes in mobility patterns as estimated through smartphone activity, which started before the official implementation of NPIs. We found that most of the reduction of transmission is due to behavioural changes as opposed to natural immunity, the latter accounting for only about 3% of the total reduction in effective transmission. As Switzerland considers relaxing some of the restrictions of social mixing, current estimates of R\u200b0 well below one are promising. However most of inferred transmission reduction was due to behaviour change (<3% due to natural immunity buildup), with an estimated 97% (95% QR: 96.6%-97.2%) of the Swiss population still susceptible to SARS-CoV-2 as of April 24. These results warrant a cautious relaxation of social distance practices and close monitoring of changes in both the basic and effective reproduction numbers.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fondazione Cassa di Risparmio di Padova",
+                    "award-id": [
+                        "55722",
+                        "April 2020"
+                    ]
+                }
+            ],
+            "funding-statement": "AR acknowledges funding from Fondazione Cassa di Risparmio di Padova e Rovigo (IT) through its grant 55722 (April 2020)"
+        }
+    ]
+}

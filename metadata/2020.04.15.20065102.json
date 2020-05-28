@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 is quickly spreading around the world and carries along with it a significant threat to public health. This study sought to apply meta-analysis to more precisely and accurately estimate the basic reproduction number (R0) of COVID-19 in order to evaluate the effectiveness of the isolation policy across countries, and the corresponding public health capability to care for patients. Prior estimates of R0 have varied widely and range from 1.95 to 6.49. Utilizing meta-analysis techniques we determined a more robust estimation of 3.05 for R0, which is substantially larger than that provided by the WHO. We also present the infectious rate standardized to per million population, which has proved to be a good index to determine whether the isolation measures in specific countries are effective. Also, this standardized infection rate can be used to determine whether the current infectious severity status is out of range of the national health capacity. Finally, we utilize our robust estimate of R0 and the standardized infectious rate to illustrate that the early and aggressive isolation measures enforced by the Chinese government were substantially more effective in controlling the negative impact COVID-19 than the more permissive measures enacted early in Italy and the United States.",
+    "author": "Douglas Franz; Yongdao Zhou; Jianghu Dong; Ying Zhang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20065102",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20065102"
+    },
+    "title": "A Validation Study for the Successful Isolation Policy in China: a Meta-Analysis in COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No"
+        }
+    ]
+}

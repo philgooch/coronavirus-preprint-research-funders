@@ -1,0 +1,23 @@
+{
+    "abstract": "The emergence of the pandemic around the world owing to COVID-19 is putting the world into a big threat. Many factors may be involved in the transmission of this deadly disease but not much-supporting data are available. Till now no proper evidences has been reported supporting that temperature changes can affect COVID-19 transmission. This work aims to correlate the effect of temperature with that of Total Cases, Recovery, Death, and Critical cases all around the globe. All the data were collected in April and the maximum and minimum temperature and the average temperature were collected from January to April (i.e the months during which the disease was spread). Regression was conducted to find a non-linear relationship between Temperate and the cases. It was evident that indeed temperature does have a significant effect on the total cases and recovery rate around the globe. It was also evident from the study that the countries with lower temperatures are the hotspots for COVID-19. The Study depicted a non-linear dose-response between temperature and the transmission, indicating the existence of the best temperature for its transmission. This study can indeed put some light on how temperature can be a significant factor in COVID-19 transmission.",
+    "affiliations": [
+        "Jadavpur University"
+    ],
+    "author": "Piyali Basak; Pratik Das; Suvendu Manna",
+    "date": 2020,
+    "doi": "10.1101/2020.05.19.20107433",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.19.20107433"
+    },
+    "title": "Analyzing the Effect of Temperature on the Outspread of COVID-19 around the Globe",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Jadavpur University"
+                }
+            ],
+            "funding-statement": "Jadavpur University"
+        }
+    ]
+}

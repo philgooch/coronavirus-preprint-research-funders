@@ -1,0 +1,32 @@
+{
+    "abstract": "Background: Understanding the extent of virus transmission that can occur before symptom onset is vital for targeting control measures against the global pandemic of COVID-19. Objective: Estimation of (1) the proportion of pre-symptomatic transmission of COVID-19 that can occur and (2) timing of transmission relative to symptom onset. Design: Secondary analysis of published data Data sources: Meta-analysis of COVID-19 incubation period and a rapid systematic review of serial interval and generation time, which are published separately. Methods: Simulations were generated of incubation period and of serial interval or generation time. From these, transmission times relative to symptom onset were calculated and the proportion of pre-symptomatic transmission was estimated. Results: A total of 23 estimates of serial interval and five estimates of generation time from 17 publications were included. These came from nine different data source categories (presented here in descending order of the proportion of pre-symptomatic transmission): Hong Kong, Tianjin, pooled data from Hong Kong and Shenzhen, Singapore, Mainland China excluding Hubei, mixed sources, Shenzhen, northern Italy and Wuhan. Transmission time relative to symptom onset ranged from a mean of 2.05 days before symptom onset for Hong Kong to 1.72 days after symptom onset for Wuhan. Proportion of pre-symptomatic transmission ranged from 33.7% in Wuhan to 72.7% in Hong Kong. Based on individual estimates, transmission time relative to symptom onset ranged from mean of 2.95 days before symptom onset to 1.72 days after symptom onset and proportion of pre-symptomatic transmission ranged from 33.7% to 79.9%. Simple unweighted pooling of estimates based on serial intervals resulted in a mean time of transmission of 0.67 days before symptoms, and an estimated 56.1% of transmission occurring in the pre-symptomatic period. Conclusions: Contact rates between symptomatic infectious and susceptible people are likely to influence the proportion of pre-symptomatic transmission. There is substantial potential for pre-symptomatic transmission of COVID-19 in a range of different contexts. Our work suggests that transmission of SARS-CoV-2 is most likely in the day before symptom onset whereas estimates suggesting most pre-symptomatic transmission highlighted a mean transmission times almost 3 days before symptom onset. These findings highlight the urgent need for extremely rapid and effective case detection, contact tracing and quarantine measures if strict social distancing measures are to be eased.\nCompeting Interest Statement",
+    "affiliations": [
+        "University College Dublin, the Irish Department of Agriculture, Food and the Marine (DAFM), or the Irish Health information and Quality Authority (HIQA). No additional funding was obtained for this research"
+    ],
+    "author": "Aine B Collins; David McEvoy; Ann Barber; Kevin Hunt; Kirsty O Brien; Conor G McAloon; Francis Butler; John Griffin; Patrick Wall; Simon J More; Andrew W Byrne; Kieran A Walsh; Miriam Casey; Jamie M Madden; Elizabeth A Lane",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20094870",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20094870"
+    },
+    "title": "Estimating pre-symptomatic transmission of COVID-19: a secondary analysis using published data",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University College Dublin,"
+                },
+                {
+                    "funding-source": "Irish Department of Agriculture, Food"
+                },
+                {
+                    "funding-source": "Irish Health"
+                },
+                {
+                    "funding-source": "Quality Authority"
+                }
+            ],
+            "funding-statement": "All investigators are full-time employees (or retired former employees) of University College Dublin, the Irish Department of Agriculture, Food and the Marine (DAFM), or the Irish Health information and Quality Authority (HIQA). No additional funding was obtained for this research."
+        }
+    ]
+}

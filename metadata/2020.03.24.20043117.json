@@ -1,0 +1,39 @@
+{
+    "abstract": "Background: Chest CT had high sensitivity in diagnosing novel coronavirus pneumonia (NCP) at early stage, giving it an advantage over nucleic acid detection in time of crisis. Deep learning was reported to discover intricate structures from clinical images and achieve expert-level performance in medical image analysis. To develop and validate an integrated deep learning framework on chest CT images for auto-detection of NCP, particularly focusing on differentiating NCP from influenza pneumonia (IP). Methods: 35 confirmed NCP cases were consecutively enrolled as training set from 1138 suspected patients in three NCP designated hospitals together with 361 confirmed viral pneumonia patients from center one including 156 IP patients, from May, 2015 to February, 2020. The external validation set enrolled 57 NCP patients and 50 IP patients from eight centers. Results: 96.6% of NCP lesions were larger than 1 cm and 76.8% were with intensity below -500 Hu, indicating less consolidation than IP lesions which had nodules ranging 5-10 mm. The classification schemes accurately distinguished NCP and IP lesions with area under the receiver operating characteristic curve (AUC) above 0.93. The Trinary scheme was more device-independent and consistent with specialists than the Plain scheme, which achieved a F1 score of 0.847, higher than the Plain scheme (0.774), specialists (0.785) and residents (0.644). Conclusions: Our study potentially provides an accurate early diagnosis tool on chest CT for NCP with high transferability, and shows high efficiency in differentiating NCP and IP, helping to reduce misdiagnosis and contain the pandemic transmission.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Key R&D Program of China (2017YFC1309701 and 2017YFC1309700), Shanghai Key Discipline for Respiratory Diseases (2017ZZ02014) and Shanghai Science and Technology Committee (18411953000). The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication"
+    ],
+    "author": "Weiwu Yao; Xiaoyan Jin; Zilai Pan; Yanping Xu; Lan Wang; Yihan Xia; Xin Xu; Dexiang Wang; Mingxin Guan; Jingwen Huang; Jieming Qu; Jianxing Feng; Jingqi Wei; Min Zhou; Huan Zhang; Jingwen Tan; Longkuan Zou; Yong Chen",
+    "date": 2020,
+    "doi": "10.1101/2020.03.24.20043117",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.24.20043117"
+    },
+    "title": "Improved deep learning model for differentiating novel coronavirus pneumonia and influenza pneumonia",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2017YFC1309701",
+                        "2017YFC1309700"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Key Discipline for Respiratory Diseases",
+                    "award-id": [
+                        "2017ZZ02014"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Science and Technology Committee",
+                    "award-id": [
+                        "18411953000"
+                    ]
+                }
+            ],
+            "funding-statement": "The study was funded by National Key R&D Program of China (2017YFC1309701 and 2017YFC1309700), Shanghai Key Discipline for Respiratory Diseases (2017ZZ02014) and Shanghai Science and Technology Committee (18411953000)"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells",
+    "author": "Neal G. Ravindra, Mia Madel Alfajaro, Victor Gasque, Jin Wei, Renata B. Filler, Nicholas C. Huston, Han Wan, Klara Szigeti-Buck,10, Bao Wang, Ruth R. Montgomery, Stephanie C. Eisenbarth, Adam Williams, Anna Marie Pyle, Akiko Iwasaki",
+    "date": 2020,
+    "affiliations": [
+        "Cardiovascular Research Center, Section of Cardiovascular Medicine, Department of Internal Medicine, Yale School of Medicine, New Haven, CT, USA",
+        "Department of Computer Science, Yale University, New Haven, CT, USA",
+        "Department of Laboratory Medicine, Yale School of Medicine, New Haven, CT, USA",
+        "Department of Immunobiology, Yale School of Medicine, New Haven, CT, USA",
+        "Universite Claude Bernard Lyon 1, Faculte de Medecine Lyon Est, Lyon, France",
+        "Departement de Bioinformatique, Univ Evry, Universite Paris-Saclay, Paris, France",
+        "Department of Molecular Biophysics & Biochemistry, Yale School of Medicine, New Haven, CT, USA",
+        "Department of Molecular, Cellular, and Developmental Biology, Yale School of Medicine, New Haven, CT, USA",
+        "Department of Comparative Medicine, Yale School of Medicine, New Haven, CT, USA",
+        "Department of Neuroscience, Yale School of Medicine, New Haven, CT, USA",
+        "Department of Obstetrics, Gynecology, and Reproductive Sciences, Yale School of Medicine, New Haven, CT, USA",
+        "Department of Internal Medicine, Yale School of Medicine, New Haven, CT, USA",
+        "The Jackson Laboratory, Farmington, CT, USA",
+        "Howard Hughes Medical Institute, Chevy Chase, MD, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.06.081695",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.06.081695.pdf"
+    },
+    "abstract": "SARS-CoV-2, the causative agent of COVID-19, has resulted in more than 3,000,000 infections and 200,000 deaths. There are currently no approved drugs or vaccines for the treatment or prevention of COVID19. Enhanced understanding of SARS-CoV-2 infection and pathogenesis is critical for the development of therapeutics. To reveal insight into viral replication, cell tropism, and host-viral interactions of SARS-CoV-2 we performed single-cell RNA sequencing of experimentally infected human bronchial epithelial cells (HBECs) in air-liquid interface cultures over a time-course. This revealed novel polyadenylated viral transcripts and highlighted ciliated cells as the major target of infection, which we confirmed by electron microscopy. Over the course of infection, cell tropism of SARS-CoV-2 expands to other epithelial cell types including basal and club cells. Infection induces cell intrinsic expression of type I and type III IFNs and IL6 but not IL1. This results in expression of interferon stimulated genes in both infected and bystander cells. Here, we have conducted an in-depth analysis of SARS-CoV-2 infection in HBECs and provide a detailed characterization of genes, cell types, and cell state changes associated with the infection.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI128043",
+                        "R21AI133440",
+                        "R01AI141609",
+                        "K08AI119139"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by NIH grants K08 AI128043 (CBW), R21AI133440 (AW), R01AI141609 (AW), and K08AI119139 (EEF)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Burroughs Wellcome Fund Career Award for Medical Scientists and Robert Leet and Clara Guthrie Patterson Trust Award"
+                }
+            ],
+            "funding-statement": "CBW was also supported by a Burroughs Wellcome Fund Career Award for Medical Scientists and Robert Leet and Clara Guthrie Patterson Trust Award"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "CBW and DvD"
+                },
+                {
+                    "funding-source": "Fast Grant",
+                    "award-id": [
+                        "Emergent Ventures"
+                    ]
+                },
+                {
+                    "funding-source": "Emergent Ventures)"
+                }
+            ],
+            "funding-statement": "CBW and DvD were supported by a Fast Grant (Emergent Ventures)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Investigators of the Howard Hughes Medical Institute. Author"
+                }
+            ],
+            "funding-statement": "AI and AMP are Investigators of the Howard Hughes Medical Institute. Author contributions: conceptualization, MMA, JW, NGR, VG, DvD, CBW; methodology, MMA, NGR, EFF, DvD, CBW; computational analysis NGR, VG, DvD; validation, MMA, CBW; formal analysis NGR, VG, DvD; investigation, MMA, RBF, JW, CBW; resources, BW, EFF; writing\u2014original Draft, MMA, NGR, VG, DvD, CW; writing\u2014review & editing, all authors; visualization, NGR, VG, DvD; supervision, DvD, CBW; funding acquisition, DvD, CBW"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Establishment of an African green monkey model for COVID-19",
+    "author": "Courtney Woolsey",
+    "date": 2020,
+    "affiliations": [
+        "Department of Microbiology and Immunology, University of Texas Medical Branch, Galveston, TX 77555",
+        "Galveston National Laboratory, University of Texas Medical Branch, Galveston, TX 77555, USA. 9",
+        "Department of Radiology, University of Texas Medical Branch, Galveston, TX 77555, USA. 10 11",
+        "Corresponding author:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.17.100289",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.17.100289.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is responsible for an unprecedented global pandemic of COVID-19. Animal models are urgently needed to study the pathogenesis of COVID-19 and to screen candidate vaccines and treatments. Nonhuman primates (NHP) are considered the gold standard model for many infectious pathogens as they usually best reflect the human condition. Here, we show that African green monkeys support a high level of SARS-CoV-2 replication and develop pronounced respiratory disease that may be more substantial than reported for other NHP species including cynomolgus and rhesus macaques. In addition, SARS-CoV-2 was detected in mucosal samples of all animals including feces of several animals as late as 15 days after virus exposure. Importantly, we show that virus replication and respiratory disease can be produced in African green monkeys using a much lower and more natural dose of SARS-CoV-2 than has been employed in other NHP studies.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Virus Archive"
+                },
+                {
+                    "funding-source": "European Union\u2019s Horizon",
+                    "award-id": [
+                        "653316"
+                    ]
+                }
+            ],
+            "funding-statement": "The virus used in this publication was kindly provided by the European Virus Archive goes Global (EVAg) project that has received funding from the European Union\u2019s Horizon 2020 research and innovation program under grant agreement No 653316"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Microbiology and Immunology, University"
+                },
+                {
+                    "funding-source": "Texas Medical Branch"
+                },
+                {
+                    "funding-source": "Galveston National Laboratory"
+                },
+                {
+                    "funding-source": "NIAID/",
+                    "award-id": [
+                        "UC7AI094660"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "UC7AI094660"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by funds from the Department of Microbiology and Immunology, University of Texas Medical Branch at Galveston, Galveston, TX to TWG. Operations support of the Galveston National Laboratory was supported by NIAID/NIH grant UC7AI094660"
+        }
+    ]
+}

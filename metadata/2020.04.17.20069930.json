@@ -1,0 +1,87 @@
+{
+    "abstract": "There is an urgent need to better understand the pathophysiology of Coronavirus disease 2019 (COVID-19), the global pandemic caused by SARS-CoV-2. Here, we apply single-cell RNA sequencing (scRNA-seq) to peripheral blood mononuclear cells (PBMCs) of 7 patients hospitalized with confirmed COVID-19 and 6 healthy controls. We identify substantial reconfiguration of peripheral immune cell phenotype in COVID-19, including a heterogeneous interferon-stimulated gene (ISG) signature, HLA class II downregulation, and a novel B cell-derived granulocyte population appearing in patients with acute respiratory failure requiring mechanical ventilation. Importantly, peripheral monocytes and lymphocytes do not express substantial amounts of pro-inflammatory cytokines, suggesting that circulating leukocytes do not significantly contribute to the potential COVID-19 cytokine storm. Collectively, we provide the most thorough cell atlas to date of the peripheral immune response to severe COVID-19.",
+    "author": "Philip Grant; Catherine A Blish; Julia L McKechnie; Thanmayi Ranganath; Aaron J Wilk; Taylor Hollis; Jonasel Roque; Geoffrey T Ivison; Rosemary Vergara; Giovanny J Martinez-Colon; Nancy Q Zhao; Laura J Simpson; Arjun Rustagi; Aruna Subramanian; Angela J Rogers",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20069930",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20069930"
+    },
+    "title": "A single-cell atlas of the peripheral immune response to severe COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Stanford ICU Biobank and A.J."
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "HL125663"
+                    ]
+                },
+                {
+                    "funding-source": "NHLBI",
+                    "award-id": [
+                        "HL125663"
+                    ]
+                }
+            ],
+            "funding-statement": "The Stanford ICU Biobank and A.J.R. are funded by NIH/NHLBI K23 HL125663"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Stanford Medical Scientist Training Program",
+                    "award-id": [
+                        "T32 GM007365-44"
+                    ]
+                },
+                {
+                    "funding-source": "Stanford Bio-X Interdisciplinary Graduate Fellowship;"
+                },
+                {
+                    "funding-source": "Applied Genomics in Infectious Diseases",
+                    "award-id": [
+                        "AI007502-23"
+                    ]
+                },
+                {
+                    "funding-source": "National Science Scholarship from"
+                },
+                {
+                    "funding-source": "STAR Singapore;"
+                },
+                {
+                    "funding-source": "National Science Foundation Graduate Research Fellowship DGE-1656518;"
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI007290-35"
+                    ]
+                }
+            ],
+            "funding-statement": "A.J.W. is supported by the Stanford Medical Scientist Training Program (T32 GM007365-44) and the Stanford Bio-X Interdisciplinary Graduate Fellowship; A.R. is supported by the Applied Genomics in Infectious Diseases training grant T32 AI007502-23; N.Q.Z. is supported by a National Science Scholarship from A*STAR Singapore; J.L.M. is supported by National Science Foundation Graduate Research Fellowship DGE-1656518; J.L.M. and G.I. are supported by NIH training grant T32 AI007290-35"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "DA04608902"
+                    ]
+                },
+                {
+                    "funding-source": "Sentinel Pilot Project from the Bill & Melinda Gates Foundation,"
+                },
+                {
+                    "funding-source": "Burroughs Wellcome Fund Investigators in the Pathogenesis of Infectious Diseases",
+                    "award-id": [
+                        "1016687"
+                    ]
+                }
+            ],
+            "funding-statement": "C.A.B. is supported by NIH/NIDA DP1 DA04608902, a 2019 Sentinel Pilot Project from the Bill & Melinda Gates Foundation, and Burroughs Wellcome Fund Investigators in the Pathogenesis of Infectious Diseases #1016687"
+        }
+    ]
+}

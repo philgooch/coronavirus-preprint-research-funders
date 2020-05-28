@@ -1,0 +1,16 @@
+{
+    "abstract": "Background Social distancing has led to a flattening of the curve in many states across the U.S. This is part of a novel, massive, global social experiment which has served to mitigate the pandemic in the absence of a vaccine or effective anti-viral drugs. Hence it is important to be able to forecast hospitalizations reasonably accurately. Methods We propose on phenomenological grounds a generalized diffusion equation which in- corporates the effect of social distancing to forecast the temporal evolution of the probability of having a given number of hospitalizations. The probability density function is log-normal in the number of hospitalizations, which is useful in describing pandemics where the number of hospital- izations is very high. Findings We used this insight and data to make forecasts for states using Monte Carlo methods. Back testing validates our approach, which yields good results about a week into the future. States are beginning to reopen at the time of publication and our forecasts indicate possible precursors of increased hospitalizations. Additionally we studied the reproducibility Ro in New York (Italian strain) and California (Wuhan strain). We find that even if there is a difference in the transmission of the two strains, social distancing has been able to control the progression of COVID 19. Funding None.",
+    "author": "Shirish M Chitanvis",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20105411",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20105411"
+    },
+    "title": "Dynamical model for social distancing in the U.S. during the COVID-19 epidemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

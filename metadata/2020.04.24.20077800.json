@@ -1,0 +1,61 @@
+{
+    "abstract": "Following the first report of coronavirus disease 2019 (COVID-19) in Sapporo City, Hokkaido Prefecture, Japan on 14 February 2020, a surge of cases was observed in Hokkaido during February and March. As of 6 March, 90 cases were diagnosed in Hokkaido. Unfortunately, many infected persons may not have been recognized as cases due to having mild or no symptoms. We therefore estimated the actual number of COVID-19 cases in (i) Hokkaido Prefecture and (ii) Sapporo City using data on cases diagnosed outside these areas. The estimated cumulative incidence in Hokkaido as of 27 February was 2297 cases (95\\% confidence interval [CI]: 382, 7091) based on data on travelers outbound from Hokkaido. The cumulative incidence in Sapporo City as of 28 February was estimated at 2233 cases (95\\% CI: 0, 4893) based on the count of confirmed cases within Hokkaido. Both approaches resulted in similar estimates, indicating higher incidence of infections in Hokkaido than were detected by the surveillance system. This quantification of the gap between detected and estimated cases can help inform public health response as it provides insight into the possible scope of undetected transmission.",
+    "author": "Sung-mok Jung; Natalie M. Linton; Hiroshi Nishiura; Ryosuke Omori; Andrei R. Akhmetzhanov; Kenji Mizumoto",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20077800",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20077800"
+    },
+    "title": "Estimation of the actual incidence of coronavirus disease (COVID-19) in emergent hotspots: The example of Hokkaido, Japan during February-March 2020",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Japan Agency for Medical Research and Development",
+                    "award-id": [
+                        "JP18fk0108050"
+                    ]
+                },
+                {
+                    "funding-source": "Japan Society for the Promotion of Science",
+                    "award-id": [
+                        "17H04701",
+                        "17H05808",
+                        "18H04895",
+                        "19H01074"
+                    ]
+                },
+                {
+                    "funding-source": "Inamori Foundation,"
+                },
+                {
+                    "funding-source": "Japan Science and Technology Agency"
+                },
+                {
+                    "funding-source": "CREST",
+                    "award-id": [
+                        "JPMJCR1413"
+                    ]
+                }
+            ],
+            "funding-statement": "H.N. received funding from the Japan Agency for Medical Research and Development (AMED) [grant number: JP18fk0108050]; the Japan Society for the Promotion of Science (JSPS) KAKENHI [grant numbers: 17H04701, 17H05808, 18H04895 and 19H01074], the Inamori Foundation, and the Japan Science and Technology Agency (JST) CREST program [grant number: JPMJCR1413]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "JSPS KAKENHI",
+                    "award-id": [
+                        "15K20936"
+                    ]
+                },
+                {
+                    "funding-source": "Program for Advancing Strategic International Networks"
+                },
+                {
+                    "funding-source": "Accelerate the Circulation of Talented Researchers"
+                }
+            ],
+            "funding-statement": "K.M. acknowledges support from the JSPS KAKENHI [grant no. 15K20936], the Program for Advancing Strategic International Networks to Accelerate the Circulation of Talented Researchers (grant no"
+        }
+    ]
+}

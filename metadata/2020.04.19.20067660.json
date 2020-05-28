@@ -1,0 +1,16 @@
+{
+    "abstract": "Understanding the temporal dynamics of COVID-19 patient phenotypes is necessary to derive fine-grained resolution of pathophysiology. Here we use state-of-the-art deep neural networks over an institution-wide machine intelligence platform for the augmented curation of 15.8 million clinical notes from 30,494 patients subjected to COVID-19 PCR diagnostic testing. By contrasting the Electronic Health Record (EHR)-derived clinical phenotypes of COVID-19-positive (COVIDpos, n=635) versus COVID-19-negative (COVIDneg, n=29,859) patients over each day of the week preceding the PCR testing date, we identify anosmia/dysgeusia (37.4-fold), myalgia/arthralgia (2.6-fold), diarrhea (2.2-fold), fever/chills (2.1-fold), respiratory difficulty (1.9-fold), and cough (1.8-fold) as significantly amplified in COVIDpos over COVIDneg patients. The specific combination of cough and diarrhea has a 3.2-fold amplification in COVIDpos patients during the week prior to PCR testing, and along with anosmia/dysgeusia, constitutes the earliest EHR-derived signature of COVID-19 (4-7 days prior to typical PCR testing date). This study introduces an Augmented Intelligence platform for the real-time synthesis of institutional knowledge captured in EHRs. The platform holds tremendous potential for scaling up curation throughput, with minimal need for retraining underlying neural networks, thus promising EHR-powered early diagnosis for a broad spectrum of diseases.",
+    "author": "Stacey Rizza; Paschalis Vergidis; John Halamka; Philippe R Bauer; Zainab Doctor; Samir Awasthi; Arjun Puranik; FNU Shweta; Tyler Wagner; Karthik Murugadoss; Hugo Solomon; Martin Kang; AJ Venkatakrishnan; Andrew D Badley; Amy W Williams; Matt Liebers; John C O'Horo; Walter R Wilson; Gregory J Gores; Praveen Anand; Raymund R Razonable; Venky Soundararajan; Eli Silvert; Douglas Challener; Maryam Mahmood; Zelalem Temesgen; Brian W Pickering",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20067660",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20067660"
+    },
+    "title": "Augmented Curation of Unstructured Clinical Notes from a Massive EHR System Reveals Specific Phenotypic Signature of Impending COVID-19 Diagnosis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this study"
+        }
+    ]
+}

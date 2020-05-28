@@ -1,0 +1,16 @@
+{
+    "abstract": "Importance: Absent a vaccine or any established treatments for the novel and highly infectious coronavirus-19 (COVID-19), rapid efforts to identify potential therapeutics are required. Objective: To identify commonly-prescribed medications that may be associated with lesser risk of morbidity with COVID-19 across 5 Eastern Massachusetts hospitals. Design: In silico cohort using electronic health records between 7/1/2019 and 4/07/2020. Setting: Outpatient, emergency department and inpatient settings from 2 academic medical centers and 3 community hospitals. Participants: All individuals presenting to a clinical site and undergoing COVID-19 testing. Main Outcome or Measure: Inpatient hospitalization; documented requirement for mechanical ventilation. Results: Among 12,818 individuals with COVID-19 testing results available, 2271 (17.7%) were test-positive, and 707/2271 (31.1%) were hospitalized in one of 5 hospitals. Based on a comparison of ranked electronic prescribing frequencies, medications enriched among test-positive individuals not requiring hospitalization included ibuprofen, valacyclovir, and naproxen. Among individuals who were hospitalized, mechanical ventilation was documented in 213 (30.1%); ibuprofen and naproxen were also more commonly prescribed among individuals not requiring ventilation. Conclusions and Relevance: These preliminary findings suggest that electronic health records may be applied to identify medications associated with lower risk of morbidity with COVID-19, but larger cohorts will be required to address confounding by indication. Larger scale efforts at repositioning may help to identify FDA-approved medications meriting study for prevention of COVID-19 morbidity and mortality.",
+    "author": "Roy H Perlis; Victor M Castro; Sean MJ McBride; Rachel A Ross",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20061994",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20061994"
+    },
+    "title": "Identifying common pharmacotherapies associated with reduced COVID-19 morbidity using electronic health records",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received."
+        }
+    ]
+}

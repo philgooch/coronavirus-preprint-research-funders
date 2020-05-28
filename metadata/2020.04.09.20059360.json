@@ -1,0 +1,23 @@
+{
+    "abstract": "We argue that frequent sampling of the fraction of infected people (either by random testing or by analysis of sewage water), is central to managing the COVID-19 pandemic because it both measures in real time the key variable controlled by restrictive measures, and anticipates the load on the healthcare system due to progression of the disease. Knowledge of random testing outcomes will (i) significantly improve the predictability of the pandemic, (ii) allow informed and optimized decisions on how to modify restrictive measures, with much shorter delay times than the present ones, and (iii) enable the real-time assessment of the efficiency of new means to reduce transmission rates. Here we suggest, irrespective of the size of a suitably homogeneous population, a conservative estimate of 15000 for the number of randomly tested people per day which will suffice to obtain reliable data about the current fraction of infections and its evolution in time, thus enabling close to real-time assessment of the quantitative effect of restrictive measures. Still higher testing capacity permits detection of geographical differences in spreading rates. Furthermore and most importantly, with daily sampling in place, a reboot could be attempted while the fraction of infected people is still an order of magnitude higher than the level required for a relaxation of restrictions with testing focused on symptomatic individuals. This is demonstrated by considering a feedback and control model of mitigation where the feed-back is derived from noisy sampling data.",
+    "author": "Gabriel Aeppli; Peter Derlet; Christopher Mudry; Markus Mueller",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059360",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059360"
+    },
+    "title": "Using random testing in a feedback-control loop to manage a safe exit from the COVID-19 lockdown",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ERC HERO",
+                    "award-id": [
+                        "810451"
+                    ]
+                }
+            ],
+            "funding-statement": "GA acknowledges the support through the ERC HERO project under grant No 810451"
+        }
+    ]
+}

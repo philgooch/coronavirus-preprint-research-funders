@@ -1,0 +1,16 @@
+{
+    "abstract": "Contact tracing has been recommended as a critical component of containment strategies for COVID-19. We used a simple epidemic model to evaluate how contact tracing might enable modification of current physical distancing restrictions. Testing and tracing coverage need to exceed 50% in order to see substantial gains; if both are below 50%, contact tracing cannot reduce transmission by more than 10%. With 90% testing and tracing as well as high isolation and quarantine efficacy, contact tracing could reduce overall transmission by >45%, which would allow for partial loosening of physical distancing measures. Benefits of contact tracing could be enhanced by testing all contacts rather than only those with symptoms and by policies to support high adherence to voluntary isolation and quarantine.",
+    "author": "Farzad Mostashari; Alyssa Bilinski; Joshua A Salomon",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091280",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091280"
+    },
+    "title": "Contact tracing strategies for COVID-19 containment with attenuated physical distancing",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding sources"
+        }
+    ]
+}

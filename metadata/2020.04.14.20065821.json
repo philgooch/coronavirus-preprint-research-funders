@@ -1,0 +1,20 @@
+{
+    "abstract": "We examine available data on the number of individuals infected by the Covid-19 virus, across several different states in India, over the period January 30, 2020 to April 10, 2020. It is found that the growth of the number of infected individuals $N(t)$ can be modeled across different states with a simple linear function $N(t)=\\gamma+\\alpha t$ beyond the date when reasonable number of individuals were tested (and when a countrywide lockdown was imposed). The slope $\\alpha$ is different for different states. Following recent work by Notari (arxiv:2003.12417), we then consider the dependency of the $\\alpha$ for different states on the average maximum and minimum temperatures, the average relative humidity and the population density in each state. It turns out that like other countries, the parameter $\\alpha$, which determines the rate of rise of the number of infected individuals, seems to have a weak correlation with the average maximum temperature of the state. In contrast, any significant variation of $\\alpha$ with humidity or minimum temperature seems absent with almost no meaningful correlation. Expectedly, $\\alpha$ increases (slightly) with increase in the population density of the states; however, the degree of correlation here too is negligible. These results seem to barely suggest that a natural cause like a hot summer (larger maximum temperatures) may contribute towards reducing the transmission of the virus, though the role of minimum temperature, humidity and population density remains somewhat obscure from the inferences which may be drawn from presently available data.",
+    "author": "Sayan Kar; Anushree Roy",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065821",
+    "identifiers": {
+        "arxiv": "2003.12417",
+        "doc_id": null,
+        "doi": null,
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065821"
+    },
+    "title": "Nature of transmission of Covid19 in India",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding sources."
+        }
+    ]
+}

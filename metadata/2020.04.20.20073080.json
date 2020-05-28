@@ -1,0 +1,32 @@
+{
+    "abstract": "The threat of the COVID-19 pandemic of SARS-CoV-2 virus has grown since its start late last year. A customary response to a surge of a communicable disease is to separate healthcare systems into cohorts, such that patients with other conditions can be treated safely without risk of infection. A challenge with COVID-19 is the existence of currently asymptomatic infections, which without aggressive testing and isolation might enter the non-COVID-19 cohort either through unknowingly infected patients or health care workers. Using stochastic simulations we study the impacts of testing and personal protective equipment (PPE) use. In the base case without testing or PPE, healthcare is rapidly overwhelmed, and becomes a net contributor to the force of infection. We find that effective use of PPE by both HCW and patients can prevent this situation, while testing alone is less effective. We also find that even imperfectly effective use of PPE can provide substantial protection and decrease the force of infection. This illustrates the importance of maintaining supplies of PPE throughout healthcare systems",
+    "affiliations": [
+        "National Institute Of General Medical Sciences of the National Institutes of Health under Award Number U54GM088558. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health"
+    ],
+    "author": "William P Hanage; Joel C Miller; Xueting Qiu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20073080",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20073080"
+    },
+    "title": "The risk of SARS-CoV-2 transmission in the healthcare setting and potential impact of cohorting strategies",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute Of General Medical Sciences of the National Institutes of Health",
+                    "award-id": [
+                        "U54GM088558"
+                    ]
+                },
+                {
+                    "funding-source": "Award Number",
+                    "award-id": [
+                        "U54GM088558"
+                    ]
+                }
+            ],
+            "funding-statement": "XQ and WPH were supported by the National Institute Of General Medical Sciences of the National Institutes of Health under Award Number U54GM088558"
+        }
+    ]
+}

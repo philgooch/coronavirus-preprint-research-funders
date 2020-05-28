@@ -1,0 +1,26 @@
+{
+    "abstract": "We updated previous estimates (wwwnc.cdc.gov/eid/article/26/8/20-0679_article) of adults with any underlying condition increasing risk of complications from COVID-19 using recent US hospitalization data instead of mortality data from China. This substitutes obesity for cancer in the definition and increased the percentage of adults reporting more than 1 condition to 56.0% (95% CI 55.7-56.4). When controlled for all measures listed, factors increasing odds of reporting any of the underlying conditions include being male, older, African American, American Indian, household income\nCompeting Interest Statement",
+    "author": "Mary L Adams; Joseph Grandpre; David L Katz",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20088781",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20088781"
+    },
+    "title": "Updated estimates of comorbidities associated with risk for COVID-19 complications based on US data",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Centers for Disease Control and Prevention"
+                },
+                {
+                    "funding-source": "Cooperative Agreement",
+                    "award-id": [
+                        "1U58DP006069-01"
+                    ]
+                }
+            ],
+            "funding-statement": "Data collection, analysis, and interpretation of data for this study were supported by the Centers for Disease Control and Prevention (CDC) Grant/Cooperative Agreement number 1U58DP006069-01"
+        }
+    ]
+}

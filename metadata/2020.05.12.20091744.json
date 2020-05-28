@@ -1,0 +1,16 @@
+{
+    "abstract": "Accurate estimates of the burden of SARS-CoV-2 infection are critical to informing pandemic response. Current confirmed COVID-19 case counts in the U.S. do not capture the total burden of the pandemic because testing has been primarily restricted to individuals with moderate to severe symptoms due to limited test availability. Using a semi-Bayesian probabilistic bias analysis to account for incomplete testing and imperfect diagnostic accuracy, we estimated 6,275,072 cumulative infections compared to 721,245 confirmed cases (1.9% vs. 0.2% of the population) as of April 18, 2020. Accounting for uncertainty, the number of infections was 3 to 20 times higher than the number of confirmed cases. 86% (simulation interval: 64-99%) of this difference was due to incomplete testing, while 14% (0.3-36%) was due to imperfect test accuracy. Estimates of SARS-CoV-2 infections that transparently account for testing practices and diagnostic accuracy reveal that the pandemic is larger than confirmed case counts suggest.",
+    "author": "John M Colford; Anna Nguyen; Andrew Mertens; Anmol Seth; Sean L Wu; Yoshika S Crider; Michelle S Hsiang; Benjamin F Arnold; Alan Hubbard; Nolan N Pokpongkiat; Stephanie Djajadi; Jade Benjamin-Chung; Art Reingold",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20091744",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20091744"
+    },
+    "title": "Substantial underestimation of SARS-CoV-2 infection in the United States due to incomplete testing and imperfect test accuracy",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This study was supported by FluLab"
+        }
+    ]
+}

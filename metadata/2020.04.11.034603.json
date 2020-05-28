@@ -1,0 +1,27 @@
+{
+    "title": "Cell-Type-Specific Expression of Renin-Angiotensin-System Components in the Human Body and Its Relevance to SARS-CoV-2 Infection",
+    "date": 2020,
+    "author": "Hemant Suryawanshi, Pavel Morozov, Thangamani Muthukumar, Benjamin R. tenOever, Masashi Yamaji, Zev Williams, Thomas Tuschl",
+    "affiliations": [
+        "Laboratory of RNA Molecular Biology, The Rockefeller University, New York, NY, USA",
+        "Division of Nephrology and Hypertension, Department of Medicine, Weill Cornell Medical College, New York, NY, USA",
+        "Department of Transplantation Medicine, New York Presbyterian Hospital-Weill Cornell Medical College, New York, NY, USA",
+        "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, USA",
+        "Virus Engineering Center for Therapeutics and Research (VECToR), Icahn School of Medicine at Mount Sinai, New York, USA",
+        "Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount Sinai, New York, USA",
+        "Divisions of Reproductive Sciences and Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA",
+        "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA",
+        "Department of Obstetrics and Gynecology, Columbia University Medical Center, New York, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.11.034603",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.11.034603.pdf"
+    },
+    "abstract": "We have analyzed the cell-type-specific expression of the renin-angiotensin system (RAS) components across 141 cell types or subtypes as defined by single-cell RNA-seq (scRNAseq) analysis. ACE2, one of the components of RAS, also facilitates SARS-CoV-2 entry into cells in cooperation with its associated protease TMPRSS2. Therefore, our analysis also contributes to the understanding of SARS-CoV-2 infection, spreading of the virus throughout the body, and potential viral interference with RAS in COVID-19 patients.\nThe COVID-19 pandemic caused by SARS coronavirus 2 (SARS-CoV-2) has created a global health emergency with more than a million confirmed cases as of April 4, 20201. For cellular entry, SARS-CoV-2 relies on the interaction of its glycosylated viral spike (S) protein with the host membrane-bound aminopeptidase angiotensin-converting enzyme 2 (ACE2). Subsequently, transmembrane protease serine 2 (TMPRSS2) cleaves S and/or ACE2 protein, which facilitates the fusion of viral and cellular membranes2. ACE2 is also a crucial component of RAS, which regulates several key physiological processes such as blood pressure and electrolyte balance and viral infection of ACE2-expressing cells may impair RAS function3.",
+    "funding": [
+        {}
+    ]
+}

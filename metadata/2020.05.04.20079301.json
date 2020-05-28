@@ -1,0 +1,62 @@
+{
+    "abstract": "Background: There is an ongoing pandemic of the viral respiratory disease COVID-19. People experiencing homelessness are vulnerable to infection and severe disease. Health and housing authorities in England have developed a residential intervention that aims to isolate those vulnerable to severe disease (COVID-PROTECT) and care for people with symptoms (COVID CARE). Methods: We used a discrete-time Markov chain model to forecast COVID-19 infections among people experiencing homelessness, given strong containment measures in the general population and some transmission among 35,817 people living in 1,065 hostels, and 11,748 people sleeping rough (the 'do nothing' scenario). We then estimated demand for beds if those eligible are offered COVID-PROTECT and COVID-CARE. We estimated the reduction in the number of COVID-19 cases, deaths, and hospital admissions that could be achieved by these interventions. We also conducted sensitivity and scenario analyses to identify programme success factors. Results: In a 'do nothing' scenario, we estimate that 34% of the homeless population could get COVID-19 between March and August 2020, with 364 deaths, 4,074 hospital admissions and 572 critical care admissions. In our 'base intervention' scenario, demand for COVID-PROTECT peaks at 9,934 beds, and demand for COVID-CARE peaks at 1,366 beds. The intervention could reduce transmission by removing symptomatic individuals from the community, and preventing vulnerable individuals from being infected. This could lead to a reduction of 164 deaths, 2,624 hospital admissions, and 248 critical care admissions over this period. Sensitivity analyses showed that the number of deaths is sensitive to transmission of COVID-19 in COVID-PROTECT. If COVID-PROTECT capacity is limited, scenario analyses show the benefit of prioritising people who are vulnerable to severe disease. Conclusion: Supportive accommodation can mitigate the impact of the COVID-19 pandemic on the homeless population of England, and reduce the burden on acute hospitals.\nCompeting Interest Statement",
+    "affiliations": [
+        "Wellcome Clinical Research Career Development Fellowship [206602]. ME is funded by a studentship from the Medical Research Council, United Kingdom"
+    ],
+    "author": "Miriam Bullock; Robert W Aldridge; Dan Lewer; Isobel Braithwaite; Max T Eyre",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20079301",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20079301"
+    },
+    "title": "COVID-19 and homelessness in England: a modelling study of the COVID-19 pandemic among people experiencing homelessness, and the impact of a residential intervention to isolate vulnerable people and care for people with symptoms",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Doctoral Research Fellowship",
+                    "award-id": [
+                        "DRF-2018-11-ST2-016"
+                    ]
+                }
+            ],
+            "funding-statement": "DL is funded by the National Institute for Health Research (NIHR) [Doctoral Research Fellowship DRF-2018-11-ST2-016]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Academic Clinical Fellowship"
+                }
+            ],
+            "funding-statement": "IB is funded by an NIHR Academic Clinical Fellowship"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust"
+                },
+                {
+                    "funding-source": "Wellcome Clinical Research Career Development Fellowship",
+                    "award-id": [
+                        "206602"
+                    ]
+                }
+            ],
+            "funding-statement": "RWA was supported by the Wellcome Trust through a Wellcome Clinical Research Career Development Fellowship [206602]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council, United"
+                }
+            ],
+            "funding-statement": "ME is funded by a studentship from the Medical Research Council, United Kingdom"
+        }
+    ]
+}

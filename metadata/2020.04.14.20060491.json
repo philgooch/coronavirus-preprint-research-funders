@@ -1,0 +1,16 @@
+{
+    "abstract": "This manuscript is based on the a simple but robust model we developed urgently to accurately monitor and predict viral dynamics for each SARS-CoV-2-infected patient, given the limited number of RT-PCR tests and the complexity of each individual's physical health situation. In this study, we used the mathematical model to monitor and predict the changes of viral loads from different nasal and throat swab of clinical specimens collected from diagnosed patients. We also tested our real time model by using the data from the SARS-CoV-2-infected patients with different severity. By using this personal model, we can predict the viral dynamics of patients, minimize false-negative test results, and screen the patients who are at risk of testing positive again after recovery. We sincerely thank those who are on the front lines battling SARS-CoV-2 virus. We hope this model will be useful for SARS-CoV-2-infected patients.",
+    "author": "Yi Wang; shaoqing wen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20060491",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20060491"
+    },
+    "title": "Monitoring and predicting viral dynamics in SARS-CoV-2-infected Patients",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

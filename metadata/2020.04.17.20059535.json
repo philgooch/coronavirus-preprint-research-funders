@@ -1,0 +1,16 @@
+{
+    "abstract": "As the number of people affected by COVID-19 disease caused by the novel coronavirus SARS-CoV-2 ebbs and flows in different national and sub-national regions across the world, it is evident that our lifestyle and socio-economic trajectories will have to be adapted and adjusted to the changing scenarios. Novel forecasting tools and frameworks provide an arguable advantage to facilitate this adapting and adjusting process, by promoting efficient resource management at individual and institutional levels. Based on deterministic compartment models we propose an empirical top-down modeling approach to provide epidemic forecasts and risk calculations for (local) outbreaks. We use neural networks to develop leading indicators based on available data for different regions. These indicators are not only used to assess the risk of a (new) outbreak or to determine the effectiveness of a measure at an early stage, but also in parametric models to determine an effective forecast, along with the associated uncertainty. Based on initial results, we show the performance of such an approach and its robustness against inherent disturbances in epidemiological surveillance data. We foresee such a statistical framework to drive web-based automatic platforms to democratize the dissemination of prognosis results.",
+    "author": "Carsten Uhlig; Steffen Uhlig; Kapil Nichani; Kirsten Simon",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20059535",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20059535"
+    },
+    "title": "Modeling projections for COVID-19 pandemic by combining epidemiological, statistical, and neural network approaches",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

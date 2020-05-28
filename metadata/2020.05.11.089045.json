@@ -1,0 +1,45 @@
+{
+    "title": "Activation of the SARS-CoV-2 receptor Ace2 by cytokines through pan JAK-STAT enhancers",
+    "date": 2020,
+    "author": "Lothar Hennighausen and Hye Kyung Lee",
+    "affiliations": [
+        "Laboratory of Genetics and Physiology, National Institute of Diabetes and Digestive and Kidney Diseases, US National Institutes of Health, Bethesda, Maryland 20892, USA",
+        "Correspondence to: L.H"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.11.089045",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.11.089045.pdf"
+    },
+    "abstract": "ACE2, in concert with the protease TMPRSS2, binds the novel coronavirus SARS-CoV2 and facilitates its cellular entry. The ACE2 gene is expressed in SARS-CoV-2 target cells, including Type II Pneumocytes (Ziegler, 2020), and is activated by interferons. Viral RNA was also detected in breast milk (Wu et al., 2020), raising the possibility that ACE2 expression is under the control of cytokines through the JAK-STAT pathway. Here we show that Ace2 expression in mammary tissue is induced during pregnancy and lactation, which coincides with the establishment of a candidate enhancer. The prolactin-activated transcription factor STAT5 binds to tandem sites that coincide with activating histone enhancer marks and additional transcription components. The presence of pan JAKSTAT components in mammary alveolar cells and in Type II Pneumocytes combined with the autoregulation of both STAT1 and STAT5 suggests a prominent role of cytokine signaling pathways in cells targeted by SARS-CoV-2.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intramural Research Program"
+                },
+                {
+                    "funding-source": "National Institute of Diabetes and Digestive and Kidney Diseases"
+                },
+                {
+                    "funding-source": "NIH HPC Biowulf",
+                    "award-id": [
+                        "http://hpc.nih.gov"
+                    ]
+                },
+                {
+                    "funding-source": "Original Draft,"
+                },
+                {
+                    "funding-source": "Review & Editing,"
+                },
+                {
+                    "funding-source": "Funding Acquisition,"
+                }
+            ],
+            "funding-statement": "This work was supported by the Intramural Research Program (IRP) of the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) and utilized the computational resources of the NIH HPC Biowulf cluster (http://hpc.nih.gov). Author contributions Conceptualization, H.K.L. and L.H.; Investigation, H.K.L.; Writing \u2013 Original Draft, L.H.; Writing \u2013 Review & Editing, H.K.L. and L.H.; Visualization, H.K.L; Supervision, H.K.L. and L.H.; Funding Acquisition, H.K.L. and L.H"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "abstract": "The COVID-19 pandemic is straining public health systems worldwide and major non-pharmaceutical interventions have been implemented to slow its spread. During the initial phase of the outbreak the spread was primarily determined by human mobility. Yet empirical evidence on the effect of key geographic factors on local epidemic spread is lacking. We analyse highly-resolved spatial variables for cities in China together with case count data in order to investigate the role of climate, urbanization, and variation in interventions across China. Here we show that the epidemic intensity of COVID-19 is strongly shaped by crowding, such that epidemics in dense cities are more spread out through time, and denser cities have larger total incidence. Observed differences in epidemic intensity are well captured by a metapopulation model of COVID-19 that explicitly accounts for spatial hierarchies. Densely-populated cities worldwide may experience more prolonged epidemics. Whilst stringent interventions can shorten the time length of these local epidemics, although these may be difficult to implement in many affected settings.",
+    "affiliations": [
+        "Oxford Martin School. ALH and AN acknowledge funding from the US National Institutes of Health (DP5OD019851). The funding bodies had no role in study design, data collection and analysis, preparation of the manuscript, or the decision to publish. All authors have seen and approved the manuscript"
+    ],
+    "author": "Benjamin Rader; David Pigott; Marcia Castro; Munik Shrestha; Oliver Pybus; Samuel Scarpino; Huaiyu Tian; John Brownstein; Bernardo Gutierrez; Robert Reiner; Moritz U.G. Kraemer; Anjalika Nande; Alison Hill",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20064980",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20064980"
+    },
+    "title": "Crowding and the epidemic intensity of COVID-19 transmission",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "BR acknowledges funding from Google.org"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Commission",
+                    "award-id": [
+                        "H2020"
+                    ]
+                },
+                {
+                    "funding-source": "MOOD project"
+                },
+                {
+                    "funding-source": "Branco Weiss Fellowship"
+                }
+            ],
+            "funding-statement": "MUGK acknowledges funding from European Commission H2020 program (MOOD project) and a Branco Weiss Fellowship"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Oxford Martin School"
+                }
+            ],
+            "funding-statement": "OGP and HT acknowledge funding from the Oxford Martin School"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "US National Institutes of Health",
+                    "award-id": [
+                        "DP5OD019851"
+                    ]
+                }
+            ],
+            "funding-statement": "ALH and AN acknowledge funding from the US National Institutes of Health (DP5OD019851)"
+        }
+    ]
+}

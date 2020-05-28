@@ -1,0 +1,20 @@
+{
+    "abstract": "Importance: Severe acute respiratory syndrome coronavirus (SARS-CoV-2) and the associated coronavirus disease of 2019 (COVID-19) have presented immense challenges for health care systems. Many regions have struggled to adapt to disruptions to health care practice and employ systems that effectively manage the demand for services. Objective: To examine the effectiveness of the first five weeks of a 24/7 physician-staffed COVID-19 hotline. Design: Cohort study using electronic health records. Setting: A single large health care system in Northeast Ohio. Participants: During 5 weeks of operation, 10,112 patients called the hotline (callers) and were evaluated by a registered nurse (RN) using standardized protocols. Of these, 4,213 (42%) were referred for a physician telehealth visit (telehealth patients). The mean age of callers was 42 years. 67% were female, 51% white, and 46% were on Medicaid or uninsured. Intervention: Physician telehealth visits for COVID-19. Main Outcomes and Measures: We describe clinical diagnosis, patient characteristics (age, sex race/ethnicity, smoking status, insurance status), and visit disposition. We use logistic regression to evaluate associations between patient characteristics, visit disposition and subsequent emergency department use, hospitalization, and SARS-Cov-2 PCR testing. Results: Common caller concerns included cough, fever, and shortness of breath. Most telehealth patients (79%) were advised to self-isolate at home, 14% were determined to be unlikely to have COVID-19, 3% were advised to seek emergency care, and 4% had miscellaneous other dispositions. A total of 287 (7%) patients had a subsequent ED visit, and 44 (1%) were hospitalized with a COVID-19 diagnosis. Of the callers, 482 (5%) had a COVID-19 test reported with 69 (14%) testing positive. Among patients advised to stay at home, 83% had no further face-to-face visits. In multivariable results, only a physician recommendation to seek emergency care was associated with emergency room use (OR=4.73, 95%CI 1.37-16.39, p=.014). Only older age was associated with having a positive test result. Conclusions and Relevance: Robust, physician-directed telehealth services can meet a wide range of needs during the acute phase of a pandemic, conserving scarce resources such as personal protective equipment and testing supplies and preventing the spread of infections to patients and health care workers.",
+    "author": "Jimmy Yaho; Nabil Chehade; Mary Hennekes; David Margolius; Douglas Einstadter; Adam T Perzynski; Ashwini R Sehgal; Douglas Gunzler; Yasir Tarabichi",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095745",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095745"
+    },
+    "title": "On the Front (Phone) Lines: Results of a COVID-19 Hotline in Northeast Ohio",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "MetroHealth System"
+                }
+            ],
+            "funding-statement": "This work was supported by the MetroHealth System"
+        }
+    ]
+}

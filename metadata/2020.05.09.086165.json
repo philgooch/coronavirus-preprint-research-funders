@@ -1,0 +1,51 @@
+{
+    "title": "ACE2 and TMPRSS2 are expressed on the human ocular surface, suggesting susceptibility to SARS-CoV-2 infection",
+    "author": "Lingli Zhoua,c, Zhenhua Xua, Gianni M. Castiglionea, Uri S. Soibermana, Charles G. Eberharta,b, Elia J. Duha",
+    "date": 2020,
+    "affiliations": [
+        "Department of Ophthalmology, Johns Hopkins University School of Medicine, Baltimore, MD USA",
+        "Department of Pathology, Johns Hopkins University School of Medicine",
+        "State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen University, Guangzhou, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.09.086165",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.09.086165.pdf"
+    },
+    "abstract": "Purpose: Conjunctival signs and symptoms are observed in a subset of patients with COVID-19, and\nSARS-CoV-2 has been detected in tears, raising concerns regarding the eye both as a portal of entry and carrier of the virus. The purpose of this study was to determine whether ocular surface cells possess the key factors required for cellular susceptibility to SARS-CoV-2 entry/infection.\nMethods: We analyzed human post-mortem eyes as well as surgical specimens for the expression of\nACE2 (the receptor for SARS-CoV-2) and TMPRSS2, a cell surface-associated protease that facilitates viral entry following binding of the viral spike protein to ACE2.",
+    "keywords": [
+        "conjunctiva",
+        "cornea",
+        "ocular surface",
+        "human",
+        "ACE2",
+        "SARS-CoV-2",
+        "COVID-19"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "EY022383",
+                        "EY022683",
+                        "to E.J.D."
+                    ]
+                },
+                {
+                    "funding-source": "Core Grant",
+                    "award-id": [
+                        "P30EY001765"
+                    ]
+                },
+                {
+                    "funding-source": "Imaging and Microscopy Core Module"
+                }
+            ],
+            "funding-statement": "This work was supported by research grants from the National Institutes of Health (EY022383 and EY022683; to E.J.D.) and Core Grant P30EY001765, Imaging and Microscopy Core Module"
+        }
+    ]
+}

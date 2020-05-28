@@ -1,0 +1,31 @@
+{
+    "title": "Designing a multi-epitope peptide-based vaccine against SARS-CoV-2",
+    "author": "Abhishek Singh",
+    "date": 2020,
+    "affiliations": [
+        "Gujarat Forensic Sciences University, Sector 9, Gandhinagar, Gujarat 382007, India",
+        "Scientist C - Centre for DNA Taxonomy &",
+        "Coordinator - Centre for Forensic Sciences",
+        "Zoological Survey of India, New Alipore",
+        "Kolkata-700053, West Bengal, India",
+        "Mobile: +91-8171051282; FAX : 91-33-24008595 12 E. mail:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.15.040618",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.15.040618.pdf"
+    },
+    "abstract": "COVID-19 pandemic has resulted so far 14,395,16 confirmed cases with 85,711 deaths from the 212 countries, or territories. Due to multifacet issues and challenges in implementation of the safety & preventive measures, inconsistent coordination between societies-governments and most importanly lack of specific vaccine to SARS-CoV-2, the spread of Wuhan originated virus is still uprising after taking a heavy toll on human life. In the present study, we mapped several immunogenic epitopes (B-cell, T-cell, and IFN-gamma) over the entire structural proteins of SARS-CoV-2 and by applying various computational and immunoinformatics approaches, we designed a multi-epitope peptide based vaccine that predicted high immunogenic response in the largest proportion of world's human population. To ensure high expression of the recombinant vaccine in E. coli, codon optimization and in-silico cloning were also carried out. The designed vaccine with high molecular affinity to TLR3 and TLR4, was found capable to initiate effective innate and adaptive immune response. The immune simulation also suggested uprising high levels of both B-cell and T-cell mediated immunity which on subsequent exposure cleared antigen from the system. The proposed vaccine found promising by yielding desired results and hence, should be tested by practical experimentations for its functioning and efficacy to neutralize SARS-CoV-2.",
+    "keywords": [
+        "SARS-CoV-2",
+        "structural proteins",
+        "multi-epitope vaccine",
+        "immunoinformatics",
+        "32 computational modelling"
+    ],
+    "funding": [
+        {}
+    ]
+}

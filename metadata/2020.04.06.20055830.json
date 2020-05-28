@@ -1,0 +1,16 @@
+{
+    "abstract": "We propose a Gauss model (GM), a map from time to the bell-shaped Gauss function to model the casualties per day and country, as a quick and simple model to make predictions on the coronavirus epidemic. Justified by the sigmoidal nature of a pandemic, i.e. initial exponential spread to eventual saturation, we apply the GM to the first corona pandemic wave using data from 25 countries, for which a sufficient amount of not yet fully developed data exists, as of April 2, 2020, and study the model's predictions. We find that logarithmic daily fatalities caused by Covid-19 are well described by a quadratic function in time. By fitting the data to second order polynomials from a statistical chi2-fit with 95% confidence, we are able to obtain the characteristic parameters of the GM, i.e. a width, peak height and time of peak, for each country separately. We provide evidence that this supposedly oversimplifying model might still have predictive power and use it to forecast the further course of the fatalities caused by Covid-19 per country, including peak number of deaths per day, date of peak, and duration within most deaths occur. While our main goal is to present the general idea of the simple modeling process using GMs, we also describe possible estimates for the number of required respiratory machines and the duration left until the number of infected will be significantly reduced.",
+    "author": "Reinhard Schlickeiser; Janik Schuttler; Martin Kroger; Frank Schlickeiser",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20055830",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055830"
+    },
+    "title": "Covid-19 predictions using a Gauss model, based on data from April 2",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Authors received no funding."
+        }
+    ]
+}

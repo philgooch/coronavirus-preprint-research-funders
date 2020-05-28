@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Pandemics do not occur frequently and when they do there is a paucity of predictive tools that could help drive government responses to mitigate worst outcomes. Here we provide a forecasting model that is based on measurable variables and that strives for simplicity over complexity to obtain stable convergent forecasts of death, prevalence, incidence, and safe days for social easing. Methods: We assume, based on prior pandemic data, that death rate rise and fall approximately follows a Gaussian distribution, which can be asymmetric, which we describe. By taking daily death data for foreign countries and U.S. states and fitting it to an appropriate Gaussian function provides an estimate of where in the cycle a particular population lies. From that time point one can integrate remaining time to obtain a final total death. By also using measured values for the time from infection to recovery or death and a mortality factor, the prevalence (active cases) and incidence (new cases) totals and rate curves can be constructed. It is also possible by setting a downward threshold on prevalence that an estimate of a minimum date to begin relaxing social restrictions may be considered. Results: To demonstrate the model we chose the most severe hot-bed countries and U.S. states as a test-bed to evolve and improve our model and to compare with other models. The model can readily be applied to other countries by inputting data from public data bases. We also compare our forecasts to the University of Washington (UW) IHME model and are reassuringly similar yet show less variability on a weekly basis. The sum of squares for error (SSE) for international and U.S. states, respectively, that we track are: 34% and 33% for our model vs. 49% and 59% for the IHME model. Conclusions: Our model appears closest to the UW IHME model; however, there are important differences and while both models forecast many of the same results of interest, each one offers unique benefits that the other does not. We believe that the model reported here excels for its simplicity, which makes the model easy to use.\nCompeting Interest Statement",
+    "author": "Jack A. Syage",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20104430",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20104430"
+    },
+    "title": "A Real-Time Statistical Model for Tracking and Forecasting COVID-19 Deaths, Prevalence and Incidence",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was provided for this work."
+        }
+    ]
+}

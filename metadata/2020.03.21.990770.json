@@ -1,0 +1,62 @@
+{
+    "title": "Potent human neutralizing antibodies elicited by SARS-CoV-2 infection 2 Bin Ju1,2,*, Qi Zhang3,*, Xiangyang Ge1, Ruoke Wang3, Jiazhen Yu1, Sisi Shan3, 3 Bing Zhou1, Shuo Song1, Xian Tang1, Jinfang Yu4, Jiwan Ge4, Jun Lan4, Jing 4 Yuan5, Haiyan Wang1, Juanjuan Zhao1,2, Shuye Zhang6, Youchun Wang7, 5 Xuanling Shi3, Lei Liu1,2, Xinquan Wang4, Zheng Zhang1,2#, and Linqi Zhang3#",
+    "date": 2020,
+    "author": "1Institute for Hepatology, National Clinical Research Center for Infectious 8 Disease, Shenzhen Third People\u2019s Hospital, Shenzhen 518112, Guangdong 9 Province, China 10 2The Second Affiliated Hospital, School of Medicine, Southern University of 11 Science and Technology, Shenzhen 518055, Guangdong Province, China. 12 3Center for Global Health and Infectious Diseases, Comprehensive AIDS 13 Research Center, and Beijing Advanced Innovation Center for Structural 14 Biology, School of Medicine, Tsinghua University, Beijing 100084, China",
+    "affiliations": [
+        "Institute for Hepatology, National Clinical Research Center for Infectious",
+        "Disease, Shenzhen Third People\u2019s Hospital, Shenzhen 518112, Guangdong",
+        "Province, China 10",
+        "The Second Affiliated Hospital, School of Medicine, Southern University of",
+        "Science and Technology, Shenzhen 518055, Guangdong Province, China. 12",
+        "Center for Global Health and Infectious Diseases, Comprehensive AIDS",
+        "Research Center, and Beijing Advanced Innovation Center for Structural",
+        "Biology, School of Medicine, Tsinghua University, Beijing 100084, China",
+        "Education Key Laboratory of Protein Science, Beijing",
+        "Advanced Innovation Center for Structural Biology, Beijing Frontier Research",
+        "Center for Biological Structure, Collaborative Innovation Center for Biotherapy",
+        "School of Life Sciences, Tsinghua University, 100084 Beijing, China",
+        "Department for Infectious Diseases, Shenzhen Third People\u2019s Hospital, 20 Shenzhen, Guangdong Province 518112, China",
+        "Public Health Clinical Center and Institute of Biomedical Sciences, 22 Fudan University, Shanghai 201508, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.21.990770",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.21.990770.pdf"
+    },
+    "abstract": "The pandemic caused by emerging coronavirus SARS-CoV-2 presents a serious global public health emergency in urgent need of prophylactic and therapeutic interventions. SARS-CoV-2 cellular entry depends on binding between the viral Spike protein receptor-binding domain (RBD) and the angiotensin converting enzyme 2 (ACE2) target cell receptor. Here, we report on the isolation and characterization of 206 RBD-specific monoclonal antibodies (mAbs) derived from single B cells of eight SARS-CoV-2 infected individuals. These mAbs come from diverse families of antibody heavy and light chains without apparent enrichment for particular families in the repertoire. In samples from one patient selected for further analyses, we found coexistence of germline and germline divergent clones. Both clone types demonstrated impressive binding and neutralizing activity against pseudovirus and live SARS43 CoV-2. However, the antibody neutralizing potency is determined by competition with ACE2 receptor for RBD binding. Surprisingly, none of the SARS-CoV-2 antibodies nor the infected plasma cross-reacted with RBDs from either SARS-CoV or MERS-CoV although substantial plasma cross-reactivity to the trimeric Spike proteins from SARS-CoV and MERS-CoV was found. These results suggest that antibody response to RBDs is viral species-specific while that cross-recognition target regions outside the RBD. The specificity and neutralizing characteristics of this plasma cross-reactivity requires further investigation. Nevertheless, the diverse and potent neutralizing antibodies identified here are promising candidates for prophylactic and therapeutic SARS-CoV-2 interventions.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation,"
+                },
+                {
+                    "funding-source": "Science and Technology Innovation Committee of Shenzhen Municipality",
+                    "award-id": [
+                        "202002073000002"
+                    ]
+                },
+                {
+                    "funding-source": "Tsinghua University Initiative Scientific Research Program",
+                    "award-id": [
+                        "20201080053"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by Bill & Melinda Gates Foundation, the Science and Technology Innovation Committee of Shenzhen Municipality (202002073000002), and by Tsinghua University Initiative Scientific Research Program (20201080053)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation Award",
+                    "award-id": [
+                        "81530065"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is also partially supported by the National Natural Science Foundation Award (81530065),"
+        }
+    ]
+}

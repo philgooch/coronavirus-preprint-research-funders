@@ -1,0 +1,38 @@
+{
+    "abstract": "The ongoing pandemic of SARS-CoV-2, a novel coronavirus, caused over 3 million reported cases of coronavirus disease 2019 (COVID-19) and 200,000 reported deaths between December 2019 and April 2020. Cases and deaths will increase as the virus continues its global march outward. In the absence of effective pharmaceutical interventions or a vaccine, wide-spread virological screening is required to inform where restrictive isolation measures should be targeted and when they can be lifted. However, limitations on testing capacity have restricted the ability of governments and institutions to identify individual clinical cases, appropriately measure community prevalence, and mitigate transmission. Group testing offers a way to increase efficiency, by combining samples and testing a small number of pools. Here, we evaluate the effectiveness of group testing designs for individual identification or prevalence estimation of SARS-CoV-2 infection when testing capacity is limited. To do this, we developed mathematical models for epidemic spread, incorporating empirically measured individual-level viral kinetics to simulate changing viral loads in a large population over the course of an epidemic. We used these to construct representative populations and assess pooling strategies for community screening, accounting for variability in viral load samples, dilution effects, changing prevalence and resource constraints. We confirmed our group testing framework through pooled tests on de-identified human nasopharyngeal specimens with viral loads representative of the larger population. We show that group testing designs can both accurately estimate overall prevalence using a small number of measurements and substantially increase the identification rate of infected individuals in resource-limited settings.",
+    "affiliations": [
+        "Merkin Institute Fellowship at the Broad Institute of MIT and Harvard (B.C.), by the National Institute of General Medical Sciences (#U54GM088558; JAH and MJM); and by an NIH DP5 grant (MJM)"
+    ],
+    "author": "Michael J Mina; Brendan Blumenstiel; Stacey Gabriel; James A Hay; Aviv Regev; Brian Cleary",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20086801",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20086801"
+    },
+    "title": "Efficient prevalence estimation and infected sample identification with group testing for SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Merkin Institute Fellowship"
+                },
+                {
+                    "funding-source": "Broad Institute of MIT and Harvard"
+                },
+                {
+                    "funding-source": "National Institute of General Medical Sciences",
+                    "award-id": [
+                        "U54GM088558"
+                    ]
+                },
+                {
+                    "funding-source": "JAH and MJM)"
+                },
+                {
+                    "funding-source": "NIH"
+                }
+            ],
+            "funding-statement": "Work was supported by the Merkin Institute Fellowship at the Broad Institute of MIT and Harvard (B.C.), by the National Institute of General Medical Sciences (#U54GM088558; JAH and MJM); and by an NIH DP5 grant (MJM)"
+        }
+    ]
+}

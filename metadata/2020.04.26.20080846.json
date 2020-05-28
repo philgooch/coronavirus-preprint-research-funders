@@ -1,0 +1,16 @@
+{
+    "abstract": "The global outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection causing coronavirus disease 2019 (COVID-19) reached over two million confirmed cases worldwide, and numbers are still growing at a fast rate. The majority of new infections are now being reported outside of China, where the outbreak officially originated in December 2019 in Wuhan. Despite the wide outbreak of the infection, a remarkable asymmetry is observed in the number of cases and in the distribution of the severity of the COVID-19 symptoms in patients with respect to the countries/regions. In the early stages of a new pathogen outbreak, it is critical to understand the dynamics of the infection transmission, in order to follow contagion over time and project the epidemiological situation in the near future. While it is possible to reason that observed variation in the number and severity of cases stem from the initial number of infected individuals, the difference in the testing policies and social aspects of community transmissions, the factors that could explain high discrepancy in areas with a similar level of healthcare still remain unknown. Here we introduce a binary classifier based on an artificial neural network that can help in explaining those differences and that can be used to support the design of containment policies. We propose that air pollutants, and specifically particulate matter (PM) 2.5 and ozone, are oppositely related with the SARS-CoV-2 infection frequency and could serve as surrogate markers to complement the infection outbreak anticipation.",
+    "author": "Manfred Schmidt; Raffaele Fronza; Marina Lusic; Bojana Lucic",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20080846",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20080846"
+    },
+    "title": "Spatial-temporal variations of atmospheric factors contribute to SARS-CoV-2 outbreak",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

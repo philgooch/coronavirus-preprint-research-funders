@@ -1,0 +1,32 @@
+{
+    "abstract": "Background Since its emergence in late 2019, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused a pandemic, with more than 4.8 million reported cases and 310 000 deaths worldwide. While epidemiological and clinical characteristics of COVID-19 have been reported, risk factors underlying the transition from mild to severe disease among patients remain poorly understood. Methods In this retrospective study, we analysed data of 820 confirmed COVID-19 positive patients admitted to a two-site NHS Trust hospital in London, England, between January 1st and April 23rd, 2020, with a majority of cases occurring in March and April. We extracted anonymised demographic data, physiological clinical variables and laboratory results from electronic healthcare records (EHR) and applied multivariate logistic regression, random forest and extreme gradient boosted trees. To evaluate the potential for early risk assessment, we used data available during patients' initial presentation at the emergency department (ED) to predict deterioration to one of three clinical endpoints in the remainder of the hospital stay: A) admission to intensive care, B) need for mechanical ventilation and C) mortality. Based on the trained models, we extracted the most informative clinical features in determining these patient trajectories. Results Considering our inclusion criteria, we have identified 126 of 820 (15%) patients that required intensive care, 62 of 808 (8%) patients needing mechanical ventilation, and 170 of 630 (27%) cases of in-hospital mortality. Our models learned successfully from early clinical data and predicted clinical endpoints with high accuracy, the best model achieving AUC-ROC scores of 0.75 to 0.83 (F1 scores of 0.41 to 0.56). Younger patient age was associated with an increased risk of receiving intensive care and ventilation, but lower risk of mortality. Clinical indicators of a patient's oxygen supply and selected laboratory results were most predictive of COVID-19 patient trajectories. Conclusion Among COVID-19 patients machine learning can aid in the early identification of those with a poor prognosis, using EHR data collected during a patient's first presentation at ED. Patient age and measures of oxygenation status during ED stay are primary indicators of poor patient outcomes.",
+    "affiliations": [
+        "Oxford Biomedical Research Centre. FSH, SP, MC, LML, FA, SJ, RD, NL RF, AH, RL, LM, LT and RTK are employees of Sensyne Health plc, who develops the CVm-Health app for remote monitoring of COVID-19 symptoms",
+        "Oxford Biochemical Research Centre"
+    ],
+    "author": "Richard A Pointon; Robert Durichen; Frank Stefan Heldt; Alex McCarthy; Lucy Mackillop; Alexander Brown; Mattia Cinelli; Rabia Tahir Khan; Sophie Peacock; James Eaton; Roberto Liddi; Anne Hancock; Robert A Fletcher; Fernando Andreotti; Stojan Jovanovic; Lionel Tarassenko; Lachlan McLachlan; Nadezda Lipunova; Marcela P Vizcaychipi",
+    "date": 2020,
+    "doi": "10.1101/2020.05.19.20086488",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.19.20086488"
+    },
+    "title": "Early risk assessment for COVID-19 patients from emergency department data using machine learning",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Oxford Biomedical Research Centre"
+                }
+            ],
+            "funding-statement": "LM and LT are supported by the NIHR Oxford Biomedical Research Centre"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Oxford Biochemical Research Centre"
+                }
+            ],
+            "funding-statement": "LM and LT are supported by the NIHR Oxford Biochemical Research Centre"
+        }
+    ]
+}

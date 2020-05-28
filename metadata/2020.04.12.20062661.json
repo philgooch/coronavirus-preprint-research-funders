@@ -1,0 +1,86 @@
+{
+    "abstract": "For diagnosis of COVID-19, a SARS-CoV-2 virus-specific reverse transcriptase polymerase chain reaction (RT-PCR) test is routinely used. However, this test can take up to two days to complete, serial testing may be required to rule out the possibility of false negative results, and there is currently a shortage of RT-PCR test kits, underscoring the urgent need for alternative methods for rapid and accurate diagnosis of COVID-19 patients. Chest computed tomography (CT) is a valuable component in the evaluation of patients with suspected SARS-CoV-2 infection. Nevertheless, CT alone may have limited negative predictive value for ruling out SARS-CoV-2 infection, as some patients may have normal radiologic findings at early stages of the disease. In this study, we used artificial intelligence (AI) algorithms to integrate chest CT findings with clinical symptoms, exposure history, and laboratory testing to rapidly diagnose COVID-19 positive patients. Among a total of 905 patients tested by real-time RT-PCR assay and next-generation sequencing RT-PCR, 419 (46.3%) tested positive for SARS-CoV-2. In a test set of 279 patients, the AI system achieved an AUC of 0.92 and had equal sensitivity as compared to a senior thoracic radiologist. The AI system also improved the detection of RT-PCR positive COVID-19 patients who presented with normal CT scans, correctly identifying 17 of 25 (68%) patients, whereas radiologists classified all of these patients as COVID-19 negative. When CT scans and associated clinical history are available, the proposed AI system can help to rapidly diagnose COVID-19 patients.",
+    "author": "Kaiyue Diao; Tongtong Zhao; Hao-Chih Lee; Zahi A. Fayad; Venkatesh Mani; Adam Bernheim; Yixuan Ma; Jian Lv; Junli Xia; Timothy Deyer; Zongyu Xie; Adam Jacobi; Brent P. Little; Bin Lin; Fang Liu; Michael Chung; Xueyan Mei; Marta Luksza; Yang Yang; Qihua Long; Sharon Steinberger; Shaolin Li; Mingqian Huang; Kunwei Li; Claudia Calcagno; Philip M. Robson; Chenyu Liu; Hong Shan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.12.20062661",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.12.20062661"
+    },
+    "title": "Artificial intelligence-enabled rapid diagnosis of COVID-19 patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Alexion and GlaxoSmithKline; Research"
+                },
+                {
+                    "funding-source": "Daiichi Sankyo; Amgen"
+                },
+                {
+                    "funding-source": "Bristol Myers Squibb; Siemens"
+                }
+            ],
+            "funding-statement": "Z.A.F discloses consulting fees from Alexion and GlaxoSmithKline; Research funding from Daiichi Sankyo; Amgen; Bristol Myers Squibb; Siemens Healthineers"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "US National Institutes of Health",
+                    "award-id": [
+                        "NIH/NCRR",
+                        "UL1TR001433"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "UL1TR001433"
+                    ]
+                },
+                {
+                    "funding-source": "NCRR CTSA",
+                    "award-id": [
+                        "UL1TR001433"
+                    ]
+                },
+                {
+                    "funding-source": "Mount Sinai COVID Informatics Center"
+                }
+            ],
+            "funding-statement": "Z.A.F was funded by US National Institutes of Health grant NIH/NCRR CTSA UL1TR001433 and Mount Sinai COVID Informatics Center"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Astra Zeneca, Daiichi"
+                },
+                {
+                    "funding-source": "Alexion and Horizon Pharma"
+                }
+            ],
+            "funding-statement": "V.M. received funding support from Astra Zeneca, Daiichi Sankyo, Alexion and Horizon Pharma"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "US National Institutes of Health",
+                    "award-id": [
+                        "R01-HL071021"
+                    ]
+                }
+            ],
+            "funding-statement": "P.R. was supported by US National Institutes of Health (grant R01-HL071021)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Icahn School of Medicine"
+                },
+                {
+                    "funding-source": "Mount Sinai"
+                }
+            ],
+            "funding-statement": "Y.Y. was supported by start-up seed fund from Icahn School of Medicine at Mount Sinai"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Expression of ACE2, the SARS-CoV-2 receptor, and TMPRSS2 in prostate epithelial cells",
+    "author": "Hanbing Song PhD, Bobak Seddighzadeh, Matthew R. Cooperberg MD, Franklin W. Huang MD PhD",
+    "date": 2020,
+    "affiliations": [
+        "Department of Medicine; Helen Diller Family Comprehensive Cancer Center; Bakar Computational Health Sciences Institute; Institute for Human Genetics; University of California, San Francisco, San Francisco, CA",
+        "Department of Urology, Department of Epidemiology and Biostatistics; Helen Diller Family Comprehensive Cancer Center; University of California, San Francisco, San Francisco, CA The authors have declared that no conflict of interest exists",
+        "Corresponding Author: Franklin W. Huang, MD PhD Campus Box 1346 University of California, San Francisco 513 Parnassus Avenue, HSE 1426 San Francisco, CA 94143-0570 Office: 415-502-0696 Fax: 415-476-0659"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.24.056259",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.24.056259.pdf"
+    },
+    "abstract": "The COVID-19 pandemic has spread across more than 200 countries and resulted in over 170,000 deaths. For unclear reasons, higher mortality rates from COVID-19 have been reported in men compared to women. While the SARS-CoV-2 receptor ACE2 and serine protease TMPRSS2 have been detected in lung and other tissues, it is not clear what sex differences may exist. We analyzed a publicly-available normal human prostate single-cell RNA sequencing dataset and found TMPRSS2 and ACE2 coexpressing cells in epithelial cells, with a higher proportion in club and hillock cells. Then we investigated datasets of lung epithelial cells and also found club cells co-expressing TMPRSS2 and ACE2. A comparison of ACE2 expression in lung tissue between males and females showed higher expression in males and a larger proportion of ACE2+ cells in male type II pneumocytes, with preliminary evidence that type II pneumocytes of all lung epithelial cell types showed the highest expression of ACE2. These results raise the possibility that sex differences in ACE2 expression and the presence of doublepositive cells in the prostate may contribute to the observed disparities of COVID-19.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "TMPRSS2",
+        "ACE2",
+        "prostate",
+        "lung",
+        "sex"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Defense",
+                    "award-id": [
+                        "W81XWH-17-PCRP-HD"
+                    ]
+                },
+                {
+                    "funding-source": "National Institutes of"
+                },
+                {
+                    "funding-source": "National Cancer Institute",
+                    "award-id": [
+                        "CA233255-01",
+                        "CA214253"
+                    ]
+                },
+                {
+                    "funding-source": "Prostate Cancer Foundation"
+                }
+            ],
+            "funding-statement": "This work was funded in part by the Department of Defense W81XWH-17-PCRP-HD (F.W.H., H.S), the National Institutes of Health/National Cancer Institute P20 CA233255-01 (F.W.H., H.S), U19 CA214253 (F.W.H., H.S), and the Prostate Cancer Foundation (F.W.H.). Figure 3. a"
+        }
+    ]
+}

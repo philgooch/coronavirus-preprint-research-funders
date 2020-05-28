@@ -1,0 +1,32 @@
+{
+    "abstract": "COVID-19 was declared as pandemic on 11th March 2020 by WHO. There are apparent dissimilarities in incidence and mortality of COVID-19 cases in different parts of world. Developing countries in Asia and Africa with fragile health system have shown lower incidence and mortality compared to developed countries with superior health system in Europe and America. Most countries in Asia and Africa have national BCG vaccination program while Europe and America do not have such program, or have ceased it. At present, there is no known therapy to treat COVID-19 disease. There is no vaccine available currently to prevent COVID- 19 disease. As mathematical modelling is ideal for predicting the rate of disease transmission as well as evaluating efficacy of possible public health prevention measures, we have created a mathematical model with seven compartments to understand nationwide BCG vaccine recommendation on COVID-19 transmission, severity and mortality. We have computed two basic reproduction number, one at vaccine free equilibrium point and other at non-vaccine free equilibrium point and carried out local stability, sensitivity and numerical analysis. Our result showed that individuals with BCG vaccinations have lower risk of getting COVID-19 infection, shorter hospital stays, and increased rate of recovery. Furthermore, countries with long-standing universal BCG vaccination policies have reduced incidence, mortality, and severity of COVID-19. Further research will focus on exploring the immediate benefits of vaccination to healthcare workers and patients as well as benefits of BCG re-vaccination.",
+    "affiliations": [
+        "Department of Mathematics, Gujarat University"
+    ],
+    "author": "Nita H Shah; Moksha H Satia; Jagdish Shukla; Ankush Suthar; Dhairya Shukla; Yash Shah; Nehal Shukla",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20097121",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20097121"
+    },
+    "title": "Modeling the Impact of Nationwide BCG Vaccine Recommendations on COVID-19 Transmission, Severity, and Mortality",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Junior Research Fellowship from the Council of Scientific & Industrial Research",
+                    "award-id": [
+                        "09/070",
+                        "2019-EMR-I",
+                        "DST-FIST",
+                        "MSI-097"
+                    ]
+                },
+                {
+                    "funding-source": "Department of Mathematics, Gujarat"
+                }
+            ],
+            "funding-statement": "Second author (AHS) is funded by a Junior Research Fellowship from the Council of Scientific & Industrial Research (file no.-09/070(0061)/2019-EMR-I) and First three authors are thankful to DST-FIST file # MSI-097 for technical support to the Department of Mathematics, Gujarat University."
+        }
+    ]
+}

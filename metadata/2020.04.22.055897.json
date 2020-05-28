@@ -1,0 +1,26 @@
+{
+    "title": "Rapid, sensitive, full genome sequencing of Severe Acute Respiratory Syndrome Virus Coronavirus 2 (SARS-CoV-2)",
+    "author": "Carrie Huntington - hiv6",
+    "date": 2020,
+    "journal": "In December",
+    "volume": "10",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.22.055897",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.22.055897.pdf"
+    },
+    "abstract": "SARS-CoV-2 recently emerged, resulting a global pandemic. Rapid genomic information is critical to understanding transmission and pathogenesis. Here, we describe validated protocols for generating high-quality full-length genomes from primary samples. The first employs multiplex RT-PCR followed by MinION or MiSeq sequencing. The second uses singleplex, nested RT-PCR and Sanger sequencing.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "coronavirus",
+        "genomics",
+        "High-Throughput Nucleotide 10 Sequencing",
+        "Whole Genome Sequencing 11"
+    ],
+    "funding": [
+        {}
+    ]
+}

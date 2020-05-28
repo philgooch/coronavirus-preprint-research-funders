@@ -1,0 +1,38 @@
+{
+    "title": "Comparative in vitro transcriptomic analyses of COVID-19 candidate therapy hydroxychloroquine suggest limited immunomodulatory evidence of SARS-CoV-2 host response genes.",
+    "author": "1Michael J. Corley, 2Christopher Sugai, 3Michael Schotsaert, 4Robert E. Schwartz, and 1Lishomwa C. Ndhlovu, AFFILIATION: 1Division of Infectious Diseases, 4Division of Gastroenterology and Hepatology Department of Medicine, Weill Cornell Medical College, New York, NY, USA. 2University of Hawaii, Honolulu, HI, USA 3Department of Microbiology, Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA",
+    "date": 2020,
+    "affiliations": [
+        "Gastroenterology and Hepatology Department of Medicine, Weill Cornell Medical College, New York, NY, USA",
+        "University of Hawaii, Honolulu, HI, USA",
+        "Department of Microbiology, Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA",
+        "Division of Infectious Diseases, Department of Medicine, Weill Cornell Medical College, 413E 69th St, New York, NY, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.13.039263",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.13.039263.pdf"
+    },
+    "abstract": "Hydroxychloroquine (HCQ) has emerged as a potential and controversial antiviral candidate therapy for COVID-19. While many clinical trials are underway to test the efficacy of HCQ as a treatment for COVID-19, underlying mechanisms of HCQ in the setting of COVID-19 remain unclear. Hence, we examined differential gene expression signatures of HCQ exposure, in vitro SARS-CoV-2 infection, and host signatures of COVID19 in blood, bronchoalveolar lavage, and postmortem lung to evaluate whether HCQ transcriptome signatures associate with restoration of SARS-CoV-2-related host transcriptional responses. Here, we show that 24 hours of in vitro treatment of peripheral blood mononuclear cells(PBMC) with HCQ significantly impacted transcription of 16 genes involved in immune regulation and lipid metabolism. Using transcriptome data from in vitro SARS-CoV-2 infected NHBE and A549 cells and PBMC derived from confirmed COVID-19 infected patients, we determined that only 0.24% of the COVID-19 PBMC differentially expressed gene set and 0.39% of the in vitro SARS-CoV-2 cells differentially expressed gene set overlapped with HCQ-related differentially expressed genes. Moreover, we observed that HCQ treatment significantly impacted transcription of 159 genes in human primary monocyte-derived macrophages involved in cholesterol biosynthetic process and chemokine activity. Notably, when we compared the macrophage HCQ-related gene lists with genes transcriptionally altered during SARS-CoV-2 infection and in bronchoalveolar lavage of COVID-19+ patients, the CXCL6 gene was impacted in all three transcriptional signatures revealing evidence in favor of chemokine modulation. HCQrelated transcriptional changes minimally overlapped with host genes altered in postmortem lung biopsies from COVID-19 participants. These results may provide insight into the immunomodulation mechanisms of HCQ treatment in the setting of COVID-19 and suggest HCQ is not a panacea to SARS-CoV-2 infection.",
+    "keywords": [
+        "COVID-19",
+        "gene expression",
+        "SARS-CoV-2",
+        "Hydroxychloroquine"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH NHLBI",
+                    "award-id": [
+                        "K01HL140271 to MJC"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by NIH NHLBI (K01HL140271 to MJC)"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "abstract": "Background: COVID-19 caused rapid mass infection worldwide. Understanding its transmission characteristics including heterogeneity is of vital importance for prediction and intervention of future epidemics. In addition, transmission heterogeneity usually envokes super spreading events (SSEs) where certain individuals infect large numbers of secondary cases. Till now, studies of transmission heterogeneity of COVID-19 and its underlying reason are far from reaching an agreement. Methods\uff1aWe collected information of all infected cases between January 21 and February 26, 2020 from official public sources in Tianjin, a metropolis of China. Utilizing a heterogeneous transmission model based on branching process along with a negative binomial offspring distribution, we estimated the reproductive number R and the dispersion parameter k which characterized the transmission potential and heterogeneity, respectively. Furthermore, we studied the SSE in Tianjin outbreak and evaluated the effect of control measures undertaken by local government based on the heterogeneous model. Results: A total of 135 confirmed cases (including 34 imported cases and 101 local infections) in Tianjin by February 26th 2020 entered the study. We grouped them into 43 transmission chains with the largest chain of 45 cases and the longest chain of 4 generations. The estimated reproduction number R was at 0.67 (95%CI: 0.54\u223c0.84), and the dispersion parameter k was at 0.25 (95% CI: 0.13\u223c0.88). A super spreader causing six infections in Tianjin, was identified. In addition, our simulation results showed that the outbreak in Tianjin would have caused 165 infections and sustained for 7.56 generations on average if no control measures had been taken by local government since January 28th. Conclusions: Our analysis suggested that the transmission of COVID-19 was subcritical but with significant heterogeneity and may incur SSE. More efforts are needed to verify the transmission heterogeneity of COVID-19 in other populations and its contributing factors, which is important for developing targeted measures to curb the pandemic.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Natural Science Foundation of China (grant number 82041023) and Zhejiang University special scientific research fund for COVID-19 prevention and control. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript"
+    ],
+    "author": "Xiao-Hua Zhou; Mingyuan Li; Yuying Li; Yunjun Zhang; Lu Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20073742",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20073742"
+    },
+    "title": "Evaluating transmission heterogeneity and super-spreading event of COVID-19 in a metropolis of China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "82041023"
+                    ]
+                },
+                {
+                    "funding-source": "Zhejiang University",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors acknowledge support from the National Natural Science Foundation of China (grant number 82041023) and Zhejiang University special scientific research fund for COVID-19 prevention and control"
+        }
+    ]
+}

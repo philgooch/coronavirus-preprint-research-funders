@@ -1,0 +1,77 @@
+{
+    "abstract": "Objective: To characterize the clinical features of patients with severe COVID-19 in the UK. Design: Prospective observational cohort study with rapid data gathering and near real-time analysis, using a pre-approved questionnaire adopted by the WHO. Setting: 166 UK hospitals between 6th February and 18th April 2020. Participants: 16,749 people with COVID-19. Interventions: No interventions were performed, but with consent samples were taken for research purposes. Many participants were co-enrolled in other interventional studies and clinical trials. Results: The median age was 72 years [IQR 57, 82; range 0, 104], the median duration of symptoms before admission was 4 days [IQR 1,8] and the median duration of hospital stay was 7 days [IQR 4,12]. The commonest comorbidities were chronic cardiac disease (29%), uncomplicated diabetes (19%), non-asthmatic chronic pulmonary disease (19%) and asthma (14%); 47% had no documented reported comorbidity. Increased age and comorbidities including obesity were associated with a higher probability of mortality. Distinct clusters of symptoms were found: 1. respiratory (cough, sputum, sore throat, runny nose, ear pain, wheeze, and chest pain); 2. systemic (myalgia, joint pain and fatigue); 3. enteric (abdominal pain, vomiting and diarrhoea). Overall, 49% of patients were discharged alive, 33% have died and 17% continued to receive care at date of reporting. 17% required admission to High Dependency or Intensive Care Units; of these, 31% were discharged alive, 45% died and 24% continued to receive care at the reporting date. Of those receiving mechanical ventilation, 20% were discharged alive, 53% died and 27% remained in hospital. Conclusions: We present the largest detailed description of COVID-19 in Europe, demonstrating the importance of pandemic preparedness and the need to maintain readiness to launch research studies in response to outbreaks. Trial documentation: Available at https://isaric4c.net/protocols . Ethical approval in England and Wales (13/SC/0149), and Scotland (20/SS/0028). ISRCTN (pending).",
+    "author": "Hayley E Hardwick; Clare Jackson; J Kenneth Baillie; Daniel Plotkin; Peter JM Openshaw; Christopher A Green; Frank Dondelinger; Peter W Horby; Ewen M Harrison; Jonathan S Nguyen-Van-Tam; Gail Carson; Lisa Norman; Carrol Gamble; Laura Merson; Louise Sigfrid; Jonathan M Read; Karl A Holden; Annemarie B Docherty; Malcolm Gracie Semple; Jake Dunning; Sophie Halpin; Riinu Pius; James Lee",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076042",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076042"
+    },
+    "title": "Features of 16,749 hospitalised UK patients with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research",
+                    "award-id": [
+                        "CO-CIN-01"
+                    ]
+                },
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "MC_PC_19059"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute for Health Research Health Protection Research Unit",
+                    "award-id": [
+                        "NIHR HPRU"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR HPRU)"
+                },
+                {
+                    "funding-source": "Emerging and Zoonotic Infections"
+                },
+                {
+                    "funding-source": "University of Liverpool in"
+                },
+                {
+                    "funding-source": "Public Health England"
+                },
+                {
+                    "funding-source": "Liverpool School of Tropical Medicine and the University of Oxford",
+                    "award-id": [
+                        "NIHR 200907"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "200907"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust and Department for International Development",
+                    "award-id": [
+                        "215091/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1209135"
+                    ]
+                },
+                {
+                    "funding-source": "Liverpool Experimental Cancer Medicine Centre for",
+                    "award-id": [
+                        "Reference: C18616/A25153"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is supported by grants from: the National Institute for Health Research [award CO-CIN-01], the Medical Research Council [grant MC_PC_19059] and by the National Institute for Health Research Health Protection Research Unit (NIHR HPRU) in Emerging and Zoonotic Infections at University of Liverpool in partnership with Public Health England (PHE), in collaboration with Liverpool School of Tropical Medicine and the University of Oxford [NIHR award 200907], Wellcome Trust and Department for International Development [215091/Z/18/Z], and the Bill and Melinda Gates Foundation [OPP1209135], and Liverpool Experimental Cancer Medicine Centre for providing infrastructure support for this research (Grant Reference: C18616/A25153)"
+        }
+    ]
+}

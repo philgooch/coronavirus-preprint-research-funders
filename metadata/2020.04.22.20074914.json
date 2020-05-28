@@ -1,0 +1,16 @@
+{
+    "abstract": "With the emergence of SARS-CoV-2 and the associated Coronavirus disease 2019 (COVID-19), there is an imperative need for diagnostic tests that can identify the infection. Although Nucleic Acid Test (NAT) is considered to be the gold standard, serological tests based on antibodies could be very helpful. However, individual studies measuring the accuracy of the various tests are usually underpowered and inconsistent, thus, a comparison of different tests is needed. We performed a systematic review and meta-analysis following the PRISMA guidelines. We conducted the literature search in PubMed, medRxiv and bioRxiv. For the statistical analysis we used the bivariate method for meta-analysis of diagnostic tests pooling sensitivities and specificities. We evaluated IgM and IgG tests based on Enzyme-linked immunosorbent assay (ELISA), Chemiluminescence Enzyme Immunoassays (CLIA), Fluorescence Immunoassays (FIA) and the point-of-care (POC) Lateral Flow Immunoassays (LFIA) that are based on immunochromatography. In total, we identified 38 eligible studies that include data from 7,848 individuals. The analyses showed that tests using the S antigen are more sensitive than N antigen-based tests. IgG tests perform better compared to IgM ones, and show better sensitivity when the samples were taken longer after the onset of symptoms. Moreover, irrespective of the method, a combined IgG/IgM test seems to be a better choice in terms of sensitivity than measuring either antibody type alone. All methods yielded high specificity with some of them (ELISA and LFIA) reaching levels around 99%. ELISA- and CLIA-based methods performed better in terms of sensitivity (90-94%) followed by LFIA and FIA with sensitivities ranging from 80% to 86%. ELISA tests could be a safer choice at this stage of the pandemic. POC tests (LFIA), that are more attractive for large seroprevalence studies show high specificity but lower sensitivity and this should be taken into account when designing and performing seroprevalence studies.",
+    "author": "Panagiota I Kontou; Georgios Nikolopoulos; Niki L Dimou; Pantelis G Bagos; Georgia G Braliou",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20074914",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20074914"
+    },
+    "title": "Antibody tests in detecting SARS-CoV-2 infection: a meta-analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There is no external funding"
+        }
+    ]
+}

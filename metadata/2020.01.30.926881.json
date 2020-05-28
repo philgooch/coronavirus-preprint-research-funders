@@ -1,0 +1,61 @@
+{
+    "title": "Engineered unnatural ubiquitin for optimal detection of deubiquitinating enzymes",
+    "author": "Wioletta Rut, Miko\u0142aj \u017bmudzi\u0144ski, Scott J. Snipas, Miklos Bekes, Tony T",
+    "date": 2020,
+    "affiliations": [
+        "Department of Chemical Biology and Bioimaging, Wroclaw University of Science and Technology, Wyb. Wyspianskiego 27, 50-370 Wroclaw, Poland",
+        "Sanford Burnham Prebys Medical Discovery Institute, 10901 North Torrey Pines Road, La Jolla, CA 92037, USA",
+        "Department of Biochemistry & Molecular Pharmacology, New York University School of Medicine, New York, NY 10016, USA 4present address: Arvinas, Inc",
+        "Science Park, New Haven, CT, 06511, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.01.30.926881",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.01.30.926881.pdf"
+    },
+    "abstract": "Deubiquitinating enzymes (DUBs) are responsible for removing ubiquitin (Ub) from its protein conjugates. DUBs have been implicated as attractive therapeutic targets in the treatment of viral diseases, neurodegenerative disorders and cancer. The lack of selective chemical tools for the exploration of these enzymes significantly impairs the determination of their roles in both normal and pathological states. Commercially available fluorogenic substrates are based on the C-terminal Ub motif or contain Ub coupled to a fluorophore (Z-LRGG-AMC, Ub-AMC); therefore, these substrates suffer from lack of selectivity. By using a hybrid combinatorial substrate library (HyCoSuL) and a defined P2 library containing a wide variety of nonproteinogenic amino acids, we established a full substrate specificity profile for two DUBs\u2014MERS PLpro and human UCH-L3. Based on these results, we designed and synthesized Ub-based substrates and activity-based probes (ABPs) containing selected unnatural amino acids located in the C-terminal Ub motif. Biochemical analysis and cell-based experiments confirmed the activity and selectivity of engineered Ub-based substrates and probes. Using this approach, we propose that for any protease that recognizes Ub and Ub-like substrates, a highly active and selective unnatural substrate or probe can be engineered.",
+    "keywords": [
+        "unnatural amino acids",
+        "proteolytic enzyme",
+        "cysteine protease"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Center",
+                    "award-id": [
+                        "2015/17/N/ST5/03072",
+                        "Preludium 9",
+                        "TEAM/2017-4/32"
+                    ]
+                },
+                {
+                    "funding-source": "Foundation for Polish Science,"
+                },
+                {
+                    "funding-source": "European Union"
+                },
+                {
+                    "funding-source": "European Regional Development Fund"
+                }
+            ],
+            "funding-statement": "This project was supported by the National Science Center grant 2015/17/N/ST5/03072 (Preludium 9) in Poland (W.R.) and the \u201cTEAM/2017-4/32\u201d project, which is carried out within the TEAM program of the Foundation for Polish Science, cofinanced by the European Union under the European Regional Development Fund (M.D.)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "GM107257",
+                        "ES025166",
+                        "F32GM100598"
+                    ]
+                }
+            ],
+            "funding-statement": "NIH grants GM107257 (T.T.H.), ES025166 (T.T.H.) and F32GM100598 (M.B.) provided additional support for this work"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "abstract": "Recent outbreaks of coronavirus disease 2019 (COVID-19) has led a global pandemic cross the world. Most countries took two main interventions: suppression like immediate lockdown cities at epicentre or mitigation that slows down but not stopping epidemic for reducing peak healthcare demand. Both strategies have their apparent merits and limitations; it becomes extremely hard to conduct one intervention as the most feasible way to all countries. Targeting at this problem, this paper conducted a feasibility study by defining a mathematical model named SEMCR that can access effectiveness of mitigation, suppression and hybrid interventions for controlling COVID-19 outbreaks in London and Wuhan. It extended traditional SEIR (Susceptible-Exposed Infectious-Recovered) model by adding two key features: a direct connection between Exposed and Recovered populations, and separating infections into mild and critical cases. It defined parameters to classify two stages of COVID-19 control: active contain by isolation of cases and contacts, passive contain by suppression or mitigation. The model was fitted and evaluated with public dataset containing daily number of confirmed active cases including Wuhan and London during January, 2020 and March 2020. The simulated results showed that 1) Immediate suppression taken in Wuhan significantly reduced the total exposed and infectious populations to 119610, but it has to be consistently maintained at least 90 days (by the middle of April 2020). Its success heavily relied on sufficiently external support from other places of China. This mode were not suitable to other countries that have no sufficient health resources. 2) In London, it is possible to take a hybrid intervention of suppression and mitigation for every 2 or 3 weeks over a longer period to balance the total infections and economic loss. While the total infectious populations in this scenario would be possibly 2 times than the one taking suppression, economic loss and recovery of London would be less affected. 3) Both in Wuhan and London cases, one important issue of fitting practical data was that there were a large portion (probably 62.9% in Wuhan) of self-recovered populations that were asymptomatic or mild symptomatic. These people might think they have been healthy at home and did not go to hospital for COVID-19 tests. Early release of intervention intensity potentially increased a risk of the second outbreak. One limitation of our model was that our prediction of infections and deaths depended on a parameter estimation of intervention intensity that presented by average number contacts with susceptible individuals as infectious individuals in a certain region. It assumed that each intervention had equivalent effects on the reproduction number R in different regions over time. Practical effectiveness of implementing intervention intensity might be varied with respect to cultures or other issues of certain county.",
+    "affiliations": [
+        "University of Sheffield"
+    ],
+    "author": "Xulong Wang; Bin Sheng; Po Yang; Shuhao Zhang; Jun Qi; Yun Yang; Gaoshan Bi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.01.20043794",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.01.20043794"
+    },
+    "title": "Feasibility Study of Mitigation and Suppression Intervention Strategies for Controlling COVID-19 Outbreaks in London and Wuhan",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Sheffield"
+                }
+            ],
+            "funding-statement": "This work has been supported by the University of Sheffield"
+        }
+    ]
+}

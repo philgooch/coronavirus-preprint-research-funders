@@ -1,0 +1,16 @@
+{
+    "abstract": "In this paper, a new Susceptible-Exposed-Symptomatic Infectious-Asymptomatic Infectious-Quarantined-Hospitalized-Recovered-Dead (SEIDIUQHRD) deterministic compartmental model has been proposed and calibrated for describing the transmission dynamics of the novel coronavirus disease (COVID-19). A calibration process is executed through the solution of an inverse problem with the help of a Trust-Region-Reflective algorithm, used to determine the best parameter values that would fit the model response. The purpose of this study is to give a tentative prediction of the epidemic peak for Russia, Brazil, India and Bangladesh which could become the next COVID-19 hotspots in no time. Based on the publicly available epidemiological data from late January until 10 May, it has been estimated that the number of daily new symptomatic infectious cases for the above mentioned countries could reach the peak around the beginning of June with the peak size of \u224815,774 symptomatic infectious cases in Russia, \u224826,449 cases in Brazil, \u22489,504 cases in India and \u22482,209 cases in Bangladesh. Based on our analysis, the estimated value of the basic reproduction number (R0) as of May 11, 2020 was found to be \u22484.234 in Russia, \u22485.347 in Brazil, \u22485.218 in India, \u22484.649 in the United Kingdom and \u22483.5 in Bangladesh. Moreover, with an aim to quantify the uncertainty of our model parameters, Latin hypercube sampling-partial rank correlation coefficient (LHS-PRCC) which is a global sensitivity analysis (GSA) method is applied which elucidates that, for Russia, the recovery rate of undetected asymptomatic carriers, the rate of getting home-quarantined or self-quarantined and the transition rate from quarantined class to susceptible class are the most influential parameters, whereas the rate of getting home-quarantined or self-quarantined and the inverse of the COVID-19 incubation period are highly sensitive parameters in Brazil, India, Bangladesh and the United Kingdom which could significantly affect the transmission dynamics of the novel coronavirus. Our analysis also suggests that relaxing social distancing restrictions too quickly could exacerbate the epidemic outbreak in the above mentioned countries.",
+    "author": "Khondoker Nazmoon Nabi",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099192",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099192"
+    },
+    "title": "FORECASTING COVID-19 PANDEMIC: A DATA-DRIVEN ANALYSIS",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding is involved."
+        }
+    ]
+}

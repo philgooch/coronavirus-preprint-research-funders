@@ -1,0 +1,29 @@
+{
+    "abstract": "Background The mortality impact of COVID-19 has thus far been described in terms of crude death counts. We aimed to calibrate the scale of the modelled mortality impact of COVID-19 using age-standardised mortality rates and life expectancy contribution against other, socially-determined, causes of death in order to inform governments and the public. Methods We compared mortality attributable to suicide, drug poisoning and socioeconomic inequality with estimates of mortality from an infectious disease model of COVID-19. We calculated age-standardised mortality rates and life expectancy contributions for the UK and its constituent nations. Results Mortality from a fully unmitigated COVID-19 pandemic is estimated to be responsible for a negative life expectancy contribution of -5.96 years for the UK. This is reduced to -0.33 years in the fully mitigated scenario. The equivalent annual life expectancy contributions of suicide, drug poisoning and socioeconomic inequality-related deaths are -0.25, -0.20 and -3.51 years respectively. The negative impact of fully unmitigated COVID-19 on life expectancy is therefore equivalent to 24 years of suicide deaths, 30 years of drug poisoning deaths, and 1.7 years of inequality-related deaths for the UK. Conclusion Fully mitigating COVID-19 is estimated to prevent a loss of 5.63 years of life expectancy for the UK. Over 10 years there is a greater negative life expectancy contribution from inequality than around six unmitigated COVID-19 pandemics. To achieve long-term population health improvements it is therefore important to take this opportunity to introduce post-pandemic economic policies to build back better.",
+    "author": "Ruth Dundas; David Walsh; Alastair Leyland; Gerry McCartney",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090761",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090761"
+    },
+    "title": "Scaling COVID-19 against inequalities: should the policy response consistently match the mortality challenge?",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "MC_UU_12017/13"
+                    ]
+                },
+                {
+                    "funding-source": "Chief Scientist Office",
+                    "award-id": [
+                        "SPHSU13"
+                    ]
+                }
+            ],
+            "funding-statement": "RD and AHL are funded by the Medical Research Council (MC_UU_12017/13) and the Chief Scientist Office (SPHSU13)"
+        }
+    ]
+}

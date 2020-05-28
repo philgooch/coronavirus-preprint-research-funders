@@ -1,0 +1,44 @@
+{
+    "title": "Atazanavir inhibits SARS-CoV-2 replication and pro-inflammatory cytokine production Natalia Fintelman-Rodrigues1,8#, Carolina Q. Sacramento1,8#, Carlyle Ribeiro Lima8,#, Franklin Souza da Silva2,8, Andr\u00e9 C. Ferreira1,3,8, Mayara Mattos1,8, Caroline S. de Freitas1,8, Vinicius Cardoso Soares1, Suelen da Silva Gomes Dias1, Jairo R. Temerozo4, Milene Miranda5, Aline R. Matos5, Fernando A. Bozza6,7, Nicolas Carels8, Carlos Roberto Alves2, Marilda M. Siqueira5, Patr\u00edcia T. Bozza1, Thiago Moreno L. Souza1,8,* # - These authors contributed equally to this work 1 \u2013 Laborat\u00f3rio de Imunofarmacologia, Instituto Oswaldo Cruz (IOC), Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), Rio de Janeiro, RJ, Brazil. 2 \u2013 Laborat\u00f3rio de Biologia Molecular e Doen\u00e7as End\u00eamicas, IOC, Fiocruz, Rio de Janeiro, RJ, Brazil. 3 \u2013 Universidade Igua\u00e7u, Nova Igua\u00e7u, RJ, Brazil. 4 \u2013 Laborat\u00f3rio de Pesquisas em Timo, IOC, Fiocruz, Rio de Janeiro, RJ, Brazil. 5 \u2013 Laborat\u00f3rio de V\u00edrus Respirat\u00f3rio e do Sarampo, IOC, Fiocruz, Rio de Janeiro, RJ, Brazil. 6 \u2013 Instituto Nacional de Infectologia Evandro Chagas, Fiocruz, Rio de Janeiro, RJ, Brazil 7 \u2013 Instituto D\u2019or de Pesquisa e Ensino, Rio de Janeiro, RJ, Brazil 8 - National Institute for Science and Technology on Innovation in Diseases of Neglected Populations (INCT/IDNP), Center for Technological Development in Health (CDTS), Fiocruz, Rio de Janeiro, RJ, Brazil.",
+    "author": "Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz) Centro de Desenvolvimento Tecnol\u00f3gico em Sa\u00fade (CDTS) Instituto Oswaldo Cruz (IOC) Pavilh\u00e3o Os\u00f3rio de Almeida, sala 16 Av. Brasil 4365, Manguinhos, Rio de Janeiro - RJ, Brasil, CEP 21060340 Tel.: +55 21 2562-1311 Email: tmoreno@cdts.fiocruz.br",
+    "date": 2020,
+    "affiliations": [
+        "Laborat\u00f3rio de Imunofarmacologia, Instituto Oswaldo Cruz (IOC), Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), Rio de Janeiro, RJ, Brazil. 2 \u2013 Laborat\u00f3rio de Biologia Molecular",
+        "Doen\u00e7as End\u00eamicas, IOC, Fiocruz, Rio de Janeiro, RJ, Brazil. 3 \u2013 Universidade Igua\u00e7u, Nova Igua\u00e7u, RJ, Brazil. 4 \u2013 Laborat\u00f3rio de Pesquisas em Timo, IOC, Fiocruz, Rio de Janeiro, RJ, Brazil. 5 \u2013 Laborat\u00f3rio de V\u00edrus Respirat\u00f3rio e do Sarampo, IOC, Fiocruz, Rio de Janeiro, RJ, Brazil. 6 \u2013 Instituto Nacional de Infectologia Evandro Chagas, Fiocruz, Rio de Janeiro, RJ, Brazil 7 \u2013 Instituto D\u2019or de Pesquisa",
+        "Ensino, Rio de Janeiro, RJ, Brazil 8 - National Institute for Science and Technology on Innovation in Diseases of Neglected Populations (INCT/IDNP), Center for Technological Development in Health (CDTS), Fiocruz, Rio de Janeiro, RJ, Brazil",
+        "Instituto Oswaldo Cruz (IOC) Pavilh\u00e3o Os\u00f3rio de Almeida, sala 16 Av. Brasil 4365, Manguinhos, Rio de Janeiro - RJ, Brasil, CEP 21060340 Tel.: +55 21 2562-1311"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.04.020925",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.04.020925.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is already responsible for far more deaths than previous pathogenic coronaviruses (CoVs) from 2002 and 2012. The identification of clinically approved drugs to be repurposed to combat 2019 CoV disease (COVID-19) would allow the rapid implementation of potentially lifesaving procedures. The major protease (Mpro) of SARS-CoV-2 is considered a promising target, based on previous results from related CoVs with lopinavir (LPV), an HIV protease inhibitor. However, limited evidence exists for other clinically approved antiretroviral protease inhibitors, such as atazanavir (ATV). ATV is of high interest because of its bioavailability within the respiratory tract. Our results show that ATV could dock in the active site of SARS-CoV-2 Mpro, with greater strength than LPV. ATV blocked Mpro activity. We confirmed that ATV inhibits SARS-CoV-2 replication, alone or in combination with ritonavir (RTV) in Vero cells, human pulmonary epithelial cell line and primary monocytes, impairing virus-induced enhancement of IL-6 and TNF-\u03b1 levels. Together, our data strongly suggest that ATV and ATV/RTV should be considered among the candidate repurposed drugs undergoing clinical trials in the fight against COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "CAPES and FAPERJ"
+                },
+                {
+                    "funding-source": "National Institutes of Science and Technology Program",
+                    "award-id": [
+                        "INCT-IDPN"
+                    ]
+                },
+                {
+                    "funding-source": "Carlos Morel",
+                    "award-id": [
+                        "INCT-IDPN"
+                    ]
+                },
+                {
+                    "funding-source": "Oswaldo Cruz"
+                }
+            ],
+            "funding-statement": "Funding was also provided by CNPq, CAPES and FAPERJ through the National Institutes of Science and Technology Program (INCT) to Carlos Morel (INCT-IDPN). Thanks are due to Oswaldo Cruz Foundation/FIOCRUZ under the auspicious of Inova program. The funding sponsors had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, and in the decision to publish the results. The authors declare no competing financial interests."
+        }
+    ]
+}

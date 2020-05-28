@@ -1,0 +1,60 @@
+{
+    "title": "Comprehensive characterization of N- and O- glycosylation of SARS-CoV-2 human receptor angiotensin converting enzyme 2",
+    "author": "Anne Gleinich",
+    "date": 2020,
+    "affiliations": [
+        "Complex Carbohydrate Research Center, The University of Georgia, Athens, GA 30602",
+        "Corresponding Author: Parastoo Azadi, Ph.D. Analytical Service and Training Laboratory Complex Carbohydrate Research Center, University of Georgia, 315 Riverbend Road, Athens, GA 30602 Keywords: COVID-19 receptor, ACE2 glycosylation, SARS-CoV-2 receptor, ACE2 site mapping",
+        "ACE2 N-glycosylation. Supplementary Data Included: Figures S1 \u2013 S11"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.01.071688",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.01.071688.pdf"
+    },
+    "abstract": "Emergence of COVID-19 pandemic caused by SARS-CoV-2 demanded development of new therapeutic strategies and thus the understanding the mode of viral attachment, entry and replication has become key aspect for such interventions. The coronavirus surface features a trimeric spike (S) protein that is essential in viral attachment, entry and membrane fusion. The S protein of SARS-CoV-2 binds to the human angiotensin converting enzyme 2 (hACE2) for the entry and the serine protease TMPRSS2 for S protein priming. The heavily glycosylated S protein is comprised of two protein subunits (S1 and S2), and the receptor binding domain within S1 subunit binds with to the hACE2 receptor. Even though hACE2 has been known for two decades and has been recognized as the entry point of several human coronaviruses, no comprehensive glycosylation characterization of hACE2 has been reported. Herein, we describe the quantitative glycosylation mapping on hACE2 expressed in human cells by both glycoproteomics and glycomics. We observed heavy glycan occupancy at all the seven possible N-glycosylation sites and surprisingly, detected three novel O-glycosylation sites. In order to deduce the detailed structure of glycan epitopes on hACE2 involved with viral binding, we have characterized the terminal sialic acid linkages, presence of bisecting GlcNAc and also the pattern of N-glycan fucosylation. We have conducted extensive manual interpretation of each glycopeptide and glycan spectra in addition to the use of bioinformatics tools to validate the hACE2 glycosylation. Elucidation of the site-specific glycosylation and its terminal orientations on the hACE2 receptor can aid in understanding the intriguing virus-receptor interactions and help in the development of novel therapeutics to circumvent the viral entry.",
+    "keywords": [
+        "COVID-19 receptor",
+        "ACE2 glycosylation",
+        "SARS-CoV-2 receptor",
+        "ACE2 site mapping",
+        "hACE2 N-glycosylation",
+        "Supplementary Data Included: Figures S1",
+        "S11"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "US National Institutes of Health",
+                    "award-id": [
+                        "S10OD018530"
+                    ]
+                }
+            ],
+            "funding-statement": "Financial support from the US National Institutes of Health (S10OD018530) is gratefully acknowledged"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "U.S Department of Energy, Office"
+                },
+                {
+                    "funding-source": "Basic Energy Sciences,",
+                    "award-id": [
+                        "DE-SC0015662"
+                    ]
+                },
+                {
+                    "funding-source": "Center for Plant and Microbial Complex Carbohydrates"
+                },
+                {
+                    "funding-source": "Complex Carbohydrate Research Center, USA"
+                }
+            ],
+            "funding-statement": "This work was also supported in part by the U.S Department of Energy, Office of Science, Basic Energy Sciences, under Award DE-SC0015662 to DOE - Center for Plant and Microbial Complex Carbohydrates at the Complex Carbohydrate Research Center, USA"
+        }
+    ]
+}

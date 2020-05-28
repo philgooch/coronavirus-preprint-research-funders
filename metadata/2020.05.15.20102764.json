@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Social distancing policies aimed to limit Covid-19 are gradually being relaxed as nationally reported peaks in incident cases are passed. Population density is an important driver of national incidence rates; however peak incidences in rural regions may lag national figures by several weeks. We aimed to forecast the impact of relaxed social distancing rules on rural North Wales. Methods: Daily data on the deaths of people with a positive test for Covid-19 were obtained from Public Health Wales and the UK Government. Sigmoidal growth functions were fitted by non-linear least squares and model averaging used to extrapolate mortality over time. The dates of peak mortality incidences for North Wales, Wales and the UK; and the percentage predicted maximum mortality (as of 7th May 2020) were estimated. Results: The peak daily death rates in Wales and the UK were estimated to have occurred on the 14/04/2020 and 15/04/2020, respectively. For North Wales, this occurred on the 07/05/2020, corresponding to the date of analysis. The number of deaths reported in North Wales represents 31% of the predicted total cumulative number, compared with 71% and 60% for Wales and the UK, respectively. Conclusion: Policies governing the movement of people in the gradual release from lockdown are likely to impact significantly on areas \u2212principally rural in nature\u2212 where cases of Covid-19, deaths and immunity are likely to be much lower than in populated areas. This is particularly difficult to manage across jurisdictions, such as between England and Wales, and in popular holiday destinations.\nCompeting Interest Statement",
+    "author": "Dyfrig A Hughes; Rhodri P Hughes",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20102764",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20102764"
+    },
+    "title": "Impact of relaxing Covid-19 social distancing measures on rural North Wales: a simulation analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

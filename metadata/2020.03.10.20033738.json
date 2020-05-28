@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: Novel coronavirus (SARS-CoV-2) has extended its range of transmission in all parts of the world, with substantial variation in rates of transmission and severity of associated disease. Many countries have implemented social distancing as a measure to control further spread. Methods: We evaluate whether and under which conditions containment or slowing down COVID-19 epidemics are possible by isolation and contact tracing in settings with various levels of social distancing. We use a stochastic transmission model in which every person generates novel infections according to a probability distribution that is affected by the incubation period distribution (time from infection to symptoms), distribution of the latent period (time from infection to onset of infectiousness), and overall transmissibility. The model distinguishes between close contacts (e.g., within a household) and other contacts in the population. Social distancing affects the number of contacts outside but not within the household. Findings: The proportion of asymptomatic or unascertained cases has a strong impact on the controllability of the disease. If the proportion of asymptomatic infections is larger than 30%, contact tracing and isolation cannot achieve containment for an R0 of 2.5. Achieving containment by social distancing requires a reduction of numbers of non-household contacts by around 90%. Depending on the realized level of contact reduction, tracing and isolation of only household contacts, or of household and non-household contacts are necessary to reduce the effective reproduction number to below 1. A combination of social distancing with isolation and contact tracing leads to synergistic effects that increase the prospect of containment. Interpretation: Isolation and contact tracing can be an effective means to slow down epidemics, but only if the majority of cases are ascertained. In a situation with social distancing, contact tracing can act synergistically and tip the scale towards containment, and can therefore be a tool for controlling COVID-19 epidemics as part of an exit strategy from current lockdown measures.\nCompeting Interest Statement",
+    "author": "Mirjam E Kretzschmar; Michiel E van Boven; Ganna Rozhnova",
+    "date": 2020,
+    "doi": "10.1101/2020.03.10.20033738",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.10.20033738"
+    },
+    "title": "Isolation and contact tracing can tip the scale to containment of COVID-19 in populations with social distancing",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ZonMw project",
+                    "award-id": [
+                        "91216062"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was partly funded by ZonMw project number 91216062"
+        }
+    ]
+}

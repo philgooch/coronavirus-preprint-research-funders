@@ -1,0 +1,56 @@
+{
+    "title": "The anticoagulant nafamostat potently inhibits SARS-CoV-2 infection in vitro : an existing drug with multiple possible therapeutic effects",
+    "author": "Mizuki Yamamoto, Maki Kiso, Yuko Sakai-Tagawa, Kiyoko Iwatsuki-Horimoto, Masaki Imai, Makoto Takeda, Noriko Kinoshita, Norio Ohmagari, Jin Gohda, Kentaro Semba, Zene Matsuda, Yasushi Kawaguchi, Yoshihiro Kawaoka, and Jun-ichiro Inoue",
+    "date": 2020,
+    "affiliations": [
+        "Research Center for Asian Infectious Diseases, Institute of Medical Science, University of Tokyo, Tokyo 108-8639, Japan",
+        "Division of Virology, Department of Microbiology and Immunology, Institute of Medical Science, University of Tokyo, Tokyo 108-8639, Japan",
+        "Department of Virology 3, National Institute of Infectious Diseases, Musashimurayama, Tokyo 208-0011, Japan",
+        "Disease Control and Prevention Center, National Center for Global Health and Medicine, Tokyo 162-8655, Japan",
+        "Department of Life Science and Medical Bio-Science, Waseda University, Shinjuku-ku, Tokyo, 162-8480, Japan",
+        "Division of Molecular Virology, Department of Microbiology and Immunology, The Institute of Medical Science, The University of Tokyo, Tokyo 108-8639, Japan",
+        "Influenza Research Institute, Department of Pathobiological Sciences, School of Veterinary Medicine, University of Wisconsin-Madison, WI 53711, USA",
+        "Department of Special Pathogens, International Research Center for Infectious Diseases, Institute of Medical Science, University of Tokyo, Tokyo 108-8639, Japan",
+        "Senior Professor Office, University of Tokyo, Tokyo 113-0033, Japan"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.22.054981",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.22.054981.pdf"
+    },
+    "abstract": "Although infection by SARS-CoV-2, the causative agent of COVID-19, is spreading rapidly worldwide, no drug has been shown to be sufficiently effective for treating COVID-19. We previously found that nafamostat mesylate, an existing drug used for disseminated intravascular coagulation (DIC), effectively blocked MERS-CoV S protein-initiated cell fusion by targeting TMPRSS2, and inhibited MERS-CoV infection of human lung epithelium-derived Calu-3 cells. Here we established a quantitative fusion assay dependent on SARS-CoV-2 S protein, ACE2 and TMPRSS2, and found that nafamostat mesylate potently inhibited the fusion while camostat mesylate was about 10-fold less active. Furthermore, nafamostat mesylate blocked SARS-CoV-2 infection of Calu-3 cells with an EC50 around 10 nM, which is below its average blood concentration after intravenous administration through continuous infusion. These findings, together with accumulated clinical data regarding its safety, make nafamostat a likely candidate drug to treat COVID19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Japanese Society for the Promotion of Science",
+                    "award-id": [
+                        "16H06575 to JI",
+                        "18K15235 to MY"
+                    ]
+                },
+                {
+                    "funding-source": "Program of Japan Initiative for Global Research Network on Infectious Diseases",
+                    "award-id": [
+                        "JP18fm0108006 to MY"
+                    ]
+                },
+                {
+                    "funding-source": "NIAID-funded Center for Research on Influenza Pathogenesis",
+                    "award-id": [
+                        "HHSN272201400008C to YoK"
+                    ]
+                },
+                {
+                    "funding-source": "Research Program on Emerging and Re-emerging Infectious Diseases from AMED",
+                    "award-id": [
+                        "19fk0108113 to YoK"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported in part by grantsin-aid from the Japanese Society for the Promotion of Science (16H06575 to JI, 18K15235 to MY), a Program of Japan Initiative for Global Research Network on Infectious Diseases (JGRID) from AMED (JP18fm0108006 to MY, YaK, Yok, ZM, and JI), NIAID-funded Center for Research on Influenza Pathogenesis (CRIP; HHSN272201400008C to YoK) and a Research Program on Emerging and Re-emerging Infectious Diseases from AMED (19fk0108113 to YoK). Author contributions M.Y., M.K., J.G., Z.M., Ya.K., Yo.K. and J.I. conceived and designed the experiments"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "abstract": "We have attempted to understand existing covid19 data of India, where growth of total and new cases with time in different states are kept as focal points. Identifying the last trend of exponential growth, mainly noticed in month of March, we have zoomed in its disaster possibilities by straight forward extrapolation of exponential growth. As a hopeful extrapolation, the existing data might be considered low time-axis values of Sigmoid-type function, whose growth might be saturated to values of 10^4 or 10^5. To fulfill this expectation, a turning from increasing to decreasing trend in new case data should be noticed around April-May, which definitely demand extension of present lock-down with additional interventions.",
+    "author": "SUPRIYA MONDAL; Sabyasachi Ghosh",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20060442",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20060442"
+    },
+    "title": "Possibilities of exponential or Sigmoid growth of Covid19 data in different states of India",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Not Applicable"
+                }
+            ],
+            "funding-statement": "Not Applicable"
+        }
+    ]
+}

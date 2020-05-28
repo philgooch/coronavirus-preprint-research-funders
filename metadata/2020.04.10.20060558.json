@@ -1,0 +1,72 @@
+{
+    "abstract": "Objectives To assess the efficacy and safety of hydroxychloroquine (HCQ) plus standard-of-care (SOC) compared with SOC alone in adult patients with COVID-19. Design Multicenter, open-label, randomized controlled trial. Setting 16 government-designated COVID-19 treatment centers in China through 11 to 29 in February 2020. Participants 150 patients hospitalized with laboratory-confirmed COVID-19 were included in the intention to treat analysis. 75 patients were assigned to HCQ plus SOC and 75 to SOC alone. Interventions HCQ was administrated with a loading dose of 1, 200 mg daily for three days followed by a maintained dose of 800 mg daily for the remaining days (total treatment duration: 2 or 3 weeks for mild/moderate or severe patients, respectively). Main outcome measures The primary outcome was whether participants had a negative conversion of SARS-CoV-2 by 28 days, and was analyzed according to the intention-to-treat principle. Adverse events were analyzed in the safety population in which HCQ recipients were participants who actually received at least one dose of HCQ and HCQ non-recipients were those actually managed with SOC alone. Results Among 150 patients, 148 were with mild to moderate disease and 2 were with severe disease. The mean days (\u00b1standard deviation, min to max) from symptoms onset to randomization was 16.6 (\u00b110.5 days, 3 to 41 days). The negative conversion probability by 28 days in SOC plus HCQ group was 85.4% (95% confidence interval (CI) 73.8% to 93.8%), similar to that in the SOC group 81.3% (95%CI 71.2% to 89.6%). Between-group difference was 4.1% (95%CI -10.3% to 18.5%). In the safety population, adverse events were recorded in 7 (8.8%) HCQ non-recipients (N=80) and in 21 (30%) HCQ recipients (N=70). The most common adverse event in the HCQ recipients was diarrhea, reported in 7 (10%) patients. Two HCQ recipients reported serious adverse events. Conclusions The administration of HCQ did not result in a significantly higher negative conversion probability than SOC alone in patients mainly hospitalized with persistent mild to moderate COVID-19. Adverse events were higher in HCQ recipients than in HCQ non-recipients. Trial registration ChiCTR2000029868",
+    "affiliations": [
+        "Shanghai National Research Centre for Endocrine and Metabolic Diseases, State Key Laboratory of Medical Genomics, Shanghai Institute for Endocrine and Metabolic Diseases, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+    ],
+    "author": "Xiongbiao Wang; Shengyong Liu; Junwen Chen; Qingxia Zhao; Yaofeng Yang; Guochao Shi; Erzhen Chen; Dan Li; Zhengyan Wang; Wenjin Sun; Qing Xie; Mingfeng Han; Youqin Yan; Zhibin Xie; Wei Chen; Zhujun Cao; Guang Ning; Yaojie Wu; Jieming Qu; Jiuyong Yang; Leshan Liu; Wei Tang; Wei Xiao; Jun Lin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20060558",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20060558"
+    },
+    "title": "Hydroxychloroquine in patients mainly with mild to moderate COVID-19: an open-label, randomized, controlled trial",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Emergent Projects of National Science and Technology",
+                    "award-id": [
+                        "2020YFC0844500"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81970020",
+                        "81770025"
+                    ]
+                },
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2016YFC0901104"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Municipal Key Clinical Specialty",
+                    "award-id": [
+                        "shslczdzk02202",
+                        "shslczdzk01103"
+                    ]
+                },
+                {
+                    "funding-source": "National Innovative Research Team of High-level Local Universities in Shanghai, Shanghai"
+                },
+                {
+                    "funding-source": "Key Discipline for Respiratory Diseases",
+                    "award-id": [
+                        "2017ZZ02014"
+                    ]
+                },
+                {
+                    "funding-source": "National Major Scientific and Technological Special Project for Significant New Drugs Development",
+                    "award-id": [
+                        "2017ZX09304007"
+                    ]
+                },
+                {
+                    "funding-source": "Key Projects in the National Science and Technology Pillar Program"
+                },
+                {
+                    "funding-source": "Thirteenth Five-year Plan Period",
+                    "award-id": [
+                        "2018ZX09206005-004",
+                        "2017ZX10202202-005-004",
+                        "2017ZX10203201-008"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Emergent Projects of National Science and Technology (2020YFC0844500), National Natural Science Foundation of China (81970020, 81770025), National Key Research and Development Program of China (2016YFC0901104), Shanghai Municipal Key Clinical Specialty (shslczdzk02202, shslczdzk01103), National Innovative Research Team of High-level Local Universities in Shanghai, Shanghai Key Discipline for Respiratory Diseases (2017ZZ02014), National Major Scientific and Technological Special Project for Significant New Drugs Development (2017ZX09304007), Key Projects in the National Science and Technology Pillar Program during the Thirteenth Five-year Plan Period (2018ZX09206005-004, 2017ZX10202202-005-004, 2017ZX10203201-008)"
+        }
+    ]
+}

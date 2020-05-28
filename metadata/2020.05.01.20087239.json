@@ -1,0 +1,26 @@
+{
+    "abstract": "We report a longitudinal analysis of the immune response associated with a fatal case of COVID-19. This patient exhibited a rapid evolution towards multiorgan failure. SARS-CoV-2 was detected in multiple nasopharyngeal, blood, and pleural samples, despite antiviral and immunomodulator treatment. Clinical evolution in the blood was marked by an increase (2-3 fold) in differentiated effector T cells expressing exhaustion (PD-1) and senescence (CD57) markers, an expansion of antibody-secreting cells, a 15-fold increase in \u03b3\u03b4 T-cell and proliferating NK-cell populations, and the total disappearance of monocytes, suggesting lung trafficking. In the serum, waves of a proinflammatory cytokine storm, Th1 and Th2 activation, and markers of T-cell exhaustion, apoptosis, cell cytotoxicity, and endothelial activation were observed until the fatal outcome. This case underscores the need for well-designed studies to investigate complementary approaches to control viral replication, the source of the hyperinflammatory status, and immunomodulation to target the pathophysiological response.",
+    "affiliations": [
+        "Vaccine Research Institute (VRI), managed by the ANR under reference ANR-10-LABX-77-01"
+    ],
+    "author": "Fabrice Sinnah; Paul-Henri Wicky; Jean-Luc Diehl; Aurelie Wiedemann; Emile Foucat; Lila Bouadma; Jean-Francois Timsit; Etienne de Montmollin; Rodolphe Thiebaut; Boris P Hejblum; Christine Lacabaratz; Juliette Patrier; Mathieu Surenaud; Yves Levy",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087239",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087239"
+    },
+    "title": "Immune alterations during SARS-CoV-2-related acute respiratory distress syndrome",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Vaccine Research Institute",
+                    "award-id": [
+                        "ANR-10-LABX-77-01"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Investissements d\u0092Avenir program, Vaccine Research Institute (VRI), managed by the ANR under reference ANR-10-LABX-77-01"
+        }
+    ]
+}

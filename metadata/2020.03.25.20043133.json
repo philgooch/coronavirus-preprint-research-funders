@@ -1,0 +1,40 @@
+{
+    "title": "Effects of hypertension, diabetes and coronary heart disease on COVID-19 diseases severity: a systematic review and meta-analysis",
+    "author": "Yingyu Chen, Xiao Gong, Lexun Wang, Jiao Guo First Affiliated Hospital of Guangdong Pharmaceutical University, No.19 Nonglinxia Road, Guangzhou, 510080, China (Yingyu Chen MD, Prof Jiao Guo) Guangdong metabolic Diseases Research Center of Integrated Chinese and Western Medicine; Key Laboratory of Glucolipid Metabolic Disorder, Ministry of Education of China; Institute of Chinese Medicine, Guangdong Pharmaceutical University; Guangdong TCM Key Laboratory for Metabolic Diseases, No.280 Wai Huan Dong Road, Guangzhou 510006, China. (Yingyu Chen MD, Prof Jiao Guo, Lexun Wang MD) School of public health, Guangdong Pharmaceutical University, No.280 Outer Ring Road East, Guangzhou, 510006, China (Xiao Gong PhD) Correspondence to: Prof Jiao Guo, Guangdong metabolic Diseases Research Center of Integrated Chinese and Western Medicine; Key Laboratory of Glucolipid Metabolic Disorder, Ministry of Education of China; Institute of Chinese Medicine, Guangdong Pharmaceutical University; Guangdong TCM Key Laboratory for Metabolic Diseases, No.280 Wai Huan Dong Road, Guangzhou 510006, China. gyguoyz@163.com Tel: +8602039352818",
+    "date": 2020,
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.25.20043133",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.25.20043133.pdf"
+    },
+    "abstract": "Background COVID-19 patients with chronic diseases such as hypertension, diabetes and coronary heart diseases is more likely to worsen, but with mixed results for COVID-19 severity. This meta-analysis is to analyze the correlation between hypertension, diabetes, coronary heart disease and COVID-19 disease severity. Methods Available data from PubMed, Web of Science, China National Knowledge Infrastructure Database, WanFang Database and VIP Database, were analyzed using a fixed effects model meta-analysis to derive overall odds ratios (OR) with 95% CIs. Funnel plots and Begg's were used to assess publication bias. Findings Of 182 articles found following our initial search, we assessed 34 full-text articles, of which 9 articles with 1936 COVID-19 patients met all selection criteria for our meta-analysis. No significant heterogeneity between studies. There were significant correlations between COVID-19 severity and hypertension [OR=2.3 [95% CI (1.76, 3.00), P<0.01], diabetes [OR=2.67, 95% CI (1.91, 3.74), P<0.01], coronary heart disease [OR=2.85 [95% CI (1.68, 4.84), P<0.01]. Most of the studies in the funnel plot are on the upper part and few on the base part, and are roughly symmetrical left and right. Begg's test: hypertension (Z=-0.1, P=1.0), diabetes (Z=0.73, P=0.466), coronary heart disease (Z=0.38, P=0.707), all found no publication bias. Interpretation Hypertension, diabetes, and coronary heart disease can affect the severity of COVID-19. It may be related to the imbalance of angiotensin-converting enzyme 2 (ACE2) and the cytokine storm induced by Glucolipid metabolic disorders (GLMD). Funding National Natural Science Foundation of China (No. 81830113, 81530102); Major basic and applied basic research projects of Guangdong Province of China (No. 2019B030302005); National key R & D plan \"Research on modernization of traditional Chinese medicine\" (No. 2018YFC1704200) and Natural Science Foundation of Guangdong Province (No. 2018A030313391)",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81830113",
+                        "81530102"
+                    ]
+                },
+                {
+                    "funding-source": "Guangdong Province of China",
+                    "award-id": [
+                        "2019B030302005",
+                        "2018YFC1704200"
+                    ]
+                },
+                {
+                    "funding-source": "Natural Science Foundation of Guangdong Province",
+                    "award-id": [
+                        "2018A030313391"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Natural Science Foundation of China (No 81830113, 81530102); Major basic and applied basic research projects of Guangdong Province of China (No 2019B030302005); National key R & D plan \"Research on modernization of traditional Chinese medicine\" (No 2018YFC1704200) and Natural Science Foundation of Guangdong Province (No 2018A030313391)"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "abstract": "Identification of immunogenic targets of SARS-CoV-2 is crucial for monitoring of antiviral immunity and vaccine design. Currently, mainly anti-spike (S)-protein adaptive immunity is investigated. However, also the nucleocapsid (N)- and membrane (M)-proteins should be considered as diagnostic and prophylactic targets. The aim of our study was to explore and compare the immunogenicity of SARS-CoV-2 S-, M- and N-proteins in context of different COVID-19 manifestations. Analyzing a cohort of COVID-19 patients with moderate, severe, and critical disease severity, we show that overlapping peptide pools (OPP) of all three proteins can activate SARS-CoV-2-reactive T-cells with a stronger response of CD4+ compared to CD8+ T-cells. Although interindividual variations for the three proteins were observed, M protein induced the highest frequencies of CD4+ T-cells, suggesting its relevance as diagnostic and vaccination target. Importantly, patients with critical COVID-19 demonstrated the strongest T-cell response, including the highest frequencies of cytokine-producing bi- and trifunctional T-cells, for all three proteins. Although the higher magnitude and superior functionality of SARS-CoV-2-reactive T-cells in critical patients can also be a result of a stronger immunogenicity provided by severe infection, it disproves the hypothesis of insufficient SARS-CoV-2-reactive immunity in critical COVID-19. To this end, activation of effector T-cells with differentiated memory phenotype found in our study could cause hyper-reactive response in critical cases leading to immunopathogenesis. Conclusively, since the S-, M-, and N-proteins induce T-cell responses with individual differences, all three proteins should be evaluated for diagnostics and therapeutic strategies to avoid underestimation of cellular immunity and to deepen our understanding of COVID-19 immunity.",
+    "author": "Ulrik Stervbo; Moritz Anft; Felix S Seibert; Thorsten Brenner; Carsten Watzl; Toralf Roch; Krystallenia Paniskaki; Oliver Witzke; Constantin J Thieme; Arturo Blazquez-Navarro; Margarethe Justine Konik; Clemens Tempfer; Ulf Dittmer; Nina Babel; Sebastian Dolff; Adrian Doevelaar; Bodo Hoelzer; Timm H. Westhoff",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20100636",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20100636"
+    },
+    "title": "The SARS-CoV-2 T-cell immunity is directed against the spike, membrane, and nucleocapsid protein and associated with COVID 19 severity",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Mercator Foundation,",
+                    "award-id": [
+                        "01ZX1612A"
+                    ]
+                },
+                {
+                    "funding-source": "BMBF NoChro",
+                    "award-id": [
+                        "FKZ 13GW0338B"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants of Mercator Foundation, the BMBF e:KID (01ZX1612A), and BMBF NoChro (FKZ 13GW0338B)"
+        }
+    ]
+}

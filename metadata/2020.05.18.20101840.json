@@ -1,0 +1,44 @@
+{
+    "abstract": "Purpose: To estimate the prevalence of depression and loneliness during the US COVID-19 response, and examine their associations with frequency of social and sexual connections. Methods: We conducted an online cross-sectional survey of a nationally representative sample of American adults (n=1010), aged 18-94, running from April 10-20, 2020. We assessed depressive symptoms (CES-D-10 scale), loneliness (UCLA 3-Item Loneliness scale), and frequency of in-person and remote social connections (4 items, e.g. hugging family member, video chats) and sexual connections (4 items, e.g. partnered sexual activity, dating app use). Results: One-third of participants (32%) reported depressive symptoms, and loneliness was high [mean (SD): 4.4 (1.7)]. Those with depressive symptoms were more likely to be women, age 20-29, unmarried, and low-income. Frequent in-person connections were associated with lower depression and loneliness; frequent remote connections were not. Conclusions: Depression and loneliness were elevated during the early US COVID-19 response. Those who maintained frequent in-person, but not remote, social and sexual connections had better mental health outcomes. While COVID-19 social restrictions remain necessary, it will be critical to expand mental health services to serve those most at-risk and identify effective ways of maintaining social and sexual connections from a distance.",
+    "affiliations": [
+        "National Survey of Sexual and Reproductive Health During COVID-19 (NSRHDC) was generously supported by grants from Pure Romance as well the Indiana University Office of the Vice Provost for Research"
+    ],
+    "author": "Devon Hensel; Sina Kianersi; Maya Luetke; Molly Rosenberg; Debby Herbenick",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20101840",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20101840"
+    },
+    "journal": "The",
+    "title": "Depression and loneliness during COVID-19 restrictions in the United States, and their associations with frequency of social and sexual connections",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ICMJE"
+                },
+                {
+                    "funding-source": "Pure Romance; Herbenick"
+                },
+                {
+                    "funding-source": "Church and Dwight Co."
+                }
+            ],
+            "funding-statement": "All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf and declare: the study from which the submitted work was conducted was financially supported by Pure Romance; Herbenick has also received research and/or academic consultation support from Church and Dwight Co. and FGSake, LLC; Hensel has also received research support from FGSake, LLC; all authors declare no other financial relationships with any organizations that might have an interest in the submitted work in the previous three years; all authors declare no other relationships or activities that could appear to have influenced the submitted work"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Survey of Sexual and Reproductive Health During COVID-19"
+                },
+                {
+                    "funding-source": "Pure Romance"
+                },
+                {
+                    "funding-source": "Indiana University Office of the Vice Provost for Research"
+                }
+            ],
+            "funding-statement": "The 2020 National Survey of Sexual and Reproductive Health During COVID-19 (NSRHDC) was generously supported by grants from Pure Romance as well the Indiana University Office of the Vice Provost for Research"
+        }
+    ]
+}

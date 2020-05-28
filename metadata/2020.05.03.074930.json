@@ -1,0 +1,36 @@
+{
+    "title": "Design of an Epitope-Based Peptide Vaccine against the Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2): A Vaccine Informatics Approach",
+    "author": "Arbaaz Khan#1, Aftab Alam#2, Nikhat Imam, Mohd Faizan Siddiqui, and Romana Ishrat, 1Department of Computer Science, JMI University, New Delhi-110025. 2Center for Interdisciplinary Research in Basic sciences, JMI University, New Delhi-110025. 3Institute of Computer Science & Information Technology, Department of Mathematics, Magadh University, Bodh Gaya-824234 (Bihar, India). 4International Medical Faculty, Osh State University, Osh City, 723500, Kyrgyz Republic (Kyrgyzstan)",
+    "date": 2020,
+    "affiliations": [
+        "Department of Computer Science, JMI University, New Delhi-110025",
+        "Center for Interdisciplinary Research in Basic sciences, JMI University, New Delhi-110025",
+        "Institute of Computer Science & Information Technology, Department of Mathematics, Magadh University, Bodh Gaya-824234 (Bihar, India)",
+        "International Medical Faculty, Osh State University, Osh City, 723500, Kyrgyz Republic (Kyrgyzstan)",
+        "Centre for Interdisciplinary Research in Basic Science Jamia Millia Islamia University New Delhi-110025, India"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.03.074930",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.03.074930.pdf"
+    },
+    "abstract": "The recurrent and recent global outbreak of SARS-COV-2 has turned into a global concern which has infected more than one million people all over the globe, and this number is increasing in hours. Unfortunate no vaccine or specific treatment is available, which make it more deadly. An immunoinformatics approach has shown significant breakthrough in peptide-based epitope mapping and opens the new horizon in vaccine development. In this study, we have identified a total of 15 antigenic peptides (including T and B Cells) in the surface glycoprotein of SARSCoV-2 which found to be 100% conserved with other SARS coronaviruses. Furthermore, the population coverage analysis has found that CD4+ T-cell peptides showed higher cumulative population coverage over to CD8+ peptides in the 16 different geographical regions in the world. Notably, only 09 out of 15 peptides (LTDEMIAQY, IRASANLAA, FGAISSVLN, VKQLSSNFG, FAMQMAYRF, FGAGAALQ, VITPGTNTS, WTAGAAAYY and QTQTNSPRRARS) that have",
+    "keywords": [
+        "COVID-19",
+        "Vaccinomics",
+        "Allergenicity",
+        "Immunogenicity",
+        "Epitope prediction",
+        "T & B cell",
+        "Molecular docking",
+        "Population Coverage"
+    ],
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work did not receive any specific grant from funding agencies in the public, commercial or not-for-profit sectors."
+        }
+    ]
+}

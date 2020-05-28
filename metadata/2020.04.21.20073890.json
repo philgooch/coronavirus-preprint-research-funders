@@ -1,0 +1,26 @@
+{
+    "abstract": "We show that the COVID-19 pandemic under social distancing exhibits universal dynamics. The cumulative numbers of both infections and deaths quickly cross over from exponential growth at early times to a longer period of power law growth, before eventually slowing. In agreement with a recent statistical forecasting model by the IHME, we show that this dynamics is well described by the erf function. Using this functional form, we perform a data collapse across countries and US states with very different population characteristics and social distancing policies, confirming the universal behavior of the COVID-19 outbreak. We show that the predictive power of statistical models is limited until a few days before curves flatten, forecast deaths and infections assuming current policies continue and compare our predictions to the IHME models. We present simulations showing this universal dynamics is consistent with disease transmission on scale-free networks and random networks with non-Markovian transmission dynamics.",
+    "author": "Pankaj Mehta; Robert Marsland",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20073890",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20073890"
+    },
+    "title": "Data-driven modeling reveals a universal dynamic underlying the COVID-19 pandemic under social distancing",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH NIGMS",
+                    "award-id": [
+                        "1R35GM119461"
+                    ]
+                },
+                {
+                    "funding-source": "Simons Investigator in the Mathematical Modeling of Living Systems"
+                }
+            ],
+            "funding-statement": "The work was supported by NIH NIGMS grant 1R35GM119461, Simons Investigator in the Mathematical Modeling of Living Systems (MMLS) to PM"
+        }
+    ]
+}

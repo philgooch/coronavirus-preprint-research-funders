@@ -1,0 +1,52 @@
+{
+    "abstract": "Background. Face-to-face healthcare, including psychiatric provision, must continue despite reduced interpersonal contact during the COVID-19 (SARS-CoV-2 coronavirus) pandemic. Community-based services might use domiciliary visits, consultations in healthcare settings, or remote consultations. Services might also alter direct contact between clinicians. Aims. We examined the effects of appointment types and clinician-clinician encounters upon infection rates. Methods. We modelled a COVID-19-like disease in a hypothetical community healthcare team, their patients, and patients' household contacts (family). In one condition, clinicians met patients and briefly met family (e.g. home visit or collateral history). In another, patients attended alone (e.g. clinic visit), segregated from each other. In another, face-to-face contact was eliminated (e.g. videoconferencing). We also varied clinician-clinician contact; baseline and ongoing \"external\" infection rates; whether overt symptoms reduced transmission risk behaviourally (e.g. via personal protective equipment, PPE); and household clustering. Results. Service organization had minimal effects on whole-population infection under our assumptions but materially affected clinician infection. Appointment type and inter-clinician contact had greater effects at low external infection rates and without a behavioural symptom response. Clustering magnified the effect of appointment type. We discuss infection control and other factors affecting appointment choice and team organization. Conclusions. Distancing between clinicians can have significant effects on team infection. Loss of clinicians to infection likely has an adverse impact on care, not modelled here. Appointments must account for clinical necessity as well as infection control. Interventions to reduce transmission risk can synergize, arguing for maximal distancing and behavioural measures (e.g. PPE) consistent with safe care.",
+    "affiliations": [
+        "Cambridge University Press, Cambridge Enterprise, and Routledge. BRU is clinical director of the Windsor Unit at Fulbourn Hospital, which delivers clinical trials in dementia/mild cognitive impairment for academic and commercial organisations without personal benefit, and is the clinical lead for dementia for the UK National Institute for Health Research (NIHR) Clinical Research Network in the East of England. SRC consults for Promentis and Ieso Digital Health",
+        "Cambridge Biomedical Research Centre; the views expressed are those of the authors and not necessarily those of the NHS, the NIHR, or the Department of Health and Social Care"
+    ],
+    "author": "Annabel C Price; Chess Denman; Rudolf Nicholas Cardinal; Caroline E Meiser-Stedman; Li Su; Soumya Nicholas Banerjee; Simon R White; Chen Shanquan; Tamsin J. Ford; Catherine M Walsh; Samuel R Chamberlain; David M Christmas; Benjamin R Underwood",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20081505",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20081505"
+    },
+    "title": "Simulating a community mental health service during the COVID-19 pandemic: effects of clinician-clinician encounters, clinician-patient-family encounters, symptom-triggered protective behaviour, and household clustering",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Medical Research Council",
+                    "award-id": [
+                        "MC_PC_17213 to RNC"
+                    ]
+                }
+            ],
+            "funding-statement": "RNC\u0092s, SC\u0092s, and SB\u0092s research is supported by the UK Medical Research Council (grant MC_PC_17213 to RNC)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust Clinical Fellowship",
+                    "award-id": [
+                        "110049/Z/15/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "SRC is funded by a Wellcome Trust Clinical Fellowship (110049/Z/15/Z)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Cambridge Biomedical Research Centre;"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Department of Health and Social Care"
+                }
+            ],
+            "funding-statement": "This research was supported in part by the NIHR Cambridge Biomedical Research Centre; the views expressed are those of the authors and not necessarily those of the NHS, the NIHR, or the Department of Health and Social Care"
+        }
+    ]
+}

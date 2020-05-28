@@ -1,0 +1,16 @@
+{
+    "abstract": "Background and aim: Given a potential surge of COVID-19 cases in Germany, the federal government and the federal states have ordered a shutdown of businesses and social activities. An important purpose of the shutdown is to avoid overstretching intensive care unit (ICU) capacity (flattening the curve). The aim of this study was to determine the clinical and economic value of a successful shutdown. Methods: In the base case, the study compared a successful shutdown to a worst-case scenario with no ICU capacity left to treat COVID-19 patients. To this end, a decision model was developed using, e.g., information on age-specific fatality rates, ICU outcomes, and the herd protection threshold. The value of an additional life year was borrowed from new, innovative oncological drugs, as cancer reflects a condition with a similar morbidity and mortality burden in the general population in the short-term. Results: A successful shutdown is projected to yield an average gain between 0.02 and 0.08 life years (0.3 to 1.0 months) per capita in the German population. The corresponding economic value ranges between 2147 and 8056 euros per capita or, extrapolated to the total population, 5% to 19% of the gross domestic product in 2019. Nevertheless, if herd immunity is achieved through natural infection, even a shutdown that is successful in flattening the curve is expected to yield a loss of 0.40 life years per capita compared to the situation before the pandemic. Conclusion: A successful shutdown is forecasted to yield a considerable gain in life years in the German population. Nevertheless, questions around the affordability and underfunding of other parts of the healthcare system emerge.",
+    "author": "Afschin Gandjour",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20098996",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20098996"
+    },
+    "title": "The Clinical and Economic Value of a Successful Shutdown During the SARS-CoV-2 Pandemic in Germany",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This research received no specific grant from any funding agency in the public, commercial or not-for-profit sectors"
+        }
+    ]
+}

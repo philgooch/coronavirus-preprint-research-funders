@@ -1,0 +1,47 @@
+{
+    "title": "Pre-existing and de novo humoral immunity to SARS-CoV-2 in humans",
+    "author": "George Kassiotis",
+    "date": 2020,
+    "affiliations": [
+        "Signalling and Structural Biology Laboratory",
+        "Structural Biology of Disease Processes Laboratory",
+        "Structural Biology STP",
+        "Flow cytometry STP",
+        "Cell Biology of Infection Laboratory",
+        "Cancer Evolution and Genome Instability Laboratory",
+        "Neurodegradation Biology Laboratory",
+        "AhRimmunity Laboratory, The Francis Crick Institute",
+        "Midland Road, London NW1 1AT, UK",
+        "University College London Hospitals NHS Trust, London NW1 2BU, UK",
+        "Division of Infection and Immunity, University College London, London WC1E 6BT, UK",
+        "Department of Population, Policy and Practice, Great Ormond Street Institute for Child Health, University College London, London WC1N 1EH, UK",
+        "Department of Medicine, Faculty of Medicine, Imperial College London, London W2 1PG, UK"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.095414",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.095414.pdf"
+    },
+    "abstract": "Several related human coronaviruses (HCoVs) are endemic in the human population, causing mild respiratory infections1. Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), the etiologic agent of Coronavirus disease 2019 (COVID-19), is a recent zoonotic infection that has quickly reached pandemic spread2,3. Zoonotic introduction of novel coronaviruses is thought to occur in the absence of pre-existing immunity in the target human population. Using diverse assays for detection of antibodies reactive with the SARS-CoV-2 Spike (S) glycoprotein, we demonstrate the presence of pre-existing immunity in uninfected and unexposed humans to the new coronavirus. SARS-CoV-2 S-reactive antibodies, exclusively of the IgG class, were readily detectable by a sensitive flow cytometry-based method in SARS-CoV-2-uninfected individuals with recent HCoV infection and targeted the S2 subunit. In contrast, SARS-CoV-2 infection induced higher titres of SARS-CoV-2 Sreactive IgG antibodies, as well as concomitant IgM and IgA antibodies throughout the observation period of 6 weeks since symptoms onset. HCoV patient sera also variably reacted with SARS-CoV-2 S and nucleocapsid (N), but not with the S1 subunit or the receptor binding domain (RBD) of S on standard enzyme immunoassays. Notably, HCoV patient sera exhibited specific neutralising activity against SARS-CoV-2 S pseudotypes, according to levels of SARS-CoV-2 S-binding IgG and with efficiencies comparable to those of COVID-19 patient sera. Distinguishing pre-existing and de novo antibody responses to SARS-CoV-2 will be critical for serology, seroprevalence and vaccine studies, as well as for our understanding of susceptibility to and natural course of SARS-CoV-2 infection.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Francis Crick Institute,"
+                },
+                {
+                    "funding-source": "Cancer Research UK,"
+                },
+                {
+                    "funding-source": "UK Medical Research Council,"
+                },
+                {
+                    "funding-source": "Wellcome Trust"
+                }
+            ],
+            "funding-statement": "This work was supported by the Francis Crick Institute, which receives its core funding from Cancer Research UK, the UK Medical Research Council, and the Wellcome Trust"
+        }
+    ]
+}

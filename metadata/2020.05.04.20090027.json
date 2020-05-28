@@ -1,0 +1,23 @@
+{
+    "abstract": "SARS-CoV-2 antibody assays are needed for serological surveys and as a complement to molecular tests to confirm COVID-19. However, the kinetics of the humoral response against SARS-CoV-2 remains poorly described and relies on the performance of the different serological tests. In this study, we evaluated the performance of six CE-marked point-of-care tests (POC) and three ELISA assays for the diagnosis of COVID-19 by exploring seroconversions in hospitalized patients who tested positive for SARS-CoV-2 RNA. Both the ELISA and POC tests were able to detect SARS-CoV-2 antibodies in at least half of the samples collected seven days or more after the onset of symptoms. After 15 days, the rate of detection rose to over 80% but without reaching 100%, irrespective of the test used. More than 90% of the samples collected after 15 days tested positive using the iSIA and Accu-Tell POC tests and the ID.Vet IgG ELISA assay. Seroconversion was observed 5 to 12 days after the onset of symptoms. Three assays suffer from a specificity below 90% (EUROIMMUN IgG and IgA, UNscience, Zhuhai Livzon). The second week of COVID-19 seems to be the best period for assessing the sensitivity of commercial serological assays. To achieve an early diagnosis of COVID-19 based on antibody detection, a dual challenge must be met: the immunodiagnostic window period must be shortened and an optimal specificity must be conserved.",
+    "affiliations": [
+        "Grants from Montpellier University Hospital and Montpellier University (MUSE)"
+    ],
+    "author": "Edouard TUAILLON",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090027",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090027"
+    },
+    "title": "Detection of SARS-CoV-2 antibodies using commercial assays and seroconversion patterns in hospitalized patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Grants from Montpellier University Hospital and Montpellier University"
+                }
+            ],
+            "funding-statement": "This work was supported by Grants from Montpellier University Hospital and Montpellier University (MUSE)"
+        }
+    ]
+}

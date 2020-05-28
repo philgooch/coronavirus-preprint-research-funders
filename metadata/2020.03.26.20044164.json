@@ -1,0 +1,52 @@
+{
+    "abstract": "Background: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a virus that causes severe respiratory illness in humans, which eventually results in the current outbreak of novel coronavirus disease (COVID-19) around the world. The research community is interested to know what are the hotspots in coronavirus (CoV) research and how much is known about COVID-19. This study aimed to evaluate the characteristics of publications involving coronaviruses as well as COVID-19 by using a topic modeling analysis. Methods: We extracted all abstracts and retained the most informative words from the COVID-19 Open Research Dataset, which contains all the 35,092 pieces of coronavirus related literature . Using Latent Dirichlet Allocation modeling, we trained an eight-topic model from the corpus. We then analyzed the semantic relationships between topics and compared the topic distribution between COVID-19 and other CoV infections. Results: Eight topics emerged overall: clinical characterization, pathogenesis research, therapeutics research, epidemiological study, virus transmission, vaccines research, virus diagnostics, and viral genomics. It was observed that COVID-19 research puts more emphasis on clinical characterization, epidemiological study, and virus transmission at present. In contrast, topics about diagnostics, therapeutics, vaccines, genomics and pathogenesis only accounted for less than 10% or even 4% of all the COVID-19 publications, much lower than those of other CoV infections. Conclusions: These results identified knowledge gaps in the area of COVID-19 and offered directions for future research. Keywords: COVID-19, coronavirus, topic modeling, hotspots, text mining\nCompeting Interest Statement\nThe authors have declared no competing interest.\nFunding Statement\nThis work was supported by the National Key R&D Plan of China (grant number 2018YFC1315405), the National Natural Science Foundation of China (grant number 71704031), and the fund from Guangzhou Institute of Pediatrics/Guangzhou Women and Children\u0092s Medical Center (grant numbers IP-2019-017, KCP-2016-002).\nAuthor Declarations\nAll relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript.\nYes\nAll necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived.\nYes\nI understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).",
+    "affiliations": [
+        "National Key R&D Plan of China (grant number 2018YFC1315405), the National Natural Science Foundation of China (grant number 71704031), and the fund from Guangzhou Institute of Pediatrics/Guangzhou Women and Children\u0092s Medical Center (grant numbers IP-2019-017, KCP-2016-002)"
+    ],
+    "author": "Lijuan Li; Guangjian Liu; Mengying Dong; Mingbiao Liang; Huiying Liang; Xiaojun Cao",
+    "date": 2020,
+    "doi": "10.1101/2020.03.26.20044164",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.26.20044164"
+    },
+    "keywords": [
+        "COVID-19",
+        "coronavirus",
+        "topic modeling",
+        "hotspots",
+        "text mining"
+    ],
+    "title": "Understand Research Hotspots Surrounding COVID-19 and Other Coronavirus Infections Using Topic Modeling",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D Plan of China",
+                    "award-id": [
+                        "2018YFC1315405"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "71704031"
+                    ]
+                },
+                {
+                    "funding-source": "Guangzhou Institute of"
+                },
+                {
+                    "funding-source": "Guangzhou Women and"
+                },
+                {
+                    "funding-source": "Medical Center",
+                    "award-id": [
+                        "IP-2019-017",
+                        "KCP-2016-002"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Key R&D Plan of China (grant number 2018YFC1315405), the National Natural Science Foundation of China (grant number 71704031), and the fund from Guangzhou Institute of Pediatrics/Guangzhou Women and Children\u0092s Medical Center (grant numbers IP-2019-017, KCP-2016-002)"
+        }
+    ]
+}

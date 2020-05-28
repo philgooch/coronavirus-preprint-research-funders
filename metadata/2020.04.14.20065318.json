@@ -1,0 +1,30 @@
+{
+    "abstract": "During an epidemic, metrics such as R0, doubling time, and case fatality rates are important in understanding and predicting the course of an epidemic. However, if collected over country or regional scales, these metrics hide important smaller-scale, local dynamics. We examine how commonly used epidemiological metrics differ for each individual state within the United States during the initial COVID-19 outbreak. We found that the case number, and trajectory of cases, differs considerably between states. We show that early non-pharmaceutical, government actions, were the most important determinant of epidemic dynamics. In particular, restricting restaurant operations was correlated with increased doubling times. Although individual states are clearly not independent, they can serve as small, natural experiments in how different demographic patterns and government responses can impact the course of an epidemic.",
+    "affiliations": [
+        "National Institutes of Health 1P20 GM125498-01 Centers of Biomedical Research Excellence Award"
+    ],
+    "author": "Laurent R H\u00e9bert-Dufresne; Easton R White",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065318",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065318"
+    },
+    "title": "State-level variation of initial COVID-19 dynamics in the United States: The role of local government interventions",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "1P20",
+                        "GM125498-01"
+                    ]
+                },
+                {
+                    "funding-source": "Centers of Biomedical Research Excellence Award"
+                }
+            ],
+            "funding-statement": "L.H.-D. acknowledges support from the National Institutes of Health 1P20 GM125498-01 Centers of Biomedical Research Excellence Award"
+        }
+    ]
+}

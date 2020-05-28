@@ -1,0 +1,20 @@
+{
+    "abstract": "The goal of this paper is to showcase that the COVID-19 disease pattern is evolving and to study the relationship between mandatory BCG policy and caseload/million or death/per million. We analyze seven recent publications on the impact of BCG vaccinations on the development of COVID19 illness and extend presented findings using the latest data from April 10, 2020. We analyze data from 98 countries and we extend existing models by adding the dimension of COVID-19-related testing conducted by the analyzed countries. Similarly to prior studies, we find that COVID-19 attributable case and death incidences across countries share a relationship with the BCG vaccination inclusion in the national immunization program of a country when testing is not taken into consideration. However, this relationship vanishes when we add the dimension of testing. We observe that case and death incidences conditional on testing do not get affected by the BCG vaccination inclusion in the national immunization program of a country. Therefore, we show that there is no statistical evidence to support the assertion that inclusion of BCG vaccination in national immunization program (NIP) has any impact of COVID 19 infections (cases) or mortality.",
+    "author": "Arpit Srivastava; Saurav Chakraborty; Ankita Patidar; Agnieszka Onuchowska; Shivendu Shivendu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.18.20071142",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.18.20071142"
+    },
+    "title": "Is there evidence that BCG vaccination has non-specific protective effects for COVID 19 infections or is it an illusion created by lack of testing?",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Not Applicable"
+                }
+            ],
+            "funding-statement": "Not Applicable"
+        }
+    ]
+}

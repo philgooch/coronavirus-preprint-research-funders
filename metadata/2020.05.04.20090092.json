@@ -1,0 +1,23 @@
+{
+    "abstract": "COVID-19 has circled the globe, rapidly expanding into a pandemic within a matter of weeks. Lacking an effective vaccine or proven, pharmaceutical therapy, countries have enacted an unprecedented series of non-pharmaceutical interventions to combat this disease. However, the potential for variation in free-living virus survival to modulate the efficacy of these interventions remains unclear. Using an empirically determined understanding of SARS-CoV-2 natural history and detailed, country-level case data, we elucidate how variation in free-living virus survival influences key features of COVID-19 epidemics. Our findings suggest that the COVID-19 basic reproductive number (R0) and other key signatures of outbreak intensity are modulated by transmission between infected individuals and the environment. In addition, country-level outbreaks vary in the degree to which environmental transmission appears to modulate COVID-19 dynamics. Summarizing, we propose that informed models of sit and wait, environmental transmission are essential in emerging outbreaks, as they highlight how variation in environmental transmission may explain observed differences in disease dynamics from setting to setting, and can inform public health interventions.",
+    "author": "Samuel V. Scarpino; Lourdes M. Gomez; Victor A. Meszaros; C. Brandon Ogbunugafor; Anarina L. Murillo; Miles D. Miller-Dickson",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090092",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090092"
+    },
+    "title": "The intensity of COVID-19 outbreaks is modulated by SARS-CoV-2 free-living survival and environmental transmission",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "U54GM115677"
+                    ]
+                }
+            ],
+            "funding-statement": "ALM would like to acknowledge NIH U54GM115677 for funding support"
+        }
+    ]
+}

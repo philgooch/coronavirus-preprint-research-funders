@@ -1,0 +1,59 @@
+{
+    "title": "Identification of neutralizing human monoclonal antibodies from Italian Covid-19 convalescent patients",
+    "author": "Rino Rappuoli",
+    "date": 2020,
+    "affiliations": [
+        "National Institute for Infectious Diseases Lazzaro Spallanzani, IRCCS, Rome, Italy 14",
+        "Department of Medical Biotechnologies, University of Siena, Siena, Italy 15",
+        "Department of Specialized and Internal Medicine, Tropical and Infectious Diseases Unit",
+        "University Hospital of Siena, Siena, Italy 17",
+        "Department of Molecular and Developmental Medicine, University of Siena, Siena, Italy 18",
+        "Faculty of Medicine, Imperial College, London, United Kingdom 19",
+        "Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Siena, Italy 20",
+        "University of Turin, Turin, Italy 21",
+        "Tumour Immunology Unit, Fondazione Toscana Life Sciences, Siena, Italy"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.05.078154",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.05.078154.pdf"
+    },
+    "abstract": "In the absence of approved drugs or vaccines, there is a pressing need to develop tools for therapy and prevention of Covid-19. Human monoclonal antibodies have very good probability of being safe and effective tools for therapy and prevention of SARS-CoV-2 infection and disease. Here we describe the screening of PBMCs from seven people who survived Covid-19 infection to isolate human monoclonal antibodies against SARS-CoV-2. Over 1,100 memory B cells were single-cell sorted using the stabilized prefusion form of the spike protein and incubated for two weeks to allow natural production of antibodies. Supernatants from each cell were tested by ELISA for spike protein binding, and positive antibodies were further tested for neutralization of spike binding to receptor(s) on Vero E6 cells and for virus neutralization in vitro. From the 1,167 memory B specific for SARS-CoV-2, we recovered 318 B lymphocytes expressing human monoclonals recognizing the 41 spike protein and 74 of these were able to inhibit the binding of the spike protein to the receptor. 42 Finally, 17 mAbs were able to neutralize the virus when assessed for neutralization in vitro. Lead candidates to progress into the drug development pipeline will be selected from the panel of neutralizing antibodies identified with the procedure described in this study.",
+    "hyperbole": [
+        "is unprecedented. This first wave of infection is likely to be followed by additional waves in the next few years, until herd immunity, acquired by vaccination or by infection, will constrain the circulation of the virus. It is therefore imperative to develop therapeutic and preventive tools to face the next waves of SARS-",
+        "the incredible technical progress in the field allows to shorten the conventional timelines and go from discovery to proof of concept trials in 5-6 months (1). Indeed, in the case of Ebola, mAbs were the first therapeutic intervention recommended by the World",
+        "the incredible technological progress to isolate and screen memory B cells made possible to identify highly potent neutralizing mAbs and to further improve their potency of several orders of magnitude through established engineering procedures.",
+        "In this case rapidly developed potent mAbs were among the first drugs to be tested in the Ebola outbreak and showed remarkable efficacy in preventing mortality (2). Given the remarkable efficacy of this intervention, potent mAbs became the first, and so far the only, drug to be recommended for Ebola by the WHO.",
+        "Administration for their incredible help and support. In particular we would like to thank Mr. Francesco Senatore, Mrs. Laura"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Mr Francesco Senatore, Mrs"
+                },
+                {
+                    "funding-source": "Laura Canavacci and Mrs Cinzia Giordano for"
+                },
+                {
+                    "funding-source": "European Research Council"
+                },
+                {
+                    "funding-source": "ERC Advanced"
+                },
+                {
+                    "funding-source": "National Institute for Infectious Diseases, IRCCS"
+                },
+                {
+                    "funding-source": "Lazzaro Spallanzani Rome"
+                },
+                {
+                    "funding-source": "Azienda Ospedaliera Universitaria Senese, Siena"
+                }
+            ],
+            "funding-statement": "In particular we would like to thank Mr Francesco Senatore, Mrs Laura Canavacci and Mrs Cinzia Giordano for their support in preparing all the documents needed for the ethical approval of the clinical studies carried out within this project. This work was possible thanks to the technology established in our European Research Council (ERC) funded laboratory through the ERC Advanced grant vAMRes which allowed us to isolate mAbs from vaccinated and/or convalescent patients to tackle the global threat posed by antimicrobial resistance. We wish to thank the National Institute for Infectious Diseases, IRCCS, Lazzaro Spallanzani Rome (IT) and the Azienda Ospedaliera Universitaria Senese, Siena (IT), for providing blood samples from Covid-19 convalescent donors under studies approved by local ethic committees"
+        }
+    ]
+}

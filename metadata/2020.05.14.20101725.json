@@ -1,0 +1,20 @@
+{
+    "abstract": "The epidemiological data up to 12th May 2020 for India and its 24 states has been used to predict COVID-19 outbreak within classical SIR (Susceptible-Infected-Recovered) model. The basic reproduction number R0 of India is calculated to be 1.15, whereas for various states it ranges from 1.03 in Uttarakhand to 7.92 in Bihar. The statistical parameters for most of the states indicates the high significance of the predicted results. It is estimated that the epidemic curve flattening in India will start from the first week of July and epidemic may end in the third week of October with final epidemic size ~1,75,000. The epidemic in Kerala is in final phase and is expected to end by first week of June. Among Indian states, Maharashtra is severely affected where the ending phase of epidemic may occur in the second week of September with epidemic size of ~55,000. The model indicates that the fast growth of infection in Punjab is from 27th April 2020 to 2nd June 2020, thereafter, curve flattening will start and the epidemic is expected to finished by the first week of July with the estimated number of ~3300 infected people. The epidemic size of COVID-19 outbreak in Delhi, West Bengal, Gujrat, Tamil Nadu and Odisha can reach as large as 24,000, 18,000, 16,000, 13,000 and 11,000, respectively, however, these estimations may be invalid if large fluctuation of data occurs in coming days.",
+    "author": "Mukesh Jakhar; P K Ahluwalia; Ashok Kumar",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20101725",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20101725"
+    },
+    "title": "COVID-19 Epidemic Forecast in Different States of India using SIR Model",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "No Funding for"
+                }
+            ],
+            "funding-statement": "No Funding for this research"
+        }
+    ]
+}

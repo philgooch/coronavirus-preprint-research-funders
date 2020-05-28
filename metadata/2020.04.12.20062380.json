@@ -1,0 +1,43 @@
+{
+    "abstract": "Purpose: Currently, COVID-19 is causing a large number of deaths globally. However, few researches focused on the clinical features of death patients. This study conducted a retrospective analysis of clinical characteristics and mortal causes in Chinese COVID-19 death patients. Patients and methods: The clinical characteristics of death patients were collected from publicized by local health authorities in China. Expressions of virus targets in human organs were obtained from GTEx database. Results: 159 patients from 24 provinces in China were recruited in our study, including 26 young patients under 60 and 133 aged 60 or older. The median age was 71 years, which indicated that most death patients were elderly. More male patients died of COVID-19 than females (1.65 fold). Hypertension was the most common coexisting disorder and respiratory failure was the most common direct cause of death. Fever (71.19%) and cough (55.08%) were the predominant presenting symptoms. There was one asymptomatic patient. In addition, by comparing young and old patients, heart disease was identified as an important risk factor for death in the aged patients. ACE2 and TMPRSS2 were the targets of SARS-CoV-2, we analyzed their expression in different organs. TMPRSS2 and ACE2 had a high expression in the organs which had corresponding clinical features in death patients. Conclusion: Male, age and heart disease were the main risk factors of death. Beside, asymptomatic patients with serious coexisting disorders may also die of SARS-CoV-2. Thus, more attention should be paid to the old patients with heart disease and asymptomatic patients in the treatment . Keywords: COVID-19, SARS-Cov-2, death, coexisting disorder, cause of death",
+    "affiliations": [
+        "National Natural Science Foundation of China (81773823, 81573463, 81974511), National Science and Technology Major Project of China (2017ZX09304014, 2019ZX09201-002-006, 2020ZX09201010)"
+    ],
+    "author": "Ji-Ye Yin; Ao-Xiang Guo; Cheng-Xian Guo; Jia-Jia Cui; Li He; Qian-Ying OuYang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.12.20062380",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.12.20062380"
+    },
+    "keywords": [
+        "COVID-19",
+        "SARS-Cov-2",
+        "death",
+        "coexisting disorder",
+        "cause of death"
+    ],
+    "title": "The clinical characteristics and mortal causes analysis of COVID-19 death patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81773823",
+                        "81573463",
+                        "81974511"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Major Project of China",
+                    "award-id": [
+                        "2017ZX09304014",
+                        "2019ZX09201-002-006",
+                        "2020ZX09201010"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Natural Science Foundation of China (81773823, 81573463, 81974511), National Science and Technology Major Project of China (2017ZX09304014, 2019ZX09201-002-006, 2020ZX09201010)"
+        }
+    ]
+}

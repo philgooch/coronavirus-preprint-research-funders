@@ -1,0 +1,50 @@
+{
+    "abstract": "Epidemiological models are widely used to analyse the spread of diseases such as the global COVID-19 pandemic caused by SARS-CoV-2. However, all models are based on simplifying assumptions and on sparse data. This limits the reliability of parameter estimates and predictions. In this manuscript, we demonstrate the relevance of these limitations by performing a study of the COVID-19 outbreak in Wuhan, China. We perform parameter estimation, uncertainty analysis and model selection for a range of established epidemiological models. Amongst others, we employ Markov chain Monte Carlo sampling, parameter and prediction profile calculation algorithms. Our results show that parameter estimates and predictions obtained for several established models on the basis of reported case numbers can be subject to substantial uncertainty. More importantly, estimates were often unrealistic and the confidence / credibility intervals did not cover plausible values of critical parameters obtained using different approaches. These findings suggest, amongst others, that several models are over-simplistic and that the reported case numbers provide often insufficient information.",
+    "affiliations": [
+        "Federal Ministry of Education and Research of Germany (Grant no. 031L0159C; E.A. & Grant no. 01ZX1705; J.H.), the Federal Ministry of Economic Affairs and Energy (Grant no. 16KN074236; J.V.), and the German Research Foundation (Clusters of Excellence EXC 2047 & EXC 2151; E.R., F.B., J.H.)"
+    ],
+    "author": "Lara Fuhrmann; Fan Bai; Emad Alamoudi; Simon Merkt; Elba Raim\u00fandez; Jan Hasenauer; Erika Dudkin; Jakob Vanhoefer",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071597",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.5281/zenodo.3757227",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071597"
+    },
+    "title": "COVID-19 outbreak in Wuhan demonstrates the limitations of publicly available case numbers for epidemiological modelling.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union's Horizon",
+                    "award-id": [
+                        "CanPathPro",
+                        "686282"
+                    ]
+                },
+                {
+                    "funding-source": "Federal Ministry of Education and Research of Germany",
+                    "award-id": [
+                        "031L0159C",
+                        "01ZX1705"
+                    ]
+                },
+                {
+                    "funding-source": "Federal Ministry of Economic Affairs and Energy",
+                    "award-id": [
+                        "16KN074236"
+                    ]
+                },
+                {
+                    "funding-source": "German Research Foundation"
+                },
+                {
+                    "funding-source": "Clusters of Excellence EXC"
+                }
+            ],
+            "funding-statement": "This work was supported by the European Union's Horizon 2020 research and innovation program (CanPathPro; Grant no. 686282; E.D., J.H., S.M.), the Federal Ministry of Education and Research of Germany (Grant no. 031L0159C; E.A. & Grant no. 01ZX1705; J.H.), the Federal Ministry of Economic Affairs and Energy (Grant no. 16KN074236; J.V.), and the German Research Foundation (Clusters of Excellence EXC 2047 & EXC 2151; E.R., F.B., J.H.)"
+        }
+    ]
+}

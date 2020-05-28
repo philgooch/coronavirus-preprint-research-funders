@@ -1,0 +1,33 @@
+{
+    "title": "Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak",
+    "author": "Yuan Liu, Ph.D., Zhi Ning, Ph.D., Yu Chen, Ph.D., Ming Guo, Ph.D., Yingle Liu, Ph.D., Nirmal Kumar Gali, Ph.D., Li Sun, M.Sc., Yusen Duan, M.Sc., Jing Cai, Ph.D., Dane Westerdahl, D.Env., Xinjin Liu, M.Sc., Kin-fai Ho, Ph.D., Haidong Kan, Ph.D., Qingyan Fu, Ph.D., Ke Lan, MD, PhD, 1",
+    "date": 2020,
+    "affiliations": [
+        "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, 430072, P. R. China",
+        "Division of Environment and Sustainability, The Hong Kong University of Science and Technology, Hong Kong SAR, P. R. China",
+        "Shanghai Environmental Monitoring Center, Shanghai 200235, P. R. China",
+        "Ke Lan, State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, 430072, P. R. China",
+        "The Hong Kong University of Science and Technology, Hong Kong SAR, P. R. China",
+        "Yu Chen, State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, 430072, P. R. China",
+        "Shanghai Environmental Monitoring Center, Shanghai 200235, P. R.China",
+        "JC School of Public Health and Primary Care, The Chinese University of Hong Kong, Hong Kong SAR, P. R. China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.08.982637",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.08.982637.pdf"
+    },
+    "abstract": "Background: The ongoing outbreak of COVID-19 has spread rapidly and sparked global concern. While the transmission of SARS-CoV-2 through human respiratory droplets and contact with infected persons is clear, the aerosol transmission of SARS-CoV-2 has been little studied.\nMethods: Thirty-five aerosol samples of three different types (total suspended particle, size segregated and deposition aerosol) were collected in Patient Areas (PAA) and Medical Staff Areas (MSA) of Renmin Hospital of Wuhan University (Renmin) and Wuchang Fangcang Field Hospital (Fangcang), and Public Areas (PUA) in Wuhan, China during COVID-19 outbreak. A robust droplet digital polymerase chain reaction (ddPCR) method was employed to quantitate the viral SARS-CoV-2 RNA genome and determine aerosol RNA concentration.\nResults: The ICU, CCU and general patient rooms inside Renmin, patient hall inside Fangcang had undetectable or low airborne SARS-CoV-2 concentration but deposition samples inside ICU and air sample in Fangcang patient toilet tested positive. The airborne SARS-CoV-2 in Fangcang MSA had bimodal distribution with higher concentration than those in Renmin during the outbreak but turned negative after patients number reduced and rigorous sanitization implemented. PUA had undetectable airborne SARS-CoV-2 concentration but obviously increased with accumulating crowd flow.\nConclusions: Room ventilation, open space, proper use and disinfection of toilet can effectively limit aerosol transmission of SARS-CoV-2. Gathering of crowds with asymptomatic carriers is a potential source of airborne SARS-CoV-2. The virus aerosol deposition on protective apparel or floor surface and their subsequent resuspension is a potential transmission pathway and effective sanitization is critical in minimizing aerosol transmission of SARS-CoV-2.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Special Fund for COVID-19 Research of Wuhan University"
+                }
+            ],
+            "funding-statement": "This study was supported by Special Fund for COVID-19 Research of Wuhan University"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "abstract": "There was a fury of the pandemic because of novel coronavirus (2019-nCoV/SARS-CoV-2) that happened in Wuhan, Hubei province, in China in December 2019. Since then, many model predictions on the COVID-19 pandemic in Wuhan and other parts of China have been reported. The first incident of coronavirus disease 2019 (COVID-19) in India was reported on 30 January 2020, which was a student from Wuhan. The number of reported cases has started to increase day by day after 30 February 2020. The purpose of this investigation is to provide a prediction of the epidemic peak for COVID-19 in India by utilizing real-time data from 30 February to 14 April 2020. We apply the well-known epidemic compartmental model \"SEIR\" to predict the epidemic peak of COVID-19, India. Since we do not have the complete detail of the infective population, using the available infected population data, we identify the R0 by using polynomial regression. By using the third-order polynomial equation, we estimate that the basic reproduction number for the epidemic in India is R0 = 3.3 (95%CI, 3.1 to 3.5), and the epidemic peak could be reached by September 2020.",
+    "affiliations": [
+        "Polish National Science Centre, decisions no. 2016/21/D/ST6/02408 and Wroc\u0142aw University of Science and Technology statutory funds"
+    ],
+    "author": "BL Radhakrishnan; R V Belfin; Piotr Brodka; V Rejula",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20095919",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20095919"
+    },
+    "title": "COVID-19 peak estimation and effect of nationwide lockdown in India",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Polish National Science Centre,",
+                    "award-id": [
+                        "2016/21/D/ST6/02408"
+                    ]
+                },
+                {
+                    "funding-source": "Wroc\u0142aw University of Science and Technology"
+                }
+            ],
+            "funding-statement": "This work was partially supported by Polish National Science Centre, decisions no. 2016/21/D/ST6/02408 and Wroc\u0142aw University of Science and Technology statutory funds"
+        }
+    ]
+}

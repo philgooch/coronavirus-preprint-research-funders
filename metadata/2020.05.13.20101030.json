@@ -1,0 +1,26 @@
+{
+    "abstract": "Objectives: To examine the influence of county- and state-level characteristics on the initial phases of the COVID-19 outbreak across U.S. counties up to April 14, 2020. Methods: We used a statistical exponential growth model for the outbreak. Contextual factors at county- and state-level were simultaneously tested with a multilevel linear model. All data was publicly available. Results: Collectivism was positively associated with the outbreak rate. The racial and ethnic composition of counties contributed to outbreak differences, affecting Black/African and Asian Americans most. Counties with a higher median age had a stronger outbreak, as did counties with more people below the age of 18. Higher income, education, and personal health were generally associated with a lower outbreak. Obesity was negatively related to the outbreak. Smoking was negatively related, but only directionally informative. Air pollution was another significant contributor to the outbreak, but population density did not give statistical significance. Conclusions: Because of high intrastate and intercounty variation in contextual factors, policy makers need to target pandemic responses to the smallest subdivision possible, so that countermeasures can be implemented effectively.",
+    "affiliations": [
+        "Darla Moore School of Business and the Center for International Business Education and Research (CIBER) at the University of South Carolina"
+    ],
+    "author": "Sarah E Payson; Wolfgang Messner",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20101030",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20101030"
+    },
+    "title": "The Influence of Contextual Factors on the Initial Phases of the COVID-19 Outbreak across U.S. Counties",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Darla Moore School of Business and the Center for International Business Education and Research"
+                },
+                {
+                    "funding-source": "University of South Carolina."
+                }
+            ],
+            "funding-statement": "We gratefully acknowledge support through the Darla Moore School of Business and the Center for International Business Education and Research (CIBER) at the University of South Carolina."
+        }
+    ]
+}

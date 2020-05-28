@@ -1,0 +1,31 @@
+{
+    "title": "Characterization and treatment of SARS-CoV-2 in nasal and bronchial human airway epithelia",
+    "author": "Utilisateur de Microsoft Office",
+    "date": 2020,
+    "affiliations": [
+        "Virologie et Pathologie Humaine - VirPath team, Centre International de Recherche en",
+        "ENS Lyon, Universit\u00e9 Claude Bernard",
+        "Universit\u00e9 de Lyon, Lyon, France"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.31.017889",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.31.017889.pdf"
+    },
+    "abstract": "In the current COVID-19 pandemic context, proposing and validating effective treatments represents a major challenge. However, the lack of biologically relevant pre-clinical experimental models of SARS-CoV-2 infection as a complement of classic cell lines represents a major barrier for scientific and medical progress. Here, we advantageously used human reconstituted airway epithelial models of nasal or bronchial origin to characterize viral infection kinetics, tissue-level remodeling of the cellular ultrastructure and transcriptional immune signatures induced by SARS-CoV-2. Our results underline the relevance of this model for the preclinical evaluation of antiviral candidates. Foremost, we provide evidence on the antiviral efficacy of remdesivir and the therapeutic potential of the remdesivir-diltiazem combination as a rapidly available option to respond to the current unmet medical need imposed by COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "INSERM REACTing"
+                },
+                {
+                    "funding-source": "REsearch & ACtion"
+                }
+            ],
+            "funding-statement": "This study was funded by INSERM REACTing (REsearch & ACtion emergING infectious diseases), CNRS, and M\u00e9rieux research grants. Author contributions: conceptualization: AP, OT, MRC. Formal analysis: AP, STA, JF, OT. Funding acquisition: BL, OT, MRC. Investigation: AP, BP, TJ, STA, AT, EEC, VD, JD, OT. Methodology: SC (MucilAirTM"
+        }
+    ]
+}

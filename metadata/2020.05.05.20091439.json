@@ -1,0 +1,23 @@
+{
+    "abstract": "We consider the problem of controlling an SIR-model epidemic by temporarily reducing the rate of contact within a population. The control takes the form of a multiplicative reduction in the contact rate of infectious individuals. The control is allowed to be applied only over a finite time interval, while the objective is to minimize the total number of individuals infected in the long-time limit, subject to some cost function for the control. We first consider the no-cost scenario and analytically determine the optimal control and solution. We then study solutions when a cost of intervention is included, as well as a cost associated with overwhelming the available medical resources. Examples are studied through the numerical solution of the associated Hamilton-Jacobi-Bellman equation. Finally, we provide some examples related directly to the current pandemic.",
+    "affiliations": [
+        "King Abdullah University of Science & Technology (KAUST)"
+    ],
+    "author": "David I Ketcheson",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091439",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091439"
+    },
+    "title": "Optimal control of an SIR epidemic through finite-time non-pharmaceutical intervention",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "King Abdullah University of Science & Technology"
+                }
+            ],
+            "funding-statement": "The author was supported by funding from King Abdullah University of Science & Technology (KAUST)"
+        }
+    ]
+}

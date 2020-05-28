@@ -1,0 +1,31 @@
+{
+    "abstract": "Competing Interest Statement\nFunding Statement\nThis work was supported by NIADI, NIH (USA) (contract HHSN272201400006C). LLMP was supported by Croucher Foundation.",
+    "author": "Mahen Perera; Kenrie Hui; Alex Chin; Leo Poon; Michael Chan; Malik Peiris; Julie Chu; Hui-Ling Yen",
+    "date": 2020,
+    "doi": "10.1101/2020.03.15.20036673",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.15.20036673"
+    },
+    "title": "Stability of SARS-CoV-2 in different environmental conditions",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "HHSN272201400006C"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by NIADI, NIH (USA) (contract HHSN272201400006C)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Croucher Foundation"
+                }
+            ],
+            "funding-statement": "LLMP was supported by Croucher Foundation"
+        }
+    ]
+}

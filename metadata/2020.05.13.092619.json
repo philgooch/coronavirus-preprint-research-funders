@@ -1,0 +1,27 @@
+{
+    "title": "Convergent Antibody Responses to SARS-CoV-2 Infection in Convalescent Individuals",
+    "author": "Davide Robbiani",
+    "date": 2020,
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.13.092619",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.13.092619.pdf"
+    },
+    "abstract": "During the COVID-19 pandemic, SARS-CoV-2 infected millions of people and claimed hundreds of thousands of lives. Virus entry into cells depends on the receptor binding domain (RBD) of the SARS-CoV-2 spike protein (S). Although there is no vaccine, it is likely that antibodies will be essential for protection. However, little is known about the human antibody response to SARS-CoV-21-5. Here we report on 149 COVID-19 convalescent 34 individuals. Plasmas collected an average of 39 days after the onset of symptoms had variable half-maximal neutralizing titers ranging from undetectable in 33% to below 1:1000 in 79%, while only 1% showed titers >1:5000. Antibody cloning revealed expanded clones of RBD37 specific memory B cells expressing closely related antibodies in different individuals. Despite low plasma titers, antibodies to three distinct epitopes on RBD neutralized at half-maximal inhibitory concentrations (IC50s) as low as single digit ng/mL. Thus, most convalescent plasmas obtained from individuals who recover from COVID-19 do not contain high levels of neutralizing activity. Nevertheless, rare but recurring RBD-specific antibodies with potent antiviral activity were found in all individuals tested, suggesting that a vaccine designed to elicit such antibodies could be broadly effective.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "P01-AI138398-S1",
+                        "2U19AI111825"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by NIH grant P01-AI138398-S1 (M.C.N., C.M.R., P.J.B.) and 2U19AI111825"
+        }
+    ]
+}

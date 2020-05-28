@@ -1,0 +1,16 @@
+{
+    "abstract": "Background. Reporting of daily hospital COVID-19 deaths in the UK are promoted by the government and scientific advisers alike as a key metric for assessing the progress in the control of the epidemic. These data, however, have certain limitations, among which one of the most significant concerns the fact that the daily totals span deaths that have occurred between 1 and 10 days or more in the past. Data and methods. We obtained daily data published published by NHS England up to and including April 25 in the form of Excel spreadsheets in which deaths counts are presented by date of death according to age and region. Simple descriptive analyses were conducted and presented in graphical and tabular form which were aimed at illustrating the biases inherent in focussing on daily counts regardless of when the deaths occurred. We then looked at how a less biased picture could be obtained by looking at trends in death counts stratifying by individual period of delay in days between occurrence of death and when the death was included in the daily announcement. Findings. The number of hospital COVID-19 deaths announced daily overestimates the maximum number of deaths actually occurring so far in the epidemic in the UK, and also obscures the pattern of decline in deaths. Taking account of reporting delays suggests that for England as a whole a peak in hospital COVID-19 deaths may have been reached on April 8 with a subsequent gradual decline suggested. The same peak is also seen among those aged 60-79 and 80+, although there is slightly shallower decline in the oldest age group (80+ years). Among those aged 40-59 years a later peak on April 11 is evident. London shows a peak on April 8 and a clearer and steeper pattern of subsequent decline compared to England as a whole. Interpretation. Analyses of mortality trends must take account of delay, and in communication with the public more emphasis should be placed on looking at trends based on deaths that occurred 5 or more days prior to the announcement day. The slightly weaker decline seen at age 80+ may reflect increased hospitalisation of people from care homes, whereas the later peak under the age of 60 years may reflect the higher proportions at these younger ages being admitted to critical care resulting in an extension of life of several days.",
+    "author": "Christopher I Jarvis; Vladimir M Shkolnikov; Liam Smeeth; David A Leon; Anne M Johnson",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20073049",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20073049"
+    },
+    "title": "What can trends in hospital deaths from COVID-19 tell us about the progress and peak of the pandemic? An analysis of death counts from England announced up to 25 April 2020",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was done without specific funding"
+        }
+    ]
+}

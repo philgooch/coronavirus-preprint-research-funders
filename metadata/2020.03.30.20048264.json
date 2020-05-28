@@ -1,0 +1,78 @@
+{
+    "abstract": "Background: In Korea, a total of 10,840 confirmed cases of COVID-19 including 256 deaths have been recorded as of May 9, 2020. The time-delay adjusted case fatality risk (CFR) of COVID-19 in Korea is yet to be estimated. Methods: We obtained the daily series of confirmed cases and deaths in Korea reported prior to May 9, 2020. Using statistical methods, we estimated the time-delay adjusted risk for death from COVID-19 in Daegu, Gyeongsangbuk-do, other regions in Korea, as well as the entire country. Results: Our model-based crude CFR fitted the observed data well throughout the course of the epidemic except for the very early stage in Gyeongsangbuk-do; this was partially due to the reporting delay. Our estimates of the risk of death in Gyeongsangbuk-do reached 25.9% (95% CrI: 19.6%-33.6%), 20.8% (95% CrI: 18.1%-24.0%) in Daegu and 1.7% (95% CrI: 1.1%-2.5%) in other regions, whereas the national estimate was 10.2% (95% CrI: 9.0%-11.5%). Conclusions: The latest estimates of CFR of COVID-19 in Korea are considerably high, even with the early implementation of public health interventions including widespread testing, social distancing, and delayed school openings. Geographic differences in the CFR are likely influenced by clusters tied to hospitals and nursing homes.\nCompeting Interest Statement",
+    "author": "Wongyeong Choi; Kenji Mizumoto; Gerardo Chowell; Eunha Shim",
+    "date": 2020,
+    "doi": "10.1101/2020.03.30.20048264",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.30.20048264"
+    },
+    "title": "Estimating the risk of COVID-19 death during the course of the outbreak in Korea, February- May, 2020",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Research Foundation of Korea"
+                },
+                {
+                    "funding-source": "Korea government",
+                    "award-id": [
+                        "2018R1C1B6001723"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) [No 2018R1C1B6001723] to ES and WC"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Japan Society for the Promotion of Science",
+                    "award-id": [
+                        "15K20936"
+                    ]
+                },
+                {
+                    "funding-source": "KAKENHI Grant Number",
+                    "award-id": [
+                        "15K20936"
+                    ]
+                },
+                {
+                    "funding-source": "Program for Advancing Strategic International Networks"
+                },
+                {
+                    "funding-source": "Accelerate the Circulation of Talented Researchers Grant Number",
+                    "award-id": [
+                        "G2801"
+                    ]
+                },
+                {
+                    "funding-source": "Leading Initiative for Excellent Young Researchers from the Ministry of Education, Culture"
+                },
+                {
+                    "funding-source": "Science & Technology of Japan"
+                }
+            ],
+            "funding-statement": "KM acknowledges support from the Japan Society for the Promotion of Science (JSPS) KAKENHI Grant Number 15K20936, from Program for Advancing Strategic International Networks to Accelerate the Circulation of Talented Researchers Grant Number G2801 and from the Leading Initiative for Excellent Young Researchers from the Ministry of Education, Culture, Sport, Science & Technology of Japan"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "1414374"
+                    ]
+                },
+                {
+                    "funding-source": "NSF-NIH-USDA Ecology and Evolution of Infectious Diseases"
+                },
+                {
+                    "funding-source": "UK Biotechnology and Biological Sciences Research Council",
+                    "award-id": [
+                        "BB/M008894/1"
+                    ]
+                }
+            ],
+            "funding-statement": "GC acknowledges support from NSF grant 1414374 as part of the joint NSF-NIH-USDA Ecology and Evolution of Infectious Diseases program, and UK Biotechnology and Biological Sciences Research Council grant [BB/M008894/1]"
+        }
+    ]
+}

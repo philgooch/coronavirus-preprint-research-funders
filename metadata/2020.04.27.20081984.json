@@ -1,0 +1,20 @@
+{
+    "abstract": "Recent observations have shown that there are two types of COVID-19 response: an H phenotype with high lung elastance and weight, and an L phenotype with low measures. H-type patients have pneumonia-like thickening of the lungs and require ventilation to survive; L-type patients have clearer lungs that may be injured by mechanical assistance. As treatment protocols differ between the two types, and the number of ventilators is limited, it is vital to classify patients appropriately. To date, the only way to confirm phenotypes is through high-resolution computed tomography. Here, we identify L- and H-type patients from their frontal chest x-rays using feature-embedded machine learning. We then apply the categorization to multiple images from the same patient, extending it to detect and monitor disease progression and recovery. The results give an immediate criterion for coronavirus triage and provide a methodology for respiratory diseases beyond COVID-19.",
+    "author": "Jason W. Fleischer; Mohammad Tariqul Islam",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20081984",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20081984"
+    },
+    "title": "Distinguishing L and H phenotypes of COVID-19 using a single x-ray image",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "DARPA and the AFOSR for"
+                }
+            ],
+            "funding-statement": "The authors thank DARPA and the AFOSR for general support."
+        }
+    ]
+}

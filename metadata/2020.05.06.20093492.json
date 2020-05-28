@@ -1,0 +1,20 @@
+{
+    "abstract": "Since the first case of COVID-19 was confirmed in Brazil on 19 February 2020, this epidemic has spread throughout all states and at least 2142 of 5570 municipalities up to 30 April 2020. In order to understand this spreading, we investigate a stochastic epidemic model using a metapopulation approach. Simulations are supplied with real data for mobility, demography, and confirmed cases of COVID-19 extracted from public sources. Contagion follows a compartmental epidemic model for each municipality; the latter, in turn, interact with each other through recurrent mobility. Considering the number of municipalities with confirmed COVID-19 cases, simulations can infer the level of mitigation (strong, moderate, or none) that each state is effectively adopting. Properties of the epidemic curves such as time and value of epidemic peak and outbreak duration have very broad distributions across different geographical locations. This outbreak variability is observed on several scales from state, passing through intermediate, immediate down to municipality levels. The epidemic waves start from several foci concentrated in highly populated regions and propagate towards the countryside. Correlations between delay of the epidemic outbreak and distance from the respective capital cities are strong in several states, showing propagation towards the countryside, and weak in others, signaling strong influences of multiple centers, not necessarily within the same state. Our take home message is that the responses of different regions to the same mitigation protocol can vary enormously such that the policies of combating COVID-19, such as quarantine or lockdown, must be engineered according to the region specificity but integrated with the overall situation. Even though we restricted our study to Brazil, we believe that these ideas can be generalized to other countries with continental scales and heterogeneous demographic distributions.",
+    "author": "Wesley Cota; Silvio C Ferreira; Guilherme S Costa",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093492",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093492"
+    },
+    "title": "Metapopulation modeling of COVID-19 advancing into the countryside: an analysis of mitigation strategies for Brazil",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "CNPq and FAPEMIG"
+                }
+            ],
+            "funding-statement": "This work was partially supported by the Brazilian agencies CNPq and FAPEMIG"
+        }
+    ]
+}

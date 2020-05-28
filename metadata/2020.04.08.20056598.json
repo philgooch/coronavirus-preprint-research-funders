@@ -1,0 +1,26 @@
+{
+    "abstract": "Objective The objective of our systematic review is to identify prognostic factors that can potentially be used in decision-making related to the care of patients infected with COVID-19. Design This is the protocol of a living systematic review. Data sources We will conduct searches in PubMed/Medline, Embase, Cochrane Central Register of Controlled Trials (CENTRAL), grey literature and in a centralised repository in L-OVE (Living OVerview of Evidence). L-OVE is a platform that maps PICO questions to evidence from Epistemonikos database. In response to the COVID-19 emergency, L-OVE was adapted to expand the range of evidence it covers and customised to group all COVID-19 evidence in one place. The search will cover the period until the day before submission to a journal. Eligibility criteria for selecting studies and methods We will follow a common protocol for multiple parallel systematic reviews, already published and submitted to PROSPERO (awaiting ID allocation). We will include studies that assess patients with confirmed or suspected infection with SARS-CoV-2 and inform the relation of potential prognostic factors with death or disease severity. Two groups of two reviewers will independently screen studies for eligibility, extract data, and assess the risk of bias. We will perform meta-analyses and use GRADE to assess the certainty of evidence for each prognostic factor and outcome. A living, web-based version of this review will be openly available during the COVID-19 pandemic. We will resubmit it if the conclusions change or there are substantial updates. Ethics and dissemination No ethics approval is considered necessary. The results of this review will be widely disseminated via peer-reviewed publications, social networks and traditional media.",
+    "author": "Ezequiel Saavedra; Mart\u00edn Ragusa; Gabriel Rada; Ver\u00f3nica Sanguine; Hugo Norberto Catalano; Camila Agnoletti; Mar\u00eda Andrea Lavena Marzio; Fernando Tortosa; Agust\u00edn Bengolea; Ariel Izcovich; Federico Espinosa",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20056598",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20056598"
+    },
+    "title": "Prognostic factors for severity and mortality in patients infected with COVID-19: A living systematic review protocol",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Epistemonikos Foundation",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "OVE Working Group."
+                }
+            ],
+            "funding-statement": "This project was not commissioned by any organisation and did not receive external funding. Epistemonikos Foundation is providing training, support and tools at no cost for all the members of the COVID-19 L\u00b7OVE Working Group."
+        }
+    ]
+}

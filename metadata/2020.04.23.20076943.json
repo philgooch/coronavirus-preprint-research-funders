@@ -1,0 +1,26 @@
+{
+    "abstract": "Background. The COVID-19 pandemic poses an unprecedented threat to the health and economic prosperity of the world's population. Yet, some countries or regions within a country appear to be affected in different ways. Objectives. This research aims to understand whether the outbreak varies significantly between U.S. states and counties. Methods. A statistical model is estimated using publicly available outbreak data in the U.S., and regional differences are statistically analyzed. Results. There is significant variance in outbreak data between U.S. states and counties. At the state level, the outbreak rate follows a normal distribution with an average relative growth rate of 0.197 (doubling time 3.518 days). But there is a low degree of reliability between state-wide and county-specific data reported (ICC = 0.169, p < 0.001), with a bias of 0.070 (standard deviation 0.062) as shown with a Bland-Altman plot. Conclusions. The results emphasize the need for policy makers to look at the pandemic from the smallest population subdivision possible, so that countermeasures can be implemented, and critical resources provided effectively. Further research is needed to understand the reasons for these regional differences.",
+    "affiliations": [
+        "Darla Moore School of Business and the Center for International Business Education and Research (CIBER) at the University of South Carolina"
+    ],
+    "author": "Sarah E Payson; Wolfgang Messner",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076943",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076943"
+    },
+    "title": "Variation in COVID-19 Outbreaks at U.S. State and County Levels",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Darla Moore School of Business and the Center for International Business Education and Research"
+                },
+                {
+                    "funding-source": "University of South Carolina."
+                }
+            ],
+            "funding-statement": "We gratefully acknowledge support through the Darla Moore School of Business and the Center for International Business Education and Research (CIBER) at the University of South Carolina."
+        }
+    ]
+}

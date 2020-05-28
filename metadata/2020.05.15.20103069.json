@@ -1,0 +1,16 @@
+{
+    "abstract": "The COVID-19 pandemic reached Latin America in February 2020, with the first case in Chile identified on March 3rd, 2020. Since then Chile has accumulated a total of 14365 cases as of April 28th, 2020. We estimate the reproduction number during the early transmission phase in Chile and study the effectiveness of control interventions by conducting short-term forecasts based on early transmission dynamics of COVID-19. The incidence curve displays sub-exponential growth dynamics with the scaling of growth parameter, p, estimated at 0.8 (95% CI: 0.7, 0.8) and the reproduction number estimated at 1.6 (95% CI: 1.5, 1.6). The sub-epidemic model indicates a stationary wave of stable epidemic size. Our current findings point to sustained transmission of SARS-CoV-2 in Chile. While the social distancing interventions have slowed the virus spread, the number of new COVID-19 cases continue to accrue, underscoring the need for persistent social distancing efforts to control the epidemic.",
+    "author": "Richard Rothenberg; Eduardo A. Undurraga; Amna Tariq; Ruiyan Luo; Carla Castillo Laborde; Katia Vogt-Geisse; Gerardo Chowell",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103069",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103069"
+    },
+    "title": "Early transmission dynamics of COVID-19 in Chile: From sub-exponential ascending growth dynamics to a stationary disease wave, March-April, 2020",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding has been reported."
+        }
+    ]
+}

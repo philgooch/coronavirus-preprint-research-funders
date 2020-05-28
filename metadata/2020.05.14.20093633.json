@@ -1,0 +1,16 @@
+{
+    "abstract": "Objectives To evaluate if the US governors decision to issue the stay-at-home orders reflects the classic Weber-Fechner law of psychophysics, the amount by which a stimulus (such as number of cases or deaths) must increase in order to be noticed-the just noticeable difference- as a fraction of the intensity of that stimulus. Design A prospective observational study using data on the daily number of infected patients and deaths from the New York Times daily database. Setting 50 States and the District of Columbia Participants All individuals judged to be positive for the coronavirus or to have died from COVID19. Main outcome measures Number of people diagnosed with or died from COVID19. Results We found that the decision to issue the state-at-home order reflects the Weber-Fechner law of psychophysics. Both the number of infections (p=<0.0001; R2=0.79) and deaths (p<0.0001; R2=0.63) were highly statistically significantly associated with the decision to issue the stay-at-home orders. The results indicate that for each doubling of infections or deaths within their state, an additional four to six governors will issue the stay-at-home order. We also observed a clear dose-response relationship in the Cox model: the larger the number of cases, or deaths, the higher the probability that the stay-at-home order will be made. When the number of deaths reached 256 or the number of infected people was greater than 16,384, the probability of issuing a stay-at-home order was close to 100%. Conclusions When there are not clearly articulated rules to follow, decision-makers in times of crisis such as COVID19 resort to use of simple heuristics consistent with the Weber-Fechner law of psychophysics. The findings are important for the public to understand how their elected officials make important public health decisions.",
+    "author": "Benjamin Djulbegovic; David J Weiss; Iztok Hozo",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20093633",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20093633"
+    },
+    "title": "Evaluation of the US governors decision when to issue stay-at-home orders [Running title: When to shut down: the Weber-Fechner law describes the timing of U. S. governors decisions to issue stay-at-home orders]",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No formal funding support was available for this study"
+        }
+    ]
+}

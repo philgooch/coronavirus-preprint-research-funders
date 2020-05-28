@@ -1,0 +1,40 @@
+{
+    "abstract": "Background: The novel coronavirus (SARS-CoV-2) has rapidly evolved into a global epidemic. To control its spread, countries have implemented non pharmaceutical interventions (NPIs), such as school or border closures, while others have even enforced complete lockdowns. Here we study the impact of NPIs in reducing documented cases of COVID-19. Documented case numbers are selected because they are essential for decision-makers in the area of health-policy when monitoring and evaluating current control mechanisms. Methods: We empirically estimate the relative reduction in the number of new cases attributed to each NPI. A cross-country analysis is performed using documented cases through April 15, 2020 from n=20 countries (i.e., the United States, Canada, Australia, the EU-15 countries, Norway, and Switzerland). Results: As of April 15, venue closures were associated with a reduction in the number of new cases by 36 % (95% credible interval [CrI] 20-48 %), closely followed by gathering bans (34 %; 95% CrI 21-45 %), border closures (31 %; 95% CrI 19-42 %), and work bans on non-essential business activities (31 %; 95% CrI 16-44 %). Event bans lead to a slightly less pronounced reduction (23 %; 95% CrI 8-35 %). School closures (8 %; 95% CrI 0-23 %) and lockdowns (5 %; 95% CrI 0-14 %) appeared to be the least effective among the NPIs considered in this analysis. Conclusions: With this cross-country analysis, we provide early estimates regarding the impact of different NPIs for controlling the COVID-19 epidemic. These findings are relevant for evaluating current health-policies. Keywords: COVID-19, coronavirus, non-pharmaceutical interventions, policy measures, health-policy, public health, health services research\nCompeting Interest Statement",
+    "affiliations": [
+        "School closures (8 %; 95% CrI 0-23 %) and lockdowns (5 %; 95% CrI 0-14 %) appeared to be the least effective among the NPIs considered in this analysis. Conclusions: With this cross-country analysis, we provide early estimates regarding the impact of different NPIs for controlling the COVID-19 epidemic. These findings are relevant for evaluating current health-policies. Keywords: COVID-19, coronavirus, non-pharmaceutical interventions, policy measures, health-policy, public health, health services research",
+        "Swiss National Science Foundation outside of the submitted work. JPS declares part-time employment at Luciole Medical outside of the submitted work. All other authors declare no competing interests",
+        "Swiss National Science Foundation (SNSF) as part of the Eccellenza grant 186932 on \"Data-driven health management\". The funding bodies had no control over design, conduct, data, analysis, review, reporting, or interpretation of the research conducted"
+    ],
+    "author": "Werner Vach; Eva van Weenen; Alberto Cenedese; Arne Seeliger; Joan Puig Salles; Pierluigi Bottrighi; Daniel Tschernutter; Stefan Feuerriegel; Nicolas Banholzer; Bernhard Kratzwald",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20062141",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20062141"
+    },
+    "keywords": [
+        "COVID-19",
+        "coronavirus",
+        "non-pharmaceutical interventions",
+        "policy measures",
+        "health-policy",
+        "public health",
+        "health services research"
+    ],
+    "title": "Impact of non-pharmaceutical interventions on documented cases of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "EvW and SF"
+                },
+                {
+                    "funding-source": "Swiss National Science Foundation",
+                    "award-id": [
+                        "186932"
+                    ]
+                }
+            ],
+            "funding-statement": "NB, EvW and SF acknowledge funding from the Swiss National Science Foundation (SNSF) as part of the Eccellenza grant 186932 on \"Data-driven health management\""
+        }
+    ]
+}

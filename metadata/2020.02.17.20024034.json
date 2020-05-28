@@ -1,0 +1,32 @@
+{
+    "abstract": "[Objective] Analyze the occurrence of novel coronavirus pneumonia(NCP) in China mainland, explore the epidemiological rules, and evaluate the effect of prevention and control. [Methods] From December 1, 2019 to March 4, 2020, Analysis of 80,409 confirmed cases of NCP in China mainland. [Results] From December 1, 2019 to March 4, 2020, a total of 80,409 cases of NCP were confirmed in China mainland, a total of 67,466 cases were confirmed in Hubei Province, a total of 49,671 cases were confirmed in Wuhan city. From December 1, 2019 to March 4, 2020, a total of 3,012 cases of NCP deaths in China mainland, the mortality was 3.75% (3012/80,409); A total of 52045 cases of cured in China mainland; The turning point of the epidemic have been reached since February 18.2020 in China mainland; The spread index of NCP gradually declined since January 27. 2020, and the extinction index of NCP rose little by little since January 29, 2020. [Conclusion] From December 1, 2019 to March 4, 2020, NCP is under control, and the trend of the epidemic will eventually disappear\uff1bThe turning point of an epidemic that I've created is a great indicator that can calculate the turning date of an outbreak and provide a basis for scientific prevention.\nCompeting Interest Statement\nThe authors have declared no competing interest.",
+    "author": "Li bao hong; Liu youbin; Gong Liming",
+    "date": 2020,
+    "doi": "10.1101/2020.02.17.20024034",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.17.20024034"
+    },
+    "journal": "From December",
+    "title": "Epidemic Situation of Novel Coronavirus Pneumonia in China mainland",
+    "volume": "1",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Author Declarations All"
+                },
+                {
+                    "funding-source": "Yes All",
+                    "award-id": [
+                        "note: if posting a prospective study registered retrospectively",
+                        "please provide a statement in the trial ID field explaining why the study was not registered in advance"
+                    ]
+                },
+                {
+                    "funding-source": "EQUATOR Network"
+                }
+            ],
+            "funding-statement": "Statement this items no funding so far Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript.  Yes All necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived. I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance). I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable."
+        }
+    ]
+}

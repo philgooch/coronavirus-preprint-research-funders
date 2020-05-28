@@ -1,0 +1,20 @@
+{
+    "abstract": "In the late stages of an epidemic, infections are often sporadic and geographically distributed. Spatially structured stochastic models can capture these important features of disease dynamics, thereby allowing a broader exploration of interventions. Here we develop a stochastic model of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) transmission amongst an interconnected group of population centres representing counties, municipalities and districts (collectively, ``counties''). The model is parameterized with demographic, epidemiological, testing, and travel data from the province of Ontario, Canada. We explore the effects of different control strategies after the epidemic curve has been flattened. We compare a local strategy of re-opening (and re-closing, as needed) schools and workplaces county-by-county according to triggers for county-specific infection prevalence, to a global strategy of province-wide re-opening and re-closing according to triggers for province-wide infection prevalence. We find that the local strategy results in far fewer person-days of closure but only slightly more coronavirus disease (COVID-19) cases, even under assumptions of high inter-county travel. However, both cases and person-days lost to closure rise significantly when county triggers are not coordinated by the province and when testing rates vary among counties. Finally, we show that local strategies can also do better in the early epidemic stage but only if testing rates are high and the trigger prevalence is low. Our results suggest that phased plans for re-opening economies on the far side of the COVID-19 epidemic curve should consider preceding larger-scale re-openings with coordinated local re-openings.",
+    "author": "Chris T Bauch; Vadim Karatayev; Madhur Anand",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20097485",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20097485"
+    },
+    "title": "The far side of the COVID-19 epidemic curve: local re-openings based on globally coordinated triggers may work best",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSERC Discovery Grants"
+                }
+            ],
+            "funding-statement": "This research was funded by NSERC Discovery Grants to CTB and MA"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Unfractionated heparin potently inhibits the binding of SARS-CoV-2 2 spike protein to a human cell line",
+    "author": "Lynda J. Partridge, Luke R. Green, Peter N. Monk, 4 1Department of Molecular Biology and Biotechnology, The University of Sheffield, 5 Sheffield, UK 6 2Department of Infection, Immunity and Cardiovascular Disease, The University of 7 Sheffield, Sheffield, UK 8 * Corresponding author 9 E-mail: l.r.green@sheffield.ac.uk (LRG)",
+    "date": 2020,
+    "affiliations": [
+        "Department of Molecular Biology and Biotechnology, The University of Sheffield",
+        "Department of Infection, Immunity and Cardiovascular Disease, The University of",
+        "Sheffield, Sheffield, UK 8",
+        "Corresponding author 9"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.21.107870",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.21.107870.pdf"
+    },
+    "abstract": "The SARS-CoV-2 spike protein is known to bind to the receptor, ACE2, on the surface of target cells. The spike protein is processed by membrane proteases, including TMPRSS2, and is either internalised or fuses directly with the cell, leading to infection. We identified a human cell line that expresses both ACE2 and TMPRSS2, the RT4 urinary bladder transitional carcinoma, and used it to develop a proxy assay for viral interactions with host cells. A tagged recombinant form of the spike protein, containing both the S1 and S2 domains, binds strongly to RT4 cells as determined by flow cytometry. Binding is temperature dependent and increases sharply at 37\u00b0C, suggesting that processing of the spike protein is likely to be important in the interaction. As the spike protein has previously been shown to bind heparin, a soluble glycosaminoglycan, we used a flow cytometry assay to determine the effect of heparin on spike protein binding to RT4 cells. Unfractionated heparin inhibited spike protein binding with an IC50 value of <0.05U/ml whereas two low molecular weight heparins were much less effective. This suggests that heparin, particularly unfractionated forms, could be considered to reduce clinical manifestations of COVID-19 by inhibiting continuing viral infection. Despite the sensitivity to heparin, we found no evidence that host cell glycosaminoglycans such as heparan and chondroitin sulphates play a major role in spike protein attachment.",
+    "funding": [
+        {}
+    ]
+}

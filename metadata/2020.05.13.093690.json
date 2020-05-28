@@ -1,0 +1,35 @@
+{
+    "title": "Functional prediction and comparative population analysis of variants in genes for proteases and innate immunity related to SARS-CoV-2 infection",
+    "author": "Kristel Klaassen,\u00b6, Biljana Stankovic,\u00b6, Branka Zukic, Nikola Kotur, Vladimir Gasic, Sonja Pavlovic, Maja Stojiljkovic,* 1Laboratory for Molecular Biomedicine, Institute of Molecular Genetics and Genetic Engineering, University of Belgrade, Belgrade, Serbia * Corresponding author E-mail: maja.stojiljkovic@imgge.bg.ac.rs (MS) \u00b6These authors contributed equally to this work",
+    "date": 2020,
+    "affiliations": [
+        "Laboratory for Molecular Biomedicine, Institute of Molecular Genetics and Genetic Engineering, University of Belgrade, Belgrade, Serbia",
+        "Corresponding author",
+        "These authors contributed equally to this work"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.13.093690",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.13.093690.pdf"
+    },
+    "abstract": "New coronavirus SARS-CoV-2 is capable to infect humans and cause a novel disease COVID-19. Aiming to understand a host genetic component of COVID-19, we focused on variants in genes encoding proteases and genes involved in innate immunity that could be important for susceptibility and resistance to SARS-CoV-2 infection. Analysis of sequence data of coding regions of FURIN, PLG, PRSS1, TMPRSS11a, MBL2 and OAS1 genes in 143 unrelated individuals from Serbian population identified 22 variants with potential functional effect. In silico analyses (PolyPhen-2, SIFT, MutPred2 and Swiss-Pdb Viewer) predicted that 10 variants could impact the structure and/or function of proteins. These protein-altering variants (p.Gly146Ser in FURIN; p.Arg261His and p.Ala494Val in PLG; p.Asn54Lys in PRSS1; p.Arg52Cys, p.Gly54Asp and p.Gly57Glu in MBL2; p.Arg47Gln, p.Ile99Val and p.Arg130His in OAS1) may have predictive value for inter-individual differences in the response to the SARS-CoV-2 infection. Next, we performed comparative population analysis for the same variants using extracted data from the 1000 genomes project. Population genetic variability was assessed using delta MAF and Fst statistics. Our study pointed to 7 variants in PLG, TMPRSS11a, MBL2 and OAS1 genes with noticeable divergence in allelic frequencies between populations worldwide. Three of them, all in MBL2 gene, were predicted to be damaging, making them the most promising population-specific markers related to SARS-CoV-2 infection. Comparing allelic frequencies between Serbian and other populations, we found that the highest level of genetic divergence related to selected loci was observed with African, followed by East",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Education, Science"
+                },
+                {
+                    "funding-source": "Technological Development Republic of Serbia, EB",
+                    "award-id": [
+                        "451-03-68/2020-14",
+                        "200042"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by Ministry of Education, Science and Technological Development Republic of Serbia, EB: 451-03-68/2020-14/ 200042"
+        }
+    ]
+}

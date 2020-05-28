@@ -1,0 +1,34 @@
+{
+    "abstract": "Social distancing measures have emerged as the predominant intervention for containing the spread of COVID-19, but evaluating adherence and effectiveness remains a challenge. We assessed the relationship between aggregated mobility data collected from mobile phone users and the time-dependent reproduction number R(t), using severe acute respiratory illness (SARI) cases reported by Sao Paulo and Rio de Janeiro. We found that the proportion of individuals staying home all day (isolation index) had a strong inverse correlation with R(t) (rho\nCompeting Interest Statement",
+    "affiliations": [
+        "Brazilian National Council for Scientific and Technological Development \u0096 CNPq, process/contract identification: 312656/2019-0 and 310551/2018-8, respectively. NRF is funded by",
+        "Medical Research Council and CADDE partnership award (MR/S0195/1) and by",
+        "Sir Henry Dale Fellowship from Wellcome Trust and Royal Society (204311/Z/16/Z)"
+    ],
+    "author": "Marcelo Barreto Lopes; Fabiana Ganem; Fabio Macedo Mendes; Maria Almiron; Silvano B de Oliveira; Wanderson Kleber de Oliveira; Francieli Fontana Sutile Tardetti Fantinato; Victor Bertollo Gomes Porto; Nuno R. Faria; Wildo Araujo; Raiza dos Santos Oliveira; Fredi A Diaz-Quijano; Julio Croda; Jason R Andrews; Walquiria Aparecida Ferreira de Almeida; Abel Pereira de Macedo Borges; Helder I Nakaya; Hector Natan Batista Pinheiro",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20082172",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20082172"
+    },
+    "title": "Monitoring social distancing and SARS-CoV-2 transmission in Brazil using cell phone mobility data",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council and CADDE",
+                    "award-id": [
+                        "MR/S0195/1"
+                    ]
+                },
+                {
+                    "funding-source": "Sir Henry Dale Fellowship from Wellcome Trust and Royal Society",
+                    "award-id": [
+                        "204311/Z/16/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "NRF is funded by a Medical Research Council and CADDE partnership award (MR/S0195/1) and by a Sir Henry Dale Fellowship from Wellcome Trust and Royal Society (204311/Z/16/Z)"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+{
+    "message": "Error connecting to http://medrxiv.org/cgi/content/short/2020.05.15.20102392.pdf: HTTPConnectionPool(host='medrxiv.org', port=80): Max retries exceeded with url: /cgi/content/short/2020.05.15.20102392.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f79e89b2080>, 'Connection to medrxiv.org timed out. (connect timeout=21.0)'))",
+    "funding": []
+}

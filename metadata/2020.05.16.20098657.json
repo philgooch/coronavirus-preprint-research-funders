@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: Several states have released Crisis Standards of Care (CSC) guidelines for the allocation of scarce critical care resources. Most guidelines rely on Sequential Organ Failure Assessment (SOFA) scores to maximize lives saved, but states have adopted different stances on whether to maximize long-term outcomes (life-years saved) by accounting for patient comorbidities. Methods: We compared 4 representative state guidelines with varying approaches to comorbidities and analyzed how CSC prioritization correlates with clinical outcomes. We included 27 laboratory-confirmed COVID-19 patients admitted to ICUs at Brigham and Women's Hospital from March 12 to April 3, 2020. We compared prioritization algorithms from New York, which assigns priority based on SOFA alone; Maryland, which uses SOFA plus severe comorbidities; Pennsylvania, which uses SOFA plus major and severe comorbidities; and Colorado, which uses SOFA plus a modified Charlson comorbidity index. Results: In pairwise comparisons across all possible pairs, we found that state guidelines frequently resulted in tie-breakers based on age or lottery: New York 100% of the time (100% resolved by lottery), Pennsylvania 86% of the time (18% by lottery), Maryland 93% of the time (35% by lottery), and Colorado: 32% of the time (10% by lottery). The prioritization algorithm with the strongest correlation with 14-day outcomes was Colorado (rs = -0.483. p = 0.011) followed by Maryland (rs = -0.394, p =0.042), Pennsylvania (rs = -0.382, p = 0.049), and New York (rs = 0). An alternative model using raw SOFA scores alone was moderately correlated with outcomes (rs = -0.448, p = 0.019). Conclusions: State guidelines for scarce resource allocation frequently resulted in identical priority scores, requiring tie-breakers based on age or lottery. These findings suggest that state CSC guidelines should be further assessed empirically to understand whether they meet their goals.\nCompeting Interest Statement",
+    "author": "Sandeep P. Kishore; Maheetha Bharadwaj; Bradford Diephuis; Marisa Winkler; Julia L. Jezmir; Edy Y. Kim; William B. Feldman",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20098657",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20098657"
+    },
+    "title": "Empirical Assessment of COVID-19 Crisis Standards of Care Guidelines",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "5T32HL007633-34"
+                    ]
+                }
+            ],
+            "funding-statement": "Dr Feldman receives funding from the National Institutes of Health (5T32HL007633-34)"
+        }
+    ]
+}

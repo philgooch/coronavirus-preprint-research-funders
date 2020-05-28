@@ -1,0 +1,16 @@
+{
+    "abstract": "The ongoing COVID-19 epidemics poses a particular challenge to low and middle income countries, making some of them consider the strategy of vertical confinement. In this strategy, contact is reduced only to specific groups (like age groups) that are at increased risk of severe disease following SARS-CoV-2 infection. We aim to assess the feasibility of this scenario as an exit strategy for the current lockdown in terms of its ability to keep the number of cases under the health care system capacity. We developed a modified SEIR model, including confinement, asymptomatic transmission, quarantine and hospitalization. The population is subdivided into 9 age groups, resulting in a system of 72 coupled nonlinear differential equations. The rate of transmission is dynamic and derived from the observed delayed fatality rate; the parameters of the epidemics are derived with a Markov chain Monte Carlo algorithm. We used Brazil as an example of middle income country, but the results are easily generalizable to other countries considering a similar strategy. We find that starting from 60% horizontal confinement, an exit strategy on May 1st of confinement of individuals older than 60 years old and full release of the younger population results in 400 000 hospitalizations, 50 000 ICU cases, and 120 000 deaths in the 50-60 years old age group alone. The health care system avoids collapse if the 50-60 years old are also confined, but our model assumes an idealized lockdown where the confined are perfectly insulated from contamination, so our numbers are a conservative lower bound. Our results discourage confinement by age as an exit strategy.",
+    "author": "Wladimir Lyra; Ion de Andrade; Pedro Paulo Chrispim; Jose Dias do Nascimento; Leandro de Almeida; Jaber Belkhiria",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20060053",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20060053"
+    },
+    "title": "COVID-19 pandemics modeling with SEIR(+CAQH), social distancing, and age stratification. The effect of vertical confinement and release in Brazil.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

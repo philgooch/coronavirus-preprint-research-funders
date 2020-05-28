@@ -1,0 +1,65 @@
+{
+    "title": "A data-driven drug repositioning framework discovered a potential therapeutic agent targeting COVID-19",
+    "author": "Yiyue Ge, Tingzhong Tian, Suling Huang, Fangping Wan, Jingxin Li, Shuya Li, Hui Yang, Lixiang Hong, Nian Wu, Enming Yuan, Lili Cheng, Yipin Lei, Hantao Shu, Xiaolong Feng, Ziyuan Jiang, Ying Chi, Xiling Guo, Lunbiao Cui, Liang Xiao10, Zeng Li10, Chunhao Yang, Zehong Miao, Haidong Tang, Ligong",
+    "date": 2020,
+    "affiliations": [
+        "Institute for Interdisciplinary Information Sciences, Tsinghua University, Beijing, 100084, China",
+        "NHC Key laboratory of Enteric Pathogenic Microbiology, Jiangsu Provincial Center for Diseases",
+        "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, 201203, China",
+        "School of Pharmaceutical Sciences, Beijing Advanced Innovation Center for Structural Biology",
+        "Tsinghua University, Beijing, 100084, China",
+        "Department of Automation, Tsinghua University, Beijing, 100084, China",
+        "School of Electronic Information and Communications, Huazhong University of Science and",
+        "Institute of Pathology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and",
+        "Center for Global Health, Nanjing Medical University, Nanjing, Jiangsu Province, 210009, China",
+        "MOE Key Laboratory of Bioinformatics, Tsinghua University, Beijing, 100084, China",
+        "Convalife (Shanghai) Co., Ltd., Shanghai, 201203, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.11.986836",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.11.986836.pdf"
+    },
+    "abstract": "The global spread of SARS-CoV-2 requires an urgent need to find effective therapeutics for the treatment of COVID-19. We developed a data-driven drug repositioning framework, which applies both machine learning and statistical analysis approaches to systematically integrate and mine large-scale knowledge graph, literature and transcriptome data to discover the potential drug candidates against SARS-CoV-2. The retrospective study using the past SARS-CoV and MERS-CoV data demonstrated that our machine learning based method can successfully predict effective drug candidates\nEmail addresses: zhaodan2018@tsinghua.edu.cn (Dan Zhao), jszfc@vip.sina.com (Fengcai Zhu), steve.shen@convalife.com (Xiaokun Shen), zengjy321@tsinghua.edu.cn (Jianyang Zeng)",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "61872216",
+                        "81630103",
+                        "31900862"
+                    ]
+                },
+                {
+                    "funding-source": "Jiangsu Provincial Emergency Project on Prevention and Control of COVID-19 Epidemic",
+                    "award-id": [
+                        "BE2020601"
+                    ]
+                },
+                {
+                    "funding-source": "Nation Science and Technology Major Projects for Major New Drugs Innovation and Development",
+                    "award-id": [
+                        "2018ZX09711003004-0022019ZX09301010"
+                    ]
+                },
+                {
+                    "funding-source": "Pudong New Area Science and Technology Development Foundation",
+                    "award-id": [
+                        "PKX2019-S08"
+                    ]
+                },
+                {
+                    "funding-source": "Turing AI Institute of Nanjing,"
+                },
+                {
+                    "funding-source": "Zhongguancun Haihua Institute for Frontier Information Technology"
+                }
+            ],
+            "funding-statement": "This work was supported in part by the National Natural Science Foundation of China (61872216, 81630103, 31900862), Jiangsu Provincial Emergency Project on Prevention and Control of COVID-19 Epidemic (BE2020601), the Nation Science and Technology Major Projects for Major New Drugs Innovation and Development (2018ZX09711003004-0022019ZX09301010), Pudong New Area Science and Technology Development Foundation (PKX2019-S08), and the Turing AI Institute of Nanjing, and the Zhongguancun Haihua Institute for Frontier Information Technology"
+        }
+    ]
+}

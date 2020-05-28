@@ -1,0 +1,107 @@
+{
+    "title": "1 A single dose SARS-CoV-2 simulating particle vaccine induces potent 2 neutralizing activities",
+    "date": 2020,
+    "author": "3 Di Yin,#, Sikai Ling,#, Xiaolong Tian,#, Yang Li, Zhijue Xu, Hewei Jiang, Xue Zhang, Xiaoyuan 4 Wang, Yi Shi, Yan Zhang, Lintai Da, Sheng-ce Tao, Quanjun Wang, Jianjiang Xu, Tianlei 5 Ying, Jiaxu Hong, and Yujia Cai,* 6 1Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Center for Systems 7 Biomedicine, Shanghai Jiao Tong University, Shanghai 200240, China. 8 2MOE/NHC/CAMS Key Laboratory of Medical Molecular Virology, School of Basic Medical 9 Sciences, Fudan University, Shanghai 200032, China. 10 3BD Gene Therapeutics, Shanghai 200240, China. 11 4Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders, 12 Shanghai Jiao Tong University, Shanghai 200030, China. 13 5National Beijing Center for Drug Safety Evaluation and Research, State Key Laboratory of Medical 14 Countermeasures and Toxicology, Institute of Pharmacology and Toxicology, Academy of Military 15 Sciences, Beijing 100850, China. 16 6Department of Ophthalmology and Vision Science, Shanghai Eye, Ear, Nose and Throat Hospital, 17 Fudan University, Shanghai 200031, China. 18 7Department of Ophthalmology, The Affiliated Hospital of Guizhou Medical University, Guiyang 19 550004, China. 20 #These authors contributed equally. 21 *For correspondence: 22 TY: Phone: 86-021-54237761, tlying@fudan.edu.cn 23 JH: Phone: 86-021-64377134, jiaxu_hong@163.com 24 YC: Phone: 86-021-34208571, yujia.cai@sjtu.edu.cn 25 26 Running title: A SARS-CoV-2 vaccine induces neutralizing antibody 27 Keywords: SARS-CoV-2; vaccine; neutralizing antibody; COVID-19",
+    "affiliations": [
+        "Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Center for Systems",
+        "Biomedicine, Shanghai Jiao Tong University, Shanghai 200240, China. 8",
+        "MOE/NHC/CAMS Key Laboratory of Medical Molecular Virology, School of Basic Medical",
+        "Sciences, Fudan University, Shanghai 200032, China. 10 3BD Gene Therapeutics, Shanghai 200240, China. 11",
+        "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders",
+        "Shanghai Jiao Tong University, Shanghai 200030, China. 13",
+        "National Beijing Center for Drug Safety Evaluation and Research, State Key Laboratory of Medical",
+        "Countermeasures and Toxicology, Institute of Pharmacology and Toxicology, Academy of Military",
+        "Sciences, Beijing 100850, China. 16",
+        "Department of Ophthalmology and Vision Science, Shanghai Eye, Ear, Nose and Throat Hospital",
+        "Fudan University, Shanghai 200031, China. 18",
+        "Department of Ophthalmology, The Affiliated Hospital of Guizhou Medical University, Guiyang 19 550004, China. 20 #These authors contributed equally. 21",
+        "For correspondence: 22 TY: Phone: 86-021-54237761"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.093054",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.093054.pdf"
+    },
+    "abstract": "2 Coronavirus disease 2019 (COVID-19) is caused by severe acute respiratory syndrome 3 coronavirus 2 (SARS-CoV-2) for which a vaccine is urgently needed to control its spreading. 4 To facilitate the representation of a native-like immunogen without being infectious, here, we 5 reported a SARS-CoV-2 vaccine candidate (designated ShaCoVacc) by incorporating spike6 encoding mRNA inside and decorating spike protein on the surface of the virus simulating 7 particles (VSPs) derived from lentiviral particles. We characterized the mRNA copy number, 8 glycosylation status, transduction efficiency, and innate immune property of the new vaccine 9 platform. Importantly, we showed the ShaCoVacc induced strong spike-specific humoral immune responses and potent neutralizing activities by a single injection. Additionally, we disclosed the epitopes of spike-specific antibodies using peptide microarray and revealed epitopes susceptible to specific neutralizing antibodies. These results support further development of ShaCoVacc as a candidate vaccine for COVID-19 and VSP may serve as a new vaccine platform for emerging infectious diseases.",
+    "keywords": [
+        "SARS-CoV-2",
+        "vaccine",
+        "neutralizing antibody",
+        "COVID-19"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31971364"
+                    ]
+                },
+                {
+                    "funding-source": "Pujiang Talent Project of Shanghai",
+                    "award-id": [
+                        "GJ4150006"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Municipal Natural Science Foundation",
+                    "award-id": [
+                        "BS4150002"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Center for Systems Biomedicine, Shanghai",
+                    "award-id": [
+                        "WF22044150"
+                    ]
+                },
+                {
+                    "funding-source": "Jiao Tong University",
+                    "award-id": [
+                        "WF220441504"
+                    ]
+                }
+            ],
+            "funding-statement": "Y.C. is supported by National Natural Science Foundation of China [31971364], Pujiang Talent Project of Shanghai [GJ4150006], Shanghai Municipal Natural Science Foundation [BS4150002] and Startup funding from Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University [WF220441504]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81970766",
+                        "81670818"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Rising-Star Program",
+                    "award-id": [
+                        "18QA1401100"
+                    ]
+                }
+            ],
+            "funding-statement": "J.H. is supported by the National Natural Science Foundation of China [81970766 and 81670818] and the Shanghai Rising-Star Program [18QA1401100]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2019YFA0904400"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81822027",
+                        "81630090"
+                    ]
+                }
+            ],
+            "funding-statement": "T.Y. is supported by the National Key R&D Program of China [2019YFA0904400] and National Natural Science Foundation of China [81822027, 81630090]"
+        }
+    ]
+}

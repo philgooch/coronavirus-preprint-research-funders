@@ -1,0 +1,16 @@
+{
+    "abstract": "The number of patients, infected with COVID-19, began to increase very rapidly in India from March 2020. The country was put under lockdown from 25 March 2020. The present study is aimed at providing a simple algebraic analysis of the trend that is evident in the spread of the disease in this part of the world. The purpose of this algebraic approach is to simplify the calculation sufficiently by deviating from the standard techniques that are conventionally used to construct mathematical models of epidemics. The predictions, obtained from this algebraic study, are found to be in reasonable agreement with the recorded data. Using this mathematical formulation we have determined the time variation of the number of asymptomatic patients, who are believed to play a major role in spreading the disease. We have discussed the effect of lockdown in reducing the rate of transmission of the disease. On the basis of the proposed models, predictions have been made regarding the possible trend of the rise in the number of cases beyond the withdrawal of lockdown. All these things have been calculated by using very simple mathematical expressions which can be easily understood and used by those who have a rudimentary knowledge of algebra.",
+    "author": "Sudipto Roy",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20097691",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20097691"
+    },
+    "title": "Spread of COVID-19 in India: A Simple Algebraic Study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding has been received for the present research."
+        }
+    ]
+}

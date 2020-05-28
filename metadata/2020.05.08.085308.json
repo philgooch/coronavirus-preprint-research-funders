@@ -1,0 +1,20 @@
+{
+    "title": "VIRTUS: a pipeline for comprehensive virus analysis from conventional RNA-seq data",
+    "author": "Yoshiaki Yasumizu, Atsushi Hara, Shimon Sakaguchi,*& Naganari Ohkura",
+    "date": 2020,
+    "affiliations": [
+        "Department of Experimental Immunology, Immunology Frontier Research Center, Osaka University, Osaka, Japan",
+        "Department of Immunology, Nara Medical University, Kashihara, Nara, Japan"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.08.085308",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.08.085308.pdf"
+    },
+    "abstract": "The possibility that RNA transcripts from clinical samples contain a plenty of virus RNAs has not been pursued actively so far. We here developed a new tool for analyzing virustranscribed mRNAs, not virus copy numbers, in the data of conventional and single-cell RNA-sequencing of human cells. Our pipeline, named VIRTUS (VIRal Transcript Usage Sensor), was able to detect 763 viruses including herpesviruses, retroviruses, and even SARS-CoV-2 (COVID-19), and quantify their transcripts in the sequence data. This tool thus enabled simultaneously detecting infected cells, the composition of multiple viruses within the cell, and the endogenous host gene expression profile of the cell. This bioinformatics method would be instrumental in addressing possible effects of covertly infecting viruses on certain diseases and developing new treatments to target1 such viruses.",
+    "funding": [
+        {}
+    ]
+}

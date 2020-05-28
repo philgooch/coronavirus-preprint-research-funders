@@ -1,0 +1,16 @@
+{
+    "abstract": "Modelling the spread of coronavirus globally while learning trends at global and country levels remains crucial for tackling the pandemic. We introduce a novel variational LSTM-Autoencoder model to predict the spread of coronavirus for each country across the globe. This deep spatio-temporal model does not only rely on historical data of the virus spread but also includes factors related to urban characteristics represented in locational and demographic data (such as population density, urban population, and fertility rate), an index that represent the governmental measures and response amid toward mitigating the outbreak (includes 13 measures such as: 1) school closing, 2) workplace closing, 3) cancelling public events, 4) close public transport, 5) public information campaigns, 6) restrictions on internal movements, 7) international travel controls, 8) fiscal measures, 9) monetary measures, 10) emergency investment in health care, 11) investment in vaccines, 12) virus testing framework, and 13) contact tracing). In addition, the introduced method learns to generate graph to adjust the spatial dependences among different countries while forecasting the spread. We trained two models for short and long-term forecasts. The first one is trained to output one step in future with three previous timestamps of all features across the globe, whereas the second model is trained to output 10 steps in future. Overall, the trained models show high validation for forecasting the spread for each country for short and long-term forecasts, which makes the introduce method a useful tool to assist decision and policymaking for the different corners of the globe.",
+    "author": "Nicola Christie; Tao Cheng; Mohamed R. Ibrahim; Nilufer Aslam; Aldo Lipani; James Haworth",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20070938",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20070938"
+    },
+    "title": "Variational-LSTM Autoencoder to forecast the spread of coronavirus across the globe",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Authors did not receive fund to conduct this research."
+        }
+    ]
+}

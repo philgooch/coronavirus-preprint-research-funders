@@ -1,0 +1,91 @@
+{
+    "title": "Characteristic and quantifiable COVID-19-like abnormalities in CT- and PET/CT-imaged lungs of SARS-CoV-2-infected crab-eating macaques (Macaca fascicularis)",
+    "author": "Microsoft Office User",
+    "date": 2020,
+    "affiliations": [
+        "Integrated Research Facility at Fort Detrick, National Institute of Allergy and Infectious",
+        "Diseases, National Institutes of Health, Fort Detrick, Frederick, MD 21702, USA 15",
+        "Integrated Research Facility at Fort Detrick, Clinical Monitoring Research Program",
+        "Directorate, Frederick National Laboratory for Cancer Research supported by the",
+        "National Cancer Institute, Frederick, MD 21702, USA 18",
+        "Center for Infectious Disease Imaging, Warren G Magnuson Clinical Center, National",
+        "Institutes of Health, Bethesda, MD, 20814, USA 20",
+        "United States Army Medical Research Institute of Infectious Diseases, Fort Detrick, 21 Frederick, Maryland 21702, USA 22",
+        "Biostatistics Research Branch, National Institute of Allergy and Infectious Diseases, 23 National Institutes of Health, Rockville, MD 20892, USA",
+        "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, 25 WI 53706, USA 26",
+        "Department of Pathology and Laboratory Medicine, University of Wisconsin-Madison, 27 Madison, WI 53706, USA 28",
+        "Wisconsin National Primate Research Center, Madison, WI 53706, USA 29 30"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.096727",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.096727.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is causing an 45 exponentially increasing number of coronavirus disease 19 (COVID-19) cases globally. Prioritization of medical countermeasures for evaluation in randomized clinical trials is critically hindered by the lack of COVID-19 animal models that enable accurate, quantifiable, and reproducible measurement of COVID-19 pulmonary disease free from observer bias. We first used serial computed tomography (CT) to demonstrate that bilateral intrabronchial instillation of SARS51 CoV-2 into crab-eating macaques (Macaca fascicularis) results in mild-to-moderate lung abnormalities qualitatively characteristic of subclinical or mild-to-moderate COVID-19 (e.g., ground-glass opacities with or without reticulation, paving, or alveolar consolidation, peri-bronchial thickening, linear opacities) at typical locations (peripheral>central, posterior and dependent, bilateral, multi-lobar). We then used positron emission tomography (PET) analysis to demonstrate increased FDG uptake in the CT-defined lung abnormalities and regional lymph nodes. PET/CT imaging findings appeared in all macaques as early as 2 days post59 exposure, variably progressed, and subsequently resolved by 6\u201312 days post60 exposure. Finally, we applied operator-independent, semi-automatic quantification of the volume and radiodensity of CT abnormalities as a possible primary endpoint for immediate and objective efficacy testing of candidate medical countermeasures. 64 The causative agent of human coronavirus disease 2019 (COVID-19), severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), likely emerged in W\u01d4h\u00e0n, H\u00fab\u011bi Province, China in November 2019 (1-3). The virus rapidly spread through the human",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "NIAID/DCR"
+                    ]
+                },
+                {
+                    "funding-source": "NIAID/",
+                    "award-id": [
+                        "DCR/I"
+                    ]
+                },
+                {
+                    "funding-source": "Integrated Research Facility"
+                },
+                {
+                    "funding-source": "Fort Detrick"
+                },
+                {
+                    "funding-source": "Karlton Churchwell, David"
+                },
+                {
+                    "funding-source": "Kyra Hadley, Zachary"
+                },
+                {
+                    "funding-source": "Nicolette Schuko,",
+                    "award-id": [
+                        "Clinical Core"
+                    ]
+                },
+                {
+                    "funding-source": "Colin Waters",
+                    "award-id": [
+                        "Clinical Core"
+                    ]
+                },
+                {
+                    "funding-source": "Clinical Core)"
+                },
+                {
+                    "funding-source": "Kurt Cooper and Dan Ragland",
+                    "award-id": [
+                        "Comparative Medicine"
+                    ]
+                },
+                {
+                    "funding-source": "Comparative Medicine)"
+                },
+                {
+                    "funding-source": "Sean Bartlinski",
+                    "award-id": [
+                        "Data Management"
+                    ]
+                },
+                {
+                    "funding-source": "Data Management)"
+                }
+            ],
+            "funding-statement": "We thank all the staff of the NIH/NIAID/DCR/Integrated Research Facility at Fort Detrick who supported this study, in particular Karlton Churchwell, David Drawbaugh, Kyra Hadley, Zachary Hubble, Nicolette Schuko, and Colin Waters (Clinical Core), Kurt Cooper and Dan Ragland (Comparative Medicine), Sean Bartlinski (Data Management), Elena N"
+        }
+    ]
+}

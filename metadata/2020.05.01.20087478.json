@@ -1,0 +1,23 @@
+{
+    "abstract": "We quantitated anti-SARS/CoV-2 IgG and IgM by ELISA in self-collected blood samples (n=142) in arbitrarily-selected metro Atlanta residents, primarily acquaintances of the authors' lab members from 4/17-4/27, 2020. Archived serum (n=34), serum from nucleic acid test (NAT)-positive subjects (n=4), and samples collected from NAT-positive community members (n=4) served to validate the assay. The range of anti-SARS/CoV-2 antibodies in archived and NAT-positive sera indicated need to compromise sensitivity or specificity. Accordingly, we set a cutoff of 4 SD above the mean for IgG and 3 SD above the mean for IgM to indicate that an individual had been exposed, and developed some degree of immunity, to SARS/CoV-2. The IgG cutoff clearly compromised sensitivity but offered high specificity, both of which were harder to gauge for IgM. Based on these cutoffs, excluding subjects whose participation resulted from self-suspected SARS/CoV-2 infection, we found 7.1% positivity for anti-SARS/CoV-2 IgG (3 of 127 subjects) or IgM (6 of 127). While we do not claim this small immune survey is broadly representative of metro Atlanta, and we have greater confidence in the IgG results, which had only 2.4% positivity, it nonetheless demonstrates that persons with antibodies to SARS/CoV-2, who've not suspected they'd been exposed to this virus, can readily be found in various Atlanta area neighborhoods (9 positives were in 8 zip codes). Accordingly, these results support the notion that dissemination of the virus is more widespread than testing would indicate but also suggests that most persons in metro Atlanta remain vulnerable to this virus. More generally, these results support the general utility of sero-surveillance to guide public policy but also highlight the difficulty of discerning if individuals have immunity to SARS/CoV-2.",
+    "author": "Jun Zou; Andrew Gewirtz; Alexis Bretin",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087478",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087478"
+    },
+    "title": "Antibodies to SARS/CoV-2 in arbitrarily-selected Atlanta residents",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "American Diabetes Association and Crohn's and Colitis Foundation,"
+                }
+            ],
+            "funding-statement": "The authors are supported by NIH, American Diabetes Association and Crohn's and Colitis Foundation, albeit not for work on SARS/CoV-2 per se"
+        }
+    ]
+}

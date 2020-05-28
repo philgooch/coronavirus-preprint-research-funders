@@ -1,0 +1,20 @@
+{
+    "abstract": "We introduce a novel mathematical model to analyze the effect of removing non-pharmaceutical interventions on the spread of COVID19 as a function of disease testing rate. We find that relaxing interventions has a strong impact on the size of the epidemic peak as a function of intervention re- moval time. We show that it is essential for predictive models to explicitly capture transmission from asymptomatic carriers and important to obtain precise information on asymptomatic transmission by testing. The asymptomatic reservoir, reported to account for as much as 85% of transmission, will contribute to resurgence of the epidemic if public health interventions are removed too soon. Use of more basic models that fail to capture asymptomatic transmission can result in large errors in predicted clinical caseload or in fitted epidemiological parameters and, therefore, may be unreliable in estimating the risk of a second wave based on the timing of terminated interventions.",
+    "author": "Kun Hu; Ira B Schwartz; Simone Bianco; James H Kaufman",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20068387",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20068387"
+    },
+    "title": "Predicting the impact of asymptomatic transmission, non-pharmaceutical intervention and testing on the spread of COVID19 COVID19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NRL Base"
+                }
+            ],
+            "funding-statement": "BS acknowledges support from the NRL Base funding no"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: The rapid expansion of the current COVID-19 outbreak has caused a global pandemic but how quarantine-based measures can prevent or suppress an outbreak without other more intrusive interventions has not yet been determined. Hong Kong had a massive influx of travellers from mainland China, where the outbreak began, during the early expansion period coinciding with the Lunar New Year festival; however, the spread of the virus has been relatively limited even without imposing severe control measures, such as a full city lockdown. Understanding how quarantine measures in Hong Kong were effective in limiting community spread can provide us with valuable insights into how to suppress an outbreak. However, challenges exist in evaluating the effects of quarantine on COVID-19 transmission dynamics in Hong Kong due to the fact that the effects of border control have to be also taken into account. Methods: We have developed a two-layered susceptible-exposed-infectious-quarantined-recovered (SEIQR) meta-population model which can estimate the effects of quarantine on virus transmissibility after stratifying infections into imported and subsequent community infections, in a region closely connected to the outbreak's source. We fitted the model to both imported and local confirmed case data with symptom onset from 18 January to 29 February 2020 in Hong Kong, together with daily transportation data and the transmission dynamics of COVID-19 from Wuhan and mainland China. After model fitting, epidemiological parameters and the timing of the start of quarantine for infected cases were estimated. Results: The model estimated that the reproduction number of COVID-19 in Hong Kong was 0.76 (95% CI, 0.66 to 0.86), achieved through quarantining infected cases -0.57 days (95% CI, -4.21 - 3.88) relative to symptom onset, with an estimated incubation time of 5.43 days (95% CI, 1.30 - 9.47). However, if delaying the quarantine start by more than 1.43 days, the reproduction number would be greater than one, making community spread more likely. The model also determined the timing of the start of quarantine necessary in order to suppress an outbreak in the presence of population immunity. Conclusion: The results suggest that the early quarantine for infected cases before symptom onset is a key factor to prevent COVID-19 outbreak.\nCompeting Interest Statement",
+    "affiliations": [
+        "City University of Hong Kong"
+    ],
+    "author": "Dirk Pfeiffer; Lindsey Wu; Guiyuan Han; Axiu Mao; Hsiangkuo Yuan; Hsiang-Yu Yuan; Susanne Pfeiffer",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089482",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089482"
+    },
+    "title": "The importance of the timing of quarantine measures before symptom onset to prevent COVID-19 outbreaks - illustrated by Hong Kong's intervention model",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "City University of Hong Kong."
+                }
+            ],
+            "funding-statement": "The grants [#7200573 and #9610416] are funded by City University of Hong Kong."
+        }
+    ]
+}

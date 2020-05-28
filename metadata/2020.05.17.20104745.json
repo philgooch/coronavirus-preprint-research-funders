@@ -1,0 +1,29 @@
+{
+    "abstract": "Background: The emerging SARS-CoV-2 virus has caused a global pandemic characterized by superspreader events. Heterogeneity in transmission risk is a known phenomenon in infectious diseases and was also seen in SARS and MERS outbreaks since 2003. The pandemic has led countries to control the pandemic spread using unprecedented severe mitigation strategies that include quarantine and lock-down. This has has been highly successful in terms of halting the spread, but had enormous socioeconomic cost. We set out to theoretically explore whether a model that includes the phenomenon of superspreaders may guide us towards a cost-effective mitigation strategy. Methods: We developed an agent-based model that includes persons that spread the disease far more readily than other persons. This allow us to investigate effect of containment strategies in both a random SEIR like scenario, and in a transmission model that work with structured society. Our model considered even contact patterns in three settings: home, work and a category of \"other\" settings representing diffuse social contacts. We introduced superspreaders either as a fixed proportion of the population, or as a broad spectrum of infectivity. For each choice, the model was then calibrated to an overall realistic daily growth rate of 23 percentage. As sensitivity analyses we varied the fraction of superspreaders as well the distribution of their infectivity. To compare the simulation findings for each mitigation scenario we considered the maximum daily ICU utility. Results: As expected, without mitigation imposed, the inclusion of superspreaders does not meaningfully change the epidemic trajectory. However when introducing mitigation strategies imposed on each of the three settings, we find that the presence of superspreaders made a substantial difference. The simulations demonstrate that the best strategy is to focus on limiting contacts in the other category. This in particular suggests that limiting diffuse social contacts in settings such as bars, transportation, restaurants, parties, concerts and lecture halls is far more effective than limiting the same amount of contact events in the home and work setting. Conclusions: To appreciate effect of heterogeneity in various social spheres we need to rethink disease transmission models. Doing so, we found that wide distribution of infectivity favours strategies that reduces the max, while leaving the typical behaviour undisturbed. We found that most workplaces may be opened without much influence on the epidemic, while one could snuff out transmission with an effective avoidance of other contacts. Interestingly, including a consideration of superspreaders can help explain the dramatic success of even moderate lock-down strategies as that practiced in Denmark and Sweden. And it points to the need to avoid mass gatherings until either flock immunity has been achieved or an effective vaccine is available.\nCompeting Interest Statement",
+    "author": "Lone Simonsen; Kim Sneppen",
+    "date": 2020,
+    "doi": "10.1101/2020.05.17.20104745",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.17.20104745"
+    },
+    "title": "Impact of Superspreaders on dissemination and mitigation of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Research Council"
+                },
+                {
+                    "funding-source": "European Union's Horizon",
+                    "award-id": [
+                        "740704"
+                    ]
+                },
+                {
+                    "funding-source": "Carlsberg Foundation in Denmark"
+                }
+            ],
+            "funding-statement": "This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation program under grant agreement No 740704, and from the Carlsberg Foundation in Denmark"
+        }
+    ]
+}

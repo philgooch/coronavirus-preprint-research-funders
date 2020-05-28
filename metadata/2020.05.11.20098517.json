@@ -1,0 +1,32 @@
+{
+    "abstract": "We propose an SEIARD mathematical model to investigate the current outbreak of coronavirus disease (COVID-19) in Mexico. Our model incorporates the asymptomatic infected individuals, who represent the majority of the infected population (with symptoms or not) and could play an important role in spreading the virus without any knowledge. We calculate the basic reproduction number (R0) via the next-generation matrix method and estimate the per day infection, death and recovery rates. The local stability of the disease free equilibrium is established in terms of R0. A sensibility analysis is performed to determine the relative importance of the model parameters to the disease transmission. We calibrate the parameters of the SEIARD model to the reported number of infected cases and fatalities for several states in Mexico by minimizing the sum of squared errors and attempt to forecast the evolution of the outbreak until August 2020.",
+    "author": "\u00c1ngel G. C. P\u00e9rez; Ugo Avila-Ponce de Le\u00f3n; Eric Avila-Vales",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20098517",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20098517"
+    },
+    "title": "An SEIARD epidemic model for COVID-19 in Mexico: mathematical analysis and state-level forecast",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ugo Avila-Ponce de Le\u00f3n",
+                    "award-id": [
+                        "CVU: 774988"
+                    ]
+                },
+                {
+                    "funding-source": "Consejo Nacional de Ciencia y Tecnolog\u00eda"
+                },
+                {
+                    "funding-source": "Mexican Sistema Nacional de Investigadores",
+                    "award-id": [
+                        "15284"
+                    ]
+                }
+            ],
+            "funding-statement": "Ugo Avila-Ponce de Le\u00f3n received a fellowship (CVU: 774988) from Consejo Nacional de Ciencia y Tecnolog\u00eda (CONACYT). This article was supported in part by Mexican Sistema Nacional de Investigadores under CVU 15284."
+        }
+    ]
+}

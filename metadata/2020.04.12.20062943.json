@@ -1,0 +1,20 @@
+{
+    "abstract": "Background: The United States is now the country reporting the highest number of 2019 coronavirus disease (COVID-19) cases and deaths. However, little is known about the epidemiology and burden of severe COVID-19 to inform planning within healthcare systems and modeling of intervention impact. Methods: We assessed incidence, duration of hospitalization, and clinical outcomes of acute COVID-19 inpatient admissions in a prospectively-followed cohort of 9,596,321 individuals enrolled in comprehensive, integrated healthcare delivery plans from Kaiser Permanente in California and Washington state. We also estimated the effective reproductive number (RE) describing transmission in the study populations. Results: Data covered 1277 hospitalized patients with laboratory- or clinically-confirmed COVID-19 diagnosis by April 9, 2020. Cumulative incidence of first COVID-19 acute inpatient admission was 10.6-12.4 per 100,000 cohort members across the study regions. Mean censoring-adjusted duration of hospitalization was 10.7 days (2.5-97.5%iles: 0.8-30.1) among survivors and 13.7 days (2.5-97.5%iles: 1.7-34.6) among non-survivors. Among all hospitalized confirmed cases, censoring-adjusted probabilities of ICU admission and mortality were 41.9% (95% confidence interval: 34.1-51.4%) and 17.8% (14.3-22.2%), respectively, and higher among men than women. We estimated RE was 1.43 (1.17-1.73), 2.09 (1.63-2.69), and 1.47 (0.07-2.59) in Northern California, Southern California, and Washington, respectively, for infections acquired March 1, 2020. RE declined to 0.98 (0.76-1.27), 0.89 (0.74-1.06), and 0.92 (0.05-1.55) respectively, for infections acquired March 20, 2020. Conclusions: We identify high probability of ICU admission, long durations of stay, and considerable mortality risk among hospitalized COVID-19 cases in the western United States. Reductions in RE have occurred in conjunction with implementation of non-pharmaceutical interventions.\nCompeting Interest Statement",
+    "author": "Vincent X Liu; Chris Jentz; Jean P Flores; Michael L Jackson; Ayesha Mahmud; Arthur L Reingold; Joseph A Lewnard; Mark A Schmidt; Maya Petersen; Scott Young; Nicholas P Jewell; Jim Bellows; Britta L Jewell; Graham R Northrup",
+    "date": 2020,
+    "doi": "10.1101/2020.04.12.20062943",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.12.20062943"
+    },
+    "title": "Incidence, clinical outcomes, and transmission dynamics of hospitalized 2019 coronavirus disease among 9,596,321 individuals residing in California and Washington, United States: a prospective cohort study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Kaiser Permanente"
+                }
+            ],
+            "funding-statement": "The study was funded by Kaiser Permanente"
+        }
+    ]
+}

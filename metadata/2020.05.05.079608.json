@@ -1,0 +1,56 @@
+{
+    "title": "Inhibition of the replication of SARS-CoV-2 in human cells by the FDA-approved drug chlorpromazine",
+    "date": 2020,
+    "author": "Marion Plaze, David Attali, Matthieu Prot, Anne-C\u00e9cile Petit, Michael Blatzer, Fabien Vinckier, Laurine Levillayer, Florent Perin-Dureau, Arnaud Cachia, G\u00e9rard Friedlander",
+    "affiliations": [
+        "Universit\u00e9 de Paris, Paris, France",
+        "Physics for Medicine Paris, Inserm, ESPCI Paris, CNRS, PSL Research University, Univ Paris Diderot, Sorbonne Paris Cite, Paris, France",
+        "Institut Pasteur, G5 Evolutionary Genomics of RNA Viruses, Paris, France",
+        "Institut Pasteur, Experimental Neuropathology Unit, Paris, France",
+        "Institut Pasteur, Unit\u00e9 de G\u00e9n\u00e9tique Fonctionnelle des Maladies Infectieuses, Paris, France",
+        "Department of Anesthesiology, Fondation Rothschild; ASMR-II Consulting; Regstem; Paris, France",
+        "Universit\u00e9 de Paris, Laboratoire de Psychologie du d\u00e9veloppement et de l'Education de l'Enfant, CNRS, Paris, France",
+        "Universit\u00e9 de Paris, Institut de Psychiatrie et Neurosciences de Paris, INSERM, Paris, France France",
+        "GHU PARIS Psychiatrie & Neurosciences, site Sainte-Anne, Service de Neuropathologie, Paris, France"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.05.079608",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.05.079608.pdf"
+    },
+    "abstract": "Urgent action is needed to fight the ongoing COVID-19 pandemic by reducing the number of infected people along with the infection contagiousness and severity. Chlorpromazine (CPZ), the prototype of typical antipsychotics from the phenothiazine group, is known to inhibit clathrin-mediated endocytosis and acts as an antiviral, in particular against SARS-CoV-1 and MERS-CoV. In this study, we describe the in vitro testing of CPZ against a SARS-CoV-2 isolate in monkey and human cells. We evidenced an antiviral activity against SARS-CoV2 with an IC50 of ~10\u03bcM. Because of its high biodistribution in lung, saliva and brain, such IC50 measured in vitro may translate to CPZ dosage used in clinical routine. This extrapolation is in line with our observations of a higher prevalence of symptomatic and severe forms of COVID-19 infections among health care professionals compared to patients in psychiatric wards. These preclinical findings support the repurposing of CPZ, a largely used drug with mild side effects, in COVID-19 treatment.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Institut Pasteur",
+                    "award-id": [
+                        "covid-therap"
+                    ]
+                },
+                {
+                    "funding-source": "French Government's Investissement"
+                },
+                {
+                    "funding-source": "Integrative Biology of Emerging Infectious Diseases\"",
+                    "award-id": [
+                        "n\u00b0ANR-10LABX-62-IBEID"
+                    ]
+                }
+            ],
+            "funding-statement": "This study has received funding from Institut Pasteur (covid-therap) and the French Government's Investissement d'Avenir program, Laboratoire d'Excellence \"Integrative Biology of Emerging Infectious Diseases\" (grant n\u00b0ANR-10LABX-62-IBEID)"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "Investissements d\u2019Avenir ANR16-CONV-0005"
+                    ]
+                }
+            ],
+            "funding-statement": "ESL acknowledges funding from the INCEPTION program (Investissements d\u2019Avenir grant ANR16-CONV-0005)"
+        }
+    ]
+}

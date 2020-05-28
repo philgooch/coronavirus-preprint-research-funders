@@ -1,0 +1,52 @@
+{
+    "abstract": "Importance: Access to testing is key to a successful response to the COVID-19 pandemic. Objective: To determine the geographic accessibility to SARS-CoV-2 testing sites in the United States, as quantified by travel time. Design: Cross-sectional analysis of SARS-CoV-2 testing sites as of April 7, 2020 in relation to travel time. Setting: United States COVID-19 pandemic. Participants: The United States, including the 48 contiguous states and the District of Columbia. Exposures: Population density, percent minority, percent uninsured, and median income by county from the 2018 American Community Survey demographic data. Main Outcome: SARS-CoV-2 testing sites identified in two national databases (Carbon Health and CodersAgainstCovid), geocoded by address. Median county 1 km2 gridded friction surface of travel times, as a measure of geographic accessibility to SARS-CoV-2 testing sites. Results: 6,236 unique SARS-CoV-2 testing sites in 3,108 United States counties were identified. Thirty percent of the U.S. population live in a county (N = 1,920) with a median travel time over 20 minutes. This was geographically heterogeneous; 86% of the Mountain division population versus 5% of the Middle Atlantic population lived in counties with median travel times over 20 min. Generalized Linear Models showed population density, percent minority, percent uninsured and median income were predictors of median travel time to testing sites. For example, higher percent uninsured was associated with longer travel time (B= 0.41 min/percent, 95% confidence interval 0.3-0.53, p = 1.2x10-12), adjusting for population density. Conclusions and Relevance: Geographic accessibility to SARS-Cov-2 testing sites is reduced in counties with lower population density and higher percent of minority and uninsured, which are also risk factors for worse healthcare access and outcomes. Geographic barriers to SARS-Cov-2 testing may exacerbate health inequalities and bias county-specific transmission estimates. Geographic accessibility should be considered when planning the location of future testing sites and interpreting epidemiological data.",
+    "affiliations": [
+        "Hospital (OFD CDA). MUGK acknowledges funding from the MOOD project and",
+        "Branco Weiss Fellowship. The funding bodies had no role in study design, data collection and analysis, preparation of the manuscript, or the decision to publish. All authors have seen and approved the manuscript"
+    ],
+    "author": "Benjamin Rader; Kara Sewalk; John S. Brownstein; Moritz U.G. Kraemer; Yulin Hswen; Christina M. Astley; Karla Therese L. Sy",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20074419",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20074419"
+    },
+    "title": "Increased travel times to United States SARS-CoV-2 testing sites: a spatial modeling study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Tides Foundation, TF",
+                    "award-id": [
+                        "089662"
+                    ]
+                }
+            ],
+            "funding-statement": "BR and JSB acknowledge funding from Google.org for COVID-19 research (Tides Foundation, TF2003-089662)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIDDK",
+                    "award-id": [
+                        "K23 DK120899"
+                    ]
+                },
+                {
+                    "funding-source": "OFD CDA)"
+                }
+            ],
+            "funding-statement": "CMA was supported by NIDDK (K23 DK120899) and Boston Children\u0092s Hospital (OFD CDA)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "MOOD project"
+                },
+                {
+                    "funding-source": "Branco Weiss Fellowship"
+                }
+            ],
+            "funding-statement": "MUGK acknowledges funding from the MOOD project and a Branco Weiss Fellowship"
+        }
+    ]
+}

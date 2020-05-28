@@ -1,0 +1,20 @@
+{
+    "abstract": "Due to the COVID-19 pandemic, many countries have implemented a complete lock-down of their population that may not be sustainable for long. To identify the best strategy to replace this full lock-down, sophisticated models that rely on mobility data have been developed. In this study, using the example of France as a case-study, we develop a simple model considering contacts between age classes to derive the general impact of partial lock-down strategies targeted at specific age groups. We found that epidemic suppression can only be achieved by targeting isolation of young and middle age groups with high efficiency. All other strategies tested result in a flatter epidemic curve, with outcomes in (e.g. mortality and health system over-capacity) dependent of the age groups targeted and the isolation efficiency. Targeting only the elderly can decrease the expected mortality burden, but in proportions lower than more integrative strategies involving several age groups. While not aiming to provide quantitative forecasts, our study shows the benefits and constraints of different partial lock-down strategies, which could help guide decision-making.",
+    "author": "Benjamin ROCHE; Andres Garchitorena; David Roiz",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20073932",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20073932"
+    },
+    "title": "Optimal strategies for quarantine stopping in France. General expected patterns of strategies focusing on contact between age groups",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ANR DigEpi"
+                }
+            ],
+            "funding-statement": "This study has been partially funded by the ANR DigEpi"
+        }
+    ]
+}

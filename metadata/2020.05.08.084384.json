@@ -1,0 +1,29 @@
+{
+    "title": "ACE2 coding variants in different populations and their potential impact on SARS-CoV-2 binding affinity",
+    "author": "Fedaa Ali,a, Menattallah Elserafy,b, Mohamed H. Alkordi,c and Muhamed Amina,d, a Department of Sciences, University College Groningen, University of Groningen, Hoendiepskade 23/24, 9718 BG Groningen",
+    "date": 2020,
+    "affiliations": [
+        "Department of Sciences, University College Groningen, University of Groningen, Hoendiepskade 23/24, 9718 BG Groningen",
+        "Center for Genomics, Helmy Institute for Medical Sciences, Zewail City of Science and Technology, October Gardens, 6th of",
+        "Center for Materials Science, Zewail City of Science and Technology, October Gardens, 6th of October, Giza 12578, Egypt",
+        "Rijksuniversiteit Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, Groningen, Netherlands"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.08.084384",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.08.084384.pdf"
+    },
+    "abstract": "The susceptibility of different populations to the SARS-CoV-2 infection is not yet understood. A deeper analysis of the genomes of individuals from different populations might explain their risk for infection. In this study, a combined analysis of ACE2 coding variants in different populations and computational chemistry calculations are conducted in order to probe the potential effects of ACE2 coding variants on SARS-CoV-2/ACE2 binding affinity. Our study reveals novel interaction data on the variants and SARS-CoV-2. We could show that ACE2-K26R; which is more frequent in the Ashkenazi Jewish population decrease the electrostatic attraction between SARS-CoV-2 and ACE2. On the contrary, ACE2-I468V, R219C, K341R, D206G, G211R were found to increase the electrostatic attraction and increase the binding to SARS-CoV-2; ordered by the strength of binding from weakest to strongest. I468V, R219C, K341R, D206G and G211R were more frequent in East Asian, South Asian, African and African American, European and European and South Asian populations, respectively. SARS-CoV-2/ACE2 interface in the WT protein and corresponding variants is showed to be a dominated by van der Waals (vdW) interactions. All the mutations except K341R induce an increase in the vdW attractions between the ACE2 and the SARS-CoV-2. The largest increase of is observed for the R219C mutant.",
+    "keywords": [
+        "SARS-CoV-2 binding",
+        "ACE2 variants",
+        "populations",
+        "single nucleotide variants",
+        "weak interactions"
+    ],
+    "funding": [
+        {}
+    ]
+}

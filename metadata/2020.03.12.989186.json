@@ -1,0 +1,33 @@
+{
+    "title": "Nucleotide Analogues as Inhibitors of SARS-CoV Polymerase",
+    "author": "Jingyue Ju, Xiaoxu Li, Shiv Kumar, Steffen Jockusch, Minchen Chien, Chuanjuan Tao, Irina Morozova, Sergey Kalachikov, Robert N. Kirchdoerfer, James J. Russo",
+    "date": 2020,
+    "affiliations": [
+        "Center for Genome Technology and Biomolecular Engineering, Columbia University, New York, NY 10027; Departments of",
+        "Chemical Engineering",
+        "Pharmacology, and",
+        "Chemistry, Columbia University, New",
+        "Institute of Molecular Virology, University of Wisconsin-Madison, Madison, WI 53706"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.12.989186",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.12.989186.pdf"
+    },
+    "abstract": "SARS-CoV-2, a member of the coronavirus family, has caused a global public health emergency.1 Based on our analysis of hepatitis C virus and coronavirus replication, and the molecular structures and activities of viral inhibitors, we previously reasoned that the FDA-approved heptatitis C drug EPCLUSA (Sofosbuvir/Velpatasvir) should inhibit coronaviruses, including SARS-CoV-2.2 Here, using model polymerase extension experiments, we demonstrate that the activated triphosphate form of Sofosbuvir is incorporated by low-fidelity polymerases and SARS-CoV RNA-dependent RNA polymerase (RdRp), and blocks further incorporation by these polymerases; the activated triphosphate form of Sofosbuvir is not incorporated by a host-like high-fidelity DNA polymerase. Using the same molecular insight, we selected two other anti-viral agents, Alovudine and AZT (an FDA approved HIV/AIDS drug) for evaluation as inhibitors of SARS-CoV RdRp. We demonstrate the ability of two HIV reverse transcriptase inhibitors, 3\u2019fluoro-3\u2019-deoxythymidine triphosphate and 3\u2019-azido-3\u2019-deoxythymidine triphosphate (the active triphosphate forms of Alovudine and AZT), to be incorporated by SARS-CoV RdRp where they also terminate further polymerase extension. Given the 98% amino acid similarity of the SARS-CoV and SARS-CoV-2 RdRps, we expect these nucleotide analogues would also inhibit the SARS-CoV-2 polymerase. These results offer guidance to further modify these nucleotide analogues to generate more potent broad-spectrum anticoronavirus agents.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Columbia University,"
+                },
+                {
+                    "funding-source": "Author Contributions J.J."
+                }
+            ],
+            "funding-statement": "This research is supported by Columbia University, which has filed a patent application on the work described in this manuscript. Author Contributions J.J. conceived and directed the project; the approaches and assays were designed and conducted by J.J., X.L., S.K., S.J., J.J.R., M.C. and C.T., comparative sequence analysis was performed by I.M. and S.K., and SARS-CoV polymerase and associated proteins nsp12, 7 and 8 were cloned and purified by R.N.K"
+        }
+    ]
+}

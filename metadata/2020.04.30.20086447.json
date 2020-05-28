@@ -1,0 +1,26 @@
+{
+    "abstract": "Background: In an effort to contain the COVID-19 epidemic, many governments across the world have enforced lockdown or social distancing measures. Several outbreak models have been developed to investigate the effects of different public health strategies for COVID-19, but they have not been developed for Pakistan and other South East Asian countries, where a large proportion of global population resides. Methods: We developed a stochastic individual contact model by extending the widely-used Susceptible-Infectious-Recovered (SIR) compartment model with additional compartments to model both anticipated mitigating effects of public health intervention strategies for Pakistan. We estimated the projected spread, number of hospitalizations, and case fatalities under no intervention and four increasingly stringent public health strategies of social distancing and self-isolation at the national and provincial levels of Pakistan. Results: Our analysis shows that without any public health interventions the expected number of cumulative case fatalities is 671,596 in Pakistan with the virus is expected to peak in terms of the number of required ICU-hospitalizations at 198,593 persons by the end of the June 2020. The estimated total numbers of cumulative case fatalities are lower for other public health strategies with strict social distancing showing the lowest number of deaths at 1,588 (Self-isolation: n=341,359; Flexible social distancing strategy: n=3,995; and Exit strategy: n=28,214). The lowest number of required ICU-hospitalization is also estimated for strict social distancing strategy (n=266 persons at the end of May 2020). Generally, the simulated effects of the different public health strategies at the provincial-level were similar to the national-level with strict social distancing showing the fewest number of case fatalities and ICU-hospitalizations. Conclusion: Our results indicate that case fatalities and ICU-hospitalizations for Pakistan will be high without any public health interventions. While strict social distancing can potentially prevent a large number of deaths and ICU-hospitalizations, the government faces an important dilemma of potentially severe economic downfall. Consideration of a temporary strict social distancing strategy with gradual return of the lower-risk Pakistani population, as simulated in our exit strategy scenario, may an effective compromise between public health and economy of Pakistani population.\nCompeting Interest Statement",
+    "author": "Michael Zoratti; Jay JH Park; Noor Zannat; Timothy Churches; Edward J Mills; Ofir Harari; Kristian Thorlund; Zulfiqar A Bhutta",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20086447",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20086447"
+    },
+    "title": "Evaluation of effects of public health interventions on COVID-19 transmission for Pakistan: A mathematical simulation study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Center of Excellence in Women and Child Health,"
+                },
+                {
+                    "funding-source": "Aga Khan University and Cytel Inc."
+                },
+                {
+                    "funding-source": "The Government"
+                }
+            ],
+            "funding-statement": "The study was undertaken by the Center of Excellence in Women and Child Health, the Aga Khan University and Cytel Inc., who respectively supported the data collection and investigator time for the study. The article contents are the sole responsibility of the authors and may not necessarily represent the official views of the Government that may have supported the primary data studies used in the present study. The Government did not have any role in the study design, collection, analysis, interpretation of the data, or writing of the manuscript. ZAB, KT, and EJM had full access of all of the data in the study. EJM and ZAB were responsible for the integrity of the data, accuracy of the data analysis, and the final decision to submit for publication."
+        }
+    ]
+}

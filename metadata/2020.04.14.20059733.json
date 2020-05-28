@@ -1,0 +1,36 @@
+{
+    "abstract": "SARS-CoV-2 is the causative agent of COVID-19 and is a severe threat to global health. Patients infected with SARS-CoV-2 show a wide range of symptoms and disease severity, while limited data is available on its immunogenicity. Here, the kinetics of the development of SARS-CoV-2-specific antibody responses in relation to clinical features and dynamics of specific B-cell populations are reported. Immunophenotyping of B cells was performed by flow cytometry with longitudinally collected PBMCs. In parallel, serum samples were analyzed for the presence of SARS-CoV-2-specific IgA, IgG, and IgM antibodies using whole proteome peptide microarrays. Soon after disease onset in a mild case, we observed an increased frequency of plasmablasts concomitantly with a strong SARS-CoV-2-specific IgA response. In contrast, a case with more severe progression showed a delayed, but eventually very strong and broad SARS-CoV-2-specific IgA response. This case study shows that determining SARS-CoV-2-specific antibody epitopes can be valuable to monitor the specificity and magnitude of the early B-cell response, which could guide the development of vaccine candidates. Follow-up studies are required to evaluate whether the kinetics and strength of the SARS-CoV-2-specific IgA response could be potential prognostic markers of viral control.",
+    "affiliations": [
+        "German Federal Ministry of Education and Research [BMBF, Grant number 13XP5050A], the MPG-FhG cooperation [Glyco3Display], the Max Planck Society, and the German Center for Infection Research [DZIF TTU01921]"
+    ],
+    "author": "Robin Kobbe; Anahita Fathi; Christine Dahlke; ID-UKE COVID-19 study group; Rene Santer; My L. Ly; Felix F. Loeffler; Stefan Schmiedel; Jasmin Heidepriem; Peter H. Seeberger; Marylyn M. Addo; Till Koch",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20059733",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20059733"
+    },
+    "title": "Distinct early IgA profile may determine severity of COVID-19 symptoms: an immunological case series",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "German Federal Ministry of Education and Research",
+                    "award-id": [
+                        "13XP5050A",
+                        "Glyco3Display"
+                    ]
+                },
+                {
+                    "funding-source": "Max Planck Society,"
+                },
+                {
+                    "funding-source": "German Center for Infection Research",
+                    "award-id": [
+                        "DZIF TTU01921"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported by the German Federal Ministry of Education and Research [BMBF, Grant number 13XP5050A], the MPG-FhG cooperation [Glyco3Display], the Max Planck Society, and the German Center for Infection Research [DZIF TTU01921]"
+        }
+    ]
+}

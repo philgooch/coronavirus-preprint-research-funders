@@ -1,0 +1,16 @@
+{
+    "abstract": "The cumulative number of confirmed cases in the United States exceeded one million on 29 April 2020, becoming the country of the most serious pandemic in the world. We proposed a model to analyze the real situation and follow-up trend of the epidemic in the US. The proposed model divides the epidemic period into two phases, and includes three different categories of transmitters: the latent population, the documented infectious population, and the undocumented infectious population. We use metapopulation network to simulate the spread of the COVID-19 in the US, and apply the Bayesian inference to estimate the key parameters of the model. We also perform component analysis and sensitivity analysis, researching the compositions of the people with COVID-19. The results show that the basic reproduction number in the early period of propagation is 4.06. As of April 13, 2020, only 45% (95% CI: 35% - 73%) of symptom onset cases in the United States were documented. The incubation period of COVID-19 is 10.69 days (95% CI: 10.02-11.74). If the current level of interventions is continued, the cumulative number of confirmed cases is expected to reach more than 1.7 million in July and continue to grow.",
+    "author": "Junkai Zhu; Zefei Gao; Xiang Zhang; Deqiang Li; Yuanbo Tang; Liuling Zhou; Junyan Yang; Qiao Wang; Qinghe Liu; Yuhao Zhu; Zhicheng Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20094086",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20094086"
+    },
+    "title": "Transmission in Latent Period Causes A Large Number of Infected People in the United States",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding support"
+        }
+    ]
+}

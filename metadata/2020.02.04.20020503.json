@@ -1,0 +1,67 @@
+{
+    "abstract": "We developed a computational tool to assess the risk of novel coronavirus outbreaks outside China. We estimate the dependence of the risk of a major outbreak in a country from imported cases on key parameters such as: (i) the evolution of the cumulative number of cases in mainland China outside the closed areas; (ii) the connectivity of the destination country with China, including baseline travel frequencies, the effect of travel restrictions, and the efficacy of entry screening at destination; (iii) the efficacy of control measures in the destination country (expressed by the local reproduction number Rloc). We found that in countries with low connectivity to China but with relatively high Rloc, the most beneficial control measure to reduce the risk of outbreaks is a further reduction in their importation number either by entry screening or travel restrictions. Countries with high connectivity but low Rloc benefit the most from policies that further reduce Rloc. Countries in the middle should consider a combination of such policies. Risk assessments were illustrated for selected groups of countries from America, Asia and Europe, and we investigated how their risks depend on those parameters, and how the risk is increasing in time as the number of cases in China is growing.",
+    "affiliations": [
+        "Hungarian Academy of Sciences. P.B. was supported by 20391-3/2018/FEKUSTRAT"
+    ],
+    "author": "Zsolt Vizi; Peter Boldog; Gergely Rost; Tamas Tekeli; Attila Denes; Ferenc Bartha",
+    "date": 2020,
+    "doi": "10.1101/2020.02.04.20020503",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.04.20020503"
+    },
+    "title": "Risk assessment of novel coronavirus COVID-19 outbreaks outside China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "EFOP-3",
+                        "1-16-2016-00008"
+                    ]
+                }
+            ],
+            "funding-statement": "G.R. was supported by EFOP-3.6.1-16-2016-00008"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NKFIH KKP",
+                    "award-id": [
+                        "129877"
+                    ]
+                }
+            ],
+            "funding-statement": "F.B. was supported by NKFIH KKP 129877"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NKFI FK",
+                    "award-id": [
+                        "124016"
+                    ]
+                },
+                {
+                    "funding-source": "NKFIH PD",
+                    "award-id": [
+                        "128363"
+                    ]
+                },
+                {
+                    "funding-source": "Bolyai Research Scholarship of the Hungarian Academy of Sciences"
+                }
+            ],
+            "funding-statement": "T.T. was supported by NKFI FK 124016, A.D. was supported by NKFIH PD 128363 and by the J\\'anos Bolyai Research Scholarship of the Hungarian Academy of Sciences"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "20391-3/2018/FEKUSTRAT"
+                    ]
+                }
+            ],
+            "funding-statement": "P.B. was supported by 20391-3/2018/FEKUSTRAT"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "title": "In vitro screening of a FDA approved chemical library reveals potential inhibitors of SARS-CoV-2 replication",
+    "date": 2020,
+    "author": "3 4 Franck Touret, Magali Gilles, Karine Barral, Antoine Nougair\u00e8de, Etienne Decroly, 5 Xavier de Lamballerie, and Bruno Coutard,* 6 7 1 Unit\u00e9 des Virus Emergents (UVE: Aix Marseille Univ, IRD 190, INSERM 1207, IHU 8 M\u00e9diterran\u00e9e Infection), 13005 Marseille, France. 9 2 Aix-Marseille Univ, INSERM U1068, CNRS UMR, Institut Paoli-Calmettes, CRCM, 10 Marseille, France. 11 3Aix Marseille Universit\u00e9, CNRS, AFMB UMR 7257, Marseille, France 12 *Corresponding authors: franck.touret@univ-amu.fr ; bruno.coutard@univ-amu.fr",
+    "affiliations": [
+        "Institut Paoli-Calmettes, CRCM",
+        "Marseille, France. 11",
+        "Aix Marseille Universit\u00e9, CNRS, AFMB UMR 7257, Marseille, France 12",
+        "Corresponding authors:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.03.023846",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.03.023846.pdf"
+    },
+    "abstract": "A novel coronavirus, named SARS-CoV-2, emerged in 2019 from Hubei region in China and rapidly spread worldwide. As no approved therapeutics exists to treat Covid-19, the disease associated to SARS21 Cov-2, there is an urgent need to propose molecules that could quickly enter into clinics. Repurposing of approved drugs is a strategy that can bypass the time consuming stages of drug development. In this study, we screened the Prestwick Chemical Library\u00ae composed of 1,520 approved drugs in an infected cell-based assay. 90 compounds were identified. The robustness of the screen was assessed by the identification of drugs, such as Chloroquine derivatives and protease inhibitors, already in clinical trials. The hits were sorted according to their chemical composition and their known therapeutic effect, then EC50 and CC50 were determined for a subset of compounds. Several drugs, such as Azithromycine, Opipramol, Quinidine or Omeprazol present antiviral potency with 2<EC50<20\u03bcM. By providing new information on molecules inhibiting SARS-CoV-2 replication in vitro, this study could contribute to the short-term repurposing of drugs against Covid-19.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "coronavirus",
+        "antivirals",
+        "screening",
+        "drug repurposing",
+        "15 16"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "REsearch and ACTion"
+                },
+                {
+                    "funding-source": "European Virus Archive Global",
+                    "award-id": [
+                        "EVA GLOBAL"
+                    ]
+                },
+                {
+                    "funding-source": "EVA GLOBAL)"
+                },
+                {
+                    "funding-source": "European Union's Horizon",
+                    "award-id": [
+                        "871029"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by Inserm through the REACTing (REsearch and ACTion targeting emerging infectious diseases) initiative and by the European Virus Archive Global (EVA GLOBAL) funded by the European Union's Horizon 2020 research and innovation programme under grant agreement No 871029"
+        }
+    ]
+}

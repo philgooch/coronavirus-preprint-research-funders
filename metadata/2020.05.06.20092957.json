@@ -1,0 +1,58 @@
+{
+    "abstract": "OBJECTIVES: To identify the sociodemographic, lifestyle, comorbidity and antihypertensive medication associations with the development of hospitalisation with covid-19 in an English population. DESIGN: Prospective cohort study SETTING: The population-based UK Biobank study was linked to English covid-19 test results. PARTICIPANTS: Individuals resident in England and alive in 2020. MAIN OUTCOME MEASURES: Cases (n=605) were defined by a positive covid-19 test result conducted between 16th March and 16th April 2020, during a restricted testing policy for hospitalised individuals with severe disease. RESULTS: A total of 406,793 participants were included. Mean age on 1st January 2020 was 68 years (range 48 to 85 years). 55% were women. In multivariable models, major independent risk factors for hospitalisation with covid-19 were male sex (odds ratio 1.52; 95% confidence interval 1.28 to 1.81; P<0.001), South Asian ethnicity (2.02; 1.28 to 3.17; P=0.002) or black ethnicity (3.09; 2.18 to 4.38; P<0.001) compared to white ethnicity, greater residential deprivation (1.92 for most deprived quartile compared to least deprived quartile; 1.50 to 2.47; P<0.001), higher BMI (2.04 for BMI >35 compared to <25 Kg/m2; 1.50 to 2.77; P<0.001), former smoking (1.39 compared to never smoked; 1.16 to 1.66; P<0.001), and comorbidities hypertension (1.28; 1.06 to 1.53; P=0.009) and chronic obstructive pulmonary disease (1.81; 1.34 to 2.44; P<0.001). Increased risk was observed with increasing number of antihypertensive medications used rather than any individual class. CONCLUSION: Understanding why these factors confer increased risk of severe covid-19 in the population may help elucidate the underlying mechanisms as well as inform strategy and policy to prevent this disease and its consequences. We found no evidence of increased risk with specific classes of antihypertensive medication.",
+    "affiliations": [
+        "UK Biobank was established by the Wellcome Trust, Medical Research Council, Department of Health, Scottish government, and Northwest Regional Development Agency. It has also had funding from the Welsh assembly government and the British Heart Foundation. APK was supported by",
+        "Moorfields Eye Charity Career Development Fellowship. ANW was",
+        "Wellcome Trust clinical research fellow. PTK and PJF were supported by the National Institute for Health Research (NIHR) Biomedical Research Centre based at Moorfields Eye Hospital NHS Foundation Trust and University College London Institute of Ophthalmology. PJF received additional support from The Richard Desmond Charitable Trust"
+    ],
+    "author": "Andrew Dick; Paul J Foster; Alasdair N Warwick; Anthony P Khawaja; Peng T Khaw; Adnan Tufail; Pirro G Hysi; Alan Kastner; Kay-Tee Khaw",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20092957",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20092957"
+    },
+    "title": "Associations with covid-19 hospitalisation amongst 406,793 adults: the UK Biobank prospective cohort study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "British Heart Foundation"
+                }
+            ],
+            "funding-statement": "It has also had funding from the Welsh assembly government and the British Heart Foundation"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Moorfields Eye Charity Career Development Fellowship"
+                }
+            ],
+            "funding-statement": "APK was supported by a Moorfields Eye Charity Career Development Fellowship"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "Moorfields Eye Hospital NHS Foundation Trust and University College London Institute of Ophthalmology"
+                }
+            ],
+            "funding-statement": "PTK and PJF were supported by the National Institute for Health Research (NIHR) Biomedical Research Centre based at Moorfields Eye Hospital NHS Foundation Trust and University College London Institute of Ophthalmology"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Richard Desmond Charitable Trust"
+                }
+            ],
+            "funding-statement": "PJF received additional support from The Richard Desmond Charitable Trust"
+        }
+    ]
+}

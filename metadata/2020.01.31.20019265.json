@@ -1,0 +1,60 @@
+{
+    "abstract": "As the number of novel coronavirus cases grows both inside and outside of China, public health authorities require evidence on the effectiveness of control measures such as thermal screening of arrivals at airports. We evaluated the effectiveness of exit and entry screening for 2019-nCoV infection. In our baseline scenario, we estimated that 46.5% (95%CI: 35.9 to 57.7) of infected travellers would not be detected, depending on the incubation period, sensitivity of exit and entry screening, and the proportion of cases which are asymptomatic. Airport screening is unlikely to detect a sufficient proportion of 2019-nCoV infected travellers to avoid entry of infected travellers. We developed an online tool so that results can be updated as new information becomes available.",
+    "affiliations": [
+        "National Institute for Health Research (NIHR) (16/137/109) using UK aid from the UK Government to support global health research. The views expressed in this publication are those of the author(s) and not necessarily those of the NHS, the NIHR or the UK Department of Health and Social Care"
+    ],
+    "author": "Sam Clifford; Stefan Flasche; Rosalind M Eggo; Billy Quilty",
+    "date": 2020,
+    "doi": "10.1101/2020.01.31.20019265",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.01.31.20019265"
+    },
+    "title": "Effectiveness of airport screening at detecting travellers infected with 2019-nCoV",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Sir Henry Dale Fellowship"
+                },
+                {
+                    "funding-source": "Wellcome Trust and the Royal Society",
+                    "award-id": [
+                        "208812/Z/17/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "SF and SC are supported by a Sir Henry Dale Fellowship jointly funded by the Wellcome Trust and the Royal Society (Grant number 208812/Z/17/Z)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "HDR UK Innovation Fellowship",
+                    "award-id": [
+                        "MR/S003975/1"
+                    ]
+                }
+            ],
+            "funding-statement": "RME acknowledges an HDR UK Innovation Fellowship (Grant number MR/S003975/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "UK Government"
+                }
+            ],
+            "funding-statement": "BQ was funded by the National Institute for Health Research (NIHR) (16/137/109) using UK aid from the UK Government to support global health research"
+        }
+    ]
+}

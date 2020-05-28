@@ -1,0 +1,16 @@
+{
+    "abstract": "Quantitative reverse-transcription PCR (qRT-PCR) assays remains the gold standard for detection of the SARS-CoV-2 virus because of its sensitivity and specificity. However, successful design of qRT-PCR assays requires accurate viral genome sequences. With mutations accumulating as the virus is transmitted globally, we sought to compare current assays recommended by the World Health Organization with available SARS-CoV-2 genomic sequences in silico. While most sequences were conserved, there were notable mismatches, particularly in assays developed using early sequences when compared to more recent isolates. We recommend that any assay being evaluated for diagnostic tests be compared with prevalent sequence data from the region of proposed testing and that continued publicly accessible sequence information continue to be provided by the research community.",
+    "author": "Derek Toms; Hugh Y Cai; Julang Li",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075697",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075697"
+    },
+    "title": "Evaluation of WHO listed COVID-19 qPCR primers and probe in silico with 375 SERS-CoV-2 full genome sequences",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "The recent COVID-19 pandemic is of big and world-wide concern. There is an intense discussion and uncertainty which factors and sanctions can reduce infection rates. The overall aim is to prevent an overload of the medical system. Even within one country, there is frequently a strong local variability in both -- political sanctions as well as other local factors -- which may influence infection rates. The main focus of study is analysis and interpretation of recent temporal developments (infection rates). We present a statistical framework designed to identify local factors which reduce infection rates. The approach is robust with respect to the number of undetected infection cases. We apply the framework to spatio-temporal infection data from Germany. In particular, we demonstrate that (1) infection rates are in average significantly decreasing in Germany; (2) there is a high spatial variability of these rates, and (3) both, early emergence of first infections and high local infection densities has led to strong recent decays in infection rates, suggesting that psychological effects (such as awareness of danger) lead to behaviour changes that reduce infection rates. However, the full potential of the presented method cannot yet be exploited, since more precise spatio-temporal data, such as local cell phone-based mobility data, are not yet available. In the nearest future, the presented framework could be applied to data from other countries at any state of infection, even during the exponential phase of the growth of infection rates.",
+    "author": "Dennis Wilken; Moritz Mercker; Uwe Betzin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20064501",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20064501"
+    },
+    "title": "What influences COVID-19 infection rates: A statistical approach to identify promising factors applied to infection data from Germany",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "We did not receieve fundings for this study"
+        }
+    ]
+}

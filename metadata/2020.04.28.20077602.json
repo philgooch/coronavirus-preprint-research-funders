@@ -1,0 +1,38 @@
+{
+    "abstract": "In response to the rapidly evolving COVID-19 pandemic, the U.S. Food and Drug Administration (FDA) has rapidly issued 49 emergency use authorizations (EUAs) for SARS-CoV-2 in vitro diagnostic test-kits. A critical metric in the performance evaluation for a diagnostic test kit is the analytical sensitivity, which is measured by the limit of detection (LOD). Commercial RNA stocks with known titers are used to determine LOD. We identified a problem with the titer reported for the commercial stocks when examining the analytical sensitivity of the reverse transcription quantitative PCR (RT-qPCR) protocol that is recommended by the Centers for Disease Control and Prevention (CDC) using plasmid DNA from Integrated DNA Technologies (IDT), synthetic RNA from BEI Resources (BEI), and extracted genomic RNA from BEI. We detected 3/3 positives for reactions containing synthetic RNA at a concentration of 0.1 copies/reaction (based on the supplier's label concentration). The apparent better-than-single-molecule performance is a statistically highly unlikely event, indicating a potential inaccuracy in the supplier's quantification of the stock material. Using an ultrasensitive and precise assay, reverse transcription digital PCR (RT-dPCR), we independently quantified concentrations of commercial SARS-CoV-2 plasmid DNA and SARS-CoV-2 RNA stocks. For plasmid DNA, the actual concentration measured by RT-dPCR was 11% of the nominal label concentration. For synthetic RNA, the actual concentration measured by RT-dPCR for one lot was 770% of the label concentration and for a different lot was 57% of the label concentration. For genomic RNA, the concentration measured by RT-dPCR for one lot was 240% of the label concentration and for a different lot it was 300% of the label concentration. This SARS-CoV-2 genomic RNA from BEI Resources has been used in at least 11 approved FDA Emergency Use Authorizations as of April 27, 2020. Such deviations of reported RNA or DNA stock concentrations from true concentrations can result in inaccurate quantification and calculation of LOD. Precise and accurate reporting of DNA and RNA stock concentrations by commercial suppliers will enable accurate quantification of assay performance, which is urgently needed to improve evaluation of different assays by diagnostic developers and regulatory bodies.",
+    "affiliations": [
+        "Jacobs Institute for Molecular Engineering for Medicine (Caltech) and NSF Graduate Research Fellowship DGE-144469 (to E.J.)"
+    ],
+    "author": "Rustem F. Ismagilov; Erik Jue",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20077602",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20077602"
+    },
+    "title": "Commercial stocks of SARS-CoV-2 RNA may report low concentration values, leading to artificially increased apparent sensitivity of diagnostic assays",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Innovation in Regulatory Science Award"
+                },
+                {
+                    "funding-source": "Burroughs Wellcome Fund,"
+                },
+                {
+                    "funding-source": "Jacobs Institute for Molecular Engineering for Medicine",
+                    "award-id": [
+                        "Caltech"
+                    ]
+                },
+                {
+                    "funding-source": "NSF Graduate Research Fellowship DGE-144469",
+                    "award-id": [
+                        "to E.J."
+                    ]
+                }
+            ],
+            "funding-statement": "This work was funded in part by an Innovation in Regulatory Science Award (IRSA) from the Burroughs Wellcome Fund, a grant from the Jacobs Institute for Molecular Engineering for Medicine (Caltech) and NSF Graduate Research Fellowship DGE-144469 (to E.J.)"
+        }
+    ]
+}

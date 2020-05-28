@@ -1,0 +1,56 @@
+{
+    "abstract": "The COVID-19 pandemic continues to have a devastating effect on the health and well-being of the global population. A vital step in the combat towards COVID-19 is a successful screening of contaminated patients, with one of the key screening approaches being radiological imaging using chest radiography. This study aimed to automatically detect COVID\u201019 pneumonia patients using digital chest x\u2010ray images while maximizing the accuracy in detection using deep convolutional neural networks (DCNN). The dataset consists of 864 COVID\u201019, 1345 viral pneumonia and 1341 normal chest x\u2010ray images. In this study, DCNN based model Inception V3 with transfer learning have been proposed for the detection of coronavirus pneumonia infected patients using chest X-ray radiographs and achieved more than 96% accuracy. The results demonstrate that transfer learning proved to be effective, showed robust performance and easily deployable approach for COVID-19 detection.",
+    "author": "Sohaib Asif; Yi Wenhui",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20088211",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20088211"
+    },
+    "title": "Automatic Detection of COVID-19 Using X-ray Images with Deep Convolutional Neural Networks and Machine Learning",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D",
+                    "award-id": [
+                        "2019YFA0706400",
+                        "2019YFA0706402"
+                    ]
+                },
+                {
+                    "funding-source": "Pre-research Funds for Equipment of China",
+                    "award-id": [
+                        "61409220115"
+                    ]
+                },
+                {
+                    "funding-source": "Natural Science Foundation of China",
+                    "award-id": [
+                        "61275179",
+                        "60970815"
+                    ]
+                },
+                {
+                    "funding-source": "Natural Science Basic Research Plan in Shaanxi Province of China",
+                    "award-id": [
+                        "program 2016JM8047"
+                    ]
+                },
+                {
+                    "funding-source": "Fundamental Funds for the Central Universities",
+                    "award-id": [
+                        "xjj2015112"
+                    ]
+                },
+                {
+                    "funding-source": "ShaanXi Province",
+                    "award-id": [
+                        "15-ZY036",
+                        "2016GJF01"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Key R&D program of China (Grant No 2019YFA0706400, 2019YFA0706402), the Pre-research Funds for Equipment of China (no. 61409220115), the Natural Science Foundation of China (61275179, 60970815), the Natural Science Basic Research Plan in Shaanxi Province of China (program no. 2016JM8047), the Fundamental Funds for the Central Universities (no. xjj2015112), ShaanXi Province administration of traditional Chinese medicine (15-ZY036), and Xi'an medical university state fund cultivation project (2016GJF01)"
+        }
+    ]
+}

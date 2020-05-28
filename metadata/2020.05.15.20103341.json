@@ -1,0 +1,20 @@
+{
+    "abstract": "The ongoing severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has caused a public health crisis that is exacerbated by our poor understanding of correlates of immunity. SARS-CoV-2 infection can cause Coronavirus Disease 2019 (COVID-19), with a spectrum of symptoms ranging from asymptomatic carriage to life threatening pneumonia and cytokine dysregulation [1-3]. Although antibodies have been shown in a variety of in vitro assays to promote coronavirus infections through mechanisms requiring interactions between IgG antibodies and Fc gamma receptors (Fc\u03b3Rs), the relevance of these observations to coronavirus infections in humans is not known [4-7]. In light of ongoing clinical trials examining convalescent serum therapy for COVID-19 patients and expedited SARS-CoV-2 vaccine testing in humans, it is essential to clarify the role of antibodies in the pathogenesis of COVID-19. Here we show that adults with PCR-diagnosed COVID-19 produce IgG antibodies with a specific Fc domain repertoire that is characterized by reduced fucosylation, a modification that enhances interactions with the activating Fc\u03b3R, Fc\u03b3RIIIa. Fc fucosylation was reduced when compared with SARS-CoV-2-seropositive children and relative to adults with symptomatic influenza virus infections. These results demonstrate an antibody correlate of symptomatic SARS-CoV-2 infections in adults and have implications for novel therapeutic strategies targeting Fc\u03b3RIIIa pathways.",
+    "author": "Tasha Morales; Markus M. Xie; Florian Krammer; Jeffrey M. Schapiro; Matthew J. Memoli; Jeffery K. Taubenberger; Vamsee Mallajosyula; Cindy Buffone; Scott D. Boyd; Saborni Chakraborty; Anthony S. Buzzanco; Karlie Edwards; Robert Sherwood; Catherine A. Blish; Sheng Zhang; Taia T. Wang; Tho D. Pham; Susan Providenza; Joseph Gonzalez; Nimish Kathale; Julie Parsonnet; Jason R. Andrews; Prasanna Jagannathan; Patrick C. Wilson; Haley Dugan",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103341",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103341"
+    },
+    "title": "Symptomatic SARS-CoV-2 infections display specific IgG Fc structures",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intramural Research Program of the National Institute of Allergy and Infectious Diseases"
+                }
+            ],
+            "funding-statement": "The influenza A virus challenge study was supported by the Intramural Research Program of the National Institute of Allergy and Infectious Diseases (NIAID)"
+        }
+    ]
+}

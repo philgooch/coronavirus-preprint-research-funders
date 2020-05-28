@@ -1,0 +1,47 @@
+{
+    "abstract": "New York State had 180,458 cases of SARS-CoV-2 and 9385 reported deaths as of April 10th, 2020. Patients with cancer comprised 8.4% of deceased individuals1. Population-based studies from China and Italy suggested a higher COVID-19 death rate in patients with cancer2,3, although there is a knowledge gap as to which aspects of cancer and its treatment confer risk of severe COVID-19 disease4. This information is critical to balance the competing safety considerations of reducing SARS-CoV-2 exposure and cancer treatment continuation. Since March 10th, 2020 Memorial Sloan Kettering Cancer Center performed diagnostic testing for SARS-CoV-2 in symptomatic patients. Overall, 40% out of 423 patients with cancer were hospitalized for COVID-19 illness, 20% developed severe respiratory illness, including 9% that required mechanical ventilation, and 9% that died. On multivariate analysis, age \u2265 65 years and treatment with immune checkpoint inhibitors (ICI) within 90 days were predictors for hospitalization and severe disease, while receipt of chemotherapy within 30 days and major surgery were not. Overall, COVID-19 illness is associated with higher rates of hospitalization and severe outcomes in patients with cancer. Association between ICI and COVID-19 outcomes will need interrogation in tumor-specific cohorts.",
+    "author": "Peter A. Mead; Mario Caldararo; Genofeva A. Papanicolaou; Elizabeth Schmidt; Sejal Morjaria; Thierry Rolling; Cesar Figueroa-Ortiz; Gil Redelman-Sidi; Kent Sepkowitz; Amanda Mariano; Alexa Joanow; Jacqueline Predmore; Jedd D. Wolchok; N. Esther Babady; Rocio Perez-Johnston; Yeon Joo Lee; Ying Taur; Tamara Nawar; Yael Bogler; Tobias M. Hohl; Mini Kamboj; Anabella Lucca Bianchi; Michael Glickman; Elizabeth V. Robilotti; Monika Shah; Susan K. Seo; Anna Kaltsas; Marilia Bernardes",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20086322",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20086322"
+    },
+    "title": "Determinants of Severity in Cancer Patients with COVID-19 Illness",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Adaptive Biotech; Amgen"
+                },
+                {
+                    "funding-source": "Ascentage Pharma; Astellas"
+                },
+                {
+                    "funding-source": "Bristol Myers Squibb; Celgene"
+                },
+                {
+                    "funding-source": "Eli Lilly; Elucida"
+                },
+                {
+                    "funding-source": "Kyowa Hakko Kirin; Linneaus"
+                },
+                {
+                    "funding-source": "Neon Therapuetics; Novaritis"
+                },
+                {
+                    "funding-source": "Takara Bio; Trieza"
+                },
+                {
+                    "funding-source": "Surface Oncology; Syndax"
+                },
+                {
+                    "funding-source": "Bristol Myers Squibb; AstraZeneca"
+                },
+                {
+                    "funding-source": "Tizona Pharmaceuticals; Adaptive"
+                }
+            ],
+            "funding-statement": "JDW was a consultant for: Adaptive Biotech; Amgen; Apricity; Ascentage Pharma; Astellas; AstraZeneca; Bayer; Beigene; Bristol Myers Squibb; Celgene; Chugai; Eli Lilly; Elucida; F Star; Imvaq; Janssen; Kyowa Hakko Kirin; Linneaus; Merck; Neon Therapuetics; Novaritis; Polynoma; Psioxus; Recepta; Takara Bio; Trieza; Truvax; Serametrix; Surface Oncology; Syndax; Syntalogic; received research support from: Bristol Myers Squibb; AstraZeneca; Sephora; had equity in: Tizona Pharmaceuticals; Adaptive Biotechnologies; Imvaq; Beigene; Linneaus"
+        }
+    ]
+}

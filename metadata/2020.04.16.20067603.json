@@ -1,0 +1,16 @@
+{
+    "abstract": "Effective public health response to viral outbreaks such as SARS-CoV-2 is often informed by real-time PCR screening of large populations. Pooling samples can increase screening capacity. However, when a traditional pool is tested positive, all samples in the pool need individual retesting, which becomes ineffective at a higher proportion of positive samples. Here, we report a new pooling protocol that mitigates this problem by replicating samples across multiple pools. The resulting pool set allows the sample status to be resolved more often than with traditional pooling. At 2% prevalence and 20 samples per pool, our protocol increases screening capacity by factors of 5 and 2 compared to individual testing and traditional pooling, respectively. The corresponding software to layout and resolve samples is freely available under a BSD license (https://github.com/phiweger/clonepool).",
+    "author": "Brigitte K\u00f6nig; Christian Brandt; Adrian Viehweger; Felix K\u00fchnl",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067603",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067603"
+    },
+    "title": "Increased PCR screening capacity using a multi-replicate pooling scheme",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

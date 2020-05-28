@@ -1,0 +1,16 @@
+{
+    "abstract": "The 2019 Novel Coronavirus (COVID-19) has caused an acute shortage of personal protective equipment (PPE) globally as well as shortage in the ability to test PPE such as respirator fit testing. This limits not only the ability to fit PPE to medical practitioners, but also the ability to rapidly prototype and produce alternative sources of PPE as it is difficult to validate fit. At the George Washington University, we evaluated an easily sourced method of qualitative fit testing using a nebulizer or atomizer and a sodium saccharin solution in water. If aerosolized saccharin entered candidate masks due to poor fit or inadequate filtration, then a sweet taste was detected in the mouth of the user. This method was tested against previously fit tested Milwaukee N95 and 3D Printed Reusable N95 Respirator as a positive control. A Chinese sourced KN95, cotton cloth material, and surgical mask were tested as other masks of interest. Sensitivity testing was done with no mask prior to fit test. A sweet taste was detected for both the surgical mask and cotton cloth, demonstrating a lack of seal. However, there was no sweet taste detected for the Milwaukee N95, 3D Printed Reusable N95 Respirator, or Chinese KN95. These results demonstrate this could be a valuable methodology for rapid prototyping, evaluation, and validation of fit in a non-clinical environment for use in creation of PPE. This method should be not be used without confirmation in a formal qualitative or quantitative fit test but can be used to preserve those resources until developers are confident that potential new N95 comparable respirators will pass. We strongly suggest validation of masks and respirators with Occupational Safety and Health Administration (OSHA) approved fit testing prior to use in a clinical environment.",
+    "author": "Murray H Loew; Konstantin Mitic; Destie Provenzano; Sharad Goyal; Jeffrey Berger; Yuan James Rao; Sofian N Obaid",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20055368",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055368"
+    },
+    "title": "Alternative Qualitative Fit Testing Method for N95 Equivalent Respirators in the Setting of Resource Scarcity at the George Washington University",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "N/A"
+        }
+    ]
+}

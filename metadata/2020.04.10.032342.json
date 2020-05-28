@@ -1,0 +1,35 @@
+{
+    "title": "Syntax Warning: Bad annotation destination",
+    "author": "Yujun Li, Haimin Wang, Xiaojuan Tang, Danting Ma, Chengzhi Du, Yifei Wang, Hong Pan, Qing Zou, Jie Zheng, Liangde Xu, Michael Farzan, Guocai Zhong,* 1 Shenzhen Bay Laboratory (SZBL), Shenzhen, China 2 School of Chemical Biology and Biotechnology, Peking University Shenzhen Graduate School, Shenzhen, China 3 Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China 4 School of Biomedical Engineering and Eye Hospital, Wenzhou Medical University, Wenzhou, China 5 Department of Immunology and Microbiology, The Scripps Research Institute, Jupiter, Florida, United States 6 Equal contribution * Correspondence to: zhonggc@szbl.ac.cn",
+    "date": 2020,
+    "affiliations": [
+        "Shenzhen Bay Laboratory (SZBL), Shenzhen, China",
+        "School of Chemical Biology and Biotechnology, Peking University Shenzhen Graduate School, Shenzhen, China",
+        "Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China",
+        "School of Biomedical Engineering and Eye Hospital, Wenzhou Medical University, Wenzhou, China",
+        "Department of Immunology and Microbiology, The Scripps Research Institute, Jupiter, Florida, United States",
+        "Equal contribution",
+        "Correspondence to:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.10.032342",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.10.032342.pdf"
+    },
+    "abstract": "2 The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a currently uncontrolled 3 pandemic and the etiological agent of coronavirus disease 2019 (COVID-19). It is important to study 4 the host range of SARS-CoV-2 because some domestic species might harbor the virus and transmit it 5 back to humans. In addition, insight into the ability of SARS-CoV-2 and SARS-like viruses to utilize 6 animal orthologs of the SARS-CoV-2 receptor ACE2 might provide structural insight into improving 7 ACE2-based viral entry inhibitors. Here we show that ACE2 orthologs of a wide range of domestic 8 and wild animals support entry of SARS-CoV-2, as well as that of SARS-CoV-1, bat coronavirus 9 RaTG13, and a coronavirus isolated from pangolins. Some of these species, including camels, cattle, horses, goats, sheep, pigs, cats, and rabbits may serve as potential intermediate hosts for new human transmission, and rabbits in particular may serve as a useful experimental model of COVID-19. We show that SARS-CoV-2 and SARS-CoV-1 entry could be potently blocked by recombinant IgG Fc13 fusion proteins of viral spike protein receptor-binding domains (RBD-Fc) and soluble ACE2 (ACE214 Fc). Moreover, an ACE2-Fc variant, which carries a D30E mutation and has ACE2 truncated at its 15 residue 740 but not 615, outperforms all the other ACE2-Fc variants on blocking entry of both viruses. 16 Our data suggest that RBD-Fc and ACE2-Fc could be used to treat and prevent infection of SARS17 CoV-2 and any new viral variants that emerge over the course of the pandemic.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Shenzhen Bay Laboratory Startup Funds No.",
+                    "award-id": [
+                        "21230041"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is supported by Shenzhen Bay Laboratory Startup Funds No.21230041"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Introduction The COVID-19 pandemic presents a significant infection prevention and control challenge. The admission of large numbers of patients with suspected COVID-19 disease risks overwhelming the capacity to protect other patients from exposure. The delay between clinical suspicion and confirmatory testing adds to the complexity of the problem. Methods We implemented a triage tool aimed at minimising hospital acquired COVID-19 particularly to patients at risk of severe disease. Patients were allocated to triage categories defined by likelihood of COVID-19 and risk of a poor outcome. Category A (low-likelihood; high-risk), B (high-likelihood; high-risk), C (high-likelihood; low-risk) and D (low-likelihood; low-risk). This determined the order of priority for isolation in single-occupancy rooms with Category A the highest. Patients in other groups were cohorted when isolation capacity was limited with additional interventions to reduce transmission. Results 93 patients were evaluated with 79 (85%) receiving a COVID-19 diagnosis during their admission. Of those without a COVID-19 diagnosis: 10 were initially triaged to Category A; 0 to B; 1 to C and 4 to D. All high risk patients requiring isolation were, therefore, admitted to single-occupancy rooms and protected from exposure. 28 (30%) suspected COVID-19 patients were evaluated to be low risk (groups C & D) and eligible for cohorting. No symptomatic hospital acquired infections were detected in the cohorted patients. Discussion Application of a clinical triage tool to guide isolation and cohorting decisions may reduce the risk of hospital acquired transmission of COVID-19 especially to individuals at the greatest of risk of severe disease.",
+    "author": "Mike Brown; Benjamin Patterson; Gemma Martinez-Garcia; Akish Luintel; Gabriella Bidwell; Michael Marks; Neil Stone; Rik Thomas; Philip Gothard; Dalia Ludwig; Tom Parks; Karen Shaw; Sarah Logan",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20091843",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20091843"
+    },
+    "title": "A Novel Cohorting and Isolation Strategy for Suspected COVID-19 Cases during a Pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding"
+        }
+    ]
+}

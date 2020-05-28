@@ -1,0 +1,20 @@
+{
+    "title": "Estimating seroprevalence with imperfect serological tests: exploiting cutoff-free approaches",
+    "author": "Judith A Bouman, Sebastian Bonhoeffer, and Roland R Regoes",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Integrative Biology, ETH Zurich, Zurich, Switzerland",
+        "Corresponding authors: Judith A. Bouman and Roland R. Regoes"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.29.068999",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.29.068999.pdf"
+    },
+    "abstract": "Large-scale serological testing in the population is essential to determine the true extent of the current Coronavirus pandemic. Serological tests measure antibody responses against pathogens and define cutoff levels that dichotomize the quantitative test measures into sero-positives and negatives. With the imperfect tests that are currently available to test for past SARS-CoV-2 infection, the fraction of seropositive individuals in serosurveys is a biased estimator of seroprevalence and is usually corrected post-hoc to account for the sensitivity and specificity. Here we use a likelihood-based inference method \u2014 previously called mixture models \u2014 for the estimation of the seroprevalence that does not require to define cutoffs by integrating the quantitative test measures directly into the statistical inference procedure. We confirm that this likelihood-based method outperforms the methods based on cutoffs and post-hoc corrections leading to less variation in point-estimates of the seroprevalence and its temporal trend. We illustrate how the likelihood-based method can be used to optimize the design of serosurveys with imperfect serological tests. We also provide guidance on the number of control and case sera that are required to quantify the test\u2019s ambiguity sufficiently to enable the reliable estimation of the seroprevalence. Lastly, we show how this approach can be used to identify classes of case sera with an unknown distribution of quantitative test measures that have not been used for test validation. An R-package with the likelihood and power analysis functions is provided. Our study advocates to using serological tests without cutoffs, especially if they are used to determine parameters characterizing populations rather than individuals. This approach circumvents some of the shortcomings of cutoff-based methods with post-hoc correction at exactly the low seroprevalence levels and test accuracies that we are currently facing in COVID-19 serosurveys.",
+    "funding": [
+        {}
+    ]
+}

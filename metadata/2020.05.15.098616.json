@@ -1,0 +1,31 @@
+{
+    "title": "SARS-CoV2 (COVID-19) Structural/Evolution Dynamicome: Insights into functional evolution and human genomics",
+    "author": "Prokop, Jeremy",
+    "date": 2020,
+    "affiliations": [
+        "Department of Pediatrics and Human Development, College of Human Medicine, Michigan State University, Grand Rapids, MI 49503 USA",
+        "Department of Pharmacology and Toxicology, Michigan State University, East Lansing, MI 48824 USA",
+        "Calvin University, Grand Rapids, MI 49546 USA",
+        "Department of Mathematics, University of North Alabama, Florence, AL 35632 USA",
+        "Grand Rapids Community College, Grand Rapids, MI 49503 USA",
+        "Walsh University, North Canton, OH 44720 USA",
+        "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806 USA",
+        "Department of Critical Care Medicine and Pediatrics, Children's Hospital of Pittsburgh, University of Pittsburgh School of Medicine, Pittsburgh, PA 15421 USA",
+        "Spectrum Health Medical Genetics, Grand Rapids, MI 49503 USA",
+        "Department of Physiology, Michigan State University, East Lansing, MI 48824 USA",
+        "Pediatric Intensive Care Unit, Helen DeVos Children\u2019s Hospital, Grand Rapids, MI 49503 USA",
+        "Office of Research, Spectrum Health, Grand Rapids, MI 49503 USA",
+        "Corresponding Author: Jeremy W Prokop"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.15.098616",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.15.098616.pdf"
+    },
+    "abstract": "The SARS-CoV-2 pandemic, starting in 2019, has challenged the speed at which labs perform science, ranging from discoveries of the viral composition to handling health outcomes in humans. The small ~30kb single-stranded RNA genome of Coronaviruses makes them adept at cross species spread and drift, increasing their probability to cause pandemics. However, this small genome also allows for a robust understanding of all proteins coded by the virus. We employed protein modeling, molecular dynamic simulations, evolutionary mapping, and 3D printing to gain a full proteome and dynamicome understanding of SARS-CoV-2. The Viral Integrated Structural Evolution Dynamic Database (VIStEDD) has been established (prokoplab.com/vistedd), opening future discoveries and educational usage. In this paper, we highlight VIStEDD usage for nsp6, Nucleocapsid (N), and Spike (S) surface glycoprotein. For both nsp6 and N we reveal highly conserved surface amino acids that likely drive protein-protein interactions. In characterizing viral S protein, we have developed a quantitative dynamics cross correlation matrix insight into interaction with the ACE2/SLC6A19 dimer complex. From this quantitative matrix, we elucidated 47 potential functional missense variants from population genomic databases within ACE2/SLC6A19/TMPRSS2, warranting genomic enrichment analyses in SARS-CoV-2 patients. Moreover, these variants have ultralow frequency, but can exist as hemizygous in males for ACE2, which falls on the X-chromosome. Two noncoding variants (rs4646118 and rs143185769) found in ~9% of African descent individuals for ACE2 may regulate expression and be related to increased susceptibility of African Americans to SARS-CoV-2. This powerful database of SARSCoV-2 can aid in research progress in the ongoing pandemic.",
+    "funding": [
+        {}
+    ]
+}

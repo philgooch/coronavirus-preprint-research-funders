@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 disease, as popularly known as Coronavirus 2019 disease, has been emerged from Wuhan, China in December 2019 and now is a pandemic for almost every nation in the earth. It affects every country without considering country's race, nationality and economic status. This paper aims at analysing primarily the current situations of Bangladesh and predicting infections and deaths for moderated term intervals by a proposed projection technique called Infection Trajectory-Pathway Strategy (ITPS) and for short term intervals prediction for total infections, deaths along with total number of severe patients and Intensive Care Unit (ICU) patients by polynomial regression modeling approach. Since April 7, Bangladesh has started to face critical situations as the number of infections has accelerated very fast in the following days. However, the fatality rate decreases considerably from 15.7 on April 1 to 4.9 on April 14, which is still high among the south asian countries. Of the 1012 cases reported on April 14, almost 70\\% are the male, 42\\% are from the capital Dhaka. We have found that the potential pathway of infections for Bangldesh would be the similar pathways that are experienced by Austria, Netherlands, Israel, France and United Kingdom. These countries are ahead a number of weeks and days in terms of infection cases since their 100-th confirmed cases. Our proposed projection method ITPS suggests that by May 10, Bangladesh will cross 12000 incidences and 720 deaths which, by May 16 will be 27000 and 1644 respectively. On the other hand, the regression model suggests that by the end of April, total number of infections, deaths, severe patients and ICU patients will be 5780, 347, 775, and 694 respectively. This study will be favorable for the administrative units of Bangladesh to plan for the next few weeks and to consider various aspects related to the control of COVID-19 outspread in Bangladesh",
+    "author": "Md Hasinur Rahaman Khan; Ahmed Hossain",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20068312",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20068312"
+    },
+    "title": "COVID-19 Outbreak Situations in Bangladesh: An Empirical Analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There is no funding for this study."
+        }
+    ]
+}

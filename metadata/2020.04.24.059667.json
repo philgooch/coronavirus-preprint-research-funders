@@ -1,0 +1,80 @@
+{
+    "title": "Critical role of type III interferon in controlling SARS-CoV-2 infection, replication and spread in primary human intestinal epithelial cells",
+    "author": "Megan Stanifer",
+    "date": 2020,
+    "affiliations": [
+        "Department of Infectious Diseases, Molecular Virology, Heidelberg University, Germany",
+        "Research Group \u201cCellular polarity and viral infection\u201d, German Cancer Research Center (DKFZ), Heidelberg, Germany",
+        "Department of Infectious Diseases, Virology, Heidelberg University, Germany",
+        "Structural and Computational Biology Unit, European Molecular Biology Laboratory, Heidelberg, Germany",
+        "Collaboration for joint PhD degree between EMBL and Heidelberg University, Faculty of Biosciences, Germany",
+        "Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California San Diego, La Jolla, California, USA",
+        "Division \u201cVirus-associated Carcinogenesis\u201d, German Cancer Research Center (DKFZ), Heidelberg, Germany",
+        "German Center for Infection Research, Heidelberg Partner site",
+        "Department of Infectious Disease, Virology Heidelberg University Im Neuenheimer Feld 344 69120 Heidelberg, Germany Phone: +49 (0) 6221 56 7865",
+        "Department of Infectious Disease, Molecular Virology Heidelberg University Im Neuenheimer Feld 344 69120 Heidelberg, Germany Phone: +49 (0) 6221 56 7858"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.24.059667",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.24.059667.pdf"
+    },
+    "abstract": "SARS-CoV-2 is an unprecedented worldwide health problem that requires concerted and global approaches to better understand the virus in order to develop novel therapeutic approaches to stop the COVID-19 pandemic and to better prepare against potential future emergence of novel pandemic viruses. Although SARS-CoV-2 primarily targets cells of the lung epithelium causing respiratory infection and pathologies, there is growing evidence that the intestinal epithelium is also infected. However, the importance of the enteric phase of SARS-CoV-2 for virus-induced pathologies, spreading and prognosis remains unknown. Here, using both colon-derived cell lines and primary non-transformed colon organoids, we engage in the first comprehensive analysis of SARS-CoV-2 lifecycle in human intestinal epithelial cells. Our results demonstrate that human intestinal epithelial cells fully support SARS-CoV-2 infection, replication and production of infectious de-novo virus particles. Importantly, we identified intestinal epithelial cells as the best culture model to propagate SARS-CoV-2. We found that viral infection elicited an extremely robust intrinsic immune response where, interestingly, type III interferon mediated response was significantly more efficient at controlling SARS-CoV-2 replication and spread compared to type I interferon. Taken together, our data demonstrate that human intestinal epithelial cells are a productive site of SARS-CoV-2 replication and suggest that the enteric phase of SARS-CoV-2 may participate in the pathologies observed in COVID-19 patients by contributing in increasing patient viremia and by fueling an exacerbated cytokine response.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chica and Heinz Schaller Foundation and Deutsche Forschungsgemeinschaft",
+                    "award-id": [
+                        "240245660",
+                        "Project 14 of SFB 1129",
+                        "278001972",
+                        "Project A09 of TRR186",
+                        "415089553",
+                        "Heisenberg",
+                        "272983813",
+                        "project 22 of TRR179"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by a research grant from Chica and Heinz Schaller Foundation and Deutsche Forschungsgemeinschaft (DFG): Project number 240245660 (Project 14 of SFB 1129), project number 278001972 (Project A09 of TRR186), project number 415089553 (Heisenberg grant) and project number 272983813 (project 22 of TRR179) to SB"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Darwin Trust of Edinburgh"
+                }
+            ],
+            "funding-statement": "ST was supported by the Darwin Trust of Edinburgh"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Work of R.B."
+                },
+                {
+                    "funding-source": "Deutsche Forschungsgemeinschaft",
+                    "award-id": [
+                        "272983813",
+                        "240245660",
+                        "BA1505/8-1"
+                    ]
+                }
+            ],
+            "funding-statement": "Work of R.B. was supported by the Deutsche Forschungsgemeinschaft (DFG) \u2013 Projektnummer 272983813 \u2013 TRR 179, Projektnummer 240245660 \u2013 SFB 1129 and BA1505/8-1"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Research Council",
+                    "award-id": [
+                        "agreement773089"
+                    ]
+                }
+            ],
+            "funding-statement": "TA is supported by the European Research Council (grant agreement773089)"
+        }
+    ]
+}

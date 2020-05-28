@@ -1,0 +1,16 @@
+{
+    "abstract": "The COVID-19 contagion has developed at an alarming rate in the US and as of April 24, 2020, tens of thousands of people have already died from the disease. In the event of an outbreak like such, forecasting the extent of the mortality that will occur is crucial to aid the implementation of effective interventions. Mortality depends on two factors: the case fatality rate and the case incidence. We combine a cohort-based model that determines case fatality rates along with a modified logistic model that evaluates the case incidence to determine the number of deaths in all the US states over time; the model is also able to include the impact of interventions. Both models yield exceptional goodness-of-fit. The model predicted a range of death outcomes (79k to 246k) all of which are considerably greater than the figures presented in mainstream media. This model can be used more effectively than current models to estimate the number of deaths during an outbreak, allowing for better planning.",
+    "author": "Charit S Narayanan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20086884",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20086884"
+    },
+    "title": "Modeling the COVID-19 outbreak in the United States",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

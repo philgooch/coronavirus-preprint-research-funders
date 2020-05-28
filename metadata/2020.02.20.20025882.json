@@ -1,0 +1,59 @@
+{
+    "abstract": "Global airline networks play a key role in the global importation of emerging infectious diseases. Detailed information on air traffic between international airports has been demonstrated to be useful in retrospectively validating and prospectively predicting case emergence in other countries. In this paper, we use a well-established metric known as effective distance on the global air traffic data from IATA to quantify risk of emergence for different countries as a consequence of direct importation from China, and compare it against arrival times for the first 24 countries. Using this model trained on official first reports from WHO, we estimate time of arrival (ToA) for all other countries. We then incorporate data on airline suspensions to recompute the effective distance and assess the effect of such cancellations in delaying the estimated arrival time for all other countries. Finally we use the infectious disease vulnerability indices to explain some of the estimated reporting delays.",
+    "affiliations": [
+        "National Institutes of Health (NIH) Grant 1R01GM109718, NSF BIG DATA Grant IIS-1633028, NSF DIBBS Grant ACI-1443054, DTRA subcontract/ARA S-D00189-15-TO-01-UVA, NSF Grant No.: OAC-1916805, US Centers for Disease Control and Prevention 75D30119C05935 and a collaborative seed grant from the UVA Global Infectious Disease Institute"
+    ],
+    "author": "Dawen Xie; Srinivasan Venkatramanan; James Schlitt; Jim Walke; Andrei Bura; Chunhong Mao; Joshua Goldstein; Aniruddha Adiga; Golda Barrow; Brian D Klahn; Madhav Marathe; Fanchao Meng; Jiangzhuo Chen; Dustin Machi; Young Yun Baek; Pyrros A Telionis; Przemyslaw Porebski; Stefan Hoops; Bryan Lewis; Akhil Peddireddy; Andrew Warren; Erin Raymond; Stephen Eubank; Chris Barrett; Richard Beckman; Mandy L Wilson; Mark Orr; Allan Dickerman; Henning Mortveit",
+    "date": 2020,
+    "doi": "10.1101/2020.02.20.20025882",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.20.20025882"
+    },
+    "title": "Evaluating the impact of international airline suspensions on the early global spread of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "1R01GM109718"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "1R01GM109718"
+                    ]
+                },
+                {
+                    "funding-source": "NSF BIG DATA Grant IIS-1633028, NSF",
+                    "award-id": [
+                        "ACI-1443054"
+                    ]
+                },
+                {
+                    "funding-source": "DIBBS Grant ACI-1443054, DTRA",
+                    "award-id": [
+                        "S-D00189-15-TO-01-UVA"
+                    ]
+                },
+                {
+                    "funding-source": "NSF Grant No.",
+                    "award-id": [
+                        "OAC-1916805"
+                    ]
+                },
+                {
+                    "funding-source": "US Centers for Disease Control and Prevention",
+                    "award-id": [
+                        "75D30119C05935"
+                    ]
+                },
+                {
+                    "funding-source": "UVA Global Infectious Disease Institute"
+                }
+            ],
+            "funding-statement": "This work was partially supported by National Institutes of Health (NIH) Grant 1R01GM109718, NSF BIG DATA Grant IIS-1633028, NSF DIBBS Grant ACI-1443054, DTRA subcontract/ARA S-D00189-15-TO-01-UVA, NSF Grant No.: OAC-1916805, US Centers for Disease Control and Prevention 75D30119C05935 and a collaborative seed grant from the UVA Global Infectious Disease Institute"
+        }
+    ]
+}

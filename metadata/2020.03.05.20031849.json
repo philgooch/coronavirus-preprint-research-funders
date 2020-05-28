@@ -1,0 +1,63 @@
+{
+    "abstract": "Background: A novel coronavirus named as \"SARS-CoV-2\" has spread widely in many countries since December 2019, especially in China. This study aimed to quantify the age-specific transmissibility by using a mathematical model. Methods: An age-specific susceptible - exposed - symptomatic - asymptomatic - recovered - seafood market (SEIARW) model was developed based on two suspected transmission routes (from market to person and person to person). The susceptible people from Wuhan City were divided into different age groups. We used the subscript i and j to represent age group 1 to 4 (1: <= 14 years; 2: 15-44 years; 3: 45-64 years; 4: >= 65 years) and 1 to 5 (1: <= 5 years; 2: 6-14 years; 3: 15-24 years; 4: 25-59 years; 4: >= 60 years), respectively. Data of reported COVID-19 cases were collected from one published literature from 26 November to 22 December, 2019 in Wuhan City, China. The age-specific transmissibility of the virus was estimated accordingly secondary attack rate (SAR). Results: The age-specific SEIARW model fitted with the reported data well by dividing the population into four age groups (\u03c72 = 4.99 \u00d7 10-6, P > 0.999), and five age groups (\u03c72 = 4.85 \u00d7 10-6, P > 0.999). Based on the four-age-group SEIARW model, the highest transmissibility occurred from age group 2 to 3 (SAR23 = 17.56 per 10 million persons), followed by from age group 3 to 2 (SAR32 = 10.17 per 10 million persons). The lowest transmissibility occurred from age group 1 to 2 (SAR12 = 0.002 per 10 million persons). Based on the five-age-group SEIARW model, the highest transmissibility occurred from age group 4 to 5 (SAR45 = 12.40 per 10 million persons), followed by from age group 5 to 4 (SAR54 = 6.61 per 10 million persons). The lowest transmissibility occurred from age group 3 to 4 (SAR34 = 0.0002 per 10 million persons). Conclusions: SARS-CoV-2 has high transmissibility among adults and elder people but low transmissibility among children and young people.\nCompeting Interest Statement",
+    "author": "Qing-Qing Hu; Yuan-Zhao Zhu; Zeyu Zhao; Yi-Chen Chiang; Benhua Zhao; Li Luo; Ying-Ying Su; Jing-Wen Xu; Zhao Lei; Shan-Shan Yu; Tianmu Chen; Yanhua Su; Jia Li; Jia Rui; Xingchun Liu; Yao Wang; Fang Xie; Ruo-Yun Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.03.05.20031849",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.05.20031849"
+    },
+    "title": "A mathematical model for estimating the age-specific transmissibility of a novel coronavirus",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Competing Interest Statement The"
+                },
+                {
+                    "funding-source": "Funding Statement This"
+                },
+                {
+                    "funding-source": "Xiamen New Coronavirus Prevention and Control Emergency Tackling Special Topic Program",
+                    "award-id": [
+                        "3502Z2020YJ03"
+                    ]
+                },
+                {
+                    "funding-source": "XMU Training Program of Innovation and Enterpreneurship for Undergraduates",
+                    "award-id": [
+                        "2019Y0805",
+                        "2019Y1497",
+                        "2019Y1499",
+                        "2019Y1500",
+                        "2019Y1501"
+                    ]
+                },
+                {
+                    "funding-source": "Author Declarations All"
+                }
+            ],
+            "funding-statement": "Conclusions: SARS-CoV-2 has high transmissibility among adults and elder people but low transmissibility among children and young people. ### Competing Interest Statement The authors have declared no competing interest. ### Funding Statement This study was partly supported by Xiamen New Coronavirus Prevention and Control Emergency Tackling Special Topic Program (No: 3502Z2020YJ03) and the XMU Training Program of Innovation and Enterpreneurship for Undergraduates (No: 2019Y0805, 2019Y1497, 2019Y1499, 2019Y1500, and 2019Y1501). ### Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Xiamen New Coronavirus Prevention and Control Emergency Tackling Special Topic Program",
+                    "award-id": [
+                        "3502Z2020YJ03"
+                    ]
+                },
+                {
+                    "funding-source": "XMU Training Program of Innovation and Enterpreneurship for Undergraduates",
+                    "award-id": [
+                        "2019Y0805",
+                        "2019Y1497",
+                        "2019Y1499",
+                        "2019Y1500",
+                        "2019Y1501"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was partly supported by Xiamen New Coronavirus Prevention and Control Emergency Tackling Special Topic Program (No: 3502Z2020YJ03) and the XMU Training Program of Innovation and Enterpreneurship for Undergraduates (No: 2019Y0805, 2019Y1497, 2019Y1499, 2019Y1500, and 2019Y1501)"
+        }
+    ]
+}

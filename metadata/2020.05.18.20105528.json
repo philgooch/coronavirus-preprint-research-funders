@@ -1,0 +1,29 @@
+{
+    "abstract": "The initial exponential growth rate of an epidemic is an important measure that follows directly from data at hand, commonly used to infer the basic reproduction number. As the growth rates \u03bb(t) of tested positive COVID-19 cases have crossed the threshold in many countries, with negative numbers as surrogate for disease transmission deceleration, lockdowns lifting are linked to the behavior of the momentary reproduction numbers r(t), often called R0. Important to note that this concept alone can be easily misinterpreted as it is bound to many internal assumptions of the underlying model and significantly affected by the assumed recovery period. Here we present our experience, as part of the Basque Country Modeling Task Force (BMTF), in monitoring the development of the COVID-19 epidemic, by considering not only the behaviour of r(t) estimated for the new tested positive cases - significantly affected by the increased testing capacities, but also the the momentary growth rates for hospitalizations, ICU admissions, deceased and recovered cases, in assisting the Basque Health Managers and the Basque Government during the lockdown lifting measures. Two different data sets, collected and then refined during the COVID-19 responses, are used as an exercise to estimate the momentary growth rates and reproduction numbers over time in the Basque Country, and the implications of using those concepts to make decisions about easing lockdown and relaxing social distancing measures are discussed. These results are potentially helpful for task forces around the globe which are now struggling to provide real scientific advice for health managers and governments while the lockdown measures are relaxed.",
+    "author": "Nico Stollenwerk; Joseba Bidaurrazaga Van-Dierdonck; Maira Aguiar",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20105528",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20105528"
+    },
+    "title": "Reproduction ratio and growth rates: measures for an unfolding pandemic",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ma\u00edra Aguiar"
+                },
+                {
+                    "funding-source": "European Union's Horizon"
+                },
+                {
+                    "funding-source": "Marie Sk\u0142odowska-Curie",
+                    "award-id": [
+                        "792494"
+                    ]
+                }
+            ],
+            "funding-statement": "Ma\u00edra Aguiar has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sk\u0142odowska-Curie grant agreement No 792494"
+        }
+    ]
+}

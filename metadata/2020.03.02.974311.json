@@ -1,0 +1,21 @@
+{
+    "title": "Partial RdRp sequences offer a robust method for Coronavirus subgenus classification",
+    "date": 2020,
+    "affiliations": [
+        "Universit\u00e9 de La R\u00e9union, UMR Processus Infectieux en Milieu Insulaire Tropical (PIMIT)",
+        "INSERM 1187, CNRS 9192, IRD 249, Sainte-Clotilde, La R\u00e9union, France 7",
+        "Corresponding author",
+        ""
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.02.974311",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.02.974311.pdf"
+    },
+    "abstract": "The recent reclassification of the Riboviria, and the introduction of multiple new taxonomic categories including both subfamilies and subgenera for coronaviruses (family Coronaviridae, subfamily Orthocoronavirinae) represents a major shift in how official classifications are used to designate specific viral lineages. While the newly defined subgenera provide much-needed standardisation for commonly cited viruses of public health importance, no method has been proposed for the assignment of subgenus based on partial sequence data, or for sequences that are divergent from the designated holotype reference genomes. Here, we describe the genetic variation of a partial region of the coronavirus RNA-dependent RNA polymerase (RdRp), which is one of the most used partial sequence loci for both detection and classification of coronaviruses in molecular epidemiology. We infer Bayesian phylogenies from more than 7000 publicly available coronavirus sequences and examine clade groupings relative to all subgenus holotype sequences. Our phylogenetic analyses are largely coherent with genome-scale analyses based on designated holotype members for each subgenus. Distance measures between sequences form discrete clusters between taxa, offering logical threshold boundaries that can attribute subgenus or indicate sequences that are likely to belong to unclassified subgenera both accurately and robustly. We thus propose that partial RdRp sequence data of coronaviruses is sufficient for the attribution of subgenus-level taxonomic classifications and we supply the R package, \u201cMyCoV\u201d, which provides a method for attributing subgenus and assessing the reliability of the attribution.",
+    "funding": [
+        {}
+    ]
+}

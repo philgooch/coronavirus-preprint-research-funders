@@ -1,0 +1,21 @@
+{
+    "title": "High-surety isothermal amplification and detection of SARS-CoV-2, including with crude enzymes",
+    "author": "Timothy E Riedel",
+    "date": 2020,
+    "affiliations": [
+        "Department of Molecular Biosciences, College of Natural Sciences, The University of Texas at Austin, Austin, TX 78712, USA",
+        "Center for Systems and Synthetic Biology, The University of Texas at Austin, Austin, TX 78712, USA",
+        "Freshman Research Initiative, DIY Diagnostics Stream, The University of Texas at Austin, Austin, TX 78712, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.13.039941",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.13.039941.pdf"
+    },
+    "abstract": "Isothermal nucleic acid amplification tests (iNAT), such as loop-mediated isothermal amplification (LAMP), are good alternatives to polymerase chain reaction (PCR)-based amplification assays, especially for point-of-care and low resource use, in part because they can be carried out with relatively simple instrumentation. However, iNATs can generate spurious amplicons, especially in the absence of target sequences, resulting in false positive results. This is especially true if signals are based on non-sequence-specific probes, such as intercalating dyes or pH changes. In addition, pathogens often prove to be moving, evolving targets, and can accumulate mutations that will lead to inefficient primer binding and thus false negative results. Internally redundant assays targeting different regions of the target sequence can help to reduce such false negatives. Here we describe rapid conversion of three previously described SARS-CoV-2 LAMP assays that relied on non-sequence-specific readout into assays that can be visually read using sequencespecific fluorogenic oligonucleotide strand exchange (OSD) probes. We evaluate one-pot operation of both individual and multiplex LAMP-OSD assays and demonstrate detection of SARS-CoV-2 virions in crude human saliva.",
+    "funding": [
+        {}
+    ]
+}

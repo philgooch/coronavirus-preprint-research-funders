@@ -1,0 +1,50 @@
+{
+    "title": "Expected impact of lockdown in I\u0302le-de-France and possible exit strategies",
+    "author": "Vittoria COLIZZA",
+    "date": 2020,
+    "affiliations": [
+        "Sorbonne Universit\u00e9, Pierre Louis Institute of Epidemiology and Public Health, Paris, France",
+        "Sociology and Economics of Networks and Services lab at Orange Experience Design Lab (SENSE/XDLab) Chatillion, Paris, France"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.13.20063933",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063933.pdf"
+    },
+    "abstract": "More than half of the global population is currently under strict forms of social distancing, with more than 90 countries in lockdown, including France. Estimating the expected impact of the lockdown, and the potential effectiveness of different exit strategies is critical to inform decision makers on the management of the COVID-19 health crisis. We use a stochastic age-structured transmission model integrating data on age profile and social contacts in the \u00cele-de-France region to (i) assess the current epidemic situation, (ii) evaluate the expected impact of the lockdown implemented in France on March 17, 2020, and (iii) estimate the effectiveness of possible exit strategies. The model is calibrated on hospital admission data of the region before lockdown and validated on syndromic and virological surveillance data. Different types and durations of social distancing interventions are simulated, including a progressive lifting of the lockdown targeted on specific classes of individuals (e.g. allowing a larger proportion of the population to go to work, while protecting the elderly), and large-scale testing. We estimate the basic reproductive number at 3.0 [2.8, 3.2] (95% confidence interval) prior to lockdown and the population infected by COVID-19 as of April 5 to be in the range 1% to 6%. The average number of contacts is predicted to be reduced by 80% during lockdown, leading to a substantial reduction of the reproductive number ( \"# =0.68 [0.62-0.73]). Under these conditions, the epidemic curve reaches ICU system capacity and slowly decreases during lockdown. Lifting the lockdown with no exit strategy would lead to a second wave largely overwhelming the healthcare system. Extensive case-finding, testing and isolation are required to envision social distancing strategies that gradually relax current constraints (larger fraction of individuals going back to work, progressive reopening of activities), while keeping schools closed and seniors isolated. As France faces the first wave of COVID-19 pandemic in lockdown, intensive forms of social distancing are required in the upcoming months due to the currently low population immunity. Extensive case-finding and isolation would allow the partial release of the socio-economic pressure caused by extreme measures, while avoiding healthcare demand exceeding capacity. Response planning needs to urgently prioritize the logistics and capacity for these interventions.",
+    "hyperbole": [
+        "Lifting the lockdown with no exit strategy would lead to a second wave largely overwhelming the healthcare system. Extensive case-finding, testing and isolation are required to envision social distancing strategies that gradually relax current constraints (larger fraction of individuals going back to work, progressive reopening of activities), while keeping schools closed and seniors isolated. As France faces the first wave of COVID-19 pandemic in lockdown, intensive forms of social distancing are required in the upcoming months due to the currently low population immunity. Extensive case-finding and isolation would allow the partial release of the socio-economic pressure caused by extreme measures, while avoiding healthcare demand exceeding capacity. Response planning needs to urgently prioritize the logistics and capacity for these interventions.",
+        "It is an unprecedented measure that was previously implemented only in Italy, Spain, Austria2, following the example of China5, to curb the dramatic increase of hospitalizations and admissions to ICU approaching saturation of the healthcare system.",
+        "Control of the epidemic without overwhelming the healthcare system requires coupling social distancing measures with aggressive testing to promptly identify infectious individuals and isolate them. Response capacity is critical to lift the lockdown, so that the timeline of these interventions should be carefully planned based on achieved preparedness. We consider different levels of testing capacity starting from the month of May or June. If case isolation is performed on average 1.5 day after infection and is efficient (90% reduction of contacts), we find that identifying at least 75% of all new cases would be required to rapidly reduce the burden on the healthcare system during May while intensive interventions are put in place. Lower tracing capacity or less intensive interventions starting May would take several months before the number of patients in critical care in \u00cele-de-France decrease below 1,000. Under these conditions, a longer lockdown till June would aid releasing the pressure on the healthcare system while capacity is built. Also, it would be ideal to perform contact tracing and testing during lockdown or with strict interventions in place. The benefit of these measures would go beyond the epidemic mitigation and extend to revising and optimizing protocols to improve case-finding and isolation \u2013 compared to the first phase of the epidemic \u2013 under more controlled conditions (reduced mixing of the population)."
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ANR project",
+                    "award-id": [
+                        "ANR-19-CE46-0008-03"
+                    ]
+                },
+                {
+                    "funding-source": "EU H2020",
+                    "award-id": [
+                        "H2020-874850"
+                    ]
+                },
+                {
+                    "funding-source": "REACTing COVID-19"
+                },
+                {
+                    "funding-source": "EU H2020",
+                    "award-id": [
+                        "H2020- 101003589"
+                    ]
+                }
+            ],
+            "funding-statement": "This study is partially funded by: ANR project DATAREDUX (ANR-19-CE46-0008-03); EU H2020 grant MOOD (H2020-874850); REACTing COVID-19 modeling grant; EU H2020 grant RECOVER (H2020- 101003589)"
+        }
+    ]
+}

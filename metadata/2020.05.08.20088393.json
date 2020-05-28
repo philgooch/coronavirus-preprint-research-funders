@@ -1,0 +1,26 @@
+{
+    "abstract": "BACKGROUND: COVID-19 is a global health emergency. Recent data indicate a 50% mortality rate across UK intensive care units. METHODS: A single institution, two-centre retrospective analysis following implementation of a Decision Support tool and real-time data dashboard for early detection of patients requiring personalised enhanced care, focussing particularly on respiratory rate, diastolic blood pressure, oxygenation indices, C-reactive protein, D-dimer and ferritin. Protocols differing from conventional practice included high-dose prophylactic anticoagulation for all COVID-19 positive patients and antioxidant prescription. RESULTS: By 22nd April 2020, 923 patients tested COVID-19 positive. 569 patients (61.7%) were male. The majority presented with advanced disease: interquartile ranges were C-reactive protein 44.9-179mg/L, D-dimer 1070-3802ng/L, and ferritin 261-1208\u03bcg/L. Completed case fatality rates were 25.1% [95% CI 20.0, 30.0] in females, 40.5% [95% CI 35.9, 45.0] in males. 139 patients were admitted to intensive care where current death rates are 16.2% [95% CI 3.8, 28.7] in females, 38.2% [95% CI 28.6, 47.8] in males with no trends for differences based on ethnicity. A real-time traffic lights dashboard enabled rapid assessment of patients using critical parameters to accelerate adjustments to management protocols. In total 513 (55.6%) of patients were flagged as high risk for thromboembolic disease, exceeding the numbers flagged for respiratory deteriorations (N=391, 42.4%), or cytokine storm (N=68, 7.4%). There was minimal evidence that age was associated with disease severity, but males had higher levels of all dashboard indices, particularly C-reactive protein and ferritin (p<0.0001) which displayed no relationship with age. CONCLUSIONS: Survival rates are encouraging. Protocols employed (traffic light-driven personalised care, protocolised early therapeutic anticoagulation based on D-dimer >1,000ng/L and/or CRP>200 mg/L, personalised ventilatory strategies and antioxidants) are recommended to other units. Males are at greater risk of severe disease, most likely as the obligate SARS-CoV-2 receptor is on the X-chromosome, and require especially close, and early attention.",
+    "affiliations": [
+        "Department of Health and Social Care"
+    ],
+    "author": "Linsey Christie; Amandeep Gupta; Suveer Singh; Alex McCarthy; Christopher Lockie; Marcela P Vizcaychipi; Alice Howard; Alexander Brown; Richard T Keays; Roger Davies; Timothy Peters; Monica Popescu; ChelWest COVID-19 Consortium; Alice Sisson; Hisham Said; Michelle Hayes; James Armstrong; Claire L Shovlin",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20088393",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20088393"
+    },
+    "title": "Early detection of severe COVID-19 disease patterns define near real-time personalised care, bioseverity in males, and decelerating mortality rates.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chelsea & Westminster NHS Foundation Trust, London"
+                },
+                {
+                    "funding-source": "NHS England"
+                }
+            ],
+            "funding-statement": "The study received funding support from Chelsea & Westminster NHS Foundation Trust, London, UK, and NHS England"
+        }
+    ]
+}

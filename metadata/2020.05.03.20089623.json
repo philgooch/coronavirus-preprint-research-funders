@@ -1,0 +1,29 @@
+{
+    "abstract": "The Spanish government declared the lockdown on March 14th, 2020 to tackle the fast-spreading of COVID-19. As a consequence the Balearic Islands remained almost fully isolated due to the closing of airports and ports, These isolation measures and the home-based confinement have led to a low incidence of COVID-19 in this region. We propose a compartmental model for the spread of COVID-19 including five compartments (Susceptible, Latent, Infected, Diseased, and Recovered), and the mobility between municipalities. The model parameters are calibrated with the temporal series of confirmed cases provided by the Spanish Ministry of Health. After calibration, the proposed model captures the trend of the official confirmed cases before and after the lockdown. We show that the estimated number of cases depends strongly on the initial dates of the local outbreak onset and the number of imported cases before the lockdown. Our estimations indicate that the population has not reached the level of herd immunization necessary to prevent future outbreaks. While the low incidence, in comparison to mainland Spain, has prevented the saturation of the health system, this low incidence translates into low immunization rates, therefore facilitating the propagation of new outbreaks that could lead to secondary waves of COVID-19 in the region. These findings warn about scenarios regarding after-lockdown-policies and the risk of second outbreaks, emphasize the need for widespread testing, and could potentially be extrapolated to other insular and continental regions.",
+    "affiliations": [
+        "University of the Balearic Islands"
+    ],
+    "author": "Jorge P. Rodriguez; Juan Fernadez-Gracia; Carlos J. Melian; Victor M. Eguiluz; Juan M. Pericas",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089623",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089623"
+    },
+    "title": "Risk of secondary infection waves of COVID-19 in an insular region: the case of the Balearic Islands, Spain",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Science and Innovation"
+                },
+                {
+                    "funding-source": "FEDER",
+                    "award-id": [
+                        "FIS2016-80067-P (AEI/FEDER"
+                    ]
+                }
+            ],
+            "funding-statement": "V.M.E. and J.F.G. acknowledge funding from the Ministry of Science and Innovation (Spain) and FEDER through project SPASIMM [FIS2016-80067-P (AEI/FEDER, UE)]"
+        }
+    ]
+}

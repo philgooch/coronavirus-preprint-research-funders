@@ -1,0 +1,26 @@
+{
+    "abstract": "We analyzed COVID-19 data through May 6th, 2020 using a partially observed Markov process. Our method uses a hybrid deterministic and stochastic formalism that allows for time variable transmission rates and detection probabilities. The model was fit using iterated particle filtering to case count and death count time series from 55 countries. We found evidence for a shrinking epidemic in 30 of the 55 examined countries. Of those 30 countries, 27 have significant evidence for subcritical transmission rates, although the decline in new cases is relatively slow compared to the initial growth rates. Generally, the transmission rates in Europe were lower than in the Americas and Asia. This suggests that global scale social distancing efforts to slow the spread of COVID-19 are effective although they need to be strengthened in many regions and maintained in others to avoid further resurgence of COVID-19. The slow decline also suggests alternative strategies to control the virus are needed before social distancing efforts are partially relaxed.",
+    "affiliations": [
+        "Laboratory Directed Research and Development grant 20200002CR"
+    ],
+    "author": "Ruian Ke; Ethan Obie Romero-Severson; Grant Meadors; Nick Hengartner",
+    "date": 2020,
+    "doi": "10.1101/2020.04.18.20070771",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.18.20070771"
+    },
+    "title": "Decline in global transmission rates of COVID-19 through May 6 2020",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Laboratory Directed Research and Development",
+                    "award-id": [
+                        "20200002CR"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors were funded by Laboratory Directed Research and Development grant 20200002CR"
+        }
+    ]
+}

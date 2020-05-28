@@ -1,0 +1,29 @@
+{
+    "abstract": "Objective: Our primary objective was to use initial data available to clinicians to characterize and predict survival for hospitalized coronavirus disease 2019 (COVID-19) patients. While clinical characteristics and mortality risk factors of COVID-19 patients have been reported, a practical survival calculator based on data from a diverse group of U.S. patients has not yet been introduced. Such a tool would provide timely and valuable guidance in decision-making during this global pandemic. Design: We extracted demographic, laboratory, clinical, and treatment data from electronic health records and used it to build and test the predictive accuracy of a survival probability calculator referred to as the Northwell COVID-19 Survival (NOCOS) calculator. Setting: 13 acute care facilities at Northwell Health served as the setting for this study. Participants: 5,233 hospitalized COVID-19 positive patients served as the participants for this study. Main outcome measures: The NOCOS calculator was constructed using multivariate regression with L1 regularization (LASSO) to predict survival during hospitalization. Model predictive performance was measured using Receiver Operating Characteristic (ROC) curves and the Area Under the Curve (AUC) of the calculators. Results: Patient age, serum blood urea nitrogen, Emergency Severity Index, red cell distribution width, absolute neutrophil count, serum bicarbonate, and glucose were identified as the optimal predictors of survival by multivariate LASSO regression. The predictive performance of the NOCOS calculator had an AUC of 0.832, reaching 0.91 when updated for each patient daily, with stability assessed and maintained for 14 consecutive days. This outperformed other established models, including the Sequential Organ Failure Assessment (SOFA) score (0.732). Conclusions: We present a practical estimate of survival probability that outperforms other general risk models. The seven early predictors of in-hospital survival can help clinicians identify patients with increased probabilities of survival and provide critical decision support as COVID-19 spreads across the U.S.",
+    "affiliations": [
+        "National Institute on Aging and R01LM012836 from the National Library of Medicine of the National Institutes of Health. The views expressed in this paper are those of the authors and do not represent the views of the National Institutes of Health, the United States Department of Health and Human Services, or any other government entity"
+    ],
+    "author": "Kevin Coppa; Lance B. Becker; Northwell COVID-19 Research Consortium; Thomas McGinn; Safiya Richardson; Jamie S. Hirsch; Theodoros Zanos; Todd J. Levy; Douglas P. Barnaby; Karina W. Davidson",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075416",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075416"
+    },
+    "title": "Estimating Survival of Hospitalized COVID-19 Patients from Admission Information",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute on Aging and",
+                    "award-id": [
+                        "R01LM012836"
+                    ]
+                },
+                {
+                    "funding-source": "National Library of Medicine of the National Institutes of Health"
+                }
+            ],
+            "funding-statement": "This work was supported by grants R24AG064191 from the National Institute on Aging and R01LM012836 from the National Library of Medicine of the National Institutes of Health"
+        }
+    ]
+}

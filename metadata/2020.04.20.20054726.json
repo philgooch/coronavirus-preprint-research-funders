@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: Countries vary in their response to the COVID-19 pandemic. Some emphasise social distancing, while others focus on other interventions. Evidence on the effectiveness and cost-effectiveness of these interventions is urgently needed to guide public health policy and avoid unnecessary damage to the economy and other harms. We aimed to provide a comprehensive summary of the evidence on epidemic control, with a focus on cost-effectiveness. Methods: MEDLINE (1946 to March week 3, 2020) and Embase (1974 to March 27, 2020) were searched using a range of terms related to epidemic control. Reviews, randomized trials, observational studies, and modelling studies were included. Articles reporting on the effectiveness or cost-effectiveness of at least one intervention were included and grouped into higher-quality (randomized trials) and lower-quality evidence (other study designs). Findings: We found 1,653 papers; 34 were included. Higher-quality evidence was only available to support the effectiveness of hand washing and face masks. Modelling studies suggested that these measures are highly cost-effective. For other interventions, only evidence from observational and modelling studies was available. A cautious interpretation of this body of lower-quality evidence suggests that: (1) the most cost-effective interventions are swift contact tracing and case isolation, surveillance networks, protective equipment for healthcare workers, and early vaccination (when available); (2) home quarantines and stockpiling antivirals are less cost-effective; (3) social distancing measures like workplace and school closures are effective but costly, making them the least cost-effective options; (4) combinations are more cost-effective than single interventions; (5) interventions are more cost-effective when adopted early and for severe viruses like SARS-CoV-2. For H1N1 influenza, contact tracing was estimated to be 4,363 times more cost-effective than school closures ($2,260 vs. $9,860,000 per death prevented). Conclusions: A cautious interpretation of this body of evidence suggests that for COVID-19: (1) social distancing is effective but costly, especially when adopted late and (2) adopting as early as possible a combination of interventions that includes hand washing, face masks, swift contact tracing and case isolation, and protective equipment for healthcare workers is likely to be the most cost-effective strategy.\nCompeting Interest Statement",
+    "author": "Genevieve Gee; Louise Potvin; Toma Pueyo; Matt Bell; Carl-Etienne Juneau",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20054726",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20054726"
+    },
+    "title": "Evidence-based, cost-effective interventions to suppress the COVID-19 pandemic: a rapid systematic review",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Canada Research Chair in Community Approaches and Health Inequalities",
+                    "award-id": [
+                        "CRC 950-232541"
+                    ]
+                }
+            ],
+            "funding-statement": "LP holds the Canada Research Chair in Community Approaches and Health Inequalities (CRC 950-232541). This funding source had no role in the design, conduct, or reporting of the study."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "abstract": "The outbreak of COVID-19 in different parts of the world is a major concern for all the administrative units of respective countries. India is also facing this very tough task for controlling the virus outbreak and has managed its growth rate through some strict measures. This study presents the current situation of coronavirus spread in India along with the impact of various measures taken for it. With the help of data sources (till 7th-8th April 2020) from various state units of India and Ministry of Health and Family Welfare, Government of India, this study presents various trends and patterns. This study answers six different research ques-tions in a comprehensive manner. It has been reported that growth rate of infected cases has been controlled with the help of National Lockdown, however some uncontrolled mass level events had negatively impacted the infected cases. With the help of exponential and polyno-mial regression modelling, the predictions of up to 75000 cases have been done by the end of April 2020. It has also been seen that there are some prominent clusters and patient nodes in the network of patients which are the major influencers for COVID-19 spread. Also, death rate case predictions have been done through multi-class classification models with an accuracy of 75%. At the end, strategies for continuation for lockdown has been discussed and presented. It appears that only essential services should be open for the citizens of India and the national lockdown should be carried on for next 2-4 weeks. This study will be useful for the Government of India and various states of India, Administrative Units of India, Frontline health workforce of India, researchers and scientists. This study will also be favorable for the administrative units of other countries to consider various aspects related to the control of COVID-19 outspread in their respective regions.",
+    "affiliations": [
+        "John Hopkins University repository and COVID-19-INDIA dot org"
+    ],
+    "author": "Gaurav Pandey; Saibal Kumar Pal; Rajan Gupta",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20058347",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20058347"
+    },
+    "title": "A Comprehensive Analysis of COVID-19 Outbreak situation in India",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "NA"
+        }
+    ]
+}

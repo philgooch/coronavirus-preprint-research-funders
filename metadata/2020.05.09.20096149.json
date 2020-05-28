@@ -1,0 +1,23 @@
+{
+    "abstract": "In this short note, we present an analysis of the data regarding Coronavirus (COVID-19) in Italy. We have used the official database provided by the Italian Civil Protection. Since the total number of people infected by the virus is uncertain, we have considered the trend of ICU patients, ICU patients plus deaths, and finally the sum of hospitalized patients plus the deceased. The growth of the corresponding curves is similar for all the three graphs while the trend after the turning point is completely different. We find that the curve of ICU patients can be a useful tool to monitor the behavior of epidemic and a model to predict the future evolution of COVID-19.",
+    "affiliations": [
+        "University of Benevento"
+    ],
+    "author": "Antonio Feoli; Elmo Benedetto; Antonella Lucia Iannella",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20096149",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20096149"
+    },
+    "title": "Three pictures of COVID-19 behavior in Italy: similar growth and different degrowth",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Benevento"
+                }
+            ],
+            "funding-statement": "University of Benevento"
+        }
+    ]
+}

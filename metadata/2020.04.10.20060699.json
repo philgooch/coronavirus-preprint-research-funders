@@ -1,0 +1,16 @@
+{
+    "abstract": "Background Treatments are urgently needed to prevent respiratory failure and deaths from coronavirus disease 2019 (COVID-19). Hydroxychloroquine (HCQ) has received worldwide attention because of positive results from small studies. Methods We used data collected from routine care of all adults in 4 French hospitals with documented SARS-CoV-2 pneumonia and requiring oxygen \u2265 2 L/min to emulate a target trial aimed at assessing the effectiveness of HCQ at 600 mg/day. The composite primary endpoint was transfer to intensive care unit (ICU) within 7 days from inclusion and/or death from any cause. Analyses were adjusted for confounding factors by inverse probability of treatment weighting. Results This study included 181 patients with SARS-CoV-2 pneumonia; 84 received HCQ within 48 hours of admission (HCQ group) and 97 did not (no-HCQ group). Initial severity was well balanced between the groups. In the weighted analysis, 20.2% patients in the HCQ group were transferred to the ICU or died within 7 days vs 22.1% in the no-HCQ group (16 vs 21 events, relative risk [RR] 0.91, 95% CI 0.47-1.80). In the HCQ group, 2.8% of the patients died within 7 days vs 4.6% in the no-HCQ group (3 vs 4 events, RR 0.61, 95% CI 0.13-2.89), and 27.4% and 24.1%, respectively, developed acute respiratory distress syndrome within 7 days (24 vs 23 events, RR 1.14, 95% CI 0.65-2.00). Eight patients receiving HCQ (9.5%) experienced electrocardiogram modifications requiring HCQ discontinuation. Interpretation These results do not support the use of HCQ in patients hospitalised for documented SARS-CoV-2-positive hypoxic pneumonia.",
+    "author": "Nicolas Roche; Jean-Michel Pawlotski; Caroline Morbieu; Viet-Thi Tran; Marc Michel; Romain Paule; Xavier Lescure; Tali-Anne Szwebel; Paul Legendre; Philippe Ravaud; Etienne Audureau; Julien Dang; Constance Guillaud; Nicolas Carlier; Luc Mouthon; Nathalie Costedoat; Mathilde Roumier; Frederic Schlemmer; Amelie Chabrol; Victoire De Lastours; Yoland Schoindre; Sebastien Gallien; Matthieu Mahevas; Raphael Lepeule; Bertrand Godeau; Benjamin Terrier; Mehdi Khellaf; Etienne Crickx; Marie Matignon; Elodie Perrodeau",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20060699",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20060699"
+    },
+    "title": "No evidence of clinical efficacy of hydroxychloroquine in patients hospitalized for COVID-19 infection with oxygen requirement: results of a study using routinely collected data to emulate a target trial",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was obtained for this study"
+        }
+    ]
+}

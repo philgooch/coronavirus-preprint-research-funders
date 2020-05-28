@@ -1,0 +1,26 @@
+{
+    "abstract": "Background No clinically proven effective antiviral strategy exists for the epidemic Coronavirus Disease 2019 (COVID-19). Methods We conducted a prospective, randomized, controlled, open-label multicenter trial involving adult patients with COVID-19. Patients were randomly assigned in a 1:1 ratio to receive conventional therapy plus Umifenovir (Arbidol) (200mg*3/day) or Favipiravir (1600mg*2/first day followed by 600mg*2/day) for 10 days. The primary outcome was clinical recovery rate of Day 7. Latency to relief for pyrexia and cough, the rate of auxiliary oxygen therapy (AOT) or noninvasive mechanical ventilation (NMV) were the secondary outcomes. Safety data were collected for 17 days. Results 240 enrolled COVID-19 patients underwent randomization; 120 patients were assigned to receive Favipiravir (116 assessed), and 120 to receive Arbidol (120 assessed). Clinical recovery rate of Day 7 does not significantly differ between Favipiravir group (71/116) and Arbidol group (62/120) (P=0.1396, difference of recovery rate: 0.0954; 95% CI: -0.0305 to 0.2213). Favipiravir led to shorter latencies to relief for both pyrexia (difference: 1.70 days, P<0.0001) and cough (difference: 1.75 days, P<0.0001). No difference was observed of AOT or NMV rate (both P>0.05). The most frequently observed Favipiravir-associated adverse event was raised serum uric acid (16/116, OR: 5.52, P=0.0014). Conclusions Among patients with COVID-19, Favipiravir, compared to Arbidol, did not significantly improve the clinically recovery rate at Day 7. Favipiravir significantly improved the latency to relief for pyrexia and cough. Adverse effects caused Favipiravir are mild and manageable. This trial is registered with Chictr.org.cn (ChiCTR2000030254).",
+    "affiliations": [
+        "National Key Research and Development Program of China (2020YFC0844400)"
+    ],
+    "author": "Yi Zhang; Xinghuan Wang; Jianying Huang; Ping Yin; Song Chen; Mengxin Lu; Chang Chen; Lingao Ju; Yongwen Luo; Yongxi Zhang; Jingyi Zhang; Bo Chen; Zhenshun Cheng; Jianyuan Wu",
+    "date": 2020,
+    "doi": "10.1101/2020.03.17.20037432",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.17.20037432"
+    },
+    "title": "Favipiravir versus Arbidol for COVID-19: A Randomized Clinical Trial",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2020YFC0844400"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Key Research and Development Program of China (2020YFC0844400)"
+        }
+    ]
+}

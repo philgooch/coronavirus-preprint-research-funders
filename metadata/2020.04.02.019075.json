@@ -1,0 +1,55 @@
+{
+    "title": "Rapid community-driven development of a SARS-CoV-2 tissue simulator",
+    "author": "Yafei Wang, Gary An, Andrew Becker, Chase Cockrell, Nicholson Collier, Morgan Craig, Courtney L. Davis, James Faeder, Ashlee N. Ford Versypt,10,Juliano F. Gianlupi, James A. Glazier, Randy Heiland, Thomas Hillen, Mohammad Aminul Islam, Adrianne Jenner, Bing Liu, Penelope A Morel, Aarthi Narayanan, Jonathan Ozik, Padmini Rangamani, Jason Edward Shoemaker, Amber M. Smith, Paul Macklin",
+    "date": 2020,
+    "affiliations": [
+        "Department of Intelligent Systems Engineering, Indiana University. Bloomington, IN USA",
+        "The University of Vermont Medical Center, Burlington, VT USA",
+        "Decision and Infrastructure Sciences, Argonne National Laboratory. Lemont, IL USA",
+        "Consortium for Advanced Science and Engineering, University of Chicago. Chicago, IL USA",
+        "Department of Mathematics, University of Montreal. Montreal, QC Canada",
+        "CHU Sainte-Justine Research Centre, Montreal, QC Canada",
+        "Natural Science Division, Pepperdine University, Malibu, CA USA",
+        "Department of Computational and Systems Biology, University of Pittsburgh. Pittsburgh, PA USA",
+        "School of Chemical Engineering, Oklahoma State University, Stillwater, OK USA",
+        "Oklahoma Center for Respiratory and Infectious Diseases, Oklahoma State University, Stillwater, OK USA",
+        "Department of Mathematical and Statistical Sciences, University of Alberta. Edmonton, AB Canada",
+        "Department of Immunology, University of Pittsburgh. Pittsburgh, PA USA",
+        "National Center for Biodefense and Infectious Disease, George Mason University. Manassas, VA USA",
+        "Department of Mechanical and Aerospace Engineering, University of California. San Diego, CA USA",
+        "Department of Chemical and Petroleum Engineering, University of Pittsburgh. Pittsburgh, PA USA",
+        "Department of Pediatrics, University of Tennessee Health Science Center, Memphis, TN USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.02.019075",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.02.019075.pdf"
+    },
+    "abstract": "The 2019 novel coronavirus, SARS-CoV-2, is an emerging pathogen of critical significance to international public health. Knowledge of the interplay between molecular-scale virus-receptor interactions, single-cell viral replication, intracellular-scale viral transport, and emergent tissue-scale viral propagation is limited. Moreover, little is known about immune system-virus-tissue interactions and how these can result in low-level (asymptomatic) infections in some cases and acute respiratory distress syndrome (ARDS) in others, particularly with respect to presentation in different age groups or pre-existing inflammatory risk factors like diabetes. Given the nonlinear interactions within and among each of these processes, multiscale simulation models can shed light on the emergent dynamics that lead to divergent outcomes, identify actionable \u201cchoke points\u201d for pharmacologic interactions, screen potential therapies, and identify potential biomarkers that differentiate patient outcomes. Given the complexity of the problem and the acute need for an actionable model to guide therapy discovery and optimization, we introduce and iteratively refine a prototype of a multiscale model of SARS-CoV-2 dynamics in lung tissue. The first prototype model was built and shared internationally as open source code and an online interactive model in under 12 hours, and community domain expertise is driving rapid refinements with a two-to-four week release cycle. In a sustained community effort, this consortium is integrating data and expertise across virology, immunology, mathematical biology, quantitative systems physiology, cloud and high performance computing, and other domains to accelerate our response to this critical threat to international health.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation for",
+                    "award-id": [
+                        "1720625"
+                    ]
+                }
+            ],
+            "funding-statement": "PM, RH, JAG, YW, and JFG thank the National Science Foundation for funding and resources via the nanoBIO Node for nanoHUB (1720625)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSERC Discovery Grant",
+                    "award-id": [
+                        "RGPIN-2018-04546"
+                    ]
+                }
+            ],
+            "funding-statement": "MC and AJ were supported under NSERC Discovery Grant RGPIN-2018-04546"
+        }
+    ]
+}

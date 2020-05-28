@@ -1,0 +1,19 @@
+{
+    "abstract": "In this paper, we present a new approach to deterministic modelling of COVID-19 epidemic. Our model dynamics is expressed by a single prognostic variable in an integro-differential equation. All unknown parameters are described with a single, timedependent variable \u03ba(t). We show that our model has similarities to classic compartmental models, such as SIR, and that the variable \u03ba(t) can be interpreted as the effective reproduction number Reff. The advantages of our approach are the simplicity of having only one equation, the numerical stability due to an integral formulation and the reliability because the model is formulated with the most trustable statistical data variable: the number of cumulative diagnosed positive cases of COVID-19. Once this dynamic variable is calculated, other non-dynamic variables, such as the number of heavy cases (hospital beds), the number of intensive-care cases (ICUs) and the fatalities, can be derived from it using a similarly stable, integral approach. The formulation with a single equation allows us to calculate from real data the values of the effective reproduction number, which can then be fitted. The extrapolated values of \u03ba can be used in the model to make a reliable forecasts, though under the assumption that measures for reducing infections are maintained. We have applied our model to more than 15 countries and results are available via a web-based platform. In this paper we focus on the data for two exemplary countries, Italy and Germany, and show that the model is capable of reproducing the course of the epidemic in the past and forecasting its course for a period of two to three weeks with a reasonable numerical stability.",
+    "affiliations": [
+        "-University and the web site worldometers.info"
+    ],
+    "author": "Enrico De Micheli; Felix Koehler-Rieper; Claudius H. F. Roehl",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20084376",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20084376"
+    },
+    "title": "A novel deterministic forecast model for COVID-19 epidemic based on a single ordinary integro-differential equation",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for this research"
+        }
+    ]
+}

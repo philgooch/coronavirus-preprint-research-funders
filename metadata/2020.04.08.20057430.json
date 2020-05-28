@@ -1,0 +1,37 @@
+{
+    "abstract": "The infectious novel coronavirus disease COVID-19 outbreak has been declared as a public health emergency of international concern, and later as an epidemic. To date, this outbreak has infected more than one million people and killed over fifty thousand people across the world. In most countries, the COVID-19 incidence curve rises sharply in a short span of time, suggesting a transition from a disease free (or low-burden disease) equilibrium state to a sustained infected (or high-burden disease) state. Such a transition from one stable state to another state in a relatively short span of time is often termed as a critical transition. Critical transitions can be, in general, successfully forecasted using many statistical measures such as return rate, variance and lag-1 autocorrelation. Here, we report an empirical test of this forecasting on the COVID-19 data sets for nine countries including India, China and the United States. For most of the data sets, an increase in autocorrelation and a decrease in return rate predict the onset of a critical transition. Our analysis suggests two key features in predicting the COVID-19 incidence curve for a specific country: a) the timing of strict social distancing and/or lockdown interventions implemented, and b) the fraction of a nation's population being affected by COVID-19 at the time of implementation of these interventions. Further, using satellite data of nitrogen dioxide which is emitted predominantly as a result of anthropogenic activities, as an indicator of lockdown policy, we find that in countries where the lockdown was implemented early and strictly have been successful in reducing the extent of transmission of the virus. These results hold important implications for designing effective strategies to control the spread of infectious pandemics.",
+    "affiliations": [
+        "Department of Science & Technology (DST), Govt. of India under the scheme DST-Inspire [Grant No.: IF160459]. P.S.D. acknowledges financial support from the Science & Engineering Research Board (SERB), Govt. of India [Grant No.: CRG/2019/002402]"
+    ],
+    "author": "Mohit Kumar Jolly; Partha Sharathi Dutta; Taranjot Kaur; Sukanta Sarkar; Sudipta Kumar Sinha; Sourangsu Chowdhury",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20057430",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20057430"
+    },
+    "title": "Anticipating the novel coronavirus disease (COVID-19) pandemic",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Science & Technology",
+                    "award-id": [
+                        "IF160459"
+                    ]
+                }
+            ],
+            "funding-statement": "S.S. acknowledges the financial support from the Department of Science & Technology (DST), Govt. of India under the scheme DST-Inspire [Grant No.: IF160459]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Science & Engineering Research Board",
+                    "award-id": [
+                        "CRG/2019/002402"
+                    ]
+                }
+            ],
+            "funding-statement": "P.S.D. acknowledges financial support from the Science & Engineering Research Board (SERB), Govt. of India [Grant No.: CRG/2019/002402]"
+        }
+    ]
+}

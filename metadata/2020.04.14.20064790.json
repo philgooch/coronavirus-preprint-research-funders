@@ -1,0 +1,19 @@
+{
+    "abstract": "Background an objective: In March 2020 the SARS-CoV-2 outbreak has been declared as global pandemic. Most countries have implemented numerous social distancing measures in order to limit its transmission and control the outbreak. This study aims to describe the impact of these control measures on the spread of the disease for Italy and Germany, forecast the epidemic trend of COVID-19 in both countries and estimate the medical capacity requirements in terms of hospital beds and intensive care units (ICUs) for optimal clinical treatment of severe and critical COVID-19 patients, for the Germany health system. Methods: We used an exponential decline function to model the trajectory of the daily growth rate of infections in Italy and Germany. A linear regression of the logarithmic growth rate functions of different stages allowed to describe the impact of the social distancing measures leading to a faster decline of the growth rate in both countries. We used the linear model to predict the number of diagnosed and fatal COVID-19 cases from April 10th until May 31st. For Germany we estimated the required daily number of hospital beds and intensive care units (ICU) using clinical observations on the average lengths of a hospital stay for the severe and critical COVID-19 patients. Results: Analyzing the data from Germany and Italy allowed us to identify changes in the trajectory of the growth rate of infection most likely resulted from the various social distancing measures implemented. In Italy a stronger decline in the growth rate was observed around the week of March 17th, whereas for Germany the stronger decline occurred approximately a week later (the week of March 23rd). Under the assumption that the impact of the measures will last, the total size of the outbreak can be estimated to 155,000 cases in Germany (range 140,000-180,000) and to 185,000 cases in Italy (range 175,000-200,000). For Germany the total number of deaths until May 31st is calculated to 3,850 (range 3,500-4,450). Based on the projected number of new COVID-19 cases we expect that the hospital capacity requirements for severe and critical cases in Germany will decline from the 2nd week of April onwards from 13,500 to ~2500 hospital beds (range 1500-4300) and from 2500 to ~500 ICU beds in early May (range 300-800). Conclusion: The modeling effort presented here provides a valuable framework to capture the impact of the social distancing measures on the COVID-19 epidemic in European countries and to forecast the future trend of daily COVID-19 cases. It provides a tool for medical authorities in Germany and other countries to help inform the required hospital capacity of the health care system. Germany appears to be in the middle of the (first) COVID-19 outbreak wave and the German health system is well prepared to handle it with the available capacities.",
+    "affiliations": [
+        "Robert Koch Institute (RKI) [11]. For Italy the data was taken from the Coronavirus COVID-19 Global Cases published by the Center for Systems Science Engineering (CSSE) at Johns Hopkins University (JHU). For Germany and Italy, we used the reported data up to April 9th for modeling and parameter estimation"
+    ],
+    "author": "Clemens Giegerich; Thomas Klabunde",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20064790",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20064790"
+    },
+    "title": "How high and long will the COVID-19 wave be? A data-driven approach to model and predict the COVID-19 epidemic and the required capacity for the German health system",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There has been no Funding support for this work"
+        }
+    ]
+}

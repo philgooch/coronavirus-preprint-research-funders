@@ -1,0 +1,16 @@
+{
+    "abstract": "A novel coronavirus was reported in Wuhan, China in December 2019 to cause severe acute respiratory symptoms (COVID- 19). In this meta-analysis, we estimated case fatality rate from COVID- 19 infection by random effect meta-analysis model with country level data. Publicly accessible web database WorldOMeter (https://www.worldometers.info/coronavirus/) was accessed on 24th March 2020 GMT and reported total number of cases, total death, active cases and seriously ill/ critically ill patients were retrieved. Primary outcome of this meta-analysis was case fatality rate defined by total number of deaths divided by total number of diagnosed cases. Pooled case fatality rate (95% CI) was 1.78 (1.34- 2.22) %. Between country heterogeneity was 0.018 (p<0.0001). Pooled estimate of composite poor outcome (95% CI) was 4.06 (3.24- 4.88) % at that point of time after exclusion of countries reported small number of cases. Pooled mortality rate (95% CI) was 33.97 (27.44- 40.49) % amongst closed cases (where patients have recovered or died) with. Meta regression analysis identified statistically significant association between health expenditure and case fatality rate (p=0.0017).",
+    "author": "Souvik Maitra; Sulagna Bhattacharjee; Mansij Biswas",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059683",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059683"
+    },
+    "title": "Case- fatality rate in COVID- 19 patients: A meta-analysis of publicly accessible database",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding received"
+        }
+    ]
+}

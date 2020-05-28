@@ -1,0 +1,16 @@
+{
+    "abstract": "The number of confirmed Covid-19 cases in a population is used as a coarse measurement for the burden of disease. However, this number depends heavily on the sampling intensity and the various test criteria used in different jurisdictions. A wide range of sources indicate that a large fraction of cases go undetected. Estimates of the true prevalence of Covid-19 can be made by random sampling in the wider population. Here we use simulations to explore confidence intervals of prevalence estimates under different sampling intensities and degrees of sample pooling.",
+    "author": "Ola Brynildsrud",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20075275",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20075275"
+    },
+    "title": "Covid-19 prevalence estimation by random sampling in the wider population - Optimal sample pooling under varying assumptions about true prevalence",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this work"
+        }
+    ]
+}

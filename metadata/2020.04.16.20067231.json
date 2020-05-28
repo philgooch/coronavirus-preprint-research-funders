@@ -1,0 +1,26 @@
+{
+    "abstract": "BACKGROUND: The outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has rapidly spread globally. The laboratory diagnosis of SARS-CoV-2 infection has relied on nucleic acid tests. However, there are many limitations of nucleic acid tests, including low throughput and high rates of false negatives. More sensitive and accurate tests to effectively identify infected patients are needed. METHODS: This study has developed fully automated chemiluminescent immunoassays (CLIA) to determine IgM and IgG antibodies to SARS-CoV-2 in human serum. The assay performance has been evaluated at 10 hospitals. Clinical specificity was evaluated by measuring 972 hospitalized patients with diseases other than COVID-19, and 586 donors of a normal population. Clinical sensitivity was assessed on 503 confirmed cases of SARS-CoV-2 by RT-PCR and 52 suspected cases. RESULTS: The assays demonstrated satisfied assay precision with coefficient of variation (CV) of less than 4.45%. Inactivation of specimen does not affect assay measurement. SARS-CoV-2 IgM shows clinical specificity of 97.33% and 99.49% for hospitalized patients and normal population respectively. SARS-CoV-2 IgG shows clinical specificity of 97.43% and 99.15% for the hospitalized patients and the normal population respectively. SARS-CoV-2 IgM and IgG show clinical sensitivity of 85.88% and 96.62% respectively for confirmed SARS-Cov-2 infection with RT-PCR, of 73.08% and 86.54% respectively for suspected cases. CONCLUSIONS: we have developed fully automated immunoassays for detecting SARS-CoV-2 IgM and IgG antibodies in human serum. The assays demonstrated high clinical specificity and sensitivity, and add great value to nucleic acid testing in fighting against the global pandemic of the SARS-CoV-2 infection.",
+    "affiliations": [
+        "Central Universities (2020kfyXGYJ103)"
+    ],
+    "author": "Quan Li; Chungen Qian; Yijun Gong; Fuzhen Xia; Huanyu Song; Wenfang Xu; Fangming Cheng; Mi Zhou; Zejin Liu; Guikai Duan; Bi-Feng Liu; Zhiyong Li; Ping Li; Yun Wang; Fang Hu; Pingan Zhang; Yan Zhu; Xiaobing Xie; Yinting Xing; Xiaotao Lin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067231",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067231"
+    },
+    "title": "Development and Multicenter Performance Evaluation of The First Fully Automated SARS-CoV-2 IgM and IgG Immunoassays",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities",
+                    "award-id": [
+                        "2020kfyXGYJ103"
+                    ]
+                }
+            ],
+            "funding-statement": "B.F. Liu, Fundamental Research Funds for the Central Universities (2020kfyXGYJ103)."
+        }
+    ]
+}

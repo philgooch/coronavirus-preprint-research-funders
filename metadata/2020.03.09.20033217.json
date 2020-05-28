@@ -1,0 +1,59 @@
+{
+    "abstract": "A novel human coronavirus, now named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2, referred to as HCoV-19 here) that emerged in Wuhan, China in late 2019 is now causing a pandemic. Here, we analyze the aerosol and surface stability of HCoV-19 and compare it with SARS-CoV-1, the most closely related human coronavirus.2 We evaluated the stability of HCoV-19 and SARS-CoV-1 in aerosols and on different surfaces and estimated their decay rates using a Bayesian regression model\nCompeting Interest Statement",
+    "affiliations": [
+        "Program of the National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH). JOL-S and AG were supported by the Defense Advanced Research Projects Agency DARPA PREEMPT # D18AC00031, and JOL-S was supported by the U.S. National Science Foundation (DEB-1557022) and the Strategic Environmental Research and Development Program (SERDP, RC\u20102635) of the U.S. Department of Defense"
+    ],
+    "author": "Susan Gerber; Dylan Morris; Azaibi Tamin; Trenton Bushmaker; Jennifer Harcourt; Emmie de Wit; Neeltje van Doremalen; Brandi Williamson; Myndi Holbrook; Vincent Munster; Amandine Gamble; Natalie Thornburg; Jamie Lloyd-Smith",
+    "date": 2020,
+    "doi": "10.1101/2020.03.09.20033217",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.09.20033217"
+    },
+    "title": "Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intramural Research Program of the National Institute of Allergy and Infectious Diseases"
+                },
+                {
+                    "funding-source": "National Institutes of Health"
+                },
+                {
+                    "funding-source": "NIH"
+                }
+            ],
+            "funding-statement": "This research was supported by the Intramural Research Program of the National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "JOL-S and AG"
+                },
+                {
+                    "funding-source": "Defense Advanced Research Projects Agency DARPA PREEMPT",
+                    "award-id": [
+                        "D18AC00031",
+                        "JOL-S"
+                    ]
+                },
+                {
+                    "funding-source": "U.S National Science Foundation",
+                    "award-id": [
+                        "DEB-1557022"
+                    ]
+                },
+                {
+                    "funding-source": "Strategic Environmental Research and Development Program",
+                    "award-id": [
+                        "RC\u20102635"
+                    ]
+                },
+                {
+                    "funding-source": "U.S Department of Defense"
+                }
+            ],
+            "funding-statement": "JOL-S and AG were supported by the Defense Advanced Research Projects Agency DARPA PREEMPT # D18AC00031, and JOL-S was supported by the U.S National Science Foundation (DEB-1557022) and the Strategic Environmental Research and Development Program (SERDP, RC\u20102635) of the U.S Department of Defense"
+        }
+    ]
+}

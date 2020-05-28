@@ -1,0 +1,63 @@
+{
+    "title": "Binding of the SARS-CoV-2 Spike Protein to Glycans",
+    "author": "Zhongping Tan",
+    "date": 2020,
+    "affiliations": [
+        "NHC Key Laboratory of Systems Biology of Pathogens, Institute of Pathogen Biology and Center for AIDS Research, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100730, China",
+        "State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100050, China",
+        "Department of Chemistry and Biochemistry and BioFrontiers Institute, University of Colorado, Boulder CO 80303, United States",
+        "School of Pharmaceutical Sciences, Tsinghua University, Beijing 100084, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.17.100537",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.17.100537.pdf"
+    },
+    "abstract": "The 2019 novel coronavirus (SARS-CoV-2) is the seventh human coronavirus. The pandemic of this virus has caused a high number of deaths in the world. In order to more efficiently combat this pandemic, it is necessary to develop a better understanding of how the virus infects host cells. Infection normally starts with the initial attachment of the virus to cell-surface glycans like heparan sulfate (HS) proteoglycans and sialic acid-containing oligosaccharides. In this study, we used glycan microarray technology to study the binding of the SARS-CoV-2 spike protein (S protein) to HS and sialic acid. Our results indicated that the S protein can bind to HS in a sulfationdependent manner and the length of HS appears not to be a critical factor for the binding. No binding with sialic acid residues was detected. In addition, we applied sequence alignment and molecular docking to analyze and explain the observed binding results. Our results suggested that HS may stabilize the open conformation of the S protein to promote the subsequent binding of the S protein to the virus entry receptor ACE2. Overall, this work supports the potential importance of HS in SARSCoV-2 infection and in the development of antiviral agents.",
+    "keywords": [
+        "Heparan sulfate",
+        "Glycan array",
+        "Molecular docking",
+        "Sulfation",
+        "Sialic acid"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "91853120"
+                    ]
+                },
+                {
+                    "funding-source": "National Major Scientific and Technological Special Project of China",
+                    "award-id": [
+                        "2018ZX09711001-013"
+                    ]
+                },
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2018YFE0111400"
+                    ]
+                },
+                {
+                    "funding-source": "State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute"
+                },
+                {
+                    "funding-source": "Materia Medica,"
+                },
+                {
+                    "funding-source": "Chinese Academy of Medical Sciences and Peking Union Medical College CRPICGEB Research Grant",
+                    "award-id": [
+                        "CRP/CHN19-02"
+                    ]
+                }
+            ],
+            "funding-statement": "We would like to thank the National Natural Science Foundation of China (Grant number: 91853120), the National Major Scientific and Technological Special Project of China (Grant number: 2018ZX09711001-013), the National Key R&D Program of China (Grant number: 2018YFE0111400), the State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, and the Chinese Academy of Medical Sciences and Peking Union Medical College CRPICGEB Research Grant 2019 (Grant number: CRP/CHN19-02) for funding"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Elevated expression of ACE2 in tumor-adjacent normal tissues of cancer patients",
+    "author": "Department of Human Molecular Genetics and Biochemistry, School of Medicine, Tel Aviv University, Tel Aviv, Israel",
+    "date": 2020,
+    "affiliations": [
+        "Department of Human Molecular Genetics and Biochemistry, School of Medicine, Tel Aviv University, Tel Aviv, Israel"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.25.061200",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.25.061200.pdf"
+    },
+    "abstract": "The rapidly developing COVID-19 pandemic has raised a concern that cancer patients may have increased susceptibility to SARS-CoV-2 infection. This discussion has mostly focused on therapy-induced immune suppression. Here, we examined the expression patterns of ACE2, the receptor through which SARX-CoV2 enters human cells, and found that ACE2 mRNA levels are elevated in tumor-adjacent normal tissues of cancer patients, including in normal-adjacent lung tissues of lung cancer patients. These observations raise the possibility that the elevated COVID-19 risk of cancer patients may not be limited to those undergoing immune-suppressing treatment.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research in the Ben-David"
+                },
+                {
+                    "funding-source": "Azrieli Foundation,"
+                },
+                {
+                    "funding-source": "Richard Eimert Research Fund on Solid Tumors,"
+                },
+                {
+                    "funding-source": "Tel-Aviv University Cancer Biology Research Center,"
+                },
+                {
+                    "funding-source": "Israel Cancer Association",
+                    "award-id": [
+                        "#20200111"
+                    ]
+                }
+            ],
+            "funding-statement": "Research in the Ben-David lab is supported by the Azrieli Foundation, the Richard Eimert Research Fund on Solid Tumors, the Tel-Aviv University Cancer Biology Research Center, and the Israel Cancer Association (grant #20200111)."
+        }
+    ]
+}

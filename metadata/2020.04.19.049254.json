@@ -1,0 +1,33 @@
+{
+    "abstract": "The COVID-19 pandemic, caused by the novel coronavirus SARS-CoV-2, creates an urgent need for identifying molecular mechanisms that mediate viral entry, propagation, and tissue pathology. Cell membrane bound angiotensin-converting enzyme 2 (ACE2) and associated proteases, transmembrane protease serine 2 (TMPRSS2) and Cathepsin L (CTSL), were previously identified as mediators of SARS-CoV2 cellular entry. Here, we assess the cell type-specific RNA expression of ACE2, TMPRSS2, and CTSL through an integrated analysis of 107 single-cell and single-nucleus RNA-Seq studies, including 22 lung and airways datasets (16 unpublished), and 85 datasets from other diverse organs. Joint expression of ACE2 and the accessory proteases identifies specific subsets of respiratory epithelial cells as putative targets of viral infection in the nasal passages, airways, and alveoli. Cells that co-express ACE2 and proteases are also identified in cells from other organs, some of which have been associated with COVID-19 transmission or pathology, including gut enterocytes, corneal epithelial cells, cardiomyocytes, heart pericytes, olfactory sustentacular cells, and renal epithelial cells. Performing the first meta-analyses of scRNA-seq studies, we analyzed 1,176,683 cells from 282 nasal, airway, and lung parenchyma samples from 164 donors spanning fetal, childhood, adult, and elderly age groups, associate increased levels of ACE2, TMPRSS2, and CTSL in specific cell types with increasing age, male gender, and smoking, all of which are epidemiologically linked to COVID-19 susceptibility and outcomes. Notably, there was a particularly low expression of ACE2 in the few young pediatric samples in the analysis. Further analysis reveals a gene expression program shared by ACE2+TMPRSS2+ cells in nasal, lung and gut tissues, including genes that may mediate viral entry, subtend key immune functions, and mediate epithelial-macrophage cross-talk. Amongst these are IL6, its receptor and co-receptor, IL1R, TNF response pathways, and complement genes. Cell type specificity in the lung and airways and smoking effects were conserved in mice. Our analyses suggest that differences in the cell type-specific expression of mediators of SARS-CoV-2 viral entry may be responsible for aspects of COVID-19 epidemiology and clinical course, and point to putative molecular pathways involved in disease susceptibility and pathogenesis.",
+    "affiliations": [
+        "Center for Epigenomics, University of California-San Diego School of Medicine, La Jolla, CA, 92093. Department of Cellular and Molecular Medicine, University of California-San Diego School of Medicine, La Jolla, CA, 92093",
+        "Center for Epigenomics, University of California-San Diego School of Medicine, La Jolla, CA, 92093. Department of Cellular and Molecular Medicine, University of California-San Diego School of Medicine, La Jolla, CA, 92093",
+        "Center for Epigenomics, University of California-San Diego School of Medicine, La Jolla, CA, 92093. Department of Cellular and Molecular Medicine, University of California-San Diego School of Medicine, La Jolla, CA, 92093",
+        "Pediatric Pulmonology and Pediatric Allergology, Beatrix Childrens Hospital, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands; GRIAC Research Institute, University of Groningen",
+        "PSCs and organoid for disease modelling and cell based therapy"
+    ],
+    "author": "Astrid Gillich; Ludvig Larsson; Kyungtae Lim; Jessica Tantivit; Arun C Habermann; Peng He; Taylor Adams; J. Samuel; Justin Buchanan; Liam Bolt; Katherine Vernon; Michael A. Leney-Greene; Kevin Bassler; Joshua Gould; Thomas M Conlon; Michal Slyper; Elo Madissoon; Michael S Cuoco; Xiuting Wang; Nathan R. Tucker; Ludvig Bergenstr\u00e5hle; Peiyong Jiang; Emelie Braun; Monika Litvi\u0148ukov\u00e1; Ahmad N Nabhan; Marie Deprez; Kyle J Travaglini; Alex Sountoulidis; Joshua Chiou; The Human Cell Atlas Lung Biological Network; Joseph Bergenstr\u00e5hle; Allon Zaneta Andrusivova; Peng Tan; Christoph Muus; Lisa Sikkema; Inbal Benhar; Austin J Gutierrez; Eeshit Dhaval Vaishnav; Lira Mamanova; Elizabeth Thu Duong; Maximilian Strunz; Charles-Hugo Marquette; Gokcen Eraslan; Wenjun Yan; Sergio Poli; Graham Heimberg; Sarah K. Nyquist; Kamil Slowikowski; Rahul Sinha; Jian Shu; Leif S Ludwig; Avinash Waghray; Dawei Sun; Christophe B\u00e9cavin; Evgeny Chichelnitskiy; Alexi Marie McAdams; Christopher Smilie; Malte D. Luecken; Adam L Haber; Minzhe Guo; Evgenij Fiskin; CanCan Qi; William Zhao; Julia Waldman; Xiaomeng Hou; Jonas Schupp; Carlos Talavera-L\u00f3pez; Ian Mbano; Kasidet Manakongtreecheep; Rachel Queen; Linh T Bui; Theodoros Kapellos; Meshal Ansari; Carly G. K. Ziegler; Rene V Sit; David S Fischer; Ilias Angelidis; Marc H. Wadsworth; Hattie Chung; Sijia Chen; Ayshwarya Subramanian; Hananeh Aliee; Peiwen Cai; Henrike Maatz; Olivier B Poirion; Daniel Reichart; Ji Lu; Ivan Rosas; Brian Lin; Karthik Jagadeesh; Alok Jaiswal; Tyler Harvey; Daniel T Montoro; Elena Torlai Triglia; Lijuan Hu; The NHLBI LungMAP Consortium; Lolita Penland; Neal Smith; Orr Ashenberg; Ross J Metzger; Wendy Luo; Mark Chaffin; Yoshihiko Kobayashi; Christin S Kuo",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.049254",
+    "identifiers": {
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.19.049254"
+    },
+    "title": "Integrated analyses of single-cell atlases reveal age, gender, and smoking status associations with cell type-specific expression of mediators of SARS-CoV-2 viral entry and highlights inflammatory programs in putative target cells",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Biogen Idec, Boehringer"
+                },
+                {
+                    "funding-source": "Third Rock, Pliant"
+                },
+                {
+                    "funding-source": "Three Lake Partners, Optikira"
+                }
+            ],
+            "funding-statement": "N.K. was a consultant to Biogen Idec, Boehringer Ingelheim, Third Rock, Pliant, Samumed, NuMedii, Indaloo, Theravance, LifeMax, Three Lake Partners, Optikira and received non-financial support from MiRagen"
+        }
+    ]
+}

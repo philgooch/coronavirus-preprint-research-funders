@@ -1,0 +1,43 @@
+{
+    "abstract": "Aims: To validate the diagnostic accuracy of a Euroimmun SARS-CoV-2 IgG and IgA immunoassay for COVID-19 disease. Methods: In this unmatched (1:1) case-control validation study, we used sera of 181 laboratory-confirmed SARS-CoV-2 cases and 176 negative controls collected before the emergence of SARS-CoV-2. Diagnostic accuracy of the immunoassay was assessed against a whole spike protein-based recombinant immunofluorescence assay (rIFA) by receiver operating characteristic (ROC) analyses. Discrepant cases between ELISA and rIFA were further tested by pseudo-neutralization assay. Results: COVID-19 patients were more likely to be male and older than controls, and 50.3% of them were hospitalized. ROC curve analyses indicated that IgG and IgA had a high diagnostic accuracy with AUCs of 0.992 (95% Confidence Interval [95%CI]: 0.986-0.996) and 0.977 (95%CI: 0.963-0.990), respectively. IgG assays outperformed IgA assays (p=0.008). Considering optimized cut-offs taking the 15% inter-assay imprecision assessed into account, an IgG ratio cut-off > 1.5 displayed a 100% specificity (95%CI: 98-100) and a 100% positive predictive value (95%CI: 97-100). A 0.5 cut-off displayed a 97% sensitivity (95%CI: 93-99) and a 97% negative predictive value (95%CI: 93-99). Adopting these thresholds, rather than those of the manufacturer, improved assay performance, leaving 12% of IgG ratios ranging between 0.5-1.5 as indeterminate. Conclusions: The Euroimmun assay displays a nearly optimal diagnostic accuracy using IgG against SARS-CoV-2 in a samples of patients, without any obvious gains from considering IgA serology. The optimized cut-offs are fit for rule-in and rule-out purposes, allowing determination of whether individuals have been exposed to SARS-CoV-2 or not in our study population. They should however not be considered as a surrogate of protection at this stage.",
+    "affiliations": [
+        "Center for Emerging Viral Diseases, a grant from the Private Foundation of the Geneva University Hospitals, the Pictet Charitable Foundation, the Ancrage Foundation and by research funds from the Center of Vaccinology. The manufacturer of the ELISA assays (Euroimmun AG, L\u00fcbeck, Germany) had no implications in the study"
+    ],
+    "author": "Adrien Calame; Benjamin Meyer; Gert Zimmer; Lena Mazza; Isabella Eckerle; Lionel Fontao; Nicolas Vuilleumier; Laurent Kaiser; Isabelle Arm-Vernez; Silvia Stringhini; Idris Guessous; Thomas Agoritsas; Jerome Pugin; Jerome Stirnemann; Giulia Torriani; Sabine Yerly; Pascale Roux-Lombard; Claire-Anne Siegrist; Herve Spechbach",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20080879",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20080879"
+    },
+    "title": "Validation of a commercially available SARS-CoV-2 serological Immunoassay",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Nicolas Vuilleumier"
+                }
+            ],
+            "funding-statement": "Nicolas Vuilleumier received restricted research grants from Roche"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Center for Emerging Viral Diseases,"
+                },
+                {
+                    "funding-source": "Private Foundation of the Geneva University Hospitals,"
+                },
+                {
+                    "funding-source": "Pictet Charitable Foundation,"
+                },
+                {
+                    "funding-source": "Ancrage Foundation and"
+                },
+                {
+                    "funding-source": "Center of Vaccinology"
+                }
+            ],
+            "funding-statement": "This work was entirely supported by the Center for Emerging Viral Diseases, a grant from the Private Foundation of the Geneva University Hospitals, the Pictet Charitable Foundation, the Ancrage Foundation and by research funds from the Center of Vaccinology"
+        }
+    ]
+}

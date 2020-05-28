@@ -1,0 +1,26 @@
+{
+    "abstract": "Introduction. The population and spatial characteristics of COVID-19 infections are poorly understood, but there is increasing evidence that in addition to individual clinical factors, demographic, socioeconomic and racial characteristics play an important role. Methods. We analyzed positive COVID-19 testing results counts within New York City ZIP Code Tabulation Areas (ZCTA) with Bayesian hierarchical Poisson spatial models using integrated nested Laplace approximations. Results. Spatial clustering accounted for approximately 32% of the variation in the data, with hot spots in all five boroughs. Spatial risk did not correspond precisely to population-based rates of positive tests. The strongest univariate association with positive testing rates was the proportion of residents in a ZIP Code Tabulation Area with Chronic Obstructive Pulmonary Disease (COPD). For every one unit increase in a scaled standardized measure of COPD in a community, there was an approximate 8-fold increase in the risk of a positive COVID-19 test in a ZCTA (Incidence Density Ratio = 8.2, 95% Credible Interval 3.7, 18.3). The next strongest association was with the proportion of Black and African American residents, for which there was a nearly five-fold increase in the risk of a positive COVID-19 test. (IDR = 4.8, 95% Cr I 2.4, 9.7). Increases in the proportion of residents older than 65, housing density and the proportion of residents with heart disease were each associated with an approximate doubling of risk. In a multivariable model including estimates for age, COPD, heart disease, housing density and Black/African American race, the only variables that remained associated with positive COVID-19 testing with a probability greater than chance were the proportion of Black/African American residents and proportion of older persons. Conclusions. The population and spatial patterns of COVID-19 infections differ by race, age, physical environment and health status. Areas with large proportions of Black/African American residents are at markedly higher risk that is not fully explained by characteristics of the environment and pre-existing conditions in the population.",
+    "affiliations": [
+        "Department of Surgery. New York University School of Medicine"
+    ],
+    "author": "Spiros Frangos; Charles DiMaggio; Michael Klein; Cherisse Berry",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20101691",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20101691"
+    },
+    "title": "Blacks/African Americans are 5 Times More Likely to Develop COVID-19: Spatial Modeling of New York City ZIP Code-level Testing Results",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Surgery. New"
+                },
+                {
+                    "funding-source": "York University School of Medicine"
+                }
+            ],
+            "funding-statement": "Department of Surgery. New York University School of Medicine"
+        }
+    ]
+}

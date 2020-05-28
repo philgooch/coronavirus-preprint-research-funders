@@ -1,0 +1,16 @@
+{
+    "abstract": "Background and Objectives: While the number of detected COVID-19 infec- tions are widely available, an understanding of the extent of undetected COVID- 19 cases is urgently needed for an effective tackling of the pandemic and as a guide to lifting the lockdown. The aim of this work is to estimate and predict the true number of COVID-19 (detected and undetected) infections in India for short to medium forecast horizons. In particular, using publicly available COVID-19 infection data up to 28th April 2020, we forecast the true number of infections in India till the end of lockdown (3rd May) and five days beyond (8th May). Methods: The high death rate observed in most COVID-19 hit countries is suspected to be a function of the undetected infections existing in the population. An estimate of the age weighted infection fatality rate (IFR) of the disease of 0.41%, specifically calculated by taking into account the age structure of Indian population, is already available in the literature. In addition, the recorded case fatality rate (CFR= 1%) of Kerala, the first state in India to successfully flatten the curve by consistently reporting single digit new infections from 12-20 April, is used as a second estimate of the IFR. These estimates are used to formulate a relationship between deaths recorded and the true number of infections and recoveries. The estimated undetected and detected cases time series based on these two IFR estimates are then used to fit a discrete time multivariate infection model to predict the total infections at the end of the formal lockdown period. Results: Over three consecutive fortnight periods during the lockdown, it was noted that the rise in detected infections has decreased by 8.2 times. For an IFR of 0.41%, the rise in undetected infections decreased 2.5 times, while for the higher IFR value of 1%, undetected cases decreased by 2.4 times. The predicted number of total infections in India on 3rd May for both IFRs varied from 2.8 - 6.8 lakhs. Interpretation and Conclusions: The behaviour of the undetected cases over time effectively illustrates the effects of lockdown and increased testing. From our estimates, it is found that the lockdown has brought down the undetected to detected cases ratio, and has consequently dampened the increase in the number of total cases. However, even though the rate of rise in total infections has fallen, the lifting of the lockdown should be done keeping in mind that 2.3 to 6.4 lakhs undetected cases will already exist in the population by 3rd May.",
+    "author": "Debraj Chakraborty; Siuli Mukhopadhyay",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072892",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072892"
+    },
+    "title": "Estimation of Undetected Covid-19 Infections in India",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding"
+        }
+    ]
+}

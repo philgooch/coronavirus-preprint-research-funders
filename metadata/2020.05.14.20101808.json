@@ -1,0 +1,49 @@
+{
+    "abstract": "Existing compartmental mathematical modelling methods for epidemics, such as SEIR models, cannot accurately represent effects of contact tracing. This makes them inappropriate for evaluating testing and contact tracing strategies to contain an outbreak. An alternative used in practice is the application of agent- or individual-based models (ABM). However ABMs are complex, less well-understood and much more computationally expensive. This paper presents a new method for accurately including the effects of Testing, contact-Tracing and Isolation (TTI) strategies in standard compartmental models. We derive our method using a careful probabilistic argument to show how contact tracing at the individual level is reflected in aggregate on the population level. We show that the resultant SEIR-TTI model accurately approximates the behaviour of a mechanistic agent-based model at far less computational cost. The computationally efficiency is such that it be easily and cheaply used for exploratory modelling to quantify the required levels of testing and tracing, alone and with other interventions, to assist adaptive planning for managing disease outbreaks.",
+    "affiliations": [
+        "National Institute for Health Research (NIHR) Applied Health Research and Care North Thames at Bart\u0092s Health NHS Trust (NIHR ARC North Thames). The funders had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The views expressed in this article are those of the authors and not necessarily those of the NHS, the NIHR, or the Department of Health and Social Care"
+    ],
+    "author": "Tim Colbourn; Simone Sturniolo; Jasmina Panovska-Griffiths; David Manheim; William Waites",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20101808",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20101808"
+    },
+    "title": "Testing, tracing and isolation in compartmental models",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chief Scientist Office Scotland",
+                    "award-id": [
+                        "COV/EDI/20/12"
+                    ]
+                }
+            ],
+            "funding-statement": "WW was supported by the Chief Scientist Office Scotland (COV/EDI/20/12)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Applied Health Research and Care North Thames"
+                },
+                {
+                    "funding-source": "Health NHS Trust",
+                    "award-id": [
+                        "NIHR ARC North Thames"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR ARC North Thames)"
+                }
+            ],
+            "funding-statement": "JPG was supported by the National Institute for Health Research (NIHR) Applied Health Research and Care North Thames at Bart\u0092s Health NHS Trust (NIHR ARC North Thames)"
+        }
+    ]
+}

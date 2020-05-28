@@ -1,0 +1,16 @@
+{
+    "abstract": "The world has now paid a lot of attention to the outbreak of novel coronavirus (COVID-19). This virus mainly transmitted between humans through directly respiratory droplets and close contacts. However, there is currently some evidence where it has been claimed that it may be indirectly transmitted. In this work, we study the mode of transmission of COVID-19 epidemic system based on the susceptible-infected-recovered (SIR) model. We have calculated the basic reproduction number R0 by next-generation matrix method. We observed that if R0<1, then disease-free equilibrium point is locally as well as globally asymptotically stable but when $R0>1, the endemic equilibrium point exists and is globally stable. Finally, some numerical simulation is presented to validate our results.",
+    "author": "Chandan Maji",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20104315",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20104315"
+    },
+    "title": "Modes of transmission of COVID-19 outbreak- a mathematical study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding available."
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "title": "SARS-CoV-2 is transmitted via contact and via the air between ferrets",
+    "date": 2020,
+    "affiliations": [
+        "Department of Viroscience, Erasmus University Medical Center, Rotterdam, the Netherlands. 8",
+        "Erasmus Laboratory Animal Science Center, Erasmus University Medical Center, Rotterdam, the",
+        "Corresponding author:"
+    ],
+    "journal": "Med",
+    "volume": "382",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.16.044503",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.16.044503.pdf"
+    },
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union's Horizon",
+                    "award-id": [
+                        "731014"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "HHSN27220"
+                    ]
+                },
+                {
+                    "funding-source": "NIAID",
+                    "award-id": [
+                        "HHSN272201400008C"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by European Union's Horizon 2020 research and innovation program VetBioNet (grant agreement No 731014) and NIH/NIAID (contract number HHSN272201400008C)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NWO VIDI",
+                    "award-id": [
+                        "91715372"
+                    ]
+                }
+            ],
+            "funding-statement": "S.H. was funded in part by an NWO VIDI grant (contract number  91715372). Author Contributions"
+        }
+    ]
+}

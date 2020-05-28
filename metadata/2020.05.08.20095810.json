@@ -1,0 +1,16 @@
+{
+    "abstract": "Under the pandemic of COVID-19, people experiencing COVID19-related symptoms or exposed to risk factors have a pressing need to consult doctors. Due to hospital closure, a lot of consulting services have been moved online. Because of the shortage of medical professionals, many people cannot receive online consultations timely. To address this problem, we aim to develop a medical dialogue system that can provide COVID19-related consultations. We collected two dialogue datasets - CovidDialog - (in English and Chinese respectively) containing conversations between doctors and patients about COVID-19. On these two datasets, we train several dialogue generation models based on Transformer, GPT, and BERT-GPT. Since the two COVID-19 dialogue datasets are small in size, which bear high risk of overfitting, we leverage transfer learning to mitigate data deficiency. Specifically, we take the pretrained models of Transformer, GPT, and BERT-GPT on dialog datasets and other large-scale texts, then finetune them on our CovidDialog datasets. Experiments demonstrate that these approaches are promising in generating meaningful medical dialogue about COVID-19. But more advanced approaches are needed to build a fully useful dialogue system that can offer accurate COVID-related consultations. The data and code are available at https://github.com/UCSD-AI4H/COVID-Dialogue",
+    "author": "Zhou Yu; Bowen Tan; Qingyang Wu; Eric Xing; Xuehai He; Subrato Chakravorty; Guangtao Zeng; Pengtao Xie; Xingyi Yang; Zeqian Ju; Shu Chen; Wenmian Yang",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095810",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095810"
+    },
+    "title": "On the Generation of Medical Dialogues for COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No"
+        }
+    ]
+}

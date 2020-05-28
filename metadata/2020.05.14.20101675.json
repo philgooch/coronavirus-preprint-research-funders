@@ -1,0 +1,32 @@
+{
+    "abstract": "Targeted contact-tracing through mobile phone apps has been proposed as an instrument to help contain the spread of COVID-19 and manage the lifting of nation-wide lockdowns currently in place in USA and Europe. However, there is an ongoing debate on its potential efficacy, especially in the light of region-specific demographics. We built an expanded SIR model of COVID-19 epidemics that accounts for region-specific population densities, and we used it to test the impact of a contact-tracing app in a number of scenarios. Using demographic and mobility data from Italy and Spain, we used the model to simulate scenarios that vary in baseline contact rates, population densities and fraction of app users in the population. Our results show that, in support of efficient isolation of symptomatic cases, app-mediated contact-tracing can improve containment and achieve successful epidemic mitigation even with relatively small fraction of the population using it, and, with increasing penetrance of its adoption, suppression. However, when regional differences in population density are taken into consideration, the epidemic can be significantly harder to contain in higher density areas, highlighting potential limitations of this intervention in specific contexts. This work corroborates previous results in favor of app-mediated contact-tracing as mitigation measure for COVID-19, and draw attention on the importance of region-specific demographic and mobility factors to achieve maximum efficacy in containment policies.",
+    "author": "Alberto Ferrari; Nikolaos Mavridis; Enrico Santus; Alfonso Valencia; Nicola Marino; Antonella Santuccione Chadha; Miguel Ponce-de-Leon; Davide Cirillo; Maria Teresa Ferretti",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20101675",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20101675"
+    },
+    "title": "Reproducing SARS-CoV-2 epidemics by region-specific variables and modeling contact tracing App containment",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Commission's Horizon",
+                    "award-id": [
+                        "H2020-ICT-12-2018-2020"
+                    ]
+                },
+                {
+                    "funding-source": "INFORE"
+                },
+                {
+                    "funding-source": "Interactive Extreme-Scale Analytics and",
+                    "award-id": [
+                        "ref. 825070"
+                    ]
+                }
+            ],
+            "funding-statement": "This material is based upon work supported by the European Commission's Horizon 2020 Program, H2020-ICT-12-2018-2020, \u0093INFORE - Interactive Extreme-Scale Analytics and Forecasting\u0094 (ref. 825070)"
+        }
+    ]
+}

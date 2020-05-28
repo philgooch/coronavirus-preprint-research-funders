@@ -1,0 +1,24 @@
+{
+    "abstract": "An automated statistical and error analysis of 45 countries or regions with more than 1000 cases of COVID-19 as of March 28, 2020, has been performed. This study reveals differences in the rate of disease spreading rate over time in different countries. This survey observes that most countries undergo a beginning exponential growth phase, which transitions into a power-law phase, as recently suggested by Ziff and Ziff. Tracking indicators of growth, such as the power-law exponent, are a good indication of the relative danger different countries are in and show when social measures are effective towards slowing the spread. The data compiled here are usefully synthesizing a global picture, identifying country to country variation in spreading, and identifying countries most at risk. This analysis may factor into how best to track the effectiveness of social distancing policies and quarantines in real-time as data is updated each day.",
+    "author": "Jack Merrin",
+    "date": 2020,
+    "doi": "10.1101/2020.03.31.20048827",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.31.20048827"
+    },
+    "title": "Differences in power-law growth over time and indicators of COVID-19 pandemic progression worldwide",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "IST Austria"
+                }
+            ],
+            "funding-statement": "This research is funded by normal work at IST Austria"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "No external funding from a third party was used for this work"
+        }
+    ]
+}

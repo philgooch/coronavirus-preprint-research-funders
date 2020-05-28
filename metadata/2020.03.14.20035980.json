@@ -1,0 +1,24 @@
+{
+    "abstract": "European healthcare systems face extreme pressure from COVID-19. We estimate such pressure by relating both country-specific accumulated COVID-19 deaths (intensity-approach) and active COVID-19 cases (magnitude-approach) to measures of healthcare system capacity: hospital beds, healthcare workers and healthcare expenditure. On March 25, 2020 - relative to Italy on March 11- we found Spain, The Netherlands and France to experience the highest pressure using the intensity-approach with a composite measure for healthcare capacity. For updates see www.covid-hcpressure.org",
+    "author": "Philippe Beutels; Frederik Verelst; Elise J. Kuylen",
+    "date": 2020,
+    "doi": "10.1101/2020.03.14.20035980",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.14.20035980"
+    },
+    "title": "Indications for healthcare surge capacity in European countries facing an exponential increase in COVID19 cases",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Epipose project",
+                    "award-id": [
+                        "PHE-CORONAVIRUS-2020",
+                        "101003688"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is funded by the Epipose project from the European Union\u0092s SC1- PHE-CORONAVIRUS-2020 programme, project number 101003688"
+        }
+    ]
+}

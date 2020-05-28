@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Prognostic factors of coronavirus disease 2019 (COVID-19) patients among European population are lacking. Our objective was to identify early prognostic factors upon admission to optimize the management of COVID-19 patients hospitalized in a medical ward. Methods: French single-center prospective cohort study of 152 patients with positive Severe acute respiratory syndrome coronavirus 2 (SARS-Cov2) real-time reverse transcriptase-polymerase chain reaction (RT-PCR) assay, hospitalized in a medical ward. Multivariable models and a simplified scoring system assessed predictive factors of intensive care unit (ICU) transfer or death at day 14 (D14), of being discharge alive and severe status at D14 (remaining with ventilation, or death). A validation was performed on an external sample of 132 patients. Findings: At D14, the probability of ICU transfer or death was 32% (95% CI 25-40). Older age (OR 2.61, 95% CI 0.96-7.10), poorer respiratory presentation (OR 4.04 per 1-point increment on World Health Organization (WHO) clinical scale, 95% CI 1.76-9.25), higher CRP-level (OR 1.63 per 100mg/L increment, 95% CI 0.98-2.71) and lower lymphocytes count (OR 0.36 per 1000/mm3 increment, 95% CI 0.13-0.99) were associated with an increased risk of ICU requirement or death. A 8-point ordinal scale scoring system defined low (score 0-2), moderate (score 3-5), and high (score 6-8) risk patients, with predicted respectively 2%, 25% and 81% risk of ICU transfer or death at D14. Interpretation: In this prospective cohort study of laboratory confirmed COVID-19 patients hospitalized in a medical ward in France, 32% were transferred to ICU or died. A simplified scoring system at admission predicted the outcome at D14.\nCompeting Interest Statement",
+    "author": "Helene Gros; Jacques Boddaert; Lucie Biard; Georgina Maalouf; Patrice Cacoub; Matthieu Resche-Rigon; Alexandra Hellio; Olivier Benveniste; Matheus Vieira; Yves Allenbach; David Saadoun; Joe Elie Salem",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090118",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090118"
+    },
+    "title": "Multivariable prediction model of intensive care unit transfer and death: a French prospective cohort study of COVID-19 patients.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

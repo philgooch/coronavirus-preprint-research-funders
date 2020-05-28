@@ -1,0 +1,16 @@
+{
+    "abstract": "Background COVID-19 is transmitting worldwide drastically and infected nearly two and half million of people so far. Till date 2144 cases of COVID-19 is confirmed in Bangladesh till 18th April though the stage-3/4 transmission is not validated yet. Methods To project the final infection numbers in Bangladesh we used the SIR mathematical model. Confirmed cases of infection data were obtained from Institute of Epidemiology, Disease Control and Research (IEDCR) of Bangladesh Results The confirmed cases in Bangladesh follow our SIR model prediction cases. By the end of April the predicted cases of infection will be 17450 to 21616 depending on the control strategies. Due to large population and socio-economic characteristics, we assumed 60% social distancing and lockdown can be possible. Assuming that, the predicated final size of infections will be 3782558 on the 92th day from the first infections and steadily decrease to zero infection after 193 days Conclusion To estimate the impact of social distancing we assumed eight different scenarios, the predicted results confirmed the positive impact of this type of control strategies suggesting that by strict social distancing and lockdown, COVID-19 infection can be under control and then the infection cases will steadily decrease down to zero.",
+    "author": "Asif Ahmed; Md. Anwar Hossain; Mohammad Mahmudur Rahman; Khondoker Moazzem Hossain; Tasnima Haque",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071415",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071415"
+    },
+    "title": "Impact of control strategies on COVID-19 pandemic and the SIR model based forecasting in Bangladesh.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This study has not yet received any funds from any institute, organizations or government"
+        }
+    ]
+}

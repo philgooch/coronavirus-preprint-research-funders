@@ -1,0 +1,62 @@
+{
+    "title": "Neutralizing antibody and soluble ACE2 inhibition of a replication-competent VSV-SARS-CoV-2 and a clinical isolate of SARS-CoV-2",
+    "author": "Sean P. J. Whelan PhD",
+    "date": 2020,
+    "affiliations": [
+        "Department of Medicine1, Molecular Microbiology2, Pathology & Immunology3, Biochemistry &",
+        "Molecular Biophysics4 and The Andrew M. and Jane M. Bursky Center for Human Immunology &",
+        "Immunotherapy Programs5, Washington University School of Medicine, St. Louis, MO, USA. 13",
+        "Program in Virology, Harvard Medical School, Boston, MA, USA",
+        "The Donnelly Centre",
+        "University of Toronto, Toronto, Canada",
+        "Vir Biotechnology, San Francisco, CA, USA",
+        "BioMed SA, a subsidiary of Vir Biotechnology, Inc., CH-6500, Bellinzona, Switzerland",
+        "Division 16 of Clinical Microbiology, Department of Laboratory Medicine and Pathology, Mayo Clinic",
+        "Rochester, MN, USA 18 19",
+        "Equal contributors 20",
+        "Corresponding authors: Sean P.J. Whelan Ph.D"
+    ],
+    "journal": "MERS",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.18.102038",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.18.102038.pdf"
+    },
+    "abstract": "Antibody-based interventions against SARS-CoV-2 could limit morbidity, mortality, and possibly disrupt epidemic transmission. An anticipated correlate of such countermeasures is the level of neutralizing antibodies against the SARS-CoV-2 spike protein, yet there is no consensus as to which assay should be used for such measurements. Using an infectious molecular clone of vesicular stomatitis virus (VSV) that expresses eGFP as a marker of infection, we replaced the glycoprotein gene (G) with the spike protein of SARS-CoV-2 (VSV-eGFP-SARS-CoV-2) and developed a high-throughput imaging-based neutralization assay at biosafety level 2. We also developed a focus reduction neutralization test with a clinical isolate of SARS-CoV-2 at biosafety level 3. We compared the neutralizing activities of monoclonal and polyclonal antibody preparations, as well as ACE2-Fc soluble decoy protein in both assays and find an exceptionally high degree of concordance. The two assays will help define correlates of protection for antibodybased countermeasures including therapeutic antibodies, immune \u03b3-globulin or plasma preparations, and vaccines against SARS-CoV-2. Replication-competent VSV-eGFP-SARS-",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "75N93019C00062",
+                        "HHSN272201700060C",
+                        "R01 AI127828",
+                        "R37 AI059371",
+                        "U01 AI151810"
+                    ]
+                },
+                {
+                    "funding-source": "Defense Advanced Research Project Agency",
+                    "award-id": [
+                        "HR001117S0019"
+                    ]
+                },
+                {
+                    "funding-source": "Washington University in Saint Louis"
+                }
+            ],
+            "funding-statement": "This study was supported by NIH contracts and grants (75N93019C00062, HHSN272201700060C and R01 AI127828, R37 AI059371 and U01 AI151810) and the Defense Advanced Research Project Agency (HR001117S0019) and gifts from Washington University in Saint Louis"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Helen Hay Whitney Foundation"
+                }
+            ],
+            "funding-statement": "J.B.C. is supported by a Helen Hay Whitney Foundation postdoctoral fellowship"
+        }
+    ]
+}

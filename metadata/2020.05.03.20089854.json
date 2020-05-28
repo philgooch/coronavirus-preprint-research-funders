@@ -1,0 +1,16 @@
+{
+    "abstract": "Introduction: An important unknown during the COVID-19 pandemic has been the infection-fatality rate (IFR). This differs from the case-fatality rate (CFR) as an estimate of the number of deaths as a proportion of the total number of cases, including those who are mild and asymptomatic. While the CFR is extremely valuable for experts, IFR is increasingly being called for by policy-makers and the lay public as an estimate of the overall mortality from COVID-19. Methods: Pubmed and Medrxiv were searched using a set of terms and Boolean operators on 25/04/2020. Articles were screened for inclusion by both authors. Meta-analysis was performed in Stata 15.1 using the metan command, based on IFR and confidence intervals extracted from each study. Google/Google Scholar was used to assess the grey literature relating to government reports. Results: After exclusions, there were 13 estimates of IFR included in the final meta-analysis, from a wide range of countries, published between February and April 2020. The meta-analysis demonstrated a point-estimate of IFR of 0.75% (0.49-1.01%) with significant heterogeneity (p<0.001). Conclusion: Based on a systematic review and meta-analysis of published evidence on COVID-19 until the end of April, 2020, the IFR of the disease across populations is 0.75% (0.49-1.01%). However, due to very high heterogeneity in the meta-analysis, it is difficult to know if this represents the \"true\" point estimate. It is likely that different places will experience different IFRs. More research looking at age-stratified IFR is urgently needed to inform policy-making on this front.",
+    "author": "Lea Merone; Gideon Meyerowitz-Katz",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089854",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089854"
+    },
+    "title": "A systematic review and meta-analysis of published research data on COVID-19 infection-fatality rates",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for this article"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "This communication describes a recursive mathematical model of the spreading COVID-19 infection, which allows estimating the effectiveness of quarantine measures. This model takes into account the contagiousness of infected people during the incubation period of the disease and the conditionally non-contagiousness of sick people due to their isolation. The model was used to analyze the situation in eight countries and to find the viral transmissibility, which made it possible to give a brief prediction of the COVID-19 spreading.\nCompeting Interest Statement",
+    "author": "Sergey O Ilyin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076562",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076562"
+    },
+    "title": "COVID-19 spreading: a recursive model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This study has no external funding."
+        }
+    ]
+}

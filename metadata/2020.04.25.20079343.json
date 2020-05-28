@@ -1,0 +1,32 @@
+{
+    "abstract": "The SARS-CoV-2 pandemic has changed the lifestyle of citizens of the world. In order for decision makers to manage the viral spread of COVID-19 both in the intra-national and the international frontiers, it is essential to operate based on data-driven assessments. It's crucial to do so rapidly and frequently, since the nature of the viral spread grows exponentially and can burst worldwide again. A fast and accurate health status of individuals globally during a pandemic can save many lives and bring life back to a new normal. Herein, we present a data-driven tool to allow decision-makers to assess the spread of the virus among the world population. Our framework allows health agencies to maximize the throughput of COVID-19 tests among the world population by finding the best test pooling that fits the current SIR-D status of the nation.",
+    "affiliations": [
+        "University of Houston, and the Center for Theoretical Biological Physics (CTBP) at Rice University. We also want to express our gratitude for the computation resources from Google, Heroku, and Netlify"
+    ],
+    "author": "Mark Danovich; Yossi Eliaz; Gregory P Gasic",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20079343",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20079343"
+    },
+    "title": "Poolkeh Finds the Optimal Pooling Strategy for a Population-wide COVID-19 Testing (Israel, UK, and US as Test Cases)",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF"
+                },
+                {
+                    "funding-source": "University of Houston,"
+                },
+                {
+                    "funding-source": "Center for Theoretical Biological Physics"
+                },
+                {
+                    "funding-source": "Rice University"
+                }
+            ],
+            "funding-statement": "We would like to thank the national institute of science (NSF) for the funding resources, the University of Houston, and the Center for Theoretical Biological Physics (CTBP) at Rice University"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "abstract": "Background Serological tests are crucial tools for assessments of SARS-CoV-2 exposure, infection and potential immunity. Their appropriate use and interpretation require accurate assay performance data. Method We conducted an evaluation of 10 lateral flow assays (LFAs) and two ELISAs to detect anti-SARS-CoV-2 antibodies. The specimen set comprised 128 plasma or serum samples from 79 symptomatic SARS-CoV-2 RT-PCR-positive individuals; 108 pre-COVID-19 negative controls; and 52 recent samples from individuals who underwent respiratory viral testing but were not diagnosed with Coronavirus Disease 2019 (COVID-19). Samples were blinded and LFA results were interpreted by two independent readers, using a standardized intensity scoring system. Results Among specimens from SARS-CoV-2 RT-PCR-positive individuals, the percent seropositive increased with time interval, peaking at 81.8-100.0% in samples taken >20 days after symptom onset. Test specificity ranged from 84.3-100.0% in pre-COVID-19 specimens. Specificity was higher when weak LFA bands were considered negative, but this decreased sensitivity. IgM detection was more variable than IgG, and detection was highest when IgM and IgG results were combined. Agreement between ELISAs and LFAs ranged from 75.7-94.8%. No consistent cross-reactivity was observed. Conclusion Our evaluation showed heterogeneous assay performance. Reader training is key to reliable LFA performance, and can be tailored for survey goals. Informed use of serology will require evaluations covering the full spectrum of SARS-CoV-2 infections, from asymptomatic and mild infection to severe disease, and later convalescence. Well-designed studies to elucidate the mechanisms and serological correlates of protective immunity will be crucial to guide rational clinical and public health policies.",
+    "affiliations": [
+        "Career Award for Medical Scientists from the Burroughs Wellcome Fund, is an investigator at the Chan-Zuckerberg Biohub and is a recipient of The Cancer Research Institute (CRI) Lloyd J. Old STAR grant"
+    ],
+    "author": "Ian C. Boothby; Aashish Manglik; Jennifer A. Smith; Gregory M. Goldgof; David N. Nguyen; Andrew G. Levine; Kanishka Koshal; Richelle C. Charles; Alexander Marson; Patrick D. Hsu; Cody T. Mowery; Michael R. Wilson; Jochen K. Lennerz; Stacy Li; Nevan J. Krogan; Ana M. Lyons; Ryan Apathy; Than S. Kyaw; Joanna Balcerek; Edward T. Ryan; Charles Y Chiu; Mary E. Moreno; Caroline Whitty; Diane Yang; Sophia Bylsma; Ruby Yu; Erin Isaza; Jinwoo Lee; Dianna L. Ng; Allison Wai-yi Wong; Ujjwal Rathore; Bradley E. Bernstein; Trisha A. Macrae; Perri C. Callaway; Joel D. Ernst; Rita Loudermilk; Vanessa A. York; Dante D Acenas; A. John Iafrate; Tyler E. Miller; Mark S. Anderson; Caryn Bern; David Wu; Kelsey C. Zorn; Jason G. Cyster; Jeffrey A. Gelfand; Chun Jimmie Ye; Haig A. Eskandarian; Zachary B. Steinhart; Kara L. Lynch; Mitchell J. Lipke; Eva Mae Gillis-Buck; Jackie Chan; Sagar P. Bapat; Lakshmi Warrier; Joseph Hiatt; Lila Farrington; Susan L. Stramer; Alan H.B. Wu; Justine Levan; Tori N. Yamamoto; Wilfredo F. Garcia-Beltran; Antonia E. Gallman; Brian R. Shy; Youjin Lee; Tina Zheng; Leonel Torres; Steve Miller; Jonathan M Woo; Jeffrey D. Whitman; Michael G. Astudillo; Wei Gu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20074856",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20074856"
+    },
+    "title": "Test performance evaluation of SARS-CoV-2 serological assays",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Anthem Blue Cross Blue Shield,"
+                },
+                {
+                    "funding-source": "Chan Zuckerberg Biohub,"
+                }
+            ],
+            "funding-statement": "This work was supported by gifts from Anthem Blue Cross Blue Shield, the Chan Zuckerberg Biohub, and anonymous philanthropy"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UCSF-Abbott Viral Diagnostics and Discovery Center,"
+                },
+                {
+                    "funding-source": "Abbott Laboratories and"
+                },
+                {
+                    "funding-source": "Scientific Advisory Board of Mammoth Biosciences, Inc"
+                }
+            ],
+            "funding-statement": "C.Y.C. is the director of the UCSF-Abbott Viral Diagnostics and Discovery Center, receives research support funding from Abbott Laboratories and is on the Scientific Advisory Board of Mammoth Biosciences, Inc"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Juno Therapeutics, Epinomics"
+                }
+            ],
+            "funding-statement": "Unrelated to this current work, the Marson lab has received sponsored research support from Juno Therapeutics, Epinomics and Sanofi, and a gift from Gilead"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Anthem Blue Cross Blue Shield,"
+                },
+                {
+                    "funding-source": "Chan Zuckerberg Biohub,"
+                }
+            ],
+            "funding-statement": "The work was supported by gifts from Anthem Blue Cross Blue Shield, the Chan Zuckerberg Biohub, and anonymous philanthropy"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Wilson Lab"
+                },
+                {
+                    "funding-source": "Rachleff Family Foundation"
+                }
+            ],
+            "funding-statement": "The Wilson Lab has received support from the Rachleff Family Foundation"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Hsu"
+                }
+            ],
+            "funding-statement": "The Hsu lab has received support from S"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "AP Giannini Postdoctoral Fellowship"
+                }
+            ],
+            "funding-statement": "R.Y. was supported by an AP Giannini Postdoctoral Fellowship"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "J.A.S. was supported by the Larry L"
+        }
+    ]
+}

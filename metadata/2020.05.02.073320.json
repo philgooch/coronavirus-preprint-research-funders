@@ -1,0 +1,46 @@
+{
+    "title": "Identification of Drugs Blocking SARS-CoV-2 Infection using Human Pluripotent Stem Cell-derived Colonic Organoids",
+    "author": "The Pritzker School of Molecular Engineering, the Ben May Department for Cancer Research, the University of Chicago, IL. USA. 7 State Key Laboratory of Oncogenes and Related Genes, Center for Single-Cell Omics, School of Public Health, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China. 8Division of Gastroenterology and Hepatology, Department of Medicine, Weill Cornell Medicine, 1300 York Ave, New York, NY, 10065, USA. 9Department of Physiology, Biophysics and Systems Biology, Weill Cornell Medicine, 1300 York Ave, New York, NY, 10065, USA. # These authors contributed equally: Xiaohua Duan, Yuling Han, Liuliu Yang, Benjamin Nilsson-Payant, Pengfei Wang",
+    "date": 2020,
+    "affiliations": [
+        "Department of Surgery, Weill Cornell Medicine, 1300 York Ave, New York, NY, 10065, USA",
+        "School of Life Science and Technology, ShanghaiTech University, 201210 Shanghai, China",
+        "Department of Microbiology, Icahn School of Medicine at Mount Sinai. 1468 Madison Ave. New York, NY, 10029, USA",
+        "Aaron Diamond AIDS Research Center, Columbia University Irving Medical Center, New York, NY 10032, USA",
+        "Genomic Resource Core Facility, Weill Cornell Medicine, New York, NY 10065, USA",
+        "The Pritzker School of Molecular Engineering, the Ben May Department for Cancer Research, the University of Chicago, IL. USA",
+        "State Key Laboratory of Oncogenes and Related Genes, Center for Single-Cell Omics, School of Public Health, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China",
+        "Division of Gastroenterology and Hepatology, Department of Medicine, Weill Cornell Medicine, 1300 York Ave, New York, NY, 10065, USA",
+        "Department of Physiology, Biophysics and Systems Biology, Weill Cornell Medicine, 1300 York Ave, New York, NY, 10065, USA. # These authors contributed equally: Xiaohua Duan, Yuling Han, Liuliu Yang, Benjamin Nilsson-Payant, Pengfei Wang"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.02.073320",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.02.073320.pdf"
+    },
+    "abstract": "Paragraph The current COVID-19 pandemic is caused by SARS-coronavirus 2 (SARS-CoV-2). There are currently no therapeutic options for mitigating this disease due to lack of a vaccine and limited knowledge of SARS-CoV-2 biology. As a result, there is an urgent need to create new disease models to study SARS-CoV-2 biology and to screen for therapeutics using human disease-relevant tissues. COVID-19 patients typically present with respiratory symptoms including cough, dyspnea, and respiratory distress, but nearly 25% of patients have gastrointestinal indications including anorexia, diarrhea, vomiting, and abdominal pain. Moreover, these symptoms are associated with worse COVID-19 outcomes1. Here, we report using human pluripotent stem cell-derived colonic organoids (hPSC-COs) to explore the permissiveness of colonic cell types to SARS-CoV-2 infection. Single cell RNA-seq and immunostaining showed that the putative viral entry receptor ACE2 is expressed in multiple hESC-derived colonic cell types, but highly enriched in enterocytes. Multiple cell types in the COs can be infected by a SARS-CoV-2 pseudo-entry virus, which was further validated in vivo using a humanized mouse model. We used hPSC-derived COs in a high throughput platform to screen 1280 FDA-approved drugs against viral infection. Mycophenolic acid and quinacrine dihydrochloride were found to block the infection of SARS-CoV-2 pseudoentry virus in COs both in vitro and in vivo, and confirmed to block infection of SARSCoV-2 virus. This study established both in vitro and in vivo organoid models to investigate infection of SARS-CoV-2 disease-relevant human colonic cell types and identified drugs that blocks SARS-CoV-2 infection, suitable for rapid clinical testing.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Surgery, Weill"
+                },
+                {
+                    "funding-source": "Cornell Medicine"
+                },
+                {
+                    "funding-source": "Defense Advanced Research Projects Agency",
+                    "award-id": [
+                        "DARPA-16-35-INTERCEPT-FP-006"
+                    ]
+                },
+                {
+                    "funding-source": "Jack Ma Foundation"
+                }
+            ],
+            "funding-statement": "This work was supported by the Department of Surgery, Weill Cornell Medicine (T.E., F.P, S.C.), by the Defense Advanced Research Projects Agency (DARPA) through a contract with B.T. (DARPA-16-35-INTERCEPT-FP-006) and by the Jack Ma Foundation to D.D.H"
+        }
+    ]
+}

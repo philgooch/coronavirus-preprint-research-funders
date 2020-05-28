@@ -1,0 +1,16 @@
+{
+    "abstract": "In late 2019, a new Coronavirus disease, referred to as Corona virus disease 2019 (COVID-19), emerged in Wuhan city, Hubei, China, and resulted in a global pandemic---claiming a large number of lives and affecting billions all around the world. The current global standard used in diagnosis of COVID-19 in suspected cases is the real-time polymerase chain reaction (RT-PCR) test. Although the RT-PCR remains the standard reference for diagnosis purposes, it is a time-consuming and expensive test, and moreover, it usually suffers from high rates of false-negatives. Several early works have reported that the sensitivity of the chest Computed Tomography (CT) and the chest X-ray imaging are noticeably greater than that of the RT-PCR test at the initial representations of the disease, making them great candidates for developing new and sophisticated methodologies for analysis and classification of COVID-19 cases. In this paper, we establish the use of a rapid, non-invasive and cost-effective X-ray-based method as a key diagnosis and screening tool for COVID-19 at early and intermediate stages of the disease. To this end, we develop a novel and sophisticated deep learning-based signal and image processing technique as well as classification methodology for analyzing X-ray images specific to COVID-19 disease. Specifically, we consider a semi-supervised learning methodology based on AutoEncoders to first extract the infected legions in chest X-ray manifestation of COVID-19 and other Pneumonia-like diseases (as well as healthy cases). Then, we utilize this highly-tailored deep architecture to extract the relevant features specific to each class (i.e., healthy, non-COVID pneumonia, and COVID-19) and train a powerful yet efficient classifier to perform the task of automatic diagnosis. Furthermore, the semi-supervised nature of the proposed framework enables us to efficiently exploit the limited available dataset on COVID-19 while exploiting the vast amount of available X-ray dataset for healthy and non-COVID classes. Moreover, such a semi-supervised approach does not require an expert-annotated lesion area for each class. Our numerical investigations demonstrate that the proposed framework outperforms the state-of-the-art methods for COVID-19 identification while employing approximately ten times fewer training parameters as compared to other existing methodologies for classification of the COVID-19 from X-ray images (facilitating efficient training in a limited data regime). We further develop explainable artificial intelligence tools that can explain the diagnosis by using attribution maps while providing an indispensable tool for the radiologist in triage state. We have made the codes of our proposed framework publicly available to the research and healthcare community.",
+    "author": "Chirag Agarwal; Mojtaba Soltanalian; Shahin Khobahi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065722",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065722"
+    },
+    "title": "CoroNet: A Deep Network Architecture for Semi-Supervised Task-Based Identification of COVID-19 from Chest X-ray Images",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this work."
+        }
+    ]
+}

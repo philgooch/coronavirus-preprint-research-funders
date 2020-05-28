@@ -1,0 +1,40 @@
+{
+    "abstract": "Although COVID-19 has been spreading throughout Belgium since February, 2020, its spatial dynamics in Belgium remain poorly understood, due to the limited testing of suspected cases. We analyse data of COVID-19 symptoms, as self-reported in a weekly online survey, which is open to all Belgian citizens. We predict symptoms' incidence using binomial models for spatially discrete data, and we introduce these as a covariate in the spatial analysis of COVID-19 incidence, as reported by the Belgian government during the days following a survey round. The symptoms' incidence predictions explain a significant proportion of the variation in the relative risks based on the confirmed cases, and exceedance probability maps of the symptoms' incidence and the confirmed cases' relative risks pinpoint the same high-risk region. We conclude that these results can be used to develop public monitoring tools in scenarios with limited lab testing capacity, and to supplement test-based information otherwise.",
+    "author": "Jan Aerts; Thomas Neyens; Philippe Beutels; Pierre Van Damme; Maren Vranckx; Geert Molenberghs; Koen Pepermans; Christel Faes; Niel Hens",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20105627",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20105627"
+    },
+    "title": "A spatial model to optimise predictions of COVID-19 incidence risk in Belgium using symptoms as reported in a large-scale online survey",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Flemish Government",
+                    "award-id": [
+                        "AI Research Program"
+                    ]
+                },
+                {
+                    "funding-source": "AI Research Program)"
+                }
+            ],
+            "funding-statement": "This research received funding from the Flemish Government (AI Research Program)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Authors NH and PB"
+                },
+                {
+                    "funding-source": "European Union's Horizon",
+                    "award-id": [
+                        "101003688"
+                    ]
+                }
+            ],
+            "funding-statement": "Authors NH and PB acknowledge funding from the European Union's Horizon 2020 research and innovation programme - project EpiPose (No 101003688)"
+        }
+    ]
+}

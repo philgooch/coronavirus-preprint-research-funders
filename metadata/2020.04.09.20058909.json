@@ -1,0 +1,56 @@
+{
+    "abstract": "The number of pertinent researches of COVID-19 has increased rapidly but they mainly focused on the description of general information of patients with confirmed infection. We aimed to bridge the gap between disease classification and clinical outcome in intensive care patients, data of which are scarce and such classification could help in individual evaluation and provide effective triage for treatment and management. Specifically, we collected and filtered out 151 intensive care patients with complete medical records from Tongji hospital in Wuhan, China. We constructed a fully Bayesian latent variable model for integrative clustering of six data categories, including demographic information, symptoms, original comorbidities, vital signs, blood routine tests and inflammatory marker measurements. We identified four prognostic types of COVID-19 in intensive care patients, presenting a stepwise distribution in age, respiratory condition and inflammatory markers, suggesting the prognostic efficacy of these indicators. This report, to our knowledge, is the first attempt of dealing with classification of COVID-19 in intensive care patients. We acknowledge the limitation of ignoring the effect of treatment, but we believe such classification is enlightening for better triage, allowing for a more rational allocation of scarce medical resources in a resource constrained environment.",
+    "affiliations": [
+        "National Key R&D Program of China (2019YFC1711000), the National Natural Science Foundation of China (81973145), the \"Double First-Class\" University Project (CPU2018GY09), the China Postdoctoral Science Foundation (2019M651805), the Science Foundation of Jiangsu Commission of Health (H2018117), and the Emergency Project for the Prevention and Control of the Novel Coronavirus Outbreak in Suzhou (SYS2020012)"
+    ],
+    "author": "Jun Wang; Yang Wang; Xiaofan Lu; Taige Chen; Yongsheng Li; Fangrong Yan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20058909",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20058909"
+    },
+    "title": "Classification of COVID-19 in intensive care patients: towards rational and effective clinical triage",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2019YFC1711000"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81973145"
+                    ]
+                },
+                {
+                    "funding-source": "Double First-Class\" University",
+                    "award-id": [
+                        "CPU2018GY09"
+                    ]
+                },
+                {
+                    "funding-source": "China Postdoctoral Science Foundation",
+                    "award-id": [
+                        "2019M651805"
+                    ]
+                },
+                {
+                    "funding-source": "Science Foundation of Jiangsu Commission of Health",
+                    "award-id": [
+                        "H2018117"
+                    ]
+                },
+                {
+                    "funding-source": "Emergency Project for the Prevention and Control of the Novel Coronavirus Outbreak in Suzhou",
+                    "award-id": [
+                        "SYS2020012"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Key R&D Program of China (2019YFC1711000), the National Natural Science Foundation of China (81973145), the \"Double First-Class\" University Project (CPU2018GY09), the China Postdoctoral Science Foundation (2019M651805), the Science Foundation of Jiangsu Commission of Health (H2018117), and the Emergency Project for the Prevention and Control of the Novel Coronavirus Outbreak in Suzhou (SYS2020012)"
+        }
+    ]
+}

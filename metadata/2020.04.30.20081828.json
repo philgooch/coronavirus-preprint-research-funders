@@ -1,0 +1,16 @@
+{
+    "abstract": "We use a model of covid-19 spread, an SEIR agent-based model on a graph, which takes into account several important real-life attributes of covid-19: Super-spreaders, realistic epidemiological parameters of the disease, testing and quarantine policies. We provide simulation results and mathematical arguments to argue that certain results of our simulations hold in more general settings. We find that mass-testing is much less effective than testing the symptomatic and contact tracing, and some blend of these with social distancing is required to get suppression. We also find that the fat tail of the degree distribution matters a lot for epidemic growth, and many standard models do not account for this. Additionally, the average reproduction number for individuals is not an upper bound for the effective reproduction number, R. Even with an expectation of less than one new case per person, this model shows that exponential spread is possible. The parameter which closely predicts growth rate is the ratio between 2nd to 1st moments of the degree distribution.",
+    "author": "Guy Shalev; Tom Kalvari; Ofir Reich",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20081828",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20081828"
+    },
+    "title": "Modeling COVID-19 on a network: super-spreaders, testing and containment",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received to support this work."
+        }
+    ]
+}

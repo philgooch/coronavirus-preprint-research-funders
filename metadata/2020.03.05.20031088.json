@@ -1,0 +1,29 @@
+{
+    "abstract": "Background: Voluntary individual quarantine and voluntary active monitoring of contacts are core disease control strategies for emerging infectious diseases, such as COVID-19. Given the impact of quarantine on resources and individual liberty, it is vital to assess under what conditions individual quarantine can more effectively control COVID-19 than active monitoring. As an epidemic grows, it is also important to consider when these interventions are no longer feasible, and broader mitigation measures must be implemented. Methods: To estimate the comparative efficacy of these case-based interventions to control COVID-19, we fit a stochastic branching model to reported parameters for the dynamics of the disease. Specifically, we fit to the incubation period distribution and each of two sets of the serial interval distribution: a shorter one with a mean serial interval of 4.8 days and a longer one with a mean of 7.5 days. To assess variable resource settings, we consider two feasibility settings: a high feasibility setting with 90% of contacts traced, a half-day average delay in tracing and symptom recognition, and 90% effective isolation; and low feasibility setting with 50% of contacts traced, a two-day average delay, and 50% effective isolation. Findings: Our results suggest that individual quarantine in high feasibility settings where at least three-quarters of infected contacts are individually quarantined contains an outbreak of COVID-19 with a short serial interval (4.8 days) 84% of the time. However, in settings where this performance is unrealistically high and the outbreak continues to grow, so too will the burden of the number of contacts traced for active monitoring or quarantine. When resources are prioritized for scalable interventions such as social distancing, we show active monitoring or individual quarantine of high-risk contacts can contribute synergistically to mitigation efforts. Interpretation: Our model highlights the urgent need for more data on the serial interval and the extent of presymptomatic transmission in order to make data-driven policy decisions regarding the cost-benefit comparisons of individual quarantine vs. active monitoring of contacts. To the extent these interventions can be implemented they can help mitigate the spread of COVID-19.\nCompeting Interest Statement",
+    "affiliations": [
+        "US National Institute Of General Medical Sciences. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institute Of General Medical Sciences, the National Institutes of Health, or other contributing agencies"
+    ],
+    "author": "Corey M Peak; Yonatan H Grad; Caroline O Buckee; Ruoran Li; Lauren M Childs; Marc Lipsitch; Rebecca Kahn",
+    "date": 2020,
+    "doi": "10.1101/2020.03.05.20031088",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.05.20031088"
+    },
+    "title": "Comparative Impact of Individual Quarantine vs. Active Monitoring of Contacts for the Mitigation of COVID-19: a modelling study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Award Number",
+                    "award-id": [
+                        "U54GM088558"
+                    ]
+                },
+                {
+                    "funding-source": "US National Institute Of General Medical Sciences"
+                }
+            ],
+            "funding-statement": "This work was supported in part by Award Number U54GM088558 from the US National Institute Of General Medical Sciences"
+        }
+    ]
+}

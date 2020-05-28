@@ -1,0 +1,57 @@
+{
+    "title": "Complete genome characterisation of a novel coronavirus associated with severe human respiratory disease in Wuhan, China",
+    "date": 2020,
+    "author": "Fan Wu, Su Zhao, Bin Yu, Yan-Mei Chen, Wen Wang, Yi Hu, Zhi-Gang Song, 8 Zhao-Wu Tao, Jun-Hua Tian, Yuan-Yuan Pei, Ming-Li Yuan, Yu-Ling Zhang, Fa-Hui 9 Dai, Yi Liu, Qi-Min Wang, Jiao-Jiao Zheng, Lin Xu, Edward C. Holmes, Yong-Zhen 10 Zhang",
+    "affiliations": [
+        "Public Health Clinical Center & School of Public Health, Fudan University",
+        "Shanghai, China. 14",
+        "Department of Pulmonary and Critical Care Medicine, The Central Hospital of Wuhan",
+        "Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430014",
+        "Wuhan Center for Disease Control and Prevention, Wuhan, Hubei, China 18",
+        "Marie Bashir Institute for Infectious Diseases and Biosecurity, School of Life and",
+        "Environmental Sciences and School of Medical Sciences, The University of Sydney, Sydney, 20 Australia",
+        "Hospital of Wuhan from December 14 through December 28, 2019. The median age of the"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.01.24.919183",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.01.24.919183.pdf"
+    },
+    "abstract": "Emerging and re-emerging infectious diseases, such as SARS, MERS, Zika and highly pathogenic influenza present a major threat to public health1-3. Despite intense research effort, how, when and where novel diseases appear are still the source of considerable uncertainly. A severe respiratory disease was recently reported in the city of Wuhan, Hubei province, China. At the time of writing, at least 62 suspected cases have been reported since the first patient was hospitalized on December 12nd 2019. Epidemiological investigation by the local Center for Disease Control and Prevention (CDC) suggested that the outbreak was associated with a sea food market in Wuhan. We studied seven patients who were workers at the market, and collected bronchoalveolar lavage fluid (BALF) from one patient who exhibited a severe respiratory syndrome including fever, dizziness and cough, and who was admitted to Wuhan Central Hospital on December 26th 2019. Next generation metagenomic RNA sequencing4 identified a novel RNA virus from the family Coronaviridae designed WH-Human-1 coronavirus (WHCV). Phylogenetic analysis of the complete viral genome (29,903 nucleotides) revealed that WHCV was most closely related (89.1% nucleotide similarity similarity) to a group of Severe Acute Respiratory Syndrome (SARS)-like coronaviruses (genus Betacoronavirus, subgenus Sarbecovirus) previously sampled from bats in China and that have a history of genomic recombination. This outbreak highlights the ongoing capacity of viral spill43 over from animals to cause severe disease in humans.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Special National Project on",
+                    "award-id": [
+                        "SQ2019FY010009"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81861138003",
+                        "31930001"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by the Special National Project on investigation of basic resources of China (Grant SQ2019FY010009) and the National Natural Science Foundation of China (Grants 81861138003 and 31930001)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "ARC Australian Laureate Fellowship",
+                    "award-id": [
+                        "FL170100022"
+                    ]
+                },
+                {
+                    "funding-source": "Author Contributions Y.-Z."
+                }
+            ],
+            "funding-statement": "ECH is supported by an ARC Australian Laureate Fellowship (FL170100022). Author Contributions Y.-Z.Z. conceived and designed the study"
+        }
+    ]
+}

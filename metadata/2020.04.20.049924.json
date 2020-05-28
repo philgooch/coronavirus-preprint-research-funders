@@ -1,0 +1,44 @@
+{
+    "title": "SARS-coronavirus-2 replication in Vero E6 cells: replication kinetics, rapid adaptation and cytopathology",
+    "author": "Natacha S. Ogando, Tim J. Dalebout, Jessika C. Zevenhoven-Dobbe, Ronald W",
+    "date": 2020,
+    "affiliations": [
+        "Molecular Virology Laboratory, Department of Medical Microbiology, Leiden University",
+        "Medical Center, Leiden, the Netherlands 12",
+        "Section Electron Microscopy, Department of Cell and Chemical Biology, Leiden University",
+        "Medical Center, Leiden, the Netherlands 14",
+        "Virus Identification Laboratory, Victorian Infectious Diseases Reference Laboratory, Doherty",
+        "Institute, Melbourne, Australia 16",
+        "Clinical Microbiology Laboratory, Department of Medical Microbiology, Leiden University",
+        "Medical Center, Leiden, the Netherlands"
+    ],
+    "journal": "SARS",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.20.049924",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.20.049924.pdf"
+    },
+    "abstract": "36 37 The sudden emergence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) at the end of 2019 from the Chinese province of Hubei and its subsequent pandemic spread highlight the importance of understanding the full molecular details of coronavirus infection and pathogenesis. Here, we compared a variety of replication features of SARS-CoV-2 and SARS-CoV and analysed the cytopathology caused by the two closely related viruses in the commonly used Vero E6 cell line. Compared to SARS-CoV, SARS-CoV-2 generated higher levels of intracellular viral RNA, but strikingly about 50-fold less infectious viral progeny was recovered from the culture medium. Immunofluorescence microscopy of SARS-CoV-245 infected cells established extensive cross-reactivity of antisera previously raised against a variety of nonstructural proteins, membrane and nucleocapsid protein of SARS-CoV. Electron microscopy revealed that the ultrastructural changes induced by the two SARS viruses are very similar and occur within comparable time frames after infection. Furthermore, we determined that the sensitivity of the two viruses to three established inhibitors of coronavirus replication (Remdesivir, Alisporivir and chloroquine) is very similar, but that SARS-CoV-2 infection was substantially more sensitive to pre-treatment of cells with pegylated interferon alpha. An important difference between the two viruses is the fact that - upon passaging in Vero E6 cells - SARS-CoV-2 apparently is under strong selection pressure to acquire adaptive mutations in its spike protein gene. These mutations change or delete a putative \u2018furin-like cleavage site\u2019 in the region connecting the S1 and S2 domains and result in a very prominent phenotypic change in plaque assays.",
+    "keywords": [
+        "plaque phenotype",
+        "evolution",
+        "RNA synthesis",
+        "antisera",
+        "furin cleavage site",
+        "26 antiviral drugs"
+    ],
+    "hyperbole": [
+        "our results also established some remarkable differences between the two viruses that warrant further investigation. One of them is the rapid evolution - during virus passaging in Vero cells - of a specific region of the SARS-CoV-2 S protein that contains the so-called \u2018furin-like cleavage site\u2019.",
+        "began to exhibit remarkable phenotypic variation in plaque assays within a few passages after its isolation from clinical samples (Fig. 1a). In addition to the BetaCoV/Australia/VIC01/2020 isolate used in this study, similar observations were made for a variety of other clinical isolates (data not shown). To establish the genetic basis for the observed plaque size heterogeneity, small and large plaques were picked and the resulting virus clones were passaged repeatedly and analysed using NGS. The consensus sequences obtained for S5p1 and L8p1, which differed by a single nucleotide substitution in the S protein gene, clearly established that a single S protein mutation (Arg682 to Gln) was responsible for the observed plaque size difference. This mutation is localized near the so-called \u2018furin-like\u2019 S1/S2 cleavage site (Fig. 1b) (61) in the S",
+        "This may be due to a high expression level additional remarkable feature confirmed by our re-sequencing of the was not certified by peer review) is the author/funder. It is made available under a CC-BY 4.0 International license.",
+        "showed remarkable plaque heterogeneity on Vero E6 cells (leftmost well). Following a plaque assay of the p1 virus stock, small and large plaques were picked and these virus clones were passaged three times in Vero E6 cells, while their plaque phenotype was monitored. In contrast to the large plaque viruses (example L8; bottom row), the plaque phenotype of the small plaque viruses (example S5; top row) rapidly evolved within these 3 passages. (b) Evolution/adaptation of the S protein gene during Vero E6 passaging. Overview of NGS data obtained for the p2 stock, S5p1/p2/p3 and S8p1 in the S1/S2 region of the SARS-"
+    ],
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Funding information None."
+        }
+    ]
+}

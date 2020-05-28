@@ -1,0 +1,67 @@
+{
+    "title": "Tocilizumab treatment in severe COVID-19 patients attenuates the 2 inflammatory storm incited by monocyte centric immune interactions 3 revealed by single-cell analysis",
+    "author": "5 Chuang Guo, Bin Li, Huan Ma, Xiaofang Wang, Pengfei Cai, Qiaoni Yu, Lin 6 Zhu, Liying Jin, Chen Jiang, Jingwen Fang, Qian Liu, Dandan Zong, Wen Zhang, 7 Yichen Lu, Kun Li, Xuyuan Gao, Binqing Fu, Lianxin Liu, Xiaoling Ma, 8 Jianping Weng, Haiming Wei, Tengchuan Jin, Jun Lin, Kun Qu,\u2020 9 10 1Department of oncology, The First Affiliated Hospital of USTC, Division of 11 Molecular Medicine, Hefei National Laboratory for Physical Sciences at Microscale, 12 Division of Life Sciences and Medicine, University of Science and Technology of 13 China, Hefei, Anhui, 230021, China. 14 2Department of Hepatobiliary Surgery, the First Affiliated Hospital of USTC, Division 15 of Life Sciences and Medicine, University of Science and Technology of China, Hefei, 16 Anhui, 230021, China. 17 3HanGene Biotech, Xiaoshan Innovation Polis, Hangzhou, Zhejiang, China 18 4CAS Center for Excellence in Molecular Cell Sciences, the CAS Key Laboratory of 19 Innate Immunity and Chronic Disease, University of Science and Technology of China, 20 Hefei, Anhui, 230027, China. 21 5Department of Laboratory Medicine, The First Affiliated Hospital of USTC, Division 22 of Life Sciences and Medicine, University of Science and Technology of China, Hefei, 23 Anhui, 230001, China 24 6Department of Endocrinology and Metabolism, The First Affiliated Hospital of USTC, 25 Division of Life Sciences of Medicine, University of Science and Technology of China, 26 Hefei 230026, China. 27 7These authors contributed equally to this work. 28 \u2020Corresponding should be addressed to Kun Qu (qukun@ustc.edu.cn). 29 Jun Lin (linjun,@ustc.edu.cn); Tengchuan Jin (jint@ustc.edu.cn) 30",
+    "date": 2020,
+    "affiliations": [
+        "Department of oncology, The First Affiliated Hospital of USTC, Division of",
+        "Molecular Medicine, Hefei National Laboratory for Physical Sciences at Microscale",
+        "Division of Life Sciences and Medicine, University of Science and Technology of",
+        "China, Hefei, Anhui, 230021, China. 14",
+        "Department of Hepatobiliary Surgery, the First Affiliated Hospital of USTC, Division 15 of Life Sciences and Medicine, University of Science and Technology of China, Hefei",
+        "Anhui, 230021, China. 17",
+        "HanGene Biotech, Xiaoshan Innovation Polis, Hangzhou, Zhejiang, China 18",
+        "CAS Center for Excellence in Molecular Cell Sciences, the CAS Key Laboratory of",
+        "Innate Immunity and Chronic Disease, University of Science and Technology of China, 20 Hefei, Anhui, 230027, China. 21",
+        "Department of Laboratory Medicine, The First Affiliated Hospital of USTC, Division 22 of Life Sciences and Medicine, University of Science and Technology of China, Hefei, 23 Anhui, 230001, China 24",
+        "Department of Endocrinology and Metabolism, The First Affiliated Hospital of USTC, 25 Division of Life Sciences of Medicine, University of Science and Technology of China, 26 Hefei 230026, China. 27",
+        "These authors contributed equally to this work. 28",
+        "Corresponding should be addressed to Kun Qu",
+        "Hefei National Laboratory for Physical Sciences at 34 Microscale, Division of Life Sciences and Medicine, University of Science and 35 Technology of China, Hefei, Anhui, 230027, China. 36"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.08.029769",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.08.029769.pdf"
+    },
+    "abstract": "41 42 Coronavirus disease 2019 (COVID-19) has caused more than 40,000 deaths worldwide1. Approximately 14% of patients with COVID-19 experienced severe disease and 5% were critically ill2. Studies have shown that dysregulation of the COVID-19 patients\u2019 immune system may lead to inflammatory storm and cause severe illness and even death3,4. Tocilizumab treatment targeting interleukin 6 receptor has shown inspiring clinical results of severe COVID-19 patients5. However, the immune network with Tocilizumab treatment at single cell resolution has not been uncovered. Here, we profiled the single-cell transcriptomes of 13,289 peripheral blood mononuclear cells isolated at three longitudinal stages from two severe COVID-19 patients treated with Tocilizumab. We identified a severe stage-specific monocyte subpopulation and these cells centric immune cell interaction network connected by the inflammatory cytokines and their receptors. The over-activated inflammatory immune response was attenuated after Tocilizumab treatment, yet immune cells including plasma B cells and CD8+ T cells still exhibited an intense humoral and cell-mediated anti-virus immune response in recovered COVID-19 patients. These results provided critical insights into the immunopathogenesis of severe COVID-19 and revealed fundamentals of effectiveness in Tocilizumab treatment. 60 61 62 Keywords : Coronavirus disease 2019 (COVID-19); Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2); Tocilizumab; Single-cell RNA sequencing (scRNA-seq); Inflammatory storm; Monocyte",
+    "keywords": [
+        "Coronavirus disease 2019 (COVID-19)",
+        "Tocilizumab",
+        "Single-cell RNA sequencing 64 (scRNA-seq)",
+        "Inflammatory storm",
+        "Monocyte 65"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2017YFA0102900 to K.Q."
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81788101",
+                        "31970858",
+                        "31771428",
+                        "91940306",
+                        "91640113 to K.Q.",
+                        "31700796 to C.G.",
+                        "81871479 to J.L."
+                    ]
+                },
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities",
+                    "award-id": [
+                        "to K.Q."
+                    ]
+                }
+            ],
+            "funding-statement": "Funding: This work was supported by the National Key R&D Program of China (2017YFA0102900 to K.Q.), the National Natural Science Foundation of China grants (81788101, 31970858, 31771428, 91940306 and 91640113 to K.Q., 31700796 to C.G. and 81871479 to J.L.), the Fundamental Research Funds for the Central Universities (to K.Q.)"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "abstract": "BACKGROUND: Whole-genome sequencing of pathogens can improve resolution of outbreak clusters and define possible transmission networks. We applied high-throughput genome sequencing of SARS-CoV-2 to 75% of cases in the State of Victoria (population 6.24 million) in Australia. METHODS: Cases of SARS-CoV-2 infection were detected through active case finding and contact tracing. A dedicated SARS-CoV-2 multidisciplinary genomic response team was formed to enable rapid integration of epidemiological and genomic data. Phylodynamic analysis was performed to assess the putative impact of social restrictions. RESULTS: Between 25 January and 14 April 2020, 1,333 COVID-19 cases were reported in Victoria, with a peak in late March. After applying internal quality control parameters, 903 samples were included in genomic analyses. Sequenced samples from Australia were representative of the global diversity of SARS-CoV-2, consistent with epidemiological findings of multiple importations and limited onward transmission. In total, 76 distinct genomic clusters were identified; these included large clusters associated with social venues, healthcare facilities and cruise ships. Sequencing of sequential samples from 98 patients revealed minimal intra-patient SARS-CoV-2 genomic diversity. Phylodynamic modelling indicated a significant reduction in the effective viral reproductive number (Re) from 1.63 to 0.48 after the implementation of travel restrictions and population-level physical distancing. CONCLUSIONS: Our data provide a comprehensive framework for the use of SARS-CoV-2 genomics in public health responses. The application of genomics to rapidly identify SARS-CoV-2 transmission chains will become critically important as social restrictions ease globally. Public health responses to emergent cases must be swift, highly focused and effective.",
+    "affiliations": [
+        "Infectious Diseases Reference Laboratory (VIDRL) and the Microbiological Diagnostic Unit Public Health Laboratory (MDU PHL) at The Doherty Institute are funded by the Victorian Government. This work was supported by the National Health and Medical Research Council, Australia (NHMRC); Partnership Grant (APP1149991), Practitioner Fellowship to BPH (APP1105905), Investigator Grant to DAW (APP1174555), Research Fellowship to TPS (APP1105525)"
+    ],
+    "author": "Norelle Sherry; Tim Stinear; Deborah Williamson; Sally Dougall; Torsten Seemann; Julian Druce; Charles Alpren; Leon Caly; Mark B Schultz; Anders Goncalves da Silva; Kristy Horan; Michelle Sait; Marion Easton; Susan A Ballard; mike Catton; Brett Sutton; Tuyet Hoang; Sebastian Duchene; Annaliese van Diemen; Benjamin P Howden; Courtney Lane",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099929",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099929"
+    },
+    "title": "Tracking the COVID-19 pandemic in Australia using genomics",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Victorian Infectious Diseases Reference Laboratory"
+                },
+                {
+                    "funding-source": "Microbiological Diagnostic Unit Public Health Laboratory",
+                    "award-id": [
+                        "MDU PHL"
+                    ]
+                },
+                {
+                    "funding-source": "MDU PHL)"
+                },
+                {
+                    "funding-source": "The Doherty Institute"
+                },
+                {
+                    "funding-source": "Victorian Government"
+                }
+            ],
+            "funding-statement": "The Victorian Infectious Diseases Reference Laboratory (VIDRL) and the Microbiological Diagnostic Unit Public Health Laboratory (MDU PHL) at The Doherty Institute are funded by the Victorian Government"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Health and Medical Research Council, Australia",
+                    "award-id": [
+                        "APP1149991"
+                    ]
+                },
+                {
+                    "funding-source": "Partnership Grant",
+                    "award-id": [
+                        "APP1149991"
+                    ]
+                },
+                {
+                    "funding-source": "Practitioner Fellowship",
+                    "award-id": [
+                        "APP1105905"
+                    ]
+                },
+                {
+                    "funding-source": "Investigator Grant",
+                    "award-id": [
+                        "APP1174555"
+                    ]
+                },
+                {
+                    "funding-source": "Research Fellowship",
+                    "award-id": [
+                        "APP1105525"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Health and Medical Research Council, Australia (NHMRC); Partnership Grant (APP1149991), Practitioner Fellowship to BPH (APP1105905), Investigator Grant to DAW (APP1174555), Research Fellowship to TPS (APP1105525)"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Humanity is facing nowadays a dramatic pandemic episode with the Coronavirus propagation over all continents. The Covid-19 disease is still not well characterized, and many research teams all over the world are working on either ther- apeutic or vaccination issues. Massive testing is one of the main recommendations. In addition to laboratory tests, imagery- based tools are being widely investigated. Artificial intelligence is therefore contributing to the efforts made to face this pandemic phase. Regarding patients in hospitals, it is important to monitor the evolution of lung pathologies due to the virus. A prognosis is therefore of great interest for doctors to adapt their care strategy. In this paper, we propose a method for Covid-19 prognosis based on deep learning architectures. The proposed method is based on the combination of a convolutional and recurrent neural networks to classify multi-temporal chest X-ray images and predict the evolution of the observed lung pathology. When applied to radiological time-series, promising results are obtained with an accuracy rates higher than 92%.",
+    "author": "Mohamed Fakhfakh; Bassem Bouaziz; Faiez Gargouri; Lotfi Chaari",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20092874",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20092874"
+    },
+    "title": "ProgNet: Covid-19 prognosis using recurrent and convolutional neural networks",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

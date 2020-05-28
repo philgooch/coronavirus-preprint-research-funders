@@ -1,0 +1,16 @@
+{
+    "abstract": "The novel corona-virus (COVID-19) has led to a pandemic, affecting almost all countries and regions in a few weeks, and therefore a global plan is needed to overcome this battle. Iran has been among the first few countries that has been affected severely, after China, which forced the government to put some restriction and enforce social distancing in majority of the country. In less than 2 months, Iran has more than 80,000 confirmed cases, and more than 5,000 death. Based on the official statistics from Iran's government, the number of daily cases has started to go down recently, but many people believe if the lockdown is lifted without proper social distancing enforcement, there is a possibility for a second wave of COVID-19 cases. In this work, we analyze at the data for the number cases in Iran in the past few weeks, and train a predictive model to estimate the possible future trends for the number of cases in Iran, depending on the government policy in the coming weeks and months. Our analysis may help political leaders and health officials to take proper action toward handling COVID-19 in the coming months.",
+    "author": "Sunil Kumar Yadav; Shervin Minaee; Narges Saeedizadeh; Rahele Kafieh; Atefeh Vaezi; Shaghayegh Haghjooy Javanmard; Roya Arian; Nima Rezaei; zahra amini",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078477",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078477"
+    },
+    "title": "COVID-19 in Iran: A Deeper Look Into The Future",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

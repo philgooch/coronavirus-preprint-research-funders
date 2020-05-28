@@ -1,0 +1,41 @@
+{
+    "title": "Interaction of the spike protein RBD from SARS-CoV-2 with ACE2: similarity with SARS-CoV, hot-spot analysis and effect of the receptor polymorphism",
+    "date": 2020,
+    "author": "Houcemeddine Othman, Zied Bouslama, Jean-Tristan Brandenburg, Jorge da Rocha, Yosr Hamdi, Kais Ghedira, Najet Srairi-Abid, Scott Hazelhurst",
+    "affiliations": [
+        "Sydney Brenner Institute for Molecular Bioscience, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa",
+        "Laboratory of veterinary epidemiology and microbiology LR16IPT03. Institut Pasteur of Tunis. University of Tunis El Manar, Tunis, Tunisia",
+        "Laboratory of Biomedical Genomics and Oncogenetics, LR16IPT05, Pasteur Institute of Tunis, University of Tunis El Manar, Tunis, Tunisia",
+        "Laboratory of Bioinformatics, Biomathematics and Biostatistics LR16IPT09, Pasteur Institute of Tunis, University Tunis El Manar, Tunis, Tunisia",
+        "Universite de Tunis El Manar, Institut Pasteur de Tunis, LR11IPT08 Venins et Biomolecules Therapeutiques, 1002, Tunis, Tunisia",
+        "School of Electrical and Information Engineering, University of the Witwatersrand, Johannesburg, South Africa"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.04.976027",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.04.976027.pdf"
+    },
+    "abstract": "The spread of COVID-19 caused by the SARS-CoV-2 outbreak has been growing since its first identification in December 2019. The publishing of the first SARS-CoV-2 genome made a valuable source of data to study the details about its phylogeny, evolution, and interaction with the host. Protein-protein binding assays have confirmed that Angiotensin-converting enzyme 2 (ACE2) is more likely to be the cell receptor through which the virus invades the host cell. In the present work, we provide an insight into the interaction of the viral spike Receptor Binding Domain (RBD) from different coronavirus isolates with host ACE2 protein. By calculating the",
+    "keywords": [
+        "COVID-19",
+        "ACE2",
+        "viral spike Receptor Binding Domain",
+        "1 homology-based protein-protein docking",
+        "variants"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "South African National Research Foundation"
+                },
+                {
+                    "funding-source": "Tunisian Ministry of Higher Education and Scientific Research"
+                }
+            ],
+            "funding-statement": "This work was supported by the South African National Research Foundation (NRF) and the Tunisian Ministry of Higher Education and Scientific Research"
+        }
+    ]
+}

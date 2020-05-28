@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19, caused by SARS-CoV2 is a rapidly spreading global pandemic. Although precise transmission routes and dynamics are unknown, SARS-CoV2 is thought primarily to spread via contagious respiratory droplets. Unlike with SARS-CoV, maximal viral shedding occurs in the early phase of illness, and this is supported by models that suggest 40-80% of transmission events occur from pre- and asymptomatic individuals. One widely-discussed strategy to limit transmission of SARS-CoV2, particularly from presymptomatic individuals, has been population-level wearing of masks. Modelling for pandemic influenza suggests some benefit in reducing total numbers infected with even 50% mask-use. COVID-19 has a higher hospitalization and mortality rate than influenza, and the impacts on these parameters, and critically, at what point in the pandemic trajectory mask-use might exert maximal benefit are completely unknown. We derived a simplified SIR model to investigate the effects of near-universal mask-use on COVID-19 assuming 8 or 16% mask efficacy. We decided to model, in particular, the impact of masks on numbers of critically-ill patients and cumulative mortality, since these are parameters that are likely to have the most severe consequences in the COVID-19 pandemic. Whereas mask use had a relatively minor benefit on critical-care and mortality rates when transmissibility (Reff) was high, the reduction on deaths was dramatic as the effective R approached 1, as might be expected after aggressive social-distancing measures such as wide-spread lockdowns. One major concern with COVID-19 is its potential to overwhelm healthcare infrastructures, even in resource-rich settings, with one third of hospitalized patients requiring critical-care. We incorporated this into our model, increasing death rates for when critical-care resources have been exhausted. Our simple model shows that modest efficacy of masks could avert substantial mortality in this scenario. Importantly, the effects on mortality became hyper-sensitive to mask-wearing as the effective R approaches 1, i.e. near the tipping point of when the infection trajectory is expected to revert to exponential growth, as would be expected after effective lockdown. Our model suggests that mask-wearing might exert maximal benefit as nations plan their post-lockdown strategies and suggests that mask-wearing should be included in further more sophisticated models of the current pandemic.",
+    "author": "Nathalie Q Balaban; Babak Javid",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063529",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063529"
+    },
+    "title": "Impact of population mask wearing on Covid-19 post lockdown",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No specific funding"
+        }
+    ]
+}

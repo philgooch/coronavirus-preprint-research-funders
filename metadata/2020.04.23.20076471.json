@@ -1,0 +1,16 @@
+{
+    "abstract": "Chloroquine/hydroxychloroquine has recently been the subject of intense debate in regard to its potential antiviral activity against SARS-Cov-2, the etiological agent of COVID-19. Some report possible curative effects, others do not. In order to shed some light on this rather controversial topic, we used mathematical modelling to simulate possible scenarios of response to hydroxychloroquine in COVID-19 patients. Our computer-aided simulations show that hydroxychloroquine may have an impact on the amplitude of the viral load peak but that viral clearance is not significantly accelerated if the drug is not administered early enough (i.e. when viral loads range from 1 to 1,000 copies/mL). Although some authors had used the trough plasma concentrations or the theoretical drug distribution in the lung to model the effect of chloroquine/hydroxychloroquine on COVID-19, the theoretical drug response based on the trough whole blood concentrations of the drug agreed well with the results of the clinical trials so far reported. Moreover, the effects of chloroquine/hydroxychloroquine could be fully explained when taking into account also the capacity of this drug to raise cell-mediated responses against the productively SARS-Cov-2-infected cells. On the whole, the present study suggests that chloroquine/hydroxychloroquine has a narrow therapeutic window, which overlaps with the highest tolerated doses. These considerations may have implications for development of anti-COVID-19 combination therapies and prevention strategies.",
+    "author": "Andrea Savarino; Mohammad Tarek",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076471",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076471"
+    },
+    "title": "Pharmacokinetic bases of the hydroxychloroquine response in COVID-19: implications for therapy and prevention",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this study."
+        }
+    ]
+}

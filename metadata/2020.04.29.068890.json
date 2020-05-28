@@ -1,0 +1,95 @@
+{
+    "title": "Activity profiling and structures of inhibitor-bound SARS-CoV-2-PLpro protease provides a framework for anti-COVID-19 drug design",
+    "keywords": [
+        "papain like protease",
+        "COVID-19",
+        "coronavirus",
+        "cysteine protease",
+        "ubiquitin",
+        "ISG15"
+    ],
+    "author": "Marcin Drag",
+    "date": 2020,
+    "affiliations": [
+        "Department of Chemical Biology and Bioimaging, Wroclaw University of Science and Technology, Wyb. Wyspianskiego 27, 50-370 Wroclaw, Poland",
+        "Department of Biochemistry & Molecular Biology and Hollings Cancer Center, Medical University of South Carolina, Charleston, SC, 29425, USA",
+        "Department of Biochemistry & Molecular Pharmacology, New York University School of Medicine, New York, NY 10016, USA",
+        "Sanford Burnham Prebys Medical Discovery Institute, 10901 North Torrey Pines Road, La Jolla, CA 92037, USA",
+        "UbiQ Bio B.V., 1098 XH, Amsterdam, The Netherlands",
+        "Independent Consultant 7present address: Department of Biochemistry & Structural Biology University of Texas Health Science Center at San Antonio, San Antonio, TX, 78229 USA 8present address: Arvinas, Inc",
+        "Science Park, New Haven, CT, 06511, USA 9equal contribution Corresponding authors:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.29.068890",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.29.068890.pdf"
+    },
+    "abstract": "In December 2019, the first cases of a novel coronavirus infection causing COVID-19 were diagnosed in Wuhan, China. Viral Papain-Like cysteine protease (PLpro, NSP3) is essential for SARS-CoV-2 replication and represents a promising target for the development of antiviral drugs. Here, we used a combinatorial substrate library containing natural and a wide variety of nonproteinogenic amino acids and performed comprehensive activity profiling of SARS-CoV2-PLpro. On the scaffold of best hits from positional scanning we designed optimal fluorogenic substrates and irreversible inhibitors with a high degree of selectivity for SARS PLpro variants versus other proteases. We determined crystal structures of two of these inhibitors (VIR250 and VIR251) in complex with SARS-CoV-2-PLpro which reveals their inhibitory mechanisms and provides a structural basis for the observed substrate specificity profiles. Lastly, we demonstrate that SARS-CoV-2-PLpro harbors deISGylating activities similar to SARS-CoV-1PLpro but its ability to hydrolyze K48-linked Ub chains is diminished, which our sequence and structure analysis provides a basis for. Altogether this work has revealed the molecular rules governing PLpro substrate specificity and provides a framework for development of inhibitors with potential therapeutic value or drug repositioning. Keywords: papain like protease, COVID-19, coronavirus, cysteine protease, ubiquitin, ISG15, DUB",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Center",
+                    "award-id": [
+                        "2015/17/N/ST5/03072",
+                        "Preludium 9",
+                        "TEAM/2017-4/32"
+                    ]
+                },
+                {
+                    "funding-source": "Foundation for Polish Science,"
+                },
+                {
+                    "funding-source": "European Union"
+                },
+                {
+                    "funding-source": "European Regional Development Fund"
+                }
+            ],
+            "funding-statement": "This project was supported by the National Science Center grant 2015/17/N/ST5/03072 (Preludium 9) in Poland (W.R.) and the \u201cTEAM/2017-4/32\u201d project, which is carried out within the TEAM program of the Foundation for Polish Science, co-financed by the European Union under the European Regional Development Fund (M.D.)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Northeastern Collaborative Access Team"
+                },
+                {
+                    "funding-source": "National Institute of General Medical Sciences from the National Institutes of Health",
+                    "award-id": [
+                        "P30 GM124165"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is based upon research conducted at the Northeastern Collaborative Access Team beamlines, which are funded by the National Institute of General Medical Sciences from the National Institutes of Health (P30 GM124165)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Xray"
+                },
+                {
+                    "funding-source": "Office of the Vice President for Research"
+                },
+                {
+                    "funding-source": "Medical University of South Carolina"
+                }
+            ],
+            "funding-statement": "The Xray crystallography facility used for this work is supported by the Office of the Vice President for Research at the Medical University of South Carolina"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "GM115568",
+                        "ES025166",
+                        "GM099040"
+                    ]
+                }
+            ],
+            "funding-statement": "Research reported in this publication was supported by the NIH R01 GM115568 (S.K.O.), ES025166 (T.T.H.), and GM099040 (S.J.S.)"
+        }
+    ]
+}

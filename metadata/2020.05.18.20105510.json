@@ -1,0 +1,23 @@
+{
+    "abstract": "Background One major challenge for detecting the virus that causes COVID19 is commercial SARSCoV2 testing kit or reagent availability. To allow every laboratory or hospital access to an inhouse assay, we developed two low cost SARSCoV2 detection assay protocols using inhouse primers and reagents equipment on hand in most biology or diagnostic laboratories a SYBR Green based RTPCR and PCR assays. RNA extraction has also become a major bottleneck due to limited supplies and the required labor. Thus, we validated alternative RNA extraction protocols. Methods SARSCoV2 genome sequences deposited into the GISAID database were retrieved to design and synthesize inhouse primers. Forty patient samples were collected by nasopharyngeal swab, coded, and used to develop and validate the assay protocols. Both assays used TRIzol and heat-processing techniques to extract RNA from patient samples and to inactivate the virus; thus, testing was conducted in a conventional biosafety level 2 laboratory. Results The sensitivity and specificity of the primers were evaluated using samples previously confirmed positive for SARSCoV2. The positive amplicons were sequenced to confirm the results. The assay protocols were developed, and the specificity of each PCR product was confirmed using melting curve analyses. The most accurate heat processing technique for primers with short amplicon lengths was 95C for 15 mins. Of 40 samples, both the SYBR Green based quantitative RTPCR assay and the PCR assay detected SARSCoV2 target genes in 28 samples, with no false positive or false-negative results. These findings were concordant with those of the diagnostic laboratory that tested the same samples using a Rotor Gene PCR cycler with an Altona Diagnostics SARSCoV2 kit (R2=0.889). Conclusions These approaches are reliable, repeatable, specific, sensitive, simple, and low cost tools for the detection of SARSCoV2 in a conventional biosafety level 2 laboratory, offering alternative approaches when commercial kits are unavailable or cost ineffective.",
+    "affiliations": [
+        "King Faisal Specialist Hospital and Research Centre COVID19 grant fund"
+    ],
+    "author": "Maysoon Mutabagani; Ahmed Alqahtani; Marie Bohol; Fatimah Alhamlan; Reem Almaghrabi; Dalia Obeid; Sahar Althawadi; Dana Bakheet",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20105510",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20105510"
+    },
+    "title": "Development and Validation of Two In-house, Low-Cost SARS-CoV-2 Detection Assays",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "King Faisal Specialist Hospital and Research Centre"
+                }
+            ],
+            "funding-statement": "This research was supported by the King Faisal Specialist Hospital and Research Centre COVID19 grant fund"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "We design a procedure (the complete Python code may be obtained at: https://github.com/abhishta91/antibody_montecarlo) using Monte Carlo (MC) simulation to establish the point estimators described below and confidence intervals for the base rate of occurrence of an attribute (e.g., antibodies against Covid-19) in an aggregate population (e.g., medical care workers) based on a test. The requirements for the procedure are the test's sample size (N) and total number of positives (X), and the data on test's reliability. The modus is the prior which generates the largest frequency of observations in the MC simulation with precisely the number of test positives (maximum-likelihood estimator). The median is the upper bound of the set of priors accounting for half of the total relevant observations in the MC simulation with numbers of positives identical to the test's number of positives. Our rather preliminary findings are: The median and the confidence intervals suffice universally; The estimator X/N may be outside of the two-sided 95% confidence interval; Conditions such that the modus, the median and another promising estimator which takes the reliability of the test into account, are quite close; Conditions such that the modus and the latter estimator must be regarded as logically inconsistent; Conditions inducing rankings among various estimators relevant for issues concerning over- or underestimation.",
+    "author": "Reinoud Joosten; Abhishta Abhishta",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20075036",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20075036"
+    },
+    "title": "A simulation-based procedure to estimate base rates from Covid-19 antibody test results I: Deterministic test reliabilities",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this work."
+        }
+    ]
+}

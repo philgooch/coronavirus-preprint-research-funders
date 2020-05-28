@@ -1,0 +1,35 @@
+{
+    "abstract": "Predicting the course of an epidemic is difficult, predicting the course of a pandemic from an emerging virus even more so. The validity of most predictive models relies on numerous parameters, involving biological and social characteristics often unknown or highly uncertain. Data of the COVID-19 epidemics in China, Japan, South Korea and Italy were used to build up deterministic models without strong hypothesis. These models were then applied to other countries to identify the closest scenarios in order to foresee their coming behaviour. The models enabled to predict situations that were confirmed little by little, proving that these tools can be efficient and useful for decision-making in a quickly evolving operational context.",
+    "affiliations": [
+        "Programme National de T\u00e9l\u00e9d\u00e9tection Spatiale (CNRS-INSU)"
+    ],
+    "author": "Francois Roger; Yann Kerr; Marisa Peyre; Yan Zhang; Mireille Huc; Sylvain Mangiarotti",
+    "date": 2020,
+    "doi": "10.1101/2020.04.02.20051441",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20051441"
+    },
+    "title": "Chaos theory applied to the outbreak of Covid-19: an ancillary approach to decision-making in pandemic context",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Les Enveloppes Fluides et",
+                    "award-id": [
+                        "CNRS-INSU"
+                    ]
+                },
+                {
+                    "funding-source": "D\u00e9fi Infinity"
+                },
+                {
+                    "funding-source": "Programme National de T\u00e9l\u00e9d\u00e9tection Spatiale",
+                    "award-id": [
+                        "CNRS-INSU"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the French programs Les Enveloppes Fluides et l\u0092Environnement (CNRS-INSU), D\u00e9fi Infinity (CNRS) and Programme National de T\u00e9l\u00e9d\u00e9tection Spatiale (CNRS-INSU)"
+        }
+    ]
+}

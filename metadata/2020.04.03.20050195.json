@@ -1,0 +1,23 @@
+{
+    "abstract": "Objectives To establish the optimal parameters for group testing of pooled specimens for the detection of SARS-CoV-2. Methods The most efficient pool size was determined to be 5 specimens using a web-based application. From this analysis, 25 experimental pools were created using 50 microliter from one SARS-CoV-2 positive nasopharyngeal specimen mixed with 4 negative patient specimens (50 microliter each) for a total volume of 250 microliter l. Viral RNA was subsequently extracted from each pool and tested using the CDC SARS-CoV-2 RT-PCR assay. Positive pools were consequently split into individual specimens and tested by extraction and PCR. This method was also tested on an unselected group of 60 nasopharyngeal specimens grouped into 12-pools. Results All 25 pools were positive with Cycle threshold (Ct) values within 0 and 5.03 Ct of the original individual specimens. The analysis of 60 specimens determined that two pools were positive followed by identification of two individual specimens among the 60 tested. This testing was accomplished while using 22 extractions/PCR tests, a savings of 38 reactions. Conclusions When the incidence rate of SARS-CoV-2 infection is 10% or less, group testing will result in the saving of reagents and personnel time with an overall increase in testing capability of at least 69%.",
+    "affiliations": [
+        "National Institutes of Health"
+    ],
+    "author": "Steven H Hinrichs; Christopher R Bilder; Peter C Iwen; Emily L McCutchen; Baha Abdalhamid; Scott A Koepsell",
+    "date": 2020,
+    "doi": "10.1101/2020.04.03.20050195",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.03.20050195"
+    },
+    "title": "Assessment of Specimen Pooling to Conserve SARS CoV-2 Testing Resources",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health"
+                }
+            ],
+            "funding-statement": "Bilder is supported by grant R01 AI121351 from the National Institutes of Health"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "abstract": "Brazil is an epicentre for COVID-19 in Latin America. In this report we describe the Brazilian epidemic using three epidemiological measures: the number of infections, the number of deaths and the reproduction number. Our modelling framework requires sufficient death data to estimate trends, and we therefore limit our analysis to 16 states that have experienced a total of more than fifty deaths. The distribution of deaths among states is highly heterogeneous, with 5 states---Sao Paulo, Rio de Janeiro, Ceara, Pernambuco and Amazonas---accounting for 81% of deaths reported to date. In these states, we estimate that the percentage of people that have been infected with SARS-CoV-2 ranges from 3.3% (95% CI: 2.8%-3.7%) in Sao Paulo to 10.6% (95% CI: 8.8%-12.1%) in Amazonas. The reproduction number (a measure of transmission intensity) at the start of the epidemic meant that an infected individual would infect three or four others on average. Following non-pharmaceutical interventions such as school closures and decreases in population mobility, we show that the reproduction number has dropped substantially in each state. However, for all 16 states we study, we estimate with high confidence that the reproduction number remains above 1. A reproduction number above 1 means that the epidemic is not yet controlled and will continue to grow. These trends are in stark contrast to other major COVID-19 epidemics in Europe and Asia where enforced lockdowns have successfully driven the reproduction number below 1. While the Brazilian epidemic is still relatively nascent on a national scale, our results suggest that further action is needed to limit spread and prevent health system overload.",
+    "affiliations": [
+        "Cirrus UK National Tier-2 HPC Service at EPCC (http://www.cirrus.ac.uk) funded by the University of Edinburgh and EPSRC (EP/P020267/1). We would like to thank Amazon AWS and Microsoft Azure for computational credits. We would like to thank the Stan Development team for their constant support. We acknowledge the Medical Research Council and FAPESP (MR/S0195/1)"
+    ],
+    "author": "Harrison Zhu; Caroline Walters; Christl A Donnelly; Charlie Whittaker; Henrique H Hoeltgebaum; Nicholas Brazeau; Ilaria Dorigatti; Michael Hutchinson; Gina Cuomo-Dannenburg; Steven M Riley; Pierre Nouvellet; Zulma Cucunuba; Katy Gaythorpe; Marc Baguelin; Oliver Ratmann; Samir Bhatt; Tara Mangal; Michael Pickles; H Juliette T Unwin; Ben Jeffrey; Michaela A C Vollmer; Helen Coupland; Natsuko Imai; Kris V Parag; Lilith Whittles; Thomas A Mellan; Sangeeta Bhatia; Laura V Cooper; Melodie Monod; Axel Gandy; Sabine L van Elsland; Ricardo P Schnekenberg; Gemma Nedjati-Gilani; Yuanrong Wang; Lucy Okell; Bimandra Djaafara; Seth Flaxman; Andria Mousa; Oliver J Watson; Hayley A Thompson; Kylie Ainslie; Robert Verity; Richard FitzJohn; Xiaoyue Xi; Juan Vesga; Adhiratha Boonyasiri; Swapnil Mishra; Neil M Ferguson; Daniel Laydon; Nuno Rodrigues Faria; Jeff Eaton; Patrick Walker; Azra Ghani; Will Green; Sarah Hayes; John Lees; Keith Fraser; Edward Knock; Iwona Hawryluk; Haowei Wang; Giovanni Charles; Daniela Olivera; Amy Dighe",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20096701",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20096701"
+    },
+    "title": "Report 21: Estimating COVID-19 cases and reproduction number in Brazil",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Cirrus UK National Tier-2 HPC Service",
+                    "award-id": [
+                        "http://www.cirrus.ac.uk"
+                    ]
+                },
+                {
+                    "funding-source": "University of Edinburgh and EPSRC",
+                    "award-id": [
+                        "EP/P020267/1"
+                    ]
+                },
+                {
+                    "funding-source": "Amazon AWS and Microsoft Azure for"
+                },
+                {
+                    "funding-source": "Stan Development"
+                },
+                {
+                    "funding-source": "Medical Research Council and FAPESP",
+                    "award-id": [
+                        "MR/S0195/1"
+                    ]
+                }
+            ],
+            "funding-statement": "This work used the Cirrus UK National Tier-2 HPC Service at EPCC (http://www.cirrus.ac.uk) funded by the University of Edinburgh and EPSRC (EP/P020267/1). We would like to thank Amazon AWS and Microsoft Azure for computational credits. We would like to thank the Stan Development team for their constant support. We acknowledge the Medical Research Council and FAPESP (MR/S0195/1)."
+        }
+    ]
+}

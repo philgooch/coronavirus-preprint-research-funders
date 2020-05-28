@@ -1,0 +1,79 @@
+{
+    "title": "Vulnerabilities in coronavirus glycan shields despite extensive glycosylation",
+    "author": "Yasunori Watanabe, Zachary T. Berndsen, Jayna Raghwani, Gemma E. Seabright, Joel D. Allen, Jason S. McLellan, Ian A. Wilson, Thomas A. Bowden, Andrew B. Ward, Max Crispin,* 1 School of Biological Sciences, University of Southampton, Southampton, SO, 1BJ, UK 2 Oxford Glycobiology Institute, Department of Biochemistry, University of Oxford, South Parks Road, Oxford OX, 3QU, UK 3 Division of Structural Biology, University of Oxford, Wellcome Centre for Human Genetics, Oxford OX, 7BN, UK 4 Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, CA 92037, USA 5 Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, Nuffield Department of Medicine, University of Oxford, Oxford, OX, 7LF, UK 6 Skaggs Institute for Chemical Biology, The Scripps Research Institute, La Jolla, CA 92037, USA 7 Department of Molecular Biosciences, The University of Texas at Austin, Austin, TX 78712, USA. *To whom correspondence may be addressed. Email: max.crispin@soton.ac.uk",
+    "date": 2020,
+    "affiliations": [
+        "School of Biological Sciences, University of Southampton, Southampton, SO17 1BJ, UK",
+        "Oxford Glycobiology Institute, Department of Biochemistry, University of Oxford, South Parks Road, Oxford OX1 3QU, UK",
+        "Division of Structural Biology, University of Oxford, Wellcome Centre for Human Genetics, Oxford OX3 7BN, UK",
+        "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, CA 92037, USA",
+        "Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, Nuffield Department of Medicine, University of Oxford, Oxford, OX3 7LF, UK",
+        "Skaggs Institute for Chemical Biology, The Scripps Research Institute, La Jolla, CA 92037, USA",
+        "Department of Molecular Biosciences, The University of Texas at Austin, Austin, TX 78712, USA. *To whom correspondence may be addressed"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.20.957472",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.20.957472.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) coronaviruses (CoVs) are zoonotic pathogens with high fatality rates and pandemic potential. Vaccine development has focussed on the principal target of the neutralizing humoral immune response, the spike (S) glycoprotein, which mediates receptor recognition and membrane fusion. Coronavirus S proteins are extensively glycosylated viral fusion proteins, encoding around 69-87 N-linked glycosylation sites per trimeric spike. Using a multifaceted structural approach, we reveal a specific area of high glycan density on MERS S that results in the formation of under-processed oligomannose-type glycan clusters, which was absent on SARS and HKU1 CoVs. We provide a comparison of the global glycan density of coronavirus spikes with other viral proteins including HIV-1 envelope, Lassa virus glycoprotein complex, and influenza hemagglutinin, where glycosylation plays a known role in shielding immunogenic epitopes. Consistent with the ability of the antibody-mediated immune response to effectively target and neutralize coronaviruses, we demonstrate that the glycans of coronavirus spikes are not able to form an efficacious high-density global shield to thwart the humoral immune response. Overall, our data reveal how differential organisation of viral glycosylation across class I viral fusion proteins influence not only individual glycan compositions but also the immunological pressure across the viral protein surface.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Wellcome Centre for Human Genetics",
+                    "award-id": [
+                        "203141/Z/16/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "The Wellcome Centre for Human Genetics is supported by grant 203141/Z/16/Z"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "MR/S007555/1 to T.A.B."
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R56 AI127371 to I.A.W.",
+                        "R01 AI127521 to J.S.M."
+                    ]
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1115782 to A.B.W.",
+                        "OPP1170236 to I.A.W."
+                    ]
+                },
+                {
+                    "funding-source": "International AIDS Vaccine Initiative, Bill"
+                },
+                {
+                    "funding-source": "Melinda Gates Foundation"
+                },
+                {
+                    "funding-source": "Collaboration for AIDS Discovery",
+                    "award-id": [
+                        "OPP1084519 to M.C.",
+                        "1196345 to I.A.W."
+                    ]
+                },
+                {
+                    "funding-source": "Scripps Consortium for HIV Vaccine Development",
+                    "award-id": [
+                        "AI144462 to M.C."
+                    ]
+                }
+            ],
+            "funding-statement": "We thank the Medical Research Council (MR/S007555/1 to T.A.B.), NIH (R56 AI127371 to I.A.W., R01 AI127521 to J.S.M. and A.B.W.), Bill and Melinda Gates Foundation (grants OPP1115782 to A.B.W., and OPP1170236 to I.A.W. and A.B.W.), the International AIDS Vaccine Initiative, Bill and Melinda Gates Foundation through the Collaboration for AIDS Discovery (grants OPP1084519 to M.C., and 1196345 to I.A.W., A.W.B., and M.C.), and the Scripps Consortium for HIV Vaccine Development (CHAVD) (AI144462 to M.C., A.B.W., and I.A.W.)"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "title": "Population genomics insights into the recent evolution of SARS-CoV-2",
+    "date": 2020,
+    "author": "Maria Vasilarou,\u200b ,Nikolaos Alachiotis,\u200b ,Joanna Garefalaki,\u200b ,Apostolos Beloukas# 5,Pavlos Pavlidis# 3",
+    "affiliations": [
+        "Institute of Molecular Biology and Biotechnology (IMBB), Foundation for Research and Technology Hellas (FORTH)",
+        "Department of Biology, University of Crete, Crete, Greece",
+        "Institute of Computer Science (ICS), Foundation for Research and Technology Hellas (FORTH)",
+        "Technical University of Crete, Crete, Greece",
+        "Department of Biomedical Sciences, University of West Attica, Athens, Greece",
+        "Institute of Infection and Global Health, University of Liverpool, Liverpool, UK"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.21.054122",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.21.054122.pdf"
+    },
+    "abstract": "The current coronavirus disease 2019 (COVID-19) pandemic is caused by the SARS-CoV-2 virus and is still spreading rapidly worldwide. Full-genome-sequence computational analysis of the SARS-CoV-2 genome will allow us to understand the recent evolutionary events and adaptability mechanisms more accurately, as there is still neither effective therapeutic nor prophylactic strategy. In this study, we used population genetics analysis to infer the mutation rate and plausible recombination events that may have contributed to the evolution of the SARS-CoV-2 virus. Furthermore, we localized targets of recent and strong positive selection. The genomic regions that appear to be under positive selection are largely co-localized with regions in which recombination from non-human hosts appeared to have taken place in the past. Our results suggest that the pangolin coronavirus genome may have contributed to the SARS-CoV-2 genome by recombination with the bat coronavirus genome. However, we find evidence for additional recombination events that involve coronavirus genomes from other hosts, i.e., Hedgehog and Sparrow. Even though recombination events within human hosts cannot be directly assessed, due to the high similarity of SARS-CoV-2 genomes, we infer that recombinations may have recently occurred within human hosts using a linkage disequilibrium analysis. In addition, we employed an Approximate Bayesian Computation approach to estimate the parameters of a demographic scenario involving an exponential growth of the size of the SARS-CoV-2 populations that have infected European, Asian and Northern American cohorts, and we demonstrated that a rapid exponential growth in population size can support the observed polymorphism patterns in SARS-CoV-2 genomes.",
+    "keywords": [
+        "SARS-CoV-2",
+        "Population genetics",
+        "Recombination",
+        "Mutation rate",
+        "Selective sweeps",
+        "Demographic inference Correspondence: AB: abeloukas@uniwa.gr",
+        "beloukas@liverpool.ac.uk PP: pavlidis@ics.forth.gr",
+        "pavlidisp@gmail.com"
+    ],
+    "funding": [
+        {}
+    ]
+}

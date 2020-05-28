@@ -1,0 +1,31 @@
+{
+    "title": "Capillary Electrophoresis of PCR fragments with labelled primers for testing the SARS-Cov-2",
+    "author": "Gen\u00e9tica Molecular, Hospital Universitario Central Asturias, Oviedo, Spain. 2 Microbiolog\u00eda, Hospital Universitario Central Asturias, Oviedo, Spain. 3 Instituto de Investigaci\u00f3n Sanitaria del Principado de Asturias, ISPA, Oviedo, Spain. 4 Departamento Medicina, Universidad de Oviedo, Oviedo, Spain. 5 Red de Investigaci\u00f3n Renal (REDINREN), Madrid, Spain",
+    "date": 2020,
+    "affiliations": [
+        "Gen\u00e9tica Molecular, Hospital Universitario Central Asturias, Oviedo, Spain",
+        "Microbiolog\u00eda, Hospital Universitario Central Asturias, Oviedo, Spain",
+        "Instituto de Investigaci\u00f3n Sanitaria del Principado de Asturias, ISPA, Oviedo, Spain",
+        "Departamento Medicina, Universidad de Oviedo, Oviedo, Spain",
+        "Red de Investigaci\u00f3n Renal (REDINREN), Madrid, Spain",
+        "Juan G\u00f3mez Hospital Univ. Central Asturias 33011 \u2013 Oviedo \u2013 Spain Tel. 34.985.10.55.00"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.16.099242",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.16.099242.pdf"
+    },
+    "abstract": "Background: Due to the huge demand for SARS-Cov-2 determination, alternatives to the standard qtPCR tests are potentially useful for increasing the number of samples screened. Our aim was to develop a direct fluorescent PCR capillary-electrophoresis detection of the viral genome. We validated this approach on several SARS-Cov-2 positive and negative samples. Study design: We isolated the naso-pharingeal RNA from 20 positive and 10 negative samples. The cDNA was synthesised and two fragments of the SARS-Cov-2 were amplified. One of the primers for each pair was 5 \u0301-end fluorochrome labelled. The amplifications were subjected to capillary electrophoresis in ABI3130 sequencers to visualize the fluorescent peaks. Results: The two SARS-Cov-2 fragments were successfully amplified in the positive samples, while the negative samples did not render fluorescent peaks. Conclusion: We describe and alternative method to identify the SARS-Cov-2 genome that could be scaled to the analysis of approximately 100 samples in less than 5 hours. By combining a standard PCR with capillary electrophoresis our approach would overcome the limits imposed to many labs by the qtPCR (lack of reactive and real-time PCR equipment) and increase the testing capacity.",
+    "keywords": [
+        "COVID19",
+        "SARS-Cov-2",
+        "viral genome detection",
+        "quantitative PCR",
+        "capillary electrophoresis"
+    ],
+    "funding": [
+        {}
+    ]
+}

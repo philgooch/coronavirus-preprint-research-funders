@@ -1,0 +1,29 @@
+{
+    "title": "Analysis of SARS-CoV-2 RNA-Sequences by Interpretable Machine Learning Models",
+    "date": 2020,
+    "author": "Marika Kaden, Katrin Sophie Bohnsack, Mirko Weber, Mateusz Kudla, Kaja Gutowska, Jacek Blazewicz, Thomas Villmann",
+    "affiliations": [
+        "University of Applied Sciences Mittweida, Saxon Institute for Computational Intelligence and Machine Learning, Technikumplatz 17, 09648 Mittweida, Germany",
+        "Institute of Computing Science, Poznan University of Technology, Piotrowo 2, 60-965 Poznan, Poland",
+        "Institute of Bioorganic Chemistry, Polish Academy of Sciences, Noskowskiego 12/14, 61-704 Poznan, Poland",
+        "European Centre for Bioinformatics and Genomics, Piotrowo 2, 60-965 Poznan, Poland"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.15.097741",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.15.097741.pdf"
+    },
+    "abstract": "We present an approach to investigate SARS-CoV-2 virus sequences based on alignment-free methods for RNA sequence comparison. In particular, we verify a given clustering result for the GISAID data set, which was obtained analyzing the molecular differences in coronavirus populations by phylogenetic trees. For this purpose, we use alignment-free dissimilarity measures for sequences and combine them with learning vector quantization classifiers for virus type discriminant analysis and classification. Those vector quantizers belong to the class of interpretable machine learning methods, which, on the one hand side provide additional knowledge about the classification decisions like discriminant feature correlations, and on the other hand can be equipped with a reject option. This option gives the model the property of self controlled evidence if applied to new data, i.e. the models refuses to make a classification decision, if the model evidence for the presented data is not given. After training such a classifier for the GISAID data set, we apply the obtained classifier model to another but unlabeled SARS-CoV-2 virus data set. On the one hand side, this allows us to assign new sequences to already known virus types and, on the other hand, the rejected sequences allow speculations about new virus types with respect to nucleotide base mutations in the viral sequences.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Social  Fund"
+                }
+            ],
+            "funding-statement": "B., M.W., and M.K. acknowledge support by a grant of the European Social  Fund (ESF)"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "This work describes the mathematical modelling and dynamics of a novel Coronavirus disease 2019 (COVID-19) in Kenya. The mathematical model assumes Human-Human infection as well as Human-Pathogen interaction. Using the SEIR (Susceptible-Exposed-Infected-Recovered) compartmental model with additional component of the pathogen,we simulated the dynamics of COVID-19 outbreak and impact of different control measures. The resulting system of ordinary differential equations (ODEs) are directly solved using a combination of fourth and fifth-order Runge-Kutta methods. Simulation results indicate that non-pharmaceutical measures such as school closure, social distancing and movement restriction emphatically flatten the epidemic peak curve hence leading to a smaller number of overall disease cases.",
+    "author": "Viona Nakhulo Ojiambo; Samuel Mwalili; Duncan Gathungu; Mark Kimathi; Rachel Mbogo",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20102954",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20102954"
+    },
+    "title": "A Human-Pathogen SEIR-P Model for COVID-19 Outbreak under different intervention scenarios in Kenya",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this publication"
+        }
+    ]
+}

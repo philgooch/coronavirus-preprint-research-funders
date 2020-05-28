@@ -1,0 +1,31 @@
+{
+    "title": "In Silico Trial to test COVID-19 candidate vaccines: a case study with UISS platform",
+    "author": "Francesco Pappalardo",
+    "date": 2020,
+    "journal": "According to the World Health Organization",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.06.080630",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.06.080630.pdf"
+    },
+    "abstract": "SARS-CoV-2 is a severe respiratory infection that infects humans. Its outburst entitled it as a pandemic emergence. To get a grip on this outbreak, specific preventive and therapeutic interventions are urgently needed. It must be said that, until now, there are no existing vaccines for coronaviruses. To promptly and rapidly respond to pandemic events, the application of in silico trials can be used for designing and testing medicines against SARS-CoV-2 and speed-up the vaccine discovery pipeline, predicting any therapeutic failure and minimizing undesired effects. Here, we present an in silico platform that showed to be in very good agreement with the latest literature in predicting SARSCoV-2 dynamics and related immune system host response. Moreover, it has been used to predict the outcome of one of the latest suggested approach to design an effective vaccine, based on monoclonal antibody. Universal Immune System Simulator (UISS) in silico platform is potentially ready to be used as an in silico trial platform to predict the outcome of vaccination strategy against SARS-CoV-2.",
+    "keywords": [
+        "Agent-Based Model",
+        "human monoclonal antibodies",
+        "In Silico Trials",
+        "SARS-CoV-2",
+        "vaccines"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Francesco Pappalardo)"
+                }
+            ],
+            "funding-statement": "This work was supported in part by ....\u201d. (Corresponding author: Francesco Pappalardo)"
+        }
+    ]
+}

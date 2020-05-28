@@ -1,0 +1,33 @@
+{
+    "abstract": "In the current context of COVID-19 pandemic, a rapid and accessible screening tool based on image processing of chest X-rays (CXRs) using machine learning (ML) approaches would be much needed. Initially, we intended to create and validate an ML software solution able to discriminate on the basis of the CXR between SARS-CoV-2-induced bronchopneumonia and other bronchopneumonia etiologies. A systematic search of PubMed, Scopus and arXiv databases using the following search terms [\"artificial intelligence\" OR \"deep learning\" OR \"neural networks\"], AND [\"COVID-19\" OR \"SARS-CoV-2\"] AND [\"chest X-ray\" OR \"CXR\" OR \"X-ray\"] found 14 recent studies. Most of them declared to be able to confidently identify COVID-19 based on CXRs using deep neural networks. Firstly, weaknesses of artificial intelligence (AI) solutions were analyzed, tackling the issues with datasets (from both medical and technical points of view) and the vulnerability of used algorithms. Then, arguments were provided for why our study design is stronger and more realistic than the previously quoted papers, balancing the possible false expectations with facts. The authors consider that the potential of AI use in COVID-19 diagnosis on CXR is real. However, scientific community should be careful in interpreting statements, results and conclusions regarding AI use in imaging. It is therefore necessary to adopt standards for research and publication of data, because it seems that in the recent months scientific reality suffered manipulations and distortions. Also, a call for responsible approaches to the imaging methods in COVID-19 is raised. It seems mandatory to follow some rigorous approaches in order to provide with adequate results in daily routine. In addition, the authors intended to raise public awareness about the quality of AI protocols and algorithms and to encourage public sharing of as many CXR images with common quality standards.",
+    "affiliations": [
+        "Romanian Academy of Medical Sciences and European Regional Development Fund, MySMIS 107124: Funding Contract 2/Axa 1/31.07.2017/ 107124 SMIS"
+    ],
+    "author": "Alexandru Burlacu; Vasile Birzu; Cristina Plesoianu; Daniele Generali; Iolanda Valentina Popa; Radu Crisan-Dabija; Mihai Pricop; Bogdan Artene",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20082776",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20082776"
+    },
+    "title": "Curbing the AI-induced enthusiasm in diagnosing COVID-19 on chest X-Rays: the present and the near-future",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Romanian Academy of Medical Sciences and European Regional Development Fund, MySMIS",
+                    "award-id": [
+                        "107124"
+                    ]
+                },
+                {
+                    "funding-source": "Funding Contract",
+                    "award-id": [
+                        "1/31",
+                        "107124"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded by the Romanian Academy of Medical Sciences and European Regional Development Fund, MySMIS 107124: Funding Contract 2/Axa 1/31.07.2017/ 107124 SMIS"
+        }
+    ]
+}

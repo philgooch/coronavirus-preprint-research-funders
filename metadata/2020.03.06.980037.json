@@ -1,0 +1,65 @@
+{
+    "title": "Monoclonal antibodies for the S2 subunit of spike of SARS-CoV cross-react with the newly-emerged SARS-CoV-2",
+    "author": "Zhiqiang Zheng, Vanessa M. Monteil, Sebastian Maurer-Stroh, Chow Wenn Yew, Carol Leong, Nur Khairiah Mohd-Ismail, Suganya Cheyyatraivendran Arularasu, Vincent Tak Kwong Chow, Raymond Lin Tzer Pin, Ali Mirazimi, Wanjin Hong, Yee-Joo Tan 1,7",
+    "date": 2020,
+    "affiliations": [
+        "Department of Microbiology and Immunology, Yong Loo Lin School of Medicine, National University Health System (NUHS), National University of Singapore",
+        "Department of Laboratory Medicine, Karolinska Institute, Sweden",
+        "Public Health Agency of Sweden, Sweden",
+        "Bioinformatics Institute (BII), A*STAR (Agency for Science, Technology and Research), Singapore",
+        "Department of Biological Sciences (DBS), National University of Singapore",
+        "National Public Health Laboratory (NPHL), National Centre for Infectious Diseases (NCID), Singapore",
+        "Institute of Molecular and Cell Biology (IMCB), A*STAR (Agency for Science, Technology and Research), Singapore",
+        "National Veterinary Institute, Sweden"
+    ],
+    "journal": "Keywords",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.06.980037",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.06.980037.pdf"
+    },
+    "abstract": "The emergence of a novel coronavirus, SARS-CoV-2, at the end of 2019 has resulted in 3 widespread human infections across the globe. While genetically distinct from SARS4 CoV, the etiological agent that caused an outbreak of severe acute respiratory syndrome 5 (SARS) in 2003, both coronaviruses exhibit receptor binding domain (RBD) conservation 6 and utilize the same host cell receptor, angiotensin-converting enzyme 2 (ACE2), for 7 virus entry. Therefore, it will be important to test the cross-reactivity of antibodies that 8 have been previously generated against the surface spike (S) glycoprotein of SARS-CoV 9 in order to aid research on the newly emerged SARS-CoV-2. Here, we show that an immunogenic domain in the S2 subunit of SARS-CoV S is highly conserved in multiple strains of SARS-CoV-2. Consistently, four murine monoclonal antibodies (mAbs) raised against this immunogenic SARS-CoV fragment were able to recognise the S protein of SARS-CoV-2 expressed in a mammalian cell line. Importantly, one of them (mAb 1A9) was demonstrated to detect S in SARS-CoV-2-infected cells. To our knowledge, this is the first study showing that mAbs targeting the S2 domain of SARS-CoV can cross-react with SARS-CoV-2 and this observation is consistent with the high sequence conservation in the S2 subunit. These cross-reactive mAbs may serve as tools useful for SARS-CoV-2 research as well as for the development of diagnostic assays for its associated coronavirus disease COVID-19.",
+    "keywords": [
+        "Coronavirus Disease 2019 (COVID-19)",
+        "SARS-CoV-2",
+        "Spike protein",
+        "Cross22 reactive antibodies"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NUHS Research Office",
+                    "award-id": [
+                        "NUHSRO/2020/033/R"
+                    ]
+                },
+                {
+                    "funding-source": "Project Number",
+                    "award-id": [
+                        "NUHSRO/2020/033/RO5",
+                        "5/CORONAVIRUS/LOA",
+                        "WBS R-571-000- 071-733"
+                    ]
+                }
+            ],
+            "funding-statement": "The work performed in NUS/NUHS was supported by NUHS Research Office under Project Number NUHSRO/2020/033/RO5+5/CORONAVIRUS/LOA (WBS R-571-000- 071-733)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "IMCB and BII"
+                },
+                {
+                    "funding-source": "CRUSE",
+                    "award-id": [
+                        "ACCL/19-GAP064-R20H-  F"
+                    ]
+                }
+            ],
+            "funding-statement": "The work performed in IMCB and BII was also supported by A*STAR through intramural funding and an A*CRUSE gap funding (ACCL/19-GAP064-R20H-  F)"
+        }
+    ]
+}

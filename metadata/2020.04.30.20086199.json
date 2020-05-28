@@ -1,0 +1,34 @@
+{
+    "abstract": "Populations are diverse in size, capacity response, and measures to contain a pandemic such covid19. Then, it rises serious and critical questions to whether general measures can be taken worldwide. Also, it is unclear if conventional parametric methods are suitable to study pandemics since their dynamic is modulated by biological, economical, environmental, social, and cultural factors. In this manuscript, we apply a recently developed non-parametric mathematical method that comes from regional economy, to investigate the dynamic of a pandemic. We apply this novel methodology to study the ongoing covid19 pandemic in all USA states and in the country itself. The generality of our methodology makes it suitable to investigate also the worldwide dynamics of diseases such HIV or tuberculosis.",
+    "affiliations": [
+        "Pesquisa do Distrito Federal (FAP-DF) by the grant 0193.001695/2017 and PDE 05/2018. This research was carried out, during (the state of alert in the Western Catalonia) a visit, of the second author to the Centro de Recerca Matematica (CRM), in the framework of the Research in pairs call in 2020. The CRM is a paradise for research, the author appreciates the hospitality and all the support received from CRM"
+    ],
+    "author": "Wilfredo Sosa; Robert Paolo Sosa",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20086199",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20086199"
+    },
+    "title": "A non-parametric mathematical model to investigate the dynamic of a pandemic",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wilfredo Sosa"
+                },
+                {
+                    "funding-source": "Fundacao de Apoio"
+                },
+                {
+                    "funding-source": "Pesquisa do Distrito Federal",
+                    "award-id": [
+                        "FAP-DF",
+                        "001695/2017",
+                        "05/2018"
+                    ]
+                }
+            ],
+            "funding-statement": "Wilfredo Sosa was supported in part by Fundacao de Apoio a Pesquisa do Distrito Federal (FAP-DF) by the grant 0193.001695/2017 and PDE 05/2018"
+        }
+    ]
+}

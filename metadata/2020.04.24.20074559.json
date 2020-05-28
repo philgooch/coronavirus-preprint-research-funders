@@ -1,0 +1,23 @@
+{
+    "abstract": "Multiple laboratory developed tests and commercially available assays have emerged to meet diagnostic needs related to the SARS-CoV-2 pandemic. To date, there is limited comparison data for these different testing platforms. We compared the analytical performance of a laboratory developed test (LDT) developed in our clinical laboratory based on CDC primer sets and four commercially available, FDA emergency use authorized assays for SARS-CoV-2 (Cepheid, DiaSorin, Hologic Panther, and Roche Cobas) on a total of 169 nasopharyngeal swabs. The LDT and Cepheid Xpert Xpress SARS-CoV-2 assays were the most sensitive assays for SARS-CoV-2 with 100% agreement across specimens. The Hologic Panther Fusion, DiaSorin Simplexa, and Roche Cobas 6800 only failed to detect positive specimens near the limit of detection of our CDC-based LDT assay. All assays were 100% specific, using our CDC-based LDT as the gold standard. Our results provide initial test performance characteristics for SARS-CoV-2 RT-PCR and highlight the importance of having multiple viral detection testing platforms available in a public health emergency.",
+    "affiliations": [
+        "Funded by Department of Laboratory of Medicine"
+    ],
+    "author": "Joshua Lieberman; Samia N Naccache; Meeili Huang; Keith R. Jerome; Alexander L. Greninger; Gregory Pepper",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20074559",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20074559"
+    },
+    "title": "Comparison of Commercially Available and Laboratory Developed Assays for in vitro Detection of SARS-CoV-2 in Clinical Laboratories",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Laboratory of Medicine"
+                }
+            ],
+            "funding-statement": "Funded by Department of Laboratory of Medicine"
+        }
+    ]
+}

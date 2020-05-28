@@ -1,0 +1,16 @@
+{
+    "abstract": "This paper presents a simple heuristic model for COVID 19 spreading. The model is based on a propagation unit of time. The state of the epidemic at the end of the time unit is then related to that at the start through recurrence relationships. By propagating these relationships over the required number of time units, a projection can be made over time. The model is readily implemented on a spreadsheet and is therefore potentially widely accessible. It can serve as a useful tool for scenario planning and forecasting not just for an entire population, but also for a specific community within a population.",
+    "author": "Fook Hou Lee",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20067264",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20067264"
+    },
+    "title": "A Heuristic Model for Spreading of COVID 19 in Singapore",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Non-funded, private research"
+        }
+    ]
+}

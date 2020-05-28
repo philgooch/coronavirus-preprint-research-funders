@@ -1,0 +1,26 @@
+{
+    "abstract": "The outbreak of the novel coronavirus disease, COVID-19, originating from Wuhan, China in early December, has infected more than 70,000 people in China and other countries and has caused more than 2,000 deaths. As the disease continues to spread, the biomedical society urgently began identifying effective approaches to prevent further outbreaks. Through rigorous epidemiological analysis, we characterized the fast transmission of COVID-19 with a basic reproductive number 5.6 and proved a sole zoonotic source to originate in Wuhan. No changes in transmission have been noted across generations. By evaluating different control strategies through predictive modeling and Monte carlo simulations, a comprehensive quarantine in hospitals and quarantine stations has been found to be the most effective approach. Government action to immediately enforce this quarantine is highly recommended.",
+    "affiliations": [
+        "University Institute of Biosciences & Technology for the development of the Core of Rigor & Reproducibility"
+    ],
+    "author": "Ke K. Zhang; Chengbin Xue; Huijuan Zhou; Guannan Gao; Lauren Lawless; Linglin Xie",
+    "date": 2020,
+    "doi": "10.1101/2020.02.24.20026773",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.24.20026773"
+    },
+    "title": "Characterizing the transmission and identifying the control strategy for COVID-19 through epidemiological modeling",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Texas A&M University Institute of Biosciences & Technology for the"
+                },
+                {
+                    "funding-source": "Core of Rigor & Reproducibility"
+                }
+            ],
+            "funding-statement": "This work was supported by the internal funding from the Texas A&M University Institute of Biosciences & Technology for the development of the Core of Rigor & Reproducibility"
+        }
+    ]
+}

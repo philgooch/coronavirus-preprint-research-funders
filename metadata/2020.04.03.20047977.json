@@ -1,0 +1,81 @@
+{
+    "title": "ACE2 variants underlie interindividual variability and susceptibility to COVID-19 in Italian population",
+    "author": "Benetti Elisa,\u2240, Tita Rossella,\u2240, Spiga Ottavia, Ciolfi Andrea, Birolo Giovanni, Bruselles Alessandro, Doddato Gabriella, Giliberti Annarita, Marconi Caterina, Musacchia Francesco, Pippucci Tommaso10, Torella Annalaura, Trezza Alfonso, Valentino Floriana, Baldassarri Margherita, Brusco Alfredo, Asselta Rosanna, Bruttini Mirella, Furini Simone, Seri Marco,10, Nigro Vincenzo, Matullo Giuseppe, Tartaglia Marco, Mari Francesca, Renieri Alessandra, Pinto Anna Maria",
+    "date": 2020,
+    "affiliations": [
+        "Department of Medical Biotechnologies, University of Siena, Siena, Italy",
+        "Genetica Medica, Azienda Ospedaliera Universitaria Senese, Siena, Italy",
+        "Dept. of Biotechnology, Chemistry and Pharmacy, University of Siena, Siena, Italy",
+        "Genetics and Rare Diseases Research Division, Ospedale Pediatrico Bambino Ges\u00f9",
+        "Department of Medical Sciences, University of Turin, Turin, Italy",
+        "Department of Oncology and Molecular Medicine, Istituto Superiore di Sanit\u00e0, Rome, Italy",
+        "Medical Genetics, University of Siena, Siena, Italy",
+        "Department of Medical and Surgical Sciences, University of Bologna",
+        "Telethon Institute of Genetics and Medicine, Pozzuoli, Italy",
+        "Sant\u2019Orsola-Malpighi University Hospital, Bologna",
+        "Dipartimento di Medicina di Precisione, Universit\u00e0 della Campania \u201cLuigi Vanvitelli\u201d, Napoli, Italy",
+        "Genetica Medica, Citt\u00e0 della salute e della scienza, Torino, Italy",
+        "Department of Biomedical Sciences, Humanitas University, Rozzano, Milan, Italy",
+        "Humanitas Clinical and Research Center - IRCCS, Rozzano, Milan, Italy",
+        "Medical Genetics Unit University of Siena Policlinico Le Scotte Viale Bracci, 2 53100 Siena, Italy Phone: 39 0577 233303 FAX 39 0577 233325 E.mail:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.03.20047977",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.03.20047977.pdf"
+    },
+    "abstract": "In December 2019, an initial cluster of unexpected interstitial bilateral pneumonia emerged in Wuhan, Hubei province. A human-to-human transmission was immediately assumed and a previously unrecognized entity, termed coronavirus disease 19 (COVID19) due to a novel coronavirus (2019-nCov) was suddenly described. The infection has rapidly spread out all over the world and Italy has been the first European Country experiencing the endemic wave with unexpected clinical severity in comparison with Asian countries. It has recently been shown that 2019-nCov utilizes host receptors namely angiotensin converting enzyme 2 (ACE2) as host receptor and host proteases for cell surface binding and internalization. Thus, a predisposing genetic background can give reason for interindividual disease susceptibility and/or severity. Taking advantage of the Network of Italian Genomes (NIG), here we mined around 7000 exomes from 5 different Centers looking for ACE2 variants. A number of variants with a potential impact on protein stability were identified. Among these, three missense changes, p.Asn720Asp, p.Lys26Arg, p.Gly211Arg (MAF 0.002 to 0.015), which have never been reported in the Eastern Asia population, were predicted to interfere with protein u and stabilization. Rare truncating variants likely interfering with the internalization process and one missense variant, p.Trp69Cys, predicted to interfere with 2019-nCov spike protein binding were also observed. These findings suggest that a predisposing genetic background may contribute to the observed inter-individual clinical variability associated with COVID-19. They allow an evidence-based risk assessment opening up the way to personalized preventive measures and therapeutic options.",
+    "keywords": [
+        "COVID-19",
+        "ACE2 variants",
+        "Italian population",
+        "Molecular dynamics"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Telethon Network of Genetic Biobanks"
+                }
+            ],
+            "funding-statement": "This work was, in part, supported by: Telethon Network of Genetic Biobanks (project no"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Telethon Italy; Fondazione"
+                },
+                {
+                    "funding-source": "Bambino Ges\u00f9",
+                    "award-id": [
+                        "Vite Coraggiose to M.T."
+                    ]
+                },
+                {
+                    "funding-source": "Vite Coraggiose"
+                },
+                {
+                    "funding-source": "Mount Sinai, NY",
+                    "award-id": [
+                        "Autism sequencing consortium"
+                    ]
+                },
+                {
+                    "funding-source": "SOLVE-RD and MIUR"
+                },
+                {
+                    "funding-source": "Dipartimenti di Eccellenza",
+                    "award-id": [
+                        "n\u00b0 D15D18000410001"
+                    ]
+                },
+                {
+                    "funding-source": "Department of Medical Sciences, University"
+                }
+            ],
+            "funding-statement": "GTB12001), funded by Telethon Italy; Fondazione Bambino Ges\u00f9 (Vite Coraggiose to M.T.); Mount Sinai, NY (USA) in the context of the international project ASC (Autism sequencing consortium); SOLVE-RD and MIUR project \"Dipartimenti di Eccellenza 2018 \u2013 2022\" (n\u00b0 D15D18000410001) to the Department of Medical Sciences, University of Torino (G.M., A.B.)"
+        }
+    ]
+}

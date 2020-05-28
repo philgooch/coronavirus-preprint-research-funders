@@ -1,0 +1,16 @@
+{
+    "abstract": "We observed a significant seven-day cycle in (i) reported COVID-19 new casesa (in 7/12 countries), and in (ii) reported COVID-19 deathsb (in 7/12 countries), based on data from the 12 developed North-American and European countries that reported more than 1,000 deaths by April 28th (Spaina, Italya and Switzerlanda, Belgiumb, Canadab and the USAb, Germanya,b, the Netherlandsa,b, Swedena,b and the UKa,b). Daily reported numbers (March 29th to April 28th) are based on Our World in Data database (derived from the European Center for Disease Control and Prevention, ECDC). In all seven countries, numbers of new cases peaked on Thursday-Friday, five days after the weekend, corresponding with a reported ~5-day lag between contact with an infected person and the manifestation of clinical symptoms. Death tolls peaked on Wednesday-Thursday in all seven countries, ~12-14 days following a weekend, corresponding with the reported median of 14-day hospitalization before death. One may suspect that the weekend restricts the availability of testing or reporting of new cases, that are eventually reported during the following week. However, to completely account for both observations, this artifact should occur uniformly in all the above-mentioned countries and consistently along the entire month studied. Moreover, deaths are defined events and seems less likely to be recorded or reported inaccurately, at least for the vast majority of cases. Thus, we hypothesize that an increase in inter-generational social interactions occurs during the weekend, which facilitates transfer of COVID-19 from younger people to older vulnerable individuals. These and additional infected older people account for most recognized COVID-19 cases and deaths, which may occur at regular time intervals, specifically in this vulnerable population. Additional explanations may include weekly rhythms in immune functions, hospital care quality, or other various health-related behaviors. Our hypotheses should be re-tested and refined based on databases that accurately report events times when these will become available.",
+    "author": "Shamgar Ben-Eliyahu; Ricardo Tarrasch; Pablo Blinder; Itay Ricon-Becker",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089508",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089508"
+    },
+    "title": "A seven-day cycle in COVID-19 infection and mortality rates: Are inter-generational social interactions on the weekends killing susceptible people?",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Rapid adaptation of SARS-CoV-2 in BALB/c mice: Novel mouse model for vaccine efficacy",
+    "author": "1State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, Beijing 100071, China. 2 State Key Laboratory of Proteomics, Beijing Institute of Biotechnology, Beijing 100071, China. 3 Institute of Military Cognition and Brain Sciences, Beijing 100850, China. 4 The Institute of Pathogen, Chinese Academy of Medical Sciences, Beijing100730, China. 5 Laboratory Animal Center, Academy of Military Medical Sciences, Beijing 100071, China 6 Beijing Joinn Biologics Co. Ltd, Beijing 100176, China. 7 Shang Hai Medical College, Fudan University, Shanghai, People\u2019s Republic of China. *Corresponding to: Shibo Jiang (shibojinag@fudan.edu.cn), Shihui Sun (sunsh01@163.com), Cheng-Feng Qin (qincf@bmi.ac.cn), Yusen Zhou (yszhou@bmi.ac.cn). \u2020These authors contributed equally",
+    "date": 2020,
+    "affiliations": [
+        "State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, Beijing 100071, China",
+        "State Key Laboratory of Proteomics, Beijing Institute of Biotechnology, Beijing 100071, China",
+        "Institute of Military Cognition and Brain Sciences, Beijing 100850, China",
+        "The Institute of Pathogen, Chinese Academy of Medical Sciences, Beijing100730, China",
+        "Laboratory Animal Center, Academy of Military Medical Sciences, Beijing 100071, China",
+        "Beijing Joinn Biologics Co. Ltd, Beijing 100176, China",
+        "Shang Hai Medical College, Fudan University, Shanghai, People\u2019s Republic of China",
+        "Corresponding to: Shibo Jiang",
+        "These authors contributed equally"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.02.073411",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.02.073411.pdf"
+    },
+    "abstract": "Coronavirus disease 2019 (COVID-19) threatens global public health and economy. In order to develop safe and effective vaccines, suitable animal models must be established. Here we report the rapid adaption of SARS-CoV-2 in BALB/c mice, based on which a convenient, economical and effective animal model was developed. Specifically, we found that mouse-adapted SARSCoV-2 at passage 6 (MACSp6) efficiently infected both aged and young wild-type BALB/c mice, resulting in moderate pneumonia as well as inflammatory responses. The elevated infectivity of MACSp6 in mice could be attributed to the substitution of a key residue (N501Y) in the receptorbinding domain (RBD). Using this novel animal model, we further evaluated the in vivo protective efficacy of an RBD-based SARS-CoV-2 subunit vaccine, which elicited highly potent neutralizing antibodies and conferred full protection against SARS-CoV-2 MACSp6 challenge. This novel mouse model is convenient and effective in evaluating the in vivo protective efficacy of SARSCoV-2 vaccine. Summary This study describes a unique mouse model for SARS-CoV-2 infection and confirms protective efficacy of a SARS-CoV-2 RBD subunit vaccine. Introduction A novel coronavirus (CoV), severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) that causes CoV disease 2019 (COVID-19), has infected millions of people with more than 139,000 deaths, leading to devastating damage to global public health and economy (1-6). Elderly COVID19 patients generally have a higher case-fatality rate (CFR) than the younger patients with COVID19, suggesting that aged people are more susceptible to SARS-CoV-2 infection (7, 8). SARS-CoV-",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "82041006",
+                        "82041025"
+                    ]
+                },
+                {
+                    "funding-source": "The National Program of Infectious Diseases Fund",
+                    "award-id": [
+                        "2017ZX10304402-003"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Major Project of China",
+                    "award-id": [
+                        "2018ZX09711003"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Natural Science Foundation of China (No.82041006 and 82041025), The National Program of Infectious Diseases Fund (No.2017ZX10304402-003), the National Science and Technology Major Project of China (No.2018ZX09711003)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Fund for Distinguished Young Scholar",
+                    "award-id": [
+                        "81925025"
+                    ]
+                },
+                {
+                    "funding-source": "Innovative Research Group",
+                    "award-id": [
+                        "81621005"
+                    ]
+                },
+                {
+                    "funding-source": "Innovation Fund for Medical Sciences",
+                    "award-id": [
+                        "2019-I2M-5-049"
+                    ]
+                },
+                {
+                    "funding-source": "Chinese Academy of Medical Sciences"
+                }
+            ],
+            "funding-statement": "C.F.Q. was supported by the National Science Fund for Distinguished Young Scholar (No.81925025), and the Innovative Research Group (No.81621005) from the NSFC, and the Innovation Fund for Medical Sciences (No.2019-I2M-5-049) from the Chinese Academy of Medical Sciences"
+        }
+    ]
+}

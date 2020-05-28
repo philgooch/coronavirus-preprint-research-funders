@@ -1,0 +1,16 @@
+{
+    "abstract": "The COVID-19 pandemic is creating ventilator shortages in many countries that is sparking a conversation about placing multiple people on a single ventilator. However, on March 26th the American College of Chest Physicians (CHEST), along with other leading medical organizations, released a joint statement warning clinicians that attempting this technique could lead to poor outcomes and high mortality. Nevertheless, several hospitals around the United States and abroad are turning to this technique out of desperation (e.g. New York), but little data exists to guide their approach. The overall objective of this study is to utilize a computational model of mechanically ventilated lungs to assess how patient-specific lung mechanics and ventilator settings impact lung tidal volume (Vt). Methods: We developed a single compartment computational model of four patients connected to a shared ventilator and validated it against a similar experimental study. We used this model to evaluate how patient-specific lung compliance (C) and resistance (R) would impact Vt under 5 ventilator settings of pre-set PIP, PEEP, and I:E ratio (suggested by Farkas, J.D. MD as an approach by hospitals to manage multiple patients on a single ventilator). Results: Our computational model predicts Vt within 10% of experimental measurements. Using this model to perform a parametric study, we provide proof-of-concept for an algorithm to better match patients in different hypothetical scenarios of a single ventilator shared by more than one patient. Conclusions: Assigning patients to pre-set ventilators based on their lung mechanics could be used to overcome some of the legitimate concerns of placing multiple patients on a single ventilator. We emphasize that our results are currently based on a computational model that has not been validated against any pre-clinical/clinical data. Therefore, clinicians considering this approach should not look to our study as an exact estimate of predicted patient tidal volumes.",
+    "author": "Vitaly Oleg Kheyfets; Jennifer Wagner; Karsten Bartels; Steven Lammers; Bradford Smith",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20056671",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20056671"
+    },
+    "title": "Use of a Single Ventilator to Support Multiple Patients: Modeling Tidal Volume Response to Heterogeneous Lung Mechanics",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Computational Analysis of Dynamic Allostery and Control in the SARS-CoV-2 Main Protease",
+    "author": "Igors Dubanevics, and Tom C.B. McLeishb",
+    "date": 2020,
+    "affiliations": [
+        "School of Natural Sciences, University of York, UK",
+        "Department of Physics, University of York, UK",
+        "Corresponding author"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.21.105965",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.21.105965.pdf"
+    },
+    "abstract": "The dynamics and thermodynamics of the homodimer main protease protein SARS-CoV-2 are 2 analysed at the level of Elastic Network Models (ENM). Correlated motions display a rich and 3 heterogeneous dynamical structure, including allosterically correlated motions between the 4 active sites in the two domains. Exhaustive 1-point and 2-point mutation maps, and their effect 5 on binding free energies and allosteric free energies confirm the susceptibility identified in 6 recent candidate inhibitor assays, but also suggest several new candidate regions for control 7 and inhibition of the protease function, which may assist the development of current fragment 8 binding screens.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Established Career Fellowship in the Physics of Life"
+                }
+            ],
+            "funding-statement": "TCBM acknowledges support from the EPSRC(UK) through an Established Career Fellowship in the Physics of Life programme"
+        }
+    ]
+}

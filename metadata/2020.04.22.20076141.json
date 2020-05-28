@@ -1,0 +1,51 @@
+{
+    "abstract": "Objectives: Governments worldwide have recommended unprecedented measures to mitigate the coronavirus disease 2019 (COVID-19) pandemic. As pressure mounts to scale back these measures, understanding public compliance with and priorities for COVID-19 mitigation is critical. The main aim of this study was to assess public compliance with and support for government-imposed stay-at-home orders in nations and cities with different COVID-19 infection and death rates. Design: In this cross-sectional study, questionnaires were administered to nationally representative respondents from April 2-8, 2020. Setting: Regions with different disease prevalence included two nations [the United States (US, high) and Australia (AU, low)] and two cities [New York (NY, high) and Los Angeles (LA, low)]. Participants: For adults 18 years or older residing in specified regions, eligible respondents were empaneled until representative quotas were reached for age, gender, and either race and ethnicity (US, NY, LA) or ancestry (AU), matching the 2010 US or 2016 AU census. Of 8718 eligible potential respondents, 5573 (response rate, 63.9%) completed surveys (US: 3010; NY: 507; LA: 525; AU: 1531). The median age was 47 years (range, 18-89); 3039 (54.5%) were female. Exposure: The prevalence of COVID-19 in each region (cumulative infections, deaths) as of April 8, 2020: US (458610, 15659), AU (5956, 45), NY (81803, 4571), LA (7530, 198). Main Outcomes Measures: Public compliance with and attitudes regarding government-imposed stay-at-home orders were evaluated and compared between regions. Results: Of 5573 total respondents, 4560 (81.8%) reported compliance with recommended quarantine or stay-at-home policies (range of samples, 75.5%-88.2%). Despite significant disruptions of social and work life, health, and behavior, 5022 respondents (90.1%) supported government-imposed stay-at-home orders (range of samples, 88.9%-93.1%). Of these, 90.8% believe orders should last at least three more weeks or until public health or government officials recommend, with such support spanning the political spectrum. Conclusions: Public compliance with stringent quarantine and stay-at-home policies was very high, in both highly-affected (US, NY) and minimally-affected regions (AU, LA). Despite extensive disruption of respondents\u2032 lives, the vast majority supported continuation of long-term government-imposed stay-at-home orders. These findings have important implications for policymakers grappling with the decision as to when to lift restrictions.",
+    "author": "Mark E Howard; Laura K Barger; Charles A Czeisler; Mark \u00c9 Czeisler; Rebecca Robbins; Elise R Facer-Childs; Shantha MW Rajaratnam",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20076141",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20076141"
+    },
+    "title": "COVID-19: Public Compliance with and Public Support for Stay-at-Home Mitigation Strategies",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Institute for Breathing and Sleep, Austin"
+                },
+                {
+                    "funding-source": "Turner Institute for Brain and Mental Health, Monash"
+                },
+                {
+                    "funding-source": "Harvard Medical School from Philips Respironics"
+                }
+            ],
+            "funding-statement": "This study was supported in part by the Institute for Breathing and Sleep, Austin Health; the Turner Institute for Brain and Mental Health, Monash University; and by a gift to the Harvard Medical School from Philips Respironics"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fulbright Future Scholarship"
+                },
+                {
+                    "funding-source": "Kinghorn Foundation"
+                },
+                {
+                    "funding-source": "Australian-American Fulbright Commission"
+                }
+            ],
+            "funding-statement": "M.\u00c9.C. was supported by a 2020 Fulbright Future Scholarship funded by the Kinghorn Foundation through the Australian-American Fulbright Commission"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Occupational Safety and Health",
+                    "award-id": [
+                        "R01-OH-010300"
+                    ]
+                }
+            ],
+            "funding-statement": "L.K.B. and C.A.C. were supported in part by the National Institute of Occupational Safety and Health R01-OH-010300"
+        }
+    ]
+}

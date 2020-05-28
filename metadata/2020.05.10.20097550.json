@@ -1,0 +1,23 @@
+{
+    "abstract": "A dynamic model for the current coronavirus outbreak is presented. The most important parameters are identified which determine the number of cases progression. Results of a numerical simulation are compared with existing data of the number of infections in Sao Paulo and Brazil. On the basis of these results measures are proposed to control the epidemics and to flat the infection curve. A simple three steps procedure is proposed to predict the time evolution of the epidemics and a criteria to resume 'normal' activities after quarantine is proposed.",
+    "affiliations": [
+        "University of Sao Paulo CNPq"
+    ],
+    "author": "Daniel Gomes Lichtenthaler; Rubens Lichtenthaler Filho",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20097550",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20097550"
+    },
+    "title": "A dynamic model for Covid-19 in Brazil.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Sao Paulo CNPq"
+                }
+            ],
+            "funding-statement": "University of Sao Paulo CNPq"
+        }
+    ]
+}

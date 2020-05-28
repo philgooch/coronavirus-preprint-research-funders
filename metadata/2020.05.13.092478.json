@@ -1,0 +1,54 @@
+{
+    "title": "Novel ACE2-Independent Carbohydrate-Binding of SARS-CoV-2 Spike Protein to Host Lectins and Lung Microbiota",
+    "author": "Fabrizio Chiodo",
+    "date": 2020,
+    "affiliations": [
+        "Department of Molecular Cell Biology and Immunology, Amsterdam Infection & Immunity Institute and Cancer Center Amsterdam, Amsterdam UMC, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands",
+        "Department of Chemical Sciences, University of Naples Federico II, Via Cinthia 4, 80126 Naples, Italy",
+        "Finlay Vaccine Institute, 200 and 21 Street, Playa, Havana 11600, Cuba"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.13.092478",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.13.092478.pdf"
+    },
+    "abstract": "The immediate call for translational research in the field of coronavirus disease (COVID-19) pandemic, needs new and unexplored angles to support and contribute to this important worldwide health problem. The aim of this study is to better understand the pathogenic mechanisms underlying COVID-19, deciphering the carbohydrate-mediated interactions of the SARS-CoV-2 spike protein. We studied the carbohydrate-binding receptors that could be important for viral entry and for immune-modulatory responses, and we studied the interactions of the spike protein with the host lung microbiota. Exploring solid-phase immunoassays, we evaluated the interactions between the SARS-CoV-2 spike protein and a library of 12 different human carbohydrate-binding proteins (C-type lectins and Siglecs) involved in binding, triggering and modulation of innate and adaptive immune-responses. We revealed a specific binding of the SARS-CoV-2 spike protein to the receptors DC-SIGN, MGL, Siglec-9 and Siglec-10 that are all expressed on myeloid immune cells. In addition, because the lung microbiota can promote or modulate viral infection, we studied the interactions between the SARS-CoV-2 spike protein and a library of Streptococcus pneumoniae capsular polysaccharides, as well as other bacterial glyco-conjugates. We show specific binding of the spike protein to different S. pneumoniae capsular polysaccharides (serotypes 19F and 23F but not to serotype 14). Moreover we demonstrated a specific binding of SARS-CoV-2 spike protein to the lipopolysaccharide from the opportunistic human pathogen Pseudomonas aeruginosa, one of the leading cause of acute nosocomial infections and pneumonia. Interestingly, we identified rhamnosylated epitopes as one of the discriminating structures in lung microbiota to bind SARS-CoV-2 spike protein. In conclusion, we revealed novel ACE2-independent carbohydrate-mediated interactions with immune modulating lectins expressed on myeloid cells, as well as host lung microbiota glycoconjugates. Our results identified new molecular pathways using host lectins and signalling, that may contribute to viral infection and subsequent immune exacerbation. Moreover we identified specific rhamnosylated epitopes in lung microbiota to bind SARS-CoV-2, providing a hypothetical link between the presence of specific lung microbiota and SARS-CoV-2 infection and severity.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ETN No",
+                    "award-id": [
+                        "642870"
+                    ]
+                },
+                {
+                    "funding-source": "European Research Council",
+                    "award-id": [
+                        "ERC-339977-Glycotreat"
+                    ]
+                },
+                {
+                    "funding-source": "European Research CouncelMATCH-862113"
+                },
+                {
+                    "funding-source": "NWO Spinoza"
+                },
+                {
+                    "funding-source": "Spike RBD-His Recombinant Protein, Cat",
+                    "award-id": [
+                        "40592-V08H",
+                        "10mM",
+                        "pH=7.4"
+                    ]
+                },
+                {
+                    "funding-source": "Nunc MaxiSorp"
+                }
+            ],
+            "funding-statement": "This work was Financial supported by Immunoshape (MSCA-ITN-2014-ETN No 642870) to E.R., European Research Council (ERC-339977-Glycotreat) to Y.K., European Research CouncelMATCH-862113 to E.L., and by NWO Spinoza award to F.C. and E.R. Experimental: C-type lectins ELISA: a solution of 50 \u03bcL of SARS-CoV-2 spike protein (2019-nCoV Spike RBD-His Recombinant Protein, Cat: 40592-V08H, expressed in HEK293 cells, purchased from Sinobiological) at 5 \u03bcg/mL, in PBS (10mM, pH=7.4), were used to coat the Nunc MaxiSorp plate 2h at 37\u00b0C"
+        }
+    ]
+}

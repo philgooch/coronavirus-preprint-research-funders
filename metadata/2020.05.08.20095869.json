@@ -1,0 +1,19 @@
+{
+    "abstract": "Although China achieved an early victory of controlling the novel coronavirus (2019-nCov), the overseas situation is overwhelming negative, especially in Italy. Up to March 11, 2020, 2019-nCov thoroughly broke out in Italy with over 10,000 confirmed cases notwithstanding the gradually block of the country since March 9, 2020. Estimation of possible infection population and prospective suggestion of handling spread based on exist data are of crucial importance. Considering of the biology parameters obtained based on Chinese clinical data in Wuhan, other scholars' work and real spread feature of 2019-nCov in Italy, we built a more applicable model called SEIJR with log-normal distributed time delay to forecast the trend of spreading. Adopting Particle Swarm Optimization (PSO), we estimated the early period average spreading velocity (\u03b10) and conducted inversion analysis of time point (T0) when the virus first hit the Italy. Based on fixed \u03b10 and T0, we then obtained the average spreading velocity \u03b11 after the lock by PSO. For the aim of offering expeditious advice, we generated the prediction trends with different \u03b1 which we considered would be helpful in addressing the infection. Not only solved the complex, nondifferentiable equation of epidemic model, our research also performs well in inversion analysis based on PSO which conveys informative outcomes for further discussion on precatious action. To conclude, the first day of spread is around February 1, 2020 with the early period average spreading velocity \u03b10=0.330 which is higher than most cities in China except Wuhan. After locking the country and attaching great attention to public precaution, the \u03b11 sharply descended to 0.278, indicting the effectiveness of these measures. Furthermore, in order to cope the disease before mid-April, take actions to control the \u03b1 under 0.25 is necessary. Code can be freely download from https://github.com/Summerwork/2019-nCov-Prediction.",
+    "affiliations": [
+        "European Centre for 51 Disease Prevention and Control . All these data is public for everyone. 52 Based on the need of our analysis, we preprocessed the data by adding the daily reported confirmed 53 diagnosed cases to obtain the accumulative amount for following inversion of parameters and prediction. 54 Here are details about the processed data we used in this article"
+    ],
+    "author": "Yangping Zheng; Siyi Sun",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095869",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095869"
+    },
+    "title": "Prediction of 2019-nCov in Italy based on PSO and inversion analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding."
+        }
+    ]
+}

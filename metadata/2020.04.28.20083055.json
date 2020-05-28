@@ -1,0 +1,20 @@
+{
+    "abstract": "Background: The exponential growth of COVID-19 cases and testing has created supply shortages at various points in the testing workflow. As of April 15, 2020 FDA recommendations only allowed for the use of nasopharyngeal, flocked mid turbinate, or foam nasal swabs, all of which are in very low supply. Polyester swabs are more readily available and mass producible. We compare the performance of polyester and foam swabs stored in different transport media. Methods: Both polyester and foam nasal swabs were collected from convalescent COVID-19 patients at a single visit. Using the foam nasal swabs as the comparator, sensitivity of the polyester swabs in each media were calculated, three by three tables were constructed to measure concordance, and cycle threshold (Ct) values were compared. Findings: 126 visits had polyester and foam swabs stored in viral transport media (VTM), 51 had polyester and foam swabs stored in saline, and 63 had a foam swab in VTM and a polyester swab stored in a dry tube. Using nasal foam swabs as a comparator, polyester nasal swabs had a sensitivity of 86\u22195% when both samples were stored in VTM, 86\u22197% when both samples were stored in saline, and 72\u22194% when the polyester swab was stored dry and the foam swab was stored in VTM. Polyester and foam Ct values from the same visit were correlated, but polyester swabs showed decreased performance for cases with a viral load near the detection threshold and higher Ct values on average. Interpretation: Polyester nasal swabs showed a reduction in performance from foam nasal swabs, but may still provide a viable sample collection method given the current supply shortages and public health emergency.\nCompeting Interest Statement",
+    "author": "Leah Padgett; Brian Hart; Deneen Vojta; Rachel Jennings; Douglas Rains; Prateek Verma; Ethan Berke; Yuan-Po Tu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083055",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083055"
+    },
+    "title": "A comparison of health care worker-collected foam and polyester nasal swabs in convalescent COVID-19 patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Thermo Fisher Scientific"
+                }
+            ],
+            "funding-statement": "Lab testing services for this study were funded by Thermo Fisher Scientific"
+        }
+    ]
+}

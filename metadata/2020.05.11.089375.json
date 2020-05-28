@@ -1,0 +1,84 @@
+{
+    "title": "The SARS-CoV-2 conserved macrodomain is a highly efficient ADP-ribosylhydrolase 2 enzyme 3 4 Yousef M.O. Alhammad1, Maithri M. Kashipathy2, Anuradha Roy3, David K. Johnson4, Peter 5 McDonald3, Kevin P. Battaile6, Philip Gao4, Scott Lovell2 and Anthony R. Fehr1,* 6 1Department of Molecular Biosciences, University of Kansas, Lawrence, Kansas 66045, USA 7 2Protein Structure Laboratory, University of Kansas, Lawrence, Kansas 66047, USA 8 3High Throughput Screening Laboratory, University of Kansas, Lawrence, Kansas 66047, USA 9 4Molecular Graphics and Modeling Laboratory and the Computational Chemical Biology Core, 10 University of Kansas, Lawrence, Kansas 66047, USA 11 5Protein Production Group, University of Kansas, Lawrence, Kansas 66047, USA 12 6NYX, New York Structural Biology Center, Upton, NY 11973, USA 13 14 15 *Correspondence: arfehr@ku.edu; Tel.: +1- (785) 864-6626 (K.S.) 16 17 18 Running title: SARS-CoV-2 Mac1 removes ADP-ribose from protein in vitro 19 20 Keywords: Coronavirus, SARS-CoV-2, macrodomain, ADP-ribose",
+    "date": 2020,
+    "affiliations": [
+        "Department of Molecular Biosciences, University of Kansas, Lawrence, Kansas 66045, USA 7",
+        "Protein Structure Laboratory, University of Kansas, Lawrence, Kansas 66047, USA 8",
+        "High Throughput Screening Laboratory, University of Kansas, Lawrence, Kansas 66047, USA 9",
+        "Molecular Graphics and Modeling Laboratory and the Computational Chemical Biology Core",
+        "University of Kansas, Lawrence, Kansas 66047, USA 11",
+        "Protein Production Group, University of Kansas, Lawrence, Kansas 66047, USA 12",
+        "NYX, New York Structural Biology Center, Upton, NY 11973, USA 13 14 15",
+        "Correspondence:",
+        "Running title: SARS-CoV-2 Mac1 removes ADP-ribose from protein in vitro 19 20 Keywords: Coronavirus, SARS-CoV-2, macrodomain, ADP-ribose"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.11.089375",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.11.089375.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and other SARS-like-CoVs encode 3 tandem macrodomains within non-structural protein 3 (nsp3). The first of these macrodomains, termed Mac1, is conserved throughout CoVs, binds to mono- and poly-ADP25 ribose, and hydrolyzes mono-ADP-ribose (MAR) from target proteins. Mac1 is essential for pathogenesis in multiple animal models of CoV infection, implicating this domain as a prominent virulence factor and potential therapeutic target. Mac1 likely counters host-mediated antiviral ADP-ribosylation, a posttranslational modification that is part of the host response to viral infections. Here we report the crystal structure of SARS-CoV-2 Mac1 in complex with ADP-ribose refined at 2.2 \u00c5 resolution. SARS-CoV-2, SARS-CoV and MERS-CoV Mac1 exhibit similar structural folds and ADP-ribose binding modes as shown by structural comparison. All three CoV Mac1 proteins bound to ADP-ribose with low \u03bcM affinities. They also demonstrated highly efficient de-MARylating activity, which was greater than that of the human Mdo2 macrodomain. We conclude that the SARS-CoV-2 and other CoV Mac1 proteins are highly efficient ADP-ribosylhydrolases with strikingly similar activity, indicating that compounds targeting CoV Mac1 proteins may have broad antiviral activity against CoVs.",
+    "keywords": [
+        "Coronavirus",
+        "SARS-CoV-2",
+        "macrodomain",
+        "ADP-ribose"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "GM113117"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "GM113117",
+                        "P30GM110761",
+                        "AI134993-01"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was funded by the National Institutes of Health (NIH), grant numbers P20 GM113117, P30GM110761, and AI134993-01 to A.R.F"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Use of the IMCA-CAT",
+                    "award-id": [
+                        "17-ID"
+                    ]
+                },
+                {
+                    "funding-source": "Advanced Photon Source"
+                },
+                {
+                    "funding-source": "Industrial Macromolecular Crystallography Association"
+                },
+                {
+                    "funding-source": "Hauptman-Woodward Medical Research Institute"
+                }
+            ],
+            "funding-statement": "Use of the IMCA-CAT beamline 17-ID at the Advanced Photon Source was supported by the companies of the Industrial Macromolecular Crystallography Association through a contract with Hauptman-Woodward Medical Research Institute"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Use of the Advanced Photon Source"
+                },
+                {
+                    "funding-source": "Department of Energy, Office"
+                },
+                {
+                    "funding-source": "Office of Basic Energy Sciences,"
+                }
+            ],
+            "funding-statement": "Use of the Advanced Photon Source was supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No"
+        }
+    ]
+}

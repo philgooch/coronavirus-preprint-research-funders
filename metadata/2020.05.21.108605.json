@@ -1,0 +1,64 @@
+{
+    "title": "Mechanistic insights into ventricular arrhythmogenesis of hydroxychloroquine and azithromycin for the treatment of COVID-19",
+    "author": "Gongxin Wang, MSc, Chieh-Ju Lu, D.Phil, Andrew W. Trafford, BVSc, PhD, MRCVS, Xiaohui Tian, BSc, Hannali M Flores, MSc, Piotr Maj, PhD, Kevin Zhang, BSc, Yanhong Niu, MD, Luxi Wang, BSc, Yimei Du, PhD, Xinying Ji, PhD, MD, Yanfang Xu, PhD, MD, Dan Li, PhD10, Neil Herring, MA, DPhil, FRCP10, David Paterson, D.Phil, DSc, FRSB10, Christopher L.-H. Huang, PhD, MD, DSc, FRSB, FESC, Henggui Zhang, PhD, FRSB, FRSA, Ming Lei, DPhil, MD, FRSB10, Guoliang Hao. PhD, MEng.1,10",
+    "date": 2020,
+    "affiliations": [
+        "Henan SCOPE Research Institute of Electrophysiology Co. Ltd., China",
+        "Unit of Cardiac Physiology, Institute of Cardiovascular Sciences, Manchester Academic Health Sciences Centre, The University of Manchester, UK",
+        "Department of Pharmacy, Huaihe Hospital and College of Medicine, Henan University, China",
+        "Biological Physics Group, Department of Physics and Astronomy, The University of Manchester, UK",
+        "Department of Pharmacology, University of Oxford, Oxford, UK",
+        "School of Medicine, Imperial College of London, UK",
+        "Fuwai Central China Cardiovascular Hospital, Beijing, China",
+        "Department of Cardiology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430022, China",
+        "Department of Pharmacology, Hebei Medical University, China",
+        "Department of Physiology, Anatomy and Genetics, University of Oxford, Oxford, UK",
+        "Physiological Laboratory and Department of Biochemistry, University of Cambridge, UK",
+        "Peng Cheng Laboratory, Shenzhen, China",
+        "Key Laboratory of Medical Electrophysiology of the Ministry of Education and Institute of Cardiovascular Research, Southwest Medical University, Luzhou, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.21.108605",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.21.108605.pdf"
+    },
+    "abstract": "Background:\nRecent reports on the use of hydroxychloroquine (HCQ) alone, or combined with azithromycin (AZM) in the management of severe acute respiratory syndrome coronavirus 2 (SARS-CoV2) have raised cardiac safety concerns. Currently, there is limited mechanistic data evaluating cardiac safety with HCQ and AZM therapy.\nMethods:\nUsing comprehensive In Vitro ProArrhythmia Assay (CiPA) Schema IC50 paradigms, we examined the cardiac electrophysiological effects of HCQ and HCQ/AZM. Molecular modelling explored HCQ and AZM binding properties to hERG. Langendorff-perfused guineapig hearts were electrically and optically mapped by multi-electrode array and voltage (RH237) and Ca2+ (Rhod-2 AM) dyes. Human action potential and ion current reconstructions were performed in silico.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Lin Wu, Peking"
+                },
+                {
+                    "funding-source": "University Hospital,"
+                },
+                {
+                    "funding-source": "Sources of Funding This"
+                },
+                {
+                    "funding-source": "Kaifeng Excellent Key Laboratory Grant",
+                    "award-id": [
+                        "20190601A"
+                    ]
+                },
+                {
+                    "funding-source": "British Heart Foundation",
+                    "award-id": [
+                        "PG/14/79/31102",
+                        "PG/15/12/31280"
+                    ]
+                },
+                {
+                    "funding-source": "BHF Centres for Research Excellence",
+                    "award-id": [
+                        "PG/14/80/31106",
+                        "PG/16/67/32340"
+                    ]
+                }
+            ],
+            "funding-statement": "Lin Wu, Peking University Hospital, for scientific advice with this article. Sources of Funding This work is supported by the Kaifeng Excellent Key Laboratory Grant (Grant no. 20190601A) British Heart Foundation (BHF) (PG/14/79/31102, and PG/15/12/31280 and BHF Centres for Research Excellence (CRE) at Cambridge, CLHH, PG/14/80/31106, PG/16/67/32340, ML, PG"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "abstract": "Following the announcement of SARS-CoV-2 worldwide pandemic spread by WHO on March 11, 2020, wastewater based epidemiology received great attention in several countries: The Netherlands [Medama et al., 2020; K-Lodder et al., 2020], USA [Wu et al., 2020; Memudryi et al., 2020], Australia [Ahmed et al., 2020], France [Wurtzer et al., 2020], China [Wang et al., 2020], Spain [Randazzo et al., 2020; Walter et al., 2020], Italy (La Rosa et al., 2020; Rimoldi et al., 2020) and Israel [Or et al., 2020], performed analysis in wastewaters by using different virus concentration techniques. Turkey took its place among these countries on 7th of May, 2020 by reporting SARS-CoV-2 RT-qPCR levels at the inlet of seven (7) major municipal wastewater treatment plants (WWTPs) of Istanbul [Alpaslan Kocamemi et al., 2020], which is a metropole with 15.5 million inhabitants and a very high population density (2987 persons/km2) and having about 65 % of Covid-19 cases in Turkey. Sludges that are produced in WWTPs should be expected to contain SARS-CoV-2 virus as well. There has not yet been any study for the fate of SAR-CoV-2 in sludges generated from WWTPs. Knowledge about the existing of SARS-CoV-2 in sludge may be useful for handling the sludge during its dewatering, stabilizing and disposal processes. This information will also be valuable in case of sludges that are used as soil conditioners in agriculture or sent to landfill disposal. In wastewater treatment plants, generally two different types of sludges are generated; primary sludge (PS) and waste activated sludge (WAS). PS forms during the settling of wastewater by gravity in the primary settling tanks. Little decomposition occurs during primary sludge formation. Since most of the inorganic part of the wastewater is removed in the earlier grit removal process, the PS consists of mainly organic material that settles. The PS is about 1-2 % solids by weight. In the biological treatment part of the WWTPs, the biomass that forms in the anaerobic, anoxic and oxic zones of the process is settled in final clarifiers by gravity and returned to the beginning of the biological process so that it is not washed off. The waste activated sludge (WAS) is the excess part of the biomass that grows in this secondary treatment process. It has to be removed from the process not to increase the mixed liquor suspended solids concentration (bacteria concentration) in the secondary process more than a fixed value. The WAS is about 0.6 - 0.9 % solids by weight. This work aims to find whether SARS-CoV-19 is present in the PS and WAS before it is dewatered and sent to anaerobic or aerobic digester processes or to thermal drying operations. For this purpose, on the 7th of May 2020, two (2) PS samples were collected from Ambarl\u0131 and Tuzla WWTPs, seven (7) WAS samples were collected from Terkos, Ambarl\u0131, Atakoy I & II, Pasakoy II, Buyukcekmece and Tuzla I WWTPs. Polyethylene glycol 8000 (PEG 8000) adsorption [Wu et al., 2020] SARS-Cov-2 concentration method was used for SARS-CoV-2 concentration after optimization. [Alpaslan Kocamemi et al., 2020]. Real time RT-PCR diagnostic panel validated by US was used to quantify SARS-CoV-2 RNA in primary and waste activated sludge samples taken from WWTPs in Istanbul. All samples were tested positive. Titers of SARS-CoV-2 have been detected ranging copies between 1.17E4 to 4.02x104 per liter.",
+    "author": "Halil Kurt; Fahriye Sarac; Ahmet Mete Saatci; Ahmet Sait; Bilge Alpaslan Kocamemi; Bekir Pakdemirli",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099358",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099358"
+    },
+    "title": "SARS-CoV-2 Detection in Istanbul Wastewater Treatment Plant Sludges",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Republic of Turkey, Ministry"
+                },
+                {
+                    "funding-source": "Agriculture and Forestry."
+                }
+            ],
+            "funding-statement": "This work was financed by Republic of Turkey, Ministry of Agriculture and Forestry."
+        }
+    ]
+}

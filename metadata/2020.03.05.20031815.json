@@ -1,0 +1,34 @@
+{
+    "abstract": "Background: Estimating key infectious disease parameters from the COVID-19 outbreak is quintessential for modelling studies and guiding intervention strategies. Whereas different estimates for the incubation period distribution and the serial interval distribution have been reported, estimates of the generation interval for COVID-19 have not been provided. Methods: We used outbreak data from clusters in Singapore and Tianjin, China to estimate the generation interval from symptom onset data while acknowledging uncertainty about the incubation period distribution and the underlying transmission network. From those estimates we obtained the proportions pre-symptomatic transmission and reproduction numbers. Results: The mean generation interval was 5.20 (95%CI 3.78-6.78) days for Singapore and 3.95 (95%CI 3.01-4.91) days for Tianjin, China when relying on a previously reported incubation period with mean 5.2 and SD 2.8 days. The proportion of pre-symptomatic transmission was 48% (95%CI 32-67%) for Singapore and 62% (95%CI 50-76%) for Tianjin, China. Estimates of the reproduction number based on the generation interval distribution were slightly higher than those based on the serial interval distribution. Conclusions: Estimating generation and serial interval distributions from outbreak data requires careful investigation of the underlying transmission network. Detailed contact tracing information is essential for correctly estimating these quantities.\nCompeting Interest Statement",
+    "author": "Jacco Wallinga; Tapiwa Ganyani; Andrea Torneri; Dongxuan Chen; Christel Faes; Cecile Kremer; Niel Hens",
+    "date": 2020,
+    "doi": "10.1101/2020.03.05.20031815",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.05.20031815"
+    },
+    "title": "Estimating the generation interval for COVID-19 based on symptom onset data",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Research Council",
+                    "award-id": [
+                        "682540 - TransMID"
+                    ]
+                }
+            ],
+            "funding-statement": "NH acknowledges funding from the European Research Council (ERC) under the European Union\u0092s Horizon 2020 research and innovation programme (grant agreement 682540 - TransMID)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union's",
+                    "award-id": [
+                        "SC1-PHE-CORONAVIRUS-2020"
+                    ]
+                }
+            ],
+            "funding-statement": "CF, NH and JW acknowledge funding from the European Union's SC1-PHE-CORONAVIRUS-2020 programme"
+        }
+    ]
+}

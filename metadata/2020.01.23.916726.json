@@ -1,0 +1,78 @@
+{
+    "title": "Modelling the epidemic trend of the 2019 novel coronavirus outbreak in China",
+    "author": "Lei Zhang",
+    "date": 2020,
+    "affiliations": [
+        "China-Australia Joint Research Center for Infectious Diseases, School of Public Health, Xi\u2019an Jiaotong University Health Science Center, Xi\u2019an, Shaanxi, 710061, PR China",
+        "Department of Epidemiology and Biostatistics, School of Public Health, Nanjing Medical University, Nanjing, Jiangsu, 210029, PR China",
+        "School of Mathematics and Statistics, Xi\u2019an Jiaotong University, Xi\u2019an, Shaanxi, 710049, PR China",
+        "Melbourne Sexual Health Centre, Alfred Health, Melbourne, Australia",
+        "Central Clinical School, Faculty of Medicine, Nursing and Health Sciences, Monash",
+        "University, Melbourne, VIC, Australia",
+        "Department of Epidemiology and Biostatistics, College of Public Health, Zhengzhou",
+        "University, Zhengzhou 450001, Henan, China"
+    ],
+    "journal": "Beijing",
+    "volume": "1",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.01.23.916726",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.01.23.916726.pdf"
+    },
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "8191101420",
+                        "11801435",
+                        "11631012",
+                        "81673275",
+                        "91846302"
+                    ]
+                },
+                {
+                    "funding-source": "Thousand Talents Plan Professorship for Young Scholars",
+                    "award-id": [
+                        "3111500001"
+                    ]
+                },
+                {
+                    "funding-source": "An Jiaotong University Young Talent Support Program; China"
+                },
+                {
+                    "funding-source": "Postdoctoral Science Foundation",
+                    "award-id": [
+                        "2018M631134"
+                    ]
+                },
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities",
+                    "award-id": [
+                        "xjh012019055"
+                    ]
+                },
+                {
+                    "funding-source": "Natural Science Basic Research Program of Shaanxi Province",
+                    "award-id": [
+                        "2019JQ-187"
+                    ]
+                },
+                {
+                    "funding-source": "National S&T Major Project Foundation of China",
+                    "award-id": [
+                        "2018ZX10715002-004",
+                        "2018ZX10713001-001"
+                    ]
+                },
+                {
+                    "funding-source": "Priority Academic Program Development of Jiangsu Higher Education Institutions"
+                }
+            ],
+            "funding-statement": "This work was supported by the National Natural Science Foundation of China (grant numbers: 8191101420(LZ), 11801435 (MS), 11631012 (YX), 81673275(ZP), 91846302(ZP)); Thousand Talents Plan Professorship for Young Scholars (grant number 3111500001); Xi\u2019An Jiaotong University Young Talent Support Program; China Postdoctoral Science Foundation (grant number 2018M631134); the Fundamental Research Funds for the Central Universities (grant number xjh012019055); Natural Science Basic Research Program of Shaanxi Province (Grant number: 2019JQ-187); the National S&T Major Project Foundation of China (2018ZX10715002-004, 2018ZX10713001-001) and the Priority Academic Program Development of Jiangsu Higher Education Institutions (PAPD). Authors' contributions M.S., Z.P., Y.X., and L.Z. conceived and designed the study"
+        }
+    ]
+}

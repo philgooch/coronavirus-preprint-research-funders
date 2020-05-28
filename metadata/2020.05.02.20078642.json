@@ -1,0 +1,118 @@
+{
+    "abstract": "During the current COVID-19 pandemic, it has been suggested that BAME background patients may be disproportionately affected compared to White but few detailed data are available. We took advantage of near real-time hospital data access and analysis pipelines to look at the impact of ethnicity in 1200 consecutive patients admitted between 1st March 2020 and 12th May 2020 to Kings College Hospital NHS Trust in London (UK). Our key findings are firstly that BAME patients are significantly younger and have different co-morbidity profiles than White individuals. Secondly, there is no significant independent effect of ethnicity on severe outcomes (death or ITU admission) within 14-days of symptom onset, after adjustment for age, sex and comorbidities.",
+    "affiliations": [
+        "Kings College Hospital NHS Trust in London (UK). Our key findings are firstly that BAME patients are significantly younger and have different co-morbidity profiles than White individuals. Secondly, there is no significant independent effect of ethnicity on severe outcomes (death or ITU admission) within 14-days of symptom onset, after adjustment for age, sex and comorbidities"
+    ],
+    "author": "Ajay Shah; Daniel Bean; Rebecca Bendeyan; James T Teo; Richard Dobson",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20078642",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20078642"
+    },
+    "title": "Impact of ethnicity on outcome of severe COVID-19 infection. Data from an ethnically diverse UK tertiary centre",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UKRI Innovation Fellowship",
+                    "award-id": [
+                        "MR/S0031"
+                    ]
+                },
+                {
+                    "funding-source": "Health Data Research UK",
+                    "award-id": [
+                        "MR/S00310X/1",
+                        "https://www.hdruk.ac.uk"
+                    ]
+                }
+            ],
+            "funding-statement": "DMB is funded by a UKRI Innovation Fellowship as part of Health Data Research UK MR/S00310X/1 (https://www.hdruk.ac.uk)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "King's College London MRC Skills Development Fellowship"
+                },
+                {
+                    "funding-source": "UK Medical Research Council",
+                    "award-id": [
+                        "https://mrc.ukri.org",
+                        "IS-BRC-1215-20018"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute for Health Research",
+                    "award-id": [
+                        "https://www.nihr.ac.uk"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "South London and Maudsley NHS Foundation Trust and King's College London"
+                }
+            ],
+            "funding-statement": "RB is funded in part by grant MR/R016372/1 for the King's College London MRC Skills Development Fellowship programme funded by the UK Medical Research Council (MRC, https://mrc.ukri.org) and by grant IS-BRC-1215-20018 for the National Institute for Health Research (NIHR, https://www.nihr.ac.uk ) Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King's College London"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Health Data Research UK; The"
+                },
+                {
+                    "funding-source": "Heart Consortium, European"
+                },
+                {
+                    "funding-source": "Union's Horizon",
+                    "award-id": [
+                        "116074"
+                    ]
+                },
+                {
+                    "funding-source": "The National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "University College London Hospitals Biomedical Research Centre and the NIHR Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "South London and Maudsley NHS Foundation Trust and King's College London"
+                }
+            ],
+            "funding-statement": "RJBD is supported by Health Data Research UK; The BigData@Heart Consortium, European Union's Horizon 2020 grant agreement No 116074; The National Institute for Health Research (NIHR) University College London Hospitals Biomedical Research Centre and the NIHR Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King's College London"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "British Heart Foundation",
+                    "award-id": [
+                        "CH/1999001/11735"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "Guy's & St"
+                },
+                {
+                    "funding-source": "NHS Foundation Trust and King's College London",
+                    "award-id": [
+                        "IS-BRC-1215-20006"
+                    ]
+                },
+                {
+                    "funding-source": "Fondation Leducq"
+                }
+            ],
+            "funding-statement": "AMS is supported by the British Heart Foundation (CH/1999001/11735), the NIHR Biomedical Research Centre at Guy's & St Thomas' NHS Foundation Trust and King's College London (IS-BRC-1215-20006), and the Fondation Leducq"
+        }
+    ]
+}

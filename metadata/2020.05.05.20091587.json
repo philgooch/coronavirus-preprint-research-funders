@@ -1,0 +1,32 @@
+{
+    "abstract": "Background: The COVID-19 pandemic is the greatest public health crisis of the last 100 years. Countries have responded with various levels of lockdown to save lives and stop health systems from being overwhelmed. At the same time, lockdowns entail large socio-economic costs. One exit strategy under consideration is a mobile phone app that traces close contacts of those infected with COVID- 19. Recent research has demonstrated the theoretical effectiveness of this solution in different disease settings. However, concerns have been raised about such apps because of the potential privacy implications. This could limit the acceptability of app-based contact tracing among the general population. As the effectiveness of this approach increases strongly with app take-up, it is crucial to understand public support for this intervention. Objectives: The objective of this study is to investigate user acceptability of a contact-tracing app in five countries hit by the pandemic. Methods We conducted a multi-country, large-scale (N = 5995) study to measure public support for digital contact tracing of COVID-19 infections. We ran anonymous online surveys in France, Germany, Italy, the UK and the US. We measured intentions to use a contact-tracing app across different installation regimes (voluntary installation vs. automatic installation by mobile phone providers), and studied how these intentions vary across individuals and countries. Results: We found strong support for the app under both regimes, in all countries, across all sub-groups of the population, and irrespective of regional-level COVID-19 mortality rates. We inves- tigated the main factors that may hinder or facilitate take-up and found that concerns about cyber security and privacy, together with lack of trust in government, are the main barriers to adoption. Conclusions: Epidemiological evidence shows that app-based contact-tracing can suppress the spread of COVID-19 if a high enough proportion of the population uses the app and that it can still reduce the number of infections if take-up is moderate. Our findings show that the willingness to install the app is very high. The available evidence suggests that app-based contact tracing may be a viable approach to control the diffusion of COVID-19.\nCompeting Interest Statement",
+    "affiliations": [
+        "University of Oxford and Volkswagen Foundation (grant \"Consequences of Artificial Intelligence for Urban Societies\")"
+    ],
+    "author": "Samuel Altmann; Frederic Gerdon; Ruben Bach; Frauke Kreuter; Hannah Zillessen; Raffaele Blasone; Severine Toussaert; Johannes Abeler; Daniele Nosenzo; Luke Milsom",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091587",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091587"
+    },
+    "title": "Acceptability of app-based contact tracing for COVID-19: Cross-country survey evidence",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Economic and Social Research Council",
+                    "award-id": [
+                        "ES/R011710/1"
+                    ]
+                },
+                {
+                    "funding-source": "University of Oxford and Volkswagen Foundation"
+                },
+                {
+                    "funding-source": "Consequences of Artificial Intelligence for Urban Societies\""
+                }
+            ],
+            "funding-statement": "We acknowledge funding from the Economic and Social Research Council (grant ES/R011710/1), the University of Oxford and Volkswagen Foundation (grant \"Consequences of Artificial Intelligence for Urban Societies\")"
+        }
+    ]
+}

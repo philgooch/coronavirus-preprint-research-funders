@@ -1,0 +1,45 @@
+{
+    "title": "Structural basis for the inhibition of SARS-CoV-2 main protease by antineoplastic drug Carmofur",
+    "author": "Zhenming Jin, Yao Zhao, Yuan Sun, Bing Zhang, Haofeng Wang, Yan Wu, 4 Yan Zhu, Chen Zhu, Tianyu Hu, Xiaoyu Du, Yinkai Duan, Jing Yu, Xiaobao 5 Yang, Xiuna Yang, Kailin Yang, Xiang Liu, Luke W. Guddat, Gengfu Xiao, Leike 6 Zhang, Haitao Yang,\u2020 & Zihe Rao",
+    "date": 2020,
+    "affiliations": [
+        "Shanghai Institute for Advanced Immunochemical Studies and School of Life Science 8 and Technology, ShanghaiTech University, Shanghai, China. 9",
+        "Laboratory of Structural Biology, School of Life Sciences and School of Medicine",
+        "Tsinghua University, Beijing, China. 11",
+        "State Key Laboratory of Virology, Wuhan Institute of Virology, Center for Biosafety",
+        "Mega-Science, Chinese Academy of Sciences, Wuhan, China. 13",
+        "School of Life Sciences, Tianjin University, Tianjin, China. 14",
+        "Taussig Cancer Center, Cleveland Clinic, Cleveland, OH, USA. 15",
+        "State Key Laboratory of Medicinal Chemical Biology, Frontiers Science Center for",
+        "Cell Response, College of Life Sciences, College of Pharmacy, Nankai University",
+        "Tianjin, China. 18",
+        "School of Chemistry and Molecular Biosciences, the University of Queensland",
+        "Brisbane, Australia. 20",
+        "These authors contributed equally: Zhenming Jin, Yao Zhao and Yuan Sun. 21 \u2020"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.09.033233",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.09.033233.pdf"
+    },
+    "abstract": "The antineoplastic drug Carmofur was shown to inhibit SARS-CoV-2 main protease (Mpro). Here the X-ray crystal structure of Mpro in complex with Carmofur reveals that the carbonyl reactive group of Carmofur is covalently bound to catalytic Cys145, whereas its fatty acid tail occupies the hydrophobic S2 subsite. Carmofur inhibits viral replication in cells (EC50 = 24.30 \u03bcM) and it is a promising lead compound to develop new antiviral treatment for COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2017YFC0840300",
+                        "2020YFA0707500 to Z.R."
+                    ]
+                },
+                {
+                    "funding-source": "Project of International Kabsch,"
+                }
+            ],
+            "funding-statement": "This work was supported by grants from National Key R&D Program of China (grants No. 2017YFC0840300 and 2020YFA0707500 to Z.R.), Project of International Kabsch, W"
+        }
+    ]
+}

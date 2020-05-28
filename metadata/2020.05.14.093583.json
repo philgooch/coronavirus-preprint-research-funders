@@ -1,0 +1,67 @@
+{
+    "title": "Exosomes Facilitate Transmission of SARS-CoV-2 Genome into Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes",
+    "author": "Default User",
+    "date": 2020,
+    "affiliations": [
+        "Department of Pharmacology, The University of Illinois College of Medicine, IL 60612, USA",
+        "Centre for Cardiovascular Genomics and Medicine, Lui Che Woo Institute of Innovative",
+        "Chinese University of Hong Kong (CUHK), Hong Kong SAR",
+        "Hong Kong Hub of Pediatric Excellence, Hong Kong Children's Hospital, Kowloon Bay, Hong Kong SAR",
+        "Department of Medicine and Therapeutics, Faculty of Medicine, CUHK, Hong Kong SAR",
+        "Department of Basic Medical Sciences, University of Arizona College of Medicine \u2013 Phoenix",
+        "Division of Cardiology, Department of Medicine, The University of Illinois College of Medicine, IL 60612, USA",
+        "These authors contributed equally"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.093583",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.093583.pdf"
+    },
+    "abstract": "The novel coronavirus disease 2019 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has evolved into a worldwide pandemic. Early data suggest that the prevalence and severity of COVID-19 appear to be higher among patients with underlying cardiovascular risk factors. Despite the expression of angiotensin-converting enzyme 2 (ACE2), a functional receptor for SARS-CoV-2 infection, in cardiomyocytes, there has been no evidence of direct viral infection although the presence of inflammation and viral genome within the hearts of COVID-19 patients have been reported. Here we transduced A549 lung epithelial cells with lentivirus overexpressing selected genes of the SARS-CoV-2. We then isolated exosomes from the supernatant of A549 cells and detected the presence of viral genome within the purified exosomes. Importantly, we observed that human induced pluripotent stem cellderived cardiomyocytes (hiPSC-CMs) were able to actively uptake these exosomes and viral genes were subsequently detected in the cardiac cells. Accordingly, uptake of exosomes containing viral genes led to an upregulation of inflammation-related genes in hiPSC-CMs. Thus, our findings indicate that SARS-CoV-2 RNA-containing exosomes represent an indirect route of entry into cardiomyocytes resulting in potential cardiac dysfunction without the need for direct viral infection.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Improvement on Competitiveness in Hiring New Faculties Funding Scheme from the Chinese University of Hong Kong,"
+                },
+                {
+                    "funding-source": "Centre for Cardiovascular Genomics and Medicine"
+                },
+                {
+                    "funding-source": "Lui Che Woo Institute of Innovative Medicine CUHK,"
+                },
+                {
+                    "funding-source": "Hong Kong Hub of Pediatric Excellence",
+                    "award-id": [
+                        "HK HOPE"
+                    ]
+                },
+                {
+                    "funding-source": "HK HOPE)"
+                },
+                {
+                    "funding-source": "Hong Kong Children's Hospital"
+                },
+                {
+                    "funding-source": "Department of Medicine and Therapeutics, Faculty"
+                },
+                {
+                    "funding-source": "American Heart Association Scientist Development Grant",
+                    "award-id": [
+                        "16SDG27560003"
+                    ]
+                },
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "R00HL130416",
+                        "HL148756"
+                    ]
+                }
+            ],
+            "funding-statement": "FUNDING S B.O. is supported by an Improvement on Competitiveness in Hiring New Faculties Funding Scheme from the Chinese University of Hong Kong, the Centre for Cardiovascular Genomics and Medicine (CCGM), Lui Che Woo Institute of Innovative Medicine CUHK, the Hong Kong Hub of Pediatric Excellence (HK HOPE), Hong Kong Children's Hospital (HKCH) as well as the Department of Medicine and Therapeutics, Faculty of Medicine, CUHK. W.H.L. is supported by the American Heart Association Scientist Development Grant 16SDG27560003. S.G.O. is supported by the National Institutes of Health R00HL130416 and R01 HL148756."
+        }
+    ]
+}

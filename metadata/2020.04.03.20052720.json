@@ -1,0 +1,35 @@
+{
+    "abstract": "Most models of the COVID-19 pandemic in the United States do not consider geographic variation, and their relevance to public policies is not straightforward. We developed a mathematical model that characterizes infections by state and incorporates inflows and outflows of interstate travelers. Modeling reveals that curbing interstate travel when the disease is already widespread will make little difference. Meanwhile, increased testing capacity (facilitating early identification of infected people and quick isolation) and strict social-distancing and self-quarantine rules are effective in abating the outbreak. The modeling has also produced state-specific information. For example, for New York and Michigan, isolation of persons exposed to the virus needs to be imposed within 2 days to prevent a broad outbreak, whereas for other states this period can be 3.6 days. This model could be used to determine resources needed before safely lifting state policies on social distancing.",
+    "author": "Qin Li; Yuhao Kang; Xun Shi; Shi Chen; Song Gao",
+    "date": 2020,
+    "doi": "10.1101/2020.04.03.20052720",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.03.20052720"
+    },
+    "title": "Mitigating COVID-19 outbreak via high testing capacity and strong transmission-intervention in the United States",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "BCS-2027375"
+                    ]
+                },
+                {
+                    "funding-source": "Award No BCS-2027375)"
+                },
+                {
+                    "funding-source": "Data Science Initiative of UW-Madison."
+                },
+                {
+                    "funding-source": "Scholarly Innovation and Advancement Awards of Dartmouth College. Any"
+                },
+                {
+                    "funding-source": "National Science Foundation."
+                }
+            ],
+            "funding-statement": "S.G. and Q.L. acknowledge the funding support provided by the National Science Foundation (Award No BCS-2027375). Q.L. and S.C. acknowledge the Data Science Initiative of UW-Madison. X.S. acknowledges the Scholarly Innovation and Advancement Awards of Dartmouth College. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation."
+        }
+    ]
+}

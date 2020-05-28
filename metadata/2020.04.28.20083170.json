@@ -1,0 +1,135 @@
+{
+    "abstract": "Background: The COVID-19 pandemic has caused disruption across cancer pathways for diagnosis and treatment. In England, 32% of colorectal cancer (CRC) is diagnosed via urgent symptomatic referral from primary care, the \"2-week-wait\" (2WW) pathway. Access to routine endoscopy is likely to be a critical bottleneck causing delays in CRC management due to chronic limitation in capacity, acute competition for physician time, and safety concerns. Methods: We used age-specific, stage-specific 10 year CRC survival for England 2007-2017 and 2WW CRC cases volumes. We used per-day hazard ratios of CRC survival generated from observational studies of CRC diagnosis-to-treatment interval to model the effect of different durations of per-patient delay. We utilised data from a large London observational study of faecal immunochemical testing (FIT) in symptomatic patients to model FIT-triage to mitigate delay to colonoscopy. Findings: Modest delays result in significant reduction in survival from CRC with a 4-month delay resulting across age groups in \u226520% reduction in survival in Stage 3 disease and in total over a year, 1,419 attributable deaths across the 11,266 CRC patients diagnosed via the 2WW pathway. FIT triage of >10 ug Hb/g would salvage 1,292/1,419 of the attributable deaths and reduce colonoscopy requirements by >80%. Diagnostic colonoscopy offers net survival in all age groups, providing nosocomial COVID-19 infection rates are kept low (<2.5%). Interpretation To avoid significant numbers of avoidable deaths from CRC, normal diagnostic and surgical throughput must be maintained. An accrued backlog of cases will present to primary care following release of lockdown, supranormal endoscopy capacity will be required to manage this without undue delays. FIT-triage of symptomatic cases provides a rational approach by which to avoid patient delay and mitigate pressure on capacity in endoscopy. This would also reduce exposure to nosocomial COVID-19 infection, relevant in particular to older patient groups. Funding: Breast Cancer Now, Cancer Research UK, Bobby Moore Fund for Cancer Research, National Institute for Health Research (NIHR).\nCompeting Interest Statement",
+    "affiliations": [
+        "Breast Cancer Now, Cancer Research UK, Bobby Moore Fund for Cancer Research, National Institute for Health Research (NIHR)",
+        "Clinical Lectureship from National Institute for Health Research (NIHR) and Biomedical Research Centre (BRC) post-doctoral support. This is a summary of independent research supported by the NIHR BRC at the Royal Marsden NHS Foundation Trust and Institute of Cancer Research. The views expressed are those of the authors and not necessarily those of the NHS, NIHR, or the Department of Health"
+    ],
+    "author": "Amit Sud; John Broggio; Emma Kipps; David C. Muller; Stephen Scott; Shaman Jhanji; Richard Houlston; Matthew Williams; Elio Riboli; Chey Loveday; Alice Garrett; Ethna McFerran; Michael Jones; David L. Nicol; Clare Ann Turnbull; Claire Barry; Georgios Lyratzopoulos; Bethany Torr; Stephen A. Boyce; Muti Abulafi; Mark Lawler",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083170",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083170"
+    },
+    "title": "Quantifying and mitigating the impact of the COVID-19 pandemic on outcomes in colorectal cancer",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Breast Cancer Now, Cancer"
+                },
+                {
+                    "funding-source": "Research UK, Bobby"
+                },
+                {
+                    "funding-source": "Moore Fund for Cancer Research, National"
+                },
+                {
+                    "funding-source": "Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Competing Interest Statement The"
+                },
+                {
+                    "funding-source": "Funding Statement MEJ"
+                },
+                {
+                    "funding-source": "Breast Cancer Now"
+                }
+            ],
+            "funding-statement": "Funding: Breast Cancer Now, Cancer Research UK, Bobby Moore Fund for Cancer Research, National Institute for Health Research (NIHR). ### Competing Interest Statement The authors have declared no competing interest. ### Funding Statement MEJ additionally received funding from Breast Cancer Now"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Cancer Research UK",
+                    "award-id": [
+                        "C61296/A27223"
+                    ]
+                }
+            ],
+            "funding-statement": "B.T and A.G. are supported by Cancer Research UK award C61296/A27223"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Cancer Research UK",
+                    "award-id": [
+                        "C1298/A8362"
+                    ]
+                },
+                {
+                    "funding-source": "Bobby Moore Fund for Cancer"
+                }
+            ],
+            "funding-statement": "R.S.H. is supported by Cancer Research UK (C1298/A8362) and Bobby Moore Fund for Cancer"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Cancer Research UK Advanced Clinician Scientist Fellowship Award",
+                    "award-id": [
+                        "C18081/A18180"
+                    ]
+                },
+                {
+                    "funding-source": "Associate Director of the"
+                },
+                {
+                    "funding-source": "CanTest Collaborative",
+                    "award-id": [
+                        "C8640/A23385"
+                    ]
+                },
+                {
+                    "funding-source": "Cancer Research UK",
+                    "award-id": [
+                        "C8640/A23385"
+                    ]
+                }
+            ],
+            "funding-statement": "GL is supported by a Cancer Research UK Advanced Clinician Scientist Fellowship Award [C18081/A18180] and is Associate Director of the multi-institutional CanTest Collaborative funded by Cancer Research UK [C8640/A23385]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Cancer Research UK",
+                    "award-id": [
+                        "C57955/A24390"
+                    ]
+                }
+            ],
+            "funding-statement": "D.C.M is supported by Cancer Research UK (C57955/A24390"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Breast Cancer Now, Cancer"
+                },
+                {
+                    "funding-source": "Research UK, Bobby"
+                },
+                {
+                    "funding-source": "Moore Fund for Cancer Research, National"
+                },
+                {
+                    "funding-source": "Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                }
+            ],
+            "funding-statement": "Funding: Breast Cancer Now, Cancer Research UK, Bobby Moore Fund for Cancer Research, National Institute for Health Research (NIHR)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Breast Cancer Now"
+                }
+            ],
+            "funding-statement": "MEJ additionally received funding from Breast Cancer Now"
+        }
+    ]
+}

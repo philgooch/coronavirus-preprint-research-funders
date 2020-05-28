@@ -1,0 +1,16 @@
+{
+    "abstract": "INTRODUCTION: Predicting the number of Covid19 patients in the Intensive Care Units (ICU) could be useful to avoid the breaking point. We attempted to deduce a formula in order to model the number of the ICU patients in France from the official data and patient turnover in the ICU. METHODS: The Covid19 ICU patient turnover was calculated using a recurrence relation from the internal data provided by Hospices Civils de Lyon. The number of new Covid19 cases detected daily was modelized to fit with the last known data in France and extrapolated for the coming days using two scenarios following the existing data in China (best scenario) and Italy (worst scenario). The number of daily admissions in ICU was calculated as the sum of 13.7% of the new Covid19 cases detected on a given day and 7.8% of the average of the total new Covid-19 cases recorded in the last week. Approximately 39.7% of patients admitted to the ICU were non-intubated with an average ICU length of stay of 4 days. Conversely, 60.3% of patients were intubated and for those who died among them (14.44%) the ICU length of stay was of 4 days for 78.3% of them and of 15 days for 21.7% of them. For the intubated patients that were discharged alive, the ICU length of stay was of 6 days for 44.4% of them and of 20 days for 55.6% of them. RESULTS: We predict a peak of between 7072 and 8043 patients for the overall French territory. CONCUSION: Despite a simplified mathematical model, the strength of our study is a narrow possible range of predicted total number of ICU patients.",
+    "author": "Celine Guichon; Pierre-Francois Wey; Florent Wallet; Andrei CIVIDJIAN; Sandrine Couray-Targe; Olivier Martin; Rimmele Thomas",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20056226",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20056226"
+    },
+    "title": "Simplified model of the number of Covid-19 patients in the ICU: update April 6, 2020",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no external funding was received</strong>"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Scalable, inexpensive, accurate, and secure testing for SARS-CoV-2 infection is crucial for control of the novel coronavirus pandemic. Recently developed highly multiplexed sequencing assays that rely on high-throughput sequencing (HMSAs) can, in principle, meet these demands, and present promising alternatives to currently used RT-qPCR-based tests. However, the analysis and interpretation of HMSAs requires overcoming several computational and statistical challenges. Using recently acquired experimental data, we present and validate an accurate and fast computational testing workflow based on kallisto and bustools, that utilize robust statistical methods and fast, memory efficient algorithms for processing high-throughput sequencing data. We show that our workflow is effective at processing data from all recently proposed SARS-CoV-2 sequencing based diagnostic tests, and is generally applicable to any diagnostic HMSAs.",
+    "author": "Joshua S. Bloom; Scott W. Simpkins; Jase Gehring; A. Sina Booeshaghi; Lior Pachter; Nathan B. Lubock; Laura Luebbert; Sriram Kosuri; Aaron R. Cooper",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20100131",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20100131"
+    },
+    "title": "Fast and accurate diagnostics from highly multiplexed sequencing assays",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None."
+        }
+    ]
+}

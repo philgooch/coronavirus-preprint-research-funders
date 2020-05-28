@@ -1,0 +1,23 @@
+{
+    "abstract": "Objectives: To observe outbreak of COVID-19 in Henan province caused by the output population from Wuhan, and high-grade control measures were proformed in Henan province, to study the phase of development and change of the epidemic in Henan province, and to make appropriate inferences about the influence of prevention and control measures and the phase of development of the epidemic. Methods: Linear regression analysis were used to establish a linear regression model with the number of Wuhan roaming people as the dependent variable and the cumulative number of COVID-19 cases in Henan province as the dependent variable, and to calculate and plot the regional distribution of the number of cases in 18 cities in Henan province in accordance with the criteria of whether the number of cases exceeded the expected number. Results: There was a linear correlation between the number of people Wuhan roaming and the number of cases, and the linear regression model equation was statistically significant. The cities that exceeded the expected number of cases had a clear spatio-temporal distribution. Geographically, these cities were roughly in the 1 o'clock and 2 o'clock directions in Nanyang, and in terms of time period, the first phase (10 days), the cities that exceeded the expected number of cases changed almost daily. In the second phase (5 days), cities that exceeded the expected number of cases were moderated, and in the third phase (15 days), cities that exceeded the expected number of cases entered the stabilization phase. Conclusions: The priority cities for COVID-19 prevention and control in Henan province should pay special attention to the cities that have exceeded the expected number of COVID-19 cases, and the implementation of high-level control measures can effectively control the spread of COVID-19 within 2-4 weeks during the early stage of the epidemic. Keywords: novel coronavirus; COVID-19; pneumonia; statistical map; epidemic",
+    "author": "Cheng Yuanyuan",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089193",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089193"
+    },
+    "keywords": [
+        "novel coronavirus",
+        "COVID-19",
+        "pneumonia",
+        "statistical map",
+        "epidemic"
+    ],
+    "title": "Linear regression analysis of COVID-19 outbreak and control in Henan province caused by the output population from Wuhan",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There is no external funding, and there is no conflict of interests."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "The outbreak of coronavirus infectious disease-2019 (COVID-19) pneumonia challenges the rapid interrogation of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in human and environmental specimens. In this study, we developed an assay using surface enhanced Raman scattering (SERS) coupled with multivariate analysis to diagnose SARS-CoV-2 in an ultra-fast manner without any pretreatment (e.g., RNA extraction). Using silver-nanorod SERS array functionalized with cellular receptor angiotensin-converting enzyme 2 (ACE2), we obtained strong SERS signals of ACE2 at 1032, 1051, 1089, 1189, 1447 and 1527 cm-1. The recognition and binding of receptor binding domain (RBD) of SARS-CoV-2 spike protein on SERS assay significantly quenched the spectral intensities of most peaks and exhibited a shift from 1189 to 1182 cm-1. On-site tests on 17 water samples with a portable Raman spectrometer proved its accuracy and easy-operation for spot diagnosis of SARS-CoV-2 to evaluate disinfection performance, explore viral survival in environmental media, assess viral decay in wastewater treatment plant and track SARS-CoV-2 in pipe network. Our findings raise a state-of-the-art spectroscopic tool to screen and interrogate viruses with RBD for human cell entry, proving its feasibility and potential as an ultra-fast diagnostic tool for public health.",
+    "author": "Xian Zhang; Rui Ma; Dayi Zhang; Junyi Li; Yi Liu; Xia Huang; Yu Zhu; Guanghe Li; Xiaoling Zhang; Xinquan Wang; Jiuhui Qu; Songqiang Deng",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20086876",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20086876"
+    },
+    "title": "Ultra-fast and onsite interrogation of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in environmental specimens via surface enhanced Raman scattering (SERS)",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "NA."
+        }
+    ]
+}

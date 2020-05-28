@@ -1,0 +1,16 @@
+{
+    "abstract": "This paper uncovers the socioeconomic and health/lifestyle factors that can explain the differential impact of the coronavirus pandemic on different parts of the United States. Using a dynamic panel model with daily reported number of cases for US counties over a 20-day period, the paper develops a Vulnerability Index for each county from an epidemiological model of disease spread. County-level economic, demographic, and health factors are used to explain the differences in the values of this index and thereby the transmission and concentration of the disease across the country. These factors are also used in a zero-inflated negative binomial pooled model to examine the number of reported deaths. The paper finds that counties with high per capita personal income have a high incidence of both reported cases and deaths. The unemployment rate is negative for deaths implying that places with low unemployment rates or higher economic activity have higher reported deaths. Counties with higher income inequality as measured by the Gini coefficient experienced more deaths and reported more cases. There is a remarkable similarity in the distribution of cases across the country and the distribution of distance-weighted international passengers served by the top international airports. Counties with high concentrations of non-Hispanic Blacks, Native Americans, and immigrant populations have a higher incidence of both cases and deaths. The distributions of health risk factors such as obesity, diabetes, smoking are found to be particularly significant factors in explaining the differences in mortality across counties. Counties with higher numbers of primary care physicians have lower deaths and so do places with lower hospital stays for preventable causes. The stay-at-home orders are found to be associated with places of higher cases and deaths implying that they were perhaps imposed far too late to have contained the virus in the places with high-risk populations. It is hoped that research such as these will help policymakers to develop risk factors for each region of the country to better contain the spread of infectious diseases in the future.",
+    "author": "Nivedita Mukherji",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20091041",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20091041"
+    },
+    "title": "The Social and Economic Factors Underlying the Incidence of COVID-19 Cases and Deaths in US Counties",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding supported this research."
+        }
+    ]
+}

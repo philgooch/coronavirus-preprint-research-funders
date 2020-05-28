@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 pandemic is a global concern, due to its high spreading and alarming fatality rate. Mathematical models can play a decisive role in mitigating the spread and predicting the growth of the epidemic. India is a large country, with a highly variable inter-state mobility, and dynamically varying infection cases in different locations; thus, the existing models, based solely on the aspects of growth rates, or generalized network concepts, may not provide desired predictions. The internal mobility of a country must be considered, for accurate prediction. Herein, we propose a framework for predicting the geographical spread of COVID-19, using reported COVID-19 cases, census migration data, and monthly airline data of passengers. We discover that spreading depends on the spatial distribution of existing cases, human mobility patterns, and administrative decisions. In India, the mobility towards professional sites can surge incoming cases at Maharastra and Karnataka, while migration towards the native places can risk Uttar Pradesh and Bihar. We anticipate that the state Kerala, with one of the highest cases of COVID-19, may not receive significant incoming cases, while Karnataka and Haryana may receive the challenge of high incoming cases, with medium cases so far. Using airline passenger's data, we also estimate the number of potential incoming cases at various airports. The study predicts that the airports located in the region of north India are vulnerable, whereas in northeast India and in some south India are relatively safe. The detailed analysis in this direction will guide policymakers for prior planning of transport, and minimize the spread of COVID-19.",
+    "author": "Ankush Kumar",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076489",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076489"
+    },
+    "title": "Modeling geographical spread of COVID-19 in India using network-based approach",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

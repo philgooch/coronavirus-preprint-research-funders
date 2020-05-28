@@ -1,0 +1,55 @@
+{
+    "abstract": "France has been heavily affected by the SARS-CoV-2 epidemic and went into lockdown on the 17th March 2020. Using models applied to hospital and death data, we estimate the impact of the lockdown and current population immunity. We find 2.6% of infected individuals are hospitalized and 0.53% die, ranging from 0.001% in those <20y to 8.3% in those >80y. Across all ages, men are more likely to be hospitalized, enter intensive care, and die than women. The lockdown reduced the reproductive number from 3.3 to 0.5 (84% reduction). By 11 May, when interventions are scheduled to be eased, we project 3.7 million (range: 2.3-6.7) people, 5.7% of the population, will have been infected. Population immunity appears insufficient to avoid a second wave if all control measures are released at the end of the lockdown.",
+    "affiliations": [
+        "Laboratoire d\u0092Excellence Integrative Biology of Emerging Infectious Diseases program (Grant ANR-10-LABX-62-IBEID), Sant\u00e9 Publique France, the INCEPTION project (PIA/ANR-16-CONV-0005) and European Union V.E.O and RECOVER projects. HS would also like to acknowledge support from the European Research Council (No. 804744)"
+    ],
+    "author": "Yann Le Strat; Simon Cauchemez; Noemie Courtejoie; Henrik Salje; Noemie Lefrancq; Pierre-Yves Boelle; Paolo Bosetti; Justin Lessler; Cecile Tran Kiem; Arnaud Fontanet; Claire-Lise Dubost; Alessio Andronico; Juliette Paireau; Daniel Levy Bruhl; Lulla Opatowski; Jehanne Richet; Nathanael Hoze",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072413",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072413"
+    },
+    "title": "Estimating the burden of SARS-CoV-2 in France",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Excellence Integrative Biology of Emerging Infectious Diseases",
+                    "award-id": [
+                        "ANR-10-LABX-62-IBEID"
+                    ]
+                },
+                {
+                    "funding-source": "Sant\u00e9 Publique France,",
+                    "award-id": [
+                        "PIA/ANR-16-CO"
+                    ]
+                },
+                {
+                    "funding-source": "INCEPTION project",
+                    "award-id": [
+                        "PIA/ANR-16-CONV-0005"
+                    ]
+                },
+                {
+                    "funding-source": "European Union V.E."
+                },
+                {
+                    "funding-source": "RECOVER project"
+                }
+            ],
+            "funding-statement": "We acknowledge financial support from the Investissement d\u0092Avenir program, the Laboratoire d\u0092Excellence Integrative Biology of Emerging Infectious Diseases program (Grant ANR-10-LABX-62-IBEID), Sant\u00e9 Publique France, the INCEPTION project (PIA/ANR-16-CONV-0005) and European Union V.E.O and RECOVER projects"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Research Council",
+                    "award-id": [
+                        "804744"
+                    ]
+                }
+            ],
+            "funding-statement": "HS would also like to acknowledge support from the European Research Council (No 804744)"
+        }
+    ]
+}

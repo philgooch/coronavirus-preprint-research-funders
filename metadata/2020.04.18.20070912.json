@@ -1,0 +1,19 @@
+{
+    "abstract": "Background: The coronavirus 2019 (COVID-19) pandemic has been spread-ing globally for months, yet the infection fatality ratio of the disease is still uncertain. This is partly because of inconsistencies in testing and death reporting standards across countries. Our purpose is to provide accurate estimates which do not rely on testing and death count data directly but only use population level statistics. Methods: We collected demographic and death records data from the Italian Institute of Statistics. We focus on the area in Italy that experienced the initial outbreak of COVID-19 and estimated a Bayesian model fitting age-stratified mortality data from 2020 and previous years. We also assessed the sensitivity of our estimates to alternative assumptions on the proportion of population infected. Findings: We estimate an overall infection fatality rate of 1.31% (95% credible interval [CrI] 0.94-1.89), as well as large differences by age, with a low infection fatality rate of 0.05% for under 60 year old (CrI 0-0.17) and a substantially higher 4.16% (CrI 3.05-5.80) for people above 60 years of age. In our sensitivity analysis, we found that even under extreme assumptions, our method delivered useful information. For instance, even if only 10% of the population were infected, the infection fatality rate would not rise above 0.2% for people under 60. Finally, using data on demographics we show large expected heterogeneity in overall IFR across countries. Interpretation: Our empirical estimates based on population level data show a sharp difference in fatality rates between young and old people and firmly rule out overall fatality ratios below 0.5% in populations with more than 30% over 60 years old.\nCompeting Interest Statement",
+    "affiliations": [
+        "Italian Institute of Statistics. We focus on the area in Italy that experienced the initial outbreak of COVID-19 and estimated"
+    ],
+    "author": "Matteo Paradisi; Gianluca Rinaldi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.18.20070912",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.18.20070912"
+    },
+    "title": "An empirical estimate of the infection fatality rate of COVID-19 from the first Italian outbreak",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The funders had no role in study design, data collection, data analysis, data interpretation, or writing of the report. All authors had full access to all data in the study and had final responsibility for the decision to submit for publication."
+        }
+    ]
+}

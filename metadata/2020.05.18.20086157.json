@@ -1,0 +1,26 @@
+{
+    "abstract": "Objectives: Following detection of the first virologically-confirmed cases of COVID-19 in Great Britain, an enhanced surveillance study was initiated by Public Health England to describe the clinical presentation, course of disease and identify risk factors for infection of the first few hundred cases. Methods: Information was collected on the first COVID-19 cases according to the First Few X WHO protocol. Case-control analyses of the sensitivity, specificity and predictive value of symptoms and risk factors for infection were conducted. Point prevalences of underlying health conditions among the UK general population were presented. Findings: The majority of FF100 cases were imported (51.4%), of which the majority had recent travel to Italy (71.4%). 24.7% were secondary cases acquired mainly through household contact (40.4%). Children had lower odds of COVID-19 infection compared with the general population. The clinical presentation of cases was dominated by cough, fever and fatigue. Non-linear relationships with age were observed for fever, and sensitivity and specificity of symptoms varied by age. Conditions associated with higher odds of COVID-19 infection (after adjusting for age and sex) were chronic heart disease, immunosuppression and multimorbidity. Conclusion: This study presents the first epidemiological and clinical summary of COVID-19 cases in Great Britain. The FFX study design enabled systematic data collection. The study was able to characterize the risk factors for infection with population prevalence estimates setting these relative risks into a public health context. It also provides important evidence for generating case definitions to support public health risk assessment, clinical triage and diagnostic algorithms.",
+    "affiliations": [
+        "National Institute for Health Research (NIHR) Health Protection Research Unit (HPRU) in Immunisation at the London School of Hygiene and Tropical Medicine in partnership with Public Health England (PHE). The views expressed are those of the authors and not necessarily those of the NHS, the NIHR, the Department of Health and Social Care, or PHE"
+    ],
+    "author": "Emma Bennett; Rosie Whillock; Mary Ramsay; Jemma L Walker; Pauline MacDonald; Gavin Dabrera; Tatiana Garcia Vilaplana; Mary Sinnathamby; Laura Coughlan; Rohini Mathur; Maria Zambon; Obaghe Edeghere; Joseph Shingleton; Ian J Douglas; Nicola L Boddington; Andre Charlett; Jim McMenamin; Roberto Vivancos; Helen Strongman; Chloe Byers; Nikolaos Panagiotopoulos; Vanessa Saliba; Jamie Lopez Bernal; Daniel J Grint; Kathryn E Mansfield; Helen Mcdonald; Caroline Minassian; Simon Cottrell; Maria Peppa; Louise Letley; Christopher Rentsch; Suzanne Elgohari",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20086157",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20086157"
+    },
+    "title": "COVID-19 in Great Britain: epidemiological and clinical characteristics of the first few hundred (FF100) cases: a descriptive case series and case control analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ICMJE Conflicts of Interest"
+                },
+                {
+                    "funding-source": "IMOVE COVID-19,"
+                }
+            ],
+            "funding-statement": "All authors have completed the ICMJE Conflicts of Interest form and declare: no support from any organisation for the submitted work; JMcM reports grant funding from IMOVE COVID-19, no other relationships or activities that could appear to have influenced the submitted work"
+        }
+    ]
+}

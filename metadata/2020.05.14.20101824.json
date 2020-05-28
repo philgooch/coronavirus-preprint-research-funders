@@ -1,0 +1,265 @@
+{
+    "title": "Changing travel patterns in China during the early stages of the COVID-19 pandemic",
+    "date": 2020,
+    "author": "Hamish Gibbs,\u200b ,Yang Liu,\u200b ,Carl AB Pearson,\u200b ,Christopher I Jarvis,\u200b ,Chris Grundy,\u200b ,Billy J Quilty,\u200b ,Charlie Diamond,\u200b ,LSHTM CMMID COVID-19 working group,\u200b ,Rosalind M Eggo,\u200b",
+    "affiliations": [
+        "Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, Keppel Street, London. WC1E 7HT. UK"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.20101824",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20101824.pdf"
+    },
+    "abstract": "The LSHTM CMMID COVID-19 working group is (order determined at random): David Simons, Amy Gimma, Quentin J Leclerc, Megan Auzenbergs, Rachel Lowe, Kathleen O'Reilly, Matthew Quaife, Joel Hellewell, Gwenan M Knight, Thibaut Jombart, Petra Klepac, Simon R Procter, Arminder K Deol, Eleanor M Rees, Stefan Flasche, Adam J Kucharski, Sam Abbott, Fiona Yueqian Sun, Akira Endo, Graham Medley, James D Munday, Sophie R Meakin, Nikos I Bosse, W John Edmunds, Nicholas G. Davies, Kiesha Prem, St\u00e9phane Hu\u00e9, C Julian Villabona-Arenas, Emily S Nightingale, Rein M G J Houben, Anna M Foss, Damien C Tully, Jon C Emery, Kevin van Zandvoort, Katherine E. Atkins, Alicia Rosello, Sebastian Funk, Mark Jit, Samuel Clifford, Timothy W Russell",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Health and Social Care"
+                },
+                {
+                    "funding-source": "UK Aid"
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "ITCRZ 03010"
+                    ]
+                },
+                {
+                    "funding-source": "ITCRZ",
+                    "award-id": [
+                        "03010"
+                    ]
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation",
+                    "award-id": [
+                        "INV-003174"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "European Commission",
+                    "award-id": [
+                        "101003688",
+                        "OPP1184344",
+                        "ref. 221303/Z/20/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Global Challenges Research Fund"
+                },
+                {
+                    "funding-source": "RCUK and ESRC",
+                    "award-id": [
+                        "ES/P010873/1"
+                    ]
+                },
+                {
+                    "funding-source": "BQ This"
+                },
+                {
+                    "funding-source": "National Institute for Health Research",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "UK Aid from the UK Government"
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "HDR UK",
+                    "award-id": [
+                        "MR/S003975/1",
+                        "MC_PC 19065"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "UK Department of Health and Social Care. The"
+                },
+                {
+                    "funding-source": "Medical Research Council London Intercollegiate Doctoral Training Program",
+                    "award-id": [
+                        "MR/N013638/1"
+                    ]
+                },
+                {
+                    "funding-source": "Global Challenges Research Fund"
+                },
+                {
+                    "funding-source": "RCUK and ESRC",
+                    "award-id": [
+                        "ES/P010873/1"
+                    ]
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1191821"
+                    ]
+                },
+                {
+                    "funding-source": "Royal Society Dorothy Hodgkin Fellowship, KO"
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1191821"
+                    ]
+                },
+                {
+                    "funding-source": "European Research Council Starting Grant",
+                    "award-id": [
+                        "Action #757699"
+                    ]
+                },
+                {
+                    "funding-source": "Action Number",
+                    "award-id": [
+                        "757699"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "210758/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "UK Medical Research Council",
+                    "award-id": [
+                        "MR/P014658/1",
+                        "RCUK/ESRC",
+                        "ES/P010873/1"
+                    ]
+                },
+                {
+                    "funding-source": "UK PH RST; NIHR"
+                },
+                {
+                    "funding-source": "HPRU Modelling Methodology, PK"
+                },
+                {
+                    "funding-source": "Royal Society",
+                    "award-id": [
+                        "180004"
+                    ]
+                },
+                {
+                    "funding-source": "European Commission",
+                    "award-id": [
+                        "101003688"
+                    ]
+                },
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation",
+                    "award-id": [
+                        "INV-003174"
+                    ]
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1180644"
+                    ]
+                },
+                {
+                    "funding-source": "Medical Research Council London Intercollegiate Doctoral Training Program",
+                    "award-id": [
+                        "MR/N013638/1"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "208812/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "206250/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "210758/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR EPIC",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "The Nakajima Foundation; The"
+                },
+                {
+                    "funding-source": "Alan Turing Institute, GM"
+                },
+                {
+                    "funding-source": "NTD Modelling Consortium"
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1184344"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "210758/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "210758/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "210758/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "European Commission",
+                    "award-id": [
+                        "101003688"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR"
+                }
+            ],
+            "funding-statement": "The authors acknowledge funding as follows: HG: funding from the Department of Health and Social Care using UK Aid funding and managed by the NIHR under grant (ITCRZ 03010). YL: Bill and Melinda Gates Foundation (INV-003174), NIHR (16/137/109), European Commission (101003688); CABP:BMGF (OPP1184344) & DFID / Wellcome (ref. 221303/Z/20/Z); CIJ: Global Challenges Research Fund (GCRF) project \u2018RECAP\u2019 managed through RCUK and ESRC (ES/P010873/1); BQ This research was partly funded by the National Institute for Health Research (NIHR) (16/137/109) using UK Aid from the UK Government to support global health research; CD: NIHR (16/137/109); and RME: HDR UK (grant: MR/S003975/1), MRC (grant: MC_PC 19065). The views expressed in this publication are those of the author(s) and not necessarily those of the NIHR or the UK Department of Health and Social Care. The working group acknowledges the following funding: QJL: Medical Research Council London Intercollegiate Doctoral Training Program studentship (grant no. MR/N013638/1), AG: Global Challenges Research Fund (GCRF) for the project \"RECAP\" managed through RCUK and ESRC (ES/P010873/1), MA: Bill and Melinda Gates Foundation (OPP1191821), RL: Royal Society Dorothy Hodgkin Fellowship, KO'R: Bill and Melinda Gates Foundation (OPP1191821), MQ: European Research Council Starting Grant (Action Number #757699), JH: Wellcome Trust (grant: 210758/Z/18/Z), GMK: UK Medical Research Council (grant: MR/P014658/1), TJ: RCUK/ESRC (grant: ES/P010873/1); UK PH RST; NIHR HPRU Modelling Methodology, PK: This research was partly funded by the Royal Society under award RP\\EA\\180004, European Commission (101003688), Bill & Melinda Gates Foundation (INV-003174), SRP: Bill and Melinda Gates Foundation (OPP1180644), , EMR: Medical Research Council London Intercollegiate Doctoral Training Program studentship (grant MR/N013638/1), SFlasche: Wellcome Trust (grant: 208812/Z/17/Z), AJK: Wellcome Trust (grant: 206250/Z/17/Z), SA: Wellcome Trust (grant: 210758/Z/18/Z), FYS: NIHR EPIC grant (16/137/109), AE: The Nakajima Foundation; The Alan Turing Institute, GM: NTD Modelling Consortium by the Bill and Melinda Gates Foundation (OPP1184344), JDM: Wellcome Trust (grant: 210758/Z/18/Z), SRM: Wellcome Trust (grant: 210758/Z/18/Z), NIB: Wellcome Trust (grant: 210758/Z/18/Z), WJE: European Commission (101003688), NGD: (NIHR: Health"
+        }
+    ]
+}

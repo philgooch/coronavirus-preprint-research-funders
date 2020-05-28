@@ -1,0 +1,23 @@
+{
+    "abstract": "{We describe a model for estimating past and current infections as well as future deaths due to the ongoing COVID-19 pandemic. The model does not use confirmed case numbers and is based instead on recorded numbers of deaths and on the age-specific population distribution. A regularized deconvolution technique is used to infer past infections from recorded deaths. Forecasting is based on a compartmental SIR-type model, combined with a probability distribution for the time from infection to death. The effect of non-pharmaceutical interventions (NPIs) is modelled empirically, based on recent trends in the death rate. The model can also be used to study counterfactual scenarios based on hypothetical NPI policies.",
+    "affiliations": [
+        "King Abdullah University of Science & Technology"
+    ],
+    "author": "David I. Ketcheson; Hernando C. Ombao; Paula Moraga; Carlos M. Duarte; Tarig Ballal",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20097972",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20097972"
+    },
+    "title": "Estimating and forecasting COVID-19 attack rates and mortality",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "King Abdullah University of Science & Technology"
+                }
+            ],
+            "funding-statement": "This work was supported by funding from King Abdullah University of Science & Technology"
+        }
+    ]
+}

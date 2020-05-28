@@ -1,0 +1,83 @@
+{
+    "title": "Rapid colorimetric detection of COVID-19 coronavirus using a reverse transcriptional loop-mediated isothermal amplification (RT-LAMP) diagnostic platform: iLACO",
+    "author": "Lin Yu, Shanshan Wu, Xiaowen Hao, Xuelong Li, Xiyang Liu, Shenglong Ye, Heng Han, Xue Dong, Xin Li, Jiyao Li, Na Liu, Jianmin Liu, Wanzhong Zhang, Vicent Pelechano, Wei-Hua Chen,#, Xiushan Yin,#",
+    "date": 2020,
+    "affiliations": [
+        "Applied Biology Laboratory, Shenyang University of Chemical Technology, 110142, Shenyang, China",
+        "Key Laboratory of Molecular Biophysics of the Ministry of Education, Hubei Key Laboratory of Bioinformatics and Molecular-imaging, Center for Artificial Intelligence Biology, Department of Bioinformatics and Systems Biology, College of Life Science and Technology, Huazhong University of Science and Technology, 430074 Wuhan, Hubei, China",
+        "SciLifeLab, Department of Microbiology, Tumor and Cell Biology. Karolinska Institutet, Solna 171 65, Sweden",
+        "College of Life Science, HeNan Normal University, 453007 Xinxiang, Henan, China",
+        "Pluri Biotech Co.Ltd, Xuzhou, 221001, China",
+        "Shenyang Center for Disease Control And Prevention, 110031, Shenyang, Liaoning, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.20.20025874",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.20.20025874.pdf"
+    },
+    "abstract": "The recent outbreak of a novel coronavirus SARS-CoV-2 (also known as 2019nCoV) threatens global health, given serious cause for concern. SARS-CoV-2 is a human-to-human pathogen that caused fever, severe respiratory disease and pneumonia (known as COVID-19). By press time, more than 70,000 infected people had been confirmed worldwide. SARS-CoV-2 is very similar to the severe acute respiratory syndrome (SARS) coronavirus broke out 17 years ago. However, it has increased transmissibility as compared with the SARS-CoV, e.g. very often infected individuals without any symptoms could still transfer the virus to others. It is thus urgent to develop a rapid, accurate and onsite diagnosis methods in order to effectively identify these early infects, treat them on time and control the disease spreading. Here we developed an isothermal LAMP based method-iLACO (isothermal LAMP based method for COVID-19) to amplify a fragment of the ORF1ab gene using 6 primers. We assured the species-specificity of iLACO by comparing the sequences of 11 related viruses by BLAST (including 7 similar coronaviruses, 2 influenza viruses and 2 normal coronaviruses). The sensitivity is comparable to Taqman based qPCR detection method, detecting synthesized RNA equivalent to 10 copies of 2019-nCoV virus. Reaction time varied from 15-40 minutes, depending on the loading of virus in the collected samples. The accuracy, simplicity and versatility of the new developed method suggests that iLACO assays can be conveniently applied with for 2019-nCoV threat control, even in those cases where specialized molecular biology equipment is not available.",
+    "keywords": [
+        "isothermal amplification",
+        "COVID-19",
+        "LAMP iLACO"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "LiaoNing Provence Key Research Project",
+                    "award-id": [
+                        "1580441949000"
+                    ]
+                },
+                {
+                    "funding-source": "Ganzhou COVID-19 Emergency Research Project"
+                }
+            ],
+            "funding-statement": "This work was funded by 2020 LiaoNing Provence Key Research Project (1580441949000), Ganzhou COVID-19 Emergency Research Project"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Swedish Research Council",
+                    "award-id": [
+                        "VR 2016-01842"
+                    ]
+                },
+                {
+                    "funding-source": "Wallenberg Academy Fellowship",
+                    "award-id": [
+                        "KAW 2016.0123"
+                    ]
+                },
+                {
+                    "funding-source": "Starting Grant",
+                    "award-id": [
+                        "Ragnar S\u00f6derberg Foundation"
+                    ]
+                },
+                {
+                    "funding-source": "Ragnar S\u00f6derberg Foundation)"
+                },
+                {
+                    "funding-source": "Karolinska Institutet"
+                },
+                {
+                    "funding-source": "SciLifeLab Fellowship, SFO"
+                },
+                {
+                    "funding-source": "Joint China-Sweden"
+                },
+                {
+                    "funding-source": "STINT",
+                    "award-id": [
+                        "CH20187750"
+                    ]
+                }
+            ],
+            "funding-statement": "VP is funded by the Swedish Research Council (VR 2016-01842), a Wallenberg Academy Fellowship (KAW 2016.0123), the Swedish Foundations\u2019 Starting Grant (Ragnar S\u00f6derberg Foundation), Karolinska Institutet (SciLifeLab Fellowship, SFO and KI funds) and a Joint China-Sweden mobility grant from STINT (CH20187750)"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "On the basis of a semi-realistic SIR microsimulation for Germany and Poland, we show that the R0 parameter interval for which the COVID-19 epidemic stays overcritical but below the capacity limit of the health care system to reach herd immunity is so narrow that a successful implementation of this strategy is likely to fail. Our microsimulation is based on official census data and involves household composition and age distribution as the main population structure variables. Outside household contacts are characterised by an out-reproduction number R* which is the only free parameter of the model. For a subcritical domain we compute the time till extinction and prevalence as a function of the initial number of infected individuals and R*. For the Polish city of Wroclaw we also discuss the combined impact of testing coverage and contact reduction. For both countries we estimate R* for disease progression until 20th of March 2020.",
+    "affiliations": [
+        "University of Science and Technology Wroclaw, the University of Wroclaw and the Medical University of Wroclaw for their support and assistance to the MOCOS group. We also thank the City of Wroclaw, Nokia Wroclaw, EY GDS Poland and MicroscopeIT for their support"
+    ],
+    "author": "Ewaryst Rafajlowicz; Viktor Bezborodov; Tyll Krueger; Wojciech Rafajlowicz; Sara Ryfczynska; Thomas Goetz; Wolfgang Bock; Barbara Adamik; Marek Bawiec; Agata Migalska; Tomasz Ozanski; Ewa Szczurek; Barbara Pabjan; Ewa Skubalska-Rafajlowicz; Piotr Szymanski; Marcin Bodych; Jan Pablo Burgard",
+    "date": 2020,
+    "doi": "10.1101/2020.03.25.20043109",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.25.20043109"
+    },
+    "title": "Mitigation and herd immunity strategy for COVID-19 is likely to fail",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Science and Technology Wroclaw,"
+                },
+                {
+                    "funding-source": "University of Wroclaw and the Medical University of Wroclaw for"
+                },
+                {
+                    "funding-source": "MOCOS"
+                },
+                {
+                    "funding-source": "City of Wroclaw, Nokia"
+                },
+                {
+                    "funding-source": "EY GDS Poland and MicroscopeIT for"
+                }
+            ],
+            "funding-statement": "We would like to thank the University of Science and Technology Wroclaw, the University of Wroclaw and the Medical University of Wroclaw for their support and assistance to the MOCOS group. We also thank the City of Wroclaw, Nokia Wroclaw, EY GDS Poland and MicroscopeIT for their support."
+        }
+    ]
+}

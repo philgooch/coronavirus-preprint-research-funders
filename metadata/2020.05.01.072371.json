@@ -1,0 +1,71 @@
+{
+    "title": "SARS-CoV-2 spike protein predicted to form stable complexes with host receptor protein orthologues from mammals",
+    "date": 2020,
+    "author": "Lam SD, Bordin N, Waman VP, Scholes HM, Ashford P, Sen N, van Dorp L, Rauer C, Dawson NL, Pang CSM, Abbasian M, Sillitoe I, Edwards SJL, Fraternali F, Lees JG, Santini JM, Orengo CA",
+    "affiliations": [
+        "Department of Applied Physics, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, Bangi, Selangor, 43600, Malaysia",
+        "Institute of Structural and Molecular Biology, University College London, London, WC1E 6BT, UK",
+        "Indian Institute of Science Education and Research, Pune, 411008, India",
+        "UCL Genetics Institute, University College London, London, WC1E 6BT, UK",
+        "Department of Science and Technology Studies, University College London, London, WC1E 6BT, UK",
+        "Randall Division of Cell and Molecular Biophysics, Guy\u2019s Campus, New Hunt\u2019s House, King\u2019s College London, London, SE1 1UL, UK",
+        "Department of Biological and Medical Sciences, Faculty of Health and Life Sciences, Oxford Brookes University, Oxford, OX3 OBP, UK",
+        "These authors contributed equally * To whom correspondence should be addressed:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.01.072371",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.01.072371.pdf"
+    },
+    "abstract": "SARS-CoV-2 has a zoonotic origin and was transmitted to humans via an undetermined intermediate host, leading to infections in humans and other mammals. To enter host cells, the viral spike protein (S-protein) binds to its receptor, ACE2, and is then processed by TMPRSS2. Whilst receptor binding contributes to the viral host range, S-protein:ACE2 complexes from other animals have not been investigated widely. To predict infection risks, we modelled S-protein:ACE2 complexes from 215 vertebrate species, calculated their relative energies, correlated these energies to COVID-19 infection data, and analysed structural interactions. We predict that known mutations are more detrimental in ACE2 than TMPRSS2. Finally, we demonstrate phylogenetically that human SARS-CoV-2 strains have been isolated in animals. Our results suggest that SARS-CoV-2 can infect a broad range of mammals, but not fish, birds or reptiles. Susceptible animals could serve as reservoirs of the virus, necessitating careful ongoing animal management and surveillance.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "spike protein",
+        "ACE2",
+        "TMPRSS2",
+        "structural bioinformatics"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Newton Fund UK-China NSFC",
+                    "award-id": [
+                        "MR/P007597/1"
+                    ]
+                },
+                {
+                    "funding-source": "BBSRC",
+                    "award-id": [
+                        "BB/R01356X/1",
+                        "104960/Z/14/Z"
+                    ]
+                },
+                {
+                    "funding-source": "BBSRC",
+                    "award-id": [
+                        "BB/R009597/1",
+                        "BB/S016007/1",
+                        "BB/S020144/1",
+                        "BB/T002735/1",
+                        "BB/R014892/1",
+                        "BB/S020039/1"
+                    ]
+                },
+                {
+                    "funding-source": "EDCTP PANDORA-ID NET, UCLH"
+                },
+                {
+                    "funding-source": "UCL Biomedical Research Centre,"
+                },
+                {
+                    "funding-source": "Medical Research Council."
+                }
+            ],
+            "funding-statement": "HS is funded by Wellcome [203780/Z/16/A]. LvD acknowledges financial support from the Newton Fund UK-China NSFC initiative [MR/P007597/1] and a BBSRC equipment grant [BB/R01356X/1]. ND is funded by Wellcome [104960/Z/14/Z]. The following people acknowledge BBSRC for their funding: NB [BB/R009597/1], PA [BB/S016007/1], NS [BB/S020144/1], CR [BB/T002735/1], IS [BB/R014892/1], VW [BB/S020039/1]. SE is funded by EDCTP PANDORA-ID NET, UCLH/UCL Biomedical Research Centre, and the Medical Research Council."
+        }
+    ]
+}

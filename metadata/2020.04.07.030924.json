@@ -1,0 +1,28 @@
+{
+    "title": "Exploring the genomic and proteomic variations of SARS-CoV-2 spike glycoprotein: a computational biology approach",
+    "author": "Syed Mohammad Lokman a, Md. Rasheduzzaman a, Asma Salauddin a, Rocktim Barua a, Afsana Yeasmin Tanzina a, Meheadi Hasan Rumi a, Md. Imran Hossain a, Amam Zonaed Siddiki b, Adnan Mannan a *, Md. Mahbub Hasan a a Department of Genetic Engineering & Biotechnology, Faculty of Biological Sciences, University of Chittagong, Chattogram-4331, Bangladesh b Department of Pathology and Parasitology, Chittagong Veterinary and Animal Sciences University, Chattogram-4202, Bangladesh",
+    "date": 2020,
+    "affiliations": [
+        "Department of Genetic Engineering & Biotechnology, Faculty of Biological Sciences, University of Chittagong, Chattogram-4331, Bangladesh",
+        "Department of Pathology and Parasitology, Chittagong Veterinary and Animal Sciences University, Chattogram-4202, Bangladesh",
+        "Department of Genetic Engineering & Biotechnology, Faculty of Biological Sciences, University of Chittagong, Chattogram-4331, Bangladesh E-mail address:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.07.030924",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.030924.pdf"
+    },
+    "abstract": "The newly identified SARS-CoV-2 has now been reported from around 183 countries with more than a million confirmed human cases including more than 68000 deaths. The genomes of SARS-COV-2 strains isolated from different parts of the world are now available and the unique features of constituent genes and proteins have gotten substantial attention recently. Spike glycoprotein is widely considered as a possible target to be explored because of its role during the entry of coronaviruses into host cells. We analyzed 320 whole-genome sequences and 320 spike protein sequences of SARS-CoV-2 using multiple sequence alignment tools. In this study, 483 unique variations have been identified among the genomes including 25 nonsynonymous mutations and one deletion in the spike protein of SARS-CoV-2. Among the 26 variations detected, 12 variations were located at the N-terminal domain and 6 variations at the receptor-binding domain (RBD) which might alter the interaction with receptor molecules. In addition, 22 amino acid insertions were identified in the spike protein of SARS-CoV-2 in comparison with that of SARS-CoV. Phylogenetic analyses of spike protein revealed that Bat coronavirus have a close evolutionary relationship with circulating SARS-CoV-2. The genetic variation analysis data presented in this study can help a better understanding of SARS-CoV2 pathogenesis. Based on our findings, potential inhibitors can be designed and tested targeting these proposed sites of variation. Keywords: SARS-CoV-2, Spike protein, Sequence analysis, COVID-19, Genomic variants.",
+    "keywords": [
+        "SARS-CoV-2",
+        "Spike protein",
+        "Sequence analysis",
+        "COVID-19",
+        "Genomic variants"
+    ],
+    "funding": [
+        {}
+    ]
+}

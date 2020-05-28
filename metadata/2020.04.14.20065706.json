@@ -1,0 +1,17 @@
+{
+    "abstract": "Background: The Covid-19 pandemic has claimed many lives in the UK and globally. The objective of this paper is to study whether the number of deaths not registered as covid-19-related has increased compared to what would have been expected in the absence of the pandemic. This may be a result of some covid-19 deaths being unreported or spillover effects on other causes of death (or both). Reasons behind this might include covid-19 underreporting, avoiding visits to hospitals or GPs, and the effects of the lockdown. Methods: I used weekly ONS data on the number of deaths in England and Wales that did not officially involve covid-19 over the period 2015-2020. Simply observing trends is not sufficient as spikes in deaths may occasionally occur. I thus followed a differences-in-differences econometric approach to study whether there was a relative increase in deaths not registered as covid-19-related during the pandemic, compared to a control. As an additional approach, an interrupted time series model was also used. Results: Results suggest that there are an additional 968 weekly deaths that officially did not involve covid-19, compared to what would have otherwise been expected. This increase is also confirmed by the interrupted time series analysis. Discussion: The number of deaths not officially involving covid-19 has demonstrated an absolute and relative increase during the pandemic. It is possible that some people are dying from covid-19 without being diagnosed, and that there are excess deaths due to other causes as a result of the pandemic. Analysing the cause of death for any excess non-covid-19 deaths will shed light upon the reasons for the increase in such deaths and will help design appropriate policy responses to save lives.\nCompeting Interest Statement",
+    "author": "Sotiris Vandoros",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065706",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065706"
+    },
+    "journal": "Funding",
+    "title": "Excess Mortality during the Covid-19 pandemic: Early evidence from England and Wales",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Funding: None"
+        }
+    ]
+}

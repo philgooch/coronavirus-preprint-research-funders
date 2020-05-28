@@ -1,0 +1,16 @@
+{
+    "abstract": "The novel Coronavirus-19 disease (COVID-19) has emerged as a pandemic and has presented itself as an unprecedented challenge to the majority of countries worldwide. The containment measures for this disease such as the requirement of health care facilities greatly rely on estimating the future dynamics and flattening of the COVID-19 curve. However, it is always challenging to estimate the future trends and flattening of the COVID-19 curve due to the involvement of many real-life variables. Recently, traditional methods based on SIR and SEIR have been presented for predictive monitoring and detection of flattening of the COVID-19 curve. In this paper, a novel method for detection of flattening of the COVID-19 curve and its ending life-cycle using only the time-series of new cases per day is presented. Simulation results are compared to the SIR based methods in three different scenarios using COVID-19 curves for South Korea, the United States of America, and India. In this study, simulations, performed on the 26th April 2020 show that the peak of the COVID-19 curve in the USA has already arrived and situated on the 14th of April 2020, while the peak of the COVID-19 curve for India has yet to arrive.",
+    "author": "Dr. Praveen Gupta; Prof.  K.K. Sharma; Prof. S.D. Joshi; Dr. S. Goyal",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103374",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103374"
+    },
+    "title": "A data-driven method to detect the flattening of the COVID-19 pandemic curve and estimating its ending life-cycle using only the time-series of new cases per day.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding has been received"
+        }
+    ]
+}

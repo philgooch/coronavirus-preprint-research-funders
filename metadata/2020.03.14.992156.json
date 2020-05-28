@@ -1,0 +1,45 @@
+{
+    "title": "Potential Neutralizing Antibodies Discovered for Novel Corona Virus Using Machine Learning",
+    "keywords": [
+        "Coronavirus",
+        "COVID-19",
+        "Machine Learning",
+        "Antibody Engineering",
+        "Bio-informatics",
+        "Structural Biology"
+    ],
+    "date": 2020,
+    "author": "Rishikesh Magar \u00a5, Prakarsh Yadav \u2021 and Amir Barati Farimani 1\u00a5\u00a7",
+    "affiliations": [
+        "Department of Mechanical Engineering, Carnegie Mellon University, Pittsburgh, PA 15213",
+        "Department of Biomedical Engineering, Carnegie Mellon University, Pittsburgh, PA 15213",
+        "Machine Learning Department, School of Computer Science, Carnegie Mellon University"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.14.992156",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.14.992156.pdf"
+    },
+    "abstract": "\u00a5 Department of Mechanical Engineering, Carnegie Mellon University, Pittsburgh, PA 15213 \u2021 Department of Biomedical Engineering, Carnegie Mellon University, Pittsburgh, PA 15213 \u00a7Machine Learning Department, School of Computer Science, Carnegie Mellon University",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Center for Machine Learning in Health"
+                },
+                {
+                    "funding-source": "Carnegie Mellon University",
+                    "award-id": [
+                        "https://www.cs.cmu.edu/cmlh-cfp"
+                    ]
+                },
+                {
+                    "funding-source": "Mechanical Engineering Department"
+                }
+            ],
+            "funding-statement": "This work is supported by Center for Machine Learning in Health (CMLH) at Carnegie Mellon University (https://www.cs.cmu.edu/cmlh-cfp) and start-up fund from Mechanical Engineering Department at CMU"
+        }
+    ]
+}

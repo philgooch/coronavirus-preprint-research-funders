@@ -1,0 +1,31 @@
+{
+    "title": "Dynamical asymmetry exposes 2019-nCoV prefusion spike",
+    "author": "Susmita Roy",
+    "date": 2020,
+    "affiliations": [
+        "Department of Chemical Sciences, Indian Institute of Science Education and Research Kolkata, Campus Road, Mohanpur, West Bengal 741246, India"
+    ],
+    "journal": "One Sentence Summary",
+    "volume": "1",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.20.052290",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.20.052290.pdf"
+    },
+    "abstract": "The novel coronavirus (2019-nCoV) spike protein is a smart molecular machine that instigates the entry of coronavirus to the host cell causing the COVID-19 pandemic. In this study, a structural-topology based model Hamiltonian of C3 symmetric trimeric spike is developed to explore its complete conformational energy landscape using molecular dynamic simulations. The study finds 2019-nCoV to adopt a unique strategy by undertaking a dynamic conformational asymmetry induced by a few unique inter-chain interactions. This results in two prevalent asymmetric structures of spike where one or two spike heads lifted up undergoing a dynamic transition likely to enhance rapid recognition of the host-cell receptor turning on its high-infectivity. The crucial interactions identified in this study are anticipated to potentially affect the efficacy of therapeutic targets.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Biotechnology, India",
+                    "award-id": [
+                        "BT/12/IYBA/2019/12"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding: Author acknowledges support from Department of Biotechnology, India (Grant No BT/12/IYBA/2019/12).Author contributions: S.R. designed the research, built the structure-based model of spike protein, performed simulations, analyzed results and wrote the manuscript"
+        }
+    ]
+}

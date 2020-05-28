@@ -1,0 +1,16 @@
+{
+    "abstract": "As thousands of new cases of COVID-19 have been confirmed, there is an increasing demand to understand the factors underlying the spread of this disease. Using country-level data, we modeled the early growth in the number of cases for over 480 cities in all Brazilian states. As the main findings, we found that the percentage of people respecting social distancing protocols was the main explanatory factor for the observed growth rate of COVID-19. Those cities that presented the highest spread of the new coronavirus were also those that had lower averages of social distancing. We also underline that total population of cities and connectivity, represented by the city-level importance to the air transportation of people across the country, plays important roles in the dissemination of SARS-CoV-2. Climate and socioeconomic predictors had little contribution to the big-picture scenario. Our results show that different States had high variability in their growth rates, mostly due to quite different public health strategies to retain the outbreak of COVID-19. In spite of all limitations of such a large-scale approach, our results underline that climatic conditions are likely weak limiting factors for the spread of the new coronavirus, and the circulation of people in the city- and country-level are the most responsible factors for the early outbreak of COVID-19 in Brazil. Moreover, we reinforce that social distancing protocols are fundamental to avoid critical scenarios and the collapse of healthcare systems. We also predict that economic-induced decisions for relaxing social distancing might have catastrophic consequences, especially in large cities.",
+    "author": "Marco Tulio P Coelho; Fernando M Lansac-Toha; Matheus T Baumgartner; Jose Alexandre F Diniz-Filho; Ricardo Dobrovolski",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20088013",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20088013"
+    },
+    "title": "Social distancing and movement constraint as the most likely factors for COVID-19 outbreak control in Brazil",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "All authors are supported by CNPq research productivity scholarships productivity scholarships and grants"
+        }
+    ]
+}

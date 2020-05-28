@@ -1,0 +1,34 @@
+{
+    "abstract": "SARS-CoV-2, a positive-sense RNA virus in the family Coronaviridae, has caused the current worldwide pandemic, known as coronavirus disease 2019 or COVID-19. The definition of SARS-CoV-2 open reading frames is a key step in delineating targets for vaccination and treatment for COVID-19. Here, we report an integrative analysis of three independent direct RNA sequencing datasets of the SARS-CoV-2 transcriptome. We find strong evidence for variant open reading frames (ORFs) encoded by SARS-CoV-2 RNA. A variant transcript for the matrix protein (M) lacking its N-terminal transmembrane domain, initiated by a TTG start codon, is produced by a strong transcriptional regulatory sequence (TRS)-mediated junction within the M ORF and represents up to 19% of all M ORFs. Sporadic non-canonical junctions in the spike (S) ORF lead to N-terminal truncations that remove the N-terminal and receptor-binding domains from up to 25% of S ORFs. Surprisingly, nearly all ORFs from ORF1a identified in these transcriptome sequences were variant. These ORFs contain the first 200-800 amino acids of ORF1a and may represent a mechanism to regulate the relative abundance of ORF1a nonstructural proteins. We show there is strong transcriptome and junctional support for variant ORF1a ORFs in independent direct RNA sequencing and short-read RNA sequencing datasets, and further show that up to 1/3 of these ORFs are expected to have C-terminal fusions with downstream genes. Finally, we show that currently unannotated ORFs are abundant in the SARS-CoV-2 transcriptome. Together, these analyses help to elucidate the diverse coding potential of SARS-CoV-2.",
+    "author": "Jason Nomburg; Matthew Meyerson; James A. DeCaprio",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.066951",
+    "identifiers": {
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.28.066951"
+    },
+    "title": "Noncanonical junctions in subgenomic RNAs of SARS-CoV-2 lead to variant open reading frames",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bayer and Labcorp,"
+                }
+            ],
+            "funding-statement": "M.M. receives research support from Bayer, Ono, and Janssen, has patents licensed to Bayer and Labcorp, and is a consultant for OrigiMed"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Constellation Pharmaceuticals and"
+                },
+                {
+                    "funding-source": "EMD Serono, Inc"
+                },
+                {
+                    "funding-source": "Merck & Co"
+                }
+            ],
+            "funding-statement": "J.A.D. received research support from Constellation Pharmaceuticals and is a consultant for EMD Serono, Inc. and Merck & Co"
+        }
+    ]
+}

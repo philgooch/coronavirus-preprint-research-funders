@@ -1,0 +1,26 @@
+{
+    "abstract": "High-resolution computed tomography radiology is a critical tool in the diagnosis and management of COVID-19 infection; however, in smaller clinics around the world, there is a shortage of radiologists available to analyze these images. In this paper, we compare the performance of 16 available deep learning algorithms to help identify COVID19. We utilize an already existing diagnostic technology (X-ray) and an already existing neural network (ResNet-50) to diagnose COVID-19. Our approach eliminates the extra time and resources needed to develop new technology and associated algorithm, thus aiding the front-line in the race against the COVID-19 pandemic. Results show that ResNet-50 is the optimal pretrained neural network for the detection of COVID-19, using three different cross-validation ratios, based on training time, accuracy, and network size. We also present a custom visualization of the results that can be used to highlight important visual biomarkers of the disease and disease progression.",
+    "author": "Rich Fletcher; Newton Howard; Rabab Ward; Carlo Menon; Mohamed Elgendi",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099481",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099481"
+    },
+    "title": "The Evaluation of Deep Neural Networks and X-Ray as a Practical Alternative for Diagnosis and Management of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSERC",
+                    "award-id": [
+                        "RGPIN-2014-04462"
+                    ]
+                },
+                {
+                    "funding-source": "Canada Research Chairs"
+                }
+            ],
+            "funding-statement": "This research was supported by the NSERC grant RGPIN-2014-04462 and Canada Research Chairs (CRC) program"
+        }
+    ]
+}

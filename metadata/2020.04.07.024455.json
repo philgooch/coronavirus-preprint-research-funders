@@ -1,0 +1,67 @@
+{
+    "title": "JAK1 inhibition blocks lethal sterile immune responses: implications for COVID-19 therapy",
+    "author": "Kathryn D. Tuttle, Ross Minter, Katherine A. Waugh, Paula Araya, Michael Ludwig, Colin Sempeck, Keith Smith, Zdenek Andrysik, Matthew A. Burchill, Beth A.J. Tamburini, David J. Orlicky, Kelly D. Sullivan,* and Joaquin M. Espinosa",
+    "date": 2020,
+    "affiliations": [
+        "Linda Crnic Institute for Down Syndrome",
+        "Department of Pharmacology",
+        "Division of Gastroenterology and Hepatology, Department of Medicine",
+        "Department of Immunology and Microbiology",
+        "Department of Pathology, and",
+        "Section of Developmental Biology, Department of Pediatrics, University of Colorado Anschutz Medical Campus, Aurora, CO 80045, USA",
+        "Department of Molecular, Cellular and Developmental Biology, University of Colorado"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.07.024455",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.024455.pdf"
+    },
+    "abstract": "Cytokine storms are drivers of pathology and mortality in myriad viral infections affecting the human population. In SARS-CoV-2-infected patients, the strength of the cytokine storm has been associated with increased risk of acute respiratory distress syndrome, myocardial damage, and death. However, the therapeutic value of attenuating the cytokine storm in COVID-19 remains to be defined. Here, we report results obtained using a novel mouse model of lethal sterile anti-viral immune responses. Using a mouse model of Down syndrome (DS) with a segmental duplication of a genomic region encoding four of the six interferon receptor genes (Ifnrs), we demonstrate that these animals overexpress Ifnrs and are hypersensitive to IFN stimulation. When challenged with viral mimetics that activate Toll-like receptor signaling and IFN anti-viral responses, these animals overproduce key cytokines, show exacerbated liver pathology, rapidly lose weight, and die. Importantly, the lethal immune hypersensitivity, accompanying cytokine storm, and liver hyperinflammation are blocked by treatment with a JAK1-specific inhibitor. Therefore, these results point to JAK1 inhibition as a potential strategy for attenuating the cytokine storm and consequent organ failure during overdrive immune responses. Additionally, these results indicate that people with DS, who carry an extra copy of the IFNR gene cluster encoded on chromosome 21, should be considered at high risk during the COVID-19 pandemic.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH Office of the Director and the National Institute of Allergy and Infectious Diseases",
+                    "award-id": [
+                        "R01AI150305"
+                    ]
+                },
+                {
+                    "funding-source": "NIH INCLUDE Project and",
+                    "award-id": [
+                        "R01AI145988"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R01AI145988"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding: This work was supported by the NIH Office of the Director and the National Institute of Allergy and Infectious Diseases (NIAID) through grant R01AI150305 as part of the NIH INCLUDE Project and by NIH grant R01AI145988"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "P30CA046934"
+                    ]
+                },
+                {
+                    "funding-source": "Linda Crnic Institute for Down Syndrome,"
+                },
+                {
+                    "funding-source": "Global Down Syndrome Foundation,"
+                },
+                {
+                    "funding-source": "Anna and John"
+                }
+            ],
+            "funding-statement": "Additional funding was provided by NIH grant P30CA046934, the Linda Crnic Institute for Down Syndrome, the Global Down Syndrome Foundation, the Anna and John J"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Detection of spreader nodes and ranking of interacting edges in Human-SARS-CoV protein interaction network",
+    "keywords": [
+        "Spreader nodes",
+        "Spreader edges",
+        "Spreadability Index",
+        "Severe Acute Respiratory Syndrome Coronavirus",
+        "Protein-Protein Interaction Network",
+        "Node Weight",
+        "Neighborhood Density",
+        "Edge Ratio",
+        "Susceptible-Infected-Susceptible model"
+    ],
+    "author": "Sovan Saha, Piyali Chatterjee, Subhadip Basu, Mita Nasipuri",
+    "date": 2020,
+    "affiliations": [
+        "Corresponding Author, Department of Computer Science & Engineering, Dr. Sudhir Chandra Sur Degree Engineering College, Kolkata",
+        "Department of Computer Science & Engineering, Netaji Subhash Engineering College, Kolkata",
+        "Department of Computer Science & Engineering, Jadavpur University, Kolkata"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.12.038216",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.12.038216.pdf"
+    },
+    "abstract": "The entire world has recently witnessed the commencement of coronavirus disease 19 (COVID-19) pandemic. It is caused by a novel coronavirus (n-CoV) generally distinguished as Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). It has exploited human vulnerabilities to coronavirus outbreak. SARS-CoV-2 promotes fatal chronic respiratory disease followed by multiple organ failure which ultimately puts an end to human life. No proven vaccine for n-CoV is available till date in spite of significant research efforts worldwide. International Committee on Taxonomy of Viruses (ICTV) has reached to a consensus that the virus SARS-CoV-2 is highly genetically similar to Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) outbreak of 2003. It has been reported that SARS-CoV has ~89% genetic similarities with n-CoV. With this hypothesis, the current work focuses on the identification of spreader nodes in SARS-CoV protein interaction network. Various network characteristics like edge ratio, neighborhood density and node weight have been explored for defining a new feature spreadability index by virtue of which spreader nodes and edges are identified. The selected top spreader nodes having high spreadability index have been also validated by Susceptible-Infected-Susceptible (SIS) disease model. Initially, the proposed method is applied on a synthetic protein interaction network followed by SARS-CoV-human protein interaction network. Hence, key spreader nodes and edges (ranked edges) are unmasked in SARS-CoV proteins and its connected level 1 and level 2 human proteins. The new network attribute spreadability index along with generated SIS values of selected top spreader nodes when compared with the other network centrality based methodologies like Degree centrality (DC), Closeness centrality (CC), Local average centrality (LAC) and Betweeness centrality (BC) is found to perform relatively better than the existing-state-of-art.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "CMATER"
+                },
+                {
+                    "funding-source": "Computer Science and Engineering Department, Jadavpur"
+                },
+                {
+                    "funding-source": "DBT project",
+                    "award-id": [
+                        "BT/PR16356/BID/7/596/2016"
+                    ]
+                },
+                {
+                    "funding-source": "Ministry of Science and Technology, Government"
+                }
+            ],
+            "funding-statement": "This project is partially supported by the CMATER research laboratory of the Computer Science and Engineering Department, Jadavpur University, India, and DBT project (No.BT/PR16356/BID/7/596/2016), Ministry of Science and Technology, Government of India"
+        }
+    ]
+}

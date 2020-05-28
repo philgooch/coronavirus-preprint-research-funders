@@ -1,0 +1,16 @@
+{
+    "abstract": "Objectives: We study partial unlock or reopening interaction with seasonal effects in a managed epidemic to quantify overshoot effects on small and large unlock steps and discover robust strategies for reducing overshoot. Methods: We simulate partial unlock of social distancing for epidemics over a range of replication factor, immunity duration and seasonality factor for strategies targeting immunity thresholds using overshoot optimization. Results: Seasonality change must be taken into account as one of the steps in an easing sequence, and a two step unlock, including seasonal effects, minimizes overshoot and deaths. It may cause undershoot, which causes rebounds and assists survival of the pathogen. Conclusions: Partial easing levels, even low levels for economic relief while waiting on a vaccine, have population immunity thresholds based on the reduced replication rates and may experience overshoot as well. We further find a two step strategy remains highly sensitive to variations in case ratio, replication factor, seasonality and timing. We demonstrate a three or more step strategy is more robust, and conclude that the best possible approach minimizes deaths under a range of likely actual conditions which include public response.",
+    "author": "Dyske Suematsu; Theodore Koukouvitis; Robert L Shuler",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20064139",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20064139"
+    },
+    "title": "Partial unlock for COVID-19-like epidemics can save 1-3 million lives worldwide",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

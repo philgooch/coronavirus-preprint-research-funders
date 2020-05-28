@@ -1,0 +1,50 @@
+{
+    "title": "SARS-CoV-2 amino acid substitutions widely spread in the human population are mainly located in highly conserved segments of the structural proteins",
+    "author": "Son Cortey",
+    "date": 2020,
+    "affiliations": [
+        "Universitat Aut\u00f2noma de Barcelona, 08193 Cerdanyola del Vall\u00e8s",
+        "Centre de Recerca en Sanitat Animal (CReSA-IRTA-UAB), campus UAB",
+        "Universitat Aut\u00f2noma de Barcelona, 08193 Cerdanyola del Vall\u00e8s, Spain"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.16.099499",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.16.099499.pdf"
+    },
+    "abstract": "The Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic offers a unique opportunity to study the introduction and evolution of a pathogen into a completely na\u00efve human population. We identified and analysed the amino acid mutations that gained prominence worldwide in the early months of the pandemic. Eight mutations have been identified along the viral genome, mostly located in conserved segments of the structural proteins and showing low variability among coronavirus, which indicated that they might have a functional impact. At the moment of writing this paper, these mutations present a varied success in the SARS-CoV-2 virus population; ranging from a change in the spike protein that becomes absolutely prevalent, two mutations in the nucleocapsid protein showing frequencies around 25%, to a mutation in the matrix protein that nearly fades out after reaching a frequency of 20%. 27 Keywords: SARS-CoV-2, pandemia, mutation, coronavirus, fitness",
+    "keywords": [
+        "SARS-CoV-2",
+        "pandemia",
+        "mutation",
+        "coronavirus",
+        "fitness"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Mart\u00ed Cortey"
+                },
+                {
+                    "funding-source": "Ramon y Cajal",
+                    "award-id": [
+                        "reference RYC-2015-17154"
+                    ]
+                },
+                {
+                    "funding-source": "Hepzibar Clilverd"
+                },
+                {
+                    "funding-source": "Spanish Ministry of Science and Innovation",
+                    "award-id": [
+                        "program FPU"
+                    ]
+                }
+            ],
+            "funding-statement": "Mart\u00ed Cortey was funded by the Ramon y Cajal program (reference RYC-2015-17154). Hepzibar Clilverd was supported by a fellowship of the Spanish Ministry of Science and Innovation (program FPU). No other funding sources."
+        }
+    ]
+}

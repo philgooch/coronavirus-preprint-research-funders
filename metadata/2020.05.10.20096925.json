@@ -1,0 +1,62 @@
+{
+    "abstract": "Background: Cardiometabolic morbidity and medications, specifically Angiotensin Converting Enzyme inhibitors (ACEi) and Angiotensin Receptor Blockers (ARBs), have been linked with adverse outcomes from coronavirus disease 2019 (COVID-19). This study aims to investigate factors associated with COVID-19 positivity for the first 669 UK Biobank participants; compared with individuals who tested negative, and with the untested, presumed negative, rest of the population. Methods: We studied 1,474 participants from the UK Biobank who had been tested for COVID-19. Given UK testing policy, this implies a hospital setting, suggesting at least moderate to severe symptoms. We considered the following exposures: age, sex, ethnicity, body mass index (BMI), diabetes, hypertension, hypercholesterolaemia, ACEi/ARB use, prior myocardial infarction (MI), and smoking. We undertook comparisons between: 1) COVID-19 positive and COVID-19 tested negative participants; and 2) COVID-19 tested positive and the remaining participants (tested negative plus untested, n=501,837). Logistic regression models were used to investigate univariate and mutually adjusted associations. Results: Among participants tested for COVID-19, non-white ethnicity, male sex, and greater BMI were independently associated with COVID-19 positive result. Non-white ethnicity, male sex, greater BMI, diabetes, hypertension, prior MI, and smoking were independently associated with COVID-19 positivity compared to the remining cohort (test negatives plus untested). However, similar associations were observed when comparing those who tested negative for COVID-19 with the untested cohort; suggesting that these factors associate with general hospitalisation rather than specifically with COVID-19. Conclusions: Among participants tested for COVID-19 with presumed moderate to severe symptoms in a hospital setting, non-white ethnicity, male sex, and higher BMI are associated with a positive result. Other cardiometabolic morbidities confer increased risk of hospitalisation, without specificity for COVID-19. Notably, ACE/ARB use did not associate with COVID-19 status.\nCompeting Interest Statement",
+    "affiliations": [
+        "Barts Biomedical Research Centre funded by the National Institute for Health Research (NIHR). NCH and CC acknowledge support from the UK Medical Research Council (MRC #405050259; #U105960371), NIHR Southampton Biomedical Research Centre, University of Southampton and University Hospital Southampton, and NIHR Oxford Biomedical Research Centre, University of Oxford"
+    ],
+    "author": "Maddalena Ardissino; Nicholas C Harvey; Cyrus Cooper; Zahra Raisi-Estabragh; Steffen E Petersen; Mae S Bethell; Celeste McCracken; Jackie Cooper",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20096925",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20096925"
+    },
+    "journal": "NON",
+    "title": "NON-WHITE ETHNICITY, MALE SEX, AND HIGHER BODY MASS INDEX, BUT NOT MEDICATIONS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM ARE ASSOCIATED WITH CORONAVIRUS DISEASE 2019 (COVID-19) HOSPITALISATION: REVIEW OF THE FIRST 669 CASES FROM THE UK BIOBANK",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "British Heart Foundation Clinical Research Training Fellowship",
+                    "award-id": [
+                        "FS/17/81/33318"
+                    ]
+                }
+            ],
+            "funding-statement": "ZRE is supported by a British Heart Foundation Clinical Research Training Fellowship (FS/17/81/33318)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Barts Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                }
+            ],
+            "funding-statement": "SEP acknowledges support from the Barts Biomedical Research Centre funded by the National Institute for Health Research (NIHR)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Medical Research Council",
+                    "award-id": [
+                        "MRC #405050259",
+                        "#U105960371"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR Southampton Biomedical Research Centre, University"
+                },
+                {
+                    "funding-source": "Southampton and University Hospital Southampton,"
+                },
+                {
+                    "funding-source": "NIHR Oxford Biomedical Research Centre, University"
+                }
+            ],
+            "funding-statement": "NCH and CC acknowledge support from the UK Medical Research Council (MRC #405050259; #U105960371), NIHR Southampton Biomedical Research Centre, University of Southampton and University Hospital Southampton, and NIHR Oxford Biomedical Research Centre, University of Oxford"
+        }
+    ]
+}

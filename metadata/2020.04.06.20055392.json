@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: The outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has led to 101739 confirmed cases, in Italy, as of March 30th, 2020. While the analogous event in China appears to be rather under control at the moment, the outbreaks in western countries are still at an early stage of the evolution. Italy at present is playing a major role in understanding transmission dynamics of these new infections and evaluating the effectiveness of control measures in a western social context. Methods: We combined a quarantined models with early stage evolution data in Italy (during February 20th - March 30th) to predict longer term evolution (March 30th, on ...) within different control measures. Due to significant variations in the control strategies, which have been changing over time, and thanks to the introduction of detection technologies leading to faster confirmation of the SARS-CoV-2 infections, we made use of time-dependent contact and diagnose rates to estimate when the effective daily reproduction ratio can fall below 1. Within the same framework we analyze the possible event of a secondary infection after relaxing the isolation measures. Outcomes and interpretation: We study two simplified scenarios compatible with the observation data and the effects of two stringent measures on the evolution of the epidemic. On one side the contact rate must obviously kept as low as possible, but it is also clear that, in a modern developed country, it cannot fall under certain minimum levels and for long time. The complementary parameter tuned is the transition rate of the symptomatic infected individuals to the quarantined class, a parameter \u03b4_I connected with the time t_I=1/\u03b4_I needed to perform diagnostic tests. Within the conditions of the outbreak in Italy this time must fall under 12-8 hours in order to make the reproduction number less than 1 to minimize the case numbers. Moreover we show how the same parameter plays an even more relevant role in mitigating the effects of a possible secondary infection event.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Health Service)"
+    ],
+    "author": "Giuseppe Vittorio De Socio; Carla Caponi; Riccardo Ferrari; Marco Claudio Traini",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20055392",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055392"
+    },
+    "title": "A study of SARS-CoV-2 evolution in Italy: from early days to secondary effects after social distancing",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Health Service)"
+                }
+            ],
+            "funding-statement": "No funding has been provided by any private nor public actor beyond the current clinical practice (National Health Service)"
+        }
+    ]
+}

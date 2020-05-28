@@ -1,0 +1,16 @@
+{
+    "abstract": "BACKGROUND: The SARS-CoV-2 outbreak poses challenge to healthcare systems due to high complication rates in patients with cardiometabolic diseases. Here, we identify risk factors and propose a clinical score to predict COVID-19 lethality, including specific factors for diabetes and obesity and its role in improving risk prediction. METHODS: We obtained data of confirmed and negative COVID-19 cases and their demographic and health characteristics from the General Directorate of Epidemiology of Mexican Ministry of Health. We investigated specific risk factors associated to COVID-19 positivity and mortality and explored the impact of diabetes and obesity on modifying COVID-19 related lethality. Finally, we built a clinical score to predict COVID-19 lethality. RESULTS: Among 177,133 subjects at May 18th, 2020, we observed 51,633 subjects with SARS-CoV-2 and 5,332 deaths. Risk factors for lethality in COVID-19 include early-onset diabetes, obesity, COPD, advanced age, hypertension, immunosuppression, and CKD; we observed that obesity mediates 49.5% of the effect of diabetes on COVID-19 lethality. Early-onset diabetes conferred an increased risk of hospitalization and obesity conferred an increased risk for ICU admission and intubation. Our predictive score for COVID-19 lethality included age \u226565 years, diabetes, early-onset diabetes, obesity, age <40 years, CKD, hypertension, and immunosuppression and significantly discriminates lethal from non-lethal COVID-19 cases (c-statistic=0.823). RESULTS: Here, we propose a mechanistic approach to evaluate risk for complications and lethality attributable to COVID-19 considering the effect of obesity and diabetes in Mexico. Our score offers a clinical tool for quick determination of high-risk susceptibility patients in a first contact scenario.",
+    "author": "Jessica Paola Bahena-Lopez; Carlos A. Aguilar-Salinas; Armando Gonz\u00e1lez-D\u00edaz; Alejandro M\u00e1rquez-Salinas; Neftali E. Antonio-Villa; J Jes\u00fas Naveja; Carlos A. Ferm\u00edn-Mart\u00ednez; Arsenio Vargas-V\u00e1zquez; Omar Yaxmehen Bello-Chavolla",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072223",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072223"
+    },
+    "title": "Predicting mortality due to SARS-CoV-2: A mechanistic score relating obesity and diabetes to COVID-19 outcomes in Mexico",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding received."
+        }
+    ]
+}

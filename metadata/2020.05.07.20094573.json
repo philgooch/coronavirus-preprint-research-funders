@@ -1,0 +1,23 @@
+{
+    "abstract": "Objective: The goal of this study was to create a predictive model of early hospital respiratory decompensation among patients with COVID-19. Design: Observational, retrospective cohort study. Setting: Nine-hospital health system within the Northeastern United States. Populations: Adult patients (\u2265 18 years) admitted from the emergency department who tested positive for SARS-CoV-2 (COVID-19) up to 24 hours after initial presentation. Patients meeting criteria for critical respiratory illness within 4 hours of arrival were excluded. Main outcome and performance measures: We used a composite endpoint of respiratory critical illness as defined by oxygen requirement beyond low-flow nasal cannula (e.g., non-rebreather mask, high-flow nasal cannula, bi-level positive pressure ventilation), intubation, or death within the first 24 hours of hospitalization. We developed predictive models using patient demographic and clinical data collected during those first 4 hours. Eight hospitals were used for development and internal validation (n=932) and 1 hospital for model external validation (n=240). Predictive variables were identified using an ensemble approach that included univariate regression, random forest, logistic regression with LASSO, Chi-square testing, gradient boosting information gain, and gradient boosting Shapley additive explanation (SHAP) values prior to manual curation. We generated two predictive models, a quick COVID-19 severity index (qCSI) that uses only exam and vital sign measurements, and a COVID-19 severity index (CSI) machine learning model. Using area under receiver operating characteristic (AU-ROC), precision-recall curves (AU-PRC) and calibration metrics, we compare the qCSI and CSI to three illness scoring systems: Elixhauser mortality score, qSOFA, and CURB-65. We present performance of qCSI and CSI on an external validation cohort. Results: During the study period from March 1, 2020 to April 27, 2020, 1,792 patients were admitted with COVID-19. Six-hundred and twenty patients were excluded based on age or critical illness within the first 4 hours, yielding 1172 patients in the final cohort. Of these patients, 144 (12.3%) met the composite endpoint within the first 24 hours. The qCSI (AU-ROC: 0.90 [0.85-0.96]) comprised of nasal cannula flow rate, respiratory rate, and minimum documented pulse oximetry outperformed the baseline models (qSOFA: 0.76 [0.69-0.85]; Elixhauser: 0.70 [0.62-0.80]; CURB-65: AU-ROC 0.66 [0.58-0.77]) and was validated on an external cohort (AU-ROC: 0.82). The machine learning-based CSI had superior performance on the training cohort (AU-ROC: 0.91 [0.86-0.97]), but was unlikely to provide practical improvements in clinical settings. Conclusions: A significant proportion of admitted COVID-19 patients decompensate within 24 hours of hospital presentation and these events are accurately predicted using respiratory exam findings within a simple scoring system.",
+    "author": "Adrian Haimovich; Francis P Wilson; H Patrick Young; Wade L Schulz; Richard Andrew Taylor; Neal G Ravindra; David van Dijk; Stoytcho Stoytchev",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20094573",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20094573"
+    },
+    "title": "Development and validation of the COVID-19 severity index (CSI): a prognostic tool for early respiratory decompensation",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "R01DK113191",
+                        "P30DK079310"
+                    ]
+                }
+            ],
+            "funding-statement": "FPW acknowledges R01DK113191 and P30DK079310."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "abstract": "COVID-19 is an ongoing pandemic caused by the SARS-CoV-2 coronavirus that poses one of the greatest challenges to public health in recent years. SARS-CoV-2 is highly contagious and often leads to severe viral pneumonia with respiratory failure and death in the elderly and subjects with pre-existing conditions, but the reason for this age dependence is unclear. Here, we found that the case fatality rate for COVID-19 grows exponentially with age in Italy, Spain, South Korea, and China, with the doubling time approaching that of all-cause human mortality. In addition, men and those with multiple age-related diseases are characterized by increased mortality. Moreover, similar mortality patterns were found for all-cause pneumonia. We further report that the gene expression of ACE2, the SARS-CoV-2 receptor, grows in the lung with age, except for subjects on a ventilator. Together, our findings establish COVID-19 as an emergent disease of aging, and age and age-related diseases as its major risk factors. In turn, this suggests that COVID-19, and deadly respiratory diseases in general, may be targeted, in addition to therapeutic approaches that affect specific pathways, by approaches that target the aging process.",
+    "author": "Aleksandr A Zenin; Vadim N Gladyshev; Anastasia V Shindyapina; Sun Hee Yim; Didac Santesmasses; Csaba Kerepesi; Bohan Zhang; Maxim V Gerashchenko; Peter O Fedichev; Jos\u00e9 Pedro Castro",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20060095",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20060095"
+    },
+    "title": "COVID-19 is an emergent disease of aging",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH"
+                }
+            ],
+            "funding-statement": "Supported by NIH grants to VNG"
+        }
+    ]
+}

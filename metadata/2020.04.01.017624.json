@@ -1,0 +1,38 @@
+{
+    "title": "Indomethacin has a potent antiviral activity against SARS CoV-2 in vitro and canine coronavirus in vivo",
+    "author": "Tianhong Xu, Xuejuan Gao, Zengbin Wu, Douglas W. Selinger, and Zichen Zhou",
+    "date": 2020,
+    "affiliations": [
+        "ICU and Department of Infectious Disease, Xinhua Hospital, Shanghai, China",
+        "Plex Research Inc. Cambridge, MA, USA",
+        "United Animal Hospital, Hangzhou, China"
+    ],
+    "journal": "Keywords",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.01.017624",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.01.017624.pdf"
+    },
+    "abstract": "Background: The outbreak of SARS CoV-2 has caused ever-increasing attention and public panic all over the world. Currently, there is no specific treatment against the SARS CoV-2. Therefore, identifying effective antiviral agents to combat the disease is urgently needed. Previous studies found that indomethacin has the ability to inhibit the replication of several unrelated DNA and RNA viruses, including SARS-CoV.\nMethods: SARS CoV-2 pseudovirus-infected African green monkey kidney VERO E6 cells treated with different concentrations of indomethacin or aspirin at 48 hours post infection (p.i). The level of cell infection was determined by luciferase activity. Anti-coronavirus efficacy in vivo was confirmed by evaluating the time of recovery in canine coronavirus (CCV) infected dogs treated orally with 1mg/kg body weight indomethacin.\nResults: We found that indomethacin has a directly and potently antiviral activity against the SARS CoV-2 pseudovirus (reduce relative light unit to zero). In CCV-infected dogs, recovery occurred significantly sooner with symptomatic treatment + oral indomethacin (1 mg/kg body weight) daily treatments than with symptomatic treatment + ribavirin (10-15 mg/kg body weight) daily treatments (P =0.0031), but was not significantly different from that with symptomatic treatment + anti-canine coronavirus serum + canine hemoglobin + canine blood immunoglobulin + interferon treatments (P =0.7784).\nConclusion: The results identify indomethacin as a potent inhibitor of SARS CoV-2.",
+    "keywords": [
+        "2019-nCoV",
+        "COVID-19",
+        "SARS CoV-2",
+        "Indomethacin"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Gabriella Santoro from University of Rome Tor Vergata for"
+                },
+                {
+                    "funding-source": "Vic Lee and Virtus Inspire Ventures"
+                }
+            ],
+            "funding-statement": "Gabriella Santoro from University of Rome Tor Vergata for valuable discussion, and we thank Vic Lee and Virtus Inspire Ventures providing venture fund supporting this work"
+        }
+    ]
+}

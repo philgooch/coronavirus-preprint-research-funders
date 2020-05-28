@@ -1,0 +1,39 @@
+{
+    "title": "Energetics based epitope screening in SARS CoV-2 (COVID 19) spike glycoprotein by Immuno-informatic analysis aiming to a suitable vaccine development",
+    "keywords": [
+        "SARS CoV-2 (COVID 19)",
+        "severe global outbreak",
+        "Dec 2019",
+        "spike glycoprotein",
+        "ACE-2 receptor protein",
+        "epitope designing and screening",
+        "vaccination"
+    ],
+    "author": "Amrita Banerjee, Dipannita Santra, and Smarajit Maiti, 1Departmentof Biochemistry and Biotechnology, Cell and Molecular Therapeutics Laboratory Oriental Institute of Science and Technology, Midnapore, India 2Founder and Secretary, Agricure Biotech Research Society, Epidemiology and Human Health Division, Midnapore-721101, India",
+    "date": 2020,
+    "affiliations": [
+        "Molecular Therapeutics Laboratory Oriental Institute of Science and Technology, Midnapore, India",
+        "Founder and Secretary, Agricure Biotech Research Society, Epidemiology and Human Health Division, Midnapore-721101, India"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.02.021725",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.02.021725.pdf"
+    },
+    "abstract": "The recent outbreak by SARS-CoV-2 has generated a chaos in global health and economy and claimed/infected a large number of lives. Closely resembling with SARS CoV, the present strain has manifested exceptionally higher degree of spreadability, virulence and stability possibly due to some unidentified mutations. The viral spike glycoprotein is very likely to interact with host Angiotensin-Converting Enzyme 2 (ACE2) and transmits its genetic materials and hijacks host machinery with extreme fidelity for self propagation. Few attempts have been made to develop a suitable vaccine or ACE2 blocker or virus-receptor inhibitor within this short period of time. Here, attempt was taken to develop some therapeutic and vaccination strategies with a comparison of spike glycoproteins among SARS-CoV, MERS-CoV and the SARS-CoV-2. We verified their structure quality (SWISS-MODEL, Phyre2, Pymol) topology (ProFunc), motifs (MEME Suite, GLAM2Scan), gene ontology based conserved domain (InterPro database) and screened several epitopes (SVMTrip) of SARS CoV-2 based on their energetics, IC50 and antigenicity with regard to their possible glycosylation and MHC/paratopic binding (Vaxigen v2.0, HawkDock, ZDOCK Server) effects. We screened here few pairs of spike protein epitopic regions and selected their energetic, IC50, MHC II reactivity and found some of those to be very good target for vaccination. A possible role of glycosylation on epitopic region showed profound effects on epitopic recognition. The present work might be helpful for the urgent development of a suitable vaccination regimen against SARS CoV-2. Key words: SARS CoV-2 (COVID 19), severe global outbreak- Dec 2019, spike glycoprotein, ACE-2 receptor protein, epitope designing and screening, vaccination",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Concept- SM and AM, Study"
+                },
+                {
+                    "funding-source": "SM and AM, Experiments"
+                }
+            ],
+            "funding-statement": "Ethics approval and consent to participate: N/A  Consent for publication: Yes  Availability of data and material: Yes  Competing interests: None  Funding: Institutional  Authors' contributions: Concept- SM and AM, Study design- SM and AM, Experiments-"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "abstract": "Background: The novel coronavirus disease 2019 (COVID-19) characterized by respiratory symptoms has become a global pandemic although factors influencing viral RNA clearance remained unclear to inform optimal isolation period and treatment strategies. Methods: In this retrospective study, we included patients with confirmed COVID-19 admitted to Guangzhou Eighth People's Hospital from 20th January 2020 to 15th March 2020. The associations of clinical characteristics and treatment regimens on time to viral RNA clearance were analyzed. Results: We examined 284 consecutive COVID-19 cases, accounting for 82% of confirmed cases in Guangzhou during this period. At the time of reporting (20th March 2020), 276 (97.2%) had recovered and were discharged from hospital with a median hospital stay of 18 days (interquartile range [IQR]:13-24). Overall, 280 patients achieved viral RNA clearance with a median length of 12 days (IQR: 8-16) after onset of illness. Amongst them, 66.1% had viral RNA cleared within 14 days, and 89.3% within 21 days. Older age, severity of disease, time lag from illness onset to hospital admission, high body temperature, and corticosteroid use were associated with delayed clearance of viral RNA. None of the antiviral regimens (chloroquine, oseltamivir, arbidol, and lopinavir/ritonavir) improved viral RNA clearance. The use of lopinavir/ritonavir was associated with delayed clearance of viral RNA even after adjusting for confounders. Conclusion: In patients with COVID-19, isolation for a minimum of 21 days after onset of illness may be warranted, while the use of antiviral drugs does not enhance viral RNA clearance.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Natural Science Foundation of China (grant numbers: 81802551)"
+    ],
+    "author": "Baoyi Zhu; Shuang Qiu; Juliana Chan; Xi He; Jingfeng Chen; Jianwen Zeng; Ying Deng; Wenxin Hong; Yang Zhang; Xudan Chen; Haipeng Zheng; Jian Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20058941",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20058941"
+    },
+    "title": "Associations of clinical characteristics and antiviral drugs with viral RNA clearance in patients with COVID-19 in Guangzhou, China: a retrospective cohort study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81802551"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was partly supported by the grant from National Natural Science Foundation of China (grant numbers: 81802551)"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Every day the authorities of different countries provide an estimate of the number of persons affected by Covid-19 and a count of fatality. We propose to use the fatality reported in each country to provide a better estimate (Ct0-estimated) of the number of cases at a given time t0. Ct0-estimated = (Ft0 / Fr-est) * (Ft0 / Ft0-3d)6 With Ft0: number of fatalities reported in a country at time t0; Ft0: number of fatalities reported in a country at time t0 minus 3 days; Fr-est: estimated fatality rate. Based on Ct0-estimated calculated using a fatality rate of 2%, we assessed the number of cases April 10th, 2020 in Belgium, China, France, Germany, Iran, Italy, South Korea, Netherlands, Spain, United Kingdom and USA. This number reached 2,872,097 in France and 924,892 persons in Germany. This work suggests a very strong underestimation of the number of cases of people affected, with a notification index often lower than 5%. The proposed formulas also make it possible to evaluate the impact of policies to prevent the spread of epidemic.",
+    "author": "Marc Dhenain",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20055913",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20055913"
+    },
+    "title": "ESTIMATION OF COVID-19 CASES IN FRANCE AND IN DIFFERENT COUNTRIES: HOMOGENEISATION BASED ON MORTALITY",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received to perform this study."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "The COVID-19 pandemic is still in its early stages and given the speed and magnitude of local outbreaks it is urgent to understand how mitigation measures translate into changes in key epidemiological and clinical outcomes. Here, we employ a mathematical model to explore the short-term consequences of lowering the reproduction number number R0 and delaying measures on total infections and fatalities. The positive implications of mitigation generally accrue as these measures are adopted early, with the most striking effects seen when the reproductive number is lowered to a level Rc\u22481.0. As the delay in adopting measures exceeds approximately the half-way point to the peak of an outbreak, the effects of lowering R0 markedly decrease. Aiming for reproduction numbers close to 1.0 can substantially reduce fatality probabilities over short time scales, particularly for larger populations. We conclude that research is urgently needed on how mitigation measures impact R0 and how these can be optimized so as to achieve Rc\u22481.0 whilst supporting individual freedoms, society and the economy.",
+    "author": "Michael E. Hochberg",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065268",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065268"
+    },
+    "title": "Countries should aim to lower the reproduction number R close to 1.0 for the short-term mitigation of COVID-19 outbreaks",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding received"
+        }
+    ]
+}

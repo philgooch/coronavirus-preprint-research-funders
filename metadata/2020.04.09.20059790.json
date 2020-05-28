@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: The international community has been put in an unprecedented situation by the COVID-19 pandemic. Creating models to describe and quantify alternative mitigation strategies becomes increasingly urgent. Methods: In this study, we propose an agent-based model of disease transmission in a society divided into closely connected families, workplaces, and social groups. This allows us to discuss mitigation strategies, including targeted quarantine measures. Results: We find that workplace and more diffuse social contacts are roughly equally important to disease spread, and that an effective lockdown must target both. We examine the cost-benefit of replacing a lockdown with tracing and quarantining contacts of the infected. Quarantine can contribute substantially to mitigation, even if it has short duration and is done within households. When reopening society, testing and quarantining is a strategy that is much cheaper in terms of lost workdays than a long lockdown of workplaces. Conclusions: A targeted quarantine strategy is quite efficient with only 5 days of quarantine, and its relative effect increases when supplemented with other measures that reduce disease transmission.\nCompeting Interest Statement",
+    "author": "Andreas Eilersen; Kim Sneppen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059790",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059790"
+    },
+    "title": "Estimating cost-benefit of quarantine length for COVID-19 mitigation",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Research Council",
+                    "award-id": [
+                        "740704"
+                    ]
+                }
+            ],
+            "funding-statement": "This project has received funding from the European Research Council (ERC) under the European Union\u0092s Horizon 2020 research and innovation program under grant agreement No 740704"
+        }
+    ]
+}

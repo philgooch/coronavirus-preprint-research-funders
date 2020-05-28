@@ -1,0 +1,16 @@
+{
+    "abstract": "BCG vaccination may reduce the risk of a range of infectious diseases, and, if so, could serve as a protective factor against COVID-19. Here, we compared countries that mandated BCG vaccination at least until 2000 with to countries that did not (129 countries in total). To minimize any systematic effects of reporting biases, we analyzed the rate of the day-by-day increase in both confirmed cases and deaths in the first 30-day period of country-wise outbreaks. The 30-day window was adjusted to begin at the country-wise onset of the pandemic. Linear mixed models revealed a significant effect of mandated BCG policies on the growth rate of both cases and deaths after controlling for median age, gross domestic product per capita, population density, population size, net migration rate, and various cultural dimensions (e.g., individualism and the tightness vs. looseness of social norms). Our analysis suggests that mandated BCG vaccination can be effective in the fight against COVID-19.",
+    "author": "Qinggang Yu; Shinobu Kitayama; Cristina E Salvador; Martha K Berg; Irene Melani",
+    "date": 2020,
+    "doi": "10.1101/2020.04.05.20054163",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.05.20054163"
+    },
+    "title": "Mandated Bacillus Calmette-Gu\u00e9rin (BCG) vaccination predicts flattened curves for the spread of COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

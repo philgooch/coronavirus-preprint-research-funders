@@ -1,0 +1,16 @@
+{
+    "abstract": "In this work, the modified SEIR model was proposed to account separately for the tested and isolated cases, with severe and critical symptoms, from those not tested, with mild and moderate symptoms. Two parameters were estimated and evaluated for the cases registered in Rond\u00eania, Brazil, between March 20 and April 22. The basic reproduction rate did not remain constant during the period, showing eventual variations due to social behavior. The results show that an increase in the proportion of testing to about 56% provided a significant decrease in confirmed cases, for the expansion of tested cases beyond the current testing criterion (20%) would help to identify and isolate also mild and moderate cases, generally referred to as asymptomatic.",
+    "author": "Tito Dias Junior; Camila Bueno Machado",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091942",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091942"
+    },
+    "title": "A Computational Model for Estimating the Evolution of COVID-19 in Rond\u00f4nia-Brazil",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received"
+        }
+    ]
+}

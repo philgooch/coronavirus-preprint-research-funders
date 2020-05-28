@@ -1,0 +1,24 @@
+{
+    "abstract": "Based on harmonized census data from 81 countries, we estimate how age and co-residence patterns shape the vulnerability of countries' populations to outbreaks of covid-19. We estimate variation in deaths arising due to a simulated random infection of 10% of the population living in private households and subsequent within-household transmission of the virus. The age-structures of European and North American countries increase their vulnerability to covid-related deaths in general. The co-residence patterns of elderly persons in Africa and parts of Asia increase these countries' vulnerability to deaths induced by within-household transmission of covid-19. Southern European countries, which have aged populations and relatively high levels of intergenerational co-residence are, all else equal, the most vulnerable to outbreaks of covid-19. In a second step, we estimate to what extent avoiding primary infections for specific age-groups would prevent subsequent deaths due to within-household transmission of the virus. Preventing primary infections among the elderly is the most effective in countries with small households and little intergenerational co-residence such as France, whereas confining younger age groups can have a greater impact in countries with large and inter-generational households such as Bangladesh.",
+    "author": "James W. Vaupel; Albert Esteve; Inaki Permanyer; Diederik Boertien",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20100289",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20100289"
+    },
+    "title": "National age and co-residence patterns shape covid-19 vulnerability",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "ERC-2014",
+                        "637768",
+                        "RTI2018-096730-B-I00"
+                    ]
+                }
+            ],
+            "funding-statement": "This analysis was supported by the following grants: ERC-2014-StG-637768, RTI2018-096730-B-I00."
+        }
+    ]
+}

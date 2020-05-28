@@ -1,0 +1,46 @@
+{
+    "abstract": "Background From March 2-April 12, 2020, New York City (NYC) experienced exponential growth of the COVID-19 pandemic due to novel coronavirus (SARS-CoV-2). Little is known regarding how physicians have been affected. We aimed to characterize COVID-19 impact on NYC resident physicians. Methods IRB-exempt and expedited cross-sectional analysis through survey to NYC residency program directors (PDs) April 3-12, 2020, encompassing events from March 2-April 12, 2020. Findings From an estimated 340 residency programs around NYC, recruitment yielded 91 responses, representing 24 specialties and 2,306 residents. 45.1% of programs reported at least one resident with confirmed COVID-19: 101 resident physicians were confirmed COVID-19-positive, with additional 163 residents presumed positive for COVID-19 based on symptoms but awaiting or unable to obtain testing. 56.5% of programs had a resident waiting for, or unable to obtain, COVID-19 testing. Two COVID-19-positive residents were hospitalized, with one in intensive care. Among specialties with >100 residents represented, negative binomial regression indicated that infection risk differed by specialty (p=0.039). Although most programs (80%) reported quarantining a resident, with 16.8% of residents experiencing quarantine, 14.9% of COVID-19-positive residents were not quarantined. 90 programs, encompassing 99.2% of the resident physicians, reported reuse or extended mask use, and 43 programs, encompassing 60.4% of residents, felt that personal protective equipment (PPE) was suboptimal. 65 programs (74.7%) have redeployed residents elsewhere to support COVID-19 efforts. Interpretation Many resident physicians around NYC have been affected by COVID-19 through direct infection, quarantine, or redeployment. Lack of access to testing and concern regarding suboptimal PPE are common among residency programs. Infection risk may differ by specialty. Funding AHA, MPB, RWSC, CGM, LRDG, and JDH are supported by NEI Core Grant P30EY019007, and unrestricted grant from RPB. ACP and JS are supported by Parker Family Chair. SXX is supported by University of Pennsylvania.",
+    "affiliations": [
+        "University of Pennsylvania",
+        "University of Pennsylvania (SXX). None of the funding source sponsors (National Eye Institute [NEI], Research to Prevent Blindness [RPB], the Parker Family Chair, or the University of Pennsylvania) had any input or involvement in the study design; in the collection, analysis, and interpretation of the data; in the writing of the report; and in the decision to submit the paper for publication"
+    ],
+    "author": "Lora R Dagi Glass; Alice Chen-Plotkin; Royce W S Chen; Junchao Shen; New York City Residency Program Directors COVID-19 Research Group; Mark Philip Breazzano; Jason D Horowitz; C Gustavo de Moraes; Sharon X Xie; Aliaa H Abdelhakim",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20074310",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20074310"
+    },
+    "title": "Resident physician exposure to novel coronavirus (2019-nCoV, SARS-CoV-2) within New York City during exponential phase of COVID-19 pandemic: Report of the New York City Residency Program Directors COVID-19 Research Group",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding AHA, MPB"
+                },
+                {
+                    "funding-source": "NEI Core Grant",
+                    "award-id": [
+                        "P30EY019007"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding AHA, MPB, RWSC, CGM, LRDG, and JDH are supported by NEI Core Grant P30EY019007, and unrestricted grant from RPB"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Parker Family Chair"
+                }
+            ],
+            "funding-statement": "ACP and JS are supported by Parker Family Chair"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Pennsylvania"
+                }
+            ],
+            "funding-statement": "SXX is supported by University of Pennsylvania"
+        }
+    ]
+}

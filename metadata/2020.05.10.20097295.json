@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The spread of the novel severe acute respiratory syndrome coronavirus (SARS-CoV-2) has reached a global level, creating a pandemic. The government of various countries, their citizens, politicians, and business owners are worried about the unavoidable economic impacts of this pandemic. Therefore, there is an eagerness for the pandemic peaking. Objectives: This study uses an objective approach to emphasize the need to be pragmatic with easing of lockdowns measures worldwide through the forecast of the possible trend of COVID-19. This is necessary to ensure that the enthusiasm about SARS-CoV-2 peaking is properly examined, easing of lockdown is done systematically to avoid second-wave of the pandemic. Methods: We used the Facebook prophet on the World Health Organization data for COVID-19 to forecast the spread of SARS-CoV-2 for the 7th April until 3rd May 2020. The forecast model was further used to forecast the trend of the virus for the 8th until 14th May 2020. We presented the forecast of the confirmed and death cases. Results: Our findings from the forecast showed an increase in the number of new cases for this period. Therefore, the need for easing the lockdown with caution becomes imperative. Our model showed good performance when compared to the official report from the World Health Organization. The average forecasting accuracy of our model was 79.6%. Conclusion: Although, the global and economic impact of COVID-19 is daunting. However, excessive optimism about easing the lockdown should be appropriately weighed against the risk of underestimating its spread. As seen globally, the risks appeared far from being symmetric. Therefore, the forecasting provided in this study offers an insight into the spread of the virus for effective planning and decision-making in terms of easing the lockdowns in various countries.\nCompeting Interest Statement",
+    "author": "Akpojoto Siemuri; Rasheed Omobolaji Alabi; Mohammed Elmusrati",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20097295",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20097295"
+    },
+    "title": "COVID-19: Easing the coronavirus lockdowns with caution",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement nONE</strong>"
+        }
+    ]
+}

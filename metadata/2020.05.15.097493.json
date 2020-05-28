@@ -1,0 +1,51 @@
+{
+    "title": "Sequence characterization and molecular modeling of clinically relevant variants of the SARS-CoV-2 main protease",
+    "date": 2020,
+    "author": "Thomas J. Cross, Gemma R. Takahashi, Elizabeth M. Diessner, Marquise G. Crosby, Vesta Farahmand, Shannon Zhuang, Carter T. Butts,\u2217 and Rachel W. Martin",
+    "affiliations": [
+        "Department of Chemistry, University of California, Irvine",
+        "Department of Molecular Biology and Biochemistry, University of California, Irvine",
+        "California Institute for Telecommunications and Information Technology, University of California, Irvine",
+        "Computer Science, and Electrical Engineering and Computer Science, University of California, Irvine"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.15.097493",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.15.097493.pdf"
+    },
+    "abstract": "The SARS-CoV-2 main protease (Mpro) is essential to viral replication and cleaves highly specific substrate sequences, making it an obvious target for inhibitor design. However, as for any virus, SARS-CoV-2 is subject to constant selection pressure, with new Mpro mutations arising over time. Identification and structural characterization of Mpro variants is thus critical for robust inhibitor design. Here we report sequence analysis, structure predictions, and molecular modeling for seventy-nine Mpro variants, constituting all clinically observed mutations in this protein as of April 29, 2020. Residue substitution is widely distributed, with some tendency toward larger and more hydrophobic residues. Modeling and protein structure network analysis suggest differences",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "DMS-1361425",
+                        "IIS1939237"
+                    ]
+                },
+                {
+                    "funding-source": "NASA Award",
+                    "award-id": [
+                        "80NSSC20K0620"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "2R01EY021514"
+                    ]
+                },
+                {
+                    "funding-source": "CIFAR Molecular Architecture of Life"
+                },
+                {
+                    "funding-source": "UC Irvine School of Physical Sciences Dean\u2019s Excellence Fund"
+                }
+            ],
+            "funding-statement": "This research was supported by NSF awards DMS-1361425 to C.T.B. and R.W.M. and IIS1939237 to C.T.B., NASA Award 80NSSC20K0620 to R.W.M. and C.T.B., NIH grant 2R01EY021514 to RWM, the CIFAR Molecular Architecture of Life program, and the UC Irvine School of Physical Sciences Dean\u2019s Excellence Fund"
+        }
+    ]
+}

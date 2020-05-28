@@ -1,0 +1,21 @@
+{
+    "title": "Analyses of spike protein from first deposited sequences of SARS-CoV2 from West Bengal, India",
+    "author": "Feroza Begum, *Debica Mukherjee, *Dluya Thagriki, *Sandeepan Das, #Prem Prakash Tripathi, #Arup Kumar Banerjee, #Upasana Ray",
+    "date": 2020,
+    "affiliations": [
+        "CSIR-Indian Institute of Chemical Biology, 4, Raja S.C., Mullick Road, Jadavpur, Kolkata-700032, West Bengal, India",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad- 201002, India",
+        "Department of Biochemistry, North Bengal Medical College and Hospital, Sushrutanagar, Siliguri734012, West Bengal, India"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.28.066985",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.28.066985.pdf"
+    },
+    "abstract": "India has recently started sequencing SARS-CoV2 genome from clinical isolates. Currently only few sequences are available from three states in India. Kerala was the first state to deposit complete sequence from two isolates followed by one from Gujarat. On April 27, 2020, the first five sequences from the state of West Bengal (Eastern India) were deposited on \u2018a global initiative on sharing avian flu data\u2019 (GISAID) platform. In this paper we have analysed the spike protein sequences from all these five isolates and also compared for their similarities or differences with other sequences reported in India and with isolates of Wuhan origin. We report one unique mutation at position 723 and the other at 1124 in the S2 domain of spike protein of the isolates from West Bengal only and one mutation downstream of the receptor binding domain at position 614 in S1 domain which was common with the sequence from Gujarat (a state of western part of India). Mutation in the S2 domain showed changes in the secondary structure of the spike protein at region of mutation. We also studied molecular dynamics using normal mode analyses and found that this mutation decreases the flexibility of S2 domain. Since both S1 and S2 are important in receptor binding followed by entry in the host cells, such mutations may define the affinity or avidity of receptor binding.",
+    "funding": [
+        {}
+    ]
+}

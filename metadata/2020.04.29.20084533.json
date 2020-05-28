@@ -1,0 +1,16 @@
+{
+    "abstract": "Background. Certain individuals, when infected by SARS-CoV-2, tend to develop the more severe forms of Covid-19 illness for reasons that remain unclear. Methods. We studied N=442 patients who presented with laboratory confirmed Covid-19 illness to our U.S. metropolitan healthcare system. We curated data from the electronic health record, and used multivariable logistic regression to examine the association of pre-existing traits with a Covid-19 illness severity defined by level of required care: need for hospital admission, need for intensive care, and need for intubation. Results. Of all patients studied, 48% required hospitalization, 17% required intensive care, and 12% required intubation. In multivariable-adjusted analyses, patients requiring a higher levels of care were more likely to be older (OR 1.5 per 10 years, P<0.001), male (OR 2.0, P=0.001), African American (OR 2.1, P=0.011), obese (OR 2.0, P=0.021), with diabetes mellitus (OR 1.8, P=0.037), and with a higher comorbidity index (OR 1.8 per SD, P<0.001). Several clinical associations were more pronounced in younger compared to older patients (Pinteraction<0.05). Of all hospitalized patients, males required higher levels of care (OR 2.5, P=0.003) irrespective of age, race, or morbidity profile. Conclusions. In our healthcare system, greater Covid-19 illness severity is seen in patients who are older, male, African American, obese, with diabetes, and with greater overall comorbidity burden. Certain comorbidities paradoxically augment risk to a greater extent in younger patients. In hospitalized patients, male sex is the main determinant of needing more intensive care. Further investigation is needed to understand the mechanisms underlying these findings.",
+    "author": "Elizabeth H. Kim; Trevor-Trung Nguyen; Yunxian Liu; Anders H. Berg; Natalie Achamallah; Christine M. Albert; Brian L. Claggett; Ryan Rosenberry; Joseph E. Ebinger; Susan Cheng; Hongwei Ji; Tanzira Zaman; Scott D. Solomon; C. Noel Bairey Merz; Jennifer E. Van Eyk; Peter Chen; Jonathan D. Grein; Isabel Pedraza; Eric Luong; Eduardo Marb\u00e1n; Eunice Park; Yuri Matusov; Michael Thompson; Paul W. Noble; Koen Raedschelders; Nancy Sun; Patrick Botting; Sumeet S. Chugh; Steven Zhao",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20084533",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20084533"
+    },
+    "title": "Pre-Existing Traits Associated with Covid-19 Illness Severity",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was supported in part by the Erika J"
+        }
+    ]
+}

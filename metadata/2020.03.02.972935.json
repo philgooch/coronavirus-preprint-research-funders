@@ -1,0 +1,60 @@
+{
+    "title": "Isolation and characterization of SARS-CoV-2 from the first US COVID-19 patient",
+    "author": "Jennifer Harcourt Ph.D, Azaibi Tamin Ph.D, Xiaoyan Lu, Shifaq Kamili, Senthil Kumar. Sakthivel, Janna Murray, Krista Queen Ph.D.1, Ying Tao Ph.D.1, Clinton R. Paden Ph.D.1, Jing Zhang, Yan Li, Anna Uehara Ph.D.4, Haibin Wang, Cynthia Goldsmith Ph.D.1, Hannah A. Bullock Ph.D.5, Lijuan Wang, Brett Whitaker, Brian Lynch, Rashi Gautam Ph.D, Craig Schindewolf 6, Kumari G. Lokugamage Ph.D, Dionna Scharton, Jessica A. Plante Ph.D, Divya Mirchandani, Steven G. Widen Ph.D.8, Krishna Narayanan Ph.D.6, Shinji Makino Ph.D.6, Thomas G. Ksiazek DVM, Ph.D, Kenneth S. Plante Ph.D.7, Scott C. Weaver Ph.D.6, Stephen Lindstrom Ph.D, Suxiang Tong Ph.D,Vineet D. Menachery Ph.D,+, Natalie J. Thornburg,+",
+    "date": 2020,
+    "affiliations": [
+        "Department of Microbiology and Immunology",
+        "World Reference Center for Emerging Viruses and Arboviruses",
+        "Department of Biochemistry & Molecular Biology",
+        "Department of Pathology, Institute for Human Infection and Immunity, University of Texas Medical Branch, Galveston TX, USA"
+    ],
+    "journal": "Keywords",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.02.972935",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.02.972935.pdf"
+    },
+    "abstract": "The etiologic agent of the outbreak of pneumonia in Wuhan China was identified as severe acute respiratory syndrome associated coronavirus 2 (SARS-CoV-2) in January, 2020. The first US patient was diagnosed by the State of Washington and the US Centers for Disease Control and Prevention on January 20, 2020. We isolated virus from nasopharyngeal and oropharyngeal specimens, and characterized the viral sequence, replication properties, and cell culture tropism. We found that the virus replicates to high titer in Vero-CCL81 cells and Vero E6 cells in the absence of trypsin. We also deposited the virus into two virus repositories, making it broadly available to the public health and research communities. We hope that open access to this important reagent will expedite development of medical countermeasures.",
+    "keywords": [
+        "Coronavirus",
+        "2019 -nCoV",
+        "SARS-CoV-2",
+        "COVID-19"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIA and NIAID of the NIH",
+                    "award-id": [
+                        "U19AI100625",
+                        "R00AG049092 to VDM",
+                        "R24AI120942 to SCW",
+                        "AI99107",
+                        "AI114657 to SM"
+                    ]
+                }
+            ],
+            "funding-statement": "Research was supported by grants from NIA and NIAID of the NIH (U19AI100625 and R00AG049092 to VDM; R24AI120942 to SCW; AI99107 and AI114657 to SM)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "STARs Award"
+                },
+                {
+                    "funding-source": "University of Texas System"
+                },
+                {
+                    "funding-source": "Institute for Human Infections and Immunity"
+                },
+                {
+                    "funding-source": "McLaughlin Fellowship Fund"
+                }
+            ],
+            "funding-statement": "Research was also supported by STARs Award provided by the University of Texas System to VDM, funds from the Institute for Human Infections and Immunity at UTMB to SM, and trainee funding provided by the McLaughlin Fellowship Fund at UTMB"
+        }
+    ]
+}

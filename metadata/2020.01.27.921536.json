@@ -1,0 +1,62 @@
+{
+    "title": "Protective Population Behavior Change in Outbreaks of Emerging Infectious Disease",
+    "keywords": [
+        "27 Ebola",
+        "MERS",
+        "SARS",
+        "outbreak",
+        "public health",
+        "behavior change 28 29"
+    ],
+    "date": 2020,
+    "affiliations": [
+        "Department of Epidemiology, Gillings School of Global Public Health, University of North",
+        "Carolina at Chapel Hill, Chapel Hill, North Carolina, United States 7",
+        "School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina",
+        "Odum School of Ecology and Center for Ecology of Infectious Diseases, University of Georgia",
+        "Athens, Georgia, United States 11",
+        "During outbreaks of emerging infections, the lack of effective drugs and vaccines increases 14 reliance on non-pharmacologic public health interventions and behavior change to limit human15 to-human transmission. Interventions that increase the speed with which infected individuals 16 remove themselves from the susceptible population are paramount, particularly isolation and 17 hospitalization. Ebola virus disease (EVD), Severe Acute Respiratory Syndrome (SARS), and"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.01.27.921536",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.01.27.921536.pdf"
+    },
+    "abstract": "estimation is complicated, however, by efforts to isolate infected individuals in hospitals or other settings to decrease contact with the susceptible population. While the isolation of infected individuals is beneficial and should be encouraged, it challenges data analysts because it is time-varying and reflects dynamic and often unpredictable human behavior. Moreover, the rate at which infected individuals are removed from the population typically accelerates throughout an epidemic as awareness of the infectious threat increases,8 a process Drake et al referred to as \u201csocietal learning.\u201d9 Obtaining accurate estimates of this time-varying removal of infected persons, while difficult, improves the quality of compartmental models for epidemics of infectious disease.9,10 To our knowledge, however, no work has directly compared the rate of behavioral adaption across multiple epidemics, societies, and geographic settings. 56 Many factors can affect how quickly effective isolation practices are implemented, such as access to health care, local public health funding, international aid, and the efficacy of information campaigns.11 Local health care practices and non-formal healthcare systems also provide care to patients during epidemics and can play a part in quarantining infected individuals.12 Previous work in Liberia has shown that a combination of these approaches through simultaneous community engagement and clinical intervention is more effective than any single intervention, with both health care access and utilization increasing hand-in-hand to decrease EVD transmission during the 2013-2016 Ebola epidemic.13 While infection prevention often includes vaccination, progress to develop effective vaccines for emerging infections is slow and not necessarily more effective than isolation of infected individuals.14 Ring vaccination with the rVSV-ZEBOV-GP Ebola vaccine15 in the Democratic Republic of the Congo is promising,16 but previous work has suggested that ring vaccination may only provide a marginal benefit to rigorous contact tracing and patient isolation.17 70 The focus of this paper is the identification of key similarities and differences in the behavioral response to outbreaks of three emerging zoonotic infections. We sought to determine how the mean removal rate of infected individuals changed over the course of each outbreak as measured by epidemic week and viral serial interval. Individuals often experience zoonotic and emerging infections as innately more frightening than \u201cfamiliar\u201d diseases, leading to rapid behavioral adaptations due to high perceived risk.18 Behavior modification, while crucial for epidemic containment,19\u201321 is context dependent and difficult to predict due to social network, socioeconomic, and behavioral differences between populations.22 Thus, we chose seven different outbreaks of disease that stoked significant local and international fear due to the risk of global pandemic: the 2013-2016 Liberian Ebola epidemic, subsets of the 2013-2016 Liberian outbreak from Lofa and Montserrado Counties,23 the 2003 Hong Kong SARS epidemic,24\u201326 the 2014 Saudi Arabia MERS outbreaks in Riyadh and Jeddah,27 and the 2015 South Korea MERS outbreak.28 We examined whether epidemic week and serial interval successfully predicted days from disease onset to hospitalization (DSOH) and mean removal rate (MRR) throughout each epidemic. 86 MATERIALS AND METHODS: 87 DATA: We obtained patient-level data for Ebola and MERS, and daily aggregated data for SARS. We added new columns to each epidemic dataset to track the number of days from symptom onset to hospitalization (calculated as hospitalization date - date of symptom onset; abbreviated DSOH) and the mean removal rate (calculated as 1 / DSOH; abbreviated MRR). In calculating MRR, we considered only positive DSOH values in order to focus on community transmission rather than nosocomial transmission. Additionally, we converted symptom onset dates to weekly onset dates by replacing each date with that of the closest previous Sunday. 96 BINNED DATA: We compiled data for each outbreak location binned by epidemic week, to produce comparable data for regression analysis. Epidemic weeks came from weekly onset dates described above.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Population Biology of Infectious Diseases REU Site Program. Funding"
+                },
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "DBI-1156707"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of General Medical Sciences of the National Institutes of Health",
+                    "award-id": [
+                        "U01GM110744"
+                    ]
+                },
+                {
+                    "funding-source": "Award Number",
+                    "award-id": [
+                        "U01GM110744"
+                    ]
+                },
+                {
+                    "funding-source": "National Science Foundation"
+                },
+                {
+                    "funding-source": "National Institutes of Health."
+                }
+            ],
+            "funding-statement": "This work was performed as part of the Population Biology of Infectious Diseases REU Site Program. Funding was provided by grants from the National Science Foundation (DBI-1156707) and the National Institute of General Medical Sciences of the National Institutes of Health under Award Number U01GM110744. The content is solely the responsibility of the authors and does not necessarily reflect the official views of the National Science Foundation or the National Institutes of Health."
+        }
+    ]
+}

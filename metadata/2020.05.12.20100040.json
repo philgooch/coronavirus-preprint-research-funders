@@ -1,0 +1,16 @@
+{
+    "abstract": "In February 2020, Italy became the epicentre for COVID-19 in Europe and at the beginning of March, in response to the growing epidemic, the Italian Government put in place emergency measures to restrict the movement of the population. Human mobility represents a crucial element to be considered in modelling human infectious diseases. In this paper, we examined the mechanisms underlying COVID-19 propagation using a Susceptible-Infected stochastic model (SI) driven mainly by commuting network in Italy. We modelled a municipality-specific contact rate to capture the disease permeability of each municipality, considering the population at different times of the day and describing the characteristic of the municipalities as attractors of commuters or places that make their workforce available elsewhere. The purpose of our analysis is to provide a better understanding of the epidemiological context of COVID-19 in Italy and to characterize the territory in terms of vulnerability at local or national level. The use of data at such a high spatial resolution allows highlighting particular situations on which the health authorities can promptly intervene to control the disease spread. Our approach provides decision-makers with useful geographically detailed metrics to evaluate those areas at major risk for infection spreading and for which restrictions of human mobility would give the greatest benefits, not only at the beginning of the epidemic but also in the last phase, when the risks deriving from the gradual lockdown exit strategies must be carefully evaluated.",
+    "author": "Luca Candeloro; Paolo Calistri; Annamaria Conte; Lara Savini",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20100040",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20100040"
+    },
+    "title": "A municipality-based approach using commuting census data to characterise the vulnerability to influenza-like epidemic: the COVID-19 application in Italy.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no external funding was received</strong>"
+        }
+    ]
+}

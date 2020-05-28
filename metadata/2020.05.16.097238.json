@@ -1,0 +1,42 @@
+{
+    "title": "Mechanistic modeling of the SARS-CoV-2 and immune system interplay unravels design principles for diverse clinicopathological outcomes",
+    "author": "Sarthak Sahoo, Kishore Hari, Siddharth Jhunjhunwala, Mohit Kumar Jolly",
+    "date": 2020,
+    "affiliations": [
+        "Indian Institute of Science, Bangalore, India",
+        "Centre for BioSystems Science and Engineering, Indian Institute of Science, Bangalore"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.16.097238",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.16.097238.pdf"
+    },
+    "abstract": "The disease caused by SARS-CoV-2 is a global pandemic that threatens to bring long-term changes worldwide. Approximately 80% of infected patients are asymptomatic or have mild symptoms such as fever or cough, while rest of the patients have varying degrees of severity of symptoms, with 3-4% mortality rate. Severe symptoms such as pneumonia and Acute Respiratory Distress Syndrome can be caused by tissue damage mostly due to aggravated and unresolved innate and adaptive immune response, often resulting from a cytokine storm. However, the mechanistic underpinnings of such responses remain elusive, with an incomplete understanding of how an intricate interplay among infected cells and cells of innate and adaptive immune system can lead to such diverse clinicopathological outcomes. Here, we use a dynamical systems approach to dissect the emergent nonlinear intra-host dynamics among virally infected cells, the immune response to it and the consequent immunopathology. By mechanistic analysis of cell-cell interactions, we have identified key parameters affecting the diverse clinical phenotypes associated with COVID-19. This minimalistic yet rigorous model can explain the various phenotypes observed across the clinical spectrum of COVID-19, various co-morbidity risk factors such as age and obesity, and the effect of antiviral drugs on different phenotypes. It also reveals how a fine-tuned balance of infected cell killing and resolution of inflammation can lead to infection clearance, while disruptions can drive different severe phenotypes. These results will help further the case of rational selection of drug combinations that can effectively balance viral clearance and minimize tissue damage simultaneously.",
+    "keywords": [
+        "SARS-CoV-2",
+        "mathematical modeling",
+        "COVID-19",
+        "host-immune dynamics"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ramanujan Fellowship"
+                },
+                {
+                    "funding-source": "Science and Engineering Research Board"
+                },
+                {
+                    "funding-source": "Department of Science and Technology, Government",
+                    "award-id": [
+                        "SB/S2/RJN-049/2018"
+                    ]
+                }
+            ],
+            "funding-statement": "MKJ was supported by Ramanujan Fellowship provided by Science and Engineering Research Board (SERB), Department of Science and Technology, Government of India (SB/S2/RJN-049/2018)"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "abstract": "Background COVID-19, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), was declared a global pandemic in March 2020. Electronic cigarette use (vaping) rapidly gained popularity in the US in recent years. Whether electronic cigarette users (vapers) are more susceptible to COVID-19 infection is unknown. Methods Using integrated data in each US state from the 2018 Behavioral Risk Factor Surveillance System (BRFSS), United States Census Bureau and the 1Point3Acres.com website, generalized estimating equation (GEE) models with negative binomial distribution assumption and log link functions were used to examine the association of weighted proportions of vapers with number of COVID-19 infections and deaths in the US. Results The weighted proportion of vapers who used e-cigarettes every day or some days ranged from 2.86% to 6.42% for US states. Statistically significant associations were observed between the weighted proportion of vapers and number of COVID-19 infected cases as well as COVID-19 deaths in the US after adjusting for the weighted proportion of smokers and other significant covariates in the GEE models. With every one percent increase in weighted proportion of vapers in each state, the number of COVID-19 infected cases increase by 0.3139 (95% CI: 0.0554 - 0.5723) and the number of COVID-19 deaths increase by 0.3705 (95% CI: 0.0623 - 0.6786) in log scale in each US state. Conclusions The positive associations between the proportion of vapers and the number of COVID-19 infected cases and deaths in each US state suggest an increased susceptibility of vapers to COVID-19 infections and deaths.",
+    "affiliations": [
+        "National Cancer Institute of the National Institutes of Health (NIH) and the Food and Drug Administration (FDA) Center for Tobacco Products under Award Number U54CA228110. DL\u0092s time is supported in part by the University of Rochester CTSA award number UL1 TR002001 from the National Center for Advancing Translational Sciences of the National Institutes of Health"
+    ],
+    "author": "Dongmei Li; Daniel P. Croft; Zidian Xie; Deborah J. Ossip",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20092379",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092379"
+    },
+    "title": "Are Vapers More Susceptible to COVID-19 Infection?",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Cancer Institute of the National Institutes of Health"
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "Food and Drug Administration"
+                },
+                {
+                    "funding-source": "Center for Tobacco Products",
+                    "award-id": [
+                        "U54CA228110"
+                    ]
+                },
+                {
+                    "funding-source": "Award Number",
+                    "award-id": [
+                        "U54CA228110"
+                    ]
+                },
+                {
+                    "funding-source": "University of Rochester CTSA",
+                    "award-id": [
+                        "TR002001"
+                    ]
+                },
+                {
+                    "funding-source": "National Center for Advancing Translational Sciences of the National Institutes of Health."
+                }
+            ],
+            "funding-statement": "Research reported in this publication was supported by the National Cancer Institute of the National Institutes of Health (NIH) and the Food and Drug Administration (FDA) Center for Tobacco Products under Award Number U54CA228110. DL\u0092s time is supported in part by the University of Rochester CTSA award number UL1 TR002001 from the National Center for Advancing Translational Sciences of the National Institutes of Health."
+        }
+    ]
+}

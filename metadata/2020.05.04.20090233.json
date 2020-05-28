@@ -1,0 +1,16 @@
+{
+    "abstract": "Following power law, Farr's law and IDEA model, we analyze the data of COVID-19 pandemic for India up to 2 May, 2020 and for Germany, France, Italy, the USA, Singapore, China and Denmark up to 26 April, 2020. The cumulative total number of infected persons as a function of elapsed time has been fitted with power law to find the scaling exponent (\u03b3). The reduction in \u03b3 in different countries signals the reduction in the growth of infection, possibly, due to long-term Government intervention. The extent of infection and reproduction rate R_0 of the same are also examined using Farr's law and IDEA model. The new cases per day with time assume Gaussian bell shaped curve, obeying the rule that faster rise follows faster decay. In India and Singapore, the peak of the bell shaped curve is still elusive. It is found that, till date, countries such as Denmark and India implementing sooner lockdown have underwent lower number of new cases of infection. Daily variation shows, R_0 of all the countries is reducing, ushering in fresh hopes to combat COVID-19. Finally, we try to make a prediction as to the date on which the different countries will come down to daily cases of infection as low as one hundred (100).",
+    "author": "SRIJIT BHATTACHARYA; Md Moinul Islam; Alokkumar De",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090233",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090233"
+    },
+    "title": "Search for the trend of COVID-19 infection following Farr's law, IDEA model and power law.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding is involved."
+        }
+    ]
+}

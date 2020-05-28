@@ -1,0 +1,68 @@
+{
+    "title": "Preliminary support for a \u201cdry swab, extraction free\u201d protocol for SARS-CoV-2 testing via RT-qPCR",
+    "date": 2020,
+    "author": "Sanjay Srivatsan,\u200b ,Peter D. Han,\u200b ,Katrina van Raay,\u200b ,Caitlin R. Wolf,\u200b ,Denise J. McCulloch,\u200b ,Ashley E. Kim,\u200b ,Elisabeth Brandstetter,\u200b ,Beth Martin,\u200b ,Jase Gehring,\u200b ,Wei Chen,\u200b ,Seattle Flu Study Investigators, Sriram Kosuri,\u200b ,Eric Q. Konnick,\u200b ,Christina M. Lockwood,\u200b ,Mark J. Rieder,\u200b ,Deborah A. Nickerson,\u200b ,Helen Y. Chu,\u200b ,Jay Shendure,\u200b ,6\u200b and Lea M. Starita,\u200b ,6",
+    "affiliations": [
+        "University of Washington, Seattle WA, USA",
+        "Octant, Inc. Emeryville CA, USA",
+        "University of California, Los Angeles, Los Angeles CA, USA",
+        "Brotman Baty Institute For Precision Medicine, Seattle WA, USA",
+        "Howard Hughes Medical Institute. Seattle WA, USA",
+        "Correspondence should be addressed to"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.22.056283",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.22.056283.pdf"
+    },
+    "abstract": "The urgent need for massively scaled clinical or surveillance testing for SARS-CoV-2 has necessitated a reconsideration of the methods by which respiratory samples are collected, transported, processed and tested. Conventional testing for SARS-CoV-2 involves collection of a clinical specimen with a nasopharyngeal swab, storage of the swab during transport in universal transport medium (UTM), extraction of RNA, and quantitative reverse transcription PCR (RT-qPCR). As testing has scaled across the world, supply chain challenges have emerged across this entire workflow. Here we sought to evaluate how eliminating the UTM storage and RNA extraction steps would impact the results of molecular testing. Using paired mid-turbinate swabs self-collected by 11 individuals with previously established SARS-CoV-2 positivity, we performed a comparison of conventional (swab \u2192 UTM \u2192 RNA extraction \u2192 RT-qPCR) vs. simplified (direct elution from dry swab \u2192 RT-qPCR) protocols. Our results suggest that dry swabs eluted directly into a simple buffered solution (TE) can support molecular detection of SARS-CoV-2 via endpoint RT-qPCR without substantially compromising sensitivity. Although further confirmation with a larger sample size and variation of other parameters is necessary, these results are encouraging for the possibility of a simplified workflow that could support massively scaled testing for COVID-19 control.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Catherine Moore of Public Health Wales and Dan Wattendorf and Emily Turner of the Bill and Melinda Gate Foundation for"
+                },
+                {
+                    "funding-source": "The Seattle Flu and HAARVI Studies"
+                },
+                {
+                    "funding-source": "Brotman Baty Institute for Precision Medicine and"
+                },
+                {
+                    "funding-source": "Gates Ventures,"
+                },
+                {
+                    "funding-source": "Bill Gates"
+                }
+            ],
+            "funding-statement": "We thank Catherine Moore of Public Health Wales and Dan Wattendorf and Emily Turner of the Bill and Melinda Gate Foundation for helpful advice. The Seattle Flu and HAARVI Studies are administered by the Brotman Baty Institute for Precision Medicine and funded by Gates Ventures, the private office of Bill Gates"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "HAARVI"
+                },
+                {
+                    "funding-source": "DARPA",
+                    "award-id": [
+                        "HR001117S0019"
+                    ]
+                }
+            ],
+            "funding-statement": "Additional funding for the HAARVI study comes from DARPA HR001117S0019 to HYC"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NHGRI and JS"
+                },
+                {
+                    "funding-source": "Investigator of the Howard Hughes Medical Institute"
+                }
+            ],
+            "funding-statement": "LMS and JS are funded by 1RM1HG010461-01 from the NHGRI and JS is an Investigator of the Howard Hughes Medical Institute"
+        }
+    ]
+}

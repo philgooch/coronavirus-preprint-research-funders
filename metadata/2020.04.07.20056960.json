@@ -1,0 +1,23 @@
+{
+    "abstract": "It is not currently known how long it takes a person infected by the COVID-19 virus to become infectious. Models of the spread of COVID-19 use very different lengths for this latency period, leading to very different estimates of the replication number R, even when models work from the same underlying data sets. In this paper we quantify how much varying the length of the latency period affects estimates of R, and thus the fraction of the population that is predicted to be infected in the first wave of the pandemic. This variation underscores the uncertainty in our understanding of R and raises the possibility that R may be considerably greater than has been assumed by those shaping public policy.",
+    "affiliations": [
+        "University of Texas, but not by any external grants"
+    ],
+    "author": "Lorenzo A Sadun",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20056960",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20056960"
+    },
+    "title": "Effects of latency on estimates of the COVID-19 replication number",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Texas,"
+                }
+            ],
+            "funding-statement": "This work is supported by my employment at the University of Texas, but not by any external grants"
+        }
+    ]
+}

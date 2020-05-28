@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 pandemic has triggered world-wide attention among data scientists and epidemiologists to analyze and predict the outcomes, by using previous statistical epidemic models. We propose to use a variant of the well known SEIR model to analyze the spread of COVID-19 in France, by taking in to account the national lockdown declared in March 11, 2020. Particle Swarm Optimisation (PSO) is used to find optimal parameters for the model in the case of France. We propose to fit the model based only on the number of daily fatalities, where an R2 score based error metric is used. As number of confirmed cases shall not be fully representative due to low testing especially in the first phases of the outbreak, we present that basing the model optimisation on the fatalities can provide legitimate results.",
+    "author": "Oleksandr Motornyi; Thibaud Ishacian; Hippolyte Leger; Eren Unlu; Alia Rukubayihunga; Mehdi Chouiten",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20079962",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20079962"
+    },
+    "title": "Epidemic analysis of COVID-19 Outbreak and Counter-Measures in France",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding"
+        }
+    ]
+}

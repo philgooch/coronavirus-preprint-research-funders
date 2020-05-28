@@ -1,0 +1,56 @@
+{
+    "abstract": "Addition of adjuvant corticosteroid therapy to standard antiviral treatment of patients with coronavirus disease (COVID-19) is common in clinical practice. However, evidence is scarce regarding the efficacy of adjuvant corticosteroids in patients who are critically ill. We retrospectively evaluated the effects of adjuvant corticosteroid treatment on the outcome of 244 critically ill patients with COVID-19, using a risk stratification model that adjusts for potential differences between the steroid group (n=151) and the non-steroid group (n=93). We observed that adjuvant corticosteroid therapy was independent from 28-day mortality, either in multivariate logistic regression of the entire cohort after adjustment for major mortality-associated variables (age, SpO2/FiO2, and lymphocyte count) and individual propensity score (adjusted OR: 1.05; 95% CI: -1.92-2.01), or in propensity score-matched (1:1 without replacement) case-control analysis (62 patients in 31 pairs; log-rank test P=0.17). Additionally, subgroup analyses of 147 (60%) patients who had dyspnea and 87 (36%) patients who had ARDS revealed corticosteroid treatment was not associated with clinical outcome (both, P>0.3). However, increased corticosteroids dosage was significantly associated with elevated mortality risk after adjustment for administration duration (P=0.003); every ten-milligram increase in hydrocortisone-equivalent dosage was associated with additional 4% mortality risk (adjusted HR: 1.04, 95% CI: 1.01-1.07). Our findings indicated that limited effect of corticosteroid therapy could pose to overall survival and prudent dose within effective limits may be recommended for critically ill patients under certain circumstances.",
+    "affiliations": [
+        "National Key R&D Program of China (2019YFC1711000), the National Natural Science Foundation of China (81973145), the \u0093Double First-Class\u0094 University Project (CPU2018GY09), the China Postdoctoral Science Foundation (2019M651805), the Science Foundation of Jiangsu Commission of Health (H2018117), and the Emergency Project for the Prevention and Control of the Novel Coronavirus Outbreak in Suzhou (SYS2020012)"
+    ],
+    "author": "Jun Wang; Yang Wang; Xiaofan Lu; Bing Zhang; Taige Chen; Yongsheng Li; Fangrong Yan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20056390",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20056390"
+    },
+    "title": "Adjuvant corticosteroid therapy for critically ill patients with COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2019YFC1711000"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81973145"
+                    ]
+                },
+                {
+                    "funding-source": "University Project",
+                    "award-id": [
+                        "CPU2018GY09"
+                    ]
+                },
+                {
+                    "funding-source": "China Postdoctoral Science Foundation",
+                    "award-id": [
+                        "2019M651805"
+                    ]
+                },
+                {
+                    "funding-source": "Science Foundation of Jiangsu Commission of Health",
+                    "award-id": [
+                        "H2018117"
+                    ]
+                },
+                {
+                    "funding-source": "Emergency Project for the Prevention and Control of the Novel Coronavirus Outbreak in Suzhou",
+                    "award-id": [
+                        "SYS2020012"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Key R&D Program of China (2019YFC1711000), the National Natural Science Foundation of China (81973145), the \u0093Double First-Class\u0094 University Project (CPU2018GY09), the China Postdoctoral Science Foundation (2019M651805), the Science Foundation of Jiangsu Commission of Health (H2018117), and the Emergency Project for the Prevention and Control of the Novel Coronavirus Outbreak in Suzhou (SYS2020012)"
+        }
+    ]
+}

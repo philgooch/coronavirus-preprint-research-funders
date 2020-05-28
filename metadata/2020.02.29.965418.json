@@ -1,0 +1,27 @@
+{
+    "title": "The within-host viral kinetics of SARS-CoV-2",
+    "keywords": [
+        "SARS-CoV-2",
+        "MERS",
+        "differential equation model",
+        "basic reproductive number"
+    ],
+    "author": "Chentong Lia, Jinhu Xub, Jiawei Liuc, and Yicang Zhou,a aSchool of Mathematics and Statistics, Xi\u2019an Jiaotong University",
+    "date": 2020,
+    "affiliations": [
+        "School of Mathematics and Statistics, Xi\u2019an Jiaotong University",
+        "School of Sciences, Xi\u2019an University of Technology, Xi\u2019an, 710048",
+        "Department of Ecology and Evolution, University of Chicago"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.29.965418",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.29.965418.pdf"
+    },
+    "abstract": "In this work, we use a within-host viral dynamic model to describe the SARS-CoV-2 kinetics in host. Chest radiograph score data are used to estimate the parameters of that model. Our result shows that the basic reproductive number of SARS-CoV-2 in host growth is around 3.79. Using the same method we also estimate the basic reproductive number of MERS virus is 8.16 which is higher than SARS-CoV-2. The PRCC method is used to analyze the sensitivities of model parameters and the drug effects on virus growth are also implemented to analyze the model. Keywords: SARS-CoV-2; MERS; differential equation model; basic reproductive number.",
+    "funding": [
+        {}
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Distinct conformational states of SARS-CoV-2 spike protein",
+    "author": "Bing Chen (local)",
+    "date": 2020,
+    "affiliations": [
+        "Department of Pediatrics, Harvard Medical School",
+        "Blackfan Street, Boston, MA 02115",
+        "The Harvard Cryo-EM Center for Structural Biology, Harvard Medical School, 250 Longwood Avenue, Boston, MA 02115",
+        "SBGrid Consortium, Harvard Medical School, 250 Longwood Ave, Boston, MA 02115"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.16.099317",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.16.099317.pdf"
+    },
+    "abstract": "The ongoing SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) pandemic has created urgent needs for intervention strategies to control the crisis. The spike (S) protein of the virus forms a trimer and catalyzes fusion between viral and target cell membranes - the first key step of viral infection. Here we report two cryo-EM structures, both derived from a single preparation of the full-length S protein, representing the prefusion (3.1\u00c5 resolution) and postfusion (3.3\u00c5 resolution) conformations, respectively. The spontaneous structural transition to the postfusion state under mild conditions is independent of target cells. The prefusion trimer forms a tightly packed structure with three receptor-binding domains clamped down by a segment adjacent to the fusion peptide, significantly different from recently published structures of a stabilized S ectodomain trimer. The postfusion conformation is a rigid tower-like trimer, but decorated by N-linked glycans along its long axis with almost even spacing, suggesting possible involvement in a mechanism protecting the virus from host immune responses and harsh external conditions. These findings advance our understanding of how SARSCoV-2 enters a host cell and may guide development of vaccines and therapeutics.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI147884",
+                        "to B.C.",
+                        "3R01AI147884",
+                        "AI141002",
+                        "to B.C.",
+                        "AI127193"
+                    ]
+                },
+                {
+                    "funding-source": "James Chou)"
+                },
+                {
+                    "funding-source": "Massachusetts Consortium on Pathogen Readiness",
+                    "award-id": [
+                        "MassCPR",
+                        "to B.C."
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by NIH grants AI147884 (to B.C.), 3R01AI147884 (to B.C), AI141002 (to B.C.), AI127193 (to B.C. and James Chou), as well as a COVID19 Award by Massachusetts Consortium on Pathogen Readiness (MassCPR; to B.C.)"
+        }
+    ]
+}

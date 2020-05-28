@@ -1,0 +1,35 @@
+{
+    "abstract": "A series of epidemiological explorations have suggested a negative association between national BCG vaccination policy and the prevalence and mortality of COVID-19. Nevertheless, these comparisons are difficult to validate due to broad differences between countries such as socioeconomic status, demographic structure, rural vs. urban settings, time of arrival of the pandemic, number of diagnostic tests and criteria for testing, and national control strategies to limit the spread of COVID-19. We review evidence for the potential biological basis of BCG cross-protection from severe COVID-19 and refine the epidemiological analysis to mitigate effects of potentially confounding factors (e.g., stage of the COVID-19 epidemic, development, rurality, population density and age structure). Results fail to confirm the null hypothesis of no-association between BCG vaccination and COVID-19 mortality, and suggest that BCG could have a protective effect. Nevertheless, the analyses are restricted to coarse-scale signals and should be considered with caution. BCG vaccination clinical trials are required to corroborate the patterns detected here and to establish causality between BCG vaccination and protection from severe COVID-19. Public health implications of a plausible BCG cross-protection from severe COVID-19 are discussed.",
+    "affiliations": [
+        "National Institute of Allergy and Infectious Diseases (NIAID), NIH, and Virginia Tech startup funds for LEE"
+    ],
+    "author": "Luis E Escobar; Alvaro Molina-Cruz; Carolina Barillas-Mury",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091975",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091975"
+    },
+    "title": "BCG vaccine-induced protection from COVID-19 infection, wishful thinking or a game changer?",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intramural Research Program of the Division of Intramural Research",
+                    "award-id": [
+                        "Z01AI000947"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases"
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "Virginia Tech"
+                }
+            ],
+            "funding-statement": "This work was supported by the Intramural Research Program of the Division of Intramural Research Z01AI000947, National Institute of Allergy and Infectious Diseases (NIAID), NIH, and Virginia Tech startup funds for LEE"
+        }
+    ]
+}

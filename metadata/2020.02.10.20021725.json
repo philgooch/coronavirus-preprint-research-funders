@@ -1,0 +1,49 @@
+{
+    "abstract": "The basic reproductive number --- R0 --- is one of the most common and most commonly misapplied numbers in public health. Although often used to compare outbreaks and forecast pandemic risk, this single number belies the complexity that two different pathogens can exhibit, even when they have the same R0. Here, we show how to predict outbreak size using estimates of the distribution of secondary infections, leveraging both its average R0 and the underlying heterogeneity. To do so, we reformulate and extend a classic result from random network theory~\\cite{Newman2001} that relies on contact tracing data to simultaneously determine the first moment (R0) and the higher moments (representing the heterogeneity) in the distribution of secondary infections. Further, we show the different ways in which this framework can be implemented in the data-scarce reality of emerging pathogens. Lastly, we demonstrate that without data on the heterogeneity in secondary infections for emerging infectious diseases like COVID-19, the uncertainty in outbreak size ranges dramatically. %, in the case of COVID-19 from 10-70\\% of susceptible individuals. Taken together, our work highlights the critical need for contact tracing during emerging infectious disease outbreaks and the need to look beyond R0 when predicting epidemic size.",
+    "affiliations": [
+        "The National Institutes of Health 1P20 GM125498-01 Centers of Biomedical Research Excellence Award; the Bill and Melinda Gates through the Global Good Fund; Northeastern University; the Sentinelle Nord initiative of the Canada First Research Excellence Fund; the Natural Sciences and Engineering Research Council of Canada (project 2019-05183)"
+    ],
+    "author": "Laurent H\u00e9bert-Dufresne; Benjamin M. Althouse; Samuel V. Scarpino; Antoine Allard",
+    "date": 2020,
+    "doi": "10.1101/2020.02.10.20021725",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.10.20021725"
+    },
+    "journal": "The National Institutes of Health",
+    "title": "Beyond R0: Heterogeneity in secondary infections and probabilistic epidemic forecasting",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The National Institutes of Health",
+                    "award-id": [
+                        "1P20",
+                        "GM125498-01"
+                    ]
+                },
+                {
+                    "funding-source": "Centers of Biomedical Research Excellence Award;"
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates"
+                },
+                {
+                    "funding-source": "Global Good Fund; Northeastern"
+                },
+                {
+                    "funding-source": "Sentinelle Nord"
+                },
+                {
+                    "funding-source": "Canada First Research Excellence Fund;"
+                },
+                {
+                    "funding-source": "Natural Sciences and Engineering Research Council of Canada",
+                    "award-id": [
+                        "project 2019-05183"
+                    ]
+                }
+            ],
+            "funding-statement": "The National Institutes of Health 1P20 GM125498-01 Centers of Biomedical Research Excellence Award; the Bill and Melinda Gates through the Global Good Fund; Northeastern University; the Sentinelle Nord initiative of the Canada First Research Excellence Fund; the Natural Sciences and Engineering Research Council of Canada (project 2019-05183)"
+        }
+    ]
+}

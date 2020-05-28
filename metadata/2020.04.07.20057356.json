@@ -1,0 +1,16 @@
+{
+    "abstract": "Anecdotal evidence points to the effectiveness of COVID-19 social distancing policies, however, their effectiveness vis-a-vis what is driven by public awareness and voluntary actions have not been studied. Policy variations across US states create a natural experiment to study the causal impact of each policy. Using a difference-in-differences methodology, location-based mobility, and daily state-level data on COVID-19 tests and confirmed cases, we rank policies based on their effectiveness. We show that statewide stay-at-home orders had the strongest causal impact on reducing social interactions. In contrast, most of the expected impact of more lenient policies were already reaped from non-policy mechanisms. Moreover, stay-at-home policy results in a steady decline in confirmed cases, starting from ten days after implementation and reaching a 37% decrease after fifteen days, consistent with the testing practices and incubation period of the disease.",
+    "author": "Rahi Abouk; Babak Heydari",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20057356",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20057356"
+    },
+    "title": "The Immediate Effect of COVID-19 Policies on Social Distancing Behavior in the United States",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "N/A"
+        }
+    ]
+}

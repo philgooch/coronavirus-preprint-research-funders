@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: An epidemic model based only on respiratory droplets and close contact could not fully explain the regional differences in the spread of the recent severe acute respiratory syndrome COVID-19 in Italy, which was fast and dramatic only in Lombardy and Po Valley. On March 16th 2020, we presented a Position Paper proposing a research hypothesis concerning the association between higher mortality rates due to COVID-19 observed in Northern Italy and the peaks of particulate matter concentrations, frequently exceeding the legal limit of 50 micrograms/m3 as PM10 daily average Methods: To assess environmental factors related to the spread of the COVID-19 in Italy from February 24th to March 13th (the date when the lockdown has been imposed over Italy), official daily data relevant to ambient PM10 levels were collected from all Italian Provinces between February 9th and February 29th , taking into account the average time (estimated in 17 days) elapsed between the initial infection and the recorded COVID positivity. In addition to the number of exceedances of PM10 daily limit value, we considered also population data and daily travelling information per each Province. Results. PM10 daily limit value exceedances appear to be a significant predictor (p <0.001) of infection in univariate analyses. Less polluted Provinces had a median of 0.03 infection cases over 1000 residents, while most polluted Provinces had a median of 0.26 cases over 1000 residents. Thirty-nine out of 41 Northern Italian Provinces resulted in the category with highest PM10 levels, while 62 out of 66 Southern Provinces presented low PM10 concentrations (p<0.001). In Milan, the average growth rate before the lockdown was significantly higher than Rome (0.34 vs. 0.27 per day, with a doubling time of 2.0 days vs. 2.6), suggesting a basic reproductive number R0>6.0, comparable with the highest values estimated for China.\nCompeting Interest Statement",
+    "author": "Gianluigi De Gennaro; Fabrizio Passarini; Jolanda Palmisani; Pierluigi Barbieri; Alessandro Miani; PRISCO PISCITELLI; Alessia Di Gilio; Maria Grazia Perrone; Massimo Borelli; Andrea Piazzalunga; Leonardo Setti",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20061713",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20061713"
+    },
+    "title": "The Potential role of Particulate Matter in the Spreading of COVID-19 in Northern Italy: First Evidence-based Research Hypotheses",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding"
+        }
+    ]
+}

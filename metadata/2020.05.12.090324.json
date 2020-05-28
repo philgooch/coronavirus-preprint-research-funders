@@ -1,0 +1,22 @@
+{
+    "title": "Infection Groups Differential (IGD) Score Reveals Infection Ability Difference between SARS-CoV-2 and Other Coronaviruses",
+    "author": "Ziwei Song,#, Xingchen Zhou,#, Yuanyuan Cai,#, Shuo Feng, Tingting Zhang, Yun Wang, Maode Lai, Jing Li,* 1 State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing 210009, China. 2 School of Life Science and Technology, China Pharmaceutical University, Nanjing 210009, China. 3 School of Traditional Chinese Pharmacy, China Pharmaceutical University, Nanjing 210009, China. # These authors contributed equally to this work. * Corresponding authors",
+    "date": 2020,
+    "affiliations": [
+        "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing 210009, China",
+        "School of Life Science and Technology, China Pharmaceutical University, Nanjing 210009, China",
+        "School of Traditional Chinese Pharmacy, China Pharmaceutical University, Nanjing 210009, China. # These authors contributed equally to this work",
+        "Corresponding authors"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.090324",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.090324.pdf"
+    },
+    "abstract": "The Corona Virus Disease 2019 (COVID-19) pandemic that began in late December 2019 has resulted in millions of cases diagnosed worldwide. Reports have shown that SARS-CoV-2 shows extremely higher infection rates than other coronaviruses. This study conducted a phylogenetics analysis of 91 representative coronaviruses and found that the functional spike protein of SARS-CoV-2, which interacts with the human receptor ACE2, is actually not undergoing distinct selection pressure compared to other coronaviruses. Furthermore, we define a new measurement, infection group differential (IGD) score, in assessing the infection ability of two human coronavirus groups. There are nine extremely high IGD (ehIGD) sites in the receptor-binding domain (RBD) out of 40 high IGD (hIGD) sites that exhibit a unique infection-related pattern from the haplotype network and docking energy comparison. These 40 hIGD sites are basically conserved among the SARS-CoV-2, i.e. there are only two hIGD sites mutated in four out of 1,058 samples, defined as rare-mutation hIGD (rhIGD) sites. In conclusion, ehIGD and rhIGD sites might be of great significance to the development of vaccines.",
+    "funding": [
+        {}
+    ]
+}

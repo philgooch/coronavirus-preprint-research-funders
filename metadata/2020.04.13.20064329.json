@@ -1,0 +1,58 @@
+{
+    "abstract": "Background Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has been spreading globally. The number of deaths has increased with the increase in the number of infected patients. We aimed to develop a clinical model to predict the outcome of severe COVID-19 patients early. Methods Epidemiological, clinical, and first laboratory findings after admission of 183 severe COVID-19 patients (115 survivors and 68 nonsurvivors) from the Sino-French New City Branch of Tongji Hospital were used to develop the predictive models. Five machine learning approaches (logistic regression, partial least squares regression, elastic net, random forest, and bagged flexible discriminant analysis) were used to select the features and predict the patients' outcomes. The area under the receiver operating characteristic curve (AUROC) was applied to compare the models' performance. Sixty-four severe COVID-19 patients from the Optical Valley Branch of Tongji Hospital were used to externally validate the final predictive model. Results The baseline characteristics and laboratory tests were significantly different between the survivors and nonsurvivors. Four variables (age, high-sensitivity C-reactive protein level, lymphocyte count, and d-dimer level) were selected by all five models. Given the similar performance among the models, the logistic regression model was selected as the final predictive model because of its simplicity and interpretability. The AUROCs of the derivation and external validation sets were 0.895 and 0.881, respectively. The sensitivity and specificity were 0.892 and 0.687 for the derivation set and 0.839 and 0.794 for the validation set, respectively, when using a probability of death of 50% as the cutoff. The individual risk score based on the four selected variables and the corresponding probability of death can serve as indexes to assess the mortality risk of COVID-19 patients. The predictive model is freely available at https://phenomics.fudan.edu.cn/risk_scores/. Conclusions Age, high-sensitivity C-reactive protein level, lymphocyte count, and d-dimer level of COVID-19 patients at admission are informative for the patients' outcomes.",
+    "affiliations": [
+        "National Natural Science Foundation of China (grant number: 91846302, 81772170); the National Key Research and Development Program of China (grant numbers: 2017YFC0907000, 2017YFC0907500, 2019YFC1315804); Key Basic Research Grants from the Science and Technology Commission of Shanghai Municipality (grant number: 16JC1400500); and Shanghai Municipal Science and Technology Major Project (grant number: 2017SHZDZX01). Natural Science Foundation of Hubei (grant no. 2019CFB657)"
+    ],
+    "author": "Xingdong Chen; Zhenqiu Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20064329",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20064329"
+    },
+    "title": "Early prediction of mortality risk among severe COVID-19 patients using machine learning",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "91846302",
+                        "81772170"
+                    ]
+                },
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2017YFC0907000",
+                        "2017YFC0907500",
+                        "2019YFC1315804"
+                    ]
+                },
+                {
+                    "funding-source": "Key Basic Research Grants from the Science and Technology Commission of Shanghai Municipality",
+                    "award-id": [
+                        "16JC1400500"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Municipal Science and Technology Major Project",
+                    "award-id": [
+                        "2017SHZDZX01"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Natural Science Foundation of China (grant number: 91846302, 81772170); the National Key Research and Development Program of China (grant numbers: 2017YFC0907000, 2017YFC0907500, 2019YFC1315804); Key Basic Research Grants from the Science and Technology Commission of Shanghai Municipality (grant number: 16JC1400500); and Shanghai Municipal Science and Technology Major Project (grant number: 2017SHZDZX01)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Natural Science Foundation of Hubei",
+                    "award-id": [
+                        "2019CFB657"
+                    ]
+                }
+            ],
+            "funding-statement": "Natural Science Foundation of Hubei (grant no. 2019CFB657)"
+        }
+    ]
+}

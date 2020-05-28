@@ -1,0 +1,16 @@
+{
+    "abstract": "As a consequence of missing data on tests for infection and imperfect accuracy of tests, reported rates of cumulative population infection by the SARS CoV-2 virus are lower than actual rates of infection. Hence, reported rates of severe illness conditional on infection are higher than actual rates. Understanding the time path of the COVID-19 pandemic has been hampered by the absence of bounds on infection rates that are credible and informative. This paper explains the logical problem of bounding these rates and reports illustrative findings, using data from Illinois, New York, and Italy. We combine the data with assumptions on the infection rate in the untested population and on the accuracy of the tests that appear credible in the current context. We find that the infection rate might be substantially higher than reported. We also find that the infection fatality rate in Illinois, New York, and Italy is substantially lower than reported.",
+    "author": "Francesca Molinari; Charles F. Manski",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20066811",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20066811"
+    },
+    "title": "Estimating the COVID-19 Infection Rate: Anatomy of an Inference Problem",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received in support of this work"
+        }
+    ]
+}

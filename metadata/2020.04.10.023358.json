@@ -1,0 +1,44 @@
+{
+    "title": "SARS-CoV-2 detection with CRISPR diagnostics Author list: Lu Guo1,2,3,*, Xuehan Sun1,2,3,*, Xinge Wang1,2,3,*, Chen Liang1,2,3,*, Haiping Jiang1,2,3,*, Qingqin Gao1,2,3,*, Moyu Dai1,2,3,*, Bin Qu1,2,3, Sen Fang1,2,3, Yihuan Mao1,2,3, Yangcan Chen1,2,3, Guihai Feng1,2, Qi Gu1,2, Liu Wang1,2, Ruiqi Rachel Wang1,2,#, Qi Zhou1,2,3,#, Wei Li1,2,3,# Affiliations: 1State Key Laboratory of Stem Cell and Reproductive Biology, Institute of Zoology, Chinese Academy of Sciences, Beijing 100101, China. 2Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China. 3University of Chinese Academy of Sciences, Beijing 100049, China. *These authors contributed equally to this work.",
+    "date": 2020,
+    "affiliations": [
+        "State Key Laboratory of Stem Cell and Reproductive Biology, Institute of Zoology, Chinese Academy of Sciences, Beijing 100101, China",
+        "Institute for Stem Cell and Regeneration, Chinese Academy of Sciences, Beijing 100101, China",
+        "University of Chinese Academy of Sciences, Beijing 100049, China",
+        "These authors contributed equally to this work"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.10.023358",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.10.023358.pdf"
+    },
+    "abstract": "The novel coronavirus (CoV) disease termed COVID-19 (Coronavirus Disease-19)\ncaused by SARS-CoV-2 (Severe Acute Respiratory Syndrome Coronavirus-2) is causing a massive pandemic worldwide, threatening public health systems across the globe. During this ongoing COVID-19 outbreak, nucleic acid detection has played an important role in early diagnosis. Here we report a SARS-CoV-2 detection protocol using a CRISPR-based CRISPR diagnostic platform - CDetection (Cas12b-mediated DNA detection). By combining sample treatment protocols and nucleic acid amplification methods with CDetection, we have established an integrated viral nucleic acid detection platform - CASdetec (CRISPR-assisted detection). The detection limit of CASdetec for SARS-CoV-2 pseudovirus is 1 \u00d7 104 copies/mL, with no cross reactivity observed. Our assay design and optimization process can provide guidance for future CRISPR-based nucleic acid detection assay development and optimization. Results",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Program",
+                    "award-id": [
+                        "2020YFA070009 to R.R.W"
+                    ]
+                },
+                {
+                    "funding-source": "Key Research Projects of the Frontier Science of the Chinese Academy of Sciences",
+                    "award-id": [
+                        "QYZDY-SSW-SMC002 to Q.Z.",
+                        "QYZDB-SSW-SMC022 to W.L."
+                    ]
+                },
+                {
+                    "funding-source": "Strategic Priority Research Program of the Chinese Academy of Sciences",
+                    "award-id": [
+                        "XDA16030400 to W.L."
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Key Research and Development Program (2020YFA070009 to R.R.W), the Key Research Projects of the Frontier Science of the Chinese Academy of Sciences (QYZDY-SSW-SMC002 to Q.Z. and QYZDB-SSW-SMC022 to W.L.), the Strategic Priority Research Program of the Chinese Academy of Sciences (XDA16030400 to W.L.). Author contributions L.G., R.R.W., Q.Z., and W.L. conceived and designed the experiments"
+        }
+    ]
+}

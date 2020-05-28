@@ -1,0 +1,16 @@
+{
+    "abstract": "We present a self-synchronizing and robust method for comparing the progression of the Covid-19 epidemics among multiple countries. In their growth phase the epidemics show power law rather than exponential law time dependences. They are similar enough for the earlier China outbreak to guide other countries projections. The delayed reaction of European countries is shown to produce a significantly worse outcome compared to China.",
+    "author": "Antoine Kevorkian; Thierry Grenet; Hubert Gallee",
+    "date": 2020,
+    "doi": "10.1101/2020.03.14.20035964",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.14.20035964"
+    },
+    "title": "Tracking the Covid-19 pandemic : Simple visualization of the epidemic states and trajectories of select European countries &amp; assessing the effects of delays in official response.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for this work."
+        }
+    ]
+}

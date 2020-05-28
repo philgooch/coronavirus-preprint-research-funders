@@ -1,0 +1,26 @@
+{
+    "abstract": "We explored the emergence of disparities in COVID-19 testing and outcomes in NYC and Philadelphia, two large US cities at two different stages of the epidemic. We used zip code-level data from the NYC Department of Health and Mental Hygiene and the Philadelphia Department of Public Health. We linked this data to a deprivation index calculated using 2014-2018 American Community Survey data. We have documented a dynamic situation regarding disparities in COVID-19 testing in two US cities. There are wide disparities in testing availability for the most deprived neighborhoods in Philadelphia, a city early in the epidemic, while these disparities seemingly dissipated in NYC, a city with more widespread testing later in the epidemic. However, we consistently see a very strong positive correlation with the % of tests that are positive in both cities, and this disparity is widening over time.",
+    "affiliations": [
+        "Director of the National Institutes of Health under award number DP5OD26429. The funding agencies had no involvement in the study design; in the data collection, analyses or interpretation of data; in the writing of this work; or in the decision to submit the manuscript for publication"
+    ],
+    "author": "Usama Bilal; Ana V Diez-Roux; Sharrelle Barber",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087833",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087833"
+    },
+    "title": "Early Evidence of Disparities in COVID-19 Testing in US Cities",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Office of the Director of the National Institutes of Health",
+                    "award-id": [
+                        "DP5OD26429"
+                    ]
+                }
+            ],
+            "funding-statement": "UB was supported by the Office of the Director of the National Institutes of Health under award number DP5OD26429"
+        }
+    ]
+}

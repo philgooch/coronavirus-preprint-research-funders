@@ -1,0 +1,19 @@
+{
+    "abstract": "Molecular testing for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the gold standard for diagnosis of coronavirus disease 2019 (COVID-19), but the test clinical performance is poorly understood. From 3/10/2020-5/1/2020 NewYork-Presbyterian laboratories performed 27,377 SARS-CoV-2 molecular assays from 22,338 patients. Repeat testing was performed in 3,432 patients, of which 2,413 had negative and 1,019 had positive first day results. Repeat-tested patients were more likely to be older, male, African-American or Hispanic, and to have severe disease. Among the patients with initially negative results, 18.6% became positive upon repeat-testing. Only 58.1% of any-time positive patients had a result of \"detected\" on the first test. The clinical sensitivity of COVID-19 molecular assays is estimated between 66.2% and 95.6%, depending on the unknown number of false negative results in single-tested patients. Conversion to a negative result is unlikely to occur before 15 to 20 days after initial testing or 20-30 days after the onset of symptoms, with 50% conversion occurring at 28 days after initial testing. Forty-nine initially-positive patients converted to negative and then back to positive in subsequent days. Conversion from first day negative to positive results increased linearly with each day of testing, reaching 25% probability in 20 days. In summary, our study provides estimates of the clinical performance of SARS-CoV-2 molecular assays and suggests time frames for appropriate repeat testing, namely 15 to 20 days after a positive test and the same or next 2 days after a negative test in a patient with high suspicion for COVID-19.",
+    "affiliations": [
+        "Cornell and Columbia Universities"
+    ],
+    "author": "Priya Velu; Melissa Cushing; Dakai Liu; Hanna Rennert; Jason E. Zucker; Daniel A. Green; Magdalena E Sobieszczyk; Susan Whittier; Arryn Craney; Jorge Sepulveda; Amelia K Boehme; Lars F Westblade",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093575",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093575"
+    },
+    "title": "Clinical Performance of SARS-CoV-2 Molecular Testing",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

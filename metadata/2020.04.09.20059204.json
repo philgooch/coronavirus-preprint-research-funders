@@ -1,0 +1,72 @@
+{
+    "abstract": "The Precision Cardiology Laboratory is a joint effort between the Broad Institute and Bayer AG. This work was supported by the Fondation Leducq (14CVD01), and by grants from the National Institutes of Health to Dr. Ellinor (1RO1HL092577, R01HL128914, K24HL105780), Dr. Tucker (5K01HL140187) and Dr. Margulies (1R01HL105993), as well as the Klarman Cell Observatory and the Manton Foundation (to Dr. Regev). This work was also supported by a grant from the American Heart Association Strategically Focused Research Networks to Dr. Ellinor (18SFRN34110082).",
+    "author": "Amer-Denis Akkad; G\u00f6kcen Eraslan; Alessandro Arduini; Kenneth C Bedi; Patrick T Ellinor; Mark Chaffin; Christian M Stegmann; Irinna Papangeli; Kenneth B Margulies; Human Cell Atlas Lung Biological Network; Nathan R Tucker; Roby Bhattacharyya; Christoph Muus; Sikander Hayat",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059204",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059204"
+    },
+    "title": "Myocyte Specific Upregulation of ACE2 in Cardiovascular Disease: Implications for SARS-CoV-2 mediated myocarditis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bayer AG"
+                },
+                {
+                    "funding-source": "Broad Institute"
+                }
+            ],
+            "funding-statement": "Dr Ellinor is supported by a grant from Bayer AG to the Broad Institute focused on the genetics and therapeutics of cardiovascular diseases"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "MyoKardia and Pfizer"
+                }
+            ],
+            "funding-statement": "Dr Margulies has research grant funding from Sanofi-Aventis, USA and has also served on advisory boards for MyoKardia and Pfizer"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fondation Leducq",
+                    "award-id": [
+                        "14CVD01"
+                    ]
+                },
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "1RO1HL092577",
+                        "R01HL128914",
+                        "K24HL105780",
+                        "5K01HL140187",
+                        "1R01HL105993"
+                    ]
+                },
+                {
+                    "funding-source": "Klarman Cell Observatory and the Manton Foundation",
+                    "award-id": [
+                        "to Dr Regev"
+                    ]
+                },
+                {
+                    "funding-source": "Dr Regev)"
+                }
+            ],
+            "funding-statement": "This work was supported by the Fondation Leducq (14CVD01), and by grants from the National Institutes of Health to Dr Ellinor (1RO1HL092577, R01HL128914, K24HL105780), Dr Tucker (5K01HL140187) and Dr Margulies (1R01HL105993), as well as the Klarman Cell Observatory and the Manton Foundation (to Dr Regev)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "American Heart Association Strategically Focused Research Networks",
+                    "award-id": [
+                        "18SFRN34110082"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was also supported by a grant from the American Heart Association Strategically Focused Research Networks to Dr Ellinor (18SFRN34110082)"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "abstract": "Data visualization is an essential tool for exploring and communicating findings in medical research, and especially in epidemiological surveillance. The COVID19-Tracker web application systematically produces daily updated data visualization and analysis of the SARS-CoV-2 epidemic in Spain. It collects automatically daily data on COVID-19 diagnosed cases, intensive care unit admissions, and mortality, from February 24th, 2020 onwards. Two applications have already been developed; 1) to analyze data trends and estimating short-term projections; 2) to estimate the case fatality rate, and; 3) To assess the effect of the lockdown measures on the trends of incident data. The application may help for a better understanding of the SARS-CoV-2 epidemic data in Spain.",
+    "affiliations": [
+        "Instituto de Salud Carlos III"
+    ],
+    "author": "Joan Valls; Pau Satorra; Aurelio Tobias; Cristian Tebe",
+    "date": 2020,
+    "doi": "10.1101/2020.04.01.20049684",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.01.20049684"
+    },
+    "title": "COVID19-Tracker: A shiny app to produce comprehensive data visualization for SARS-CoV-2 epidemic in Spain",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

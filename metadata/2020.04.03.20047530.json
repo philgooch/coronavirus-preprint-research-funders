@@ -1,0 +1,16 @@
+{
+    "abstract": "The paper will attempt to estimate factors which determine the variability of case fatality rates of COVID-19 across OECD countries in the recent time. The objective of the paper is to estimate the impact of government health policies on fatality rates (Case fatality rates) of COVID-19 in OECD countries while controlling for other demographic and economic characteristics. The analysis is done using non-parametric regression method, i.e. Quantile regression. The result from quantile regression analysis shows that a policy of Austerity (health expenditure cuts) significantly increases the mortality rates of COVID-19 in OCED countries. The policy implication of the study is the need for a robust public-funded health system with wider accessibility to deal with major public health crisis like COVID-19 pandemic.",
+    "author": "Dawa Sherpa",
+    "date": 2020,
+    "doi": "10.1101/2020.04.03.20047530",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.03.20047530"
+    },
+    "title": "Estimating Impact of Austerity policies in COVID-19 fatality rates:Examining the dynamics of economic policy and Case Fatality Rates (CFR) of COVID-19 in OECD countries",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received by the authors or their institutions at any time received payment or services from a third party for any aspect of the submitted work."
+        }
+    ]
+}

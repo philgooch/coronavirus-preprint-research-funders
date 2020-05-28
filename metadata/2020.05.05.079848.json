@@ -1,0 +1,57 @@
+{
+    "title": "Repurposing low\u2013molecular-weight drugs against the main protease of severe acute respiratory syndrome coronavirus 2",
+    "author": "Jia Gao#, Liang Zhang#, Xiaodan Liu, Fudong Li, Rongsheng Ma, Zhongliang Zhu, Jiahai Zhang, Jihui Wu, Yunyu Shi, Yueyin Pan, Yushu Ge, Ke Ruan",
+    "date": 2020,
+    "affiliations": [
+        "Education Key Laboratory for Membrane-less Organelles & Cellular Dynamics, Hefei National Laboratory for Physical Sciences at the Microscale, Division of Life Sciences and Medicine, University of Science and Technology of China, 230027, Hefei, P. R. China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.05.079848",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.05.079848.pdf"
+    },
+    "abstract": "The coronavirus disease (COVID-19) pandemic caused by infection with the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has affected the global healthcare system. Drug repurposing is a feasible method for emergency treatment. As low\u2013molecular-weight drugs have high potential to completely match interactions with essential SARS-CoV-2 targets, we propose a strategy to identify such drugs using the fragment-based approach. Herein, using ligand- and protein-observed fragment screening approaches, we identified niacin and hit 1 binding to the catalytic pocket of the main protease of the SARS-CoV-2 (Mpro), thereby modestly inhibiting the enzymatic activity of Mpro. Chemical shift perturbations induced by niacin and hit 1 indicate a partial overlap of their binding sites, i.e., the catalytic pocket of Mpro may accommodate derivatives with large molecular sizes. Therefore, we searched for drugs containing niacin or hit 1 pharmacophores and identified carmofur, bendamustine, triclabendazole, and emedastine; these drugs are highly capable of inhibiting protease activity. Our study demonstrates that the fragment-based approach is a feasible strategy for identifying low\u2013molecular-weight drugs against the SARS-CoV-2 and other potential targets lacking specific drugs.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "main protease",
+        "fragment-based screening",
+        "niacin"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Science and Technology of China",
+                    "award-id": [
+                        "2016YFA0500700",
+                        "2014CB910604"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "21874123",
+                        "21703254",
+                        "21807095"
+                    ]
+                },
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities",
+                    "award-id": [
+                        "WK2060190086"
+                    ]
+                },
+                {
+                    "funding-source": "Bioinformatics Center of the University of Science and Technology of China, School"
+                },
+                {
+                    "funding-source": "Life Sciences"
+                }
+            ],
+            "funding-statement": "We thank the Ministry of Science and Technology of China (2016YFA0500700 and 2014CB910604), the National Natural Science Foundation of China (21874123, 21703254 and 21807095), the Fundamental Research Funds for the Central Universities (WK2060190086), for the financial support, and supercomputing resources from the Bioinformatics Center of the University of Science and Technology of China, School of Life Sciences"
+        }
+    ]
+}

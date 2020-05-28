@@ -1,0 +1,87 @@
+{
+    "abstract": "Background The COVID-19 epidemic originated in Wuhan City of Hubei Province in December 2019 and has spread throughout China. Understanding the fast evolving epidemiology and transmission dynamics of the outbreak beyond Hubei would provide timely information to guide intervention policy. Methods We collected individual information on 8,579 laboratory-confirmed cases from official publically sources reported outside Hubei in mainland China, as of February 17, 2020. We estimated the temporal variation of the demographic characteristics of cases and key time-to-event intervals. We used a Bayesian approach to estimate the dynamics of the net reproduction number (Rt) at the provincial level. Results The median age of the cases was 44 years, with an increasing of cases in younger age groups and the elderly as the epidemic progressed. The delay from symptom onset to hospital admission decreased from 4.4 days (95%CI: 0.0-14.0) until January 27 to 2.6 days (0.0-9.0) from January 28 to February 17. The mean incubation period was estimated at 5.2 days (1.8-12.4) and the mean serial interval at 5.1 days (1.3-11.6). The epidemic dynamics in provinces outside Hubei was highly variable, but consistently included a mix of case importations and local transmission. We estimate that the epidemic was self-sustained for less than three weeks with Rt reaching peaks between 1.40 (1.04-1.85) in Shenzhen City of Guangdong Province and 2.17 (1.69-2.76) in Shandong Province. In all the analyzed locations (n=10) Rt was estimated to be below the epidemic threshold since the end of January. Conclusion Our findings suggest that the strict containment measures and movement restrictions in place may contribute to the interruption of local COVID-19 transmission outside Hubei Province. The shorter serial interval estimated here implies that transmissibility is not as high as initial estimates suggested.",
+    "affiliations": [
+        "National Science Fund for Distinguished Young Scholars (No. 81525023), Key Emergency Project of Shanghai Science and Technology Committee (No. 20411950100), National Science and Technology Major Project of China (No. 2018ZX10201001-010, No. 2018ZX10713001-007, No. 2017ZX10103009-005). M.E.H acknowledges financial support from National Institute of General Medical Sciences U54 GM111274. S.M. and M.A. acknowledge financial support from the European Commission H2020 MOOD project"
+    ],
+    "author": "Xiaowei Deng; Lan Yi; Hongjie Yu; Xinghui Chen; Wei Wang; Maria Litvinova; Mei Li; Benjamin J. Cowling; Kaiyuan Sun; Xiling Wang; Qianhui Wu; Peng Wu; Wen Zheng; Alessandro Vespignani; Marco Ajelli; Xinhua Chen; Yan Wang; M. Elizabeth Halloran; Juan Yang; Stefano Merler; Cecile Viboud; Juanjuan Zhang; Yuxia Liang; Ira M. Longini",
+    "date": 2020,
+    "doi": "10.1101/2020.02.21.20026328",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.21.20026328"
+    },
+    "title": "Evolving epidemiology of novel coronavirus diseases 2019 and possible interruption of local transmission outside Hubei Province in China: a descriptive and modeling study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Metabiota Inc"
+                }
+            ],
+            "funding-statement": "A.V. has received funding from Metabiota Inc"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Sanofi Pasteur, GlaxoSmithKline"
+                },
+                {
+                    "funding-source": "Yichang HEC Changjiang Pharmaceutical Company,"
+                },
+                {
+                    "funding-source": "Shanghai Roche Pharmaceutical Company"
+                }
+            ],
+            "funding-statement": "H.Y. has received research funding from Sanofi Pasteur, GlaxoSmithKline, Yichang HEC Changjiang Pharmaceutical Company, and Shanghai Roche Pharmaceutical Company"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Fund for Distinguished Young Scholars",
+                    "award-id": [
+                        "81525023"
+                    ]
+                },
+                {
+                    "funding-source": "Key Emergency Project of Shanghai Science and Technology Committee",
+                    "award-id": [
+                        "20411950100"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Major Project of China",
+                    "award-id": [
+                        "2018ZX10201001-010",
+                        "2018ZX10713001-007",
+                        "2017ZX10103009-005"
+                    ]
+                }
+            ],
+            "funding-statement": "H.Y. acknowledges financial support from the National Science Fund for Distinguished Young Scholars (No 81525023), Key Emergency Project of Shanghai Science and Technology Committee (No 20411950100), National Science and Technology Major Project of China (No 2018ZX10201001-010, No 2018ZX10713001-007, No 2017ZX10103009-005)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of General Medical Sciences",
+                    "award-id": [
+                        "GM111274"
+                    ]
+                }
+            ],
+            "funding-statement": "M.E.H acknowledges financial support from National Institute of General Medical Sciences U54 GM111274"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Commission",
+                    "award-id": [
+                        "H2020"
+                    ]
+                },
+                {
+                    "funding-source": "MOOD project"
+                }
+            ],
+            "funding-statement": "S.M. and M.A. acknowledge financial support from the European Commission H2020 MOOD project"
+        }
+    ]
+}

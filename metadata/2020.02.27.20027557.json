@@ -1,0 +1,46 @@
+{
+    "abstract": "The human coronavirus HCoV-19 infection can cause acute respiratory distress syndrome (ARDS), hypercoagulability, hypertension, extrapulmonary multiorgan dysfunction. Effective antiviral and anti-coagulation agents with safe clinical profiles are urgently needed to improve the overall prognosis. We screened an FDA approved drug library and found that an anticoagulant agent dipyridamole (DIP) suppressed HCoV-19 replication at an EC50 of 100 nM in vitro. It also elicited potent type I interferon responses and ameliorated lung pathology in a viral pneumonia model. In analysis of twelve HCoV-19 infected patients with prophylactic anti-coagulation therapy, we found that DIP supplementation was associated with significantly increased platelet and lymphocyte counts and decreased D-dimer levels in comparison to control patients. Two weeks after initiation of DIP treatment, 3 of the 6 severe cases (60%) and all 4 of the mild cases (100%) were discharged from the hospital. One critically ill patient with extremely high levels of D-dimer and lymphopenia at the time of receiving DIP passed away. All other patients were in clinical remission. In summary, HCoV-19 infected patients could potentially benefit from DIP adjunctive therapy by reducing viral replication, suppressing hypercoagulability and enhancing immune recovery. Larger scale clinical trials of DIP are needed to validate these therapeutic effects.",
+    "affiliations": [
+        "Department of Allergy and Clinical Immunology, State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical Universit",
+        "Department of Allergy and Clinical Immunology, State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical Universit",
+        "Department of Allergy and Clinical Immunology, State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical Universit",
+        "Department of Allergy and Clinical Immunology, State Key Laboratory of Respiratory Diseases, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical Universit",
+        "National Key R&D Program of China (2017YFB0202600), National Natural Science Foundation of China (91742109, 8152204, 31770978, 81773674, and 21877134), Taikang Insurance Group Co., Ltd and Beijing Taikang Yicai Foundation, and philanthropy donation from individuals. The funders had no roles in the design and execution of the study"
+    ],
+    "author": "Hui Huang; Rongli Fang; Zhe Li; Huifang Xian; Yi-you Huang; Fan Bai; Jun Wang; Zhiyao Zhao; Jincun Zhao; Fulin Zhou; Bei Xiong; Shuai Liu; Xiaoyan Liu; Zhanghua Chen; Jun Cui; Hai-Bin Luo; Changxing Ou; Yuxia Zhang; Andrew M Lew; Yanhui Xu; Yinyi Shi; Qingling Zhang; Jing Sun; Xuechuan Hong",
+    "date": 2020,
+    "doi": "10.1101/2020.02.27.20027557",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.27.20027557"
+    },
+    "title": "Therapeutic effects of dipyridamole on COVID-19 patients with coagulation dysfunction",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2017YFB0202600"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "91742109",
+                        "8152204",
+                        "31770978",
+                        "81773674",
+                        "21877134"
+                    ]
+                },
+                {
+                    "funding-source": "Taikang Insurance Group Co."
+                },
+                {
+                    "funding-source": "Ltd and Beijing Taikang Yicai Foundation,"
+                }
+            ],
+            "funding-statement": "National Key R&D Program of China (2017YFB0202600), National Natural Science Foundation of China (91742109, 8152204, 31770978, 81773674, and 21877134), Taikang Insurance Group Co., Ltd and Beijing Taikang Yicai Foundation, and philanthropy donation from individuals. The funders had no roles in the design and execution of the study."
+        }
+    ]
+}

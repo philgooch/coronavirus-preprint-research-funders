@@ -1,0 +1,16 @@
+{
+    "abstract": "An epidemic disease caused by a new coronavirus has spread in Northern Italy with a strong contagion rate. We implement an SEIR model to compute the infected population and number of casualties of this epidemic. The example may ideally regard the situation in the Italian Region of Lombardy, where the epidemic started on February 25, but by no means attempts to perform a rigorous case study in view of the lack of suitable data and uncertainty of the different parameters, namely, the variation of the degree of home isolation and social distancing as a function of time, the number of initially exposed individuals and infected people, the incubation and infection periods and the fatality rate. First, we perform an analysis of the results of the model, by varying the parameters and initial conditions (in order the epidemic to start, there should be at least one exposed or one infected human). Then, we consider the Lombardy case and calibrate the model with the number of dead individuals to date (April 28, 2020) and constraint the parameters on the basis of values reported in the literature. The peak occurs at day 37 (April 1) approximately, when there is a rapid decrease, with a reproduction ratio R0 = 3 initially, 1.36 at day 22 and 0.78 after day 35, indicating different degrees of lockdown. The predicted death toll is almost 15000 casualties, with 2.4 million infected individuals at the end of the epidemic. The incubation period providing a better fit of the dead individuals is 4.25 days and the infection period is 4 days, with a fatality rate of 0.00144/day [values based on the reported (official) number of casualties]. The infection fatality rate (IFR) is 0.57 %, and 2.36 % if twice the reported number of casualties is assumed. However, these rates depend on the initially exposed individuals. If approximately nine times more individuals are exposed, there are three times more infected people at the end of the epidemic and IFR = 0.47 %. If we relax these constraints and use a wider range of lower and upper bounds for the incubation and infection periods, we observe that a higher incubation period (13 versus 4.25 days) gives the same IFR (0.6 versus 0.57 %), but nine times more exposed individuals in the first case. Therefore, a precise determination of the fatality rate is subject to the knowledge of the characteristics of the epidemic. We plan to perform again these calculations and publish a short note when the epidemic is over and the complete and precise data is available. Besides the specific example, the analysis proposed in this work shows how isolation measures, social distancing and knowledge of the diffusion conditions help us to understand the dynamics of the epidemic. Hence, the importance to quantify the process to verify the effectiveness of the isolation.",
+    "author": "Jose' M Carcione",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072272",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072272"
+    },
+    "title": "A simulation of a COVID-19 epidemic based on a deterministic SEIR model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There is no funding"
+        }
+    ]
+}

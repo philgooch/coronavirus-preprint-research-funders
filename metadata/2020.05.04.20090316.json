@@ -1,0 +1,52 @@
+{
+    "abstract": "Importance: The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is considered to have potential neuro-invasiveness that might lead to acute brain disorders or contribute to respiratory distress in patients with coronavirus disease 2019 (COVID-19). Brain magnetic resonance imaging (MRI) data in COVID-19 patients are scarce due to difficulties to obtain such examination in infected unstable patients during the COVID-19 outbreak. Objective: To investigate the occurrence of structural brain abnormalities in non-survivors of COVID-19 in a virtopsy framework. Design: Prospective, case series study with postmortem brain MRI obtained early (<24h) after death. Setting: Monocentric study. Participants: From 31/03/2020 to 24/04/2020, consecutive decedents who fulfilled the following inclusion criteria were included: death <24 hours, SARS-CoV-2 detection on nasopharyngeal swab specimen, chest computerized tomographic (CT) scan suggestive of COVID-19, absence of known focal brain lesion, and MRI compatibility. Main Outcome(s) and Measure(s): Signs of acute brain injury and MRI signal abnormalities along the olfactory tract and brainstem were searched independently by 3 neuroradiologists, then reviewed with neurologists and clinicians. Results: Among the 62 patients who died from COVID-19 during the inclusion period, 19 decedents fulfilled inclusion criteria. Subcortical micro- and macro-bleeds (2 decedents), cortico-subcortical edematous changes evocative of posterior reversible encephalopathy syndrome (PRES, one decedent), and nonspecific deep white matter changes (one decedent) were observed. Asymmetric olfactory bulbs were found in 4 other decedents without downstream olfactory tract abnormalities. No brainstem MRI signal abnormality. Conclusions and Relevance: Postmortem brain MRI demonstrates hemorrhagic and PRES-related brain lesions in non-survivors of COVID-19 that might be triggered by the virus-induced endothelial disturbances. SARS-CoV-2-related olfactory impairment seems to be limited to olfactory bulbs. The absence of brainstem MRI abnormalities does not support a brain-related contribution to respiratory distress in COVID-19.",
+    "affiliations": [
+        "Universit\u00e9 libre de Bruxelles, the Fonds Erasme (Brussels, Belgium) and the Fondation ULB (Brussels, Belgium). The PET-MR project at the CUB H\u00f4pital Erasme and Universit\u00e9 libre de Bruxelles is financially supported by the Association Vin\u00e7otte Nuclear (AVN, Brussels, Belgium). Gilles Naeije and Xavier De Ti\u00e8ge are Postdoctorate Clinical Master Specialists at the Fonds de la Recherche Scientifique (FRS-FNRS, Brussels, Belgium)"
+    ],
+    "author": "Fabio S Taccone; Serge Goldman; Tim Coolen; Jean-Christophe Goffard; Xavier De Tiege; Jacques Creteur; Sophie Henrard; Valentina Lolli; Olivier Dewitte; Antonin Rovai; Niloufar Sadeghi; Gilles Naeije; Nicola Trotta",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090316",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090316"
+    },
+    "title": "Early postmortem brain MRI findings in COVID-19 non-survivors",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fonds Erasme",
+                    "award-id": [
+                        "Brussels",
+                        "Belgium"
+                    ]
+                },
+                {
+                    "funding-source": "Fondation ULB",
+                    "award-id": [
+                        "Brussels",
+                        "Belgium"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by a special call \"COVID-19\" funded by the Universit\u00e9 libre de Bruxelles, the Fonds Erasme (Brussels, Belgium) and the Fondation ULB (Brussels, Belgium)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The PET-MR"
+                },
+                {
+                    "funding-source": "CUB H\u00f4pital Erasme and Universit\u00e9"
+                },
+                {
+                    "funding-source": "Association Vin\u00e7otte Nuclear",
+                    "award-id": [
+                        "Brussels",
+                        "Belgium"
+                    ]
+                }
+            ],
+            "funding-statement": "The PET-MR project at the CUB H\u00f4pital Erasme and Universit\u00e9 libre de Bruxelles is financially supported by the Association Vin\u00e7otte Nuclear (AVN, Brussels, Belgium)"
+        }
+    ]
+}

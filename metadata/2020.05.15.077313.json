@@ -1,0 +1,41 @@
+{
+    "title": "CoV-AbDab: the Coronavirus Antibody Database",
+    "author": "Matthew I. J. Raybould, Aleksandr Kovaltsuk, Claire Marks, and Charlotte M. Deane",
+    "date": 2020,
+    "affiliations": [
+        "Oxford Protein Informatics Group, Department of Statistics, University of Oxford, 24-29 St. Giles\u2019, Oxford, OX1 3LB, United Kingdom"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.15.077313",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.15.077313.pdf"
+    },
+    "abstract": "R COVID19 | SARS | MERS | coronavirus | binding antibodies D Correspondence: deane@stats.ox.ac.uk tion, and indeed the anti-MERS-CoV combination therapy REGN3048/REGN3051 is already being trialled on SARSCoV-2 patients in the USA (13). Given this, a central database facilitating molecularlevel comparisons between published and patented anticoronavirus antibodies would be a valuable tool in the fight against COVID19. This resource would also act as a central hub to consolidate knowledge and coordinate efforts to identify novel antibodies that neutralise SARS-CoV-2. As the number of known binders builds up over time, researchers could harness this repository for many purposes, including deriving crucial sequence/structural patterns that distinguish neutralising from non-neutralising SARS-CoV-2 binders (1), or deducing independent neutralising epitopes exploitable by combination therapies. We have built CoV-AbDab, a new database that aims to document molecular information and metadata on all published or patented anti-coronavirus antibodies.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Engineering and Physical Sciences Research Council"
+                },
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "EP/L016044/1"
+                    ]
+                },
+                {
+                    "funding-source": "Biotechnology and Biological Sciences Research Council",
+                    "award-id": [
+                        "BB/M011224/1"
+                    ]
+                },
+                {
+                    "funding-source": "UCB Pharma Ltd."
+                }
+            ],
+            "funding-statement": "This work was supported by an Engineering and Physical Sciences Research Council (EPSRC) and Medical Research Council (MRC) grant [EP/L016044/1] awarded to MIJR, and Biotechnology and Biological Sciences Research Council (BBSRC) grant [BB/M011224/1] award to AK, and funding from GlaxoSmithKline plc, UCB Pharma Ltd., AstraZeneca plc, and F"
+        }
+    ]
+}

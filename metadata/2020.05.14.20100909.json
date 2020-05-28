@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: One month after the first COVID-19 infection was recorded, Portugal counted 18 051 cases and 599 deaths from COVID-19. To understand the overall impact on mortality of the pandemic of COVID-19, we estimated the excess mortality registered in Portugal during the first month of the epidemic, from March 16 until April 14 using two different methods. Methods: We compared the observed and expected daily deaths (historical average number from daily death registrations in the past 10 years) and used 2 standard deviations confidence limit for all-cause mortality by age and specific mortality cause, considering the last 6 years. An adapted ARIMA model was also tested to validate the estimated number of all-cause deaths during the study period. Results: Between March 16 and April 14, there was an excess of 1,255 all-cause deaths, 14% more than expected. The number of daily deaths often surpassed the 2 standard deviations confidence limit. The excess mortality occurred mostly in people aged 75+. Forty-nine percent (49%) of the estimated excess deaths were registered as due to COVID-19, The other 51% registered as other natural causes. Conclusion: Even though Portugal took early containment measures against COVID-19, and the population complied massively with those measures, there was significant excess mortality during the first month of the pandemic, mostly among people aged 75+. Only half of the excess mortality was registered as directly due do COVID-19.\nCompeting Interest Statement",
+    "author": "Andre Vieira; Alexandre Abrantes; Vasco Ricoca Peixoto; Pedro Aguiar",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20100909",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20100909"
+    },
+    "title": "Rapid estimation of excess mortality in times of COVID-19 in Portugal - Beyond reported deaths",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "abstract": "Background Establishing who is at risk from a novel rapidly arising cause of death, and why, requires a new approach to epidemiological research with very large datasets and timely data. Working on behalf of NHS England we therefore set out to deliver a secure and pseudonymised analytics platform inside the data centre of a major primary care electronic health records vendor establishing coverage across detailed primary care records for a substantial proportion of all patients in England. The following results are preliminary. Data sources Primary care electronic health records managed by the electronic health record vendor TPP, pseudonymously linked to patient-level data from the COVID-19 Patient Notification System (CPNS) for death of hospital inpatients with confirmed COVID-19, using the new OpenSAFELY platform. Population 17,425,445 adults. Time period 1st Feb 2020 to 25th April 2020. Primary outcome Death in hospital among people with confirmed COVID-19. Methods Cohort study analysed by Cox-regression to generate hazard ratios: age and sex adjusted, and multiply adjusted for co-variates selected prospectively on the basis of clinical interest and prior findings. Results There were 5683 deaths attributed to COVID-19. In summary after full adjustment, death from COVID-19 was strongly associated with: being male (hazard ratio 1.99, 95%CI 1.88-2.10); older age and deprivation (both with a strong gradient); uncontrolled diabetes (HR 2.36 95% CI 2.18-2.56); severe asthma (HR 1.25 CI 1.08-1.44); and various other prior medical conditions. Compared to people with ethnicity recorded as white, black people were at higher risk of death, with only partial attenuation in hazard ratios from the fully adjusted model (age-sex adjusted HR 2.17 95% CI 1.84-2.57; fully adjusted HR 1.71 95% CI 1.44-2.02); with similar findings for Asian people (age-sex adjusted HR 1.95 95% CI 1.73-2.18; fully adjusted HR 1.62 95% CI 1.43-1.82). Conclusions We have quantified a range of clinical risk factors for death from COVID-19, some of which were not previously well characterised, in the largest cohort study conducted by any country to date. People from Asian and black groups are at markedly increased risk of in-hospital death from COVID-19, and contrary to some prior speculation this is only partially attributable to pre-existing clinical risk factors or deprivation; further research into the drivers of this association is therefore urgently required. Deprivation is also a major risk factor with, again, little of the excess risk explained by co-morbidity or other risk factors. The findings for clinical risk factors are concordant with policies in the UK for protecting those at highest risk. Our OpenSAFELY platform is rapidly adding further NHS patients' records; we will update and extend these results regularly. Keywords COVID-19, risk factors, ethnicity, deprivation, death, informatics.",
+    "affiliations": [
+        "Oxford Biomedical Research Centre, NIHR Applied Research Collaboration Oxford and Thames Valley, the Mohn-Westlake Foundation, NHS England, and the Health Foundation; all DataLab staff are supported by BG's grants on this work. LS reports grants from Wellcome, MRC, NIHR, UKRI, British Council, GSK, British Heart Foundation, and Diabetes UK outside this work. KB holds",
+        "Sir Henry Dale fellowship jointly funded by Wellcome and the Royal Society. HIM is funded by the National Institute for Health Research (NIHR) Health Protection Research Unit in Immunisation, a partnership between Public Health England and LSHTM. AW holds a fellowship from BHF. RM holds",
+        "Sir Henry Wellcome Fellowship funded by the Wellcome Trust. HF holds",
+        "UKRI fellowship. The views expressed are those of the authors and not necessarily those of the NIHR, NHS England, Public Health England or the Department of Health and Social Care. Funders had no role in the study design, collection, analysis, and interpretation of data; in the writing of the report; and in the decision to submit the article for publication"
+    ],
+    "author": "David Harrison; Laurie Tomlinson; Jonathan Cockburn; Amir Mehrkar; Krishnan J Bhaskaran; Richard Grieve; Frank Hester; Helen I Mcdonald; Rafael Perera; The OpenSAFELY Collaborative; Caroline E Morton; Christopher T Rentsch; John Parry; Rohini Mathur; Anna Schultze; Ian J Douglas; Alex J Walker; Seb Bacon; Stephen Evans; Angel Wong; Chris Bates; Ben Goldacre; Elizabeth Williamson; Helen J Curtis; Peter Inglesby; Brian MacKenna; Harriet Forbes; David Evans; Richard T Croker; Sam Harper; Liam Smeeth",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20092999",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20092999"
+    },
+    "keywords": [
+        "COVID-19",
+        "risk factors",
+        "ethnicity",
+        "deprivation",
+        "death",
+        "informatics"
+    ],
+    "title": "OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Health Protection Research Unit in Immunisation,"
+                },
+                {
+                    "funding-source": "Public Health England and LSHTM"
+                }
+            ],
+            "funding-statement": "HIM is funded by the National Institute for Health Research (NIHR) Health Protection Research Unit in Immunisation, a partnership between Public Health England and LSHTM"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Leveraging mRNAs sequences to express SARS-CoV-2 antigens in vivo",
+    "author": "Chunxi Zeng",
+    "date": 2020,
+    "affiliations": [
+        "College of Pharmacy, The Ohio State University, Columbus, OH, USA",
+        "Department of Biomedical Engineering, Center for Clinical and Translational Science, Comprehensive Cancer Center, Dorothy M. Davis Heart & Lung Research Institute, Department of Radiation Oncology, The Ohio State University, Columbus, OH, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.01.019877",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.01.019877.pdf"
+    },
+    "abstract": "SARS-CoV-2 has rapidly become a pandemic worldwide; therefore, an effective vaccine is urgently needed. Recently, messenger RNAs (mRNAs) have emerged as a promising platform for vaccination. Here, we systematically investigated the untranslated regions (UTRs) of mRNAs in order to enhance protein production. Through a comprehensive analysis of endogenous gene expression and de novo design of UTRs, we identified the optimal combination of 5\u2019 and 3\u2019 UTR, termed as NASAR, which was five to ten-fold more efficient than the tested endogenous UTRs. More importantly, NASAR mRNAs delivered by lipid-derived nanoparticles showed dramatic expression of potential SARS-CoV-2 antigens both in vitro and in vivo. These NASAR mRNAs merit further development as alternative SARS-CoV-2 vaccines.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health"
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "Research Award",
+                    "award-id": [
+                        "R35GM119679"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of General Medical Sciences"
+                },
+                {
+                    "funding-source": "College of Pharmacy"
+                },
+                {
+                    "funding-source": "Ohio State University. Author"
+                }
+            ],
+            "funding-statement": "Y.D. acknowledges the support from the National Institutes of Health (NIH) through the Maximizing Investigators\u2019 Research Award R35GM119679 of the National Institute of General Medical Sciences as well as the start-up fund from the College of Pharmacy at Ohio State University. Author contributions C.Zeng conceived, designed and performed the experiments, analyzed data, and wrote the paper"
+        }
+    ]
+}

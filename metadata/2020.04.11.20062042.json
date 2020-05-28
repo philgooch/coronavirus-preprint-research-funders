@@ -1,0 +1,16 @@
+{
+    "abstract": "Social distancing is an important measure in controlling epidemics. This paper presents a simple theoretical model focussed on the implications of the wide range in interaction rates between individuals, both within the workplace and in the social setting. The model is based on well-mixed populations and so is not intended for studying geographic spread. The model shows that epidemic growth rate is largely determined by the upper interactivity quantiles of society, implying that the most efficient methods of epidemic control are interaction capping approaches rather than overall reductions in interaction. The theoretical model can also be applied to look at the dynamics of epidemic progression under various scenarios. The theoretical model suggests that with no intervention herd immunity would be achieved with a lower overall infection rate than if variation in interaction rate is ignored, because by this stage almost all the most interactive members of society would have had the infection; however the overall mortality with such an approach is very high. Scenarios for mitigation and suppression suggest that, by using interactivity capping, it should be possible to control an epidemic without extreme sanctions on the majority of the population if R0 of the uncontrolled infection is 2.4. However to control the infection rate to a specific level will always require the switching on and off of measures and for this reason eradication is likely to be a less costly policy in the long run. While social distancing alone can be used for eradication it is not be a good mechanism on its own to prevent reinfection. The use of robust testing, quarantining, and contact tracing would strengthen any social distancing measures, speed up eradication, and be a better tool for prevention of infection or reinfection.",
+    "author": "Christopher Bronk Ramsey",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20062042",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20062042"
+    },
+    "title": "Human agency and infection rates: implications for social distancing during epidemics",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was provided for this study."
+        }
+    ]
+}

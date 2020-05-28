@@ -1,0 +1,16 @@
+{
+    "abstract": "There has recently emerged a striking consistency to the mortality from SARS-CoV-2, as a fraction of population, across many nations. We have constructed a model for the spread of the virus that reproduces this phenomenon via inclusion of two (or more) categories of susceptibility to the virus. In the simplest case, the population is given a smaller fraction of 10-20% with higher susceptibility and the balance of 80-90% with lower susceptibility. Susceptibility is taken to include the level of immunity to the virus combined with the societal circumstances of certain smaller groups within a population. This is programmed numerically by considering a realistic random rate of contacts, together with an assumed constant viral genome. The remaining major variable is the societal response of nations to the outbreak, with earlier or later application of various degrees of lockdown, tracing and sanitation. China, South Korea and other nations, including Germany, have stopped or greatly slowed the spread of the disease before it could run its course through a whole population. Using this model the extent of progress toward herd immunity is discussed, with an in-principle estimate of the remaining toll to be experienced.",
+    "author": "Julie McGeoch; Malcolm W McGeoch",
+    "date": 2020,
+    "doi": "10.1101/2020.05.17.20104356",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.17.20104356"
+    },
+    "title": "COVID-19 Propagation and Mortality in a Two-Part Population",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "NA"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "abstract": "Importance: The novel Coronavirus Disease 2019 (COVID-19), declared a pandemic in March 2020, may present with disproportionately higher rates in underrepresented racial/ethnic minority populations in the United States, including African American communities who have traditionally been over-represented in negative health outcomes. Study Objective: To understand the impact of the density of African American communities (defined as the percentage of African Americans in a county) on COVID-19 prevalence and death rate within the three most populous counties in each U.S. state and territory (n=152). Design: An ecological study using linear regression was employed for the study. Setting: The top three most populous counties of each U.S. state and territory were included in analyses for a final sample size of n=152 counties. Participants: Confirmed COVID-19 cases and deaths that were accumulated between January 22, 2020 and April 12, 2020 in each of the three most populous counties in each U.S. state and territory were included. Main outcome measures: Linear regression was used to determine the association between African American density and COVID-19 prevalence (defined as the percentage of cases for the county population), and death rate (defined as number of deaths per 100,000 population). The models were adjusted for median age and poverty. Results: There was a direct association between African American density and COVID-19 prevalence; COVID-19 prevalence increased 5% for every 1% increase in county AA density (p",
+    "affiliations": [
+        "Number from the National Institute on Drug Abuse (NIDA) at the National Institutes of Health and Award K99DA046311; NIMHD 1 S21 MD010683-01; NIMHD U54MD002266; NIMHD U54MD012393 and NIAAA U34AA026219. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health"
+    ],
+    "author": "Ulas Bagci; Ines Noel; Rachel Clarke; Yandra Mariano; Debra Furr-Holden; Gira Ravelo; Elena Cyrus; Zoran Bursac; Sandra Kiplagat; Makella S Coudray; Eric F Wagner; Dexter Hadley; Michelle Paley; Mary Jo Trepka; Jessy G Devieux",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20096552",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20096552"
+    },
+    "title": "The impact of COVID-19 on African American communities in the United States",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Award Number from the National Institute on Drug Abuse"
+                },
+                {
+                    "funding-source": "National Institutes of Health and Award",
+                    "award-id": [
+                        "K99DA046311"
+                    ]
+                },
+                {
+                    "funding-source": "NIMHD",
+                    "award-id": [
+                        "MD010683-01"
+                    ]
+                },
+                {
+                    "funding-source": "NIMHD",
+                    "award-id": [
+                        "U54MD002266"
+                    ]
+                },
+                {
+                    "funding-source": "NIMHD",
+                    "award-id": [
+                        "U54MD012393"
+                    ]
+                },
+                {
+                    "funding-source": "NIAAA",
+                    "award-id": [
+                        "U34AA026219"
+                    ]
+                }
+            ],
+            "funding-statement": "The project was supported by Award Number from the National Institute on Drug Abuse (NIDA) at the National Institutes of Health and Award K99DA046311; NIMHD 1 S21 MD010683-01; NIMHD U54MD002266; NIMHD U54MD012393 and NIAAA U34AA026219"
+        }
+    ]
+}

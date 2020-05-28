@@ -1,0 +1,16 @@
+{
+    "abstract": "We present a simple but realistic model for describing the diffusion of an infectious disease on a population of individuals. The dynamics is governed by a single functional delay differential equation, which, in the case of a large population, can be solved exactly, even in the presence of a time-dependent infection rate. This delay model has a higher degree of accuracy than the so-called SIR model, commonly used in epidemiology, which, instead, is formulated in terms of a set of three ordinary differential equations. We apply our model to describe the outbreak of the new virus COVID-19 in Italy, taking into account the containment measures implemented by the government in order to mitigate the spreading of the virus and the social costs for the population.",
+    "author": "Luca Dell'Anna",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20080523",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20080523"
+    },
+    "title": "Solvable delay model for epidemic spreading: the case of Covid-19 in Italy",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no external funding</strong>"
+        }
+    ]
+}

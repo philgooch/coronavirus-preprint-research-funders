@@ -1,0 +1,16 @@
+{
+    "abstract": "The objective of the current investigation was to produce a generalized computational model to predict consequences of various reopening scenarios on COVID-19 infections rates and available hospital resources in Sao Paulo - Brazil. We were able to use the Susceptible-Exposed-Infected-Recovered (SEIR) model to fit both accumulated death data and corrected accumulated cases data associated with COVID-19 for both Brazil and the state of Sao Paulo. In addition, we were able to simulate the consequences of reopening under different possible scenarios in Brazil, in special for the state of Sao Paulo. The model was able to provide a predicted scenario in which reopening could occur with minimal impact on human life considering people careful behavior in combination with continued social distancing measures.",
+    "author": "Ellysson Oliveira Abinader; Gustavo Jose Zambrano; Osmar Pinto Neto; Joabe Marcos de Souza; Bruno de Matos Brizzi; Josa Clark Reis; Ana Carolina Brisola Brizzi; Wellington Pedroso E. Amorim; Deanna M. Kennedy; Renato A Zangaro; Rodrigo Cunha de Mello Pedreiro",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20081208",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20081208"
+    },
+    "title": "COVID-19 mathematical model reopening scenarios for Sao Paulo - Brazil",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement not applicable</strong>"
+        }
+    ]
+}

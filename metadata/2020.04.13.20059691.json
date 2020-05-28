@@ -1,0 +1,19 @@
+{
+    "abstract": "We leveraged the largely untapped resource of electronic health record data to address critical clinical and epidemiological questions about Coronavirus Disease 2019 (COVID-19). To do this, we formed an international consortium (4CE) of 96 hospitals across 5 countries (www.covidclinical.net). Contributors utilized the Informatics for Integrating Biology and the Bedside (i2b2) or Observational Medical Outcomes Partnership (OMOP) platforms to map to a common data model. The group focused on comorbidities and temporal changes in key laboratory test values. Harmonized data were analyzed locally and converted to a shared aggregate form for rapid analysis and visualization of regional differences and global commonalities. Data covered 27,584 COVID-19 cases with 187,802 laboratory tests. Case counts and laboratory trajectories were concordant with existing literature. Laboratory tests at the time of diagnosis showed hospital-level differences equivalent to country-level variation across the consortium partners. Despite the limitations of decentralized data generation, we established a framework to capture the trajectory of COVID-19 disease in patients and their response to interventions.",
+    "affiliations": [
+        "Laboratory tests at the time of diagnosis showed hospital-level differences equivalent to country-level variation across the consortium partners. Despite the limitations of decentralized data generation, we established a framework to capture the trajectory of COVID-19 disease in patients and their response to interventions"
+    ],
+    "author": "Amelia LM Tan; Shawn N Murphy; Jihad Obeid; Piotr Sliz; Jean Craig; Riccardo Bellazzi; Danielle L Mowery; Hans U Prokosch; Nina Orlova; Griffin M Weber; Alba Gutierrez-Sacristan; Mohamad Daniar; Romain Bey; Jill Jen Vie; Bertrand Moal; Martin Boeker; Valentina Tibollo; Julien Dubiel; Melodie Bernaux; Gael Varoquaux; Arnaud Serret-Larmande; Isaac S Kohane; Antonio Bellasi; Anne Sophie Jannot; Patricia Serre; Lemuel R Waitman; Luigia Scudeller; Lav P Patel; Martin Hilka; Elisa Salamanca; Tobias Gradinger; Vianney Jouhet; Guillaume Lemaitre; Kee Yuan Ngiam; Patricia Martel; Alberto Malovini; Gilbert S Omenn; Kenneth D Mandl; Katie Kirchoff; Emily Schiver; Batsal Devkota; Luca Chiovato; Nathan P Palmer; Christian Haverkamp; The Consortium for Clinical Characterization of COVID-19 by EHR (4CE); Robert W Follett; Robert L Bradford; Nicolas Paris; Douglas A Murad; Alexandre Gramfort; Arthur Mensch; Nils Gehlenborg; David A Hanauer; Jason H Moore; Stephane Breant; APHP/Universities/INSERM COVID-19 research collaboration; Charlotte Caucheteux; Demian Wassermann; John H Holmes; Paul Avillach; Brett K Beaulieu-Jones; Arnaud Sandrin; Douglas S Bell; Alberto Zambelli; Olivier Grisel; Detlef Kraska; Sehi L'Yi; Jeffrey G Klann; Mauro Bucalo; Nicolas Griffon; Romain Griffier; Sebastien Cossin; Julien Champ; James Cimino; Judith Leblanc; Tianxi Cai; Thomas Moreau; Gabriel A Brat; Thomas Ganslandt; Christel Daniel; Vincent Benoit; Mark S Keller; Anita Burgun; Damien Leprovost",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20059691",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20059691"
+    },
+    "title": "International Electronic Health Record-Derived COVID-19 Clinical Course Profiles: The 4CE Consortium",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was supported by the i2b2 tranSMART Foundation"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "abstract": "Whether asthma constitutes a risk factor for COVID-19 is unclear. We performed a systematic literature search in three stages: First, we reviewed PubMed, EMBASE and CINAHL for systematic reviews of SARS-CoC-2 and COVID-19 in pediatric populations, and reviewed their primary articles; next, we searched PubMed for studies on COVID-19 or SARS-CoV-2 and asthma/wheeze, and evaluated whether the resulting studies included pediatric populations; lastly, we repeated the second search in BioRxiv.org and MedRxiv.org to find pre-prints that may have information on pediatric asthma. In the first search, eight systematic reviews were found, of which five were done in pediatric population; after reviewing 67 primary studies we found no data on pediatric asthma as a comorbidity for COVID-19. In the second search, we found 25 results in PubMed, of which five reported asthma in adults, but none included data on children. In the third search, 14 pre-prints in MedRxiv were identified with data on asthma, but again none with pediatric data. We found only one report by the U.S. CDC stating that 40/345 (~11.5%) children with data on chronic conditions had \"chronic lung diseases including asthma\". There is scarcely any data on whether childhood asthma (or other pediatric respiratory diseases) constitute risk factors for SARS-CoV-2 infection or COVID-19 severity. Studies are needed that go beyond counting the number of cases in the pediatric age range.",
+    "affiliations": [
+        "National Institutes of Health (NIH)"
+    ],
+    "author": "Erick Forno; Jose A Castro-Rodriguez",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090845",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090845"
+    },
+    "title": "Asthma and COVID-19 in Children - A Systematic Review and Call for Data",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "U.S National Institutes of Health"
+                },
+                {
+                    "funding-source": "NIH"
+                }
+            ],
+            "funding-statement": "Dr Forno\u0092s contribution was partly funded by grant HL149693 from the U.S National Institutes of Health (NIH)."
+        }
+    ]
+}

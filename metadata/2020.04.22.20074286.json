@@ -1,0 +1,43 @@
+{
+    "abstract": "We take the case of the Diamond Princess (DP) cruise ship as an experimental model for studying the transmission potential of COVID-19 in a closed environment. We investigate the changes in R0 for COVID-19 on the DP from January 21 to February 19, 2020 with a chain-binomial model at different times under two scenarios: no quarantine assuming a random mixing condition, and quarantine of passengers in cabins -- passengers may get infected either by an infectious case in a shared cabin or by asymptomatic crew who continued to work. Our modeling approach takes account of the asymptomatic ratio of crew members during the quarantine of passengers, which has not been explored in the literature. Assuming an asymptomatic ratio 0.505 and the proportion of infections in cabins 0.2, R0 at the beginning of the epidemic was 3.27 (95% CI (3.02, 3.54)) and 3.78 (95% CI (3.49, 4.09)) respectively for serial intervals of 5 and 6 days, and increased for passengers in contact with asymptomatic crew during quarantine. We find evidence to support a CDC report that \"a high proportion of asymptomatic infections could partially explain the high attack rate among cruise ship passengers and crew.\" This emphasizes the importance of improved reporting and quarantine of asymptomatic cases, and raises questions on quarantine procedures in closed environments such as military vessels, cruise ships, dormitories, prisons, and other enclosed living complexes with high population densities.",
+    "author": "Lucia Dunn; Mai He; Li-Shan Huang; Li Li",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20074286",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20074286"
+    },
+    "title": "Taking Account of Asymptomatic Infections in Modeling the Transmission Potential of the COVID-19 Outbreak on the Diamond Princess Cruise Ship",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Li-Shan Huang"
+                },
+                {
+                    "funding-source": "Ministry of Science and Technology, Taiwan"
+                }
+            ],
+            "funding-statement": "Li-Shan Huang was partially supported by a grant from the Ministry of Science and Technology, Taiwan"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Li-Shan Huang"
+                },
+                {
+                    "funding-source": "Ministry of Science and Technology",
+                    "award-id": [
+                        "107-2118-M-007-002-MY"
+                    ]
+                },
+                {
+                    "funding-source": "Grant MOST",
+                    "award-id": [
+                        "107-2118-M-007-002-MY2"
+                    ]
+                }
+            ],
+            "funding-statement": "Li-Shan Huang was partially supported by the Ministry of Science and Technology under Grant MOST 107-2118-M-007-002-MY2, Taiwan"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "abstract": "We constructed a simple Susceptible-Infected-Infectious-Excluded model of the spread of COVID-19. The model is parametrised only by the average incubation period, \u03c4, and two rate parameters: contact rate, r_E, and exclusion rate, r_E. The rates can be manipulated by non-therapeutic interventions and determine the basic reproduction number, R = r_C/r_E, and, together with \u03c4, the daily multiplication coefficient at the early exponential phase, \u03b2. Initial \u03b2 determines the reduction of r_C required to contain epidemic spread. In the long-term, we consider a scenario based on typical social behaviours, in which r_C first decreases in response to a surge of daily new cases, forcing people to self-isolate, and then slowly increases when people gradually accept higher risk. Consequently, initial abrupt epidemic spread is followed by a plateau and slow regression. This scenario, although economically and socially devastating, will grant time to develop, produce, and distribute a vaccine, or at least limit daily cases to a manageable number.",
+    "affiliations": [
+        "National Science Centre (Poland) grant 2018/29/B/NZ2/00668"
+    ],
+    "author": "Tomasz Lipniacki; Frederic Grabowski; Marek Kochanczyk",
+    "date": 2020,
+    "doi": "10.1101/2020.03.13.20035485",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.13.20035485"
+    },
+    "title": "Dynamics of COVID-19 pandemic at constant and time-dependent contact rates",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Centre",
+                    "award-id": [
+                        "2018/29/B/NZ2/00668"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by the National Science Centre (Poland) grant 2018/29/B/NZ2/00668"
+        }
+    ]
+}

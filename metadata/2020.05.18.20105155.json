@@ -1,0 +1,71 @@
+{
+    "title": "The Dynamic Changes of Antibodies against SARS-CoV-2 during the Infection and Recovery of COVID-19 Kening Li1,2#, Min Wu1,2#, Bin Huang1,2#, Aifang Zhong3,4#, Lu Li1,2, Yun Cai1,2, Lingxiang Wu1,2, Mengyan Zhu1,2, Jie Li1,2, Ziyu Wang1,2, Wei Wu1,2, Wanlin Li1,2, Bakwatanisa Bosco1,2, Zhenhua Gan5,10, Zhihua Wang4,6, Qinghua Qiao4,7, Jian Wu8, Qianghu Wang1,2*, Shukui Wang11*, Xinyi Xia4,8,10*",
+    "date": 2020,
+    "affiliations": [
+        "Center for Global Health, School of Public Health, Nanjing Medical University, Nanjing, Jiangsu 211166, China",
+        "Department of Bioinformatics, Nanjing Medical University, Nanjing, Jiangsu 211166, China",
+        "Medical Technical Support Division, the 904th Hospital, Changzhou, Jiangsu 213003, China",
+        "Department of Laboratory Medicine & Blood Transfusion, Wuhan Huoshenshan Hospital, Wuhan, Hubei 430100, China",
+        "Department of Medical Administration, Jinling Hospital, Nanjing University School of Medicine, Nanjing, Jiangsu 210002, China",
+        "Department of Laboratory Medicine & Blood Transfusion, the 907th Hospital, Nanping, Fujian 350702, China",
+        "Medical and Technical Support Department, Pingdingshan Medical District, the 989th Hospital of Joint Logistic Support Force, Pingdingshan, Henan 467000, China",
+        "COVID-19 Research Center, Institute of Laboratory Medicine, Jinling Hospital, Nanjing University School of Medicine, Nanjing, Jiangsu 210002, China",
+        "Institute of Laboratory Medicine, Jinling Hospital, Nanjing University School of Medicine, Southern Medical University, Nanjing, Jiangsu 210002, China",
+        "Joint Expert Group for COVID-19, Wuhan Huoshenshan Hospital, Wuhan, Hubei 430100, China",
+        "Department of Laboratory Medicine, Nanjing First Hospital, Nanjing Medical University, Nanjing, Jiangsu 210006, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.18.20105155",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20105155.pdf"
+    },
+    "abstract": "Deciphering the dynamic changes of antibodies against SARS-CoV-2 is essential for understanding the immune response in COVID-19 patients. By comprehensively analyzing the laboratory findings of 1,850 patients, we describe the dynamic changes of the total antibody, spike protein (S)-, receptor-binding domain (RBD)-, and nucleoprotein (N)- specific IgM and IgG levels during SARS-CoV-2 infection and recovery. Our results indicate that the S-, RBD-, and N- specific IgG generation of severe/critical COVID-19 patients is one week later than mild/moderate cases, while the levels of these antibodies are 1.5-fold higher in severe/critical patients during hospitalization (P<0.01). The decrease of these IgG levels indicates the poor outcome of severe/critical patients. The RBD- and S-specific IgG levels are 2-fold higher in virus-free patients (P<0.05). Notably, we found that the patients who got re-infected had a low level of protective antibody on discharge. Therefore, our evidence proves that the dynamic changes of antibodies could provide an important reference for diagnosis, monitoring, and treatment, and shed new light on the precise management of COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81572893",
+                        "81972358",
+                        "81959113"
+                    ]
+                },
+                {
+                    "funding-source": "Key Foundation of Wuhan Huoshenshan Hospital",
+                    "award-id": [
+                        "2020[18"
+                    ]
+                },
+                {
+                    "funding-source": "Development Program of Jiangsu Province",
+                    "award-id": [
+                        "BE2017733",
+                        "BE2018713"
+                    ]
+                },
+                {
+                    "funding-source": "Medical Innovation Project of Logistics Service",
+                    "award-id": [
+                        "18JS005"
+                    ]
+                },
+                {
+                    "funding-source": "Basic Research Program of Jiangsu Province",
+                    "award-id": [
+                        "BK20180036"
+                    ]
+                },
+                {
+                    "funding-source": "Xinyi Xia, Shukui"
+                },
+                {
+                    "funding-source": "Qianghu Wang"
+                }
+            ],
+            "funding-statement": "This study was supported by the National Natural Science Foundation of China (Grant Nos. 81572893, 81972358, 81959113), Key Foundation of Wuhan Huoshenshan Hospital (Grant No 2020[18]), Key Research& Development Program of Jiangsu Province (Grant Nos. BE2017733, BE2018713), Medical Innovation Project of Logistics Service (Grant No. 18JS005), Basic Research Program of Jiangsu Province (Grant No BK20180036). Author contributions Xinyi Xia, Shukui Wang, and Qianghu Wang had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis"
+        }
+    ]
+}

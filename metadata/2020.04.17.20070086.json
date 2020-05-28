@@ -1,0 +1,34 @@
+{
+    "abstract": "Extensive physical distancing measures are currently the primary intervention against coronavirus disease 2019 (COVID-19) worldwide. It is therefore urgent to estimate the impact such measures are having. We introduce a Bayesian epidemiological model in which a proportion of individuals are willing and able to participate in distancing measures, with the timing of these measures informed by survey data on attitudes to distancing and COVID-19.We fit our model to reported COVID-19 cases in British Columbia, Canada, using an observation model that accounts for both underestimation and the delay between symptom onset and reporting. We estimate the impact that physical distancing (also known as social distancing)has had on the contact rate and examine the projected impact of relaxing distancing measures. We find that distancing has had a strong impact, consistent with declines in reported cases and in hospitalization and intensive care unit numbers. We estimate that approximately 0.78 (0.66-0.89 90% CI) of contacts have been removed for individuals in British Columbia practising physical distancing and that this fraction is above the threshold of 0.45 at which prevalence is expected to grow. However, relaxing distancing measures beyond this threshold re-starts rapid exponential growth. Because the extent of underestimation is unknown, the data are consistent with a wide range in the prevalence of COVID-19 in the population; changes to testing criteria over time introduce additional uncertainty. Our projections indicate that intermittent distancing measures - if sufficiently strong and robustly followed - could control COVID-19 transmission, but that if distancing measures are relaxed too much, the epidemic curve would grow to high prevalence.",
+    "affiliations": [
+        "Federal Government of Canada's Canada 150 Research Chair program. We thank Fisheries and Oceans Canada for their support. This work was supported by funding from the Michael Smith Foundation for Health Research"
+    ],
+    "author": "Michael C. Otterstatter; Rebeca C Falcao; Jessica Stockdale; Naveed Z Janjua; Andrew M Edwards; Sarafa A Iyaniwura; Caroline Colijn; Daniel Coombs; Michael A Irvine; Sean C Anderson; Madi Yerlanov; Nicola Mulberry",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20070086",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20070086"
+    },
+    "title": "Estimating the impact of COVID-19 control measures using a Bayesian model of physical distancing",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Federal Government of Canada's Canada"
+                },
+                {
+                    "funding-source": "Research Chair"
+                }
+            ],
+            "funding-statement": "C.C. and J.S. are funded by the Federal Government of Canada's Canada 150 Research Chair program"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Michael Smith Foundation for Health Research"
+                }
+            ],
+            "funding-statement": "This work was supported by funding from the Michael Smith Foundation for Health Research"
+        }
+    ]
+}

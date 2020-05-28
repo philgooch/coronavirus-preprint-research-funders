@@ -1,0 +1,32 @@
+{
+    "abstract": "Background: The colloidal gold immunochromatography assay (GICA) is a rapid diagnostic tool for novel coronavirus disease 2019 (COVID-19) infections. However, with significant numbers of false negatives, improvements to GICA are needed. Methods: Six recombinant HCoV-19 nucleocapsid and spike proteins were prepared and evaluated. The optimal proteins were employed to develop a sandwich-format GICA strip to detect total antibodies (IgM and IgG) against HCoV-19. GICA performance was assessed with comparison of viral RNA detection. Results: Recombinant HCoV-19 proteins were obtained, including three prokaryotically expressed rN, rN1, rN2 nucleocapsid proteins, and three eukaryotically expressed rS1, rS-RBD, rS-RBD-mFc spike proteins. The recombinant proteins with the highest ELISA titers (rS1 and rS-RBD-mFc) against coronavirus-specific IgM and IgG were chosen for GICA development. The GICA has a sensitivity and specificity of 86.89% (106/122) and 99.39% (656/660), respectively. Furthermore, 65.63% (21/32) of the clinically confirmed but RT-PCR negative samples were GICA positive. Conclusions: The eukaryotically-expressed spike proteins (rS1and rS-RBD-mFc) are more suitable than the prokaryotically expressed nucleocapsid proteins for HCoV-19 serological diagnosis. The GICA sandwich used to detect total antibodies is a powerful complement to the current standard RNA-based tests.\nCompeting Interest Statement",
+    "affiliations": [
+        "The National Key Research and Development Program of China (Grant No. 2018YFC1200502), and The National Science and Technology Major Project (Grant No. 2018ZX10101003-002). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript"
+    ],
+    "author": "Luping Li; Qi Gao; Tang Wang; Yong Zhao; Kun Hao; Ruizhong Jia; Pingping Zhang; Yuzhen Liu; Wanbing Liu; Shiyue Li; Yuehua Ke; Changqing Lin; Yao Wang; Fei Mo; Ruifu Yang; Lei Liu; Shangen Zheng; Lei Xu",
+    "date": 2020,
+    "doi": "10.1101/2020.03.17.20036954",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.17.20036954"
+    },
+    "title": "Evaluation of recombinant nucleocapsid and spike proteins for serological diagnosis of novel coronavirus disease 2019 (COVID-19)",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The National Key Research and Development Program of China",
+                    "award-id": [
+                        "2018YFC1200502"
+                    ]
+                },
+                {
+                    "funding-source": "The National Science and Technology Major Project",
+                    "award-id": [
+                        "2018ZX10101003-002"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding for this study was provided by The National Key Research and Development Program of China (Grant No 2018YFC1200502), and The National Science and Technology Major Project (Grant No 2018ZX10101003-002)"
+        }
+    ]
+}

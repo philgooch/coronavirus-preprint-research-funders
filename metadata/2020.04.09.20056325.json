@@ -1,0 +1,30 @@
+{
+    "abstract": "Due to urgency and demand, numerous severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) immunoassays are rapidly being developed and placed on the market with limited validation on clinical samples. Thorough validation of serological tests are required to facilitate their use in the accurate diagnosis of SARS-CoV-2 infection, confirmation of molecular results, contact tracing, and epidemiological studies. This study evaluated the sensitivity and specificity of nine commercially available serological tests. These included three enzyme-linked immunosorbent assays (ELISAs) and six point-of-care (POC) lateral flow tests. The assays were validated using serum samples from: i) SARS-CoV-2 PCR-positive patients with a documented first day of disease; ii) archived sera obtained from healthy individuals before the emergence of SARS-CoV-2 in China; iii) sera from patients with acute viral respiratory tract infections caused by other coronaviruses or non-coronaviruses; and iv) sera from patients positive for dengue virus, cytomegalovirus and Epstein Barr virus. The results showed 100% specificity for the Wantai SARS-CoV-2 Total Antibody ELISA, 93% for the Euroimmun IgA ELISA, and 96% for the Euroimmun IgG ELISA with sensitivities of 90%, 90%, and 65%, respectively. The overall performance of the POC tests according to manufacturer were in the rank order of AutoBio Diagnostics > Dynamiker Biotechnology = CTK Biotech > Artron Laboratories > Acro Biotech \u2265 Hangzhou Alltest Biotech. Overall, these findings will facilitate selection of serological assays for the detection SARS-CoV-2-specific antibodies towards diagnosis as well as sero-epidemiological and vaccine development studies.",
+    "affiliations": [
+        "Danish National Biobank resource, supported by the Novo Nordisk Foundation, grant number 2010-11-12 and 2009-07-28"
+    ],
+    "author": "Alex CY Nielsen; Anders Frische; Charlotte S J\u00f8rgensen; Ria Lassauni\u00e8re; Zitta B Harboe; Karen A Krogfelt; Anders Fomsgaard",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20056325",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20056325"
+    },
+    "title": "Evaluation of nine commercial SARS-CoV-2 immunoassays",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Danish National Biobank"
+                },
+                {
+                    "funding-source": "Novo Nordisk Foundation,",
+                    "award-id": [
+                        "2010-11-12",
+                        "2009-07-28"
+                    ]
+                }
+            ],
+            "funding-statement": "The research has been conducted using the Danish National Biobank resource, supported by the Novo Nordisk Foundation, grant number 2010-11-12 and 2009-07-28"
+        }
+    ]
+}

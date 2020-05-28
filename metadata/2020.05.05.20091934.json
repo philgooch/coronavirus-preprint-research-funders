@@ -1,0 +1,40 @@
+{
+    "abstract": "Surveillance of SARS-CoV-2 infection among sheltered homeless and other vulnerable people might provide the information needed to prevent its spread within accommodation centres. In March-April, we enrolled 411 homeless individuals, 77 asylum-seekers, 58 people living in precarious conditions, and 152 employees working in these accommodation centres and collected nasal samples. SARS-CoV-2 carriage was assessed by quantitative PCR. Overall, 49 (7.0%) people were positive for SARS-CoV-2, including 37 homeless individuals (of 411, 9.0%), 12 employees (of 152, 7.9%). SARS-CoV-2 positivity correlated with symptoms, although 51% of positive patients did not report respiratory symptoms or fever. Among homeless people, being young (18-34 years) (OR: 3.83 [1.47-10.0], p=0.006) and being housed in one specific shelter (OR: 9.13 [4.09-20.37], p<0.0001) were independent factors associated with the SARS-CoV-2 positivity rates (11.4% and 20.6%, respectively). The survey reveals the role of collective housing in relation to viral transmission within centres.",
+    "affiliations": [
+        "National Agency for Research (ANR), M\u00e9diterran\u00e9e-Infection 10-IAHU-03, and was also supported by R\u00e9gion Provence-Alpes-C\u00f4te d\u0092Azur. This work had received financial support from the Fondation M\u00e9diterran\u00e9e Infection"
+    ],
+    "author": "Didier Raoult; Van Thuan Hoang; Bernard Davoust; Oleg Mediannikov; Naomie Canard; Tran Duc Anh Ly; Thi Loi Dao; Hacene Medkour; Audrey Borg; Meriem Louni; Pierre-Edouard Fournier; Veronique Filosa; Philippe Gautret; Kevin Bardy; Ndiaw Goumballa; Vera Esteves-Vieira",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091934",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091934"
+    },
+    "title": "Screening of SARS-CoV-2 among homeless people, asylum seekers and other people living in precarious conditions in Marseille, France, March April 2020.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "French Government"
+                },
+                {
+                    "funding-source": "National Agency for Research",
+                    "award-id": [
+                        "10-IAHU-03"
+                    ]
+                },
+                {
+                    "funding-source": "R\u00e9gion Provence-Alpes-C\u00f4te"
+                }
+            ],
+            "funding-statement": "This work was supported by the French Government under the \u0093Investments for the Future\u0094 programme managed by the National Agency for Research (ANR), M\u00e9diterran\u00e9e-Infection 10-IAHU-03, and was also supported by R\u00e9gion Provence-Alpes-C\u00f4te d\u0092Azur"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fondation M\u00e9diterran\u00e9e Infection"
+                }
+            ],
+            "funding-statement": "This work had received financial support from the Fondation M\u00e9diterran\u00e9e Infection"
+        }
+    ]
+}

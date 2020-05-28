@@ -1,0 +1,46 @@
+{
+    "title": "SARS-CoV-2 spike protein binds heparan sulfate in a length- and sequence-dependent manner",
+    "author": "Margreet Wolfert",
+    "date": 2020,
+    "affiliations": [
+        "Complex Carbohydrate Research Center, University of Georgia, 315 Riverbend Road, Athens, GA 30602, USA",
+        "Center for Vaccines and Immunology, University of Georgia, Athens, GA 30602, USA",
+        "Department of Chemical Biology and Drug Discovery, Utrecht Institute for Pharmaceutical Sciences, and Bijvoet Center for Biomolecular Research, Utrecht University, Universiteitsweg 99, 3584 CG Utrecht, The Netherlands",
+        "Department of Chemistry, University of Georgia, Athens, GA 30602, USA",
+        "These authors contributed equally to this work",
+        "Corresponding author"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.10.087288",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.10.087288.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) is causing an unprecedented global pandemic demanding the urgent development of therapeutic strategies. Microarray binding experiments using an extensive heparan sulfate (HS) oligosaccharide library showed the spike of SARS-CoV-2 can bind HS in a length- and sequence-dependent manner. Hexa- and octasaccharides composed of IdoA2S-GlcNS6S repeating units were identified as optimal ligands. Surface plasma resonance (SPR) showed the SARS-CoV-2 spike protein binds with higher affinity to heparin (KD 55 nM) compared to the receptor binding domain (RBD, KD 1 \u03bcM) alone. An octasaccharide composed of IdoA2S-GlcNS6S could inhibit spike-heparin interaction with an IC50 of 38 nM. Our data supports a model in which the RBD of the spike of SARS-CoV-2 confers sequence specificity for HS expressed by target cells whereas an additional HS binding site in the S1/S2 proteolytic cleavage site enhances the avidity of binding. Collectively, our results highlight the potential of using HS oligosaccharides as a therapeutic agent by inhibiting SARS-CoV-2 binding to target cells. KEYWORDS SARS-CoV-2, coronavirus, heparan sulfate, heparin, spike glycoprotein, microarray, surface plasma resonances",
+    "keywords": [
+        "SARS-CoV-2",
+        "coronavirus",
+        "heparan sulfate",
+        "heparin",
+        "spike glycoprotein",
+        "microarray",
+        "surface plasma resonances"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of General Medicine"
+                },
+                {
+                    "funding-source": "Research Resource for Integrated Glycotechnology",
+                    "award-id": [
+                        "P41GM103390"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported by the National Institute of General Medicine (NIGMS; Research Resource for Integrated Glycotechnology P41GM103390 to G.-J.B.)"
+        }
+    ]
+}

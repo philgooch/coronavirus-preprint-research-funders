@@ -1,0 +1,26 @@
+{
+    "abstract": "Governments around the world have enacted strict social distancing policies in order to slow the spread of COVID-19. The next step is figuring out when to relax these restrictions and to what degree. Our results predict potentially disastrous implications of ending these policies too soon, based on projections made from a Susceptible-Exposed-Infectious-Removed (SEIR) epidemic model. Even when infection rates appear to be slowing down or decreasing, prematurely returning to \"business as usual\" produces a severe second peak far worse than the first. Furthermore, such a second peak is made more likely when very severe restrictions are initially enacted. Only an appropriately measured and committed set of restrictions can appropriately control COVID-19 outbreak levels.",
+    "author": "Henry Zhao; Zhilan Feng; Haiyun Damon-Feng",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20069351",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20069351"
+    },
+    "title": "Sustaining Social Distancing Policies to Prevent a Dangerous Second Peak of COVID-19 Outbreak",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "DMS-1814545"
+                    ]
+                },
+                {
+                    "funding-source": "Independent Research Development"
+                }
+            ],
+            "funding-statement": "ZF\u0092s research is partially supported by NSF grant DMS-1814545 through Independent Research Development"
+        }
+    ]
+}

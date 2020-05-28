@@ -1,0 +1,92 @@
+{
+    "title": "Rapid Isothermal Amplification and Portable Detection System for SARS-CoV-2",
+    "author": "Shuler, Megan",
+    "date": 2020,
+    "affiliations": [
+        "Department of Bioengineering, University of Illinois at Urbana-Champaign, Illinois, USA",
+        "Nick Holonyak Jr. Micro and Nanotechnology Laboratory, University of Illinois at Urbana-Champaign",
+        "Department of Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, Illinois, USA",
+        "Carle Illinois College of Medicine, Urbana, IL, USA",
+        "Department of Electrical and Computer Engineering, University of Illinois at UrbanaChampaign, Illinois, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.21.108381",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.21.108381.pdf"
+    },
+    "abstract": "The COVID-19 pandemic provides an urgent example where a gap exists between availability of state-of-the-art diagnostics and current needs. As assay details and primer sequences become widely known, many laboratories could perform diagnostic tests using methods such as RT-PCR or isothermal RT-LAMP amplification. A key advantage of RT-LAMP based approaches compared to RT-PCR is that RT-LAMP is known to be robust in detecting targets from unprocessed samples. In addition, RT-LAMP assays are performed at a constant temperature enabling speed, simplicity, and point-of-use testing. Here, we provide the details of an RT-LAMP isothermal assay for the detection of SARS-CoV-2 virus with performance comparable to currently approved tests using RTPCR. We characterize the assay by introducing swabs in virus spiked synthetic nasal fluids, moving the swab to viral transport medium (VTM), and using a volume of that VTM for performing the amplification without an RNA extraction kit. The assay has a Limit-of-Detection (LOD) of 50 RNA copies/ L in the VTM solution within 20 minutes, and LOD of 5000 RNA copies/ L in the nasal solution. Additionally, we show the utility of this assay for real-time point-of-use testing by demonstrating detection of SARS-CoV-2 virus in less than 40 minutes using an additively manufactured cartridge and a smartphone-based reader. Finally, we explore the speed and cost advantages by comparing the required resources and workflows with RT-PCR. This work could accelerate the development and availability of SARS-CoV-2 diagnostics by proving alternatives to conventional laboratory benchtop tests.",
+    "keywords": [
+        "Isothermal amplification",
+        "LAMP",
+        "SARS-CoV-2",
+        "COVID19",
+        "Viral detection",
+        "Point-of-care",
+        "Additive manufacturing"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Holonyak Micro and Nanotechnology Laboratory"
+                },
+                {
+                    "funding-source": "University of Illinois"
+                }
+            ],
+            "funding-statement": "Authors thank the staff at the Holonyak Micro and Nanotechnology Laboratory at UIUC for facilitating the research and the funding from University of Illinois"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI146865A"
+                    ]
+                }
+            ],
+            "funding-statement": "RB, EV acknowledge support of NIH R21 AI146865A, and to also support AG"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Purdue University and the Agricultural Research Service of the United States Department of Agriculture, AG",
+                    "award-id": [
+                        "8000074077"
+                    ]
+                },
+                {
+                    "funding-source": "Sub Purdue",
+                    "award-id": [
+                        "8000074077"
+                    ]
+                }
+            ],
+            "funding-statement": "AM was partially supported by a cooperative agreement with Purdue University and the Agricultural Research Service of the United States Department of Agriculture, AG Sub Purdue 8000074077 to RB"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Defense Advanced Research Projects Agency of the U.S Department of Defense"
+                }
+            ],
+            "funding-statement": "The authors gratefully acknowledge the support of cooperative agreement #D19AC00012 awarded by the Defense Advanced Research Projects Agency of the U.S Department of Defense to WPK and RB to support MA, JB, and EV"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation"
+                },
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "1534126"
+                    ]
+                }
+            ],
+            "funding-statement": "F.S. was supported by National Science Foundation (NSF) under the grant number 1534126"
+        }
+    ]
+}

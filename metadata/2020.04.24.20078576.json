@@ -1,0 +1,81 @@
+{
+    "abstract": "The value of serological testing to inform the public health response to the SARS-CoV-2 pandemic is debated. Using a transmission model, we examined how serology can be implemented to allow seropositive individuals to resume more normal levels of social interaction while offsetting the risks. We simulated the use of widespread serological testing with realistic assay characteristics, in which seropositive individuals partially restore their social contacts and act as immunological shields. If social distancing is relaxed by 50% at the same time that quarterly serological screening is initiated, approximately 120,000 deaths could be averted and a quarter of the US population could be released from social distancing in the first year of the epidemic, compared to a scenario without serological testing. This strategy has the potential to substantially flatten the COVID-19 epidemic curve while also allowing a substantial number of individuals to safely return to social and economic interactions.",
+    "affiliations": [
+        "National Science Foundation (1806606 and 1829636)"
+    ],
+    "author": "Kristin Nelson; Conan Zhao; Alicia Nicole Mullis Kraay; Benjamin A Lopman; Joshua S Weitz",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078576",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078576"
+    },
+    "title": "Modeling serological testing to inform relaxation of social distancing for COVID-19 control",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "BAL and ANMK"
+                },
+                {
+                    "funding-source": "Vaccine Impact Modeling Consortium; BAL"
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "HD097175"
+                    ]
+                },
+                {
+                    "funding-source": "NICHD",
+                    "award-id": [
+                        "HD097175"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "GM124280"
+                    ]
+                },
+                {
+                    "funding-source": "NIGMS",
+                    "award-id": [
+                        "GM124280"
+                    ]
+                },
+                {
+                    "funding-source": "Simons Foundation",
+                    "award-id": [
+                        "SCOPE ID 329108"
+                    ]
+                },
+                {
+                    "funding-source": "SCOPE Award ID",
+                    "award-id": [
+                        "329108"
+                    ]
+                },
+                {
+                    "funding-source": "Army Research Office",
+                    "award-id": [
+                        "W911NF1910384"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "1R01AI46592-01"
+                    ]
+                },
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "1806606",
+                        "1829636"
+                    ]
+                }
+            ],
+            "funding-statement": "BAL and ANMK were supported by the Vaccine Impact Modeling Consortium; BAL and KNN were supported by NIH/NICHD R01 HD097175; BAL, KNN, and ANMK were supported by NIH/NIGMS R01 GM124280; JSW was supported by Simons Foundation (SCOPE Award ID 329108); JSW and CZ were supported by the Army Research Office (W911NF1910384); JSW was supported by NIH (1R01AI46592-01); JSW was supported by National Science Foundation (1806606 and 1829636)"
+        }
+    ]
+}

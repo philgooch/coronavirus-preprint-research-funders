@@ -1,0 +1,61 @@
+{
+    "abstract": "Overcoming the COVID-19 crisis requires new ideas and strategies. Rapid testing of a large number of subjects is essential to monitor, and delay, the spread of SARS-CoV-2 to mitigate the consequences of the pandemic. People not knowing that they are infected may not stay in quarantine and, thus, are a risk for infecting others. Unfortunately, the massive number of COVID-19 tests performed is challenging for both laboratories and the units that take the throat swab and have to communicate test results. Here, we present a secure tracking system (CTest) to report COVID-19 test results online as soon as they become available. The system can be integrated into the clinical workflow with very modest effort and avoids excessive load to telephone hotlines. With this open-source and browser-based online tracking system, we aim to minimize the time required to inform the tested person but also the test units, e.g. hospitals or the public healthcare system. Instead of personal calls, CTest updates the status of the test automatically when the test results are available. Test reports are published on a secured web-page enabling regular status checks also by patients not using smartphones with dedicated mobile apps which has some importance as smartphone usage diminishes with age. The source code, as well as further information to integrate CTest into the IT environment of other clinics or test-centres, are freely available from https://github.com/sysbio-bioinf/CTest under the Eclipse Public License v2.0 (EPL2).",
+    "author": "Florian Kohlmayer; Johann M. Kraus; Axel Fuerstberger; Gunnar Voelkel; Hans A. Kestler; Thomas Seufferlein; Silke D. Kuehlwein; Oliver Kohlbacher; Julian D. Schwab; Alexander Gross; Klaus A. Kuhn; Thomas Gscheidmeier; Peter Kuhn",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20056887",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20056887"
+    },
+    "title": "A secure and rapid query-software for COVID-19 test results that can easily be integrated into the clinical workflow to avoid communication overload",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Germany Federal Ministry of Education and Research"
+                },
+                {
+                    "funding-source": "DIFUTURE project"
+                },
+                {
+                    "funding-source": "Medical Informatics Initiative,",
+                    "award-id": [
+                        "01ZZ1804I",
+                        "01ZZ1804D"
+                    ]
+                }
+            ],
+            "funding-statement": "KAK, HAK and OK acknowledge, funding from the Germany Federal Ministry of Education and Research (BMBF) as part of the DIFUTURE project (Medical Informatics Initiative, grant numbers 01ZZ1804I and 01ZZ1804D)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Science and Art Baden-W\u00fcrttemberg",
+                    "award-id": [
+                        "Zentrum f\u00fcr Innovative Versorgung"
+                    ]
+                },
+                {
+                    "funding-source": "Innovative Versorgung, ZIV"
+                }
+            ],
+            "funding-statement": "OK and HAK acknowledge funding from the Ministry of Science and Art Baden-W\u00fcrttemberg (Zentrum f\u00fcr Innovative Versorgung, ZIV)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Social Affairs of the"
+                },
+                {
+                    "funding-source": "Personalisierte Medizin, ZPM"
+                },
+                {
+                    "funding-source": "German Science Foundation",
+                    "award-id": [
+                        "217328187"
+                    ]
+                }
+            ],
+            "funding-statement": "OK and TS acknowledge funding from the Ministry of Social Affairs of the state of Baden-W\u00fcrttemberg (Zentren f\u00fcr Personalisierte Medizin, ZPM), HAK also acknowledges funding from the German Science Foundation (DFG, grant number 217328187)"
+        }
+    ]
+}

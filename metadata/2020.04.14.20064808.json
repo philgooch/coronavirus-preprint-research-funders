@@ -1,0 +1,16 @@
+{
+    "abstract": "A positive pressure protective hood system was purposefully constructed only from materials commonly found worldwide, including bendable aluminum mesh, elastic head straps, velcro tape, a plastic sheet, a furnace filter and two computer central processing unit (CPU) cooling fans. The practical advantages of this system are that the materials are readily available in the inventories of most electronics and hardware outlets, ease of assembly (particularly if choosing to employ 3D printing for the fan enclosure and/or making several units at once with a defined workflow), and high probability of the materials being available in current or prospective personal protective equipment (PPE)-deplete regions. An experiment with identical fire detectors showed adequate inner isolation of the hood prototype from paper combustion particulates, which have a size range slightly smaller than putative coronavirus aerosols, for at least 90 seconds. The theoretical advantages of this system include significant reduction in healthcare provider exposure to coronavirus-containing respiratory fomites, respiratory droplets and aerosols (vs. traditional static masks and shields) during high risk procedures such as endotracheal intubation or routine care of an upright and coughing patient. Additionally, the assembly eliminates contact exposure to coronavirus fomites due to whole-head coverage from a hood system.",
+    "author": "Mark A Crawford",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20064808",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20064808"
+    },
+    "title": "Coronavirus PPE: a positive pressure hood assembled from ubiquitous, low-cost materials",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

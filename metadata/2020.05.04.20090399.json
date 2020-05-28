@@ -1,0 +1,23 @@
+{
+    "abstract": "We applied a simulation model of HIV to analyze the effects of 3 and 6-month disruptions in health services as a result of COVID-19. We found that disruptions to primary prevention programs (male circumcision, behavior change programs, condom distribution) would have small but transitory effects on new infections that might be more than offset by reductions in commercial and multi-partner sex due to lock downs. However, if COVID-19 leads to disruptions in ART services the impacts on mortality could be severe, doubling or tripling the estimated number of HIV deaths in 2020.\nCompeting Interest Statement",
+    "author": "Yu Teng; Robert Glaubius; Newton Chagoma; John Stover; Issac Taramusi; Severin Guy Mahiane",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090399",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090399"
+    },
+    "title": "Estimation of the Potential Impact of COVID-19 Responses on the HIV Epidemic: Analysis using the Goals Model",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation",
+                    "award-id": [
+                        "1991665"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was partially funded by the Bill & Melinda Gates Foundation under grant OPP 1991665"
+        }
+    ]
+}

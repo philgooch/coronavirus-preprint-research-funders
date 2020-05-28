@@ -1,0 +1,71 @@
+{
+    "title": "Genome Detective Coronavirus Typing Tool for rapid identification and characterization of novel coronavirus genomes",
+    "author": "Tulio de Oliveira",
+    "date": 2020,
+    "affiliations": [
+        "School of Laboratory Medicine and Medical Sciences, College of Health Sciences, University of KwaZulu-Natal, Durban, South Africa",
+        "Laborat\u00f3rio de Gen\u00e9tica Celular",
+        "Molecular, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+        "Coordena\u00e7\u00e3o Geral dos Laborat\u00f3rios de Sa\u00fade P\u00fablica/Secretaria de Vigil\u00e2ncia em Sa\u00fade, Minist\u00e9rio da Sa\u00fade, (CGLAB/SVS-MS) Bras\u00edlia, Brazil",
+        "Laborat\u00f3rio de Flaviv\u00edrus, Instituto Oswaldo Cruz, Funda\u00e7\u00e3o Oswaldo Cruz, Rio de Janeiro, RJ, Brazil",
+        "Centre for the AIDS Programme of Research in South Africa (CAPRISA), Durban, South Africa",
+        "Department of Global Health, University of Washington, Seattle, USA"
+    ],
+    "journal": "Keywords",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.01.31.928796",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.01.31.928796.pdf"
+    },
+    "abstract": "Summary: Genome Detective is a web-based, user-friendly software application to quickly and accurately assemble all known virus genomes from next generation sequencing datasets. This application allows the identification of phylogenetic clusters and genotypes from assembled genomes in FASTA format. Since its release in 2019, we have produced a number of typing tools for emergent viruses that have caused large outbreaks, such as Zika and Yellow Fever Virus in Brazil. Here, we present The Genome Detective Coronavirus Typing Tool that can accurately identify novel coronavirus (2019-nCoV) sequences isolated in China and around the world. The tool can accept up to 2,000 sequences per submission and the analysis of a new whole genome sequence will take approximately one minute. The tool has been tested and validated with hundreds of whole genomes from ten coronavirus species, and correctly classified all of the SARS-related coronavirus (SARSr-CoV) and all of the available public data for 2019-nCoV. The tool also allows tracking of new viral mutations as the outbreak expands globally, which may help to accelerate the development of novel diagnostics, drugs and vaccines.",
+    "keywords": [
+        "viral classification",
+        "phylogenetic",
+        "mutations",
+        "2019-nCoV",
+        "SARS",
+        "coronavirus"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "South African Medical Research Council",
+                    "award-id": [
+                        "MRC-RFA-UFSP01-2013/U"
+                    ]
+                },
+                {
+                    "funding-source": "UKZN HIVEPI)"
+                },
+                {
+                    "funding-source": "VIROGENESIS project"
+                },
+                {
+                    "funding-source": "European Union\u2019s Horizon"
+                },
+                {
+                    "funding-source": "Research and Innovation Programme",
+                    "award-id": [
+                        "under 634650"
+                    ]
+                },
+                {
+                    "funding-source": "National Human Genome Research Institute of the National Institutes of Health",
+                    "award-id": [
+                        "U24HG006941"
+                    ]
+                },
+                {
+                    "funding-source": "Award Number",
+                    "award-id": [
+                        "U24HG006941"
+                    ]
+                }
+            ],
+            "funding-statement": "Research reported in this publication was supported by a research Flagship grant from the South African Medical Research Council (MRC-RFA-UFSP01-2013/UKZN HIVEPI), the VIROGENESIS project, which received funding from the European Union\u2019s Horizon 2020 Research and Innovation Programme (under Grant Agreement no. 634650) and the National Human Genome Research Institute of the National Institutes of Health under Award Number U24HG006941"
+        }
+    ]
+}

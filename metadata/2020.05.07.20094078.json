@@ -1,0 +1,19 @@
+{
+    "abstract": "Difficulties assessing and predicting the current outbreak of the severe acute respiratory syndrome coronavirus 2 can be traced, in part, to the limitations of a static description of a dynamic system. Fourier transforming the time-domain data of infections and fatalities into the frequency domain makes the dynamics easily accessible. Defining a quantity like the case fatality as a spectral density allows a more sensible comparison between different countries and demographics during an ongoing outbreak. Such a case fatality informs not only how many of the confirmed cases end up as fatalities, but also when. For COVID-19, knowing this time and using the entire case fatality spectrum allows determining that an outbreak had entered a steady-state (most likely its end) about 14 days before this is obvious from time-domain data. The lag between confirmations and deaths also helps to estimate the effectiveness of contact management: The larger the lag, the less time the average confirmed person had to infect people before quarantine.",
+    "affiliations": [
+        "Center for System Science and Engineering of the John Hopkins University. The python code for the data analyses is published in an Edmond repository"
+    ],
+    "author": "Keno L Krewer; Mischa Bonn",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20094078",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20094078"
+    },
+    "title": "Time-Resolving the COVID-19 Outbreak using frequency domain analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding."
+        }
+    ]
+}

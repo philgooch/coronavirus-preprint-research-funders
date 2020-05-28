@@ -1,0 +1,57 @@
+{
+    "title": "SARS-CoV-2 is sensitive to type I interferon pretreatment",
+    "keywords": [
+        "Coronavirus",
+        "2019-nCoV",
+        "SARS-CoV-2",
+        "COVID-19",
+        "SARS-CoV",
+        "type I interferon"
+    ],
+    "date": 2020,
+    "author": "Kumari G. Lokugamage, Adam Hage, Craig Schindewolf, Ricardo Rajsbaum, Vineet D. Menachery",
+    "affiliations": [
+        "Department of Microbiology and Immunology",
+        "Institute for Human Infection and Immunity, University of Texas Medical Branch, Galveston TX, USA",
+        "University of Texas Medical Branch, 301 University Blvd, Route #0610 Galveston, TX 77555"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.07.982264",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.07.982264.pdf"
+    },
+    "abstract": "2 SARS-CoV-2, a novel coronavirus (CoV), has recently emerged causing an ongoing outbreak of 3 viral pneumonia around the world. While genetically distinct from the original SARS-CoV, both 4 group 2B CoVs share similar genome organization and origins to coronaviruses harbored in 5 bats. Importantly, initial guidance has used insights from SARS-CoV infection to inform 6 treatment and public health strategies. In this report, we evaluate type-I Interferon (IFN-I) 7 sensitivity of SARS-CoV-2 relative to the original SARS-CoV. Our results indicate that while 8 SARS-CoV-2 maintains similar viral replication kinetics to SARS-CoV in Vero cell, the novel 9 CoV is much more sensitive to IFN-I pretreatment. Examining transcriptional factor activation and interferon stimulated gene (ISG) induction, SARS-CoV-2 in the context of type I IFN induces phosphorylation of STAT1 and increased ISG proteins. In contrast, the original SARS12 CoV has no evidence for STAT1 phosphorylation or ISG protein increases even in the presence 13 of type I IFN pretreatment. Next, we examined IFN competent Calu3 2B4 cells finding SARS14 CoV-2 had reduced viral replication relative to SARS-CoV and induced STAT1 phosphorylation late during infection. Finally, we examined homology between SARS-CoV and SARS-CoV-2 in viral proteins shown to be interferon antagonist. The absence of open reading frame (ORF) 3b and significant changes to ORF6 suggest the two key IFN antagonists may not maintain equivalent function in SARS-CoV-2. Together, the results identify key differences in susceptibility to the IFN-I response between SARS-CoV and SARS-CoV-2. that could help inform disease progression, treatment options, and animal model development. Importance With the ongoing outbreak of COVID-19 disease, differences between the SARS-CoV-2 and the original SARS-CoV could be leveraged to inform disease progression and eventual treatment options. In addition, these findings could have key implications for animal model development as well as further research into how SARS-CoV-2 modulates the type I IFN response early during infection.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIA and NIAID of the NIH",
+                    "award-id": [
+                        "U19AI100625",
+                        "R00AG049092 to VDM",
+                        "R24AI120942 to WRCEVA",
+                        "R01AI134907 to RR",
+                        "and T32 AI060549 to AH"
+                    ]
+                }
+            ],
+            "funding-statement": "Research was supported by grants from NIA and NIAID of the NIH (U19AI100625 and R00AG049092 to VDM; R24AI120942 to WRCEVA; R01AI134907 to RR; and T32 AI060549 to AH)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "STARs Award"
+                },
+                {
+                    "funding-source": "University of Texas System"
+                },
+                {
+                    "funding-source": "McLaughlin Fellowship  Fund"
+                }
+            ],
+            "funding-statement": "Research was also supported by STARs Award provided by the University of Texas System to VDM and trainee funding provided by the McLaughlin Fellowship  Fund at UTMB"
+        }
+    ]
+}

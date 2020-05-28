@@ -1,0 +1,16 @@
+{
+    "abstract": "Objective: Societal responses to the COVID-19 pandemic have had a substantial effect upon the number of patients seeking healthcare. An initial step in estimating the impact of these changes is characterizing the patients, visits, and diagnoses for whom care is being delayed or deferred. Methods: We conducted an observational study, examining demographics and diagnoses for all patient visits to the ED of an urban Level-1 trauma center before and after the state declaration and compared them to visits from a similar period in 2019. We estimated the ratios of the before and after periods using Poisson regression, calculated the percent change with respect to 2019 for total ED visits, patient characteristics, and diagnoses, and then evaluated the interactions between each factor and the overall change in ED visits. Results: There was a significant 35.2% drop in overall ED visits after the state declaration. Disproportionate declines were seen in visits by pediatric and older patients, women, and Medicare recipients as well as for presentations of syncope, cerebrovascular accidents, urolithiasis, abdominal and back pain. Significantly disproportionate increases were seen in ED visits for potential symptoms of COVID-19, including URIs, shortness of breath, and chest pain. Conclusions: Patient concerns about health care settings and public health have significantly altered care-seeking during the COVID-19 pandemic. Overall and differential declines in ED visits for certain demographic groups and disease processes should prompt efforts to encourage care-seeking and research to monitor for the morbidity and mortality that is likely to result from delayed or deferred care.",
+    "author": "Matthew W Morgan; Lauren O Erickson; Bjorn C Westgard; Michael D. Zwank; Gabriela Vazquez-Benitez",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20090795",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20090795"
+    },
+    "title": "Characteristics of patients presenting, and not presenting, to the emergency department during the early days of COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This study was not funded by any outside insitution"
+        }
+    ]
+}

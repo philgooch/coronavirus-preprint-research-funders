@@ -1,0 +1,54 @@
+{
+    "title": "Broad-spectrum antiviral activity of naproxen: from Influenza A to SARS-CoV-2 Coronavirus",
+    "date": 2020,
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.30.069922",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.30.069922.pdf"
+    },
+    "abstract": "There is an urgent need for specific antiviral drugs directed against SARS-CoV-2 both to prevent the most severe forms of COVID-19 and to reduce viral excretion and subsequent virus dissemination; in the present pandemic context, drug repurposing is a priority. Targeting the nucleoprotein N of the SARS-CoV-2 coronavirus in order to inhibit its association with viral RNA could be a strategy to impeding viral replication and possibly other essential functions associated with viral N. The antiviral properties of naproxen, belonging to the NSAID family, previously demonstrated against Influenza A virus, were evaluated against SARS-CoV-2. Naproxen binding to the nucleoprotein of SARS-CoV2 was shown by molecular modeling. In VeroE6 cells and reconstituted human primary respiratory epithelium models of SARS-CoV-2 infection, naproxen inhibited viral replication and protected the bronchial epithelia against SARS-CoV-2 induceddamage. The benefit of naproxen addition to the standard of care is tested in an on-going clinical study. Keywords: Antiviral, drug repurposing, SARS-CoV-2, Influenza, structure-based drug design, inflammation, nucleoprotein.",
+    "keywords": [
+        "Antiviral",
+        "drug repurposing",
+        "SARS-CoV-2",
+        "Influenza",
+        "structure-based drug design",
+        "inflammation",
+        "nucleoprotein"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "This Consortium"
+                },
+                {
+                    "funding-source": "Sorbonne University for"
+                },
+                {
+                    "funding-source": "Flash COVID"
+                },
+                {
+                    "funding-source": "Medicine Faculty"
+                }
+            ],
+            "funding-statement": "Ackowledgments: Funding: This Consortium is grateful to Sorbonne University for granting our project CovNucleovir on a Flash COVID funding of the Medicine Faculty"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "INSERM REACTing"
+                },
+                {
+                    "funding-source": "REsearch & ACtion"
+                },
+                {
+                    "funding-source": "TO and MRC, VirPath"
+                }
+            ],
+            "funding-statement": "Part of this work was funded by INSERM REACTing (REsearch & ACtion emergING infectious diseases), CNRS, and M\u00e9rieux research grants (TO and MRC, VirPath team)"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "A population can be immune to epidemics even if not all of its individual members are immune to the disease, just as long as sufficiently many are immune - this is the traditional notion of herd immunity. In the smartphone era a population can be immune to epidemics even if not a single one of its members is immune to the disease - a notion we propose to call \"digital herd immunity\", which is similarly an emergent characteristic of the population. This immunity arises because contact-tracing protocols based on smartphone capabilities can lead to highly efficient quarantining of infected population members and thus the extinguishing of nascent epidemics. When the disease characteristics are favorable and smartphone usage is high enough, the population is in this immune phase. As usage decreases there is a novel \"contact tracing\" phase transition to an epidemic phase. We present and study a simple branching-process model for COVID-19 and show that digital immunity is possible regardless of the proportion of non-symptomatic transmission. We believe this is a promising strategy for dealing with COVID-19 in many countries such as India, whose challenges of scale motivated us to undertake this study in the first place and whose case we discuss briefly.",
+    "author": "Sanjay Moudgalya; Vir Bannerjee Bulchandani; Saumya Shivam; S L Sondhi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20066720",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20066720"
+    },
+    "title": "Digital Herd Immunity and COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

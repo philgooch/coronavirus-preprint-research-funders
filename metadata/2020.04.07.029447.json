@@ -1,0 +1,51 @@
+{
+    "title": "Role of RNA Guanine Quadruplexes in Favoring the Dimerization of SARS Unique Domain in Coronaviruses",
+    "keywords": [
+        "SARS",
+        "COVID-19",
+        "coronaviruses",
+        "protein-RNA interactions",
+        "molecular dynamics simulations",
+        "free energy profiles"
+    ],
+    "author": "Antonio Monari",
+    "date": 2020,
+    "affiliations": [
+        "Universit\u00e9 de Lorraine and CNRS, LPCT UMR 7019, F-54000 Nancy, France",
+        "Department of Biological, Chemical and Pharmaceutical Sciences and Technologies, Universit\u00e0 degli Studi di Palermo, Viale delle Scienze, 90128 Palermo, Italy",
+        "Department of Analytical Chemistry, Physical Chemistry and Chemical Engineering, Universidad de Alcal\u00e1, Ctra. Madrid-Barcelona, Km 33,600, 28871 Alcal\u00e1 de Henares, Madrid, Spain",
+        "Chemical Research Institute \u201cAndr\u00e9s M. del R\u00edo\u201d (IQAR), Universidad de Alcal\u00e1, 28871 Alcal\u00e1 de Henares, Madrid, Spain",
+        "Departament de Qu\u00edmica F\u00edsica, Universitat de Val\u00e8ncia, 46100 Burjassot, Spain",
+        "Universit\u00e9 de Lorraine and CNRS, CRAN UMR 7039, F-54000 Nancy, France. Corresponding Author:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.07.029447",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.029447.pdf"
+    },
+    "abstract": "Coronaviruses may produce severe acute respiratory syndrome (SARS). As a matter of fact, a new SARS-type virus, SARS-CoV-2, is responsible of a global pandemic in 2020 with unprecedented sanitary and economic consequences for most countries. In the present contribution we study, by all-atom equilibrium and enhanced sampling molecular dynamics simulations, the interaction between the SARS Unique Domain and RNA guanine quadruplexes, a process involved in eluding the defensive response of the host thus favoring viral infection of human cells. The results obtained evidence two stable binding modes with guanine quadruplexes, driven either by electrostatic (dimeric mode) or by dispersion (monomeric mode) interactions, are proposed being the dimeric mode the preferred one, according to the analysis of the corresponding free energy surfaces. The effect of these binding modes in stabilizing the protein dimer was also assessed, being related to its biological role in assisting SARS viruses to bypass the host protective response. This work also constitutes a first step of the possible rational design of efficient therapeutic agents aiming at perturbing the interaction between SARS Unique Domain and guanine quadruplexes, hence enhancing the host defenses against the virus. TOC GRAPHICS",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Palermo for"
+                },
+                {
+                    "funding-source": "Generalitat Valenciana and the European Social Fund for",
+                    "award-id": [
+                        "APOSTD/2019/149"
+                    ]
+                },
+                {
+                    "funding-source": "Ministerio de Ciencia",
+                    "award-id": [
+                        "CTQ2017-87054-C2-2-P"
+                    ]
+                }
+            ],
+            "funding-statement": "T.M. thanks University of Palermo for funding a joint Ph.D. program A.F.-M. is grateful to Generalitat Valenciana and the European Social Fund for a postdoctoral contract (APOSTD/2019/149) and the Ministerio de Ciencia e Innovaci\u00f3n (project (CTQ2017-87054-C2-2-P) for financial support"
+        }
+    ]
+}

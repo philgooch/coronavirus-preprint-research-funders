@@ -1,0 +1,29 @@
+{
+    "title": "Accurate Identification of SARS-CoV-2 from Viral Genome Sequences using Deep Learning",
+    "keywords": [
+        "convolutional neural networks",
+        "coronavirus",
+        "deep learning",
+        "SARS-CoV-2"
+    ],
+    "author": "Alejandro Lopez-Rincon*1, Alberto Tonda2, Lucero Mendoza-Maldonado3, Eric Claassen5, Johan Garssen1,4 and Aletta D. Kraneveld1 ;",
+    "date": 2020,
+    "affiliations": [
+        "Division of Pharmacology, Utrecht Institute for Pharmaceutical Sciences, Faculty of Science, Utrecht University, Universiteitsweg 99, 3584 CG Utrecht, the Netherlands",
+        "INRAe UMR 518 MIA-Paris, c/o 113 rue Nationale, 75103, Paris, France",
+        "Centro Universitario de Ciencias de la Salud, Universidad de Guadalajara, Sierra Mojada No. 950, Col. Independencia C.P. 44348 Guadalajara, Jalisco, Mexico",
+        "Department Immunology, Danone Nutricia research, Uppsalalaan 12, 3584 CT Utrecht, the Netherlands",
+        "Athena Institute, Vrije Universiteit, De Boelelaan 1085, 1081 HV Amsterdam, the Netherlands"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.13.990242",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.13.990242.pdf"
+    },
+    "abstract": "One of the reasons for the fast spread of SARS-CoV-2 is the lack of accuracy in detection tools in the clinical field. Molecular techniques, such as quantitative real-time RT-PCR and nucleic acid sequencing methods, are widely used to identify pathogens. For this particular virus, however, they have an overall unsatisfying detection rate, due to its relatively recent emergence and still not completely understood features. In addition, SARS-CoV-2 is remarkably similar to other Coronaviruses, and it can present with other respiratory infections, making identification even harder. To tackle this issue, we propose an assisted detection test, combining molecular testing with deep learning. The proposed approach employs a state-of-the-art deep convolutional neural network, able to automatically create features starting from the genome sequence of the virus. Experiments on data from the Novel Coronavirus Resource (2019nCoVR) show that the proposed approach is able to correctly classify SARS-CoV-2, distinguishing it from other coronavirus strains, such as MERS-CoV, HCoV-NL63, HCoV-OC43, HCoV-229E, HCoV-HKU1, and SARS-CoV regardless of missing information and errors in sequencing (noise). From a dataset of 553 complete genome non-repeated sequences that vary from 1,260 to 31,029 bps in length, the proposed approach classifies the different coronaviruses with an average ac-",
+    "funding": [
+        {}
+    ]
+}

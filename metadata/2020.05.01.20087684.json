@@ -1,0 +1,23 @@
+{
+    "abstract": "Diagnostic testing and evaluation of patient immunity against the novel severe acute respiratory syndrome (SARS) corona virus that emerged last year (SARS-CoV-2) are essential for health and economic crisis recovery of the world. It is suggested that potential acquired immunity against SARS-CoV-2 from prior exposure may be determined by detecting the presence of circulating IgG antibodies against viral antigens, such as the spike glycoprotein and its receptor binding domain (RBD). Testing our asymptomatic population for evidence of COVID-19 immunity would also offer valuable epidemiologic data to aid health care policies and health care management. Currently, there are over 100 antibody tests that are being used around the world without approval from the FDA or similar regulatory bodies, and they are mostly for rapid and qualitative assessment, with different degrees of error rates. ELISA-based testing for sensitive and rigorous quantitative assessment of SARS-CoV-2 antibodies can potentially offer mechanistic insights into the COVID-19 disease and aid communities uniquely challenged by limited financial resources and access to commercial testing products. Employing recombinant SARS-CoV-2 RBD and spike protein generated in the laboratory, we devised a quantitative ELISA for the detection of circulating serum antibodies. Serum from twenty SARS-CoV-2 RT-PCR confirmed COVID-19 hospitalized patients were used to detect circulating IgG titers against SARS-CoV-2 spike protein and RBD. Quantitative detection of IgG antibodies to the spike glycoprotein or the RBD in patient samples was not always associated with faster recovery, compared to patients with borderline antibody response to the RBD. One patient who did not develop antibodies to the RBD completely recovered from COVID-19. In surveying 99 healthy donor samples (procured between 2017-February 2020), we detected RBD antibodies in one donor from February 2020 collection with three others exhibiting antibodies to the spike protein but not the RBD. Collectively, our study suggests that more rigorous and quantitative analysis, employing large scale sample sets, is required to determine whether antibodies to SARS-CoV-2 spike protein or RBD is associated with protection from COVID-19 disease. It is also conceivable that humoral response to SARS-CoV-2 spike protein or RBD works in association with adaptive T cell response to determine clinical sequela and severity of COVID-19 disease.",
+    "affiliations": [
+        "MD Anderson Cancer Center to Dr. Kalluri"
+    ],
+    "author": "Janine Hensel; Luis L Ostrosky-Zeichner; Raghu Kalluri; Dara P Dowlatshahi; Kathleen M McAndrews; Valerie S LeBleu; Ramesh Papanna",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087684",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087684"
+    },
+    "title": "Identification of IgG antibody response to SARS-CoV-2 spike protein and its receptor binding domain does not predict rapid recovery from COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "MD Anderson Cancer Center"
+                }
+            ],
+            "funding-statement": "This work was primarily supported by funds from MD Anderson Cancer Center to Dr Kalluri"
+        }
+    ]
+}

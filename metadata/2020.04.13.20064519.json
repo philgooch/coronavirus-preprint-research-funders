@@ -1,0 +1,16 @@
+{
+    "abstract": "We apply a model developed by The COVID-19 Response Team [S. Flaxman, S. Mishra, A. Gandy, et al., ''Estimating the number of infections and the impact of non- pharmaceutical interventions on COVID-19 in 11 European countries,'' tech. rep., Imperial College London, 2020.] to estimate the total number of SARS-CoV-2 infections in the United States. Across the United States we estimate as of April 18, 2020 the fraction of the population infected was 4.6% [3.6%, 5.8%], 21 times the portion of the population with a positive test result. Excluding New York state, which we estimate accounts for over half of infections in the United States, we estimate an infection rate of 2.3% [2.1%, 2.8%]. We include the timing of each state's implementation of interventions including encouraging social distancing, closing schools, banning public events, and a lockdown / stay-at-home order. We assume fatalities are reported correctly and infer the number and timing of infections based on the infection fatality rate measured in populations that were tested universally for SARS-CoV-2. Underreporting of deaths would drive our estimates to be too low. Reporting of deaths on the wrong day could drive errors in either direction. This model does not include effects of herd immunity; in states where the estimated infection rate is very high - namely, New York - our estimates may be too high.",
+    "author": "Dayton G Thorpe; Kelsey Lyberger",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20064519",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20064519"
+    },
+    "title": "Estimating the number of SARS-CoV-2 infections in the United States",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "We received no external funding for this work."
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Development and validation of an automated radiomic CT signature for detecting COVID-19",
+    "author": "GUIOT J.1, VAIDYANATHAN A.2, DEPREZ L.3, ZERKA F.2, DANTHINE L.3, FRIX A.N.1, THYS M.6, HENKET. M.1, CANIVET G.7, MATHIEU S.7, EFTAXIA E.3, LAMBIN P.4, TSOUTZIDIS N.2, MIRAGLIO B.2, WALSH S.2, MOUTSCHEN M.5, LOUIS R.1, MEUNIER P.3, VOS W.2, LEIJENAAR R.T.H.2,\u2021 & LOVINFOSSE P.8",
+    "date": 2020,
+    "affiliations": [
+        "Department of Pneumology, University Hospital of Li\u00e8ge, Li\u00e8ge, Belgium",
+        "Oncoradiomics SA, Li\u00e8ge, Belgium",
+        "Department of Radiology, University Hospital of Li\u00e8ge, Li\u00e8ge, Belgium",
+        "The D-Lab, Department of Precision Medicine, Department of Nuclear Medicine",
+        "\u2013School for Oncology, Maastricht University, Maastricht, The Netherlands",
+        "Department of Infectious Diseases, University Hospital of Li\u00e8ge, Li\u00e8ge, Belgium",
+        "Department of Medico-economic Information, University Hospital of Li\u00e8ge, Li\u00e8ge",
+        "Department of Computer Applications, University Hospital of Li\u00e8ge, Li\u00e8ge",
+        "Department of Nuclear Medicine and Oncological Imaging, University Hospital of"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.28.20082966",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20082966.pdf"
+    },
+    "abstract": "Background The coronavirus disease 2019 (COVID-19) outbreak has reached pandemic status. Drastic measures of social distancing are enforced in society and healthcare systems are being pushed to and over their limits.\nObjectives To develop a fully automatic framework to detect COVID-19 by applying AI to chest CT and evaluate validation performance.\nMethods In this retrospective multi-site study, a fully automated AI framework was developed to extract radiomics features from volumetric chest CT exams to learn the detection pattern of COVID-19 patients. We analysed the data from 181 RT-PCR confirmed COVID-19 patients as well as 1200 other non-COVID-19 control patients to build and assess the performance of the model. The datasets were collected from 2 different hospital sites of the CHU Li\u00e8ge, Belgium. Diagnostic performance was assessed by the area under the receiver operating characteristic curve (AUC), sensitivity and specificity.",
+    "keywords": [
+        "COVID-19",
+        "pandemic",
+        "coronavirus",
+        "radiomics",
+        "chest CT",
+        "deep learning",
+        "machine learning",
+        "diagnosis",
+        "lung disease"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Interreg V-A Euregio Meuse-Rhine",
+                    "award-id": [
+                        "Euradiomics project"
+                    ]
+                },
+                {
+                    "funding-source": "European Marie Curie",
+                    "award-id": [
+                        "PREDICT - ITN - n\u00b0 766276"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors acknowledge financial support from Interreg V-A Euregio Meuse-Rhine (Euradiomics project), an ERC advanced grant (ERC-ADG-2015, n\u00b0 694812 Hypoximmuno) and a European Marie Curie grant (PREDICT - ITN - n\u00b0 766276) for the execution of this work"
+        }
+    ]
+}

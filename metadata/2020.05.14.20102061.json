@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 antibody tests have imperfect accuracy. There has been lack of clarity on the meaning of reported rates of false positives and false negatives. For risk assessment and clinical decision making, the rates of interest are the positive and negative predictive values of a test. Positive predictive value (PPV) is the chance that a person who tests positive has been infected. Negative predictive value (NPV) is the chance that someone who tests negative has not been infected. The medical literature regularly reports different statistics, sensitivity and specificity. Sensitivity is the chance that an infected person receives a positive test result. Specificity is the chance that a non-infected person receives a negative result. Knowledge of sensitivity and specificity permits one to predict the test result given a person's true infection status. These predictions are not directly relevant to risk assessment or clinical decisions, where one knows a test result and wants to predict whether a person has been infected. Given estimates of sensitivity and specificity, PPV and NPV can be derived if one knows the prevalence of the disease, the rate of illness in the population. There is considerable uncertainty about the prevalence of COVID-19. This paper addresses the problem of inference on the PPV and NPV of COVID-19 antibody tests given estimates of sensitivity and specificity and credible bounds on prevalence. I explain the methodological problem, show how to estimate bounds on PPV and NPV, and apply the findings to some tests authorized by the FDA.",
+    "author": "Charles F. Manski",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20102061",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20102061"
+    },
+    "title": "Bounding the Predictive Values of COVID-19 Antibody Tests",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

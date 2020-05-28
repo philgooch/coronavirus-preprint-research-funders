@@ -1,0 +1,35 @@
+{
+    "title": "Single-cell atlas of a non-human primate reveals new pathogenic mechanisms of COVID-19",
+    "author": "Lei Han, Xiaoyu Wei, Chuanyu Liu, Giacomo Volpe, Zhifeng Wang",
+    "date": 2020,
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.10.022103",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.10.022103.pdf"
+    },
+    "abstract": "50 51 Stopping COVID-19 is a priority worldwide. Understanding which cell types are targeted by SARS-CoV-2 virus, whether interspecies differences exist, and how variations in cell state influence viral entry is fundamental for accelerating therapeutic and preventative approaches. In this endeavor, we profiled the transcriptome of nine tissues from a Macaca fascicularis monkey at single-cell resolution. The distribution of SARS-CoV-2 facilitators, ACE2 and TMRPSS2, in different cell subtypes showed substantial heterogeneity across lung, kidney, and liver. Through co-expression analysis, we identified immunomodulatory proteins such as IDO2 and ANPEP as potential SARS-CoV-2 targets responsible for immune cell exhaustion. Furthermore, single-cell chromatin accessibility analysis of the kidney unveiled a plausible link between IL6-mediated innate immune responses aiming to protect tissue and enhanced ACE2 expression that could promote viral entry. Our work constitutes a unique resource for understanding the physiology and pathophysiology of two phylogenetically close species, which might guide in the development of therapeutic approaches in humans.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science"
+                }
+            ],
+            "funding-statement": "This work was supported by National Natural Science"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chinese Academy of Sciences President's"
+                }
+            ],
+            "funding-statement": "G.V. is supported by Chinese Academy of Sciences President's"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "C.W. is supported by Chinese"
+        }
+    ]
+}

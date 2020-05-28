@@ -1,0 +1,20 @@
+{
+    "abstract": "Background Adoptive therapy with SARS-CoV-2 specific T cells for COVID-19 has not been reported. The feasibility of rapid clinical-grade manufacturing of virus-specific T cells from convalescent donors has not been demonstrated for this or prior pandemics. Methods One unit of whole blood was collected from each convalescent donor following standard blood bank practices. After the plasma was separated and stored separately, the leukocytes were stimulated using overlapping peptides of SARS-CoV-2, covering the immunodominant sequence domains of the S protein and the complete sequence of the N and M proteins. Thereafter, functionally reactive cells were enriched overnight using an automated device capturing IFN\u03b3-secreting cells. Findings From 1x10[9] leukocytes, 0.56 to 1.16x10[6] IFN\u03b3+ T cells were produced from each of the first two donors. Most of the T cells (64% to 71%) were IFN\u03b3+, with preferential enrichment of CD56+ T cells, effector memory T cells, and effector memory RA+ T cells. TCRV\u03b2 spectratyping revealed oligoclonal distribution, with over-representation of subfamilies including V\u03b23, V\u03b216 and V\u03b217. With just two donors, the probability that a recipient in the same ethnic group would share at least one donor HLA allele or one haplotype could be as high as >90% and >30%, respectively. Interpretations This study is limited by small number of donors and absence of recipient data; however, crucial first proof-of-principle data are provided demonstrating the feasibility of clinical-grade production of SARS-CoV-2 specific T cells for urgent clinical use, conceivably with plasma therapy concurrently. Our data showing that virus-specific T cells can be detected easily after brief stimulation with SARS-CoV-2 specific peptides suggest that a parallel diagnostic assay can be developed alongside serology testing.",
+    "author": "Jenny Guek-Hong Low; Liang Piu Koh; King Pan Ng; Marieta Chan; Wing Leung; Thuan Tong Tan; Yeh Ching Linn; Wee Joo Chng; Michelle Li-Mei Poon; Chik Hong Kuick; Lip Kun Tan; Michaela Su-fern Seng; Jiashen Loh; Teck Guan Soh",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20077487",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20077487"
+    },
+    "title": "SUCCESSFUL MANUFACTURING OF CLINICAL-GRADE SARS-CoV-2 SPECIFIC T CELLS FOR ADOPTIVE CELL THERAPY",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "SingHealth Duke-NUS Academic Medicine COVID-19 Rapid Response Research Grant"
+                }
+            ],
+            "funding-statement": "The study was funded by a SingHealth Duke-NUS Academic Medicine COVID-19 Rapid Response Research Grant"
+        }
+    ]
+}

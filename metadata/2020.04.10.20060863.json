@@ -1,0 +1,23 @@
+{
+    "abstract": "The basic reproduction number is the average number of people to whom an infected person transmits the infection when virtually all individuals in a population are susceptible. We sought to calculate the current reproduction number for COVID-19 for each state in the United States. For the entire United States, the reproduction number declined from 4.02 to 1.51 between March 17 and April 1, 2020. We also found that the reproduction number for COVID-19 has declined in most states over the past two weeks which suggests that social isolation measures may be having a beneficial effect.",
+    "affiliations": [
+        "National Institutes of Health"
+    ],
+    "author": "Douglas Gunzler; Ashwini R Sehgal",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20060863",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20060863"
+    },
+    "title": "Time-Varying COVID-19 Reproduction Number in the United States",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health"
+                }
+            ],
+            "funding-statement": "This study was supported in part by grants UL1 TR002548 and U54 MD002265 from the National Institutes of Health"
+        }
+    ]
+}

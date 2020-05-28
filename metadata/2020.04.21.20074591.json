@@ -1,0 +1,16 @@
+{
+    "abstract": "As of April 18, 2020, 2.16 million patients in the world had been tested positive with Coronavirus (COVID-19) and 146,088 had died, which accounts for a case fatality rate of 6.76%. In Mexico, according to official statistics (April 18), 7,497 cases have been confirmed with 650 deaths, for a case fatality rate of 8.67%. These estimates, however, may not reflect the final fatality risk among COVID-19 confirmed patients, because they are based on cross-sectional counts of diagnosed and deceased patients, and therefore are not adjusted by time of exposure and right-censorship. In this paper we estimate fatality risks based on survival analysis methods, calculated from individual-level data on symptomatic patients confirmed with COVID-19 recently released by the Mexican Ministry of Health. The estimated fatality risk after 35 days of onset of symptoms is 12.38% (95% CI: 11.37-13.47). Fatality risks sharply rise with age, and significantly increase for males (59%) and individuals with comorbidities (38%-168%, depending on the disease). Two reasons may explain the high COVID-19 related fatality risk observed in Mexico, despite its younger age structure: the high selectivity and self-selectivity in testing and the high prevalence of chronic-degenerative diseases.",
+    "author": "Patricio Sol\u00eds; Hiram Carre\u0148o",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20074591",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20074591"
+    },
+    "title": "COVID-19 Fatality and Comorbidity Risk Factors among Confirmed Patients in Mexico",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

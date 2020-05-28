@@ -1,0 +1,16 @@
+{
+    "abstract": "When calculated from aggregate data on confirmed cases and deaths, the case-fatality risk (CFR) is a simple ratio between the former and the latter, which is prone to numerous biases. With individual-level data, the CFR can be estimated as a true measure of risk as the proportion of incidence for the disease. We present the first estimates of the CFR for COVID-19 by age and sex based on event history modelling of the risk of dying among confirmed positive individuals in the Canadian province of Ontario, which maintains one of the few individual-level datasets on COVID-19 in the world.\nCompeting Interest Statement",
+    "author": "Simona Bignami; Daniela Ghio; Ari Van Assche",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067751",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067751"
+    },
+    "title": "Estimates of COVID-19 case-fatality risk from individual-level data",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

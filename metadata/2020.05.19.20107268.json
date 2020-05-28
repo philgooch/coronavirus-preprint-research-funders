@@ -1,0 +1,33 @@
+{
+    "abstract": "To mitigate the COVID-19 pandemic, much emphasis exists on implementing non-pharmaceutical interventions to keep the reproduction number below one. But using that objective ignores that some of these interventions, like bans of public events or lockdowns, must be transitory and as short as possible because of their significative economic and societal costs. Here we derive a simple and mathematically rigorous criterion for designing optimal transitory non-pharmaceutical interventions. We find that reducing the reproduction number below one is sufficient but not necessary. Instead, our criterion prescribes the required reduction in the reproduction number according to the maximum health services' capacity. To explore the implications of our theoretical results, we study the non-pharmaceutical interventions implemented in 16 cities during the COVID-19 pandemic. In particular, we estimate the minimal reduction of the contact rate in each city that is necessary to control the epidemic optimally. We also compare the optimal start of the intervention with the start of the actual interventions applied in each city. Our results contribute to establishing a rigorous methodology to guide the design of non- pharmaceutical intervention policies.",
+    "author": "Fernando Casta\u00f1os; Marco Tulio Angulo; Jorge X. Velasco-Hernandez; Jaime A. Moreno",
+    "date": 2020,
+    "doi": "10.1101/2020.05.19.20107268",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.19.20107268"
+    },
+    "title": "A simple criterion to design optimal nonpharmaceutical interventions for epidemic outbreaks",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "CONACyT project",
+                    "award-id": [
+                        "A1-S-13909"
+                    ]
+                }
+            ],
+            "funding-statement": "M.T.A. gratefully acknowledges the financial support from CONACyT project A1-S-13909, M\u00e9xico"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "IN115720"
+                    ]
+                }
+            ],
+            "funding-statement": "X.V.H. acknowledges the financial support from UNAM IN115720"
+        }
+    ]
+}

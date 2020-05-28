@@ -1,0 +1,43 @@
+{
+    "abstract": "COVID-19 epidemic doubling time by Chinese province was increasing from January 20 through February 9, 2020. The harmonic mean of the arithmetic mean doubling time estimates ranged from 1.4 (Hunan, 95% CI, 1.2-2.0) to 3.1 (Xinjiang, 95% CI, 2.1-4.8), with an estimate of 2.5 days (95% CI, 2.4-2.6) for Hubei.\nCompeting Interest Statement\nThe authors have declared no competing interest.",
+    "affiliations": [
+        "National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention (19IPA1908208). This article is not part of ICHF\u0092s CDC-sponsored projects"
+    ],
+    "author": "Po-Ying Lai; Chi-Hin Cheung; Kimberlyn M. Roosa; Lone Simonsen; Yiseul Lee; Kamalich Muniz-Rodriguez; Manyun Liu; Isaac Chun-Hai Fung; Gerardo Chowell; Sylvia K. Ofori; Cecile G. Viboud; Dongyu Jia",
+    "date": 2020,
+    "doi": "10.1101/2020.02.05.20020750",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.05.20020750"
+    },
+    "title": "Doubling Time of the COVID-19 Epidemic by Chinese Province",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "1414374"
+                    ]
+                },
+                {
+                    "funding-source": "NSF-NIH-USDA Ecology and Evolution of Infectious Diseases"
+                }
+            ],
+            "funding-statement": "GC acknowledges support from NSF grant 1414374 as part of the joint NSF-NIH-USDA Ecology and Evolution of Infectious Diseases program"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Center for Emerging and Zoonotic Infectious Diseases, Centers"
+                },
+                {
+                    "funding-source": "Disease Control and Prevention",
+                    "award-id": [
+                        "19IPA1908208"
+                    ]
+                }
+            ],
+            "funding-statement": "ICHF acknowledges salary support from the National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention (19IPA1908208)"
+        }
+    ]
+}

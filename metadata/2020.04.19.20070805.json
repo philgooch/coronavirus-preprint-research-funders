@@ -1,0 +1,57 @@
+{
+    "abstract": "Background: Several SARS-CoV-2 vaccine candidates are currently in the pipeline. This study aims to inform SARS-CoV-2 vaccine development, licensure, decision-making, and implementation by determining key preferred vaccine product characteristics and associated population-level impact. Methods: Vaccination impact was assessed at various efficacies using an age-structured mathematical model describing SARS-CoV-2 transmission and disease progression, with application for China. Results: A prophylactic vaccine with efficacy against acquisition (VEs) of \u226570% is needed to eliminate this infection. A vaccine with VEs <70% will still have a major impact, and may control the infection if it reduces infectiousness or infection duration among those vaccinated who acquire the infection, or alternatively if supplemented with a moderate social-distancing intervention (<20% reduction in contact rate), or complemented with herd immunity. Vaccination is cost-effective. For a vaccine with VEs of 50%, number of vaccinations needed to avert one infection is only 2.4, one severe disease case is 25.5, one critical disease case is 33.2, and one death is 65.1. Gains in effectiveness are achieved by initially prioritizing those \u226560 years. Probability of a major outbreak is virtually zero with a vaccine with VEs \u226570%, regardless of number of virus introductions. Yet, an increase in social contact rate among those vaccinated (behavior compensation) can undermine vaccine impact. Conclusions: Even a partially-efficacious vaccine can offer a fundamental solution to control SARS-CoV-2 infection and at high cost-effectiveness. In addition to the primary endpoint on infection acquisition, developers should assess natural history and disease progression outcomes and/or proxy biomarkers, since such secondary endpoints may prove critical in licensure, decision-making, and vaccine impact.\nCompeting Interest Statement",
+    "affiliations": [
+        "Qatar National Research Fund (a member of Qatar Foundation). The authors are also grateful for support provided by the Biomedical Research Program and the Biostatistics, Epidemiology, and Biomathematics Research Core, both at Weill Cornell Medicine-Qatar. GM acknowledges support by UK Research and Innovation as part of the Global Challenges Research Fund, grant number ES/P010873/1. The statements made herein are solely the responsibility of the authors"
+    ],
+    "author": "Monia Makhoul; Hiam Chemaitelly; Shaheen Seedat; Laith J Abu-Raddad; Sarah Al-Omari; Ghina R Mumtaz; Houssein H Ayoub",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20070805",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20070805"
+    },
+    "title": "Epidemiological impact of SARS-CoV-2 vaccination: mathematical modeling analyses",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Qatar National Research Fund",
+                    "award-id": [
+                        "a member of Qatar Foundation"
+                    ]
+                },
+                {
+                    "funding-source": "Qatar Foundation)"
+                }
+            ],
+            "funding-statement": "This publication was made possible by NPRP grant number 9-040-3-008 and NPRP grant number 12S-0216-190094 from the Qatar National Research Fund (a member of Qatar Foundation)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Biomedical Research Program and the Biostatistics, Epidemiology"
+                },
+                {
+                    "funding-source": "Biomathematics Research Core,"
+                },
+                {
+                    "funding-source": "Weill Cornell Medicine-Qatar"
+                }
+            ],
+            "funding-statement": "The authors are also grateful for support provided by the Biomedical Research Program and the Biostatistics, Epidemiology, and Biomathematics Research Core, both at Weill Cornell Medicine-Qatar"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Research and Innovation"
+                },
+                {
+                    "funding-source": "Global Challenges Research Fund,",
+                    "award-id": [
+                        "ES/P010873/1"
+                    ]
+                }
+            ],
+            "funding-statement": "GM acknowledges support by UK Research and Innovation as part of the Global Challenges Research Fund, grant number ES/P010873/1"
+        }
+    ]
+}

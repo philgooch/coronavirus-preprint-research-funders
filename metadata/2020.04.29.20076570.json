@@ -1,0 +1,16 @@
+{
+    "abstract": "Tocilizumab is used for treating moderate-severe Covid-19 pneumonia by targeting IL-6 receptors (IL-6R) and reducing cytokine release, but the pooled rate ratio among diabetic patients with adverse vs those with the more favorable course was 2.26. To date, the hyperglycemia has been shown to increase IL-6 and IL-6R, which has been suggested as a severity predictor in lung diseases of Covid-19 patients. However, there are no data about the effects of tocilizumab therapy on outcomes of hyperglycemic Covid-19 patients with pneumonia. To investigate this unsolved need, 475 Covid-19 positive patients were retrospectively studied since March 1st, 2020. Among them, 78 patients with pneumonia disease and treated with tocilizumab were further evaluated for a severe outcome (encompassing both the use of mechanical ventilation and/or death). Thirty-one (39.7%) hyperglycemic and 47 (60.3%) normoglycemic Covid-19 positive patients (blood glucose levels >140 mg/dl, at admission and/or during hospital stay) were evaluated. Noteworthy, 20 (64%) of hyperglycemic and 11 (23.4%) of normoglycemic patients were also diabetics (P<0.01). At admission, more elevated IL-6 levels in hyperglycemic patients were found and persists even after Tocilizumab administration. In a risk adjusted Cox-regression analysis, Tocilizumab in hyperglycemic did not attenuate the risks of severe outcome as did in normoglycemic patients (p<0.009). Therefore, we could conclude that reduced effects of Tocilizumab in hyperglycemic patients may due to the higher plasma IL-6 levels. Interestingly, when we added IL-6 levels in a Cox regression model the significance for the tocilizumab effect was lost (p<0.07). In this context, our observations evidence that optimal Covid-19 infection management with tocilizumab is not achieved during hyperglycemia both in diabetic and non-diabetic patients.",
+    "author": "Michelangela Barbieri; Nicola Coppola; Carmine Pizzi; Raffaele Marfella; Emanuela Concetta D' Angelo; Vincenzo Messina; Pasquale Paolisso; Pier Luigi Viale; Luca Bergamaschi; Maria Rosaria Rizzo; Maurizio Biffi; Nazzareno Galie; Paolo Maggi; Celestino Sardu; Giuseppe Paolisso",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20076570",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20076570"
+    },
+    "title": "Negative impact of hyperglycemia on Tocilizumab therapy in COVID-19 patients",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None to declare"
+        }
+    ]
+}

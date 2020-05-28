@@ -1,0 +1,24 @@
+{
+    "abstract": "In December 2019 a novel disease [coronavirus disease 19 (COVID-19) emerged in the Wuhan province of the People's Republic of China. COVID-19 is caused by a novel coronavirus (SARS-CoV-2) thought to have jumped species, from another mammal to humans. A pandemic caused by this virus is running rampant throughout the world. Thousands of cases of COVID-19 are reported in England and over 10,000 patients have died. Whilst there has been progress in managing this disease, it is not clear which factors, besides age, affect the severity and mortality of COVID-19. A recent analysis of COVID-19 in Italy identified links between air pollution and death rates. Here, we explored the correlation between three major air pollutants linked to fossil fuels and SARS-CoV-2 lethality in England. We compare up-to-date, real-time SARS-CoV-2 cases and death measurements from public databases to air pollution data monitored across over 120 sites in different regions. We found that the levels of some markers of poor air quality, nitrogen oxides and ozone, are associated with COVID-19 lethality in different English regions. We conclude that the levels of some air pollutants are linked to COVID-19 cases and morbidity. We suggest that our study provides a useful framework to guide health policy in countries affected by this pandemic.",
+    "author": "Nuno Santos Leal; Rebeka Popovic; L. Miguel Martins; Marco Travaglio; Yizhou Yu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067405",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067405"
+    },
+    "title": "Links between air pollution and COVID-19 in England",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Medical Research Council,",
+                    "award-id": [
+                        "MC_UU_00025/3",
+                        "RG94521"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is funded by the UK Medical Research Council, intramural project MC_UU_00025/3 (RG94521)"
+        }
+    ]
+}

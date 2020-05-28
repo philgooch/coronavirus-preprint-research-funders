@@ -1,0 +1,26 @@
+{
+    "abstract": "Background Coronavirus Disease 2019 (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has developed into a full-blown global pandemic. It has been reported that patients with COVID-19 meeting the criteria for hospital discharge (including two consecutive negative RT-PCR results) have experienced recurrent PCR positivity. However, the clinical course and risk factors for these patients have not been well described. Methods In this retrospective cohort study, consecutive patients with COVID-19 confirmed by RT-PCR from the Guanggu Branch of Hubei Province Maternity and Childcare Hospital from February 24, 2020 to March 31, 2020 were enrolled. The epidemiological, radiographic, laboratory, treatment, and outcome data were extracted from medical records. Univariate and multivariable logistic regression methods were used to elucidate risk factors for patients with recurrence of positive SARS-CoV-2 RNA. Results 1087 COVID-19 patients were included in this study. Of these, 20 (1.8%) died and 1067 (98.2%) were discharged from the hospital. Among the discharged cases, there were 81 (7.6%) patients found to develop a repeat positive SARS-Cov-2 RNA result. Older age was obviously associated with death. For patients with recurrent RT-PCR positivity, the median duration from illness onset to onset of complete RNA negative was 33.0 days (range, 6.0-82.0 days; IQR, 20.0-41.0 days), while that from illness onset to recurrence was 50.0 days (range, 21.0-95.0 days; IQR, 36.5-59.5 days). Multivariate regression analysis identified recurrence of positive SARS-Cov-2 RNA was associated with elevated IL-6 levels (P=0.004, OR=3.050; 95% CI, 1.432-6.499), increased lymphocyte count (P=0.038, OR=2.321; 95% CI, 1.048-5.138) and CT imaging features of lung consolidation (P=0.038, OR=1.641; 95% CI, 1.028-2.620) during hospitalization. Conclusion Elevated lymphocyte counts and IL-6 levels in blood, and consolidation features on CT imaging are useful risk factors for clinicians to identify patients at risk of developing recurrent positivity of SARS-CoV-2 RNA. This is speculated to be caused by a balance in immune regulation when fighting virus toxicity. For patients with a high risk of recurrent positivity, a prolonged observation and additional preventative measures should be implemented for at least 50 days after illness onset to prevent future outbreaks.",
+    "affiliations": [
+        "Maternity and Childcare Hospital Fund (2020-FYGG-085)"
+    ],
+    "author": "Jiajun Xing; Hengmei Zhu; Nanmei Liu; Qiangda Chen; Zhigang Cai; Hui Liang; Fengfeng Xu; Jie Chen; Jing Hu; Jinlong Lan; Lan Zhou; Xiaoping Xu; Ning Pu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095018",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095018"
+    },
+    "title": "Clinical Course and Risk Factors for Recurrence of Positive SARS-CoV-2 RNA: A Retrospective Cohort Study from Wuhan, China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Guanggu Branch of Hubei Province Maternity and Childcare Hospital Fund",
+                    "award-id": [
+                        "2020-FYGG-085"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded by the Guanggu Branch of Hubei Province Maternity and Childcare Hospital Fund (2020-FYGG-085)"
+        }
+    ]
+}

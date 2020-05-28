@@ -1,0 +1,26 @@
+{
+    "abstract": "Background: Policymakers have employed various non-pharmaceutical interventions (NPIs) such as stay-at-home orders and school closures to limit the spread of Coronavirus disease (COVID-19). However, these measures are not without cost, and careful analysis is critical to quantify their impact on disease spread and guide future initiatives. This study aims to measure the impact of NPIs on the effective reproductive number (Rt) and other COVID-19 outcomes in U.S. states. Methods: In order to standardize the stage of disease spread in each state, this study analyzes the weeks immediately after each state reached 500 cases. The primary outcomes were average Rt in the week following 500 cases and doubling time from 500 to 1000 cases. Linear and logistic regressions were performed in R to assess the impact of various NPIs while controlling for population density, GDP, and certain health metrics. This analysis was repeated for deaths with doubling time from 50 to 100 deaths and included several healthcare infrastructure control variables. Results: States that had a stay-at-home order in place at the time of their 500th case are associated with lower average Rt the following week compared to states without a stay-at-home order (p < 0.001) and are significantly less likely to have an Rt>1 (OR 0.07, 95% CI 0.01 to 0.37, p = 0.004). These states also experienced a significantly longer doubling time from 500 to 1000 cases (HR 0.35, 95% CI 0.17 to 0.72, p = 0.004). States in the highest quartile of average time spent at home were also slower to reach 1000 cases than those in the lowest quartile (HR 0.18, 95% CI 0.06 to 0.53, p = 0.002). Discussion: Few studies have analyzed the effect of statewide stay-at-home orders, school closures, and other social distancing measures in the U.S., which has faced the largest COVID-19 case burden. States with stay-at-home orders have a 93% decrease in the odds of having a positive Rt at a standardized point in disease burden. States that plan to scale back such measures should carefully monitor transmission metrics. Key words: COVID-19, SARS-CoV-2, Coronavirus, Public Policy, Social Distancing, Non-pharmaceutical Interventions, Stay-at-home Order, Shelter-in-place.\nCompeting Interest Statement",
+    "author": "John R Durbin; Naoum Fares Marayati; Fiona M McAuley; Alex Gometz; JT Kostman; Adam Y Li; Nickolas Dreher; Lindsey Kuohn; Tanvir F Choudhri; Muhammad Ali; Theodore C Hannah; Zachary Spiera",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20088179",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20088179"
+    },
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "Coronavirus",
+        "Public Policy",
+        "Social Distancing",
+        "Non-pharmaceutical Interventions",
+        "Stay-at-home Order",
+        "Shelter-in-place"
+    ],
+    "title": "Impact of policy interventions and social distancing on SARS-CoV-2 transmission in the United States",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

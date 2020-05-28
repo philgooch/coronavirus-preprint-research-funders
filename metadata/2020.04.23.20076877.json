@@ -1,0 +1,23 @@
+{
+    "abstract": "As the current SARS-CoV-2 pandemic spreads, the need for more diagnostic capabilities is great. In order to address this need, we have developed a highly sensitive RT-LAMP assay compatible with current reagents, that utilizes a colorimetric readout in as little as 30 minutes. In addition to this, we have developed an inexpensive pipeline to further increase sensitivity without requiring highly specialized equipment. A rapid inactivation protocol capable of inactivating virions, as well as endogenous nucleases, was also developed to increase sensitivity and sample stability. This protocol, combined with our RT-LAMP assay, has a sensitivity of at least 50 viral RNA copies per microliter in a sample. To further increase the sensitivity, a purification protocol compatible with this inactivation method was developed. The inactivation and purification protocol, combined with our RT-LAMP assay, brings the sensitivity to at least 1 viral RNA copy per microliter in a sample. We hope that this inactivation and purification pipeline, which costs approximately $0.07 per sample and which uses readily available reagents, will increase the availability of SARS-CoV-2 testing, as well as expand the settings in which this testing can be performed.",
+    "affiliations": [
+        "Howard Hughes Medical Institute"
+    ],
+    "author": "Constance Cepko; Brian A Rabe",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076877",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076877"
+    },
+    "title": "SARS-CoV-2 Detection Using an Isothermal Amplification Reaction and a Rapid, Inexpensive Protocol for Sample Inactivation and Purification",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Howard Hughes Medical Institute"
+                }
+            ],
+            "funding-statement": "This work was supported by the Howard Hughes Medical Institute"
+        }
+    ]
+}

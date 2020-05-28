@@ -1,0 +1,32 @@
+{
+    "abstract": "Background The purpose of current study is to evaluate the analytical performance of seven kits for detecting IgM/IgG antibody of corona virus (2019-nCoV) by using four chemiluminescence immunoassay systems. Methods 50 patients diagnosed with 2019-nCoV infection and 130 controls without corona virus infection from the people's hospital of Chongqing were enrolled in current retrospective study. Four chemiluminescence immunoassay systems including seven IgM/IgG antibody detection Kits for 2019-nCoV (A_IgM, A_IgG, B_IgM, B_IgG, C_IgM, C_IgG, D_Ab) were employed to detecting antibody concentration. Chi-square test,receiver operating characteristic (ROC) curve and Youden's index were demonstrated to verify the cutoff value of each detection system. Results The repeatability verification results of the A, B, C, and D system are all qualified. D-Ab performances best (92% sensitivity and 99.23% specificity), and B_IgM worse than other systems. Except for the system of A_IgM and C_IgG, the optimal diagnostic thresholds and cutoff value of other kits from recommendations are inconsistent with each other. B_IgM got the worst AUC and C_IgG had the best diagnostic accuracy. More importantly, B_IgG system have the highest false positive rate for testing patients with AIDS, tumor and pregnant. A_IgM system test showed highest false positive rates among elder over 90 years old. Conclusions Systems for CoVID-2019 IgM/IgG antibody test performance difference. Serum diagnosis kit of D-Ab is the most reliable detecting system for 2019-nCoV antibody, which can be used as an alternative method for nucleic acid testing.",
+    "affiliations": [
+        "National Natural Science Foundation of China (81572089), and partly by grants from Yuzhong District Scientific Research Project (20180129)"
+    ],
+    "author": "Yafang Wan; Tian Li; Zhijie Li; Kun Wang; Pu Liao",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20074849",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20074849"
+    },
+    "title": "Performance verification of detecting COVID-19 specific antibody by using four chemiluminescence immunoassay systems",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81572089"
+                    ]
+                },
+                {
+                    "funding-source": "Yuzhong District Scientific Research Project",
+                    "award-id": [
+                        "20180129"
+                    ]
+                }
+            ],
+            "funding-statement": "The project was supported partly by grants from National Natural Science Foundation of China (81572089), and partly by grants from Yuzhong District Scientific Research Project (20180129)."
+        }
+    ]
+}

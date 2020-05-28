@@ -1,0 +1,16 @@
+{
+    "abstract": "Since Dec 2019, the COVID-19 epidemic has spread over the globe creating one of the greatest pandemics ever witnessed. This epidemic wave will only begin to roll back once a critical proportion of the population is immunised, either by mounting natural immunity following infection, or by vaccination. The latter option can minimise the cost in terms of human lives but it requires to wait until a safe and efficient vaccine is developed, a period estimated to last at least 18 months. In this work, we use optimal control theory to explore the best strategy to implement while waiting for the vaccine. We seek a solution minimizing deaths and costs due to the implementation of the control strategy itself. We find that such a solution leads to an increasing level of control with a maximum reached near the 16th month of the epidemics and a steady decrease until vaccine deployment. The average containment level is approximately 50\\% during the 25-months period for vaccine deployment. This strategy strongly outperforms others with constant or cycling allocations of the same amount of resources to control the outbreak. This work opens new perspectives to mitigate the effects of the ongoing COVID-19 pandemics, and be used as a proof-of-concept in using mathematical modelling techniques to enlighten decision making and public health management in the early times of an outbreak.",
+    "author": "Ramses Djidjou-Demasse; Samuel Alizon; Marc Choisy; Yannis Michalakis; Mircea T. Sofonea",
+    "date": 2020,
+    "doi": "10.1101/2020.04.02.20049189",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20049189"
+    },
+    "title": "Optimal COVID-19 epidemic control until vaccine deployment",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

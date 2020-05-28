@@ -1,0 +1,74 @@
+{
+    "abstract": "On March 11, 2020, the World Health Organization declared the COVID-19 outbreak, originally started in China, a global pandemic. Since then, the outbreak has indeed spread across all continents, threatening the public health of numerous countries. Although the Case Fatality Rate (CFR) of COVID-19 is relatively low when optimal level of healthcare is granted to the patients, the high percentage of severe cases developing severe pneumonia and thus requiring respiratory support is worryingly high, and could lead to a rapid saturation of Intensive Care Units (ICUs). To overcome this risk, most countries enacted COVID-19 containment measures. In this study, we use a Bayesian SEIR epidemiological model to perform a parametric regression over the COVID-19 outbreaks data in China, Italy, Belgium, and Spain, and estimate the effect of the containment measures on the basic reproduction ratio R_0. We find that the effect of these measures is detectable, but tends to be gradual, and that a progressive strengthening of these measures usually reduces the R_0 below 1, granting a decay of the outbreak. We also discuss the biases and inconsistencies present in the publicly available data on COVID-19 cases, providing an estimate for the actual number of cases in Italy on March 12, 2020. Lastly, despite the data and model's limitations, we argue that the idea of \"flattening the curve\" to reach herd immunity is likely to be unfeasible.",
+    "author": "Yves Moreau; Daniele Raimondi; Edward De Brouwer",
+    "date": 2020,
+    "doi": "10.1101/2020.04.02.20046375",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20046375"
+    },
+    "title": "Modeling the COVID-19 outbreaks and the effectiveness of the containment measures adopted across countries",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Council KU",
+                    "award-id": [
+                        "C14/18/092",
+                        "CELSA-HIDUCTION"
+                    ]
+                },
+                {
+                    "funding-source": "CELSA/",
+                    "award-id": [
+                        "17/032",
+                        "06260",
+                        "Iterative",
+                        "multi-level methods for Bayesian multirelational factorization with features"
+                    ]
+                },
+                {
+                    "funding-source": "Flemish Government"
+                },
+                {
+                    "funding-source": "Onderzoeksprogramma Artifici\u00eble Intelligentie"
+                }
+            ],
+            "funding-statement": "YM is funded by Research Council KU Leuven: C14/18/092 SymBioSys3; CELSA-HIDUCTION CELSA/17/032 Flemish Government:IWT: Exaptation, PhD grants FWO 06260 (Iterative and multi-level methods for Bayesian multirelational factorization with features) This research received funding from the Flemish Government under the \"Onderzoeksprogramma Artifici\u00eble Intelligentie (AI) Vlaanderen\" programme"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Innovative Medicines Initiative"
+                },
+                {
+                    "funding-source": "Joint Undertaking",
+                    "award-id": [
+                        "831472"
+                    ]
+                }
+            ],
+            "funding-statement": "EU: \"MELLODDY\" This project has received funding from the Innovative Medicines Initiative 2 Joint Undertaking under grant agreement No 831472"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "This Joint Undertaking"
+                },
+                {
+                    "funding-source": "EFPIA"
+                }
+            ],
+            "funding-statement": "This Joint Undertaking receives support from the European Union\u0092s Horizon 2020 research and innovation programme and EFPIA"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "FWO-SB"
+                    ]
+                }
+            ],
+            "funding-statement": "DR is funded by a FWO postdoctoral fellowship and EDB is funded by a FWO-SB grant"
+        }
+    ]
+}

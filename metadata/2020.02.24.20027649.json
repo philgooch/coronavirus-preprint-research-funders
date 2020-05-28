@@ -1,0 +1,49 @@
+{
+    "abstract": "An outbreak of COVID-19 developed aboard the Princess Cruises Ship during January-February 2020. Using mathematical modeling and time-series incidence data describing the trajectory of the outbreak among passengers and crew members, we characterize how the transmission potential varied over the course of the outbreak. Our estimate of the mean reproduction number in the confined setting reached values as high as ~11, which is higher than mean estimates reported from community-level transmission dynamics in China and Singapore (approximate range: 1.1-7). Our findings suggest that Rt decreased substantially compared to values during the early phase after the Japanese government implemented an enhanced quarantine control. Most recent estimates of Rt reached values largely below the epidemic threshold, indicating that a secondary outbreak of the novel coronavirus was unlikely to occur aboard the Diamond Princess Ship.",
+    "author": "Kenji Mizumoto; Gerardo Chowell",
+    "date": 2020,
+    "doi": "10.1101/2020.02.24.20027649",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.24.20027649"
+    },
+    "title": "Transmission potential of the novel coronavirus (COVID-19) onboard the Diamond Princess Cruises Ship, 2020",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Japan Society for the Promotion of Science",
+                    "award-id": [
+                        "18K17368"
+                    ]
+                },
+                {
+                    "funding-source": "KAKENHI Grant Number",
+                    "award-id": [
+                        "18K17368"
+                    ]
+                },
+                {
+                    "funding-source": "Leading Initiative for Excellent Young Researchers from the Ministry of Education, Culture"
+                },
+                {
+                    "funding-source": "Science & Technology of Japan"
+                }
+            ],
+            "funding-statement": "KM acknowledges support from the Japan Society for the Promotion of Science (JSPS) KAKENHI Grant Number 18K17368 and from the Leading Initiative for Excellent Young Researchers from the Ministry of Education, Culture, Sport, Science & Technology of Japan"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "1414374"
+                    ]
+                },
+                {
+                    "funding-source": "NSF-NIH-USDA Ecology and Evolution of Infectious Diseases"
+                }
+            ],
+            "funding-statement": "GC acknowledges support from NSF grant 1414374 as part of the joint NSF-NIH-USDA Ecology and Evolution of Infectious Diseases program"
+        }
+    ]
+}

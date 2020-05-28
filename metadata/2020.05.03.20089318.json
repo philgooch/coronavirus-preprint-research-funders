@@ -1,0 +1,16 @@
+{
+    "abstract": "Background Intensive Care Unit (ICU) management of COVID-19 patients with severe hypoxemia is associated with high mortality. We implemented a \"care map\", as a standardized multidisciplinary approach to improve patients monitoring using: uniform patient selection for ICU admission, a low-PEEP strategy and a pharmacologic strategic thromboembolism management. Methods A standardized protocol for managing COVID-19 patients and ICU admissions was implemented through accurate Early Warning Score (EWS) monitoring and thromboembolism prophylaxis at hospital admission. Dyspnea, mental confusion or SpO2 less than 85% were criteria for ICU admission. Ventilation approach employed low PEEP values (about 10 cmH2O in presence of lung compliance > 40 mL/cmH2O) and FiO2 as needed. In presence of lower lung compliance (< 40 mL/cmH2O) PEEP value was increased to about 14 cmH2O. Results From March 16th to April 12nd 2020, 41 COVID-19 patients were admitted to our ICU from a total of 310 patients. 83% (34) of them needed mechanical ventilation. The ventilation approach chosen employed low PEEP value based on BMI (PEEP 11+/- 3.8 (10-12) cmH2O if BMI < 30 Kg/m2; PEEP 15+/- 3.26 (12-18) cmH2O if BMI >30 Kg/m2). To date, ten patients (24%) died, four (9.7%) received mechanical ventilation, two were transferred to another hospital and 25 (60.9%) were discharged from ICU after a median of nine days. Discussion A multimodal approach for COVID-19 patients is mandatory. The knowledge of this multi-organ disease is growing rapidly, requiring improvements in the standard of care. Our approach implements an accurate pre-ICU monitoring and strict selection for ICU admission, and allows to reduce mechanical ventilation, ICU stay and mortality. Funding No funding has been required.",
+    "author": "Olivier Gie; Romano Mauri; Martina Iattoni; Giovanni Bona; Maira Biggiogero; Samuele Ceruti; Christian Garzoni; Pier Andrea Maida; COVID-19 Clinical Management Team; Marco Roncador",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089318",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089318"
+    },
+    "title": "Reduced mortality and shorten ICU stay in SARS-COV-2 pneumonia: a low PEEP strategy",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding has been required. The corresponding author confirms that he had full access to all the data in the study and he had final responsibility for the decision to submit for publication."
+        }
+    ]
+}

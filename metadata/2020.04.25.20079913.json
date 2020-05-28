@@ -1,0 +1,16 @@
+{
+    "abstract": "Although population-wide lockdowns have been successful in slowing the COVID-19 epidemic, there is a consensus among disease modellers that keeping the load on critical care services within manageable limits will require an adaptive social distancing strategy, alternating cycles of relaxation and re-imposition until a vaccine is available. An alternative strategy that has been tentatively proposed is to shield the elderly and others at high risk of severe disease, while allowing immunity to build up in those at low risk until the entire population is protected. We examine the performance required from a classifier that uses information from medical records to assign risk status for a such a stratify-and-shield policy to be effective in limiting mortality when social distancing is relaxed. We show that under plausible assumptions about the level of immunity required for population-level immunity, the proportion shielded is constrained to be no more than 15% of the population. Under varying assumptions about the infection fatality ratio (from 0.1% to 0.4%) and the performance of the classifier (3 to 4.5 bits of information for discrimination), we calculate the expected number of deaths in the unshielded group. We show that with likely values of the performance of a classifier that uses information from age, sex and medical records, at least 80% of those who would die if unshielded would be allocated to the high-risk shielded group comprising 15% of the population. Although the proportion of deaths that would be prevented by effective shielding does not vary much with the infection fatality ratio, the absolute number of deaths in the unshielded varies from less than 10,000 if the infection fatality rate is 0.1% to more than 50,000 if the infection fatality rate is as high as 0.4%. For projecting the effect of an optimally applied stratify-and-shield policy, studies now under way should help to resolve key uncertainties: the extent to which infection confers immunity, the prevalence of immunity, the infection fatality ratio, and the performance of a classifier constructed using information from medical records. It is time to give serious consideration to a stratify-and-shield policy that could bring the COVID-19 epidemic to an end in a matter of months while restoring economic activity, avoiding overload of critical care services and limiting mortality.",
+    "author": "Paul M. McKeigue; Helen M Colhoun",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20079913",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20079913"
+    },
+    "title": "Evaluation of ",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement none</strong>"
+        }
+    ]
+}

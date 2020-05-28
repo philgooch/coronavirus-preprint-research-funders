@@ -1,0 +1,47 @@
+{
+    "title": "Corona virus activates a stem cell mediated defense mechanism that accelerates activation of dormant tuberculosis: implications for the COVID-19 pandemic",
+    "author": "Tutumoni Baishya",
+    "date": 2020,
+    "affiliations": [
+        "Department of Stem Cell and Infectious Diseases, KaviKrishna Laboratory, Guwahati Biotech Park, Indian Institute of Technology, Guwahati, India",
+        "Department of Stem Cell and Infection, Thoreau Lab for Global Health, University of Massachusetts, Lowell, US",
+        "Department of Bioengineering and Technology, Gauhati University, Guwahati, India",
+        "Department of Pediatric Laboratory Medicine, Hospital for Sick Children, Toronto, Ontario"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.06.077883",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.06.077883.pdf"
+    },
+    "abstract": "We postulate that similar to bacteria, adult stem cells may also exhibit altruistic defense mechanism to protect their niche. Here, we provide preliminary data on the altruistic stem cell (ASC) based defense against a mouse corona virus; MHV-1 infection. In a mouse model of mesenchymal stem cell (MSC) mediated M. tuberculosis (Mtb) dormancy, MHV-1 infection in the lung exhibited 20 fold lower viral loads than the healthy control mice, suggesting the potential enhancement of an anti-MHV-1 defense by Mtb. This defense involved the in vivo expansion and reprogramming of CD271+ MSCs in the lung to ASC phenotype characterized by activation of genes involved in the HIF-2alpha stemness pathway. The conditioned media of the ASCs exhibited direct anti-viral activity in an in vitro model of MHV-1 induced toxicity to type II alveolar epithelial cells. MHV-1 infected Mtb harboring group versus MHV-1 alone group exhibited an 8-fold (p<0.02; n=4) higher ASC reprogramming and 5-fold (p<0.001; n=3, student t test) higher anti-viral activity. However, ASCs facilitated intracellular replication and extracellular release of Mtb. Thus, our data suggest that MSCs exert an innate defense against MHV-1 by activating the ASC defense mechanism, which might be exploited by dormant Mtb to undergo reactivation. Hence, our findings may provide a novel anti-viral defense mechanism against novel corona virus SARS-Cov2, which could be further utilized to develop vaccine against COVID19. Our findings also predict a potential increase of tuberculosis in postCOVID19 era.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Canadian Cancer Society"
+                },
+                {
+                    "funding-source": "Laurel Foundation"
+                },
+                {
+                    "funding-source": "KaviKrishna Foundation, Assam"
+                },
+                {
+                    "funding-source": "JT and SS)"
+                },
+                {
+                    "funding-source": "Department of Biotechnology"
+                },
+                {
+                    "funding-source": "KaviKrishna USA Foundation"
+                },
+                {
+                    "funding-source": "BD and BP)"
+                }
+            ],
+            "funding-statement": "This research project was funded by grants from the Canadian Cancer Society (BD), Laurel Foundation (BD), KaviKrishna Foundation, Assam, India (LP, SG, SB, JT and SS), Department of Biotechnology (DBT) India (BD) and KaviKrishna USA Foundation (BD and BP)"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "abstract": "The novel coronavirus (SARS-CoV-2), identified in China at the end of December 2019 and causing the disease COVID-19, has meanwhile led to outbreaks all over the globe with about 2.2 million confirmed cases and more than 150,000 deaths as of April 17, 2020. In view of most recent information on testing activity, we present here an update of our initial work. In this work, mathematical models have been developed to study the spread of COVID-19 among the population in Germany and to asses the impact of non-pharmaceutical interventions. Systems of differential equations of SEIR type are extended here to account for undetected infections, as well as for stages of infections and age groups. The models are calibrated on data until April 5, data from April 6 to 14 are used for model validation. We simulate different possible strategies for the mitigation of the current outbreak, slowing down the spread of the virus and thus reducing the peak in daily diagnosed cases, the demand for hospitalization or intensive care units admissions, and eventually the number of fatalities. Our results suggest that a partial (and gradual) lifting of introduced control measures could soon be possible if accompanied by further increased testing activity, strict isolation of detected cases and reduced contact to risk groups.",
+    "affiliations": [
+        "Robert Koch Institute was used for this study"
+    ],
+    "author": "Jan H Meinke; Maria Vittoria Barbarossa; Jan Fuhrmann; Stefan Krieg; Thomas Lippert; Hridya V Varma; Noemi Castelletti",
+    "date": 2020,
+    "doi": "10.1101/2020.04.18.20069955",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.18.20069955"
+    },
+    "title": "The impact of current and future control measures on the spread of COVID-19 in Germany",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received."
+        }
+    ]
+}

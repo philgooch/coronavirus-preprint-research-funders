@@ -1,0 +1,54 @@
+{
+    "abstract": "Background: Understanding clinical progression of COVID-19 is a key public health priority that informs resource allocation during an emergency. We characterized clinical progression of COVID-19 and determined important predictors for faster clinical progression to key clinical events and longer use of medical resources. Methods and Findings: The study is a single-center, observational study with prospectively collected data from all 420 patients diagnosed with COVID-19 and hospitalized in Shenzhen between January 11th and March 10th, 2020 regardless of clinical severity. Using competing risk regressions according to the methods of Fine and Gray, we found that males had faster clinical progression than females in the older age group and the difference could not be explained by difference in baseline conditions or smoking history. We estimated the proportion of cases in each severity stage over 80 days following symptom onset using a nonparametric method built upon estimated cumulative incidence of key clinical events. Based on random survival forest models, we stratified cases into risk sets with very different clinical trajectories. Those who progressed to the severe stage (22%,93/420), developed acute respiratory distress syndrome (9%,39/420), and were admitted to the intensive care unit (5%,19/420) progressed on average 9.5 days (95%CI 8.7,10.3), 11.0 days (95%CI 9.7,12.3), and 10.5 days (95%CI 8.2,13.3), respectively, after symptom onset. We estimated that patients who were admitted to ICUs remained there for an average of 34.4 days (95%CI 24.1,43.2). The median length of hospital stay was 21.3 days (95%CI, 20.5,22.2) for cases who did not progress to the severe stage, but increased to 52.1 days (95%CI, 43.3,59.5) for those who required critical care. Conclusions: Our analyses provide insights into clinical progression of cases starting early in the course of infection. Patient characteristics near symptom onset both with and without lab parameters have tremendous potential for predicting clinical progression and informing strategic response.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Science and Technology Major Project for Control and Prevention of Major Infectious Diseases of China (No. 2017ZX10103004). CH, PZ, CY, BS, TW, JC, TM were funded by the Emergency Response Program of Harbin Institute of Technology (HITERP010) and Emergency Response Program of Peng Cheng Laboratory (PCLERP001). JL and QB were funded by a grant from the US Centers for Disease Control and Prevention (NU2GGH002000)"
+    ],
+    "author": "Qifang Bi; Chenfei Ye; Zhaoqin Wang; Tong Wang; Binbin Sun; Pengzheng Zhou; Andrew S Azman; Juan Meng; Ting Ma; Justin Lessler; Lei Liu; Lauren M Kucirka; Zhenke Wu; Guoliang Zhang; Jessie K Edwards; Chengcheng Hong; Jiancong Chen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20076190",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20076190"
+    },
+    "title": "Characterizing clinical progression of COVID-19 among patients in Shenzhen, China: an observational cohort study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science and Technology Major Project for Control and Prevention of Major Infectious Diseases of China",
+                    "award-id": [
+                        "2017ZX10103004"
+                    ]
+                }
+            ],
+            "funding-statement": "GZ was funded by the National Science and Technology Major Project for Control and Prevention of Major Infectious Diseases of China (No 2017ZX10103004)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Emergency Response Program of Harbin Institute of Technology",
+                    "award-id": [
+                        "HITERP010"
+                    ]
+                },
+                {
+                    "funding-source": "Emergency Response Program of Peng Cheng Laboratory",
+                    "award-id": [
+                        "PCLERP001"
+                    ]
+                }
+            ],
+            "funding-statement": "CH, PZ, CY, BS, TW, JC, TM were funded by the Emergency Response Program of Harbin Institute of Technology (HITERP010) and Emergency Response Program of Peng Cheng Laboratory (PCLERP001)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "US Centers for Disease Control and Prevention",
+                    "award-id": [
+                        "NU2GGH002000"
+                    ]
+                }
+            ],
+            "funding-statement": "JL and QB were funded by a grant from the US Centers for Disease Control and Prevention (NU2GGH002000)"
+        }
+    ]
+}

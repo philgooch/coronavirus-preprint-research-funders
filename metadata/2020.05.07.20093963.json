@@ -1,0 +1,41 @@
+{
+    "abstract": "Background The antibody response generated following infection with SARS-CoV-2 is expected to decline over time. This may cause individuals with confirmed SARS-CoV-2 infection to test negative according to serological diagnostic tests in the months and years following symptom onset. Methods A multiplex serological assay was developed to measure IgG and IgM antibody responses to four SARS-CoV-2 Spike (S) antigens: spike trimeric ectodomain (Stri), its receptor-binding domain (RBD), spike subunit 1 (S1), and spike subunit 2 (S2). Antibody responses were measured in serum samples from patients in French hospitals with RT-qPCR confirmed infection (n = 259), and negative control serum samples collected before the start of the SARS-CoV-2 epidemic in 2019 (n = 335). The multiplex antibody data was used to train a random forests algorithm for classifying individuals with previous SARS-CoV-2 infection. A mathematical model of antibody kinetics informed by prior information from other coronaviruses was used to estimate time-varying antibody responses and assess the potential sensitivity and classification performance of serological diagnostics during the first year following symptom onset. Results IgG antibody responses to one S antigen identified individuals with previous RT-qPCR confirmed SARS-CoV-2 infection with 90.3% sensitivity (95% confidence interval (CI); 86.1%, 93.4%) and 99.1% specificity (95% CI; 97.4%, 99.7%). Using a serological signature of IgG to four antigens, it was possible to identify infected individuals with 96.1% sensitivity (95% CI; 93.0%, 97.9%) and 99.1% specificity (95% CI; 97.4%, 99.7%). Antibody responses to SARS-CoV-2 increase rapidly 1-2 weeks after symptom onset, with antibody responses predicted to peak within 2-4 weeks. Informed by prior data from other coronaviruses, one year following symptom onset antibody responses are predicted to decay by approximately 60% from the peak response. Depending on the selection of sero-positivity cutoff, we estimate that the sensitivity of serological diagnostics may reduce to 56%-97% after six months, and to 49%-93% after one year. Conclusion Serological signatures based on antibody responses to multiple antigens can provide more accurate and robust serological classification of individuals with previous SARS-CoV-2 infection. Changes in antibody levels over time may cause reductions in the sensitivity of serological diagnostics leading to an underestimation of sero-prevalence. It is essential that data continue to be collected to evaluate this potential risk.",
+    "affiliations": [
+        "Agence Nationale de la Recherche and Fondation pour la Recherche M\u00e9dicale (CorPopImm; MW), and the Institut Pasteur International Network (CoronaSeroSurv; MW)"
+    ],
+    "author": "Annalisa Meola; Marija Backovic; Michael T White; Samira Fafi-Kremer; Jerome de Seze; Benjamin Terrier; Charlotte Cockram; Solen Kerneis; Ivo Mueller; Jason Rosado; Sarah Helene Merkling; Caroline Demeret",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20093963",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20093963"
+    },
+    "title": "Serological signatures of SARS-CoV-2 infection: Implications for antibody-based diagnostics",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Research Council"
+                },
+                {
+                    "funding-source": "MultiSeroSurv ERC Starting Grant; MW"
+                },
+                {
+                    "funding-source": "Agence Nationale de la Recherche and Fondation"
+                },
+                {
+                    "funding-source": "Recherche M\u00e9dicale",
+                    "award-id": [
+                        "CorPopImm"
+                    ]
+                },
+                {
+                    "funding-source": "Institut Pasteur International Network",
+                    "award-id": [
+                        "CoronaSeroSurv"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the European Research Council (MultiSeroSurv ERC Starting Grant; MW), l\u0092Agence Nationale de la Recherche and Fondation pour la Recherche M\u00e9dicale (CorPopImm; MW), and the Institut Pasteur International Network (CoronaSeroSurv; MW)"
+        }
+    ]
+}

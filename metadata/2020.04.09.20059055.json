@@ -1,0 +1,19 @@
+{
+    "abstract": "Background. Epidemiological figures of Covid19 epidemic in Italy are worse than those observed in China. Methods. We modeled the Covid19 outbreak in Italian Regions vs. Lombardy to assess the epidemics progression and predict peaks of new daily infections and total cases by learning from the entire Chinese epidemiological dynamics. We trained an artificial neural network model, a modified auto-encoder with Covid19 Chinese data, to forecast epidemic curve of the different Italian regions, and use the susceptible/exposed/infected/removed (SEIR) compartment model to predict the spreading and peaks. We have estimated the basic reproduction number (R0), which represents the average number of people that can be infected by a person who has already acquired the infection - both by fitting the exponential growth rate of the infection across a one month period, and also by using a day by day assessment, based on single observations. Results. The expected peak of SEIR model for new daily cases was at the end of March at national level. The peak of overall positive cases is expected by April 11th in Southern Italian Regions, a couple of days after that of Lombardy and Northern regions. According to our model, total confirmed cases in all Italy regions could reach 160,000 cases by April 30th and stabilize at a plateau. Conclusions. Training neural networks on Chinese data and use the knowledge to forecast Italian spreading of Covid19 has resulted in a good fit, measured with the mean average precision between official Italian data and the forecast.",
+    "affiliations": [
+        "Department of \"Protezione Civile\", a structure of the Italian Prime Minister office"
+    ],
+    "author": "Prisco Piscitelli; Cosimo Distante; Luiz Marcos Garcia Goncalves; Igor Gadelha Pereira; Alessandro Miani",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059055",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059055"
+    },
+    "title": "Forecasting Covid-19 Outbreak Progression in Italian Regions: A model based on neural network training from Chinese data",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No support funding"
+        }
+    ]
+}

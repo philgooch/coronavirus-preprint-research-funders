@@ -1,0 +1,32 @@
+{
+    "abstract": "We introduce a simple methodology to estimate the total number of infected with SARS-CoV-2 based on the number of deaths in households with at least one confirmed case of COVID-19. If we are willing to assume that a single member of a household with $n$ members will infect the remaining members with probability 1, then the number of deaths in a household follows a binomial distribution with parameters $(n-1,p)$ where $p$ is the CFR. Although the method may be affected by classification errors, its simplicity will allow to reduce the error of the estimates by increasing the sample size, since it requires minimal laboratory testing capabilities. We illustrate our methodology with data from Mexico and estimate the CFR in 0.34 \\%, that is, we estimate that the total number of infections is about $300$ times larger than the number of deaths. We specify some dataset limitations. In comparison, using the number of deaths to date and a recently published results from random tests in Iceland, we calculated the ratio estimated infections/deaths in about $200$ for that country.",
+    "affiliations": [
+        "Department for International Development (DFID), it is managed by the World Bank Group (WBG) and was established in partnership with the United Nations High Commissioner for Refugees (UNHCR). The scope of the program is to expand the global knowledge on forced displacement by funding quality research and disseminating results for the use of practitioners and policy makers. This work does not necessarily reflect the views of DFID, the WBG or UNHCR"
+    ],
+    "author": "Efren Murillo-Zamora; CARLOS M HERNANDEZ-SUAREZ; Paolo Verme",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20077446",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20077446"
+    },
+    "title": "On the estimation of the total number of SARS-CoV-2 infections",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Building the Evidence on Protracted Forced"
+                },
+                {
+                    "funding-source": "United Kingdom's Department for International Development"
+                },
+                {
+                    "funding-source": "World Bank Group"
+                },
+                {
+                    "funding-source": "United Nations High Commissioner for Refugees"
+                }
+            ],
+            "funding-statement": "This work is part of the program ''Building the Evidence on Protracted Forced Displacement: A Multi-Stakeholder Partnership''. The program is funded by UK aid from the United Kingdom's Department for International Development (DFID), it is managed by the World Bank Group (WBG) and was established in partnership with the United Nations High Commissioner for Refugees (UNHCR). The scope of the program is to expand the global knowledge on forced displacement by funding quality research and disseminating results for the use of practitioners and policy makers. This work does not necessarily reflect the views of DFID, the WBG or UNHCR."
+        }
+    ]
+}

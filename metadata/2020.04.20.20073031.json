@@ -1,0 +1,16 @@
+{
+    "abstract": "Hospital enterprises have been continually faced with anticipating the spread of COVID-19 and the effects it is having on visits, admissions, bed needs, and crucial supplies. While many studies have focused on understanding the basic epidemiology of the disease, few open source tools have been made available to aid hospitals in their planning. We developed a web-based application (available at: http://covid19forecast.rush.edu/) for US states and territories that allows users to choose from a suite of models already employed in characterizing the spread of COVID-19. Users can obtain forecasts for hospital visits and admissions as well as anticipated needs for ICU and non-ICU beds, ventilators, and personal protective equipment supplies. Users can also customize a large set of inputs, view the variability in forecasts over time, and download forecast data. We describe our web application and its models in detail and provide recommendations and caveats for its use. Our application is primarily designed for hospital leaders, healthcare workers, and government official who may lack specialized knowledge in epidemiology and modeling. However, specialists can also use our open source code as a platform for modification and deeper study. As the dynamics of COVID-19 change, our application will also change to meet emerging needs of the healthcare community.",
+    "author": "Bala Hota; Thomas A Webb; Anuja K Antony; Jawad Khan; Kenneth J Locey",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20073031",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20073031"
+    },
+    "title": "An Interactive Tool to Forecast US Hospital Needs in the Coronavirus 2019 Pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Our work was not funded by outside agencies or any third parties"
+        }
+    ]
+}

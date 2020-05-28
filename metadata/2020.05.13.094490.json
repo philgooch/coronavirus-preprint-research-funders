@@ -1,0 +1,41 @@
+{
+    "title": "A rapid, point of care red blood cell agglutination assay for detecting antibodies against SARS-CoV-2",
+    "author": "Robert L. Kruse, Yuting Huang, Heather Smetana, Eric A. Gehrie, Tim K. Amukele, Aaron A.R. Tobian, Heba H. Mostafa, Zack Z. Wang",
+    "date": 2020,
+    "affiliations": [
+        "Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, Maryland",
+        "Department of Medicine, University of Maryland Medical Center Midtown Campus, Baltimore, Maryland",
+        "Division of Gastroenterology, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland",
+        "Division of Hematology, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.13.094490",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.13.094490.pdf"
+    },
+    "abstract": "The COVID-19 pandemic has brought the world to a halt, with cases observed around the globe causing significant mortality. There is an urgent need for serological tests to detect antibodies against SARS-CoV-2, which could be used to assess the prevalence of infection, as well as ascertain individuals who may be protected from future infection. Current serological tests developed for SARS-CoV-2 rely on traditional technologies such as enzyme-linked immunosorbent assays (ELISA) and lateral flow assays, which may lack scalability to meet the demand of hundreds of millions of antibody tests in the coming year. Herein, we present an alternative method of antibody testing that just depends on one protein reagent being added to patient serum/plasma or whole blood and a short five-minute assay time. A novel fusion protein was designed that binds red blood cells (RBC) via a single-chain variable fragment (scFv) against the H antigen and displays the receptor-binding domain (RBD) of SARS-CoV-2 spike protein on the surface of RBCs. Upon mixing of the fusion protein, RBD-scFv with recovered COVID19 patient serum and RBCs, we observed agglutination of RBCs, indicating the patient developed antibodies against SARS-CoV-2 RBD. Given that the test uses methods routinely used in hospital clinical labs across the world, we anticipate the test can be rapidly deployed with only the protein reagent required at projected manufacturing cost at U.S. cents per test. We anticipate our agglutination assay may find extensive use in low-resource settings for detecting SARS-CoV-2 antibodies.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Johns Hopkins for"
+                },
+                {
+                    "funding-source": "Johns Hopkins Department of Pathology Fred and Janet Sanfilippo Research Award"
+                },
+                {
+                    "funding-source": "National Institutes of Health, National"
+                },
+                {
+                    "funding-source": "Institute of Diabetes and Digestive and Kidney Disease",
+                    "award-id": [
+                        "R01DK106109"
+                    ]
+                }
+            ],
+            "funding-statement": "We would like to thank all the brave health care workers continuing to serve during the COVID-19 pandemic, as well as the environmental services staff at Johns Hopkins for continuing to come to work and clean labs, aiding in our pursuit of this goal. This work was funded by the Johns Hopkins Department of Pathology Fred and Janet Sanfilippo Research Award (R.L.K), and partially supported by the National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Disease grant R01DK106109 (Z.Z.W)"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "With the ever increasing demand for screening millions of prospective \"novel coronavirus\" or COVID-19 cases, and due to the emergence of high false negatives in the commonly used PCR tests, the necessity for probing an alternative simple screening mechanism of COVID-19 using radiological images (like chest X-Rays) assumes importance. In this scenario, machine learning (ML) and deep learning (DL) offer fast, automated, effective strategies to detect abnormalities and extract key features of the altered lung parenchyma, which may be related to specific signatures of the COVID-19 virus. However, the available COVID-19 datasets are inadequate to train deep neural networks. Therefore, we propose a new concept called domain extension transfer learning (DETL). We employ DETL, with pre-trained deep convolutional neural network, on a related large chest X-Ray dataset that is tuned for classifying between four classes viz, normal, other_disease, pneumonia and Covid-19. A 5-fold cross validation is performed to estimate the feasibility of using chest X-Rays to diagnose COVID-19. The initial results show promise, with the possibility of replication on bigger and more diverse data sets. The overall accuracy was measured as 95.3%\u00b10.02. In order to get an idea about the COVID-19 detection transparency, we employed the concept of Gradient Class Activation Map (Grad-CAM) for detecting the regions where the model paid more attention during the classification. This was found to strongly correlate with clinical findings, as validated by experts.",
+    "author": "Sanhita Basu; Sushmita Mitra; Nilanjan Saha",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090423",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090423"
+    },
+    "title": "Deep Learning for Screening COVID-19 using Chest X-Ray Images",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors have no support or funding to report."
+        }
+    ]
+}

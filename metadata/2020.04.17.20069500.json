@@ -1,0 +1,23 @@
+{
+    "abstract": "The COVID 19 pandemic has created a global crisis and the governments are fighting rigorously to control the spread by imposing intervention measures and increasing the medical facilities. In order to tackle the crisis effectively we need to know the trajectories of number of the people infected (i.e. confirmed cases). Such information is crucial to government agencies for developing effective preparedness plans and strategies. We used a statistical modeling approach (extreme value distributions, EVDs) for projecting the future confirmed cases on a global scale. Using the 69 days data (from January 22, 2020 to March 30, 2020), the EVDs model predicted the number of confirmed cases from March 31, 2020 to April 9, 2020 (validation period) with an absolute percentage error < 15 % and then projected the number of confirmed cases until the end of June 2020. Also, we have quantified the uncertainty in the future projections due to the delay in reporting of the confirmed cases on a global scale. Based on the projections, we found that total confirmed cases would reach around 11.4 million globally by the end of June 2020.The USA may have 2.9 million number of confirmed cases followed by Spain(1.52 million) and Italy (1.28 million).",
+    "affiliations": [
+        "Indian Institute of Technology Roorkee for supporting this research financially"
+    ],
+    "author": "M Balamurugan; M Aadhityaa; Idhayachandhiran Ilampooranan; Jianxun He; KS Kasiviswanathan; B Soundharajan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20069500",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20069500"
+    },
+    "title": "A Global Scale Estimate of Novel Coronavirus (COVID-19) Cases Using Extreme Value Distributions",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Indian Institute of Technology Roorkee for"
+                }
+            ],
+            "funding-statement": "The authors KSK and II would like to thank Indian Institute of Technology Roorkee for supporting this research financially"
+        }
+    ]
+}

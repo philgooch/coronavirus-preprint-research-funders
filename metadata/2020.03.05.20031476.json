@@ -1,0 +1,33 @@
+{
+    "abstract": "The rapid emergence of clinical trials on COVID-19 stimulated a wave of discussion in scientific community. We reviewed the characteristics of interventional trials from Chinese Clinical Trial Registration (ChiCTR) and ClinicalTrials.gov. A total of 171 COVID-19-related interventional trials were identified on Feb 22nd, 2020. These trials are classified into 4 categories based on treatment modalities, including chemical drugs, biological therapies, traditional Chinese medicine treatments and other therapies. Our analysis focused on the issues of stage, design, randomization, blinding, primary endpoints definition and sample size of these trials. We found some studies with potential defects including unreasonable design, inappropriate primary endpoint definition, insufficient sample size and ethical issue. Clinical trials on COVID-19 should be designed based on scientific rules, ethics and benefits for patients.",
+    "affiliations": [
+        "National Natural Science Foundation of China (Grant No. 81872709) and Key Project of the Natural Science Foundation of the Jiangsu Higher Education Institutions of China (Grant No",
+        "KJA110004). The authors are grateful to Mr. Mingzhi Zhang, Miss Yuanping Yue and Mrs. Yue Wang for their help on preparing the manuscript"
+    ],
+    "author": "Feng Chen; Mingzhi Zhang; Sipeng Shen; Yang Zhao; Yongyue Wei",
+    "date": 2020,
+    "doi": "10.1101/2020.03.05.20031476",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.05.20031476"
+    },
+    "title": "Appealing for Efficient, Well Organized Clinical Trials on COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81872709"
+                    ]
+                },
+                {
+                    "funding-source": "Key Project of the Natural Science Foundation of the Jiangsu Higher Education Institutions of China",
+                    "award-id": [
+                        "18KJA110004"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded by the National Natural Science Foundation of China (Grant No 81872709) and Key Project of the Natural Science Foundation of the Jiangsu Higher Education Institutions of China (Grant No 18KJA110004)"
+        }
+    ]
+}

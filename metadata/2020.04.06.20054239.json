@@ -1,0 +1,16 @@
+{
+    "abstract": "The Coronavirus disease 2019(COVID-19) outbreak has caused havoc across the world. Subsequently, research on COVID-19 has focused on number of cases and deaths and predicted projections have focused on these parameters. We propose that the number of tests performed is a very important denominator in understanding the COVID-19 data. We analysed the number of diagnostic tests performed in proportion to the number of cases and subsequently deaths across different countries and projected pandemic outcomes. We obtained real time COVID-19 data from the reference website Worldometer at 0900 BST on Saturday 4th April, 2020 and collated the information obtained on the top 50 countries with the highest number of COVID 19 cases. We analysed this data according to the number of tests performed as the main denominator. Country wise population level pandemic projections were extrapolated utilising three models - 1) inherent case per test and death per test rates at the time of obtaining the data (4/4/2020 0900 BST) for each country; 2) rates adjusted according to the countries who conducted at least 100000 tests and 3) rates adjusted according to South Korea. We showed that testing rates impact on the number of cases and deaths and ultimately on future projections for the pandemic across different countries. We found that countries with the highest testing rates per population have the lowest death rates and give us an early indication of an eventual COVID-19 mortality rate. It is only by continued testing on a large scale that will enable us to know if the increasing number of patients who are seriously unwell in hospitals across the world are the tip of the iceberg or not. Accordingly, obtaining this information through a rapid increase in testing globally is the only way which will enable us to exit the COVID-19 pandemic and reduce economic and social instability.",
+    "author": "Rahul Potluri; Deepthi Lavu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20054239",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20054239"
+    },
+    "title": "Making sense of the Global Coronavirus Data: The role of testing rates in understanding the pandemic and our exit strategy",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding."
+        }
+    ]
+}

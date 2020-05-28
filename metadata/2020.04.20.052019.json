@@ -1,0 +1,31 @@
+{
+    "title": "Synonymous mutations and the molecular evolution of SARS-Cov-2 origins",
+    "date": 2020,
+    "author": "Hongru Wang, Lenore Pipes, and Rasmus Nielsen,3* 1 Department of Integrative Biology, UC Berkeley, Berkeley, CA 94707, USA. 2Department of Statistics, UC Berkeley, Berkeley, CA 94707, USA. 3Globe Institute, University of Copenhagen, 1350 K\u00f8benhavn K, Denmark. *Address: 4098 Valley Life Sciences Building, Department of Integrative Biology, UC Berkeley. Berkeley, CA 94707. rasmus_nielsen@berkeley.edu",
+    "affiliations": [
+        "Department of Integrative Biology, UC Berkeley, Berkeley, CA 94707, USA",
+        "Department of Statistics, UC Berkeley, Berkeley, CA 94707, USA",
+        "Globe Institute, University of Copenhagen, 1350 K\u00f8benhavn K, Denmark",
+        "Address: 4098 Valley Life Sciences Building, Department of Integrative Biology, UC Berkeley. Berkeley, CA 94707"
+    ],
+    "journal": "Zhang",
+    "volume": "2",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.20.052019",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.20.052019.pdf"
+    },
+    "abstract": "2 Human severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is most closely 3 related, by average genetic distance, to two coronaviruses isolated from bats, RaTG13 and 4 RmYN02. However, there is a segment of high amino acid similarity between human SARS5 CoV-2 and a pangolin isolated strain, GD410721, in the receptor binding domain (RBD) of 6 the spike protein, a pattern that can be caused by either recombination or by convergent 7 amino acid evolution driven by natural selection. We perform a detailed analysis of the 8 synonymous divergence, which is less likely to be affected by selection than amino acid 9 divergence, between human SARS-CoV-2 and related strains. We show that the synonymous divergence between the bat derived viruses and SARS-CoV-2 is larger than between GD410721 and SARS-CoV-2 in the RBD, providing strong additional support for the recombination hypothesis. However, the synonymous divergence between pangolin strain and SARS-CoV-2 is also relatively high, which is not consistent with a recent recombination between them, instead it suggests a recombination into RaTG13. We also find a 14-fold increase in the dN/dS ratio from the lineage leading to SARS-CoV-2 to the strains of the current pandemic, suggesting that the vast majority of non-synonymous mutations currently segregating within the human strains have a negative impact on viral fitness. Finally, we estimate that the time to the most recent common ancestor of SARS19 CoV-2 and RaTG13 or RmYN02 based on synonymous divergence, is 51.71 years (95% C.I., 28.11-75.31) and 37.02 years (95% C.I., 18.19-55.85), respectively. 22 Introduction The Covid19 pandemic is perhaps the biggest public health and economic threat that the world has faced for decades (Li, et al. 2020; Wu, et al. 2020; Zhou, Yang, et al. 2020). It is caused by",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Koret-UC Berkeley-Tel Aviv University Initiative in Computational Biology and Bioinformatics"
+                }
+            ],
+            "funding-statement": "The research was funded by Koret-UC Berkeley-Tel Aviv University Initiative in Computational Biology and Bioinformatics to RN"
+        }
+    ]
+}

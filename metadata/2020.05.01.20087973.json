@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The emergence of COVID-19 has created an urgent threat to public health worldwide. With rapidly evolving demands on healthcare resources, it is imperative that healthcare systems have the ability to access real-time local data to predict, plan, and effectively manage resources. Objective: To develop an interactive COVID-19 Utilization and Resource Visualization Engine (CURVE) as a data visualization tool to inform decision making and guide a large health system's proactive pandemic response. Methods: We designed and implemented CURVE using R Shiny to display real-time parameters of healthcare utilization at Atrium Health with projections based upon locally derived models for the COVID-19 pandemic. We used the CURVE app to compare predictions from two of our models: one created before and one after the statewide stay-at-home and social distancing orders (denoted before- and after-SAH-order model). We established parameter settings for best-, moderate-, and worst-case scenarios for pandemic spread and resource use, leveraging two locally developed forecasting models to determine peak date trajectory, resource use, and root mean square error (RMSE) between observed and predicted results. Results: CURVE predicts and monitors utilization of hospital beds, ICU beds, and number of ventilators in the context of up-to-date local resources and provides Atrium Health leadership with timely, actionable insights to guide decision-making during the COVID-19 pandemic. The after-SAH-order model demonstrated the lowest RMSE in total bed, ICU bed, and patients on ventilators. Conclusions: CURVE provides a powerful, interactive interface that provides locally relevant, dynamic, timely information to guide health system decision making and pandemic preparedness.\nCompeting Interest Statement",
+    "author": "Jennifer S. Priem; Shih-Hsiung Chou; Marc Kowalkowski; Andrew D. McWilliams; Ryan Burns; Jason Roberge; Pooja Palmer; Philip Turk; James T. Kearns; Yhenneko J Taylor",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087973",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087973"
+    },
+    "title": "COVID-19 Utilization and Resource Visualization Engine (CURVE) to Forecast In-Hospital Resources",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

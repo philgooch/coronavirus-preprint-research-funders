@@ -1,0 +1,41 @@
+{
+    "abstract": "Chloroquine (CQ) and hydroxychloroquine (HCQ) have been used in treating COVID-19 patients recently. However, both drugs have some contradictions and rare but severe side effects, such as hypoglycemia, retina and cardiac toxicity. To further uncover the toxicity profile of CQ and HCQ in different tissues, we evaluated the cytotoxicity of them in 8 cell lines, and further adopted the physiologically-based pharmacokinetic models (PBPK) to predict the tissue risk respectively. Retina, myocardium, lung, liver, kidney, vascular endothelium and intestinal epithelium originated cells were included in the toxicity evaluation of CQ and HCQ respectively. The proliferation pattern was monitored in 0-72 hours by IncuCyte S3, which could perform long-term continuous image and video of cells upon CQ or HCQ treatment. CC50 and the ratio of tissue trough concentrations to CC50 (RTTCC) were brought into predicted toxicity profiles. The CC50 at 24 h, 48 h, 72 h of CQ and HCQ decreased in the time-dependent manner, which indicates the accumulative cytotoxic effect. HCQ was found to be less toxic in 7 cell types except cardiomyocytes H9C2 cells (CC50-48 h=29.55 \u03bcM; CC50-72 h=15.26 \u03bcM). In addition, RTTCC is significant higher in CQ treatment group compared to HCQ group, which indicates that relative safety of HCQ. Both CQ and HCQ have certain cytotoxicity in time dependent manner which indicates the necessity of short period administration clinically. HCQ has the less impact in 7 cell lines proliferation and less toxicity compared to CQ in heart, liver, kidney and lung.",
+    "affiliations": [
+        "National Major New Drug Projects (No. 2017ZX09101001-002-001)"
+    ],
+    "author": "Xu Liu; Yang Liu; Meng Wu; Zhengyang Guo; Lixiang Xue; Cheng Cui; Qi Liu; Xueting Yao; Chunli Song; Haiyan Li; Jianling Yang; Dongyang Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.056762",
+    "identifiers": {
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.22.056762"
+    },
+    "title": "Cytotoxicity evaluation of chloroquine and hydroxychloroquine in multiple cell lines and tissues by dynamic imaging system and PBPK model",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Science and Technology of the People\u2019s Republic of China)"
+                },
+                {
+                    "funding-source": "SARS-nCov-02 Research",
+                    "award-id": [
+                        "2020YFC0844500"
+                    ]
+                },
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation",
+                    "award-id": [
+                        "INV-015694"
+                    ]
+                },
+                {
+                    "funding-source": "National Major New Drug Projects",
+                    "award-id": [
+                        "2017ZX09101001-002-001"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding sources, This work was supported by the MOST (Ministry of Science and Technology of the People\u2019s Republic of China) foundation for SARS-nCov-02 Research (grant No 2020YFC0844500) and Bill & Melinda Gates Foundation [INV-015694]; and \u201c13th Five-Year\u201d National Major New Drug Projects (No 2017ZX09101001-002-001)"
+        }
+    ]
+}

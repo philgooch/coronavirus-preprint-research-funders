@@ -1,0 +1,29 @@
+{
+    "abstract": "As the pandemic of Coronavirus Disease 2019 (COVID-19) rages throughout the world, accurate modeling of the dynamics thereof is essential. However, since the availability and quality of data varies dramatically from region to region, accurate modeling directly from a global perspective is difficult, if not altogether impossible. Nevertheless, via local data collected by certain regions, it is possible to develop accurate local prediction tools, which may be coupled to develop global models. In this study, we analyze the dynamics of local outbreaks of COVID-19 via a coupled system of ordinary differential equations (ODEs). Utilizing the large amount of data available from the ebbing outbreak in Hubei, China as a testbed, we estimate the basic reproductive number, R0 of COVID-19 and predict the total cases, total deaths, and other features of the Hubei outbreak with a high level of accuracy. Through numerical experiments, we observe the effects of quarantine, social distancing, and COVID-19 testing on the dynamics of the outbreak. Using knowledge gleaned from the Hubei outbreak, we apply our model to analyze the dynamics of outbreak in Turkey. We provide forecasts for the peak of the outbreak and the total number of cases/deaths in Turkey, for varying levels of social distancing, quarantine, and COVID-19 testing.",
+    "affiliations": [
+        "Turkish Ministry of National Education in the study, Batman University, University of Tennessee at Knoxville, and Michigan State University"
+    ],
+    "author": "ibrahim Halil Aslan; Suzanne Lenhart; Michael Morgan Wise; Mahir Demir",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20061952",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20061952"
+    },
+    "title": "Modeling COVID-19: Forecasting and analyzing the dynamics of the outbreak in Hubei and Turkey",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Turkish Ministry of National Education in the"
+                },
+                {
+                    "funding-source": "Batman University, University"
+                },
+                {
+                    "funding-source": "Michigan State University"
+                }
+            ],
+            "funding-statement": "The authors would like to acknowledge the generous support of the Turkish Ministry of National Education in the study, Batman University, University of Tennessee at Knoxville, and Michigan State University"
+        }
+    ]
+}

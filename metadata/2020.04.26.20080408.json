@@ -1,0 +1,82 @@
+{
+    "abstract": "The SARS-CoV-2 pandemic has resulted in widespread morbidity and mortality globally, but with widely variable outcomes. The development of severe disease and mortality is higher in older individuals, males and those with other co-morbidities, and may vary across ethnic groups. However, so far, no host genetic factor has been clearly associated with susceptibility and development of severe disease. To understand the impact of host genetics on expression of ACE2 (SARS-CoV-2 receptor) during RNA virus infection we performed a GWAS for ACE2 expression in HCV-infected liver tissue from 195 individuals. We discovered that polymorphisms in the host IFNL region which control expression of IFNL3 and IFNL4 modulate ACE2 expression. ACE2 expression was regulated additionally by age, with a subsidiary effect of co-morbidity. The IFNL locus controlled expression of a gene network incorporating many well-known interferon-stimulated genes which anti-correlated with ACE2 transcript levels. The same anti-correlation was found in the gastrointestinal tract, a site of SARS-CoV-2 replication where inflammation driven interferon-stimulated genes are negatively correlated with ACE2 expression. The interferon dependent regulation of ACE2 was identified in a murine model of SARS-CoV-1 suggesting conserved regulation of ACE2 across species. Polymorphisms in the IFNL region, as well as age, may impact not only on classical antiviral responses but also on ACE2 with potential consequences for clinical outcomes in distinct ethnic groups and with implications for therapeutic interventions.",
+    "affiliations": [
+        "Wellcome Centre for Human Genetics provided by the Wellcome Trust (203141/Z/16/Z). This work was also supported by the Medical Research Council [grant number MC_PC_19059] and a strategic award from the Wellcome Trust (211276/Z/18/Z \u0096 WSSS). PK, is supported as"
+    ],
+    "author": "Alex Mentzer; Suresh Venkateswaran; Eshita Sharma; Holm Uhlig; Subra Kugathasan; STOP-HCV consortium; Sarah Teichmann; Narayan Ramamurthy; John Kenneth Baillie; Rory Bowden; Carl-Philipp Hackstein; John McLauchlan; John Todd; Eleanor Barnes; Paul Klenerman; Dominik Aschenbrenner; Emanuele Marchi; Angela Mo; ISARIC-4C Investigators; M. Azim Ansari; Greg Gibson; Vincent Pedergnana; Julian Knight",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20080408",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20080408"
+    },
+    "title": "A gene locus that controls expression of ACE2 in virus infection",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "MR/K01532X/1"
+                    ]
+                },
+                {
+                    "funding-source": "STOP-HCV Consortium)"
+                }
+            ],
+            "funding-statement": "This work was funded by a grant from the Medical Research Council (MR/K01532X/1 \u0096 STOP-HCV Consortium)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Centre for Human Genetics"
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "203141/Z/16/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "The work was supported by Core funding to the Wellcome Centre for Human Genetics provided by the Wellcome Trust (203141/Z/16/Z)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "MC_PC_19059"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "211276/Z/18/Z \u0096 WSSS"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was also supported by the Medical Research Council [grant number MC_PC_19059] and a strategic award from the Wellcome Trust (211276/Z/18/Z \u0096 WSSS)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council UK,"
+                },
+                {
+                    "funding-source": "Oxford NIHR Biomedical Research Centre and"
+                },
+                {
+                    "funding-source": "NIHR Senior Investigator"
+                }
+            ],
+            "funding-statement": "EB was funded by the Medical Research Council UK, the Oxford NIHR Biomedical Research Centre and is an NIHR Senior Investigator"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Biomedical Research Centre, Oxford"
+                }
+            ],
+            "funding-statement": "The work was also supported by the NIHR Biomedical Research Centre, Oxford"
+        }
+    ]
+}

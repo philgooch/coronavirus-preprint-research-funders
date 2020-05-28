@@ -1,0 +1,42 @@
+{
+    "abstract": "Public health officials need to make urgent decisions to reduce the potential impact of the CoVID-19 pandemic. Benchmarking based on the increase in total cases or case fatality rates is one way of comparing performance across countries or territories (such as states in the USA), and could inform policy decisions about COVID-19 mitigation strategies. But comparing cases and fatality across territories is challenging due to heterogeneity in testing and health systems. We show two complementary ways of benchmarking across countries or US states. First, we used multivariate regressions to estimate the test-elasticity-of-COVID-19-case-incidence. We found a 10% increase in testing yielded ~9% (95% CI:4.2-13.4%; p<0.001) increase in reported cases across countries, and ~2% (95%CI:0.1-3.4%; p=0.03) increase across US states during the week ending April 10th, 2020. We found comparable negative elasticities for fatality rates (across countries: beta;=-0.77, 95%CI:-1.40- -0.14; p=0.02; US states: beta;=-0.15, 95%CI:-0.30-0.01; p=0.06). Our results were robust to various model specifications. Second, we decomposed the growth in cases into test growth and positive test ratio (PTR) growth to intuitively visualize the components of case growth. We hope these results can help support evidence-based decisions by public health officials as more consistent data hopefully becomes available.",
+    "author": "Rodrigo Wagner; Kenzo Asahi; Eduardo A. Undurraga",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087882",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087882"
+    },
+    "title": "Benchmarking the CoVID-19 pandemic across countries and states in the U.S.A. under heterogeneous testing",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Millennium Science Initiative of the Ministry of Economy, Development"
+                },
+                {
+                    "funding-source": "Government of Chile,"
+                },
+                {
+                    "funding-source": "Millennium Nucleus for Collaborative Research in Antimicrobial Resistance\"",
+                    "award-id": [
+                        "11191206"
+                    ]
+                },
+                {
+                    "funding-source": "FONDECYT Grant",
+                    "award-id": [
+                        "11191206",
+                        "ANID/F"
+                    ]
+                },
+                {
+                    "funding-source": "FONDAP",
+                    "award-id": [
+                        "15110020"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was partially supported by the Millennium Science Initiative of the Ministry of Economy, Development and Tourism, Government of Chile, grant \"Millennium Nucleus for Collaborative Research in Antimicrobial Resistance\"; by FONDECYT Grant 11191206, and research support provided by CEDEUS, ANID/FONDAP 15110020"
+        }
+    ]
+}

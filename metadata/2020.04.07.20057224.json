@@ -1,0 +1,35 @@
+{
+    "abstract": "Background and Objectives: The SARS-CoV2 pandemic has lead to a global decrease in protection ware, especially facepiece filtering respirators (FFRs). Ultraviolet-C wavelength is a promising way of descontamination, however adequate dosimetry is needed to ensure balance between over and underexposed areas and provide reliable results. Our study demonstrates that UVGI light dosage varies significantly on different respirator angles, and propose a method to descontaminate several masks at once ensuring appropriate dosage in shaded zones. Methods: An UVGI irradiator was built with internal dimensions of 69.5 x55 x 33 cm with three 15W UV lamps. Inside, a grating of 58 x 41 x 15 cm was placed to hold the masks. Two different respirator models were used to assess irradiance, four of model Aura 9322 3M of dimensions 17 x 9 x 4cm, and two of model SAFE 231FFP3NR with dimensions 17 x 6 x 5 cm. A spectrometer STN-SilverNova was employed to verify wavelength spectrum and surface irradiance. A simulation was performed to find the irradiance pattern inside the box and the six masks placed inside. These simulations were carried out using the software DIALUX EVO 8.2. Results: The data obtained reveal that the dosage received inside the manufactured UVGI-irradiator depends not only on the distance between the luminaires plane and the base of the respirators but also on the orientation and shape of the masks. This point becomes relevant in order to assure that all the respirators inside the chamber receive the correct dosage. Conclusion: Irradiance over FFR surfaces depend on several factors such as distance, angle of incidence of the light source. Careful dosage measurement and simulation can ensure reliable dosage in the whole mask surface, balancing overexposure. Closed box systems might provide a more reliable, reproducible UVGI dosage than open settings.",
+    "author": "Aurora Baluja; Ramon Vilanova; Justo Arines; Maria Teresa Flores-Arias; Carmen Bao-Varela",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20057224",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20057224"
+    },
+    "title": "UV light dosage distribution over irregular respirator surfaces. Methods and implications for safety",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Conseller\u00eda de Educaci\u00f3n Program for Development of"
+                },
+                {
+                    "funding-source": "Strategic Grouping in Materials",
+                    "award-id": [
+                        "ED431E2018/08"
+                    ]
+                },
+                {
+                    "funding-source": "AeMAT Grant No",
+                    "award-id": [
+                        "ED431E2018/08"
+                    ]
+                },
+                {
+                    "funding-source": "Xunta de Galicia"
+                }
+            ],
+            "funding-statement": "This work was partially supported by the Conseller\u00eda de Educaci\u00f3n Program for Development of a Strategic Grouping in Materials \u0096 AeMAT Grant No ED431E2018/08 and Xunta de Galicia ref"
+        }
+    ]
+}

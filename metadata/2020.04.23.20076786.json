@@ -1,0 +1,16 @@
+{
+    "abstract": "We propose an approximate methodology for estimating the overall level of immunity against COVID-19 in a population that has been affected by the recent epidemic. The methodology relies on the currently available mortality data and utilizes the properties of the SIR model. We illustrate the application of the method by estimating the recent levels of immunity in 10 US states with highest case numbers of COVID-19.\nCompeting Interest Statement",
+    "author": "Andrew Lesniewski",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076786",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076786"
+    },
+    "title": "Estimating population immunity without serological testing",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The research did not use outside funding."
+        }
+    ]
+}

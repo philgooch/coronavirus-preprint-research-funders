@@ -1,0 +1,52 @@
+{
+    "title": "Molecular Detection of SARS-CoV-2 in Formalin Fixed Paraffin Embedded Specimens",
+    "date": 2020,
+    "author": "Jun Liu, April M. Babka, Brian J. Kearney, Sheli R. Radoshitzky, Jens H. Kuhn, and",
+    "affiliations": [
+        "Army Medical Research Institute of Infectious Diseases, Fort Detrick, Frederick",
+        "Integrated Research Facility at Fort Detrick, National Institute of",
+        "Allergy and Infectious Diseases, National, Institutes of Health, Fort Detrick, Frederick, MD",
+        "Institute of Infectious Diseases (USAMRIID), 1425 Porter Street, Fort Detrick, Frederick, MD 11 21702, USA. Phone: +1-301-619-3401; Fax: +1-302-619-4627"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.21.042911",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.21.042911.pdf"
+    },
+    "abstract": "Liu et al. 14 Abstract Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the cause of human coronavirus disease 2019 (COVID-19), emerged in Wuhan, China in December 2019. The virus rapidly spread globally, resulting in a public-health crisis including more than one million cases and tens of thousands of deaths. Here, we describe the identification and evaluation of commercially available reagents and assays for the molecular detection of SARS-CoV-2 in infected formalin fixed paraffin embedded (FFPE) cell pellets. We identified a suitable rabbit polyclonal anti-SARS-CoV spike protein antibody and a mouse monoclonal anti-SARS-CoV nucleocapsid protein (NP) antibody for cross detection of the respective SARS-CoV-2 proteins by immunohistochemistry (IHC) and immunofluorescence assay (IFA). Next, we established RNAscope in situ hybridization (ISH) to detect SARS-CoV-2 RNA. Furthermore, we established a multiplex fluorescence ISH (mFISH) to detect positive-sense SARS-CoV-2 RNA and negative26 sense SARS-CoV-2 RNA (a replicative intermediate indicating viral replication). Finally, we developed a dual staining assay using IHC and ISH to detect SARS-CoV-2 antigen and RNA in the same FFPE section. These reagents and assays will accelerate COVID-19 pathogenesis studies in humans and in COVID-19 animal models.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Lynda Miller and Neil Davis",
+                    "award-id": [
+                        "Frederick"
+                    ]
+                },
+                {
+                    "funding-source": "Paul Facemire and Kathleen Gibson"
+                },
+                {
+                    "funding-source": "Defense Health Program"
+                }
+            ],
+            "funding-statement": "We thank Lynda Miller and Neil Davis (USAMRIID, Frederick, MD, USA) for histology assistance and Paul Facemire and Kathleen Gibson at USAMRIID for coordinating the cell infection study. This work was funded by Defense Health Program (DHP)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Laulima Government Solutions, LLC"
+                },
+                {
+                    "funding-source": "US National Institute of Allergy and Infectious Diseases",
+                    "award-id": [
+                        "HHSN272201800013C"
+                    ]
+                }
+            ],
+            "funding-statement": "JHK\u2019s participation was funded, in part, through Laulima Government Solutions, LLC prime contract with the US National Institute of Allergy and Infectious Diseases (NIAID) under Contract No HHSN272201800013C"
+        }
+    ]
+}

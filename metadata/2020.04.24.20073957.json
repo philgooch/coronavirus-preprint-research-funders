@@ -1,0 +1,29 @@
+{
+    "abstract": "Background: Reliable estimates of the incubation period are important for decision making around the control of infectious diseases. Knowledge of the incubation period distribution can be used directly to inform decision-making or as inputs into mathematical models. Objectives: The aim of this study was to conduct a rapid systematic review and meta-analysis of estimates of the incubation periods of COVID-19. Design: Rapid systematic review and meta-analysis of observational research Data sources: Publications on the electronic databases PubMed, Google Scholar, MedRxiv and BioRxiv were searched. The search was not limited to peer-reviewed published data, but also included pre-print articles. Study appraisal and synthesis methods: Studies were selected for meta-analysis if they reported either the parameters and confidence intervals of the distributions fit to the data, or sufficient information to facilitate calculation of those values. The majority of studies suitable for inclusion in the final analysis modelled incubation period as a lognormal distribution. We conducted a random effects meta-analysis of the parameters of this distribution. Results: The incubation period distribution may be modelled with a lognormal distribution with pooled mu and sigma parameters of 1.63 (1.51, 1.75) and 0.50 (0.45, 0.55) respectively. The corresponding mean was 5.8 (5.01, 6.69 days). It should be noted that uncertainty increases towards the tail of the distribution: the pooled parameter estimates resulted in a median incubation period of 5.1 (4.5, 5.8) days, whereas the 95th percentile was 11.6 (9.5, 14.2) days. Conclusions and implications: The choice of which parameter values are adopted will depend on how the information is used, the associated risks and the perceived consequences of decisions to be taken. These recommendations will need to be revisited once further relevant information becomes available. Finally, we present an RShiny app that facilitates updating these estimates as new data become available.\nCompeting Interest Statement",
+    "affiliations": [
+        "University College Dublin, the Irish Department of Food and the Marine or University of Nottingham. No additional funding was obtained for this research"
+    ],
+    "author": "Luke O'Grady; Ann Barber; Elizabeth Lane; David McEvoy; Martin J Green; Conor G McAloon; Francis Butler; Patrick Wall; John M Griffin; Simon J More; Miriam Casey; Aine Collins; Kevin Hunt; Andrew Byrne",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20073957",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20073957"
+    },
+    "title": "The incubation period of COVID-19: A rapid systematic review and meta-analysis of observational research",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University College Dublin,"
+                },
+                {
+                    "funding-source": "Irish Department of Food and the Marine"
+                },
+                {
+                    "funding-source": "University of Nottingham. No"
+                }
+            ],
+            "funding-statement": "All investigators are full-time employees (or retired former employees) of University College Dublin, the Irish Department of Food and the Marine or University of Nottingham. No additional funding was obtained for this research."
+        }
+    ]
+}

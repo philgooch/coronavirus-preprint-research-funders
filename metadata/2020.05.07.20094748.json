@@ -1,0 +1,16 @@
+{
+    "abstract": "The COVID-19 pandemic underscored the importance of countries' interconnections in understanding and reacting to the spread of the virus. This paper uses a global model with a sample of 41 countries to study the interdependencies between COVID-19 health shocks, populations' risk perceptions about the disease, and their social distancing responses; it also provides some early evidence about potential economic effects. Social networks are a central component in understanding the international transmission. We exploit a dataset on existing social connections across country borders, made available by Facebook, and show that social networks help explain not only the spread of the disease, but also cross-country spillovers in risk perceptions and in social behavior. Social distancing responses across countries are measured based on aggregated mobility tracking indicators, obtained from Google Mobility Reports. We estimate a Global VAR (GVAR) model, which allows for endogeneity of each health, social, and economic, domestic variable, and for a dependence of domestic variables on country-specific foreign aggregates, which depend in turn on the matrix of social connections. Our empirical results highlight the importance of cross-country interdependencies and social networks. Risk perceptions and social responses are affected by experiences abroad, with Italy and the U.S. playing large roles in our sample. The social distancing responses to domestic health shocks are heterogeneous across countries, but they share some similarities: they adjust only gradually and with delay, hence displaying adaptive behavior. Early indicators are suggestive of unemployment consequences that vary widely across countries, depending on their labor market characteristics. Unemployment is particularly responsive to health shocks in the U.S. and Spain, while the fluctuations are attenuated almost everywhere else.",
+    "author": "Fabio Milani",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20094748",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20094748"
+    },
+    "title": "COVID-19 Outbreak, Social Response, and Early Economic Effects: A Global VAR Analysis of Cross-Country Interdependencies",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding."
+        }
+    ]
+}

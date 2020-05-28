@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Coronavirus disease (COVID-19) is an infectious disease caused by a new virus. Exponential growth is not only threatening lives, but also impacting businesses and disrupting travel around the world. Aim: The aim of this work is to develop an efficient diagnosis of COVID-19 disease by differentiating it from viral pneumonia, bacterial pneumonia and healthy cases using deep learning techniques. Method: In this work, we have used pre-trained knowledge to improve the diagnostic performance using transfer learning techniques and compared the performance different CNN architectures. Results: Evaluation results using K-fold (10) showed that we have achieved state of the art performance with overall accuracy of 98.75% on the perspective of CT and X-ray cases as a whole. Conclusion: Quantitative evaluation showed high accuracy for automatic diagnosis of COVID-19. Pre-trained deep learning models develop in this study could be used early screening of coronavirus, however it calls for extensive need to CT or X-rays dataset to develop a reliable application.\nCompeting Interest Statement",
+    "author": "Imran Razzak; Arshia Rehman; Ahmad Zaib; Saeeda Naz; Ahmed Khan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20054643",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20054643"
+    },
+    "title": "Improving Coronavirus (COVID-19) Diagnosis using Deep Transfer Learning",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

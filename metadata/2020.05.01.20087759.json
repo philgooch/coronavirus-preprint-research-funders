@@ -1,0 +1,16 @@
+{
+    "abstract": "The novel coronavirus (COVID-19) has already spread to almost every country in the world and has infected over 3 million people. To understand the transmission mechanism of this highly contagious virus, it is necessary to study the potential factors, including meteorological conditions. Here, we present a machine learning approach to study the effect of temperature, humidity and wind speed on the number of infected people in the three most populous autonomous communities in Spain. We find that there is a moderate inverse correlation between temperature and the daily number of infections. This correlation manifests for temperatures recorded up to 6 days before the onset, which corresponds well to the known mean incubation period of COVID-19. We also show that the correlation for humidity and wind speed is not significant.",
+    "author": "Amir Abdollahi; Maryam Rahbaralam",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087759",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087759"
+    },
+    "title": "Effect of Temperature on the Transmission of COVID-19: A Machine Learning Case Study in Spain",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this study."
+        }
+    ]
+}

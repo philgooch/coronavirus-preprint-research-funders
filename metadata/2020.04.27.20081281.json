@@ -1,0 +1,29 @@
+{
+    "abstract": "The spread of the novel coronavirus is characterized by two phases: (I) a natural exponential growth phase that occurs in the absence of intervention and (II) a regulated growth phase that is affected by enforcing social distancing and isolation. We have developed a fundamental spreading model for the COVID-19 epidemic that has two parameters: the community transmission rate and a metric describing the degree of isolation and social distancing in a given community or region (country, state, county, or city). These two parameters are calibrated to data from the community, so the model uncertainty depends on the quality of the data and ability to test for COVID-19. The model shows that social distancing significantly reduces the epidemic spread and flattens the curve. The model predicts well the spreading trajectory and peak time of new infections for a community of any size and provides an upper estimate for the total number of infections and daily new infection rate for weeks into the future, providing the vital information and lead time needed to prepare for and mitigate the epidemic. The theory has immediate and far-reaching applications for ongoing outbreaks or similar future outbreaks of other emergent infectious diseases.",
+    "affiliations": [
+        "Department of Energy by the Los Alamos National Laboratory under Contract No. 89233218CNA000001"
+    ],
+    "author": "Yi-Ming Wang; Baolian Cheng",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20081281",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20081281"
+    },
+    "title": "A fundamental model and predictions for the spread of the COVID-19 epidemic",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "U.S Department of Energy"
+                },
+                {
+                    "funding-source": "Los Alamos National Laboratory",
+                    "award-id": [
+                        "89233218CNA000001"
+                    ]
+                }
+            ],
+            "funding-statement": "B.C. was supported under the auspices of the U.S Department of Energy by the Los Alamos National Laboratory under Contract No 89233218CNA000001."
+        }
+    ]
+}

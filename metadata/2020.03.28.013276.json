@@ -1,0 +1,60 @@
+{
+    "title": "Site-specific N-glycosylation Characterization of Recombinant SARS-CoV-2 Spike Proteins",
+    "author": "Yong Zhang, Wanjun Zhao, Yonghong Mao, Shisheng Wang, Yi Zhong, Tao Su, Meng Gong, Dan Du, Xiaofeng Lu, Jingqiu Cheng, Hao Yang,* Affiliations: 1Key Laboratory of Transplant Engineering and Immunology, MOH; West China-Washington Mitochondria and Metabolism Research Center, West China Hospital, Sichuan University, Chengdu 610041, China. 2Regenerative Medical Research Center, West China Hospital, Sichuan University, Chengdu 610041, China. 3Department of Thyroid Surgery, West China Hospital, Sichuan University, Chengdu 610041, China. 4Thoracic Surgery Research Laboratory, West China Hospital, Sichuan University, Chengdu 610041, China. *To whom correspondence should be addressed: yanghao@scu.edu.cn \u2020. These authors contributed equally to this work",
+    "date": 2020,
+    "affiliations": [
+        "Key Laboratory of Transplant Engineering and Immunology, MOH; West China-Washington Mitochondria and Metabolism Research Center, West China Hospital, Sichuan University, Chengdu 610041, China",
+        "Regenerative Medical Research Center, West China Hospital, Sichuan University, Chengdu 610041, China",
+        "Department of Thyroid Surgery, West China Hospital, Sichuan University, Chengdu 610041, China",
+        "Thoracic Surgery Research Laboratory, West China Hospital, Sichuan University, Chengdu 610041, China. *To whom correspondence should be addressed:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.28.013276",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.28.013276.pdf"
+    },
+    "abstract": "The glycoprotein spike (S) on the surface of SARS-CoV-2 is a determinant for viral invasion and host immune response. Herein, we characterized the site-specific N-glycosylation of S protein at the level of intact glycopeptides. All 22 potential N-glycosites were identified in the S-protein protomer and were found to be preserved among the 753 SARS-CoV-2 genome sequences. The glycosite occupancy by different glycoforms exhibited remarkable heterogeneity in human cell-expressed protein subunits, including up to 157 N-glycans, mainly of the complex type. In contrast, the insect cell-expressed S protein contained 38 N-glycans, primarily of the high-mannose type. Our results revealed that the glycan types were highly determined by the differential processing of N-glycans among human and insect cells. This N-glycosylation landscape and the differential N-glycan patterns among distinct host cells are expected to shed light on the infection mechanism and present a positive view for the development of vaccines and targeted drugs. Keywords: SARS-CoV-2; Spike protein; N-glycosylation; Mass spectrometry.",
+    "keywords": [
+        "SARS-CoV-2",
+        "Spike protein",
+        "N-glycosylation",
+        "Mass spectrometry"
+    ],
+    "hyperbole": [
+        "The glycosite occupancy by different glycoforms exhibited remarkable heterogeneity in human cell-expressed protein subunits, including up to 157 N-glycans, mainly of the complex type. In contrast, the insect cell-expressed S protein contained 38 N-glycans, primarily of the high-mannose type. Our results revealed that the glycan types were highly determined by the differential processing of N-glycans among human and insect cells. This N-glycosylation landscape and the differential N-glycan patterns among distinct host cells are expected to shed light on the infection mechanism and present a positive view for the development of vaccines and targeted drugs. Keywords: SARS-CoV-2; Spike protein; N-glycosylation; Mass spectrometry.",
+        "The average occupancies of all glycosites presented as an overwhelming proportion (~75%) of complex N-glycans and a small proportion of hybrid (~13%) or high-mannose (~12%) N-glycans (Fig. 3F). The glycan occupancy on two N-glycosites (N331 and N343) of RBD were identified (Fig. 3E and 3F). The high occupancy of RBD glycosites by various N-glycan compositions implies that N-glycosylation might be associated with the recognition of RBD to ACE2 receptor, since the interaction between RBD and ACE2 mainly depends on polar residue interactions(11). Our results suggest that S proteins expressed in different cells display distinct N-glycosylation patterns. In particular, the glycosylation of the S protein in human cells exhibits remarkable heterogeneity on N-glycosites. However, the N-glycan types on each glycosite is primarily determined by the host cells rather than the location of different glycosites (Fig. 3E-3F, Fig. S8).",
+        "The remarkable heterogeneity of N-glycosylation in the S protein subunit expressed in human cells was revealed in our study (Fig. 3F). By contrast, the N-glycosylation of the S protein subunit in insect cells showed less heterogeneity and complexity than that of human cell-derived proteins (Fig. 3E). Moreover, the site-specific glycan occupancy tended to be identical in the same host cell, regardless of protein length (Fig. 4D and 4E). These results indicate the N-glycan compositions and types on S protein largely attribute to different host cells with the differential processing pathways of glycosylation. We can expect that the native N-glycosylation profile of the SARS-CoV-2 S protein in humans tends to be consistent with that of the recombinant protein expressed in human cells, unless the virus buds off early in the glycosylation processing pathway and produces immature glycans(19, 27, 35). Intriguingly, the immature N-glycans such as high-mannose are regarded as \u201cnon-self\u201d glycans (35, 36). Therefore, the insect cell-expressed recombinant antigens decorated with paucimannose and high mannose are more immunogenic in mice than those produced in human cells(37, 38). In contrast, the vaccine antigens produced from mammalian cells do not always induce a strong humoral immune response in mice, because of the complex-type N-glycans(39). To prime strong humoral immunity upon vaccination against SARS-CoV-2, insect cell-produced antigens with less complex N-glycans could be one of the candidates for the development of vaccines and neutralizing antibodies. Apart from amino acid epitopes, the glycopeptide can be presented by major histocompatibility complex (MHC) and recognized by a CD4+ T-cell population to help B cells produce antibodies against glycans. The glycoconjugate has been used to boost the immune response against infections(23, 24). The insect cell-produced S protein subunits could prime protective immunity against the \u201cnon-self\u201d oligomannose N-glycans, in case of the immature N-glycans linked to the native envelope proteins of SARS-CoV-2, which seems to occur in the SARS-CoV replication(35). In contrast, the human cell-expressed S protein subunits as vaccines mimic the \u201cself\u201d glycans in human, which are not expected to boost immune response to the glycoantigens. However, the remaining accessible and non-glycosylated regions can serve as the antigens and epitopes. The rational design of antigens to prime potent and broad immune responses against accessible epitopes on SARS-CoV S protein is essential and promising."
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31901038"
+                    ]
+                },
+                {
+                    "funding-source": "Project for Disciplines of Excellence, West"
+                },
+                {
+                    "funding-source": "China Hospital, Sichuan",
+                    "award-id": [
+                        "ZYGD18014"
+                    ]
+                },
+                {
+                    "funding-source": "Chengdu Science and Technology Department Foundation",
+                    "award-id": [
+                        "2020-YF05-00240-SN",
+                        "ProteomeXchange.com",
+                        "PXD018506"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was funded by grants from the National Natural Science Foundation of China (grant number 31901038), the 1.3.5 Project for Disciplines of Excellence, West China Hospital, Sichuan University (ZYGD18014, CJQ), and the Chengdu Science and Technology Department Foundation (grant number 2020-YF05-00240-SN). Author contributions: H.Y., M.G., D.D., X.L. and J.C directed and designed research; Y.Z. and W.Z. directed and performed analyses of mass spectrometry data; Y. Z., H.Y. and S.W. adapted algorithms and software for data analysis; Y.Z. and T.S. coordinated acquisition, distribution and quality evaluation of samples; Y.Z. and H.Y. wrote the manuscript. Competing interests: The authors declare that they have no competing interests. Data and materials availability: The raw MS data are publicly accessible at ProteomeXchange (ProteomeXchange.com) under the accession number PXD018506."
+        }
+    ]
+}

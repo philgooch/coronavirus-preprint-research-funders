@@ -1,0 +1,55 @@
+{
+    "abstract": "Objectives: To describe baseline clinical characteristics of adult patients with COVID-19. Methods: We conducted a scoping review of the evidence available at LitCovid, until March 23th, 2020, and selected articles that reported the prevalence of socio-demographic characteristics, symptoms and co-morbidities in adults with COVID-19. Results: In total, 1 572 publications were published on LitCovid. We have included 56 articles in our analysis, with 89% conducted in China, and 75% contained inpatients. Three studies were conducted in North America and one in Europe. Participants age ranged from 28 to 70 years, with balanced gender distribution. Proportion of asymptomatic cases were from 2 to 79%. The most common reported symptoms were fever [4-99%], cough [4-92%], dyspnoea/shortness of breath [1-90%], fatigue 4-89%], myalgia [3-65%], and pharyngalgia [2-61%], while regarding co-morbidities we found cardiovascular disease [1-40%], hypertension [0-40%] and cerebrovascular disease [1-40%]. Such heterogeneity impairs the conduction of meta-analysis. Conclusions: The infection by COVID-19 seems to affect people in a very diverse manner and with different characteristics. With the available data it is not possible to clearly identify those at higher risk of being infected with this condition. Furthermore, the evidence from countries other than China is, at the day, too scarce.",
+    "author": "Matilde Monteiro-Soares; Priscila Maranhao; Daniela Ferreira-Santos",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20100271",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20100271"
+    },
+    "title": "Identifying baseline clinical features of people with COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Daniela Ferreira-Santos",
+                    "award-id": [
+                        "PD/BD/13553/2018"
+                    ]
+                }
+            ],
+            "funding-statement": "The work from Daniela Ferreira-Santos was supported by Fundac\u00e3o para a Ci\u00eancia e Tecnologia (FCT) [grant number PD/BD/13553/2018]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Priscila Maranh\u00e3o"
+                },
+                {
+                    "funding-source": "Oncology Information System",
+                    "award-id": [
+                        "POCI-05-5762-FSE-039021"
+                    ]
+                },
+                {
+                    "funding-source": "North Portugal Regional Operational Programme",
+                    "award-id": [
+                        "NORTE 2020"
+                    ]
+                },
+                {
+                    "funding-source": "NORTE"
+                },
+                {
+                    "funding-source": "Partnership Agreement,"
+                },
+                {
+                    "funding-source": "European Regional Development Fund"
+                },
+                {
+                    "funding-source": "European Social Fund"
+                }
+            ],
+            "funding-statement": "The work from Priscila Maranh\u00e3o was supported by ODISSEIA - Oncology Information System project (POCI-05-5762-FSE-039021), financed by the North Portugal Regional Operational Programme (NORTE 2020), under the PORTUGAL 2020 Partnership Agreement, and through the European Regional Development Fund (ERDF) and European Social Fund (ESF) respectively"
+        }
+    ]
+}

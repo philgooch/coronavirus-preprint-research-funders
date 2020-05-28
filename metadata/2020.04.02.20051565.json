@@ -1,0 +1,31 @@
+{
+    "abstract": "The mortality of Coronavirus disease 2019 (COVID-19) appears to be driven by acute respiratory distress syndrome (ARDS) and a dysregulated immune response to SARS-CoV-2. Emerging evidence suggests that a subset of COVID-19 is characterized by the development of a cytokine storm syndrome (CSS), and interleukin (IL)-6 levels are predictors of COVID-19 severity and in-hospital mortality. Targeting hyper-inflammation in COVID-19 may be critical for reducing mortality. Catecholamines enhance inflammatory injury by augmenting the production of IL-6 and other cytokines through a self-amplifying feed-forward loop in immune cells that requires alpha-1 adrenergic receptor (\u03b11-AR) signaling. Prophylactic inhibition of catecholamine synthesis with the \u03b11-AR antagonist prazosin reduced catecholamines and cytokine responses in mice, and resulted in markedly increased survival following various hyper-inflammatory stimuli. These findings offer a rationale for studying \u03b11-AR antagonists in the prophylaxis of patients with COVID-19-CSS and ARDS. As high infection rates threaten to overwhelm hospital capacity during this pandemic, preventative approaches that ameliorate COVID-19 severity and reduce excessive mortality are desperately needed. We hypothesize that treatment with prazosin of individuals who test positive for SARS-CoV-2 could reduce catecholamine surges, secondary cytokine dysregulation, and mortality. To investigate a potential role for \u03b11-AR antagonists in preventing poor outcomes in ARDS, we conducted a retrospective analysis of hospitalized patients diagnosed with ARDS. Using data from the Truven Health MarketScan Research Database (2010-2017), we identified 13,125 men (age 45-64) with ARDS, of whom 655 patients (5.0%) were prescribed \u03b11-AR antagonists in the previous year. Applying logistic regression models, we found that patients with prior use of \u03b11-AR antagonists had lower odds of invasive mechanical ventilation compared to non-users (adjusted OR=0.75, 95% CI 0.59-0.95, p=0.019). Perhaps more importantly, those patients had a ~36% lower incidence of both being ventilated and dying in the hospital (adjusted OR=0.59, 95% CI 0.34-0.95, p=0.042). By contrast, prior use of beta-adrenergic receptor (\u03b2-AR) antagonists was not correlated with either outcome. We extended these analyses to patients admitted with pneumonia. Of 108,956 subjects in this cohort, 5,498 patients (5.0%) were taking \u03b11-AR antagonist. Similar to ARDS, patients with pneumonia on \u03b11-AR antagonists (but no \u03b2-AR antagonists) had a lower odds of mechanical ventilation (adjusted OR=0.83, 95% CI 0.75-0.92, p<0.001) and of both being ventilated and dying in the hospital (adjusted OR=0.77, 95% CI 0.62-0.94, p=0.014) compared to non-users. Mirroring findings from pre-clinical models, these data support a clinical rationale to study \u03b11-AR antagonists in the prevention of severe complications of pneumonia, ARDS, and COVID-19. Prospective, randomized clinical trials of alpha-1 receptor antagonists (e.g. prazosin) administered prior to the onset of severe symptoms are needed to assess their efficacy in preventing CSS and reducing mortality in COVID-19.",
+    "affiliations": [
+        "National Institute of Arthritis and Musculoskeletal and Skin Diseases of the National Institutes of Health under Award no. T32AR048522. This work was further supported by The Virginia and D.K. Ludwig Fund for Cancer Research, The Lustgarten Foundation for Pancreatic Cancer Research, and the BKI Cancer Genetics and Genomics Research Program"
+    ],
+    "author": "Ren-Yuan Bai; Sakibul Huq; Adham M Khalafallah; Allison Koenecke; Nicole Fischer; Maximilian F Konig; Nickolas Papadopoulos; Joshua T Vogelstein; Shibin Zhou; Ruoxuan Xiong; Brett Mensh; Bert Vogelstein; Chetan Bettegowda; Susan Athey; Mike Powell; Verena Staedtke; David L Thomas; Kenneth W Kinzler",
+    "date": 2020,
+    "doi": "10.1101/2020.04.02.20051565",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20051565"
+    },
+    "title": "Targeting the catecholamine-cytokine axis to prevent SARS-CoV-2 cytokine storm syndrome",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Arthritis and Musculoskeletal and Skin Diseases of the National Institutes of Health"
+                }
+            ],
+            "funding-statement": "Dr Konig was supported by the National Institute of Arthritis and Musculoskeletal and Skin Diseases of the National Institutes of Health under Award no"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Virginia and D.K"
+                }
+            ],
+            "funding-statement": "This work was further supported by The Virginia and D.K"
+        }
+    ]
+}

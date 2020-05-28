@@ -1,0 +1,131 @@
+{
+    "title": "STAT2 signaling as double-edged sword restricting viral dissemination but driving severe pneumonia in SARS-CoV-2 infected hamsters",
+    "author": "Microsoft Office User",
+    "date": 2020,
+    "affiliations": [
+        "KU Leuven Department of Microbiology, Immunology and Transplantation, Rega Institute, Laboratory of Virology and Chemotherapy, B-3000 Leuven, Belgium",
+        "Molecular Vaccinology and Vaccine Discovery Group",
+        "Translational Platform Virology and Chemotherapy",
+        "Department of Animal, Dairy, and Veterinary Sciences, Utah State University, UT 84322-4815 Logan, Utah, United States of America 5 KU Leuven Department of Microbiology, Immunology and Transplantation, Rega Institute, Laboratory of Clinical and Epidemiological Virology, B-3000 Leuven, Belgium",
+        "Zoonotic Infectious Diseases Unit",
+        "Laboratory of Viral Metagenomics 8 KU Leuven Department of Imaging and Pathology, Translational Cell and Tissue Research, B-3000 Leuven, Belgium 9 KU Leuven Department of Imaging and Pathology, Biomedical MRI and MoSAIC, B-3000 Leuven, Belgium 10 KU Leuven Department of Imaging and Pathology, Nuclear Medicine and Molecular Imaging and MoSAIC, B-3000 Leuven, Belgium",
+        "Division of Nuclear Medicine, University Hospitals Leuven, B-3000 Leuven, Belgium",
+        "Division of Translational Cell and Tissue Research 13 KU Leuven Department of Microbiology, Immunology and Transplantation, Rega Institute, Immunity and Inflammation Research Group, Immunobiology Unit, B-3000 Leuven, Belgium 14 KU Leuven Department of Laboratory Medicine, University Hospitals Leuven, B-3000 Leuven, Belgium",
+        "National Reference Center for Respiratory Pathogens and Enteroviruses, B-3000 Leuven, Belgium",
+        "Leuven University Vaccinology Center (LUVAC), 3000 Leuven, Belgium 17 KU Leuven Department of Clinical and Experimental Medicine, Division of Respiratory Diseases, University Hospitals Leuven, B-3000 Leuven, Belgium"
+    ],
+    "journal": "SARS",
+    "volume": "2",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.23.056838",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.23.056838.pdf"
+    },
+    "keywords": [
+        "SARS-CoV-2 (2019-nCoV)",
+        "COVID-19",
+        "animal models",
+        "pneumonia",
+        "innate immunity",
+        "STAT2",
+        "IL28R",
+        "type I and III interferons",
+        "immune pathogenesis",
+        "micro-CT"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union\u2019s Horizon",
+                    "award-id": [
+                        "101003627"
+                    ]
+                },
+                {
+                    "funding-source": "SCORE",
+                    "award-id": [
+                        "733176",
+                        "RABYD-VAX consortium"
+                    ]
+                },
+                {
+                    "funding-source": "Research Foundation Flanders"
+                },
+                {
+                    "funding-source": "Excellence of Science",
+                    "award-id": [
+                        "VirEOS project 30981113"
+                    ]
+                },
+                {
+                    "funding-source": "VirEOS project",
+                    "award-id": [
+                        "30981113"
+                    ]
+                },
+                {
+                    "funding-source": "FWO Hercules Foundation",
+                    "award-id": [
+                        "Caps-It infrastructure"
+                    ]
+                },
+                {
+                    "funding-source": "KU Leuven Rega Foundation,"
+                },
+                {
+                    "funding-source": "Stichting Antoine Faes"
+                }
+            ],
+            "funding-statement": "This project has received funding from the European Union\u2019s Horizon 2020 research and innovation program under grant agreements No 101003627 (SCORE project) and No 733176 (RABYD-VAX consortium), and was supported by the Research Foundation Flanders (FWO) under the Excellence of Science (EOS) program (VirEOS project 30981113), the FWO Hercules Foundation (Caps-It infrastructure), the KU Leuven Rega Foundation, and the Stichting Antoine Faes"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "China Scholarship Council"
+                }
+            ],
+            "funding-statement": "J.M. was supported by a grant from the China Scholarship Council (CSC)"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "FWO 1001719N"
+                    ]
+                }
+            ],
+            "funding-statement": "C.C. was supported by the FWO (FWO 1001719N)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "KU Leuven Internal Funds",
+                    "award-id": [
+                        "C24/17/061"
+                    ]
+                },
+                {
+                    "funding-source": "KU Leuven Internal Funds",
+                    "award-id": [
+                        "C3/19/057"
+                    ]
+                },
+                {
+                    "funding-source": "Lab of Excellence)"
+                }
+            ],
+            "funding-statement": "G.V.V. acknowledges grant support from KU Leuven Internal Funds (C24/17/061) and K.D. grant support from KU Leuven Internal Funds (C3/19/057 Lab of Excellence)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "KU Leuven and FWO-Vlaanderen"
+                }
+            ],
+            "funding-statement": "G.O. and E.M. were supported by C16/17/010 funding from KU Leuven and FWO-Vlaanderen"
+        }
+    ]
+}

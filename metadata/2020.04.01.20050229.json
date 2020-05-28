@@ -1,0 +1,20 @@
+{
+    "abstract": "The responsible estimation of parameters is a main issue of mathematical pandemic models. Especially a good choice of \u03b2 as the number of others that one infected person encounters per unit time (per day) influences the adequateness of the results of the model. For the example of the actual COVID-19 pandemic some aspects of the parameter choice will be discussed. Because of the incompatibility of the data of the Johns-Hopkins-University to the data of the German Robert-Koch-Institut we use the COVID-19 data of the European Centre for Disease Prevention and Control (ECDC) as a base for the parameter estimation. Two different mathematical methods for the data analysis will be discussed in this paper and possible sources of trouble will be shown. Parameters for several countries like UK, USA, Italy, Spain, Germany and China will be estimated and used in W.O. Kermack and A.G. McKendrick's SIR model. Strategies for the commencing and ending of social and economic shutdown measures are discussed. The numerical solution of the ordinary differential equation system of the modified SIR model is being done with a Runge-Kutta integration method of fourth order. At the end the applicability of the SIR model could be shown. Suggestions about appropriate points in time at which to commence with lockdown measures based on the acceleration rate of infections conclude the paper.",
+    "affiliations": [
+        "Runge-Kutta integration method of fourth order. At the end the applicability of the SIR model could be shown. Suggestions about appropriate points in time at which to commence with lockdown measures based on the acceleration rate of infections conclude the paper",
+        "Technical University of Berlin is used"
+    ],
+    "author": "Guenter K.F. Baerwolff",
+    "date": 2020,
+    "doi": "10.1101/2020.04.01.20050229",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.01.20050229"
+    },
+    "title": "A Contribution to the Mathematical Modeling of the Corona/COVID-19 Pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There is no funding from outside"
+        }
+    ]
+}

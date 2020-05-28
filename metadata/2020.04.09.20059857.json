@@ -1,0 +1,16 @@
+{
+    "abstract": "INTRODUCTION: During the COVID-19 pandemic, alternative methods of care are needed to reduce the relative risk of transmission in departments. Also needed is the ability to provide vital radiation oncological care if radiation oncologists (RO) are reallocated to other departments. We implemented a novel remote RO SBRT coverage practice, requiring it to be reliable, of high audio and visual quality, timely, and the same level of specialty care as our current in-person treatment coverage practice. METHODS: All observed failure modes were recorded during implementation over the first 15 sequential fractions. The time from CBCT to treatment was calculated before and after implementation to determine timeliness of remote coverage. Image quality metrics were calculated between the imaging console screen and the RO\u2032s shared screen. Comfort levels with audio/visual communication as well as overall comfort in comparison to in-person RO coverage was evaluated using Likert scale surveys after treatment. RESULTS: Remote RO SBRT coverage was successfully implemented in 14/15 fractions with 3 observed process failures that were all corrected before treatment. Average times of pre-treatment coverage before and after implementation were 8.74 and 8.51min, respectively. The cross correlation between the imaging console screen and RO\u2032s shared screen was r=0.96 and lag was 0.05s. The average value for all survey questions was above 4.5, approaching in-person RO coverage comfort levels. CONCLUSIONS: Our novel method of remote RO SBRT coverage permits reduced personnel and patient interactions surrounding RT procedures. This may help to reduce transmission of COVID-19 in our department and provides a means for SBRT coverage if ROs are reallocated to other areas of the hospital for COVID-19 support.",
+    "author": "Borna Maraghechi; Geoffrey D Hugo; Nels C Knutson; Taeho Kim; Lauren E Henke; Clifford G Robinson; Alex T Price; Matthew B Spraker",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059857",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059857"
+    },
+    "title": "Implementation of a Novel Remote Physician SBRT Coverage Process during the Coronavirus Pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

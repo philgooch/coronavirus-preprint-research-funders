@@ -1,0 +1,36 @@
+{
+    "abstract": "European countries report large differences in coronavirus disease (COVID-19) case fatality risk (CFR). CFR estimates depend on demographic characteristics of the cases, time lags between reporting of infections and deaths and infrastructural characteristics, such as healthcare and surveillance capacities. We discuss the impact of these factors on the CFR estimates for Germany, Italy, France, and Spain for the COVID-19 pandemic from early March to mid-April, 2020. We found that, first, a large proportion of the difference in CFRs can be attributed to different age structures of the cases. Second, lags of 5-10 days between day of case report and death should be used, since these provide the most constant estimates. Third, for France, Italy, and Spain, intensive care beds occupied by COVID-19 patients were positively associated with fatality risks of hospitalized cases. Our results highlight that cross-country comparisons of crude CFR estimates can be misleading and should be avoided.",
+    "affiliations": [
+        "German Federal Ministry of Education and Research (Grant Number 01ER1306)"
+    ],
+    "author": "Sarah Wiegel; Christian Wiessner; Anja Holz; Gerard Krause; Patrizio Vanella; Berit Lange; Heiko Becher; Annika Moehl",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20104117",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20104117"
+    },
+    "title": "The role of age distribution, time lag between reporting and death and healthcare system capacity on case fatality estimates of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "101003480"
+                    ]
+                }
+            ],
+            "funding-statement": "PV, BL, and GK received funding from the European Union\u0092s Horizon 2020 research and innovation program under grant agreement No 101003480"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "German Federal Ministry of Education and Research",
+                    "award-id": [
+                        "01ER1306"
+                    ]
+                }
+            ],
+            "funding-statement": "The research of HB, AH, AM and SW was supported by a grant from the German Federal Ministry of Education and Research (Grant Number 01ER1306)"
+        }
+    ]
+}

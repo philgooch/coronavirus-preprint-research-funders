@@ -1,0 +1,26 @@
+{
+    "abstract": "Background: Although COVID-19 has been well controlled in China, it is rapidly spreading outside the country and may have catastrophic results globally without implementation of necessary mitigation measures. Because the COVID-19 outbreak has made comprehensive and profound impacts on the world, an accurate prediction of its epidemic trend is significant. Although many studies have predicted the COVID-19 epidemic trend, most have used early-stage data and focused on Chinese cases. Methods: We first built models to predict daily numbers of cumulative confirmed cases (CCCs), new cases (NCs), and death cases (DCs) of COVID-19 in China based on data from January 20, 2020, to March 1, 2020. Based on these models, we built models to predict the epidemic trend across the world (outside China). We also built models to predict the epidemic trend in Italy, Spain, Germany, France, UK, and USA where COVID-19 is rapidly spreading. Findings: The COVID-19 outbreak will have peaked on February 22, 2020, in China and will peak on May 22, 2020, across the world. It will be basically under control in early April 2020 in China and end-August 2020 across the world. The total number of COVID-19 cases will reach around 89,000 in China and 6,126,000 across the world during the epidemic. Around 4,000 and 290,000 people will die of COVID-19 in China and across the world, respectively. The COVID-19 outbreak will have peaked recently in Italy and will peak in Spain, Germany, France, UK, and USA within two weeks. Interpretation: The COVID-19 outbreak is controllable in the foreseeable future if comprehensive and stringent control measures are taken.\nCompeting Interest Statement",
+    "affiliations": [
+        "China Pharmaceutical University (grant numbers 3150120001 to XW)"
+    ],
+    "author": "Yue Zhang; Canping Chen; Shanmei Jiang; Xiaosheng Wang; Qian Liu; Zhilan Zhang; Mengyuan Li",
+    "date": 2020,
+    "doi": "10.1101/2020.03.18.20038117",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.18.20038117"
+    },
+    "title": "Predicting the epidemic trend of COVID-19 in China and across the world using the machine learning approach",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "China Pharmaceutical University",
+                    "award-id": [
+                        "3150120001 to XW"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the China Pharmaceutical University (grant numbers 3150120001 to XW)"
+        }
+    ]
+}

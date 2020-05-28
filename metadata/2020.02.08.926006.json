@@ -1,0 +1,58 @@
+{
+    "title": "The insert sequence in SARS-CoV-2 enhances spike protein cleavage by TMPRSS",
+    "author": "9 Key Laboratory of Spine and Spinal Cord Injury Repair and Regeneration of 2 Ministry of Education, Orthopaedic Department of Tongji Hospital, School of Life 3 Science and Technology, Tongji University, 200092 Shanghai, China 4 10 Qiu-Jiang Bioinformatics Institute, 200003 Shanghai, China 5 11 These authors contributed equally to this work: Tong Meng, Hao Cao, Hao Zhang 6 *e-mail: chstroke@163.com; limingcheng@tongji.edu.cn; brilliant,@163.com; 7 jianruxiao,@163.com 8 Abstract 9 At the end of 2019, the SARS-CoV-2 induces an ongoing outbreak of pneumonia in 10 China, even more spread than SARS-CoV infection,. The entry of SARS-CoV into 11 host cells mainly depends on the cell receptor (ACE,) recognition and spike protein 12 cleavage-induced cell membrane fusion,. The spike protein of SARS-CoV-2 also 13 binds to ACE, with a similar affinity, whereas its spike protein cleavage remains 14 unclear,. Here we show that an insertion sequence in the spike protein of 15 SARS-CoV-2 enhances the cleavage efficiency, and besides pulmonary alveoli, 16 intestinal and esophagus epithelium were also the target tissues of SARS-CoV-2. 17 Compared with SARS-CoV, we found a SPRR insertion in the S,/S, protease 18 cleavage sites of SARS-CoV-2 spike protein increasing the cleavage efficiency by the 19 protein sequence aligment and furin score calculation. Additionally, the insertion 20 sequence facilitates the formation of an extended loop which was more suitable for 21 protease recognition by the homology modeling and molicular docking. Furthermore",
+    "date": 2020,
+    "affiliations": [
+        "Division of Spine, Department of Orthopedics, Tongji Hospital affiliated to Tongji",
+        "University School of Medicine, 200065 Shanghai, China 8",
+        "Tongji University Cancer Center, School of Medicine, Tongji University, 200092",
+        "Shanghai, China 10",
+        "School of Life Science and Biopharmaceutics, Shenyang Pharmaceutical University, 11 103 Wenhua Road, 110016 Shenyang, China 12",
+        "Peking-Tsinghua Center for Life Sciences, TsinghuaUniversity, 100084 Beijing",
+        "Department of Orthopaedic Oncology, Changzheng Hospital, Second Military",
+        "Medical University, 200003 Shanghai, China 16",
+        "Department of Rheumatology and Immunology, Changzheng Hospital, Second",
+        "Military Medical University, 200003 Shanghai, China 18",
+        "Depanrtment of Urology, The Third Affiliated Hospital of Second Military Medical",
+        "University, 201805 Shanghai, China 20",
+        "Department of Neurosurgery, Changhai hospital, Second Military Medical 21 University, 200003 Shanghai, China",
+        "Key Laboratory of Spine and Spinal Cord Injury Repair and Regeneration of",
+        "Ministry of Education, Orthopaedic Department of Tongji Hospital, School of Life",
+        "Science and Technology, Tongji University, 200092 Shanghai, China 4",
+        "Qiu-Jiang Bioinformatics Institute, 200003 Shanghai, China 5",
+        "These authors contributed equally to this work: Tong Meng, Hao Cao, Hao Zhang 6 *",
+        "Abstract 9 At the end of 2019, the SARS-CoV-2 induces an ongoing outbreak of pneumonia in",
+        "China1, even more spread than SARS-CoV infection2. The entry of SARS-CoV into 11 host cells mainly depends on the cell receptor (ACE2) recognition and spike protein 12 cleavage-induced cell membrane fusion3,4. The spike protein of SARS-CoV-2 also 13 binds to ACE2 with a similar affinity, whereas its spike protein cleavage remains 14 unclear5,6. Here we show that an insertion sequence in the spike protein of",
+        "SARS-CoV-2 enhances the cleavage efficiency, and besides pulmonary alveoli, 16 intestinal and esophagus epithelium were also the target tissues of SARS-CoV-2",
+        "Compared with SARS-CoV, we found",
+        "SPRR insertion in the S1/S2 protease 18 cleavage sites of SARS-CoV-2 spike protein increasing the cleavage efficiency by the 19 protein sequence aligment and furin score calculation. Additionally, the insertion 20 sequence facilitates the formation of an extended loop which was more suitable for 21 protease recognition by the homology modeling and molicular docking. Furthermore"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.08.926006",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.08.926006.pdf"
+    },
+    "abstract": "the single-cell transcriptomes identified that ACE2 and TMPRSSs are highly 2 coexpressed in AT2 cells of lung, along with esophageal upper epithelial cells and 3 absorptive enterocytes. Our results provide the bioinformatics evidence for the 4 increased spike protein cleavage of SARS-CoV-2 and indicate its potential target 5 cells. 6 Introduction 7 At the end of 2019, a rising number of pneumonia patients with unknown pathogen 8 emerged from Wuhan to nearly the entire China7. A novel coronavirus was isolated 9 and based on its phylogeny, taxonomy and established practice, the Coronavirus Study Group (CSG) recognized it as a sister to severe acute respiratory syndrome coronaviruses (SARS-CoVs) and labeled it as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) 1,8. Although SARS-CoV-2 is generally less pathogenic than SARS-CoV and Middle East respiratory syndrome coronavirus (MERS-CoV), it has a relatively high transmissibility 9. With regard to human coronavirus, the transmissibility and infectivity is largely controlled by the spike (S) surface envelope protein 10. Its surface unit (S1) mediates the entry into host cells by binding to cell receptor and the transmembrane unit (S2) subunit regulates the fusion of viral and cellular membranes 3. Prior to membrane fusion, the S protein should be cleaved and activated to allow for the fusion peptide releasing onto host cell membranes (Fig. 1a) 11. SARS-CoV-2 uses the same cell receptor (angiotensin converting enzyme II, ACE2) as SARS-CoV, with a similar",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81702659",
+                        "81572746"
+                    ]
+                },
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2016YFA0100800"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was jointly supported by the National Natural Science Foundation of China (Grants 81702659 and 81572746) and National Key R&D Program of China (Grants 2016YFA0100800). Author contributions J.L., L.C., W.Z. and J.X. conceived the idea and directed the team"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Re-insights into origin and adaptation of SARS-CoV-2",
+    "date": 2020,
+    "affiliations": [
+        "Emerging Pathogen Institute, University of Florida, Gainesville, FL, USA; 2",
+        "Department of Pathology, immunology and Laboratory Medicine, University of Florida",
+        "Gainesville, FL, USA",
+        "Laboratory of Transmissible Diseases and Biological Active Substances 14 LR99ES27, Faculty of Pharmacy, University of Monastir, Rue Ibn Sina, 5000, Monastir, Tunisia 15",
+        "High Institute of Biotechnology of Sidi Thabet, Department of Biotechnology, University of",
+        "Manouba, BP-66, 2020, Ariana-Tunis, Tunisia",
+        "Department for Innovation in Biological, Agro17 food and Forest systems, DIBAF, University of Tuscia, via S. Camillo de Lellis s.n.c., 01100",
+        "Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies, IBIOM"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.30.015685",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.30.015685.pdf"
+    },
+    "abstract": "Following the recent report of a furin-like cleavage site unique to SARS-CoV-2, we characterized additional amino acid residues, positioned within the crown of the spike (S) glycoprotein, under diversifying selection along the ancestral lineage of currently circulating pandemic strains, and affecting enhanced ability to infect host cells. Molecular dynamic simulations revealed longrange covariant movements of SARS-CoV-2 S glycoprotein monomer in pre-fusion conformation with furin cleavage, and residue T333, under purifying selection, hinge of such movement.\nEvolutionary analysis revealed that the current human lineage likely emerged after a recombination event between ancestors in bat and pangolin. Recombination impacted residues",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "MS is supported in part by the Stephany W"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Tunisian Ministry of Higher Education and Scientific Research,"
+                },
+                {
+                    "funding-source": "Dipartimenti di Eccellenza)"
+                },
+                {
+                    "funding-source": "Italian Ministry of Education, University"
+                },
+                {
+                    "funding-source": "DIBAF-Department of University of Tuscia, Project"
+                }
+            ],
+            "funding-statement": "This work was supported by the Tunisian Ministry of Higher Education and Scientific Research, the \u2018Departments of Excellence-2018\u2019 Program (Dipartimenti di Eccellenza) of the Italian Ministry of Education, University and Research, DIBAF-Department of University of Tuscia, Project \u2018Landscape 4.0\u2013food, wellbeing and environment\u2019"
+        }
+    ]
+}

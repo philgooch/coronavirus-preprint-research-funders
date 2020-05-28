@@ -1,0 +1,22 @@
+{
+    "title": "Decoding the lethal effect of SARS-CoV-2 (novel coronavirus) strains from global perspective: molecular pathogenesis and evolutionary divergence",
+    "author": "Shuvam Banerjee, M.Tech (Bioinformatics)1,2; Shrinjana Dhar, M.Sc,; Sandip Bhattacharjee, AFIH,; Pritha Bhattacharjee, PhD",
+    "date": 2020,
+    "affiliations": [
+        "Environmental Epigenomics Lab, Department of Environmental Science, University of Calcutta, 35 Ballygunge Circular Road, Kolkata \u2013 700019",
+        "UGC-DAE Consortium for Scientific Research, Kolkata Centre, Sector 3, LB-8, Bidhan Nagar, Kolkata \u2013 700098",
+        "Health-Management in Occupational Health, Siemens, Gurgaon, India",
+        "Corresponding details:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.06.027854",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.06.027854.pdf"
+    },
+    "abstract": "Background COVID-19 is a disease with global public health emergency that have shook the world since its\u2019 first detection in China in December, 2019. Severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2) is the pathogen responsible behind this pandemic. The lethality of different viral strains is found to vary in different geographical locations but the molecular mechanism is yet to be known.\nMethods Available data of whole genome sequencing of different viral strains published by different countries were retrieved and then analysed using Multiple Sequence Alignment and Pair-wise Sequence Alignment leading to Phylogenetic tree construction. Each location and the corresponding genetic variations were screened in depth. Then the variations are analysed at protein level giving special emphasis on Non Synonymous amino acid substitutions. The fatality rates in different countries were matched against the mutation number, rarity of the nucleotide alterations and functional impact of the Non Synonymous changes at protein level, separately and in combination.",
+    "funding": [
+        {}
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "abstract": "Introduction: The World Health Organization (WHO) declared the outbreak to be a public health emergency and international concern and recognized it as a pandemic. The aim of this study was to estimate the epidemiologic parameters of novel coronavirus (COVID-19) pandemic for clinical and epidemiological help. Methods: Four electronic databases including Web of Science, Medline (PubMed), Scopus and Google Scholar were searched for literature . The \"metan\" command was used to perform a fixed or random effects analysis. Cumulative meta-analysis was performed using the \"metacum\" command. Results: Totally 76 observational studies were included in the analysis. The pooled estimate for R0 was 2.99 (95% CI: 2.71-3.27) for COVID-19. The overall R0 was 3.23, 1.19, 3.6 and 2.35 for China, Singapore, Iran and Japan, respectively. The overall Serial Interval, doubling time, incubation period were 4.45, 4.14 and 4.24 days for COVID-19. In addition, the overall estimation for growth rate and case fatality rate for COVID-19 were 0.38% and 3.29%, respectively. Conclusion: Calculating the pooled estimate of the epidemiological parameters of COVID-19 as an emerging disease, could reveal epidemiological features of the disease that consequently pave the way for health policy makers to think more about control strategies. Keywords: Epidemiologic Parameters; R0; Serial Interval; Doubling Time; Case Fatality Rate;COVID-19\nCompeting Interest Statement\nThe authors have declared no competing interest.\nFunding Statement\nThis study was supported by School of Public Health and Safety, Shahid Beheshti University of Medical Sciences grant number 23149. The funding agency did not play any role in the planning, conduct, and reporting or in the decision to submit the paper for publication\nAuthor Declarations\nAll relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript.\nYes\nAll necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived.\nYes\nI understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).",
+    "affiliations": [
+        "School of Public Health and Safety, Shahid Beheshti University of Medical Sciences grant number 23149. The funding agency did not play any role in the planning, conduct, and reporting or in the decision to submit the paper for publication"
+    ],
+    "author": "Khaled Rahmani; Yaser Mokhayeri; Neda Izadi; Sahar Sotoodeh Ghorbani; Seyed Saeed Hashemi Nazari; Niloufar Taherpour",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20088385",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20088385"
+    },
+    "keywords": [
+        "Epidemiologic Parameters",
+        "R0",
+        "Serial Interval",
+        "Doubling Time",
+        "Case Fatality Rate;COVID-19"
+    ],
+    "title": "The epidemiologic parameters for COVID-19: A Systematic Review and Meta-Analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "School of Public Health and Safety, Shahid"
+                },
+                {
+                    "funding-source": "Beheshti University of Medical Sciences",
+                    "award-id": [
+                        "23149"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by School of Public Health and Safety, Shahid Beheshti University of Medical Sciences grant number 23149"
+        }
+    ]
+}

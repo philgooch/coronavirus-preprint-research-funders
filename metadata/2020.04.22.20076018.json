@@ -1,0 +1,29 @@
+{
+    "abstract": "The COVID-19 pandemic has forced societies across the world to resort to social distancing to slow the spread of the SARS-CoV-2 virus. Due to the economic impacts of social distancing, there is growing desire to relax these measures. To characterize a range of possible strategies for control and to understand their consequences, we performed an optimal control analysis of a mathematical model of SARS-CoV-2 transmission. Given that the pandemic is already underway and controls have already been initiated, we calibrated our model to data from the US and focused our analysis on optimal controls from May 2020 through December 2021. We found that a major factor that differentiates strategies that prioritize lives saved versus reduced time under control is how quickly control is relaxed once social distancing restrictions expire in May 2020. Strategies that maintain control at a high level until summer 2020 allow for tapering of control thereafter and minimal deaths, whereas strategies that relax control in the short term lead to fewer options for control later and a higher likelihood of exceeding hospital capacity. Our results also highlight that the potential scope for controlling COVID-19 until a vaccine is available depends on epidemiological parameters about which there is still considerable uncertainty, including the basic reproduction number and the effectiveness of social distancing. In light of those uncertainties, our results do not constitute a quantitative forecast and instead provide a qualitative portrayal of possible outcomes from alternative approaches to control.",
+    "affiliations": [
+        "National Science Foundation (DEB 2027718)"
+    ],
+    "author": "Alex Perkins; Guido Espana",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20076018",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20076018"
+    },
+    "title": "Optimal control of the COVID-19 pandemic with non-pharmaceutical interventions",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "RAPID"
+                },
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "DEB 2027718"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors were supported by a RAPID grant from the National Science Foundation (DEB 2027718)"
+        }
+    ]
+}

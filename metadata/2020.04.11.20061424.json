@@ -1,0 +1,40 @@
+{
+    "title": "Blueprint for a Pop-up SARS-CoV-2 Testing Lab",
+    "date": 2020,
+    "author": "Innovative Genomics Institute SARS-CoV-2 Testing Consortium,\u00a7, Dirk Hockemeyera,\u00a7,Fyodor Urnova,\u00a7,Ralph Greena,#, and Jennifer A. Doudnaa,\u00a7,\u2021 Contact information: igi-covid,@berkeley.edu aco-corresponding authors",
+    "affiliations": [
+        "Innovative Genomics Institute SARS-CoV-2 Testing Consortium*,\u2020,\u00a7, Dirk Hockemeyera,\u2020,\u00a7,Fyodor Urnova,\u2020,\u00a7,Ralph Greena,#, and Jennifer A. Doudnaa,\u2020,\u00a7,\u2021 Contact information:",
+        "University of California, Berkeley, Berkeley, CA, USA",
+        "Innovative Genomics Institute, University of California Berkeley, Berkeley, CA, USA. #UC Davis School of Medicine, Sacramento, California, USA",
+        "Howard Hughes Medical Institute, University of California, Berkeley, CA, USA; Gladstone Institutes, University of California, San Francisco, CA, USA",
+        "Laboratory-Developed Test (LDT) for SARS-CoV-2 in Berkeley, California and the surrounding Bay Area community. Our procedures for implementing the technical, regulatory, and data management workstreams necessary for clinical sample processing provide a roadmap to aid others in setting up similar testing centers",
+        "The Innovative Genomics Institute (IGI) at the University of California, Berkeley (UC Berkeley) addressed this challenge by establishing a clinical testing laboratory on a campus without a medical school in a three-week process described here"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.11.20061424",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20061424.pdf"
+    },
+    "abstract": "The appearance and spread of the novel severe acute respiratory syndrome coronavirus (SARS-CoV-2) led to the official declaration of a global pandemic, with states in the US implementing shelter-in-place orders at an unprecedented scale. SARS-CoV-2 has a robust person-to-person transmission rate and an asymptomatic period of two weeks or more, leading to widespread infection that has overwhelmed healthcare infrastructures around the globe. Effective public health measures require extensive, accurate, and rapid testing to determine infection rates. Here we describe the strategy we used to establish a CLIA-licensed clinical laboratory to perform a validated Laboratory-Developed Test (LDT) for SARS-CoV-2 in Berkeley, California and the surrounding Bay Area community. Our procedures for implementing the technical, regulatory, and data management workstreams necessary for clinical sample processing provide a roadmap to aid others in setting up similar testing centers.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "IGI Founders Fund, Dr"
+                },
+                {
+                    "funding-source": "Anders Naar, Rick"
+                },
+                {
+                    "funding-source": "Rachel Klausner,"
+                },
+                {
+                    "funding-source": "Shurl and Kay Curci Foundation"
+                }
+            ],
+            "funding-statement": "Initial funding was provided by IGI Founders Fund, Dr Anders Naar, Rick and Rachel Klausner, and the Shurl and Kay Curci Foundation"
+        }
+    ]
+}

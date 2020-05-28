@@ -1,0 +1,16 @@
+{
+    "abstract": "Background. Real-time reverse transcription polymerase chain reaction (RT-PCR) targeting select genes of the SARS-CoV-2 RNA has been the main diagnostic tool in the global response to the COVID-19 pandemic. However, the diagnostic accuracy of the test has not been studied systematically outside of the laboratory setting. The aim of this study is to provide estimates of the diagnostic sensitivity and specificity of the RT-PCR test developed by China CDC. Methods. The study design is a secondary analysis of published findings on 1014 patients in Wuhan, China, of whom 601 tested positive and 413 were negative for COVID-19. Sensitivity and specificity were reconstructed using a Bayesian approach from probabilistic knowledge of the diagnostic errors. Predictive values of the test were calculated, resulting in estimates for the number of confirmatory tests that are needed for establishing the presence or absence of COVID-19, depending on the prior probability of a patient having the disease. Results. The sensitivity of the RT-PCR diagnostic test was estimated to be 0.777 (95% CI: 0.715, 0.849), while the specificity was 0.988 (95% CI: 0.933, 1.000). The confidence intervals include sampling error in addition to the error due to probabilistic knowledge of the data. Discussion. The Chinese version of the RT-PCR test had a conspicuous rate of false negative results, likely missing between 15% and 29% of patients with COVID-19. For a patient with a prior probability of COVID-19 greater than 18%, at least two negative test results would be needed to lower the chances of COVID-19 below 5%. Caution is advised in generalizing these findings to other versions of the RT-PCR test that are being used in diverse geographic regions.",
+    "author": "Nikhil S Padhye",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078949",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078949"
+    },
+    "title": "Reconstructed diagnostic sensitivity and specificity of the RT-PCR test for COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this study."
+        }
+    ]
+}

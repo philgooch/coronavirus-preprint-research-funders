@@ -1,0 +1,23 @@
+{
+    "abstract": "We evaluate the effectiveness of COVID-19 control strategies of 25 countries which have endured more than four weeks of community infections. With an extended SEIR model that allows infections in both the exposed and infected states, the key epidemic parameters are estimated from each country's data, which facilitate the evaluation and cross-country comparison. It is found quicker control measures significantly reduce the average reproduction numbers and shorten the time length to infection peaks. If the swift control measures of Korea and China were implemented, average reductions of 88% in the confirmed cases and 80% in deaths would had been attained for the other 23 countries from start to April 10. Effects of earlier or delayed interventions in the US and the UK are experimented which show at least 75% (29%) less infections and deaths can be attained for the US (the UK) under a Five-Day Earlier experiment. The impacts of two removal regimes (Korea and Italy) on the total infection and death tolls on the other countries are compared with the naturally forecast ones, which suggest there are still ample opportunity for countries to reduce the final death numbers by improving the removal process.",
+    "author": "Jia Gu; Yumou Qiu; Han Yan; Ya Huang; Yu Zhu; Song Chen; Yu Wang; Xin Zhang; Hao Sun",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20081232",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20081232"
+    },
+    "title": "Better Strategies for Containing COVID-19 Epidemics --- A Study of 25 Countries via an Extended Varying Coefficient SEIR Model",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Science and Technology of the People's Republic of",
+                    "award-id": [
+                        "2016YFC0207701"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by Ministry of Science and Technology of the People's Republic of China(2016YFC0207701)"
+        }
+    ]
+}

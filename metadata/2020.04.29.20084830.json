@@ -1,0 +1,16 @@
+{
+    "abstract": "We formulated a mathematical model considering young (below 60 years old) and elder (above 60 years) subpopulations to describe the introduction and dissemination of new coronavirus epidemics in the S\u00e3o Paulo State, Brazil. From the data collected in S\u00e3o Paulo State, we estimated the model parameters and calculated the basic reproduction number as R0 = 6.828. Considering isolation as a control mechanism, we varied the releasing proportions of young and elder persons to assess their epidemiological impacts. The best scenarios were release of young persons, but maintaining elder persons isolated. To avoid the collapse of the health care system, the isolation must be at least 80%.",
+    "author": "Fabio Fernandes Morato Castro; Hyun Mo Yang; Luis Pedro Lombardi Junior; Ariana Campos Yang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20084830",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20084830"
+    },
+    "title": "Mathematical model describing CoViD-19 in S\u00e3o Paulo State, Brazil - Evaluating isolation as control mechanism and forecasting epidemiological scenarios of release",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "External funding was not received"
+        }
+    ]
+}

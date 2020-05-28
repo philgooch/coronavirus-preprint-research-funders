@@ -1,0 +1,35 @@
+{
+    "title": "A putative new SARS-CoV protein, 3a*, encoded in an ORF overlapping ORF3a",
+    "author": "Andrew Firth",
+    "date": 2020,
+    "affiliations": [
+        "Division of Virology, Department of Pathology, Addenbrooke\u2019s Hospital, University of Cambridge"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.088088",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.088088.pdf"
+    },
+    "abstract": "Identification of the full complement of genes in SARS-CoV-2 is a crucial step towards gaining a fuller understanding of its molecular biology. However, short and/or overlapping genes can be difficult to detect using conventional computational approaches, whereas high throughput experimental approaches \u2013 such as ribosome profiling \u2013 cannot distinguish translation of functional peptides from regulatory translation or translational noise. By studying regions showing enhanced conservation at synonymous sites in alignments of SARS-CoV and related viruses (subgenus Sarbecovirus), and correlating with the conserved presence of an open reading frame and plausible translation mechanism, we identified a putative new gene, ORF3a*, overlapping ORF3a in an alternative reading frame. A recently published ribosome profiling study confirmed that ORF3a* is indeed translated during infection. ORF3a* is conserved across the subgenus Sarbecovirus, and encodes a 40\u201341 amino acid predicted transmembrane protein.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "106207"
+                    ]
+                },
+                {
+                    "funding-source": "European Research Council",
+                    "award-id": [
+                        "646891"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by Wellcome Trust grant [106207] and European Research Council grant [646891] to A.E.F"
+        }
+    ]
+}

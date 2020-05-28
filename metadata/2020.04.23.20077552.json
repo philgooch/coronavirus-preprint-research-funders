@@ -1,0 +1,55 @@
+{
+    "abstract": "This study aimed to explore the patterns of community health risk perception of coronavirus disease 2019 (COVID-19) in South Korea using Internet search data. Google and NAVER relative search volume data were collected using COVID-19-related terms in Korean language. Online queries were compared with the number of new COVID-19 cases and tests. Time series trends and Spearmans rank correlation coefficients showed that the number of COVID-19-related queries in South Korea increased during the local and international events; higher in women, certain age groups; and higher in affected areas, which represented the community health risk perception. Greater correlations were found in mobile searches compared to that of desktop searches, indicating the changing behavior in searching health online information. The use of both Google and NAVER RSV to explore the patterns of community health risk perception could be beneficial for targeting risk communication in several perspectives including time, population characteristics, and location.",
+    "affiliations": [
+        "National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No. 2018R1C1B6001723). The sponsor had no role in the research design or contents of the manuscript for publication"
+    ],
+    "author": "Anis Fuad; Atina Husnayain; Eunha Shim; Emily Chia-Yu Su",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20077552",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20077552"
+    },
+    "title": "Assessing the community risk perception toward COVID-19 outbreak in South Korea: evidence from Google and NAVER relative search volume",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Science and Technology",
+                    "award-id": [
+                        "MOST108-2221-E-038-018"
+                    ]
+                },
+                {
+                    "funding-source": "Higher Education Sprout Project"
+                },
+                {
+                    "funding-source": "Ministry of Education",
+                    "award-id": [
+                        "DP2-108-21121-01-A-01-04"
+                    ]
+                },
+                {
+                    "funding-source": "Emily Chia-Yu Su"
+                }
+            ],
+            "funding-statement": "This study was funded in part by the Ministry of Science and Technology (MOST) in Taiwan (grant number MOST108-2221-E-038-018) and the Higher Education Sprout Project by the Ministry of Education (MOE) in Taiwan (grant number DP2-108-21121-01-A-01-04) to Emily Chia-Yu Su"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "For Eunha Shim,"
+                },
+                {
+                    "funding-source": "National Research Foundation of Korea"
+                },
+                {
+                    "funding-source": "Korea government",
+                    "award-id": [
+                        "2018R1C1B6001723"
+                    ]
+                }
+            ],
+            "funding-statement": "For Eunha Shim, this work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No 2018R1C1B6001723)"
+        }
+    ]
+}

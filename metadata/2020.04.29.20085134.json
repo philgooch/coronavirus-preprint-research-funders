@@ -1,0 +1,38 @@
+{
+    "abstract": "Following the April 16, 2020 release of the Opening Up America Again guidelines for relaxing COVID-19 social distancing policies, local leaders are concerned about future pandemic waves and lack robust strategies for tracking and suppressing transmission. Here, we present a framework for monitoring COVID-19 hospitalization data to project risks and trigger shelter-in-place orders to prevent overwhelming healthcare surges while minimizing the duration of costly lockdowns. Assuming the relaxation of social distancing increases the risk of infection ten-fold, the optimal strategy for Austin, Texas--the fastest-growing large city in the US--will trigger a total of 135 [90% prediction interval: 126-141] days of sheltering, allow schools to open in the fall, and result in an expected 2929 deaths [90% prediction interval: 2837-3026] by September 2021, which is 29% the annual mortality rate. In the months ahead, policy makers are likely to face difficult choices and the extent of public restraint and cocooning of vulnerable populations may save or cost thousands of lives.",
+    "affiliations": [
+        "National Institutes of Health under Grant NIH R01 299 AI151176 and by the U.S. Department of Homeland Security under Grant 2017-ST-061-QA0001. The views and conclusions contained in this document are those of the authors and should not be interpreted as necessarily representing the official policies, either expressed or implied, of the U.S. Department of Homeland Security"
+    ],
+    "author": "Daniel Duque; Lauren Ancel Meyers; Zhanwei Du; Bismark Singh; Remy Pasco; David Paul Morton",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20085134",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20085134"
+    },
+    "title": "COVID-19: How to Relax Social Distancing If You Must",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "AI151176"
+                    ]
+                },
+                {
+                    "funding-source": "Grant NIH",
+                    "award-id": [
+                        "AI151176"
+                    ]
+                },
+                {
+                    "funding-source": "U.S Department of Homeland Security",
+                    "award-id": [
+                        "2017-ST-061-QA0001"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Institutes of Health under Grant NIH R01 299 AI151176 and by the U.S Department of Homeland Security under Grant 2017-ST-061-QA0001"
+        }
+    ]
+}

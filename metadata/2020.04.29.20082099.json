@@ -1,0 +1,57 @@
+{
+    "abstract": "In January, Mologic, embarked on a product development pathway for COVID-19 diagnostics focusing on ELISA and rapid diagnostic tests (RDTs), with anticipated funding from Wellcome Trust and DFID. 755 clinical samples from known COVID-19 patients and hospital negative controls were tested on Mologics IgG ELISA. The reported sensitivity on 191 SGUL prospectively enrolled patients was 95% on day 7 or more post diagnosis, and 97% 10 days or more post-diagnosis. A specificity panel comprising 564 samples pre-December 2019 were tested to include most common respiratory pathogens, other types of coronavirus, and flaviviruses. Specificity in this panel was 97%. This is the first in a series of Mologic products for COVID-19, which will be deployed for COVID-19 diagnosis, contact tracing and sero-epidemiological studies to estimate disease burden and transmission with a focus on ensuring access, affordability, and availability to lowest resource settings.",
+    "author": "Lance Turtle; David J Clark; Katherin Keymer; Irene Monahan; Ana I Cubas-Atienzar; Gala Garrod; Alice j Fraser; Luis E Cuevas; Catherine M Moore; James Schouten; Nicholas M Eckersley; Amadou A Sall; Chris Sainter; Emily R Adams; Michael Cocozza; Sophie I Owen; Kevin Woolston; Joseph R.A. Fitchett; Martina Cusinato; Paul Davies; Jenifer Mason; Grant A Kay; Zawditu Lewis; Mark Davies; Thomas Fletcher; Kesja Klekotko; Benedict M. O. Davies; Josie Mensah-Kane; John Wilkins; Chris Williams; Rachel L Byrne; Henry M Staines; QInxue Hu; Yolanda Augustin; Thomas Edwards; Stefanie Menzies; Annelyse Duvoix; Sanjeev Krishna; Linda Hadcocks; Daniela Kirwan; Gerhard Nebe-von-Caron; Tim Planche; Michael johnson",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20082099",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20082099"
+    },
+    "title": "Rapid development of COVID-19 rapid diagnostics for low resource settings: accelerating delivery through transparency, responsiveness, and open collaboration",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "In January, Mologic",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "ELISA"
+                },
+                {
+                    "funding-source": "Wellcome Trust and DFID.",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Mologics IgG ELISA"
+                }
+            ],
+            "funding-statement": "In January, Mologic, embarked on a product development pathway for COVID-19 diagnostics focusing on ELISA and rapid diagnostic tests (RDTs), with anticipated funding from Wellcome Trust and DFID. 755 clinical samples from known COVID-19 patients and hospital negative controls were tested on Mologics IgG ELISA"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust Institutional Strategic Support Fund",
+                    "award-id": [
+                        "204809/Z/16/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "HMS is supported by the Wellcome Trust Institutional Strategic Support Fund (204809/Z/16/Z) awarded to St"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "205228/Z/16/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "LT is supported by the Wellcome Trust (grant number 205228/Z/16/Z)"
+        }
+    ]
+}

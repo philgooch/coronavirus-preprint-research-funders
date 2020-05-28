@@ -1,0 +1,26 @@
+{
+    "abstract": "Containing outbreaks of infectious disease requires rapid identification of transmission hotspots, as the COVID-19 pandemic demonstrates. Focusing limited public health resources on transmission hotspots can contain spread, thus reducing morbidity and mortality, but rapid data on community-level disease dynamics is often unavailable. Here, we demonstrate an approach to identify anomalously elevated levels of influenza-like illness (ILI) in real-time, at the scale of US counties. Leveraging data from a geospatial network of thermometers encompassing more than one million users across the US, we identify anomalies by generating accurate, county-specific forecasts of seasonal ILI from a point prior to a potential outbreak and comparing real-time data to these expectations. Anomalies are strongly correlated with COVID-19 case counts and may provide an early-warning system to locate outbreak epicenters.",
+    "affiliations": [
+        "US National Science Foundation award EEID-1911994 and by a sponsored research agreement from Kinsa, Inc. PP, CA, AD, SDC, and IS are employees and shareholders of Kinsa, Inc"
+    ],
+    "author": "Amy L Daitch; Samuel D Chamberlain; Inder Singh; Benjamin D Dalziel; Carlos A Ariza; Patrick B Philips",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20039909",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20039909"
+    },
+    "title": "Real-time detection of COVID-19 epicenters within the United States using a network of smart thermometers",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "US National Science Foundation",
+                    "award-id": [
+                        "EEID-1911994"
+                    ]
+                }
+            ],
+            "funding-statement": "BDD is supported by US National Science Foundation award EEID-1911994 and by a sponsored research agreement from Kinsa, Inc"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "abstract": "The COVID-19 pandemic has forced governments to take measures to contain the spread of the disease; however, the effects have varied significantly from one country to another contingent on governments' responses. Countries that have flattened their coronavirus curves prove that interventions can bring COVID-19 under control. These achievements hold lessons, such as the strict social distancing and coordinated efforts of all government levels in China and massive testing in South Korea, for other countries battling the coronavirus around the world. In this work, we attempt to estimate how many COVID-19 cases could have been prevented in the United States (US) when compared with the US's actual number of cases assuming that on a certain date, the US took China-like or South Korea-like interventions and that these interventions would have been as effective in the US as in China and South Korea. We found that if that date was at the early stage of the outbreak (March 10), more than 99% (1.15 million) fewer infected cases could be expected by the end of the epidemic. This number decreases to 66.03% and 73.06% fewer infected cases with the China-like scenario and the South Korea-like scenario, respectively, if actions were taken on April 1, highlighting the need to respond quickly and effectively to fight the virus. Furthermore, we found that although interventions in both China and South Korea allowed the COVID-19 outbreak to be managed, the epidemic could still oscillate without strict large-scale lockdown measures, as shown in South Korea. Our results demonstrate that early effective interventions can save considerably more people from infection and provide a worldwide alert regard the need for swift response.",
+    "affiliations": [
+        "National Natural Science Foundation of China under grant nos. 41330423 and 41420104006"
+    ],
+    "author": "Zhesi Shen; Kai Liu; Yukun Song; Jinshan Wu; Menghui Li; Ming Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20092981",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20092981"
+    },
+    "title": "How many COVID-19 cases could have been prevented in the US if its interventions were as effective as those in China and South Korea?",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "41330423",
+                        "41420104006"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is jointly supported by the National Natural Science Foundation of China under grant nos. 41330423 and 41420104006"
+        }
+    ]
+}

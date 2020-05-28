@@ -1,0 +1,43 @@
+{
+    "abstract": "The coronavirus disease (COVID-19) pandemic has increased the necessity of immediate clinical decisions and effective usage of healthcare resources. Currently, the most validated diagnosis test for COVID-19 (RT-PCR) is in shortage in most developing countries, which may increase infection rates and delay important preventive measures. The objective of this study was to predict the risk of positive COVID-19 diagnosis with machine learning, using as predictors only results from emergency care admission exams. We collected data from a sample of 235 adult patients from the Hospital Israelita Albert Einstein in Sao Paulo, Brazil, from 17 to 30 of March, 2020, of which 102 (43%) received a positive diagnosis of COVID-19 from RT-PCR tests. Five machine learning algorithms (neural networks, random forests, gradient boosting trees, logistic regression and support vector machines) were trained on a random sample of 70% of the patients, and performance was tested on new unseen data (30%). The best predictive performance was obtained by the support vector machines algorithm (AUC: 0.85; Sensitivity: 0.68; Specificity: 0.85; Brier Score: 0.16). In conclusion, we found that targeted decisions for receiving COVID-19 tests using only routinely-collected data is a promising new area with the use of machine learning algorithms.",
+    "affiliations": [
+        "Brazilian National Health System (PROADI-SUS) \"Utiliza\u00e7\u00e3o de T\u00e9cnicas Avan\u00e7adas de An\u00e1lise de Dados (Big Data)",
+        "Inova\u00e7\u00e3o para Apoio ao Planejamento",
+        "Desenvolvimento de Pol\u00edticas em Sa\u00fade\" (NUP: 25000.028646/2018-10)"
+    ],
+    "author": "Thiago Henrique Rizzi Donato; Andre Filipe de Moraes Batista; Joao Luiz Miraglia; Alexandre Dias Porto Chiavegatto Filho",
+    "date": 2020,
+    "doi": "10.1101/2020.04.04.20052092",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.04.20052092"
+    },
+    "title": "COVID-19 diagnosis prediction in emergency care patients: a machine learning approach",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Institutional Development Program of the Brazilian National Health System",
+                    "award-id": [
+                        "PROADI-SUS"
+                    ]
+                },
+                {
+                    "funding-source": "Utiliza\u00e7\u00e3o de T\u00e9cnicas Avan\u00e7adas de An\u00e1lise de Dados",
+                    "award-id": [
+                        "Big Data"
+                    ]
+                },
+                {
+                    "funding-source": "Big Data)"
+                },
+                {
+                    "funding-source": "Desenvolvimento de Pol\u00edticas",
+                    "award-id": [
+                        "NUP: 25000.028646/2018-10"
+                    ]
+                }
+            ],
+            "funding-statement": "We received funding from the Ministry of Health\u0092s Institutional Development Program of the Brazilian National Health System (PROADI-SUS) \"Utiliza\u00e7\u00e3o de T\u00e9cnicas Avan\u00e7adas de An\u00e1lise de Dados (Big Data) e Inova\u00e7\u00e3o para Apoio ao Planejamento e Desenvolvimento de Pol\u00edticas em Sa\u00fade\" (NUP: 25000.028646/2018-10)"
+        }
+    ]
+}

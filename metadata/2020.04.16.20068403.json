@@ -1,0 +1,28 @@
+{
+    "abstract": "A novel coronavirus (SARS-CoV-2) emerged in Wuhan, China in late 2019 and rapidly spread worldwide. In the absence of effective antiviral drugs and vaccines, well-targeted social distancing measures are essential for mitigating the COVID-19 pandemic, reducing strain on local health systems, and preventing mortality. Here, we provide a quantitative assessment of the efficacy of social distancing to slow COVID-19 transmission and reduce hospital surge, depending on the timing and extent of the measures imposed for a metropolitan region and its health care systems. We built a granular mathematical model of COVID-19 transmission that incorporated age-specific and risk-stratified heterogeneity, estimates for the transmission, and severity of COVID-19 using current best evidence. We performed thousands of stochastic simulations of COVID-19 transmission in the Austin-Round Rock Metropolitan Area to project the impact of school closures coupled with social distancing measures that were estimated to reduce non-household contacts by 0%, 25%, 50%, 75% or 90%. We compare early versus late implementation and estimate the number of COVID-19 hospitalizations, ICU patients, ventilator needs and deaths through mid-August, 2020. We queried local emergency services and hospital systems to estimate total hospital bed, ICU, and ventilator capacity for the region. We expected COVID-19 hospital beds and ICU requirements would surpass local capacity by mid-May if no intervention was taken. Assuming a four-day epidemic doubling time, school closures alone would be expected to reduce peak hospitalizations by only 18% and cumulative deaths by less than 3%. Immediate social distancing measures that reduced non-household contacts by over 75%, such as stay-at-home orders and closing of non-essential businesses, would be required to ensure that COVID-19 cases do not overwhelm local hospital surge capacity. Peak ICU bed demand prior to mid August 2020 would be expected to be reduced from 2,121 (95% CI: 2,018-2,208) with no intervention to 698 (95% CI: 204-1,100) with 75% social distancing and 136 (95% CI: 38-308) with 90% social distancing; current ICU bed capacity was estimated at 680. A two-week delay in implementation of such measures is projected to accelerate a local ICU bed shortage by four weeks. School closures alone hardly impact the epidemic curve. Immediate social distancing measures that reduce non-household contacts by over 75% were required to ensure that COVID-19 cases do not overwhelm local hospital surge capacity. These findings helped inform the Stay Home-Work Safe order enacted by the city of Austin, Texas on March 24, 2020 as a means of mitigating the emerging COVID-19 epidemic.",
+    "affiliations": [
+        "School closures alone hardly impact the epidemic curve. Immediate social distancing measures that reduce non-household contacts by over 75% were required to ensure that COVID-19 cases do not overwhelm local hospital surge capacity. These findings helped inform the Stay Home-Work Safe order enacted by the city of Austin, Texas on March 24, 2020 as a means of mitigating the emerging COVID-19 epidemic"
+    ],
+    "author": "Lauren Ancel Meyers; Michael Pignone; Alison P Galvani; Remy F Pasco; Zhanwei Du; Xutong Wang; Spencer J Fox; S. Claiborne Johnston; Michaela Petty",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20068403",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20068403"
+    },
+    "title": "Impact of Social Distancing Measures on COVID-19 Healthcare Demand in Central Texas",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R01AI151176",
+                        "U01GM087719",
+                        "75D-301-19-C-05930"
+                    ]
+                }
+            ],
+            "funding-statement": "We acknowledge the support of NIH grants R01AI151176 and U01GM087719 and CDC contract 75D-301-19-C-05930"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Rapid, Large-Scale, and Effective Detection of COVID-19 Via Non-Adaptive Testing",
+    "date": 2020,
+    "author": "MATTHIAS TA UFER",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.06.028431",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.06.028431.pdf"
+    },
+    "abstract": "Pooling of samples can increase lab capacity when using Polymerase chain reaction (PCR) to detect infections such as COVID19. However, pool testing is typically performed via an adaptive testing strategy which requires a feedback loop in the lab and at least two PCR runs to confirm positive results. This can cost precious time. We discuss a non-adaptive testing method where each sample is distributed in a prescribed manner over several pools, and which yields reliable results after one round of testing. More precisely, assuming knowledge about the overall infection incidence rate, we calculate explicit error bounds on the number of false positives which scale very favourably with pool size and sample multiplicity. This allows for hugely streamlined PCR testing and cuts in detection times for a large-scale testing scenario. A viable consequence of this method could be real-time screening of entire communities, frontline healthcare workers and international flight passengers, for example, using the PCR machines currently in operation.",
+    "keywords": [
+        "Polymerase Chain Reaction",
+        "Pool testing",
+        "Non-adaptive testing",
+        "COVID-19"
+    ],
+    "funding": [
+        {}
+    ]
+}

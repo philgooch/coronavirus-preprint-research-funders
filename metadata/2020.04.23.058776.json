@@ -1,0 +1,46 @@
+{
+    "title": "A Library of Nucleotide Analogues Terminate RNA Synthesis Catalyzed by Polymerases of Coronaviruses Causing SARS and COVID-19",
+    "author": "Steffen Jockusch",
+    "date": 2020,
+    "affiliations": [
+        "Center for Genome Technology and Biomolecular Engineering, Columbia University, New York, NY 10027; Departments of",
+        "Chemical Engineering, and",
+        "Pharmacology, Columbia University, New York, NY 10027",
+        "Departments of Biochemistry and",
+        "Institute of Molecular Virology, University of"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.23.058776",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.23.058776.pdf"
+    },
+    "abstract": "SARS-CoV-2, a member of the coronavirus family, is responsible for the current COVID-19 worldwide pandemic. We previously demonstrated that five nucleotide analogues inhibit the SARS-CoV-2 RNAdependent RNA polymerase (RdRp), including the active triphosphate forms of Sofosbuvir, Alovudine, Zidovudine, Tenofovir alafenamide and Emtricitabine. We report here the evaluation of a library of additional nucleoside triphosphate analogues with a variety of structural and chemical features as inhibitors of the RdRps of SARS-CoV and SARS-CoV-2. These features include modifications on the sugar (2\u2019 or 3\u2019 modifications, carbocyclic, acyclic, or dideoxynucleotides) or on the base. The goal is to identify nucleotide analogues that not only terminate RNA synthesis catalyzed by these coronavirus RdRps, but also have the potential to resist the viruses\u2019 exonuclease activity. We examined these nucleotide analogues with regard to their ability to be incorporated by the RdRps in the polymerase reaction and then prevent further incorporation. While all 11 molecules tested displayed incorporation, 6 exhibited immediate termination of the polymerase reaction (Carbovir triphosphate, Ganciclovir triphosphate, Stavudine triphosphate, Entecavir triphosphate, 3\u2019-O-methyl UTP and Biotin-16-dUTP), 2 showed delayed termination (Cidofovir diphosphate and 2\u2019-O-methyl UTP), and 3 did not terminate the polymerase reaction (2\u2019-fluoro-dUTP, 2\u2019-amino-dUTP and Desthiobiotin-16-UTP). The coronavirus genomes encode an exonuclease that apparently requires a 2\u2019-OH group to excise mismatched bases at the 3\u2019-terminus. In this study, all of the nucleoside triphosphate analogues we evaluated form Watson-Cricklike base pairs. All the nucleotide analogues which demonstrated termination either lack a 2\u2019-OH, have a blocked 2\u2019-OH, or show delayed termination. These nucleotides may thus have the potential to resist exonuclease activity, a property that we will investigate in the future. Furthermore, prodrugs of five of these nucleotide analogues (Brincidofovir/Cidofovir, Abacavir, Valganciclovir/Ganciclovir, Stavudine and Entecavir) are FDA approved for other viral infections, and their safety profile is well known. Thus, they can be evaluated rapidly as potential therapies for COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding This"
+                },
+                {
+                    "funding-source": "Columbia University,"
+                },
+                {
+                    "funding-source": "Jack Ma Foundation and"
+                },
+                {
+                    "funding-source": "Columbia Engineering Member of the Board of Visitors Dr Bing Zhao"
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Disease",
+                    "award-id": [
+                        "AI123498",
+                        "nsp 7"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding This research is supported by Columbia University, a grant from the Jack Ma Foundation and a generous gift from the Columbia Engineering Member of the Board of Visitors Dr Bing Zhao to J.J. and a National Institute of Allergy and Infectious Disease grant AI123498 to R.N.K. A patent application on the work described has been filed. Author contributions J.J. and R.N.K. conceived and directed the project; the approaches and assays were designed and conducted by J.J., X.L., S.K., S.J., J.J.R., M.C. and C.T., and SARS-CoV/SARS-CoV-2 polymerases (nsp12) and associated proteins (nsp 7 and 8) were cloned and purified by T.K.A. and R.N.K. Data were analyzed by all authors. All authors wrote and reviewed the manuscript."
+        }
+    ]
+}

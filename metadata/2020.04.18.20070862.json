@@ -1,0 +1,46 @@
+{
+    "abstract": "Objective: The late 2019 Covid-19 disease outbreak has put the health systems of many countries to the limit of their capacity. The most affected European countries are, so far, Italy and Spain. In both countries (and others), the authorities decreed a lockdown, with local specificities. The objective of this work is to evaluate the impact of the measures undertaken in Spain to deal with the pandemic. Method: We estimated the number of cases and the impact of lockdown on the reproducibility number based on the hospitalization reports. Results: The estimated number of cases shows a sharp increase until the lockdown, followed by a slowing down and then a decrease after full quarantine was implemented. Differences in the basic reproduction ratio are also very significant, dropping from de 5.89 (95% CI: 5.46-7.09) before the lockdown to 0.48 (95% CI: 0.15-1.17) afterwards. Conclusions: Handling a pandemic like Covid-19 is very complex and requires quick decision making. The large differences found in the speed of propagation of the disease show us that being able to implement interventions at the earliest stage is crucial to minimise the impact of a potential infectious threat. Our work also stresses the importance of reliable up to date epidemiological data in order to accurately assess the impact of Public Health policies on viral outbreak.",
+    "author": "David Morina; Alexandre Hyafil",
+    "date": 2020,
+    "doi": "10.1101/2020.04.18.20070862",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.18.20070862"
+    },
+    "title": "Analysis of the impact of lockdown on the evolution Covid-19 epidemics in Spain",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Spanish Ministry of Economy and Competitiveness",
+                    "award-id": [
+                        "RYC-201"
+                    ]
+                },
+                {
+                    "funding-source": "Ram\u00f3n y Cajal",
+                    "award-id": [
+                        "RYC-2017-23231"
+                    ]
+                }
+            ],
+            "funding-statement": "H. was funded by the Spanish Ministry of Economy and Competitiveness (Ram\u00f3n y Cajal fellowship RYC-2017-23231)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Spanish Ministry of Economy and Competitiveness,"
+                },
+                {
+                    "funding-source": "Mar\u00eda de Maeztu Programme for Units of Excellence in R&D",
+                    "award-id": [
+                        "MDM-2014-0445"
+                    ]
+                },
+                {
+                    "funding-source": "Fundaci\u00f3n Santander Universidades"
+                }
+            ],
+            "funding-statement": "M. acknowledges financial support from the Spanish Ministry of Economy and Competitiveness, through the Mar\u00eda de Maeztu Programme for Units of Excellence in R&D (MDM-2014-0445) and Fundaci\u00f3n Santander Universidades"
+        }
+    ]
+}

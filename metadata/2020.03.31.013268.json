@@ -1,0 +1,32 @@
+{
+    "title": "SARS-CoV-2 receptor and entry genes are expressed by sustentacular cells in the human olfactory neuroepithelium",
+    "date": 2020,
+    "author": "Leon Fodoulian,+, Joel Tuberosa,+, Daniel Rossier,+, Basile N. Landis, Alan Carleton,* and Ivan Rodriguez",
+    "affiliations": [
+        "Department of Genetics and Evolution, Faculty of Sciences, quai Ernest-Ansermet 30, University of Geneva, 1211 Geneva, Switzerland",
+        "Department of Basic Neurosciences, Faculty of Medicine, University of Geneva, 1 rue Michel-Servet, 1211 Geneva, Switzerland 3 current address: Epigenetics & Neurobiology Unit, EMBL Rome, European Molecular Biology Laboratory, Via Ramarini 32, 00015 Monterotondo, Italy",
+        "Rhinology-Olfactology Unit, Department of Otorhinolaryngology, Head and Neck Surgery, Geneva University Hospitals, Geneva, Switzerland. + These authors contributed equally *Co-corresponding authors"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.31.013268",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.31.013268.pdf"
+    },
+    "abstract": "The recent emergence of the pathogenic SARS-CoV-2 initiated a worldwide health crisis. The entry of the virus into cells is mediated by the binding of the viral Spike protein to the angiotensin-converting enzyme-2 (ACE2), followed by its priming by the TMPRSS2 serine protease, both present on the cellular membrane of the target cells. In the respiratory tract, these targets are ciliated cells. Interestingly, various reports indicate an association between SARS-CoV-2 infection and anosmia, suggesting an alteration not restricted to the respiratory tissue, but that might also include the olfactory sensory epithelium. We explored this possibility by generating RNA-seq libraries from human neuroepithelium, in which we found significant expression of ACE2 and TMPRSS2. To determine whether specific cell types of this chemosensory tissue may coexpress both of the virus entry genes, we analyzed a scRNA-seq dataset. We determined that sustentacular cells, which are in direct contact with the external world and maintain the integrity of olfactory sensory neurons, represents a prime candidate for SARS-CoV-2 infection via the nose, and possibly for SARS-CoV2-induced anosmia.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Geneva and the Swiss National Science Foundation",
+                    "award-id": [
+                        "31003A_172878 to A.C.",
+                        "310030_189153 to I.R."
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported by the University of Geneva and the Swiss National Science Foundation (grant numbers: 31003A_172878 to A.C. and 310030_189153 to I.R.)"
+        }
+    ]
+}

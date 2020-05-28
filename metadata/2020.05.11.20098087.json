@@ -1,0 +1,23 @@
+{
+    "abstract": "This work presents a novel methodology for systematically processing the time series that report the number of positive, recovered and deceased cases from a viral epidemic, such as Covid-19. The main objective is to unveil the evolution of the number of real infected people, and consequently to predict the peak of the epidemic and subsequent evolution. For this purpose, an original nonlinear model relating the raw data with the time-varying geometric ratio of infected people is elaborated, and a Kalman Filter is used to estimate the involved state variables. A hypothetical simulated case is used to show the adequacy and limitations of the proposed method. Then, several countries, including China, South Korea, Italy, Spain, UK and the USA, are tested to illustrate its behavior when real-life data are processed. The results obtained clearly show the beneficial effect of the social distancing measures adopted worldwide, confirming that the Covid-19 epidemic peak is left behind in those countries where the outbreak started earlier, and anticipating when the peak will take place in the remaining countries.",
+    "author": "Antonio Gomez-Exposito; Jose A. Rosendo-Macias; Miguel A. Gonzalez-Cagigal",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20098087",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20098087"
+    },
+    "title": "Monitoring and Tracking the Evolution of a Viral Epidemic Through Nonlinear Kalman Filtering: Application to the Covid-19 Case",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Spanish Ministry of Education and Professional Training",
+                    "award-id": [
+                        "FPU17/06380"
+                    ]
+                }
+            ],
+            "funding-statement": "The third author thanks the financial support of the Spanish Ministry of Education and Professional Training (grant FPU17/06380)."
+        }
+    ]
+}

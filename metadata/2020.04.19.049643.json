@@ -1,0 +1,46 @@
+{
+    "title": "Blocking antibodies against SARS-CoV-2 RBD isolated from a phage display antibody library using a competitive biopanning strategy",
+    "author": "Jianghai Liu",
+    "date": 2020,
+    "affiliations": [
+        "School of Bioscience and Technology, Chengdu Medical College, Chengdu, China",
+        "ABLINK Biotech Co., Ltd, Chengdu, China",
+        "Kezhi People\u2019s Air-Defense Equipment Co., Ltd, Chengdu, China *corresponding author:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.19.049643",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.19.049643.pdf"
+    },
+    "abstract": "The infection of the novel coronavirus SARS-CoV-2 have caused more than 150,000 deaths, but no vaccine or specific therapeutic antibody is currently available. SARS-CoV-2 relies on its spike protein, in particular the receptor binding domain (RBD), to bind human cell receptor angiotensinconverting enzyme 2 (ACE2) for viral entry, and thus targeting RBD holds the promise for preventing SARS-CoV-2 infection. In this work, a competitive biopanning strategy of a phage display antibody library was applied to screen blocking antibodies against RBD. High-affinity antibodies were enriched after the first round using a standard panning process in which RBD-His recombinant protein was immobilized as a bait. At the next two rounds, immobilized ACE2-Fc and free RBD-His proteins were mixed with the enriched phage antibodies. Antibodies binding to RBD at epitopes different from ACE2-binding site were captured by the immobilized ACE2-Fc, forming a \u201csandwich\u201d complex. Only antibodies competed with ACE2 for recognizing RBD at the same or similar epitopes can bind to the free RBD-His in the supernatant and be subsequently separated by the Ni-NTA magnetic beads. Top 1 lead from the competitive biopanning of a synthetic antibody library, Lib AB1, was produced as the full-length IgG1 format. It was proved to competitively block the binding of RBD to ACE2 protein, and potently inhibit SARS-CoV-2 pseudovirus infection of ACE2-overexpressing Hela cells with IC50 values of 12nM. Nevertheless, top 1 lead from the standard biopanning of Lib AB1, can only bind to RBD in vitro but not have the blocking or neutralization activity. Our strategy can efficiently isolate the blocking antibodies of RBD, and it would speed up the discovery of neutralizing antibodies against SARS-CoV-2.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Sichuan Science and Technology Program",
+                    "award-id": [
+                        "2018RZ0019"
+                    ]
+                },
+                {
+                    "funding-source": "SARS-CoV-2 Protection",
+                    "award-id": [
+                        "CYHX202032"
+                    ]
+                },
+                {
+                    "funding-source": "Kezhi People\u2019s AirDefense Equipment Co.",
+                    "award-id": [
+                        "JL2020C-01"
+                    ]
+                },
+                {
+                    "funding-source": "ABLINK Biotech Co."
+                }
+            ],
+            "funding-statement": "This work was supported by Sichuan Science and Technology Program (2018RZ0019), the program of SARS-CoV-2 Protection (CYHX202032, Kezhi People\u2019s AirDefense Equipment Co., Ltd) and the program of SARS-CoV-2 antibody discovery (JL2020C-01, ABLINK Biotech Co., Ltd). Reference [1] Song, Wenfei et al Cryo-EM structure of the SARS coronavirus spike glycoprotein in complex with its host cell receptor ACE2"
+        }
+    ]
+}

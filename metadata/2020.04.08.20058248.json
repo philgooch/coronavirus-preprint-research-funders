@@ -1,0 +1,48 @@
+{
+    "abstract": "The spread of Coronavirus Disease 2019 (COVID-19) across the United States confirms that not all Americans are equally at risk of infection, severe disease, or mortality. A range of intersecting biological, demographic, and socioeconomic factors are likely to determine an individual's susceptibility to COVID-19. These factors vary significantly across counties in the United States, and often reflect the structural inequities in our society. Recognizing this vast inter-county variation in risks will be critical to mounting an adequate response strategy. Using publicly available county-specific data we identified key biological, demographic, and socioeconomic factors influencing susceptibility to COVID-19, guided by international experiences and consideration of epidemiological parameters of importance. We created bivariate county-level maps to summarize examples of key relationships across these categories, grouping age and poverty; comorbidities and lack of health insurance; proximity, density and bed capacity; and race and ethnicity, and premature death. We have also made available an interactive online tool that allows public health officials to query risk factors most relevant to their local context. Our data demonstrate significant inter-county variation in key epidemiological risk factors, with a clustering of counties in certain states, which will result in an increased demand on their public health system. While the East and West coast cities are particularly vulnerable owing to their densities (and travel routes), a large number of counties in the Southeastern states have a high proportion of at-risk populations, with high levels of poverty, comorbidities, and premature death at baseline, and low levels of health insurance coverage. The list of variables we have examined is by no means comprehensive, and several of them are interrelated and magnify underlying vulnerabilities. The online tool allows readers to explore additional combinations of risk factors, set categorical thresholds for each covariate, and filter counties above different population thresholds. COVID-19 responses and decision making in the United States remain decentralized. Both the federal and state governments will benefit from recognizing high intra-state, inter-county variation in population risks and response capacity. Many of the factors that are likely to exacerbate the burden of COVID-19 and the demand on healthcare systems are the compounded result of long-standing structural inequalities in US society. Strategies to protect those in the most vulnerable counties will require urgent measures to better support communities' attempts at social distancing and to accelerate cooperation across jurisdictions to supply personnel and equipment to counties that will experience high demand.",
+    "affiliations": [
+        "US National Institute of General Medical Sciences. NK was supported in part by her American Cancer Society Clinical Research Professor Award. MVK is supported by the National Institute On Drug Abuse of the National Institutes of Health (T32DA035165). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institute of General Medical Sciences, the National Institutes of Health, or other contributing agencies"
+    ],
+    "author": "Caroline O. Buckee; Mathew V. Kiang; Ruoran Li; Satchit Balsari; Jarvis T. Chen; Nancy Krieger; Taylor Chin; Rebecca Kahn",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20058248",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20058248"
+    },
+    "title": "U.S. county-level characteristics to inform equitable COVID-19 response",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Award Number",
+                    "award-id": [
+                        "U54GM088558"
+                    ]
+                },
+                {
+                    "funding-source": "US National Institute of General Medical Sciences"
+                }
+            ],
+            "funding-statement": "TC, RK, RL, COB were supported in part by Award Number U54GM088558 from the US National Institute of General Medical Sciences"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "American Cancer Society Clinical Research Professor Award"
+                }
+            ],
+            "funding-statement": "NK was supported in part by her American Cancer Society Clinical Research Professor Award"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute On Drug Abuse of the National Institutes of Health",
+                    "award-id": [
+                        "T32DA035165"
+                    ]
+                }
+            ],
+            "funding-statement": "MVK is supported by the National Institute On Drug Abuse of the National Institutes of Health (T32DA035165)"
+        }
+    ]
+}

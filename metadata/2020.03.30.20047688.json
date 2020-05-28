@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Ending the COVID-19 pandemic is arguably one of the most prominent challenges in recent human history. Following closely the growth dynamics of the disease is one of the pillars towards achieving that goal. Objective: We aimed at developing a simple framework to facilitate the analysis of the growth rate (cases/day) and growth acceleration (cases/day^2) of COVID-19 cases in real-time. Methods: The framework was built using the Moving Regression (MR) technique and a Hidden Markov Model (HMM). The dynamics of the pandemic was initially modeled via combinations of four different growth stages: lagging (beginning of the outbreak), exponential (rapid growth), deceleration (growth decay) and stationary (near zero growth). A fifth growth behavior, namely linear growth (constant growth above zero), was further introduced to add more flexibility to the framework. An R Shiny application was developed, which can be accessed at http://www.theguarani.com.br/covid-19 or downloaded from https://github.com/adamtaiti/SARS-CoV-2. The framework was applied to data from the European Center for Disease Prevention and Control (ECDC), which comprised 853,200 cases reported worldwide as of April 2nd 2020. Results: We found that the impact of public health measures on the prevalence of COVID-19 could be perceived in seemingly real-time by monitoring growth acceleration curves. Restriction to human mobility produced detectable decline in growth acceleration within few days, deceleration within ~2 weeks and near-stationary growth within ~6 weeks. Countries exhibiting different permutations of the five growth stages indicated that the evolution of COVID-19 prevalence is more complex and dynamic than previously appreciated. Conclusions: These results corroborate that mass social isolation is a highly effective measure against the dissemination of SARS-CoV-2, as previously suggested. Apart from the analysis of prevalence partitioned by country, the proposed framework is easily applicable to city, state, region and arbitrary territory data, serving as an asset to monitor the local behavior of COVID-19 cases.\nCompeting Interest Statement",
+    "author": "Adam Taiti Harth Utsunomiya; Silvana Cassia Paulan; Jose Fernando Garcia; Marco Milanesi; Rafaela Beatriz Pintor Torrecilha; Yuri Tani Utsunomiya",
+    "date": 2020,
+    "doi": "10.1101/2020.03.30.20047688",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.30.20047688"
+    },
+    "title": "Growth rate and acceleration analysis of the COVID-19 pandemic reveals the effect of public health measures in real time",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This study did not receive financial support"
+        }
+    ]
+}

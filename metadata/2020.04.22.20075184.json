@@ -1,0 +1,16 @@
+{
+    "abstract": "In this work, a researcher develop $SHEIQRD$ (Susceptible-Stay at home-Exposed-Infected-Quarantine-Recovery-Death) coronavirus pandemic spread model. The disease-free and endemic equilibrium points are calculated and analyzed. The basic reproductive number $R_0$ is derived and its sensitivity analysis is done. COVID-19 pandemic spread is die out when $R_0\\leq 1$ and its persist in the community whenever $R_0>1$. Efficient stay at home rate, high coverage of precise identification and isolation of expose and infected individuals, and redaction of transmission and stay at home return rate can be mitigate the pandemics. Finally, theoretical analysis and numerical results are consistent.",
+    "author": "Dejen Ketema Mamo",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075184",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075184"
+    },
+    "title": "Model the transmission dynamics of COVID-19 propagation with public health intervention",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

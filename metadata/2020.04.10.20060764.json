@@ -1,0 +1,16 @@
+{
+    "abstract": "In an ongoing epidemic, the case fatality rate is not a reliable estimate of a disease's severity. This is particularly so when a large share of asymptomatic or pauci-symptomatic patients escape testing, or when overwhelmed healthcare systems are forced to limit testing further to severe cases only. By leveraging data on COVID-19, we propose a novel way to estimate a disease's infected fatality rate, the true lethality of the disease, in the presence of sparse and partial information. We show that this is feasible when the disease has turned into a pandemic and data comes from a large number of countries, or regions within countries, as long as testing strategies vary sufficiently. For Italy, our method estimates an IFR of 1.1% (95% CI: 0.2% - 2.1%), which is strongly in line with other methods. At the global level, our method estimates an IFR of 1.6% (95% CI: 1.1% - 2.1%). This method also allows us to show that the IFR varies according to each country's age structure and healthcare capacity.",
+    "author": "Federico Turkheimer; Matteo Villa; James F. Myers",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20060764",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20060764"
+    },
+    "title": "COVID-19: Recovering estimates of the infected fatality rate during an ongoing pandemic through partial data",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This research received no external funding."
+        }
+    ]
+}

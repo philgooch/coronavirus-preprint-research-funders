@@ -1,0 +1,40 @@
+{
+    "title": "Candidate targets for immune responses to 2019-Novel Coronavirus (nCoV): sequence homology- and bioinformatic-based predictions",
+    "date": 2020,
+    "affiliations": [
+        "La Jolla Institute for Immunology, La Jolla, CA 92037, USA. 2J. Craig Venter Institute, La Jolla, CA 92037, USA",
+        "Department of Pathology, University of California, San Diego, CA 92093, USA.4Department of Medicine, University of California, San Diego, CA 92093, USA",
+        "Correspondence to:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.12.946087",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.12.946087.pdf"
+    },
+    "abstract": "Effective countermeasures against the recent emergence and rapid expansion of the 2019-Novel Coronavirus (2019-nCoV) require the development of data and tools to understand and monitor viral spread and immune responses. However, little information about the targets of immune responses to 2019-nCoV is available. We used the Immune Epitope Database and Analysis Resource (IEDB) resource to catalog available data related to other coronaviruses, including SARS-CoV, which has high sequence similarity to 2019-nCoV, and is the best-characterized coronavirus in terms of epitope responses. We identified multiple specific regions in 2019-nCoV that have high homology to SARS virus. Parallel bionformatic predictions identified a priori potential B and T cell epitopes for 2019-nCoV. The independent identification of the same regions using two approaches reflects the high probability that these regions are targets for immune recognition of 2019-nCoV. ONE SENTENCE SUMMARY We identified potential targets for immune responses to 2019-nCoV and provide essential information for understanding human immune responses to this virus and evaluation of diagnostic and vaccine candidates.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "75N9301900065"
+                    ]
+                },
+                {
+                    "funding-source": "NIAID",
+                    "award-id": [
+                        "75N9301900065",
+                        "75N93019C00001"
+                    ]
+                },
+                {
+                    "funding-source": "AS and BP)"
+                }
+            ],
+            "funding-statement": "Support for the work included funding provided through NIH-NIAID contracts 75N9301900065 (AS) and 75N93019C00001 (AS and BP)"
+        }
+    ]
+}

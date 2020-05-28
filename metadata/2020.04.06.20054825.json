@@ -1,0 +1,43 @@
+{
+    "abstract": "Objectives: It is unclear whether patients with hypertension are more likely to be infected with SARS-COV-2 than the general population and whether there is a difference in the severity of COVID-19 pneumonia in patients who have taken ACEI/ARB drugs to lower blood pressure compared to those who have not. Methods: This observational study included data from all patients with clinically confirmed COVID-19 who were admitted to the Hankou Hospital, Wuhan, China between January 5 and March 8, 2020. Data were extracted from clinical and laboratory records. Follow-up was cutoff on March 8, 2020. Results: A total of 274 patients, 75 with hypertension and 199 without hypertension, were included in the analysis. Patients with hypertension were older and were more likely to have pre-existing comorbidities, including chronic renal insufficiency, cardiovascular disease, diabetes mellitus, and cerebrovascular disease than patients without hypertension. Moreover, patients with hypertension tended to have higher positive COVID-19 PCR detection rates. Patients with hypertension who had previously taken ACEI/ARB drugs for antihypertensive treatment have an increased tendency to develop severe pneumonia after infection with SARS-COV-2 (P = 0.064). Conclusions: COVID-19 patients with hypertension were significantly older and were more likely to have underlying comorbidities, including chronic renal insufficiency, cardiovascular disease, diabetes mellitus, and cerebrovascular disease. Patients with hypertension who had taken ACEI/ARB drugs for antihypertensive treatment have an increased tendency to develop severe pneumonia after infection with SARS-COV-2. In future studies, a larger sample size and multi-center clinical data will be needed to support our conclusions.",
+    "affiliations": [
+        "Scheme of Nanfang Hospital, Southern Medical University, Guangzhou, China, Grant 2016J011"
+    ],
+    "author": "Zhongqing Chen; Yuan Zhang; Jiafa Han; Tong Sha; Wenhong Song; Feng Wu; Qiaobing Huang; Hongbin Hu; Zhenhua Zeng; Haijun Li",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20054825",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20054825"
+    },
+    "title": "Hypertension in patients hospitalized with COVID-19 in Wuhan, China: A single-center retrospective observational study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Natural Science Foundation of China Grant",
+                    "award-id": [
+                        "81871604",
+                        "81871604"
+                    ]
+                },
+                {
+                    "funding-source": "Natural Science Foundation of Guangdong Province, China",
+                    "award-id": [
+                        "2020A151501361",
+                        "2017A030313590"
+                    ]
+                },
+                {
+                    "funding-source": "Outstanding Youths Development Scheme of Nanfang Hospital, Southern"
+                },
+                {
+                    "funding-source": "Medical University, Guangzhou",
+                    "award-id": [
+                        "2016J011"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Natural Science Foundation of China Grant 81871604 and 81871604; the Natural Science Foundation of Guangdong Province, China, Grants 2020A151501361 and 2017A030313590; the Outstanding Youths Development Scheme of Nanfang Hospital, Southern Medical University, Guangzhou, China, Grant 2016J011"
+        }
+    ]
+}

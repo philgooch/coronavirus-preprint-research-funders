@@ -1,0 +1,31 @@
+{
+    "abstract": "Aims: We aimed to determine the length of time from the last detected case of SARS-CoV-2 infection before elimination can be assumed at a country level in an island nation. Methods: A stochastic version of the SEIR model CovidSIM v1.1 designed specifically for COVID-19 was utilised. It was populated with data for the case study island nation of New Zealand (NZ) along with relevant parameters sourced from the NZ and international literature. This included a testing level for symptomatic cases of 7,800 tests per million people per week. Results: It was estimated to take between 27 and 33 days of no new detected cases for there to be a 95% probability of epidemic extinction. This was for effective reproduction numbers (Re) in the range of 0.50 to 1.0, which encompass such controls as case isolation (the shorter durations relate to low Re values). For a 99% probability of epidemic extinction, the equivalent time period was 37 to 44 days. In scenarios with lower levels of symptomatic cases seeking medical attention and lower levels of testing, the time period was up to 53 to 91 days (95% level). Conclusions: In the context of a high level of testing, a period of around one month of no new notified cases of COVID-19 would give 95% certainty that elimination of SARS-CoV-2 transmission had been achieved.",
+    "affiliations": [
+        "University of T\u00fcbingen and the IMAAC-NEXT Association. Professor Wilson is supported by the New Zealand Health Research Council and Ministry of Business Innovation and Employment (MBIE) funding of the BODE3 Programme"
+    ],
+    "author": "Markus Schwehm; Nick Wilson; Matthew Parry; Michael G Baker; Ayesha J Verrall; Martin Eichner",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20104240",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20104240"
+    },
+    "title": "When Can Elimination of SARS-CoV-2 Infection be Assumed? Simulation Modelling in a Case Study Island Nation",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of T\u00fcbingen and the IMAAC-NEXT Association"
+                }
+            ],
+            "funding-statement": "Dr Schwehm is supported by the University of T\u00fcbingen and the IMAAC-NEXT Association"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "New Zealand Health Research Council and Ministry of Business Innovation and Employment"
+                }
+            ],
+            "funding-statement": "Professor Wilson is supported by the New Zealand Health Research Council and Ministry of Business Innovation and Employment (MBIE) funding of the BODE3 Programme"
+        }
+    ]
+}

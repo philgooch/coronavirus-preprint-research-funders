@@ -1,0 +1,80 @@
+{
+    "title": "Protein structure analysis of the interactions between SARS-CoV-2 spike protein and the human ACE2 receptor: from conformational changes to novel neutralizing antibodies",
+    "author": "Abbreviations: Severe acute respiratory syndrome, SARS; coronavirus CoV; receptor binding domain, RBD; angiotensin converting enzyme 2, ACE,; fragment antigen binding, FAB; Word Health Organizzation, WHO; complementary-determining regions, (CDR); SwissPDBViewer, SPDBV",
+    "date": 2020,
+    "affiliations": [
+        "Laboratory of Biochemistry; Molecular and Structural Biology; Department of Biosciences, Biotechnologies, Biopharmaceutics; University of Bari; Via E. Orabona, 4; 70125 Bari, Italy",
+        "Dipartimento di Scienze del Suolo, della Pianta e degli Alimenti, Universit\u00e0 degli Studi di Bari Aldo Moro, Via Amendola 165/A, 70126 Bari, Italy",
+        "BROWSer S.r.l. (https://browser-bioinf.com/) c/o Department of Biosciences, Biotechnologies, Biopharmaceutics; University \u201cAldo Moro\u201d of Bari; Via E. Orabona, 4; 70126 Bari, Italy"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.17.046185",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.17.046185.pdf"
+    },
+    "abstract": "The recent severe acute respiratory syndrome, known as Corona Virus Disease 2019 (COVID-19) has spread so much rapidly and severely to induce World Health Organization (WHO) to declare state of emergency over the new coronavirus SARS-CoV-2 pandemic. While several countries have chosen the almost complete lock-down for slowing down SARS-CoV-2 spread, scientific community is called to respond to the devastating outbreak by identifying new tools for diagnosis and treatment of the dangerous COVID-19. With this aim we performed an in silico comparative modeling analysis, which allows to gain new insights about the main conformational changes occurring in the SARSCoV-2 spike protein, at the level of the receptor binding domain (RBD), along interactions with human cells angiotensin converting enzyme 2 (ACE2) receptor, that favour human cell invasion. Furthermore, our analysis provides i) an ideal pipeline to identify already characterized antibodies that might target SARS-CoV-2 spike RBD, for preventing interactions with the human ACE2, and ii) instructions for building new possible neutralizing antibodies, according to chemical/physical space restraints and complementary determining regions (CDR) mutagenesis of the identified existing antibodies. The proposed antibodies show in silico a high affinity for SARS-CoV-2 spike RBD and can be used as reference antibodies also for building new high affinity antibodies against present and future coronavirus able to invade human cells through interactions of their spike proteins with the human ACE2. More in general, our analysis provides indications for the set-up of the right biological molecular context for investigating spike RBD-ACE2 interactions for the development of new vaccines, diagnosis kits and other treatments based on the usage or the targeting of SARSCoV-2 spike protein.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "n-CoV19",
+        "coronavirus",
+        "spike",
+        "receptor binding domain",
+        "neutralizing antibodies",
+        "spike post-fusion conformation",
+        "ACE2",
+        "fold recognition tools",
+        "comparative modeling"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Italian Association for Mitochondrial Research",
+                    "award-id": [
+                        "www.mitoairm.it"
+                    ]
+                },
+                {
+                    "funding-source": "Italian Ministry for Education, University"
+                },
+                {
+                    "funding-source": "PON Ricerca",
+                    "award-id": [
+                        "2007\u20132013-A"
+                    ]
+                },
+                {
+                    "funding-source": "Azione I-Interventi di"
+                },
+                {
+                    "funding-source": "University of Bari"
+                },
+                {
+                    "funding-source": "Fondi Ateneo"
+                },
+                {
+                    "funding-source": "FFABR",
+                    "award-id": [
+                        "2017-2018"
+                    ]
+                }
+            ],
+            "funding-statement": "Authors would like to thank the Italian Association for Mitochondrial Research (www.mitoairm.it), IT resources made available by ReCaS, a project funded by the MIUR (Italian Ministry for Education, University and Re-search) in the \u201cPON Ricerca e Competitivit\u00e0 2007\u20132013-Azione I-Interventi di ra_orzamentostrutturale\u201d PONa3_00052, Avviso 254/Ric, University of Bari (\u201cFondi Ateneo ex60%\u201d2016\u201d; \u201cProgettoCompetitivo 2018\u201d and \u201cFFABR 2017-2018\u201d)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "PON RI",
+                    "award-id": [
+                        "2014-2020",
+                        "H92H18000160006"
+                    ]
+                }
+            ],
+            "funding-statement": "Authors would also like to thank MIUR for having funded the project \u201cSalute, alimentazione, qualit\u00e0 della vita\u201d: individuazione di un set di biomarker dell\u2019apoptosi\u201d for an innovative industrial PhD course\u2014PON RI 2014-2020, CUP H92H18000160006"
+        }
+    ]
+}

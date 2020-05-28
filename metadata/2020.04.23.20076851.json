@@ -1,0 +1,23 @@
+{
+    "abstract": "Background Coronavirus infectious disease 2019 (COVID-19) has developed into a global pandemic. It is essential to investigate the clinical characteristics of COVID-19 and uncover potential risk factors for severe disease to reduce the overall mortality rate of COVID-19. Methods Sixty-one critical COVID-19 patients admitted to the intensive care unit (ICU) and 93 severe non-ICU patients at Huoshenshan Hospital (Wuhan, China) were included in this study. Medical records, including demographic, platelet counts, heparin-involved treatments, heparin-induced thrombocytopenia-(HIT) related laboratory tests, and fatal outcomes of COVID-19 patients were analyzed and compared between survivors and nonsurvivors. Findings Sixty-one critical COVID-19 patients treated in ICU included 15 survivors and 46 nonsurvivors. Forty-one percent of them (25/61) had severe thrombocytopenia, with a platelet count (PLT) less than 50x109/L, of whom 76% (19/25) had a platelet decrease of >50% compared to baseline; 96% of these patients (24/25) had a fatal outcome. Among the 46 nonsurvivors, 52.2% (24/46) had severe thrombocytopenia, compared to 6.7% (1/15) among survivors. Moreover, continuous renal replacement therapy (CRRT) could induce a significant decrease in PLT in 81.3% of critical CRRT patients (13/16), resulting in a fatal outcome. In addition, a high level of anti-heparin-PF4 antibodies, a marker of HIT, was observed in most ICU patients. Surprisingly, HIT occurred not only in patients with heparin exposure, such as CRRT, but also in heparin-naive patients, suggesting that spontaneous HIT may occur in COVID-19. Interpretation Anti-heparin-PF4 antibodies are induced in critical COVID-19 patients, resulting in a progressive platelet decrease. Exposure to a high dose of heparin may trigger further severe thrombocytopenia with a fatal outcome. An alternative anticoagulant other than heparin should be used to treat COVID-19 patients in critical condition.",
+    "affiliations": [
+        "National Major Research and Development Program of China"
+    ],
+    "author": "Xiuwu Bian; Wei Chen; Hongzhen Li; Qincai Dong; Qing Mao; Zhang Zhang; Shuwei Zhang; Songtao Zhao; Li Yu; Xiaopeng Zhang; Kaitong Li; Ting Gao; Zhongyi Wang; Yongjiu Xiao; Guangfei Wang; Cheng Cao; Yong Hu; Xuan Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076851",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076851"
+    },
+    "title": "Heparin-induced thrombocytopenia is associated with a high risk of mortality in critical COVID-19 patients receiving heparin-involved treatment",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Major Research and Development Program of China."
+                }
+            ],
+            "funding-statement": "This investigation was supported by grants 2016CB02400 and 2017YFC1201103 from the National Major Research and Development Program of China."
+        }
+    ]
+}

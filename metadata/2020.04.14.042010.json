@@ -1,0 +1,30 @@
+{
+    "title": "Humanized Single Domain Antibodies Neutralize SARS-CoV-2 by Targeting Spike Receptor Binding Domain",
+    "date": 2020,
+    "affiliations": [
+        "NHC Key Laboratory of Systems Biology of Pathogens, Institute of Pathogen Biology",
+        "Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing",
+        "NHC Key Laboratory of Systems Biology of Pathogens and Christophe M\u00e9rieux",
+        "Laboratory, Institute of Pathogen Biology, Chinese Academy of Medical Sciences and",
+        "Peking Union Medical College, Beijing, China. 14 15 # These authors contributed equally to this work. 16",
+        "Corresponding author: W.Y"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.14.042010",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.14.042010.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has spread across more than 200 countries and regions, leading to an unprecedented medical burden and live lost. SARS-CoV-2 specific antivirals or prophylactic vaccines are not available. Neutralizing antibodies provide efficient blockade for viral infection and are a promising category of biological therapies. Using SARS-CoV-2 spike RBD as a bait, we have discovered a panel of humanized single domain antibodies (sdAbs). These sdAbs revealed binding kinetics with the equilibrium dissociation constant (KD) of 0.7\u223c33 nM. The monomeric sdAbs showed half maximal inhibitory concentration (IC50) of 0.003\u223c0.3 \u03bcg/mL in pseudotyped particle neutralization assay, and 0.23\u223c0.50 \u03bcg/mL in authentic SARS-CoV-2 neutralization assay. Competitive ligand-binding data suggested that the sdAbs either completely blocked or significantly inhibited the association between SARS-CoV-2 RBD and viral entry receptor ACE2. Finally, we showed that fusion of the human IgG1 Fc to sdAbs improved their neutralization activity by tens of times. These results reveal the novel SARS-CoV-2 RBD targeting sdAbs and pave a road for antibody drug development. 38 Key words: COVID-19, 2019-nCoV, neutralizing antibody, nanobody 41 Running title: Identification of SARS-CoV-2 neutralizing antibodies.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "CAMS Initiative for Innovative Medicine Grant Author"
+                }
+            ],
+            "funding-statement": "Funding: This work was supported by CAMS Initiative for Innovative Medicine Grant Author contributions W.Y., X.C., L.R"
+        }
+    ]
+}

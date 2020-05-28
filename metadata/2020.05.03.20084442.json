@@ -1,0 +1,57 @@
+{
+    "abstract": "SARS-CoV-2 is currently causing a devastating pandemic and there is a pressing need to understand the dynamics, specificity, and neutralizing potency of the humoral immune response during acute infection. Herein, we report the dynamics of antibody responses to the receptor-binding domain (RBD) of the spike protein and virus neutralization activity in 44 COVID-19 patients. RBD-specific IgG responses were detectable in all patients 6 days after PCR confirmation. Using a clinical isolate of SARS-CoV-2, neutralizing antibody titers were also detectable in all patients 6 days after PCR confirmation. The magnitude of RBD-specific IgG binding titers correlated strongly with viral neutralization. In a clinical setting, the initial analysis of the dynamics of RBD-specific IgG titers was corroborated in a larger cohort of PCR-confirmed patients (n=231). These findings have important implications for our understanding of protective immunity against SARS-CoV-2, the use of immune plasma as a therapy, and the development of much-needed vaccines.",
+    "affiliations": [
+        "National Institutes of Health NIAID Infectious Diseases Clinical Research Consortium (IDCRC) UM1 AI148684 (D.S.S, R.A and J.W), R01 AI137127 (J.W), ORIP/OD P51OD011132 (M.S.S), R00 AG049092 (V.D.M) and World Reference Center for Emerging Viruses and Arboviruses R24 AI120942 (V.D.M), and HIPC 5U19AI090023-10 (N.R, E.A and A.M) and VTEU 1UM1AI148576-01 (E.A and N.R). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript"
+    ],
+    "author": "Maurizio Affer; Erin M Scherer; David N Alter; Seyi Adekunle; David S Stephens; Mehul S Suthar; Susanne Linderman; Connie Arthur; Melanie Sherman; Hans Verkerke; Rafi Ahmed; Kieffer Hellmeister; Jens Wrammert; Natia Saakadze; Aneesh Metha; Lindsay Nyhoff; Evan Anderson; Nadine Rouphael; Vineet Menachery; Filipp Frank; Sean R Stowell; Geoffrey Hughes Smith; Andrew S Neish; Srilatha Edupuganti; Eric Ortlund; Robert Kauffman; Juliet A Morales; Grace Mantus; Carl Davis; Janetta Bryksin; Stacian Reynolds; Abigail Vanderheiden; Matthew Zimmerman; John Roback; Andrew Cheng; Jeannette Guarner; Michael Horwath",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20084442",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20084442"
+    },
+    "title": "Rapid generation of neutralizing antibody responses in COVID-19 patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Emory EVPHA Synergy Fund"
+                },
+                {
+                    "funding-source": "S.S and J.W)"
+                },
+                {
+                    "funding-source": "National Institutes of Health NIAID Infectious Diseases Clinical Research Consortium",
+                    "award-id": [
+                        "AI148684"
+                    ]
+                },
+                {
+                    "funding-source": "R.A and J.W)",
+                    "award-id": [
+                        "AI137127",
+                        "ORIP/OD",
+                        "P51OD011132",
+                        "AG049092"
+                    ]
+                },
+                {
+                    "funding-source": "World Reference Center for Emerging Viruses and Arboviruses",
+                    "award-id": [
+                        "AI120942",
+                        "5U19AI090023-10"
+                    ]
+                },
+                {
+                    "funding-source": "E.A and A.M)",
+                    "award-id": [
+                        "1UM1AI148576-01"
+                    ]
+                },
+                {
+                    "funding-source": "E.A and N.R)"
+                }
+            ],
+            "funding-statement": "This work was funded in part by an Emory EVPHA Synergy Fund award (M.S.S and J.W), and by the National Institutes of Health NIAID Infectious Diseases Clinical Research Consortium (IDCRC) UM1 AI148684 (D.S.S, R.A and J.W), R01 AI137127 (J.W), ORIP/OD P51OD011132 (M.S.S), R00 AG049092 (V.D.M) and World Reference Center for Emerging Viruses and Arboviruses R24 AI120942 (V.D.M), and HIPC 5U19AI090023-10 (N.R, E.A and A.M) and VTEU 1UM1AI148576-01 (E.A and N.R)"
+        }
+    ]
+}

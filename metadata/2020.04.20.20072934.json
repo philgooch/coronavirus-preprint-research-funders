@@ -1,0 +1,28 @@
+{
+    "abstract": "The COVID-19 outbreak is triggering a global crisis that is challenging governments, health systems and the scientific community worldwide. A central question in the COVID-19 pandemic is whether climatic factors modulate its progression. This information is key to epidemiologists and healthcare decision-makers for improving their management plans. Previous attempts to assess the impact of climatic parameters have yielded ambiguous results, either because they were using geographically or temporally restricted data, or because they were comparing infection rates across countries, which were measured differently depending on local screening strategies. In March 2020, the spread of COVID-19 dramatically increased the number of countries recording deaths, providing an opportunity to use mortality rate, which is measured more homogeneously across countries than infection rates, as a descriptor of the COVID-19 outbreak over a large latitudinal range. Here, using data recorded in 208 territories from 88 countries, we show that mortality rate is negatively influenced by warmer air temperature and positively affected by higher relative humidity. Each additional Celsius degree decreases mortality rate by ~4%, while a 1% increase in relative humidity raises mortality rate by ~2%. Temperature is positively correlated with UV-index, for which one unit of increase results in a ~15% decrease in the mortality rate. We also show that other factors contribute to the dynamics of the COVID-19 outbreak, such as the proportion of vulnerable age classes in the population, access to a non-overwhelmed health system, as well as governmental travel restrictions for controlling the spread of the disease. All of them are critical factors impacting the mortality rate of COVID-19. The influence of climatic factors is a warning to all southern hemisphere countries where winter is coming soon. Northern hemisphere countries should also be warned that climatic factors alone will likely not be sufficient to contain the disease.",
+    "affiliations": [
+        "Swiss National Science Foundation: n\u00b0 31003A_182577 to MC, n\u00b0 P400PB_183930 to CSQ, and 310030_185327/1 to JMB"
+    ],
+    "author": "Mathias Currat; Claudio S. Quilodran; Juan I. Montoya-Burgos",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072934",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072934"
+    },
+    "title": "Climatic factors influence COVID-19 outbreak as revealed by worldwide mortality",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Swiss National Science",
+                    "award-id": [
+                        "31003A_182577",
+                        "P400PB_183930",
+                        "310030_185327/1"
+                    ]
+                }
+            ],
+            "funding-statement": "All authors are supported by grants from the Swiss National Science Foundation: n\u00b0 31003A_182577 to MC, n\u00b0 P400PB_183930 to CSQ, and 310030_185327/1 to JMB"
+        }
+    ]
+}

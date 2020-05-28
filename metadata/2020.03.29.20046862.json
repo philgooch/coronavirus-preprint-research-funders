@@ -1,0 +1,19 @@
+{
+    "abstract": "In this proof-of-concept study, we model the spread of SARS-CoV-2 in various environments with a stochastic susceptible-infectious-recovered (SIR) compartmental model. We fit this model to the latest epidemic data with an approximate Bayesian computation (ABC) technique. Within this SIR-ABC framework, we extrapolate long-term infection curves for several regions and evaluate their steepness. We propose several applications and extensions of the SIR-ABC technique.",
+    "affiliations": [
+        "Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE), supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL)"
+    ],
+    "author": "Vedant Chandra",
+    "date": 2020,
+    "doi": "10.1101/2020.03.29.20046862",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.29.20046862"
+    },
+    "title": "Stochastic Compartmental Modelling of SARS-CoV-2 with Approximate Bayesian Computation",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this work."
+        }
+    ]
+}

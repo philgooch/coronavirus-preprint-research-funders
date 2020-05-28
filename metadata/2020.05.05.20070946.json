@@ -1,0 +1,16 @@
+{
+    "abstract": "BACKGROUND The clinical onset serial interval, or the time between the onset of symptoms in successive cases in a chain of infection, is often used as a measurable proxy for the transmission serial interval of an infectious disease. Current estimates of the mean clinical onset serial interval of COVID-19 range from 3.96 to 7.5 days. In this article, we define the diagnostic serial interval as the time between the diagnosis dates of the infector and infectee. We study and compare the clinical onset and diagnostic serial intervals of SARS-CoV-2/COVID-19 in South Korea. METHODS Analyzing the DS4C project data which summarize information on SARS-CoV-2/COVID-19 cases reported by regional governments in South Korea, we estimate the means of the clinical onset serial interval, the diagnostic serial interval and the difference between the two. We use the balanced cluster bootstrap method to construct 95% bootstrap confidence intervals. RESULTS The mean clinical onset serial interval and mean diagnostic serial interval were estimated to be 3.58 days (95% CI: 2.62, 4.53) and 3.68 days (95% CI: 3.14, 4.22), respectively. A matched sample analysis showed that the diagnostic serial interval was significantly shorter than the clinical onset serial interval (estimated mean difference -1.17 days, 95% CI: -2.26, -0.09). CONCLUSIONS The short diagnostic serial interval of SARS-CoV-2/COVID-19 in South Korea may explain why South Korea was able to contain the COVID-19 outbreak and avoid high mortality. We conjecture that the mean diagnostic serial interval may serve as a predictor for the success of a country's containment efforts.",
+    "author": "Marloes H. Maathuis; Sofia Kyonhi Mettler",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20070946",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20070946"
+    },
+    "title": "Clinical onset serial interval and diagnostic serial interval of SARS-CoV-2/COVID-19 in South Korea",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "We declare no funding sources for writing this manuscript."
+        }
+    ]
+}

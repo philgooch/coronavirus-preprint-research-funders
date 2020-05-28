@@ -1,0 +1,49 @@
+{
+    "abstract": "The novel coronavirus disease 2019 (COVID-19) outbreak on the Diamond Princess ship has caused over 634 cases as of February 20, 2020. We model the transmission process on the ship with a stochastic model and estimate the basic reproduction number at 2.2 (95%CI: 2.1\u22122.4). We estimate a large dispersion parameter than other coronaviruses, which implies that the virus is difficult to go extinction. The epidemic doubling time is at 4.6 days (95%CI: 3.0\u22129.3), and thus timely actions were crucial. The lesson learnt on the ship is generally applicable in other settings.",
+    "affiliations": [
+        "National Natural Science Foundation of China (Grant Number 61672013) and Huaian Key Laboratory for Infectious Diseases Control and Prevention (Grant Number HAP201704), Huaian, Jiangsu, China"
+    ],
+    "author": "Maggie H Wang; Daihai He; Zian Zhuang; Kai Wang; Weiming Wang; Daozhou Gao; Yongli Cai; Marc Chong; Jinjun Ran; Yijun Lou; Lin Yang; Shi Zhao; Peihua Cao",
+    "date": 2020,
+    "doi": "10.1101/2020.02.26.20028449",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.26.20028449"
+    },
+    "title": "Modelling the coronavirus disease (COVID-19) outbreak on the Diamond Princess ship using the public surveillance data from January 20 to February 20, 2020",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "General Research Fund",
+                    "award-id": [
+                        "15205119"
+                    ]
+                },
+                {
+                    "funding-source": "Research Grants Council"
+                },
+                {
+                    "funding-source": "Hong Kong, China"
+                }
+            ],
+            "funding-statement": "DH was supported by General Research Fund (Grant Number 15205119) of the Research Grants Council (RGC) of Hong Kong, China"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "61672013"
+                    ]
+                },
+                {
+                    "funding-source": "Huaian Key Laboratory for Infectious Diseases Control and Prevention",
+                    "award-id": [
+                        "HAP201704"
+                    ]
+                }
+            ],
+            "funding-statement": "WW was supported by National Natural Science Foundation of China (Grant Number 61672013) and Huaian Key Laboratory for Infectious Diseases Control and Prevention (Grant Number HAP201704), Huaian, Jiangsu, China"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "The global pandemic due to the emergence of a novel coronavirus (COVID-19) is a threat to the future health of humanity. There remains an urgent need to understand its transmission characteristics and design effective interventions to mitigate its spread. In this study, we define a non-linear (known in biochemistry models as allosteric or cooperative) relationship between viral shedding, viral dose and COVID-19 infection propagation. We develop a mathematical model of the dynamics of COVID-19 to link quantitative features of viral shedding, human exposure and transmission in nine countries impacted by the ongoing COVID-19 pandemic. The model was then used to evaluate the efficacy of interventions against virus transmission. We found that cooperativity was important to capture country-specific transmission dynamics and leads to resistance to mitigating transmission in mild or moderate interventions. The behaviors of the model emphasize that strict interventions greatly limiting both virus shedding and human exposure are indispensable to achieving effective containment of COVID-19.",
+    "affiliations": [
+        "National Institutes of Health (R01CA193256) and the American Cancer Society (129832-RSG-16-214-01-TBE) for their generous support"
+    ],
+    "author": "Ziwei Dai; Jason W Locasale",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20092361",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092361"
+    },
+    "title": "Cooperative virus propagation underlies COVID-19 transmission dynamics",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Marc Lustgarten Foundation,"
+                },
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "R01CA193256"
+                    ]
+                },
+                {
+                    "funding-source": "American Cancer Society",
+                    "award-id": [
+                        "129832-RSG-16-214-01-TBE"
+                    ]
+                }
+            ],
+            "funding-statement": "JWL thanks the Marc Lustgarten Foundation, the National Institutes of Health (R01CA193256) and the American Cancer Society (129832-RSG-16-214-01-TBE) for their generous support."
+        }
+    ]
+}

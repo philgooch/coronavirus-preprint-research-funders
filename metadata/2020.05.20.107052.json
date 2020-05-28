@@ -1,0 +1,40 @@
+{
+    "title": "Discovery of potent inhibitors of PLproCoV2 by screening libraries of selenium-containing compounds",
+    "date": 2020,
+    "author": "Ewelina W\u0119glarz-Tomczak\u200b1,Jakub M. Tomczak,\u200b ,Miros\u0142aw Giurg,\u200b ,Ma\u0142gorzata Burda-Grabowska\u200b3,Stanley Brul\u200b1",
+    "affiliations": [
+        "Swammerdam Institute for Life Sciences, Faculty of Science, University of Amsterdam, the Netherlands",
+        "Department of Computer Science, Faculty of Science, Vrije Universiteit Amsterdam, the Netherlands",
+        "Department of Organic and Medicinal Chemistry, Faculty of Chemistry, Wroclaw University of Science and Technology, Wroc\u0142aw, Poland"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.20.107052",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.20.107052.pdf"
+    },
+    "abstract": "A collection of twelve organoselenium compounds, structural analogues of antioxidant drug ebselen were screened for inhibition of the papain-like protease (PLpro)from the acute respiratory syndrome coronavirus 2 (SARS-CoV-2, CoV2). This cysteine protease, being responsible for the hydrolysis of peptide bonds between specific amino acids, plays a critical role in CoV2 replication and in assembly of new viral particles within human cells. The activity of the PLpro CoV2 is essential for the progression of coronavirus disease 2019 (COVID-19) and it constitutes a key target for the development of anti-COVID-19 drugs. Here, we identified four strong inhibitors that bind favorably to the PLpro CoV2 with the IC\u200b50 in the nanomolar range.",
+    "keywords": [
+        "COVID-19",
+        "papain-like protease",
+        "organoselenium compounds",
+        "SAR study"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Mobilno\u015b\u0107 Plus"
+                },
+                {
+                    "funding-source": "Polish Ministry of Science and Higher Education",
+                    "award-id": [
+                        "1639/MOB/V/2017/0"
+                    ]
+                }
+            ],
+            "funding-statement": "EWT is co-financed by a grant Mobilno\u015b\u0107 Plus V from the Polish Ministry of Science and Higher Education (Grant No 1639/MOB/V/2017/0). Author contributions EWT conceived the project"
+        }
+    ]
+}

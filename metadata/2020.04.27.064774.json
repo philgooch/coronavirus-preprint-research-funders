@@ -1,0 +1,40 @@
+{
+    "title": "A SARS-CoV-2 vaccine candidate would likely match all currently circulating strains",
+    "date": 2020,
+    "author": "Bethany Dearlove, Eric Lewitus, Hongjun Bai, Yifan Li, Daniel B. Reeves, M",
+    "affiliations": [
+        "Walter Reed Army Institute of Research, Silver Spring",
+        "Walter Reed Army Institute of Research, Silver Spring, MD",
+        "Center for Infectious Diseases Research, Walter Reed Army Institute of Research, Silver Spring"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.27.064774",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.27.064774.pdf"
+    },
+    "abstract": "The magnitude of the COVID-19 pandemic underscores the urgency for a safe and effective vaccine. Here we analyzed SARS-CoV-2 sequence diversity across 5,700 sequences sampled since December 2019. The Spike protein, which is the target immunogen of most vaccine candidates, showed 93 sites with shared polymorphisms; only one of these mutations was found in more than 1% of currently circulating sequences. The minimal diversity found among SARS-",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "U.S Department of Defense Health Agency and the U.S Department of the Army and"
+                },
+                {
+                    "funding-source": "The Henry"
+                },
+                {
+                    "funding-source": "Jackson Foundation for the Advancement of Military Medicine, Inc"
+                },
+                {
+                    "funding-source": "U.S Department of the Army",
+                    "award-id": [
+                        "W81XWH-18-2-  0040"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was funded by U.S Department of Defense Health Agency and the U.S Department of the Army and a cooperative agreement between The Henry M. Jackson Foundation for the Advancement of Military Medicine, Inc., and the U.S Department of the Army [W81XWH-18-2-  0040]. Author contributions Conceptualization: M.R., K.M.; Investigation: B.D., E.L., H.B.; Writing \u2013 Original Draft: M.R.; Writing \u2013 Review & Editing: all authors; Funding Acquisition: K.M."
+        }
+    ]
+}

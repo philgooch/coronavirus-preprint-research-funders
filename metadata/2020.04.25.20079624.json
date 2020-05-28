@@ -1,0 +1,20 @@
+{
+    "abstract": "We have worked on imported covid19 cases of India, detected after declaration of lock down. They are marked as hidden travelers, who are detected later during 1-2 weeks period of lock down. We have investigated the impact of those travelers on selective 15 states, having large number cases. Among them 5 states have faced a noticeable effect on their data profile, although its overall effect in country level is quite negligible. Searching the Sigmoid trends of all 15 states, we have identified 3 categories depending upon latest data of new case with respect to the peak value of Sigmoid functions. Based on our optimistic predicted curves, ongoing lock down period might be enough for getting marginal values of new cases for KL, HR, JK, TN and AP but the reamining of 15 states might need a third phase of lock down or alternative preventive measures.",
+    "author": "SUPRIYA MONDAL; Sabyasachi Ghosh",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20079624",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20079624"
+    },
+    "title": "Searching the Sigmoid-type trend in Lock Down period covid19 data of India and its different states",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Not Applicable"
+                }
+            ],
+            "funding-statement": "Not Applicable"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Mass spectrometry analysis of newly emerging coronavirus HCoV-19 spike S protein and human ACE2 reveals camouflaging glycans and unique post-translational modifications",
+    "author": "Zeyu Sun, Keyi Ren, Xing Zhang, Jinghua Chen, Zhengyi Jiang, Jing Jiang, 6 Feiyang Ji, Xiaoxi Ouyang, Lanjuan Li",
+    "date": 2020,
+    "affiliations": [
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National",
+        "Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for",
+        "Diagnosis and Treatment of Infectious Disease, The First Affiliated Hospital, School 11 of Medicine, Zhejiang University, Hangzhou, Zhejiang, China",
+        "Department of Biophysics & Center of Cryo-Electron Microscopy, Zhejiang",
+        "University School of Medicine, Hangzhou, Zhejiang, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.29.068098",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.29.068098.pdf"
+    },
+    "abstract": "The pneumonia-causing COVID-19 pandemia has prompt worldwide efforts to understand its biological and clinical traits of newly identified HCoV-19 virus. In this study, post-translational modification (PTM) of recombinant HCoV-19 S and hACE2 were characterized by LC-MSMS. We revealed that both proteins were highly decorated with specific proportions of N-glycan subtypes. Out of 21 possible glycosites in HCoV-19 S protein, 20 were confirmed completely occupied by",
+    "keywords": [
+        "N-glycosylation",
+        "COVID-19",
+        "Spike protein",
+        "hACE2",
+        "Structure"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The National Key Research and Development Program",
+                    "award-id": [
+                        "2017YFC1200204",
+                        "2017YFA0504803",
+                        "2018YFA0507700"
+                    ]
+                },
+                {
+                    "funding-source": "Emergency Project",
+                    "award-id": [
+                        "2020C03123-1"
+                    ]
+                },
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities",
+                    "award-id": [
+                        "2018XZZX001-13"
+                    ]
+                },
+                {
+                    "funding-source": "Independent Project Fund of the State Key Laboratory for Diagnosis and Treatment of Infectious Disease.",
+                    "award-id": [
+                        "LC-MSMS"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by The National Key Research and Development Program (2017YFC1200204, 2017YFA0504803, 2018YFA0507700), Emergency Project (2020C03123-1), Fundamental Research Funds for the Central Universities (2018XZZX001-13) and Independent Project Fund of the State Key Laboratory for Diagnosis and Treatment of Infectious Disease.  of  Zhejiang  Provincial  Department of  Science and  Technology Authors' contributions: Study concept and design: ZS, LL; Samples preparation: ZS, KR, FJ, XO; LC-MSMS experiments: ZS, KR; Analysis and interpretation of data: ZS, JJ, KR; Structure"
+        }
+    ]
+}

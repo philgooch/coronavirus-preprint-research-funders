@@ -1,0 +1,20 @@
+{
+    "abstract": "The main form of COVID-19 transmission is via oral-respiratory droplet contamination (droplet; very small drop of liquid) produced when individuals talk, sneeze or cough. In hospitals, health-care workers wear facemasks as a minimum medical droplet precaution to protect themselves. Due to the shortage of masks during the pandemic, priority is given to hospitals for their distribution. As a result, the availability/use of medical masks is discouraged for the public. However, given that asymptomatic individuals, not wearing masks within the public, can be highly contagious for COVID-19, prevention of environmental droplet contamination (EnDC) from coughing/sneezing/speech is fundamental to reducing transmission. As an immediate solution to promote public droplet safety, we assessed household textiles to quantify their potential as effective environmental droplet barriers (EDBs). The synchronized implementation of a universal community droplet reduction solution is discussed as a model against COVID-19. Using a bacterial-suspension spray simulation model of droplet ejection (mimicking a sneeze), we quantified the extent by which widely available clothing fabrics reduce the dispersion of droplets onto surfaces within 1.8m, the minimum distance recommended for COVID-19 social distancing. All textiles reduced the number of droplets reaching surfaces, restricting their dispersion to <30cm, when used as single layers. When used as double-layers, textiles were as effective as medical mask/surgical-cloth materials, reducing droplet dispersion to <10cm, and the area of circumferential contamination to ~0.3%. The synchronized implementation of EDBs as a community droplet reduction solution (i.e., face covers/scarfs/masks & surface covers) could reduce EnDC and the risk of transmitting or acquiring infectious respiratory pathogens, including COVID-19.",
+    "author": "Fabio Cominelli; Theresa Pizarro; Alexander Rodriguez-Palacios; Sanja Ilic; Abigail Basson",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20045617",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20045617"
+    },
+    "title": "Textile Masks and Surface Covers - A 'Universal Droplet Reduction Model' Against Respiratory Pandemics",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH"
+                }
+            ],
+            "funding-statement": "The authors are also supported by the NIH"
+        }
+    ]
+}

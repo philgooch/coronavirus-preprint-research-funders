@@ -1,0 +1,51 @@
+{
+    "title": "Genetic analysis of the novel SARS-CoV-2 host receptor TMPRSS2 in different populations",
+    "date": 2020,
+    "author": "Department of Molecular Medicine and Medical Biotechnologies University of Naples, Federico II, 80145, Naples, Italy CEINGE, Biotecnologie Avanzate, Via Gaetano Salvatore, 486, 80145, Naples, Italy Tel: +39-081-3737736 e-mail: mario.capasso@unina.it",
+    "affiliations": [
+        "Dipartimento di Medicina Molecolare",
+        "Biotecnologie Mediche, Universit\u00e0 degli Studi di Napoli Federico II, Napoli, Italy",
+        "CEINGE Biotecnologie Avanzate, Napoli, Italy Keywords: TMPRSS2, COVID-19, SARSCoV-2, genetic population analysis",
+        "QTL, variant. Running title: TMPRSS2 genetic analysis for COVID-19. Word count: 1907 # Corresponding author: Prof. Mario Capasso",
+        "Department of Molecular Medicine and Medical Biotechnologies University of Naples, Federico II, 80145, Naples, Italy CEINGE, Biotecnologie Avanzate, Via Gaetano Salvatore, 486, 80145, Naples, Italy Tel: +39-081-3737736"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.23.057190",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.23.057190.pdf"
+    },
+    "abstract": "The infection coronavirus disease 2019 (COVID-19) is caused by a virus classified as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). At cellular level, virus infection initiates with binding of viral particles to the host surface cellular receptor angiotensin converting enzyme 2 (ACE2). SARS-CoV-2 engages ACE2 as the entry receptor and employs the cellular serine protease 2 (TMPRSS2) for S protein priming. TMPRSS2 activity is essential for viral spread and pathogenesis in the infected host. Understanding how TMPRSS2 protein expression in the lung varies in the population could reveal important insights into differential susceptibility to influenza and coronavirus infections. Here, we systematically analyzed coding-region variants in TMPRSS2 and the eQTL variants, which may affect the gene expression, to compare the genomic characteristics of TMPRSS2 among different populations. Our findings suggest that the lung-specific eQTL variants may confer different susceptibility or response to SARS-CoV-2 infection from different populations under the similar conditions. In particular, we found that the eQTL variant rs35074065 is associated with high expression of TMPRSS2 but with a low expression of the interferon (IFN)-\u03b1/\u03b2-inducible gene, MX1, splicing isoform. Thus, these subjects could account for a more susceptibility either to viral infection or to a decrease in cellular antiviral response.",
+    "keywords": [
+        "TMPRSS2",
+        "COVID-19",
+        "SARSCoV-2",
+        "genetic population analysis",
+        "eQTL",
+        "variant",
+        "Mario Capasso"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding This"
+                },
+                {
+                    "funding-source": "CEINGE TASK-FORCE",
+                    "award-id": [
+                        "D64I200003800"
+                    ]
+                },
+                {
+                    "funding-source": "Regione Campania for the",
+                    "award-id": [
+                        "DGR n. 140 del 17 marzo 2020"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding This study was supported by the project \"CEINGE TASK-FORCE COVID19\", code D64I200003800 by Regione Campania for the fight against Covid-19 (DGR n. 140 del 17 marzo 2020)"
+        }
+    ]
+}

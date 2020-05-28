@@ -1,0 +1,60 @@
+{
+    "abstract": "Background: The COVID-19 outbreak presents a new, life-threatening disease. Our aim was to assess the potential effectiveness and safety of antiviral agents for COVID-19 in children. Methods: Electronic databases from their inception to March, 31 2020 were searched for randomized controlled trials, clinical controlled trials and cohort studies of interventions with antiviral agents for children (less than 18 years of age) with COVID-19. Results: A total of 23 studies of indirect evidence with 6008 patients were included. The risks of bias in all studies were moderate to high in general. The effectiveness and safety of antiviral agents for children with COVID-19 is uncertain: For adults with COVID-19, lopinavir/ritonavir had no effect on mortality (risk ratio [RR]= 0.77, 95% confidence interval [CI] 0.45 to 1.30) and probability of negative PCR test (RR=0.98, 95 CI% 0.82 to 1.18). Arbidol had no benefit on probability of negative PCR test (RR=1.27, 95% CI 0.93 to 1.73). Hydroxychloroquine was not associated with increasing the probability of negative PCR result (RR=0.93, 95% CI 0.73 to 1.18). For adults with SARS, interferon was associated with reduced corticosteroid dose (weighted mean difference [WMD]=-0.14 g, 95% CI -0.21 to -0.07) but had no effect on mortality (RR=0.72, 95% CI 0.28 to 1.88); ribavirin did not reduce mortality (RR=0.68, 95% CI % 0.43 to 1.06) and was associated with high risk of severe adverse reactions; and oseltamivir had no effect on mortality (RR=0.87, 95% CI 0.55 to 1.38). Ribavirin combined with interferon was also not effective in adults with MERS and associated with adverse reactions. Conclusions: There is no evidence showing the effectiveness of antiviral agents for children with COVID-19, and the clinical efficacy of existing antiviral agents is still uncertain. We do not suggest clinical routine use of antivirals for COVID-19 in children, with the exception of clinical trials. Keywords: Antiviral agents; children; COVID-19; meta-analysis; rapid review.\nCompeting Interest Statement",
+    "author": "Yanfang Ma; Yaolong Che; Shuya Lu; Myeong Soo Lee; Zhengxiu Luo; Zijun Wang; Xia Wang; Yangqin Xun; Hyeong Sik Ahn; Yang Yu; Jing Liao; Qubei Li; Weiguo Li; Kehu Yang; Enmei Liu; Xufei Luo; Qi Zhou; Qianling Shi; Toshio Fukuoka",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20064436",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20064436"
+    },
+    "keywords": [
+        "Antiviral agents",
+        "children",
+        "COVID-19",
+        "meta-analysis",
+        "rapid review"
+    ],
+    "title": "Potential Effectiveness and Safety of Antiviral Agents in Children with Coronavirus Disease 2019: A Rapid Review and Meta-Analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Clinical Research Center for Child Health and Disorders"
+                },
+                {
+                    "funding-source": "Children's Hospital of Chongqing Medical University, Chongqing",
+                    "award-id": [
+                        "NCRCCHD-2020-EP-01",
+                        "Enmei Liu"
+                    ]
+                },
+                {
+                    "funding-source": "Special Fund for Key Research and Development Projects in Gansu Province in",
+                    "award-id": [
+                        "Yaolong Chen"
+                    ]
+                },
+                {
+                    "funding-source": "Special Project of Science and Technology for Emergency Response",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Chongqing Science and Technology Bureau,",
+                    "award-id": [
+                        "Enmei Liu",
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Key Laboratory of Evidence Based Medicine and Knowledge Translation of Gansu Province",
+                    "award-id": [
+                        "GSEBMKT-2020YJ01",
+                        "Yaolong Chen"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants from National Clinical Research Center for Child Health and Disorders (Children's Hospital of Chongqing Medical University, Chongqing, China) (grant number NCRCCHD-2020-EP-01) to [Enmei Liu]; Special Fund for Key Research and Development Projects in Gansu Province in 2020, to [Yaolong Chen]; The fourth batch of \u201cSpecial Project of Science and Technology for Emergency Response to COVID-19\u201d of Chongqing Science and Technology Bureau, to [Enmei Liu]; Special funding for prevention and control of emergency of COVID-19 from Key Laboratory of Evidence Based Medicine and Knowledge Translation of Gansu Province (grant number No GSEBMKT-2020YJ01), to [Yaolong Chen]"
+        }
+    ]
+}

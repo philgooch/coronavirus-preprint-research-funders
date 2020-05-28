@@ -1,0 +1,28 @@
+{
+    "abstract": "Background: The SARS-CoV-2 pandemic is leading to the global introduction of public health interventions to prevent the spread of the virus and avoid the overload of health care systems, especially for the most severely affected patients. Scientific studies to date have focused primarily on describing the clinical course of patients, identifying treatment options and developing vaccines. In Germany, as in many other regions, current tests for SARS-CoV2 are not being conducted on a representative basis and in a longitudinal design. Furthermore, knowledge about the immune status of the population is lacking. Yet these data are needed to understand the dynamics of the pandemic and to thus appropriately design and evaluate interventions. For this purpose, we recently started a prospective population-based cohort in Munich, Germany, with the aim to better understand the state and dynamics of the pandemic. Methods: In 100, randomly selected constituencies out of 755, 3,000 Munich households are identified via random route and offered enrollment into the study. All household members are asked to complete a baseline questionnaire and subjects \u226514 years of age are asked to provide a venous blood sample of \u22643 ml for the determination of SARS-CoV-2 IgG/IgA status. The residual plasma and the blood pellet are preserved for later genetic and molecular biological investigations. For twelve months, each household member is asked to keep a diary of daily symptoms, whereabouts and contacts via WebApp. If symptoms suggestive for COVID-19 are reported, family members, including children <14 years, are offered a pharyngeal swab taken at the Division of Infectious Diseases and Tropical Medicine, LMU University Hospital Munich, for molecular testing for SARS-CoV-2. In case of severe symptoms, participants will be transferred to a Munich hospital. For one year, the study teams re-visits the households for blood sampling every six weeks. Discussion: With the planned study we will establish a reliable epidemiological tool to improve the understanding of the spread of SARS-CoV-2 and to better assess the effectiveness of public health measures as well as their socio-economic effects. This will support policy makers in managing the epidemic based on scientific evidence.\nCompeting Interest Statement",
+    "affiliations": [
+        "LMU University Hospital Munich; Center for International Health, LMU of Munich and German Center for Infection Research (DZIF), partner site Munich, Germany",
+        "LMU University Hospital Munich, for molecular testing for SARS-CoV-2. In case of severe symptoms, participants will be transferred to",
+        "Munich hospital. For one year, the study teams re-visits the households for blood sampling every six weeks. Discussion: With the planned study we will establish a reliable epidemiological tool to improve the understanding of the spread of SARS-CoV-2 and to better assess the effectiveness of public health measures as well as their socio-economic effects. This will support policy makers in managing the epidemic based on scientific evidence"
+    ],
+    "author": "Andreas Wieser; Inge Kroidl; Felix Forster; Elmar Saathoff; Maximilian Diefenbach; Fabian J Theis; Jessica Michelle Guggenbuehl Noller; Michael Hoelscher; Laura Olbrich; Katja Radon; Michael Pritsch; Friedrich Riess; Verena Thiel; KoCo19 collaboration group",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20082743",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20082743"
+    },
+    "title": "Protocol of a population-based prospective COVID-19 cohort study Munich, Germany (KoCo19)",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bavarian State Ministry of Science and Art,"
+                },
+                {
+                    "funding-source": "LMU Klinikum M\u00fcnchen and Helmholtz Zentrum M\u00fcnchen"
+                }
+            ],
+            "funding-statement": "This project is funded by the Bavarian State Ministry of Science and Art, the LMU Klinikum M\u00fcnchen and Helmholtz Zentrum M\u00fcnchen"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Airborne transmission of viruses, such as the coronavirus 2 (SARS-CoV-2), in hospital systems are under debate: it has been shown that transmission of SARS-CoV-2 virus goes beyond droplet dynamics that is limited to 3-6 feet, but it is unclear if the airborne viral load is significant enough to ensure transmission of the disease. Surgical smoke can act as a carrier for tissue particles, viruses, and bacteria. To quantify airborne transmission from a physical point of view, we consider surgical smoke produced by thermal destruction of tissue during the use of electrosurgical instruments as a marker of airborne particle diffusion-transportation. Surgical smoke plumes are also known to be dangerous for human health, especially to surgical staff who receive long-term exposure over the years. There are limited quantified metrics reported on long-term effects of surgical smoke on staff's health. The purpose of this paper is to provide a mathematical framework and experimental protocol to assess the transport and diffusion of hazardous airborne particles in every large operating room suite. Measurements from a network of air quality sensors gathered during a clinical study provide validation for the main part of the model. Overall, the model estimates staff exposure to airborne contamination from surgical smoke and biological material. To address the clinical implication over a long period of time, the systems approach is built upon previous work on multi-scale modeling of surgical flow in a large operating room suite and takes into account human behavior factors.",
+    "author": "Guillaume Joerger; Marc Garbey; Shannon Furr",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20097725",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20097725"
+    },
+    "title": "A Systems Approach to Assess Transport and Diffusion of Hazardous Airborne Particles in a Large Surgical Suite: Potential Impacts on Viral Airborne Transmission",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

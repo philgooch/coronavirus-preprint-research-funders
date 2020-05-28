@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The novel coronavirus (COVID-19) is now in a horrific situation around the world. Prediction about the number of infected and death cases may help to take immediate action to prevent the epidemic as well as control the situation of a country. The ongoing debate about the climate factors may need more validation with more studies. The climate factors of the top-five affected countries and three south Asian countries have considered in this study to have a real-time forecast and robust validation about the impact of climate variables. Methods: The ARIMA model have included to model the univariate cumulative confirmed and death cases separately. The MLP, ELM and likelihood-based GLM count time series also considered as they consider the external variables as exogenous regressors. As the death count includes zero itself, zero-inflated count time series model has included instead of likelihood-based GLM. The better fitting of the ARIMA model will validate the underwhelm of meteorological factors was the initial hypothesis. The best model has identified through the application and comparison with the real data points. Results: The results depict that there is an influence of meteorological variables like temperature and humidity mostly for all the selected countries cumulative confirm cases excluding Italy and Sri-Lanka. However, the best models for deaths count of each country also identify the impact of meteorological variables for each country. Conclusion: The authors make the sixty days ahead forecast for each country which will be beneficial for the policymakers.\nCompeting Interest Statement",
+    "author": "Azizur Rahman; Md. Moyazzem Hossain; Sabrina Afroz; Md. Karimuzzaman",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099044",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099044"
+    },
+    "title": "Forecasting the COVID-19 Pandemic with Climate Variables for Top Five Burdening and Three South Asian Countries",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was not funded."
+        }
+    ]
+}

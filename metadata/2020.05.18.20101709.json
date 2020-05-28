@@ -1,0 +1,38 @@
+{
+    "abstract": "Background The outbreak of coronavirus disease 2019 (COVID-19) in December 2019 overlaps with the flu season. Methods We compared clinical and laboratory results from 719 influenza and 973 COVID-19 patients from January to April 2020. We compiled laboratory results from the first 14 days of the hospitalized patients using parameters that are most significantly different between COVID-19 and influenza and hierarchically clustered COVID-19 patients based on these data. The clinical outcomes were compared among different clusters. Results Temporal analyses of laboratory results revealed that compared to influenza, patients with COVID-19 exhibited a continued increase in the white blood cell count, rapid decline of hemoglobin, more rapid increase in blood urea nitrogen (BUN) and D-dimer, and higher level of alanine transaminase, C-reactive protein, ferritin, and fibrinogen. Using these results, we sub-classified the COVID-19 patients into 5 clusters through a hierarchical clustering analysis. We then reviewed the medical record of these patients and risk stratified them based on the clinical outcomes. The cluster with the highest risk showed 27.8% fatality, 94% ICU admission, 94% intubation, and 28% discharge rates compared to 0%, 38%, 22%, and 88% in the lowest risk cluster, respectively. Patients in the highest risk cluster had leukocytosis including neutrophilia and monocytosis, severe anemia, higher BUN, creatinine, D-dimer, alkaline phosphatase, bilirubin, and troponin. Conclusions There are significant differences in the clinical and laboratory courses between COVID-19 and influenza. Risk stratification in hospitalized COVID-19 patients using laboratory data could be useful to predict clinical outcomes and pathophysiology of these patients.",
+    "affiliations": [
+        "National Institute of Diabetes and Digestive and Kidney Diseases (R01 DK124220) and National Heart, Lung, and Blood Institute (R01 HL148012). P.J. is a scholar of the Leukemia and Lymphoma Society and the Harrington Discovery Institute"
+    ],
+    "author": "Yang Mei; Peng Ji; Samuel E Weinberg; Chao Qi; Adam Frink; Amir Behdad; Lihui Zhao",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20101709",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20101709"
+    },
+    "title": "Risk stratification of hospitalized COVID-19 patients through comparative studies of laboratory results with influenza",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "award-id": [
+                        "R01 DK124220"
+                    ]
+                },
+                {
+                    "funding-source": "National Heart, Lung",
+                    "award-id": [
+                        "R01 HL148012"
+                    ]
+                },
+                {
+                    "funding-source": "Blood Institute",
+                    "award-id": [
+                        "R01 HL148012"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was partially supported by National Institute of Diabetes and Digestive and Kidney Diseases (R01 DK124220) and National Heart, Lung, and Blood Institute (R01 HL148012)"
+        }
+    ]
+}

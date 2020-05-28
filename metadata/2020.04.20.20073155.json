@@ -1,0 +1,16 @@
+{
+    "abstract": "We present an improved mathematical analysis of the time evolution of the Covid-19 pandemic in Italy and a statistical error analyses of its evolution, including Monte Carlo simulations with a very large number of runs to evaluate the uncertainties in its evolution. A previous analysis was based on the assumption that the number of nasopharyngeal swabs would be constant. However the number of daily swabs is now more than five times what it was when we did our previous analysis. Therefore, here we consider the time evolution of the ratio of the new daily cases to number of swabs, which is more representative of the evolution of the pandemic when the number of swabs is increasing or changing in time. We consider a number of possible distributions representing the evolution of the pandemic in Italy and we test their prediction capability over a period of up to four weeks. The results show that a distribution of the type of Planck black body radiation law provides very good forecasting. The use of different distributions provides an independent possible estimate of the uncertainty. We then consider five possible trajectories for the number of daily swabs and we estimate the potential dates of a substantial reduction in the number of new daily cases. We then estimate the spread in a substantial reduction, below a certain threshold, of the daily cases per swab among the Italian regions. We finally perform Monte Carlo simulations with 25000 runs to evaluate a random uncertainty in the prediction of the date of a substantial reduction in the number of diagnosed daily cases per swab.",
+    "author": "Ignazio Ciufolini; Antonio Paolozzi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20073155",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20073155"
+    },
+    "title": "An improved mathematical prediction of the time evolution of the Covid-19 Pandemic in Italy, with Monte Carlo simulations and error analyses",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "For this paper, the authors did not received any external funding"
+        }
+    ]
+}

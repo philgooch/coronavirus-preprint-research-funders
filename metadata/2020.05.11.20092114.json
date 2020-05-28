@@ -1,0 +1,48 @@
+{
+    "abstract": "Coronavirus disease 2019 (COVID-19) mortality is associated with hypoxaemia, multiorgan failure, and thromboinflammation. However severity of disease varies considerably and understanding physiological changes that may link to poor outcomes is important. Although increased serum ferritin has been observed in COVID-19 patients consistent with inflammation, other iron parameters have not been examined to our knowledge. Because iron is required for immunity and oxygen utilisation, and dysregulated iron homeostasis has been observed in COPD, we investigated serum iron concentrations in 30 patients with COVID-19 requiring ICU admission. All patients had low serum iron but patients with severe hypoxemic respiratory failure had more profound hypoferraemia. The area under the curve for receiver operating characteristic curves for serum iron to identify severe hypoxemia was 0.95; the optimal Youden Index for distinguishing between severe and non-severe hypoxemia was a serum iron concentration of 2.9 micromol/L. By linear regression, serum iron was associated with lymphocyte count and PaO2/FiO2. In conclusion, profound hypoferraemia identifies COVID-19 patients with severe hypoxaemia. Serum iron is a simple biomarker that could be usefully employed to stratify patients and monitor disease. Severe hypoferraemia may plausibly impair critical iron-dependent processes such as lymphocyte responses and hypoxia sensing, contributing to pathology, and is potentially treatable.",
+    "affiliations": [
+        "NIHR Biomedical Research Centre"
+    ],
+    "author": "Simon Stanworth; Louise Aaron; Hal Drakesmith; Stuart McKechnie; Akshay Shah; Killian Donovan; Joe Frost",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20092114",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20092114"
+    },
+    "title": "Systemic hypoferraemia and severity of hypoxaemic respiratory failure in COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Pfizer and La Jolla Pharmaceutical Company and"
+                }
+            ],
+            "funding-statement": "HD has received research funding from Pfizer and La Jolla Pharmaceutical Company and honoraria from Pharmacosmos, all unrelated to this work"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Doctoral Research Fellowship",
+                    "award-id": [
+                        "NIHR-DRF-2017-10-094"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "DRF-2017-10-094"
+                    ]
+                }
+            ],
+            "funding-statement": "Shah is currently supported by an NIHR Doctoral Research Fellowship (NIHR-DRF-2017-10-094)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "MRC UK"
+                }
+            ],
+            "funding-statement": "Drakesmith is supported by MRC UK award no"
+        }
+    ]
+}

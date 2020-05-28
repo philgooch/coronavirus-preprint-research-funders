@@ -1,0 +1,16 @@
+{
+    "abstract": "This paper presents an analytical formulation for determining optimal pool size in the initial pooling stage and the subsequent retests for COVID-19. A generalized constant compaction approach confirms the efficiency of halving targeted population between retest stages. An analytical gain formula is derived to aid future test designs. It is observed that optimal gain relies on the proper choice of the initial pool size. This optimal compaction scheme could outperform the conventional algorithms in most cases and may provide a mathematically-native road map for us to operate beyond the standard super-even-number-based (64, 32, 16, 8, 1) group testing algorithms.",
+    "author": "Andrew S. C. Chen; Jeffrey Y. Chen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20076265",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20076265"
+    },
+    "title": "Optimal Pool Size for COVID-19 Group Testing",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This paper was self-funded."
+        }
+    ]
+}

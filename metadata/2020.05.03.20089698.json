@@ -1,0 +1,29 @@
+{
+    "abstract": "Objective: To assess the associations between COVID-19 mortality and immigrant and farm worker population at the county level. Methods: We used publicly accessible datasets to build a series of spatial autoregressive models assessing county level associations between COVID-19 mortality and (1) Percentage of Non-English speaking households, (2) percentage of individuals engaged in hired farm work, (3) percentage of uninsured individuals under the age of 65, and (3) percentage of individuals living at or below the poverty line. Results: In urban counties (n=114), only population density was significantly associated with COVID19 mortality (b = 0.21, p <0.001). In non-urban counties (n=2,629), all hypothesized social determinants were significantly associated with higher levels of mortality. Percentage of uninsured individuals was associated with lower reported COVID-19 mortality (b = -0.36, p = 0.001). Conclusions: Individuals who do not speak English, individuals engaged in farm work, and individuals living in poverty may be at heightened risk for COVID-19 mortality in non-urban counties. Mortality among the uninsured may be being systematically undercounted in county and national level surveillance.",
+    "author": "Kimberly Brouwer; Maria E Sundaram; Rebecca K Fielding-Miller",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089698",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089698"
+    },
+    "title": "Social determinants of COVID-19 mortality at the county level",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "K01MH112436"
+                    ]
+                },
+                {
+                    "funding-source": "Loan Repayment Contract",
+                    "award-id": [
+                        "L60-MD011114"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by an NIH early career grant award K01MH112436 and a Loan Repayment Contract L60-MD011114"
+        }
+    ]
+}

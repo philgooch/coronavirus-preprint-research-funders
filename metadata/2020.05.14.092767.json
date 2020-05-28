@@ -1,0 +1,20 @@
+{
+    "title": "ACE2-Variants Indicate Potential SARS-CoV-2-Susceptibility in Animals: An Extensive Molecular Dynamics Study",
+    "author": "Simon Pach",
+    "date": 2020,
+    "affiliations": [
+        "Pharmaceutical and Medicinal Chemistry, Institute of Pharmacy, Freie Universit\u00e4t Berlin, K\u00f6nigin-Luise-Str. 2 - 4, 14195 Berlin, Germany",
+        "Institut f\u00fcr Virologie, Freie Universit\u00e4t Berlin, Robert-Von-Ostertag-Str. 7 - 13, 14163 Berlin, Germany"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.092767",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.092767.pdf"
+    },
+    "abstract": "Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) emerged in late 2019 and since evolved into a global threat with nearly 4.4 million infected people and over 290,000 confirmed deaths worldwide.1 SARS-CoV-2 is an enveloped virus presenting spike (S) glycoproteins on its outer surface. Binding of S to host cell angiotensin converting enzyme 2 (ACE2) is thought to be critical for cellular entry. The host range of the virus extends far beyond humans and non-human primates. Natural and experimental infections have confirmed high susceptibility of cats, ferrets, and hamsters, whereas dogs, mice, rats, pigs, and chickens seem refractory to SARS-CoV-2 infection. To investigate the reason for the variable susceptibility observed in different species, we have developed molecular descriptors to efficiently analyze our dynamic simulation models of complexes between SARS-CoV-2 S and ACE2. Based on our analyses we predict that: (i) the red squirrel is likely susceptible to SARS-CoV-2 infection and (ii) specific mutations in ACE2 of dogs, rats, and mice render them susceptible to SARS-CoV-2 infection.",
+    "funding": [
+        {}
+    ]
+}

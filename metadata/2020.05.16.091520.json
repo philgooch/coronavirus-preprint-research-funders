@@ -1,0 +1,55 @@
+{
+    "title": "The SARS-CoV-2 cytopathic effect is blocked with autophagy modulators",
+    "author": "1 National Center for Advancing Translational Sciences, 9800 Medical Center Drive, Rockville, MD, 20850",
+    "date": 2020,
+    "affiliations": [
+        "National Center for Advancing Translational Sciences, 9800 Medical Center Drive, Rockville, MD, 20850",
+        "Southern Research Institute, 2000 Ninth Avenue South, Birmingham, Alabama, 35205. *To whom correspondence should be addressed:"
+    ],
+    "journal": "Southern Research Institute",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.16.091520",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.16.091520.pdf"
+    },
+    "abstract": "SARS-CoV-2 is a new type of coronavirus capable of rapid transmission and causing severe clinical symptoms; much of which has unknown biological etiology. It has prompted researchers to rapidly mobilize their efforts towards identifying and developing anti-viral therapeutics and vaccines. Discovering and understanding the virus\u2019 pathways of infection, host-protein interactions, and cytopathic effects will greatly aid in the design of new therapeutics to treat COVID-19. While it is known that chloroquine and hydroxychloroquine, extensively explored as clinical agents for COVID-19, have multiple cellular effects including inhibiting autophagy, there are also dose-limiting toxicities in patients that make clearly establishing their potential mechanisms-of-action problematic. Therefore, we evaluated a range of other autophagy modulators to identify an alternative autophagy-based drug repurposing opportunity. In this work, we found that 6 of these compounds blocked the cytopathic effect of SARS-CoV-2 in Vero-E6 cells with EC50 values ranging from 2.0 to 13 \u03bcM and selectivity indices ranging from 1.5 to >10-fold. Immunofluorescence staining for LC3B and LysoTracker dye staining assays in several cell lines indicated their potency and efficacy for inhibiting autophagy correlated with the measurements in the SARS-CoV-2 cytopathic effect assay. Our data suggest that autophagy pathways could be targeted to combat SARS-CoV-2 infections and become an important component of drug combination therapies to improve the treatment outcomes for COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intramural Research Program of the National Center for Advancing Translational Sciences, NIH"
+                },
+                {
+                    "funding-source": "MP Data Analysis"
+                },
+                {
+                    "funding-source": "BN Compound Management & Selection"
+                },
+                {
+                    "funding-source": "ZI Manuscript Conception"
+                },
+                {
+                    "funding-source": "WZheng Manuscript Writing"
+                },
+                {
+                    "funding-source": "WZheng Preparation of Figures"
+                },
+                {
+                    "funding-source": "WZhu Critical Manuscript Editing and Discussion\u2013 KG, MP"
+                },
+                {
+                    "funding-source": "DL Laboratory Automation",
+                    "award-id": [
+                        "CK-T"
+                    ]
+                },
+                {
+                    "funding-source": "SM Competing"
+                }
+            ],
+            "funding-statement": "This research was also supported in part by the Intramural Research Program of the National Center for Advancing Translational Sciences, NIH. Author contributions: Experimental \u2013 KG, CC, RB, LR, MX, MP Data Analysis \u2013 KG, BN Compound Management & Selection \u2013 KG, XH, PS, ZI Manuscript Conception \u2013 KG, CC, WZheng Manuscript Writing \u2013 KG, CC, KS, WH, WZheng Preparation of Figures \u2013 KG, CC, WZhu Critical Manuscript Editing and Discussion\u2013 KG, MP, CC, WZheng, AS, MH, MS, DL Laboratory Automation \u2013 CK-T, SM Competing interests: The authors report no conflict of interest. Data and materials availability: Data is available upon request."
+        }
+    ]
+}

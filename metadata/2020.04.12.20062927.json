@@ -1,0 +1,20 @@
+{
+    "abstract": "The epidemic spread of CoVID-19 has resulted in confirmed cases of viral respiratory illness in more than 1.4 million people around the world as of April 7th, 2020. However, different regions have experienced the spread of this disease differently. Here, we develop a Markovian random-walk spatial extension of a quarantine-enhanced SIR model to measure, visualize and forecast the effect of susceptible population density, testing rate, and social distancing and quarantine policies on epidemic spreading. The model is used to simulate the spread of CoVID-19 in the regions of Hubei, China; South Korea; Iran; and Spain. The model allows for evaluating the results of different policies both quantitatively and visually as means of better understanding and controlling the spread of the disease.",
+    "author": "Haluk Akay; George Barbastathis",
+    "date": 2020,
+    "doi": "10.1101/2020.04.12.20062927",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.12.20062927"
+    },
+    "title": "MARKOVIAN RANDOM WALK MODELING AND VISUALIZATION OF THE EPIDEMIC SPREAD OF COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intelligence Advanced Research Projects Activity"
+                }
+            ],
+            "funding-statement": "This research was partially funded by the Intelligence Advanced Research Projects Activity (IARPA.)"
+        }
+    ]
+}

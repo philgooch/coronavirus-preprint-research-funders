@@ -1,0 +1,38 @@
+{
+    "title": "Sequence analysis of SARS-CoV-2 genome reveals features important for vaccine design",
+    "author": "Alexaki, Aikaterini",
+    "date": 2020,
+    "affiliations": [
+        "Center for Biologics Evaluation and Research, Office of Tissues and Advanced Therapies",
+        "Harvard University School of Engineering and Applied Sciences",
+        "National Center of Biotechnology Information, National Institutes of Health, Bethesda, MD, USA",
+        "Center for Biologics Evaluation and Research, Office of Vaccines Research and Review, Division of Viral Products, Food and Drug Administration, Silver Spring, MD, USA",
+        "Center for Gene Regulation in Health and Disease, Cleveland State University, Cleveland, OH, USA",
+        "Division of Plasma Protein Therapeutics, Office of Tissue and Advanced Therapies, Center for Biologics Evaluation and Research, Food and Drug Administration, Silver Spring, USA Correspondence may also be addressed to",
+        "Aikaterini Alexaki, Ph.D.; Tel: +1 240 402 7072"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.30.016832",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.30.016832.pdf"
+    },
+    "abstract": "As the SARS-CoV-2 pandemic is rapidly progressing, the need for the development of an effective vaccine is critical. A promising approach for vaccine development is to generate, through codon pair deoptimization, an attenuated virus. This approach carries the advantage that it only requires limited knowledge specific to the virus in question, other than its genome sequence. Therefore, it is well suited for emerging viruses for which we may not have extensive data. We performed comprehensive in silico analyses of several features of SARS-CoV-2 genomic sequence (e.g., codon usage, codon pair usage, dinucleotide/junction dinucleotide usage, RNA structure around the frameshift region) in comparison with other members of the coronaviridae family of viruses, the overall human genome, and the transcriptome of specific human tissues such as lung, which are primarily targeted by the virus. Our analysis identified the spike (S) and nucleocapsid (N) proteins as promising targets for deoptimization and suggests a roadmap for SARS-CoV-2 vaccine development, which can be generalizable to other viruses.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "U.S Food and Drug Administration Chief Scientist"
+                },
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "HL121779"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by funds from the U.S Food and Drug Administration Chief Scientist grant and in part supported by the National Institutes of Health grant HL121779 (A.A.K.)."
+        }
+    ]
+}

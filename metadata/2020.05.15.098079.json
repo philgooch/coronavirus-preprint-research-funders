@@ -1,0 +1,44 @@
+{
+    "title": "Yeast-Expressed SARS-CoV Recombinant Receptor-Binding Domain (RBD219-N1) Formulated with Alum Induces Protective Immunity and Reduces Immune Enhancement",
+    "author": "Wen-Hsiang Chenab+, Xinrong Taoc,h+, Anurodh Agrawalc, Abdullah Algaissic, Bi-Hung Pengd, Jeroen Polletab, Ulrich Strychab, Maria Elena Bottazziabef, Peter J. Hotezabef, Sara Lustigmang, Lanying Dug, Shibo Jiangg, Chien-Te K. Tsengc",
+    "date": 2020,
+    "affiliations": [
+        "Hospital Center for Vaccine Development, Houston, TX USA",
+        "Departments of Pediatrics and Molecular Virology & Microbiology; National School of Tropical Medicine; Baylor College of Medicine, Houston, TX USA",
+        "Department of Microbiology & Immunology, University of Texas Medical Branch, Galveston, TX USA",
+        "Department of Neuroscience, Cell Biology, & Anatomy, University of Texas Medical Branch, Galveston, TX USA",
+        "Department of Biology, Baylor University, Waco, TX USA",
+        "James A. Baker III Institute for Public Policy, Rice University, Houston TX USA",
+        "Lindsley F Kimball Research Institute; New York Blood Center; New York, NY USA",
+        "School of Medicine, Anhui University of Science and Technology, Huainan, Anhui, China",
+        "Walter Reed Army Institute of Research (WRAIR), and the clinical"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.15.098079",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.15.098079.pdf"
+    },
+    "abstract": "We developed a severe acute respiratory syndrome (SARS) subunit recombinant protein vaccine candidate based on a highyielding, yeast- engineered, receptor-binding domain (RBD219-N1) of the SARS beta-coronavirus (SARS-CoV) spike (S) protein. When formulated with Alhydrogel\u00ae, RBD219-N1 induced high-level neutralizing antibodies against both pseudotyped virus and a clinical (mouse-adapted) isolate of SARS-CoV. Here, we report that mice immunized with RBD219N1/Alhydrogel\u00ae were fully protected from lethal SARS-CoV challenge (0% mortality), compared to ~ 30% mortality in mice when immunized with the SARS S protein formulated with Alhydrogel\u00ae, and 100% mortality in negative controls. An RBD219N1 formulation Alhydrogel\u00ae was also superior to the S protein, unadjuvanted RBD, and AddaVax (MF59-like adjuvant)formulated RBD in inducing specific antibodies and preventing cellular infiltrates in the lungs upon SARS-CoV challenge. Specifically, a formulation with a 1:25 ratio of RBD219-N1 to Alhydrogel\u00ae provided high neutralizing antibody titers, 100% protection with non-detectable viral loads with minimal or no eosinophilic pulmonary infiltrates. As a result, this vaccine formulation is under consideration for further development against SARS-CoV and other emerging and re-emerging beta-CoVs such as SARS-CoV-2.",
+    "keywords": [
+        "coronavirus",
+        "vaccine",
+        "eosinophil infiltration",
+        "severe acute respiratory syndrome",
+        "recombinant protein"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "R01AI098775"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by a grant from the National Institutes of Health (R01AI098775)"
+        }
+    ]
+}

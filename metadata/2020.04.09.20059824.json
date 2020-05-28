@@ -1,0 +1,20 @@
+{
+    "abstract": "The COVID-19 pandemic is placing unprecedented demands on healthcare systems worldwide and exacting a massive humanitarian toll. This makes the development of accurate predictive models imperative, not just for understanding the course of the pandemic but more importantly for gaining insight into the efficacy of public health measures and planning accordingly. Epidemiological models are forced to make assumptions about many unknowns and therefore can be unreliable. Here, taking an empirical approach, we report a 20-30 day lag between the peak of confirmed to recovered cases and the peak of daily deaths in each country, independent of the epoch of that country in its pandemic cycle. This analysis is expected to be largely independent of the proportion of the population being tested and therefore should aid in planning around the timing and easing of public health measures. Our data also suggests broad predictions for the number of fatalities, generally somewhat lower than most other models. Finally, our model suggests that the world as a whole is shortly to enter a recovery phase, at least as far as the first pandemic wave is concerned.",
+    "author": "Dan Valeriu Nicolau; Mona Bafadhel; Alexander Hasson",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059824",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059824"
+    },
+    "title": "Recovery Ratios Reliably Anticipate COVID-19 Pandemic Progression",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Future Fellowship of the Australian Research Council"
+                }
+            ],
+            "funding-statement": "DVN is funded by a Future Fellowship of the Australian Research Council"
+        }
+    ]
+}

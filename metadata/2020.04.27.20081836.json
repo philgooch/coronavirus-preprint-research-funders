@@ -1,0 +1,36 @@
+{
+    "abstract": "Social distancing measures, with varying degrees of restriction, have been imposed around the world in order to stem the spread of COVID-19. In this work we analyze the effect of current social distancing measures in the United States. We quantify the reduction in doubling rate, by state, that is associated with social distancing. We find that social distancing is associated with a statistically-significant reduction in the doubling rate for all but three states. At the same time, we do not find significant evidence that social distancing has resulted in a reduction in the number of daily confirmed cases. Instead, social distancing has merely stabilized the spread of the disease. We provide an illustration of our findings for each state, including point estimates of the effective reproduction number, R, both with and without social distancing. We also discuss the policy implications of our findings.",
+    "affiliations": [
+        "Data Science Cooperative Institute through National Science Foundation grants 1934985 and 1934962 and in part by National Institutes of Health grant DP5OD021338"
+    ],
+    "author": "Sean E. Ryan; Victor Hernandez Martinez; Peter Wu; Ziteng Sun; Dongmei Li; Jayadev Acharya; Sourbh Bhadane; Grace Deng; David S. Matteson; Aaron B. Wagner; Ajay Anand; Elaine L. Hill",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20081836",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20081836"
+    },
+    "title": "Social Distancing Has Merely Stabilized COVID-19 in the US",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Greater Data Science Cooperative Institute"
+                },
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "1934985",
+                        "1934962"
+                    ]
+                },
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "DP5OD021338"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported in part by the Greater Data Science Cooperative Institute through National Science Foundation grants 1934985 and 1934962 and in part by National Institutes of Health grant DP5OD021338"
+        }
+    ]
+}

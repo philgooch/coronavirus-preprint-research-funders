@@ -1,0 +1,16 @@
+{
+    "abstract": "Nosocomial transmission of SARS-CoV-2 is a key concern and evaluating the effect of testing and infection prevention control strategies is essential for guiding policy in this area. Using a within-hospital SEIR transition model of SARS-CoV-2 in a typical UK hospital, we predict that approximately 20% of infections in inpatients, and 89% of infections in HCWs were due to nosocomial transmission. Placing suspected COVID-19 patients in single rooms or bays has the potential to reduce hospital-acquired infections in patients by up to 80%. Periodic testing of HCWs has a smaller effect on the patient-burden of COVID-19 but would considerably reduce infection in HCWs by as much as 64% and result in only a small proportion of staff absences (approximately 1% per day). This is considerably fewer than currently observed due to suspected COVID-19 and self-isolation.",
+    "author": "Stephanie Evans; Julie V Robotham; Emilia Vynnycky; Emily Agnew",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20095562",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20095562"
+    },
+    "title": "The impact of testing and infection prevention and control strategies on within-hospital transmission dynamics of COVID-19 in English hospitals",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding received."
+        }
+    ]
+}

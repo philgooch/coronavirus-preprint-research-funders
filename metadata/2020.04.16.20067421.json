@@ -1,0 +1,16 @@
+{
+    "abstract": "Objective To mine Twitter to quantitatively analyze COVID-19 symptoms self-reported by users, compare symptom distributions against clinical studies, and create a symptom lexicon for the research community. Materials and methods We retrieved tweets using COVID-19-related keywords, and performed semi-automatic filtering to curate self-reports of positive-tested users. We extracted COVID-19-related symptoms mentioned by the users, mapped them to standard concept IDs (UMLS), and compared the distributions to those reported in early studies from clinical settings. Results We identified 203 positive-tested users who reported 1002 symptoms using 668 unique expressions. The most frequently-reported symptoms were fever/pyrexia (66.1%), cough (57.9%), body ache/pain (42.7%), fatigue (42.1%), headache (37.4%), and dyspnea (36.3%) amongst users who reported at least 1 symptom. Mild symptoms, such as anosmia (28.7%) and ageusia (28.1%) were frequently reported on Twitter, but not in clinical studies. Conclusion The spectrum of COVID-19 symptoms identified from Twitter may complement those identified in clinical settings.",
+    "author": "Yuan-Chi Yang; Sahithi Lakamana; Mohammed Ali Al-Garadi; Whitney Hogg-Bremer; Abeed Sarker; Angel Xie",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067421",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067421"
+    },
+    "title": "Self-reported COVID-19 symptoms on Twitter: An analysis and a research resource",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "TBA"
+        }
+    ]
+}

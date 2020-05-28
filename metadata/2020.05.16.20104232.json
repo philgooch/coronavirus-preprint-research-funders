@@ -1,0 +1,20 @@
+{
+    "abstract": "By employing the successive approximation method to the real-time data of India and its different states, we have predicted the bounds of the spread of COVID-19 in India and its various states. The calculated lower and upper bound of patients (deaths) till 10th June 2020 comes out to be 79496 (3835) and 241759 (7045), respectively. States like Delhi, Gujarat, Maharashtra, Punjab, Rajasthan and Tamil Nadu are the spike states as suggested by the range of expected COVID-19 patients and deaths. Impact of return of stranded pilgrims from Nanded (Maharashtra) has also been looked into in the case of Punjab. It has been found that Punjab may see ~ 5 times increase in the lower bound of expected patients till 10th June 2020 due to the return of pilgrims from Maharashtra. Our study provides an insight into the possible number of expected patients and deaths in near future that may be of importance for the respective governments to be ready with the appropriate preventive measures and logistics to put appropriate infrastructure and medical facilities in place to manage the spread of deadly virus and go down the flattening curve.",
+    "author": "P K Ahluwalia; Jaspreet Singh; Ashok Kumar",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20104232",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20104232"
+    },
+    "title": "Mathematical Model Based COVID-19 Prediction in India and its Different States",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "No Funding for"
+                }
+            ],
+            "funding-statement": "No Funding for this work."
+        }
+    ]
+}

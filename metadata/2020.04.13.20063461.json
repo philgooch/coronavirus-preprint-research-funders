@@ -1,0 +1,16 @@
+{
+    "abstract": "According to the World Health Organization (WHO), the coronavirus (COVID-19) pandemic is putting even the best healthcare systems across the world under tremendous pressure. The early detection of this type of virus will help in relieving the pressure of the healthcare systems. Chest X-rays has been playing a crucial role in the diagnosis of diseases like Pneumonia. As COVID-19 is a type of influenza, it is possible to diagnose using this imaging technique. With rapid development in the area of Machine Learning (ML) and Deep learning, there had been intelligent systems to classify between Pneumonia and Normal patients. This paper proposes the machine learning-based classification of the extracted deep feature using ResNet152 with COVID-19 and Pneumonia patients on chest X-ray images. SMOTE is used for balancing the imbalanced data points of COVID-19 and Normal patients. This non-invasive and early prediction of novel coronavirus (COVID-19) by analyzing chest X-rays can further be used to predict the spread of the virus in asymptomatic patients. The model is achieving an accuracy of 0.973 on Random Forest and 0.977 using XGBoost predictive classifiers. The establishment of such an approach will be useful to predict the outbreak early, which in turn can aid to control it effectively.",
+    "author": "Vinodh J Sahayasheela; Rahul Kumar; Ganesh N Pandian; Balasubramanian Raman; Narayanan Narayanan; Vipul Bansal; Javed Imran; Ridhi Arora; Himanshu Buckchash",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063461",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063461"
+    },
+    "title": "Accurate Prediction of COVID-19 using Chest X-Ray Images through Deep Feature Learning model with SMOTE and Machine Learning Classifiers",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No third party funding is granted."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "abstract": "Newly emerging pandemics like COVID-19 call for better predictive models to implement early and precisely tuned responses to their deep impact on society. Standard epidemic models provide a theoretically well-founded description of dynamics of disease incidence. For COVID-19 with infectiousness peaking before and at symptom onset, the SEIR model explains the hidden build-up of exposed individuals which challenges containment strategies, in particular, due to delayed epidemic responses to non-pharmaceutical interventions. However, spatial heterogeneity questions the adequacy of modeling epidemic outbreaks on the level of a whole country. Here we show that sequential data assimilation of a stochastic version of the standard SEIR epidemic model captures dynamical behavior of outbreaks on the regional level. Such regional modeling of epidemics with relatively low numbers of infected and realistic demographic noise accounts for both spatial heterogeneity and stochasticity. Based on adapted regional models, population level short-term predictions can be achieved. More realistic epidemic models that include spatial heterogeneity are within reach via sequential data assimilation methods.",
+    "author": "Sebastian Reich; Ralf Engbert; Reinhold Kliegl; Maximilian M. Rabe",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063768",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063768"
+    },
+    "title": "Sequential data assimilation of the stochastic SEIR epidemic model for regional COVID-19 dynamics",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Deutsche Forschungsgemeinschaft, Germany",
+                    "award-id": [
+                        "SFB 1294,project 318763901"
+                    ]
+                }
+            ],
+            "funding-statement": "Our work was supported by a grant from Deutsche Forschungsgemeinschaft, Germany (SFB 1294,project no. 318763901)"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "A transcription regulatory network within the ACE2 locus may promote a pro-viral 2 environment for SARS-CoV-2 by modulating expression of host factors.",
+    "author": "Tayaza Fadason,\u00b6, Sreemol Gokuladhas,\u00b6, Evgeniia Golovina,\u00b6, Daniel Ho, Sophie Farrow, 4 Denis Nyaga, Hong Pan, Neerja Karnani, Conroy Wong, Antony Cooper, William 5 Schierding, Justin M. O\u2019Sullivan,8\u01c2",
+    "date": 2020,
+    "affiliations": [
+        "The Liggins Institute, The University of Auckland, Auckland, New Zealand 7",
+        "Maurice Wilkins Centre for Molecular Biodiscovery, Auckland, New Zealand 8",
+        "Singapore Institute for Clinical Sciences (SICS), Agency for Science, Technology and Research (A*STAR)",
+        "Singapore, Singapore 10",
+        "Department of Biochemistry, Yong Loo Lin School of Medicine, National University of Singapore (NUS)",
+        "Respiratory Medicine, Middlemore Hospital and University of Auckland, Auckland, New Zealand 13",
+        "Australian Parkinsons Mission, Garvan Institute of Medical Research, Sydney, New South Wales, Australia 14 7 St Vincent\u2019s Clinical School, UNSW Sydney, Sydney, New South Wales, Australia 15",
+        "Brain Research New Zealand, The University of Auckland, Auckland, New Zealand. 16"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.14.042002",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.14.042002.pdf"
+    },
+    "abstract": "Within months of the first reports [1], the COVID-19 outbreak has become a pandemic infecting and killing thousands of people worldwide [2]. COVID-19 is an infectious disease associated with acute respiratory distress syndrome (ARDS) that is caused by SARS-CoV-2, a Betacoronavirus that is 80% identical to the SARS-CoV virus [3]. Betacoronaviruses, including SARS-CoV, Murine Hepatic Virus (MHV), and SARS-CoV-2, utilize the ACE2 protein for cell entry [4,5]. The Spike protein on SARS-CoV-2 has a 10 to 20 fold higher 53 affinity for the ACE2 protein than its SARS-CoV homologue [3,6].",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "ARDS",
+        "ACE2"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Business, Innovation"
+                },
+                {
+                    "funding-source": "Employment Catalyst"
+                },
+                {
+                    "funding-source": "New Zealand- Australia LifeCourse Collaboration on Genes, Environment",
+                    "award-id": [
+                        "UOAX1611"
+                    ]
+                },
+                {
+                    "funding-source": "Nutrition and Obesity; UOAX"
+                },
+                {
+                    "funding-source": "Royal Society of New Zealand Marsden Fund",
+                    "award-id": [
+                        "16-UOO-072",
+                        "HRC19/774"
+                    ]
+                },
+                {
+                    "funding-source": "Sir Colin Giltrap Liggins Institute Scholarship"
+                },
+                {
+                    "funding-source": "Australian government"
+                }
+            ],
+            "funding-statement": "SG and DH are recipients of scholarships funded by a Ministry of Business, Innovation and Employment Catalyst grant (New Zealand- Australia LifeCourse Collaboration on Genes, Environment, Nutrition and Obesity; UOAX1611) to JOS. JOS and WS are funded by a Royal Society of New Zealand Marsden Fund [Grant 16-UOO-072]. JOS and TF are funded by an HRC explorer grant (HRC19/774) to JOS. DN was supported by the Sir Colin Giltrap Liggins Institute Scholarship fund. AC received grant funding from the Australian government."
+        }
+    ]
+}

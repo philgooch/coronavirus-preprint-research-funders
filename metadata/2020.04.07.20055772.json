@@ -1,0 +1,16 @@
+{
+    "abstract": "Innumerable variants of the susceptible-exposed-infected-recovered (SEIR) model predicted the course of COVID-19 infections for different countries, along with the peaks and the subsequent decline of infections. One thing these models could not have predicted prospectively in January or did not adapt to in the following months is that the peak is rather a plateau for many countries. For example, USA and UK have been persisting at the same high peak of approximately 30,000 and 5,000 daily new infections respectively, for more than a month. Other countries had shorter plateaus of about 3 weeks (6,400 cases in Spain). We establish that this plateau is not an artifact, and the persistence number describing the decline needs an equally important attention as the reproduction number. The solution lies in including the specific epidemiological role of asymptomatics and pre-symptomatics in COVID-19 transmission, different from SARS and influenza. We identify the minimal changes that can be made to any SEIR model to capture this plateau while studying seasonal effects, mitigation strategies, or the second wave of infections etc.",
+    "author": "Santosh Ansumali; Meher K Prakash",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20055772",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20055772"
+    },
+    "title": "A Very Flat Peak: Why Standard SEIR Models Miss the Plateau of COVID-19 Infections and How it can be Corrected",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding has been received"
+        }
+    ]
+}

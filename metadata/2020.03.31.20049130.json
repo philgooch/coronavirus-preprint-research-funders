@@ -1,0 +1,20 @@
+{
+    "abstract": "A SIRU-type epidemic model is employed for the prediction of the COVID-19 epidemy evolution in Brazil, and analyse the influence of public health measures on simulating the control of this infectious disease. Since the reported cases are typically only a fraction of the total number of the symptomatic infectious individuals, the model accounts for both reported and unreported cases. Also, the model allows for a time variable functional form of both the transmission rate and the fraction of asymptomatic infectious that become reported symptomatic individuals, so as to reflect public health interventions, towards its control, along the course of the epidemic evolution. An analytical exponential behaviour for the accumulated reported cases evolution is assumed at the onset of the epidemy, for explicitly estimating initial conditions, while a Bayesian inference approach is adopted for parametric estimations employing the present direct problem model with the data from the known portion of the epidemics evolution, represented by the time series for the reported cases of infected individuals. The direct-inverse problem analysis is then employed with the actual data from China, with the initial phase of the data been employed for the parametric estimation and the remaining data being used for validation of the predictive capability of the proposed approach. The full dataset for China is then employed in another parameter identification, aimed at refining the values for the average times that asymptomatic infectious individuals and that symptomatic individuals remain infectious. Following this validation, the available data on reported cases in Brazil from February 15th till March 29th, 2020, is used for estimating parameters and then predict the epidemy evolution from these initial conditions. As for the China analysis, the data for the reported cases in Brazil from March 30th till April 23rd are reserved for validation of the model. Finally, public health interventions are simulated, aimed at evaluating the effects on the disease spreading, by acting on both the transmission rate and the fraction of the total number of the symptomatic infectious individuals, considering time variable exponential behaviours for these two parameters, usually assumed constant in epidemic evolutions without intervention. It is demonstrated that a combination of actions to affect both parameters can have a more effective result in the control of the epidemy dynamics.",
+    "author": "Carolina Palma Naveira-Cotta; pierre magal; Renato Machado Cotta",
+    "date": 2020,
+    "doi": "10.1101/2020.03.31.20049130",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.31.20049130"
+    },
+    "title": "Parametric identification and public health measures influence on the COVID-19 epidemic evolution in Brazil",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "CNPq and FAPERJ,"
+                }
+            ],
+            "funding-statement": "This work is partially funded by CNPq and FAPERJ, both governmental sponsoring agencies in Brasil"
+        }
+    ]
+}

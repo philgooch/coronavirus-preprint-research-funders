@@ -1,0 +1,45 @@
+{
+    "abstract": "Previous studies suggest a role for systemic reprogramming of host metabolism during viral pathogenesis to fuel rapidly expanding viral proliferation, for example by providing free amino acids and fatty acids as building blocks. In addition, general alterations in metabolism can provide key understanding of pathogenesis. However, little is known about the specific metabolic effects of SARS-COV-2 infection. The present study evaluated the serum metabolism of COVID-19 patients (n=33), identified by a positive nucleic acid test of a nasopharyngeal swab, as compared to COVID-19-negative control patients (n=16). Targeted and untargeted metabolomics analyses specifically identified alterations in the metabolism of tryptophan into the kynurenine pathway, which is well-known to be involved in regulating inflammation and immunity. Indeed, the observed changes in tryptophan metabolism correlated with serum interleukin-6 (IL-6) levels. Metabolomics analysis also confirmed widespread dysregulation of nitrogen metabolism in infected patients, with decreased circulating levels of most amino acids, except for tryptophan metabolites in the kynurenine pathway, and increased markers of oxidant stress (e.g., methionine sulfoxide, cystine), proteolysis, and kidney dysfunction (e.g., creatine, creatinine, polyamines). Increased circulating levels of glucose and free fatty acids were also observed, consistent with altered carbon homeostasis in COVID-19 patients. Metabolite levels in these pathways correlated with clinical laboratory markers of inflammation and disease severity (i.e., IL-6 and C-reactive protein) and renal function (i.e., blood urea nitrogen). In conclusion, this initial observational study of the metabolic consequences of COVID-19 infection in a clinical cohort identified amino acid metabolism (especially kynurenine and cysteine/taurine) and fatty acid metabolism as correlates of COVID-19, providing mechanistic insights, potential markers of clinical severity, and potential therapeutic targets.",
+    "affiliations": [
+        "National Institute of General and Medical Sciences, and R01HL146442 (ADA), R01HL149714 (ADA), R01HL148151 (ADA, SLS), R21HL150032 (ADA), and T32 HL007171 (TN) from the National Heart, Lung, and Blood Institute"
+    ],
+    "author": "Julie A Reisz; James C Zimring; Kirk C Hansen; Lorenzo Bertolone; Steven L Spitalnik; Davide Stefanoni; Richard O Francis; Eldad A Hod; Angelo D'Alessandro; Travis Nemkov; Tiffany Thomas; Krystalyn E Hudson",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20102491",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20102491"
+    },
+    "title": "COVID-19 infection results in alterations of the kynurenine pathway and fatty acid metabolism that correlate with IL-6 levels and renal status",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Boettcher Webb-Waring Investigator Award",
+                    "award-id": [
+                        "RM1GM131968"
+                    ]
+                },
+                {
+                    "funding-source": "ADA and KCH)"
+                },
+                {
+                    "funding-source": "National Institute of General and Medical Sciences,",
+                    "award-id": [
+                        "R01HL146442",
+                        "R01HL149714",
+                        "R01HL148151",
+                        "R21HL150032",
+                        "HL007171"
+                    ]
+                },
+                {
+                    "funding-source": "National Heart, Lung"
+                },
+                {
+                    "funding-source": "Blood Institute"
+                }
+            ],
+            "funding-statement": "This research was supported by funds from the Boettcher Webb-Waring Investigator Award (ADA), RM1GM131968 (ADA and KCH) from the National Institute of General and Medical Sciences, and R01HL146442 (ADA), R01HL149714 (ADA), R01HL148151 (ADA, SLS), R21HL150032 (ADA), and T32 HL007171 (TN) from the National Heart, Lung, and Blood Institute"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "title": "A Large-scale Drug Repositioning Survey for SARS-CoV-2 Antivirals",
+    "author": "Laura Riva, Shuofeng Yuan, Xin Yin, Laura Martin-Sancho, Naoko Matsunaga, Sebastian Burgstaller-Muehlbacher, Lars Pache, Paul P. De Jesus, Mitchell V. Hull, Max Chang, Jasper Fuk-Woo Chan, Jianli Cao, Vincent Kwok-Man Poon, Kristina Herbert, Tu-Trinh Nguyen, Yuan Pu, Courtney Nguyen, Andrey Rubanov, Luis Martinez-Sobrido, Wen-Chun Liu, Lisa Miorin, Kris M. White, Jeffrey R. Johnson, Christopher Benner, Ren Sun, Peter G. Schultz, Andrew Su10, Adolfo GarciaSastre, Arnab K. Chatterjee,#, Kwok-Yung Yuen,#, Sumit K. Chanda,#",
+    "date": 2020,
+    "affiliations": [
+        "Inflammatory Disease Center, Sanford Burnham Prebys Medical Discovery Institute, 10901 North Torrey Pines Road, La Jolla, CA, 92037, USA",
+        "State Key Laboratory of Emerging Infectious Diseases, Carol Yu Centre for Infection, Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China",
+        "Center for Integrative Bioinformatics Vienna, Max Perutz Laboratories, University of Vienna and Medical University of Vienna, Austria",
+        "Department of Medicine, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA, 92093, USA",
+        "Texas Biomedical Research Institute, San Antonio, TX, USA",
+        "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, NY, 10029, USA",
+        "Emerging pathogenes Institute, Icahn School of Medicine at Mount Sinai, New York, NY, 10029, US"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.16.044016",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.16.044016.pdf"
+    },
+    "abstract": "The emergence of novel SARS coronavirus 2 (SARS-CoV-2) in 2019 has triggered an ongoing global pandemic of severe pneumonia-like disease designated as coronavirus disease 2019 (COVID-19). To date, more than 2.1 million confirmed cases and 139,500 deaths have been reported worldwide, and there are currently no medical countermeasures available to prevent or treat the disease. As the development of a vaccine could require at least 12-18 months, and the typical timeline from hit finding to drug registration of an antiviral is >10 years, repositioning of known drugs can significantly accelerate the development and deployment of therapies for COVID-19. To identify therapeutics that can be repurposed as SARS-CoV-2 antivirals, we profiled a library of known drugs encompassing approximately 12,000 clinical-stage or FDAapproved small molecules. Here, we report the identification of 30 known drugs that inhibit viral replication. Of these, six were characterized for cellular dose-activity relationships, and showed effective concentrations likely to be commensurate with therapeutic doses in patients. These include the PIKfyve kinase inhibitor Apilimod, cysteine protease inhibitors MDL-28170, Z LVG CHN2, VBY-825, and ONO 5334, and the CCR1 antagonist MLN-3897. Since many of these molecules have advanced into the clinic, the known pharmacological and human safety profiles of these compounds will accelerate their preclinical and clinical evaluation for COVID-19 treatment.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Sanford-Burnham-Prebys Medical Discovery",
+                    "award-id": [
+                        "W81XWH-20-1-0270",
+                        "AI118610",
+                        "AI135972"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the following grants to the Sanford-Burnham-Prebys Medical Discovery Institute: DoD: W81XWH-20-1-0270; DHIPC: U19 AI118610; Fluomics/NOSI: U19 AI135972"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Richard Yu and Carol Yu,"
+                },
+                {
+                    "funding-source": "Shaw Foundation of Hong Kong, Michael"
+                },
+                {
+                    "funding-source": "Seak-Kan Tong,"
+                },
+                {
+                    "funding-source": "May Tam Mak Mei Yin;"
+                },
+                {
+                    "funding-source": "Theme-Based Research Scheme",
+                    "award-id": [
+                        "T11/707/15"
+                    ]
+                },
+                {
+                    "funding-source": "Research Grants Council; Hong"
+                },
+                {
+                    "funding-source": "Kong Special Administrative Region"
+                }
+            ],
+            "funding-statement": "The study was partly supported by the donations of Richard Yu and Carol Yu, the Shaw Foundation of Hong Kong, Michael Seak-Kan Tong, and May Tam Mak Mei Yin; and funding from the Theme-Based Research Scheme (T11/707/15) of the Research Grants Council; Hong Kong Special Administrative Region"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Scripps Research"
+                },
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation.This"
+                },
+                {
+                    "funding-source": "Center for Research for Influenza Pathogenesis)"
+                },
+                {
+                    "funding-source": "NIAID"
+                },
+                {
+                    "funding-source": "Center of Excellence for Influenza Research and Surveillance",
+                    "award-id": [
+                        "# HHSN272201400008C"
+                    ]
+                },
+                {
+                    "funding-source": "NIAID",
+                    "award-id": [
+                        "U19AI135972",
+                        "W81XWH-19PRMRP-FPA"
+                    ]
+                },
+                {
+                    "funding-source": "SKC and AG-S"
+                }
+            ],
+            "funding-statement": "The work at Calibr at Scripps Research was supported by the Bill & Melinda Gates Foundation.This research was also partly funded by CRIP (Center for Research for Influenza Pathogenesis), a NIAID supported Center of Excellence for Influenza Research and Surveillance (CEIRS, contract # HHSN272201400008C) to AGS and by supplements to NIAID grant U19AI135972 and DoD grant W81XWH-19PRMRP-FPA to SKC and AG-S"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "The funding sources had no role in the study design, data collection, analysis, interpretation, or writing of the report"
+        }
+    ]
+}

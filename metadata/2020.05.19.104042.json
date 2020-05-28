@@ -1,0 +1,30 @@
+{
+    "title": "High Throughput Designing and Mutational Mapping of RBD-ACE2 Interface Guide Non-Conventional Therapeutic Strategies for COVID-19",
+    "date": 2020,
+    "author": "Aditya K. Padhi, Parismita Kalita, Kam Y. J. Zhang, and Timir Tripathi,* 1Laboratory for Structural Bioinformatics, Center for Biosystems Dynamics Research, RIKEN",
+    "affiliations": [
+        "Laboratory for Structural Bioinformatics, Center for Biosystems Dynamics Research, RIKEN",
+        "Indian Institute of Science, Bangalore 560012, India",
+        "Molecular and Structural Biophysics Laboratory, Department of Biochemistry, North-Eastern",
+        "Hill University, Shillong 793022, India",
+        "Corresponding authors:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.19.104042",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.19.104042.pdf"
+    },
+    "abstract": "Considering the current status of the SARS-CoV-2 pandemic, sequence variations and possibly structural changes in the rapidly evolving SARS-CoV-2 is highly expected in the coming months. The SARS-CoV-2 spike (S) protein is responsible for mediating viral attachment and fusion with cell membranes. Mutations in the receptor-binding domain (RBD) of the S-protein occur at the most variable part of the SARS-CoV-2 genome, and specific sites of S-protein have undergone positive selection impacting the viral pathogenicity. In the present work, we used high-throughput computation to design 100,000 mutants in RBD interfacial residues and identify novel affinityenhancing and affinity-weakening mutations. Our data suggest that SARS-CoV-2 can establish a higher rate of infectivity and pathogenesis when it acquires combinatorial mutations at the interfacial residues in RBD. Mapping of the mutational landscape of the interaction site suggests that a few of these residues are the hot-spot residues with a very high tendency to undergo positive selection. Knowledge of the affinity-enhancing mutations may guide the identification of potential cold-spots for this mutation as targets for developing a possible therapeutic strategy instead of hot-spots, and vice versa. Understanding of the molecular interactions between the virus and host protein presents a detailed systems view of viral infection mechanisms. The applications of the present research can be explored in multiple antiviral strategies, including monoclonal antibody therapy, vaccine design, and importantly in understanding the clinical pathogenesis of the virus itself. Our work presents research directions for the exploitation of nonconventional solutions for COVID-19.",
+    "keywords": [
+        "SARS-CoV-2",
+        "RNA viruses",
+        "virus-host interactions",
+        "host-pathogen interactions",
+        "protein-protein interactions"
+    ],
+    "funding": [
+        {}
+    ]
+}

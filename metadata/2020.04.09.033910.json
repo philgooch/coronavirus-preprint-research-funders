@@ -1,0 +1,44 @@
+{
+    "title": "Integrative Network Biology Framework Elucidates Molecular Mechanisms of SARS-CoV-2 Pathogenesis Nilesh Kumar1, Bharat Mishra1, Adeel Mehmood1, 2, Mohammad Athar3* & M. Shahid Mukhtar1, 4, 5* Affiliations 1 Department of Biology, 464 Campbell Hall, 1300 University Boulevard, University of Alabama at Birmingham, Alabama 35294, USA 2 Department of Computer Science, University of Alabama at Birmingham, 1402 10th Ave. S. , Birmingham, AL 35294, USA. 3 Department of Dermatology, School of Medicine, University of Alabama at Birmingham, Alabama 35294, USA 4 Nutrition Obesity Research Center, 1675 University Blvd, University of Alabama at Birmingham, Birmingham, AL 35294, USA. 5 Department of Surgery, 1808 7th Ave S, University of Alabama at Birmingham, Birmingham, AL 35294, USA",
+    "author": "COVID-19 (Coronavirus disease 2019) is a respiratory illness caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). While the pathophysiology of this deadly virus is complex and largely unknown, we employ a network biology-fueled approach and integrated multiomics data pertaining to lung epithelial cells-specific coexpression network and human interactome to generate Calu-3-specific human-SARSCoV-2 Interactome (CSI). Topological clustering and pathway enrichment analysis show that SARS-CoV-2 target central nodes of host-viral network that participate in core functional pathways. Network centrality analyses discover 28 high-value SARS-CoV-2 targets, which are possibly involved in viral entry, proliferation and survival to establish infection and facilitate disease progression. Our probabilistic modeling framework elucidates critical regulatory circuitry and molecular events pertinent to COVID-19, particularly the host modifying responses and cytokine storm. Overall, our network centric analyses reveal novel molecular components, uncover structural and functional modules, and provide molecular insights into SARS-CoV-2 pathogenicity",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biology, 464 Campbell Hall, 1300 University Boulevard, University of Alabama at Birmingham, Alabama 35294, USA",
+        "Department of Computer Science, University of Alabama at Birmingham, 1402 10th Ave. S. , Birmingham, AL 35294, USA",
+        "Department of Dermatology, School of Medicine, University of Alabama at Birmingham, Alabama 35294, USA",
+        "Nutrition Obesity Research Center, 1675 University Blvd, University of Alabama at Birmingham, Birmingham, AL 35294, USA",
+        "Department of Surgery, 1808 7th Ave S, University of Alabama at Birmingham, Birmingham, AL 35294, USA",
+        "Center for Disease Control (CDC)",
+        "While majority of the patients infected with SARS-CoV-2 develop a mild to moderate self-resolving respiratory illness, infants and older adults (\u2265 65 years) as well as patients with preexisting medical conditions such as cardiovascular disease, diabetes, chronic respiratory disease, renal dysfunction, obesity and cancer are more vulnerable 2",
+        "The pathophysiology of SARS-CoV-2 is complex and largely unknown but is associated with an extensive immune reaction referred to as \u2018cytokine storm\u2019 triggered by the excessive production of interleukin 1 beta (IL-1\u03b2), interleukin 6 (IL-6) and others. The cytokine release syndrome leads to extensive tissue damage and multiple organ failure",
+        "While no vaccine or antiviral drugs are currently available to prevent or treat COVID-19, identifying molecular targets of the virus could help uncover effective treatment"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.09.033910",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.09.033910.pdf"
+    },
+    "abstract": "Networks encompass a set of nodes and edges, also referred as vertices and links, respectively. Nodes are systems components, whereas edges represent the interactions or relationships among the nodes 5, 6. In biological systems, genes and their products perform their functions by interacting with other molecular components within the cell. For instance, proteins directly or indirectly interact with each other under both steady-state and different stress conditions to form static and dynamic complexes, and participate in diverse signaling cascades, distinct cellular pathways and a wide spectrum of biological processes. Proteome scale maps of such protein-protein interactions are referred to as interactomes 5, 6.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "IOS-1557796",
+                        "030246"
+                    ]
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "NIEHS"
+                }
+            ],
+            "funding-statement": "This work was supported by the National Science Foundation (IOS-1557796) to M.S.M., and U54 ES 030246 from NIH/NIEHS to M"
+        }
+    ]
+}

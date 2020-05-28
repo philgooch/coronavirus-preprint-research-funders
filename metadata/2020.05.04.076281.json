@@ -1,0 +1,47 @@
+{
+    "title": "Global genetic patterns reveal host tropism versus cross-taxon transmission of bat Betacoronaviruses",
+    "keywords": [
+        "Coronaviruses",
+        "Bats",
+        "Phylogeny"
+    ],
+    "author": "Windows User",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biological Sciences and Environmental Studies, University of the Philippines Mindanao",
+        "Tugbok District, Davao City 10",
+        "Department of Medical Microbiology, College of Public Health, University of the Philippines Manila 11",
+        "Animal Solutions Veterinary Hospital, Bolcan, Davao City 12",
+        "Wildlife-Human Interaction Studies, Ecological Research and Biodiversity Conservation Laboratory",
+        "University of the Philippines Mindanao, Tugbok District, Davao City 14",
+        "Philippine Genome Center Mindanao, University of the Philippines Mindanao, Tugbok District, Davao"
+    ],
+    "journal": "SARS",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.04.076281",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.04.076281.pdf"
+    },
+    "abstract": "Bat Betacoronaviruses (BetaCoVs) pose a significant threat to global public health and have been implicated in several epidemics such as the recent pandemic by severe acute respiratory syndrome coronavirus 2. Here, we show that bat BetaCoVs are predominantly host-specific, which could be a natural barrier against infection of other host types. However, a strong overlap in bat habitat and geographic range may facilitate viral transmission to unrelated hosts, and a few bat families have already been shown to host multi-CoV variants. We predict that continued disturbances on the ecological balance may eventually lead to loss of host specificity. When combined with enhanced wildlife-livestock-human interfaces, spillover to humans may be further facilitated. We should therefore start to define the ecological mechanisms surrounding zoonotic events. Global surveillance should be expanded and strengthened to assess the complete picture of bat coronavirus diversity and distribution and their potential to cause spillover infections.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Science and Technology"
+                },
+                {
+                    "funding-source": "Philippine Council for Health Research and Development"
+                },
+                {
+                    "funding-source": "Regional Health Research and Development Council XI Grant No",
+                    "award-id": [
+                        "18-1572"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was funded by the Department of Science and Technology - Philippine Council for Health Research and Development through the Regional Health Research and Development Council XI Grant No 18-1572"
+        }
+    ]
+}

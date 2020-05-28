@@ -1,0 +1,16 @@
+{
+    "abstract": "To provide convenient access to epidemiological data on the coronavirus outbreak, we developed an R package, nCov2019 (https://github.com/GuangchuangYu/nCov2019). Besides detailed real-time statistics, it offers access to three data sources with detailed daily statistics from December 1, 2019, for 43 countries and more than 500 Chinese cities. We also developed a web app (http://www.bcloud.org/e/) with interactive plots and simple time-series forecasts. These analytics tools could be useful in informing the public and studying how this and similar viruses spread in populous countries.",
+    "author": "Guangchuang Yu; Xijin Ge; Erqiang Hu; Tianzhi Wu",
+    "date": 2020,
+    "doi": "10.1101/2020.02.25.20027433",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.25.20027433"
+    },
+    "title": "Open-source analytics tools for studying the COVID-19 coronavirus outbreak",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None."
+        }
+    ]
+}

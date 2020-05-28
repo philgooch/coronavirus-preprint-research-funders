@@ -1,0 +1,35 @@
+{
+    "abstract": "Importance: Reliable estimates of COVID-19 mortality are crucial to aid control strategies and to assess the effectiveness of interventions. Objective: Project COVID-19 mortality trends to October 1, 2020, in 12 countries or regions that constitute >90% of the global COVID-19 deaths reported as of April 12, 2020. Design, Setting, and Participants: The Global COVID-19 Assessment of Mortality (GCAM) is an open, transparent, and continuously updated (www.cghr.org/covid) statistical model that combines actual COVID-19 mortality counts with Bayesian inference to forecast COVID-19 deaths, the date of peak deaths, and the duration of excess mortality. The analyses covered a total of 700 million population above age 20 in 12 countries or regions: USA; Italy; Spain; France; UK; Iran; Belgium; a province of China (Hubei, which accounted for 90% of reported Chinese deaths); Germany; the Netherlands; Switzerland; and Canada; and six US states: New York, New Jersey, Michigan, Louisiana, California, and Washington. Results: Forecasted deaths across the 12 current high-burden countries sum 167,000 to 593,000 (median 253,000). The trajectory of US deaths (49,000-249,000 deaths; median 86,000)- over half of which are expected in states beyond the initial six states analysed in this study- will have the greatest impact on the eventual total. Mortality ranges are 25,000-109,000 (median 46,000) in the UK; 23,000-31,000 (median 26,000) in Italy; 21,000-37,000 (median 26,000) in France and 21,000-32,000 (median 25,000) in Spain. Estimates are most precise for Hubei, China, where the epidemic curve is complete, and least precise in California, where it is ongoing. New York has the highest cumulative median mortality rate per million (1135), about 12-fold that of Germany. Mortality trajectories are notably flatter in Germany, California, and Washington State, each of which took physical distancing and testing strategies seriously. Using past country-specific mortality as a guide, GCAM predicts surge capacity needs, reaching more than twice existing capacity in a number of places., In every setting, the results might be sensitive to undercounts of COVID-19 deaths, which are already apparent. Conclusion and Relevance: Mortality from COVID-19 will be substantial across many settings, even in the best case scenario. GCAM will provide continually updated and increasingly precise estimates as the pandemic progresses.",
+    "affiliations": [
+        "University of Toronto"
+    ],
+    "author": "Prabhat Jha; Patrick Brown; CGHR COVID Mortality Consortium",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20069161",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20069161"
+    },
+    "title": "Mortality from COVID-19 in 12 countries and 6 states of the United States",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Canadian Institutes of Health Research Foundation",
+                    "award-id": [
+                        "FDN 154277"
+                    ]
+                },
+                {
+                    "funding-source": "Emergency COVID-19 Research Grant,"
+                },
+                {
+                    "funding-source": "Connaught Global Challenge"
+                },
+                {
+                    "funding-source": "University of Toronto"
+                }
+            ],
+            "funding-statement": "This study was partly supported by the the Canadian Institutes of Health Research Foundation grant (FDN 154277) and Emergency COVID-19 Research Grant, and the Connaught Global Challenge program of the University of Toronto"
+        }
+    ]
+}

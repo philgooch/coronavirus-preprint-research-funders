@@ -1,0 +1,47 @@
+{
+    "abstract": "Face masks are one of the currently available options for preventing the transmission of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which has caused the 2019 pandemic. However, with the increasing demand for protection, face masks are becoming limited in stock, and the concerned individuals and healthcare workers from many countries are now facing the issue of the reuse of potentially contaminated masks. Although various technologies already exist for the sterilization of medical equipment, most of them are not applicable for eliminating virus from face masks. Thus, there is an urgent need to develop a fast and easy method of disinfecting contaminated face masks. In this study, using a human coronavirus (HCoV-229E) as a surrogate for SARS-CoV-2 contamination on face masks, we show that the virus loses its infectivity to a human cell line (MRC-5) when exposed for a short period of time (1 min) to ozone gas produced by a dielectric barrier discharge plasma generator. Scanning electron microscopy and particulate filtration efficiency (PFE) tests revealed that there was no structural or functional deterioration observed in the face masks even after they underwent excessive exposure to ozone (five 1-minute exposures). Interestingly, for face masks exposed to ozone gas for 5 min, the amplification of HCoV-229E RNA by reverse transcription polymerase chain reaction suggested a loss of infectivity under the effect of ozone, primarily owing to the damage caused to viral envelopes or envelope proteins. Ozone gas is a strong oxidizing agent with the ability to kill viruses on hard-to-reach surfaces, including the fabric structure of face masks. These results suggest that it may be possible to rapidly disinfect contaminated face masks using a plasma generator in a well-ventilated place.",
+    "affiliations": [
+        "BioNano Health-Guard Research Centre as",
+        "Global Frontier Project (H-guard 2018M3A6B2057299) through the National Research Foundation (NRF) of Ministry of Science and ICT (MSIT) in Korea. M.S.B. was supported by a grant through a future integration program of Kangbuk Samsung Hospital-Biomedical Institute for Convergence (BICS) at Sungkyunkwan University"
+    ],
+    "author": "Abdurhaman T. Abafog; Cheolwoo Bong; Jinyeop Lee; Seung Ho Baek; Pan K. Bae; Sungsu Park; Moon S. Park; Yong-Beom Shin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20080317",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20080317"
+    },
+    "title": "Fast and easy disinfection of coronavirus-contaminated face masks using ozone gas produced by a dielectric barrier discharge plasma generator",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "BioNano Health-Guard Research Centre"
+                },
+                {
+                    "funding-source": "Global Frontier Project",
+                    "award-id": [
+                        "H-guard 2018M3A6B2057299"
+                    ]
+                },
+                {
+                    "funding-source": "National Research Foundation"
+                },
+                {
+                    "funding-source": "Ministry of Science and ICT"
+                }
+            ],
+            "funding-statement": "S.P. was supported by the BioNano Health-Guard Research Centre as a Global Frontier Project (H-guard 2018M3A6B2057299) through the National Research Foundation (NRF) of Ministry of Science and ICT (MSIT) in Korea"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Kangbuk Samsung Hospital-Biomedical Institute for Convergence"
+                },
+                {
+                    "funding-source": "Sungkyunkwan University"
+                }
+            ],
+            "funding-statement": "M.S.B. was supported by a grant through a future integration program of Kangbuk Samsung Hospital-Biomedical Institute for Convergence (BICS) at Sungkyunkwan University"
+        }
+    ]
+}

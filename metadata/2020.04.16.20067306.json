@@ -1,0 +1,25 @@
+{
+    "abstract": "Countries around the globe have implemented unprecedented measures to mitigate the coronavirus disease 2019 (COVID-19) pandemic. We aim to predict COVID-19 disease course and compare effectiveness of mitigation measures across countries to inform policy decision making. We propose a robust and parsimonious survival-convolution model for predicting key statistics of COVID-19 epidemics (daily new cases). We account for transmission during a pre-symptomatic incubation period and use a time-varying effective reproduction number (Rt) to reflect the temporal trend of transmission and change in response to a public health intervention. We estimate the intervention effect on reducing the infection rate and quantify uncertainty by permutation. In China and South Korea, we predicted the entire disease epidemic using only data in the early phase (two to three weeks after the outbreak). A fast rate of decline in Rt was observed and adopting mitigation strategies early in the epidemic was effective in reducing the infection rate in these two countries. The lockdown in Italy did not further accelerate the speed at which the infection rate decreases. The effective reproduction number has staggered around Rt=1.0 for more than 2 weeks before decreasing to below 1.0, and the epidemic in Italy is currently under control. In the US, Rt significantly decreased during a 2-week period after the declaration of national emergency, but afterwards the rate of decrease is substantially slower. If the trend continues after May 1, the first wave of COVID-19 may be controlled by July 26 (CI: July 9 to August 27). However, a loss of temporal effect on infection rate (e.g., due to relaxing mitigation measures after May 1) could lead to a long delay in controlling the epidemic (November 19 with less than 100 daily cases) and a total of more than 2 million cases.",
+    "author": "Donglin Zeng; Yuanjia Wang; Shanghong Xie; Qinxia Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067306",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067306"
+    },
+    "title": "Survival-Convolution Models for Predicting COVID-19 Cases and Assessing Effects of Mitigation Strategies",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "US NIH",
+                    "award-id": [
+                        "NS073671",
+                        "GM124104",
+                        "MH117458"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors are funded in part by the US NIH grants NS073671, GM124104, and MH117458"
+        }
+    ]
+}

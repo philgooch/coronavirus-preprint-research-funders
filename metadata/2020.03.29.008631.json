@@ -1,0 +1,52 @@
+{
+    "title": "Azithromycin and ciprofloxacin have a chloroquine-like effect on respiratory epithelial cells",
+    "author": "Vojo Deretic",
+    "date": 2020,
+    "affiliations": [
+        "Inflammation and Metabolism Center of Biomedical Research Excellence, University of New Mexico Health Science Center",
+        "University of New Mexico HSC 915 Camino de Salud, NE Albuquerque, NM 87131 U.S.A"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.29.008631",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.29.008631.pdf"
+    },
+    "abstract": "There is interest in the use of chloroquine/hydroxychloroquine (CQ/HCQ) and azithromycin (AZT) in COVID-19 therapy. Employing cystic fibrosis respiratory epithelial cells, here we show that drugs AZT and ciprofloxacin (CPX) act as acidotropic lipophilic weak bases and confer in vitro effects on intracellular organelles similar to the effects of CQ. These seemingly disparate FDA-approved antimicrobials display a common property of modulating pH of endosomes and trans-Golgi network. We believe this may in part help understand the potentially beneficial effects of CQ/HCQ and AZT in COVID-19, and that the present considerations of HCQ and AZT for clinical trials should be extended to CPX.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "50825",
+                        "31139",
+                        "AI81015"
+                    ]
+                },
+                {
+                    "funding-source": "Cystic Fibrosis Foundation",
+                    "award-id": [
+                        "DERETI08G0",
+                        "TIMMIN03I0"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by NIH grants AI 50825, AI 31139 and AI81015, and Cystic Fibrosis Foundation (CFF) Grants DERETI08G0 and TIMMIN03I0"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R37AI042999",
+                        "R01AI042999",
+                        "P20GM121176"
+                    ]
+                }
+            ],
+            "funding-statement": "VD was supported in part by the NIH grants R37AI042999, R01AI042999 and a center grant P20GM121176"
+        }
+    ]
+}

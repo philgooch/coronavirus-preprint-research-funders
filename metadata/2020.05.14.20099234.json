@@ -1,0 +1,16 @@
+{
+    "abstract": "Objective: To determine if Tocilizumab treatment in patients hospitalized with laboratory confirmed SARS-CoV-2 infection and subsequent COVID-19 disease provides short-term survival benefit. Design: Case-control, observational study that includes an observation period from arrival to discharge or inpatient death. Both Cox proportional hazards and average treatment effects models were used to determine survival and treatment benefits. Setting: Three Cone Health acute care hospitals including one COVID dedicated facility. Patients: Patients admitted with confirmed SARS-CoV-2 from March 16, 2020 through April 22, 2020. Exposure: Tocilizumab dosed at either 400 mg fixed dose or 8 mg/kg weight-based dose with maximum single dose of 800mg. Measurements and Main Results: Overall, 86 patients were admitted during the observation period with confirmed COVID-19 disease. Of these, 21 received Tocilizumab during the hospital stay. Both the Cox model and treatment effects models showed short-term survival benefit. There was an associated 75% reduction in the risk of inpatient death when treated (HR 0.25; 95% CI 0.07-0.90) in the Cox model. This association was confirmed in the treatment effects model where we found a 52.7% reduced risk of dying while hospitalized compared to those not treated (RR 0.472; 95% CI 0.449-0.497). In both models, we show short-term survival benefit in patients with severe COVID-19 illness.",
+    "author": "Douglas Brent McQuaid; Monica L Schmidt; Praveen Mannam; Murali Ramaswamy; Emily Sinclair; Robert Comer",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20099234",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20099234"
+    },
+    "title": "Off-Label Real World Experience Using Tocilizumab for Patients Hospitalized with COVID-19 Disease in a Regional Community Health System: A Case-Control Study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received in support of this study"
+        }
+    ]
+}

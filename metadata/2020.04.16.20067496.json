@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: SARS-CoV-2 has spread rapidly across the globe during the first several months of 2020, resulting in a pandemic. Substantial, non-discriminatory limitations have been imposed on air travel to inhibit further spread of the virus. However, as disease prevalence and incidence decreases, more specific control measures will be sought so that commercial air travel can operate yet not impose a high threat of COVID-19 resurgence. We considered the risk posed by different locations to initiate a resurgence of COVID-19 at such times. Methods: We use modelled global air travel data for October (just before a second wave of COVID-19 might be expected) and population density to analyse the risk posed by 1364 airports to initiate a COVID-19 outbreak. We use a probabilistic, branching-process based approach that considers the volume of air travelers between airports and the R0 of each location, scaled by population density. This exercise is performed globally as well as specifically for two potentially vulnerable locations: Africa and India. Results: We show that globally, many of the airports posing the highest risk are in China and India. An outbreak of COVID-19 in Africa is most likely to originate in a passenger travelling from Europe. On the other hand, the highest risk to India is from domestic travellers. Our results are robust to changes in the underlying epidemiological assumptions. Conclusions: Variation in flight volumes and destinations creates a non-uniform distribution of the risk different airports pose to resurgence of a COVID-19 outbreak. We suggest the method presented here as a tool for the estimation of this risk. Our method can be used to inform efficient allocation of resources, such as tests identifying infected passengers, so that they could be differentially deployed in various locations.\nCompeting Interest Statement",
+    "author": "Yair Daon; Robin N Thompson; Uri Obolski",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067496",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067496"
+    },
+    "title": "Estimating COVID-19 outbreak risk through air travel",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Raymond and Beverly Sackler Post-Doctoral Scholarship"
+                },
+                {
+                    "funding-source": "Junior Research Fellowship from Christ Church, Oxford"
+                }
+            ],
+            "funding-statement": "This work was supported by The Raymond and Beverly Sackler Post-Doctoral Scholarship (YD) and by a Junior Research Fellowship from Christ Church, Oxford (RNT)"
+        }
+    ]
+}

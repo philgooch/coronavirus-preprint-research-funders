@@ -1,0 +1,42 @@
+{
+    "abstract": "Re-opening societies and economies across the globe following the initial wave of the severe acute respiratory syndrome-coronavirus 2 (SARS-CoV-2) pandemic requires scientifically-guided decision processes and policy development. Public health authorities now consider it highly likely that transmission of SARS-CoV-2 and COVID-19 will follow a pattern of seasonal circulation globally. To guide mitigation strategies and tactics in a location-specific manner, accurate simulation of prolonged or intermittent patterns of social/physical distancing is required in order to prevent healthcare systems and communities from collapsing. It is equally important to capture the stochastic appearance of individual transmission events. Traditional epidemiological/statistical models cannot make predictions in a geospatial temporal manner based on human individuals in a community. Thus, the challenge is to conduct spatio-temporal simulations of transmission chains with real-world geospatial and georeferenced information of the dynamics of the disease and the effect of different mitigation strategies such as isolation of infected individuals or location closures. Here, we present a stochastic, geospatially referenced and demography-specific agent-based model with agents representing human beings and include information on age, household composition, daily occupation and schedule, risk factors, and other relevant properties. Physical encounters between humans are modeled in a time-dependent georeferenced network of the population. The model (GERDA-1) can predict infection dynamics under normal conditions and test the effect of different mitigation scenarios such as school closures, reduced social contacts as well as closure or reopening of public/work spaces. Specifically, it also includes the fate and influence of health care workers and their access to protective gear. Key predictions so far entail: (i) the effect of specific groups on the spreading, specifically that children in school contribute substantially to distribution. (ii) the result of reopening society depends crucially on how strict the measures have been during lock-down. (iii) the outcome of reopening is a stochastic process - in the majority of cases, we must expect a second wave, in some cases not. To the best of our best knowledge, the GERDA-1 model is the first model able to predict a bimodal behavior of SARS-Cov-2 infection dynamics. Given the criticality of the global situation, informing the scientific community, decision makers and the general public seems prudent. Therefore, we here provide a pre-print of the GERDA-1 model together with a first set of predictions and analyses as work in progress.",
+    "author": "Aviv Korman; Maxim Karnetzki; Johanna E L Haffner; Lasse Bonn; Hannah Prawitz; Edda Klipp; Patrick Segelitz; Oliver Bodeit; Rune Linding; Ivo Maintz; Bjoern Goldenbogen; Rafael U Moran Torres; Ximena Martinez de la Escalera; Maria Krantz; Stephan O. Adler; Lisa Mallis; Martin Seeger; Judith AH Wodke",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089235",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089235"
+    },
+    "title": "Geospatially Referenced Demographic Agent-Based Modeling of SARS-CoV-2-Infection (COVID-19) Dynamics and Mitigation Effects in a Real-world Community",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Deutsche Forschungsgemeinschaft"
+                },
+                {
+                    "funding-source": "Cluster of Excellence"
+                },
+                {
+                    "funding-source": "German Ministry of Education and Research"
+                },
+                {
+                    "funding-source": "Liver Systems Medicine"
+                },
+                {
+                    "funding-source": "People Programme",
+                    "award-id": [
+                        "Marie Sk\u0142odowska-Curie Actions"
+                    ]
+                },
+                {
+                    "funding-source": "Marie Sk\u0142odowska-Curie Actions)",
+                    "award-id": [
+                        "813979",
+                        "\u2018Secreters\u2019"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Deutsche Forschungsgemeinschaft (DFG: Cluster of Excellence MATH+, TRR 175) and by the German Ministry of Education and Research (BMBF, Liver Systems Medicine (LiSyM) network grant) and by the People Programme (Marie Sk\u0142odowska-Curie Actions) of the European Union\u0092s Horizon 2020 Programme under REA grant agreement no. 813979 (\u2018Secreters\u2019)"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "abstract": "The rapidly evolving outbreak of COVID-19 presents challenges for actively monitoring its spread. In this study, we assessed a social media mining approach for automatically analyzing the chronological and geographical distribution of users in the United States reporting personal information related to COVID-19 on Twitter. The results suggest that our natural language processing and machine learning framework could help provide an early indication of the spread of COVID-19.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Institutes of Health (NIH) National Library of Medicine (NLM) grant R01LM011176 and National Institute of Allergy and Infectious Diseases (NIAID) grant R01AI117011"
+    ],
+    "author": "Ari Klein; Graciela Gonzalez-Hernandez; Arjun Magge; Haitao Cai; Karen O'Connor; Davy Weissenbacher",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20069948",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20069948"
+    },
+    "title": "A Chronological and Geographical Analysis of Personal Reports of COVID-19 on Twitter",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health"
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "National Library of Medicine",
+                    "award-id": [
+                        "R01LM011176"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases",
+                    "award-id": [
+                        "R01AI117011"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Institutes of Health (NIH) National Library of Medicine (NLM) grant R01LM011176 and National Institute of Allergy and Infectious Diseases (NIAID) grant R01AI117011"
+        }
+    ]
+}

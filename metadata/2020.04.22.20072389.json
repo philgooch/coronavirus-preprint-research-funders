@@ -1,0 +1,46 @@
+{
+    "abstract": "Many countries are currently in a lockdown state due to the SARS-CoV-2 pandemic. One key aspect to transition safely out of lockdown is to continuously test the population for infected subjects. Currently, detection is performed at points of care using quantitative reverse-transcription PCR (RT-qPCR), and requires dedicated professionals and equipment. Here, we developed a protocol based on Reverse Transcribed Loop-Mediated Isothermal Amplification (RT-LAMP) for detection of SARS-CoV-2. This protocol is applied directly on SARS-CoV-2 nose and throat swabs, with no RNA purification step required. We tested this protocol on over 180 suspected patients, and compared its results to the standard method. We further succeeded to apply the protocol on self-sampled saliva from confirmed cases. Since the proposed protocol provides results on-the-spot, and can detect SARS-CoV-2 from saliva, it can allow simple and continuous surveillance of the community.",
+    "affiliations": [
+        "Technion Integrated Cancer Center, the Technion - Israel Institute of Technology, \u201cKeren Hanasi\u201d, Alon Fellowship for Outstanding Young Researchers, Horev Fellow (Taub Foundation). HH is supported by the Leonard and Diane Sherman Interdisciplinary Graduate School Fellowship. NGZ is an Azrieli Global Scholar at the Canadian Institute for advanced research (CIFAR)"
+    ],
+    "author": "Haitham Hajjo; Shai Kaplan; Rawi Naddaf; Daniel A. King; Tal Gefen; Michal Chowers; Peter Rogov; Tal Capucha; Noa Mandelbaum; Moran Szwarcwort-Cohen; Naama Geva-Zatorsky; Lilach Elbaum; Assaf Rotem; Mical Paul; Nadav Ben-Assa",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20072389",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20072389"
+    },
+    "title": "SARS-CoV-2 On-the-Spot Virus Detection Directly From Patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Technion Integrated Cancer Center,"
+                },
+                {
+                    "funding-source": "Israel Institute of Technology,"
+                },
+                {
+                    "funding-source": "Keren Hanasi\u201d"
+                },
+                {
+                    "funding-source": "Alon Fellowship for Outstanding Young Researchers, Horev",
+                    "award-id": [
+                        "Taub Foundation"
+                    ]
+                },
+                {
+                    "funding-source": "Taub Foundation)"
+                }
+            ],
+            "funding-statement": "This work was supported by the Technion Integrated Cancer Center, the Technion - Israel Institute of Technology, \u201cKeren Hanasi\u201d, Alon Fellowship for Outstanding Young Researchers, Horev Fellow (Taub Foundation)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Leonard and Diane Sherman Interdisciplinary Graduate School Fellowship"
+                }
+            ],
+            "funding-statement": "HH is supported by the Leonard and Diane Sherman Interdisciplinary Graduate School Fellowship"
+        }
+    ]
+}

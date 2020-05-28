@@ -1,0 +1,16 @@
+{
+    "abstract": "BACKGROUND: Iran has been the hardest hit country by the outbreak of SARS\u2212CoV\u22122 in the Middle East with 74,877 confirmed cases and 4,683 deaths as of 15 April 2020. With a relatively high case fatality ratio and limited testing capacity, the number of confirmed cases reported is suspected to suffer from significant under-reporting. Therefore, understanding the transmission dynamics of COVID\u221219 and assessing the effectiveness of the interventions that have taken place in Iran while accounting for the uncertain level of underreporting is of critical importance. We use a mathematical epidemic model utilizing official confirmed data and estimates of underreporting to understand how transmission in Iran has been changing between February and April 2020. METHODS: We developed a compartmental transmission model to estimate the effective reproduction number and its fluctuations since the beginning of the outbreak in Iran. We associate the variations in the effective reproduction number with a timeline of interventions and national events. The estimation method also accounts for the underreporting due to low case ascertainment by estimating the percentage of symptomatic cases using delay adjusted case fatality ratio based on the distribution of the delay from hospitalization to death. FINDINGS: Our estimates of the effective reproduction number ranged from 0.66 to 1.73 between February and April 2020, with a median of 1.16. We estimate a reduction in the effective reproduction number during this period, from 1.73 (95% CI 1.60\u22121.87) on 1 March 2020 to 0.69 (95% CI 0.68\u22120.70) on 15 April 2020, due to various non-pharmaceutical interventions including school closures, a ban on public gatherings including sports and religious events, and full or partial closure of non\u2212essential businesses. Based on these estimates and given that a near complete containment is no longer feasible, it is likely that the outbreak may continue until the end of the 2020 if the current level of physical distancing and interventions continue and no effective vaccination or therapeutic are developed and made widely available. INTERPRETATION: The series of non\u2212pharmaceutical interventions and the public compliance that took place in Iran are found to be effective in slowing down the speed of the spread of COVID\u221219 within the studied time period. However, we argue that if the impact of underreporting is overlooked, the estimated transmission and control dynamics could mislead the public health decisions, policy makers, and general public especially in the earlier stages of the outbreak. FUNDING: Nil.",
+    "author": "Babak Khoshnood; Kaveh Madani; Homayoun Hamedmoghadam; Meead Saberi; Helen D. Dolk; Andrei Morgan; Kaveh Khoshnood; Joan K. Morris",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20087270",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20087270"
+    },
+    "title": "Accounting for underreporting in mathematical modelling of transmission and control of COVID-19 in Iran",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding."
+        }
+    ]
+}

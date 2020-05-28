@@ -1,0 +1,51 @@
+{
+    "title": "The coronavirus proofreading exoribonuclease mediates extensive viral recombination 2 3 Jennifer Gribble1,3, Andrea J. Pruijssers2, Maria L. Agostini2, Jordan Anderson-Daniels2, 4 James D. Chappell2, Xiaotao Lu2, Laura J. Stevens2, Andrew L. Routh4,5*, Mark R. 5 Denison1,2,3,#* 6 7 1 Department of Pathology, Microbiology, and Immunology, Vanderbilt University 8 Medical Center, Nashville, TN, USA 9 2 Department of Pediatrics, Vanderbilt University Medical Center, Nashville, TN, USA 10 3 Vanderbilt Institute for Infection, Immunology, and Inflammation (VI4), Vanderbilt 11 University Medical Center, Nashville, TN, USA 12 4 Department of Biochemistry and Molecular Biology, University of Texas \u2013 Medical 13 Branch, Galveston, TX, USA 14 5 Sealy Center for Structural Biology and Molecular Biophysics, University of Texas \u2013 15 Medical Branch, Galveston, TX, USA 16 17 #Lead Contact: M.R.D: mark.denison@vumc.org 18 *Correspondence: mark.denison@vumc.org; alrouth@utmb.edu 19 20 SUMMARY 21 Coronaviruses (CoVs) emerge as zoonoses and cause severe disease in humans, 22 demonstrated by the SARS-CoV-2 (COVID-19) pandemic. RNA recombination is 23 required during normal CoV replication for subgenomic mRNA (sgmRNA) synthesis and",
+    "date": 2020,
+    "affiliations": [
+        "Department of Pathology, Microbiology, and Immunology, Vanderbilt University",
+        "Medical Center, Nashville, TN, USA 9",
+        "Department of Pediatrics, Vanderbilt University Medical Center, Nashville, TN, USA 10",
+        "Vanderbilt Institute for Infection, Immunology, and Inflammation (VI4), Vanderbilt",
+        "University Medical Center, Nashville, TN, USA 12",
+        "Department of Biochemistry and Molecular Biology, University of Texas \u2013 Medical",
+        "Branch, Galveston, TX, USA 14",
+        "Sealy Center for Structural Biology and Molecular Biophysics, University of Texas \u2013",
+        "Medical Branch, Galveston, TX, USA 16 17 #Lead Contact: M.R.D:",
+        "Correspondence:",
+        "RNA (sgmRNA) synthesis and"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.23.057786",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.23.057786.pdf"
+    },
+    "abstract": "generates defective viral genomes (DVGs) of unknown function. However, the determinants and patterns of CoV recombination are unknown. Here, we show that divergent b-CoVs SARS-CoV-2, MERS-CoV, and murine hepatitis virus (MHV) perform extensive RNA recombination in culture, generating similar patterns of recombination junctions and diverse populations of DVGs and sgmRNAs. We demonstrate that the CoV proofreading nonstructural protein (nsp14) 3\u2019-to-5\u2019 exoribonuclease (nsp14-ExoN) is required for normal CoV recombination and that its genetic inactivation causes significantly decreased frequency and altered patterns of recombination in both infected cells and released virions. Thus, nsp14-ExoN is a key determinant of both high fidelity CoV replication and recombination, and thereby represents a highly-conserved and vulnerable target for virus inhibition and attenuation. 36 Keywords: coronavirus, exoribonuclease, recombination, proofreading, direct RNA sequencing, nanopore, defective genome, SARS-CoV-2, MERS-CoV 40 INTRODUCTION Coronaviruses (CoVs) are a family of positive-sense, single-stranded RNA viruses with genomes ranging in size between 26 and 32 kb (Figure 1A and 3A). CoV recombination has been reported to be associated with increased spread, severe disease, and vaccine failure in livestock CoV epidemics (Chen et al., 2017; Feng et al., 2018) and proposed to be important in the emergence of human CoVs including the beta-CoVs (b-CoVs) severe acute respiratory syndrome coronavirus (SARS-CoV) (Anthony et al., 2017; Drosten et al., 2003; Hon et al., 2008; Ksiazek et al., 2003; Li et al., 2005) and Middle East respiratory syndrome coronavirus (MERS-CoV) (Yusof et al., 2017; Zaki et al., 2012). The ongoing severe global pandemic of SARS-CoV-2, the etiological agent of coronavirus disease 2019 (COVID-19) (Wu et al., 2020; Zhou et al., 2020) underlines the importance of defining the determinants of CoV evolution and emergence into human populations (Paraskevis et al., 2020; Randhawa et al., 2020; Wahba et al., 2020; Wong et al., 2020; Zhou et al., 2020). Studies comparing CoV strains that are closely related to SARS-CoV-2 have proposed that SARS-CoV-2 acquired the ability to infect human cells through recombination within the spike protein sequence (Huang et al., 2020; Li et al., 2020; Pati\u00f1o-Galindo et al., 2020). Further, a study of genetic variation in patient SARS-CoV-2 samples has suggested that recombination may be occurring during infections in humans (Yi, 2020). Together, these data support the hypothesis that generation of novel CoVs, cross-species movement, and adaptation may be driven by recombination events in nature (Lau et al., 2015), and that CoV recombination can result in increased virulence, pathogenicity, and potential pandemic spread. 63 Experimental recombination has been most studied in the model b-CoV murine hepatitis virus (MHV). During mixed infections of related MHV strains, ~25% of progeny virions are generated by recombination (Keck et al., 1988; Kottier et al., 1995; Lai et al., 1985; Makino et al., 1986). During normal replication, the putative CoV replication67 transcription complex (RTC) performs discontinuous transcription at virus-specific transcription regulatory sequences (TRSs) (Figure 1A, 3A) to generate a set of subgenomic mRNAs (sgmRNAs) with common 5\u2019 leader sequences and 3\u2019 ends, which are subsequently translated into structural and accessory proteins (Dufour et al., 2011; Kirchdoerfer and Ward, 2019; Subissi et al., 2014; Weiss et al., 1994). CoV replication also generates defective viral genomes (DVGs) that contain multiple deletions of genomic sequence. DVGs range in size from <1kb to >20kb, but retain intact 5\u2019 and 3\u2019 genomic untranslated regions (5\u2019 and 3\u2019 UTRs) and are amplified by RTC machinery supplied by co-infecting full-length helper CoVs (Brian and Spaan, 1997; Makino et al., 1985; Schaad and Baric, 1994; Wu and Brian, 2010). Therefore, CoVs perform recombination as a normal part of their replication, producing complex populations of recombined RNA molecules. Prior to the advent of next generation sequencing, direct analysis of recombined CoV RNAs was not possible and the determinants of recombination could not be identified. 82 In other RNA virus families including picornaviruses and alphaviruses, regulation of 83 recombination has been mapped to replication fidelity determinants in the viral RNA84 dependent RNA polymerase (RdRp) (Kempf et al., 2016; Li et al., 2019; Poirier et al., 2015; Woodman et al., 2018). In contrast to these viruses, CoV replication fidelity is primarily determined by the 3\u2019-5\u2019 exoribonuclease encoded in nonstructural protein 14 87 (nsp14-ExoN) that proofreads RNA during replication through excision of mismatched incorporated nucleotides (Ferron et al., 2018a; Ma et al., 2015). Viral exonucleases are essential for recombination in DNA viruses, including vaccinia virus (Gammon and Evans, 2009) and herpes simplex virus 1 (Grady et al., 2017; Schumacher et al., 2012).",
+    "keywords": [
+        "37 coronavirus",
+        "exoribonuclease",
+        "recombination",
+        "proofreading",
+        "direct RNA sequencing",
+        "38 nanopore",
+        "defective genome",
+        "SARS-CoV-2",
+        "MERS-CoV 39 40"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "R01AI108197",
+                        "T32GM065086",
+                        "F31AI133952"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by National Institutes of Health grants R01AI108197 (M.R.D.), T32GM065086 (J.G.), F31AI133952 (M.L.A)"
+        }
+    ]
+}

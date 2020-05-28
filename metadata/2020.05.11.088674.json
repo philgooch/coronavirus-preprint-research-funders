@@ -1,0 +1,59 @@
+{
+    "title": "Rapid isolation of potent SARS-CoV-2 neutralizing antibodies and protection in a small animal model",
+    "date": 2020,
+    "author": "Thomas F. Rogers,#, Fangzhu Zhao,#, Deli Huang,#, Nathan Beutler,#, Alison Burns, Wan-ting He, Oliver Limbo, Chloe Smith, Ge Song, Jordan Woehl, Linlin Yang, Robert K. Abbott, Sean Callaghan, Elijah Garcia, Jonathan Hurtado, Mara Parren, Linghang Peng, James Ricketts, Michael J. Ricciardi, Stephen A. Rawlings, Davey M. Smith, David Nemazee, John R. Teijaro, James E. Voss, Raiees Andrabi, Bryan Briney, Elise Landais, Devin Sok, Joseph G. Jardine, Dennis R. Burton",
+    "affiliations": [
+        "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA 92037, USA",
+        "Division of Infectious Diseases, Department of Medicine, University of California, San Diego, La Jolla, CA 92037, USA",
+        "IAVI Neutralizing Antibody Center, The Scripps Research Institute, La Jolla, CA 92037, USA",
+        "IAVI, New York, NY10004, USA 5La Jolla Institute for Immunology, La Jolla, CA 92037, USA",
+        "George Washington University, Washington, DC 20052, USA",
+        "Consortium for HIV/AIDS Development (CHAVD), The Scripps Research Institute, La Jolla, CA 92037, USA",
+        "Center for Viral Systems Biology, The Scripps Research Institute, La Jolla, CA 92037, USA",
+        "Ragon Institute of Massachusetts General Hospital, Massachusetts Institute of Technology, and Harvard University, Cambridge, MA 02139, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.11.088674",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.11.088674.pdf"
+    },
+    "abstract": "The development of countermeasures to prevent and treat COVID-19 is a global health priority. In under 7 weeks, we enrolled a cohort of SARS-CoV-2-recovered participants, developed neutralization assays to interrogate serum and monoclonal antibody responses, adapted our high throughput antibody isolation, production and characterization pipeline to rapidly screen over 1000 antigen-specific antibodies, and established an animal model to test protection. We report multiple highly potent neutralizing antibodies (nAbs) and show that passive transfer of a nAb provides protection against highdose SARS-CoV-2 challenge in Syrian hamsters. The study suggests a role for nAbs in prophylaxis, and potentially therapy, of COVID-19. The nAbs define protective epitopes to guide vaccine design.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH CHAVD",
+                    "award-id": [
+                        "UM1 AI44462 to B.B."
+                    ]
+                },
+                {
+                    "funding-source": "IAVI Neutralizing Antibody Center,"
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP 1170236 to D.R.B.",
+                        "OPP 1206647 to D.R.B",
+                        "OPP1196345",
+                        "INV-008813"
+                    ]
+                },
+                {
+                    "funding-source": "DS and DRB)"
+                }
+            ],
+            "funding-statement": "This work was supported by the NIH CHAVD (UM1 AI44462 to B.B., D.S. and D.R.B.) awards, the IAVI Neutralizing Antibody Center, the Bill and Melinda Gates Foundation (OPP 1170236 to D.R.B.) and (OPP 1206647 to D.R.B and R.A.), and (OPP1196345/ INV-008813 to DS and DRB)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "John and Mary Tu Foundation and the Pendleton Foundation"
+                }
+            ],
+            "funding-statement": "This work was also supported by the John and Mary Tu Foundation and the Pendleton Foundation"
+        }
+    ]
+}

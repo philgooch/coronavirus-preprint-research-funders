@@ -1,0 +1,20 @@
+{
+    "abstract": "Background Coronavirus disease 2019 (COVID-19) has devastated global populations and has had a large impact in the United States. The objective of this manuscript is to study the relation of population demographics, social characteristics, and social distancing on the number of infections and deaths in the US. Methods Data came from publicly available sources. Social distancing was measured by the change in the rate of human encounters per km2 relative to the pre-COVID-19 national average. A smooth generalized additive model for counts of total infections and deaths at US county-level included population demographics, social characteristics, and social distancing. Results The model strongly predicted the geo-spatial variations in COVID-19 infections and deaths, 97.2% of variation in infections and 99.3% of variation in deaths from March 15, 2020. US counties with higher population density, poverty index, civilian population, and minorities, especially African Americans, had a higher rate of infections and deaths, and social distancing was associated with a slower rate of infections and deaths. The number of people infected was increasing; however, the rate of increase of new infections was showing signs of plateauing from the second week of April. Our model estimates that 1,865,580 US residents will test positive for infections and 117,246 fatalities by June 1, 2020. Importantly, our model suggests significant social differences in the infections and deaths across US communities. Areas with a larger African American population and a higher poverty index are expected to show higher rates of infections and deaths. Conclusion Preventive steps, including social distancing and community closures, have been a cornerstone in slowing the transmission and potentially reducing the spread of the disease. Crucial knowledge of the role of social characteristics in disease transmission is essential to understand and predict current and future disease distribution and plan additional preventive steps.",
+    "author": "Laura Evans; Klodian Dhana; Charles DeCarli; Robert S Wilson; Kumar Rajan; Lisa L Barnes; Neelum T Aggarwal; Jennifer Weuve; Denis A Evans",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20073239",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20073239"
+    },
+    "title": "Strong Effects of Population Density and Social Characteristics on Distribution of COVID-19 Infections in the United States",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH"
+                }
+            ],
+            "funding-statement": "Partially supported by NIH grant funding."
+        }
+    ]
+}

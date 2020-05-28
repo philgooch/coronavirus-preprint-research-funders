@@ -1,0 +1,66 @@
+{
+    "title": "Syntax Warning: Bad annotation destination",
+    "author": "Structural Basis for Potent Neutralization of Betacoronaviruses by Single-domain Camelid Antibodies",
+    "date": 2020,
+    "affiliations": [
+        "Department of Molecular Biosciences, The University of Texas at Austin, Austin, Texas, USA 78712",
+        "VIB Center for Medical Biotechnology, VIB, 9052 Ghent, Belgium",
+        "Department of Biochemistry and Microbiology, Ghent University, 9052 Ghent, Belgium",
+        "Department of Biomedical Molecular Biology, Ghent University, 9052 Ghent, Belgium",
+        "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA 20892",
+        "Department of Microbiology and Immunology, Geisel School of Medicine at Dartmouth, Lebanon, New Hampshire, USA 03756",
+        "Infection Biology Unit, German Primate Center \u2013 Leibniz Institute for Primate Research, 37077 G\u00f6ttingen, Germany",
+        "Faculty of Biology and Psychology, University G\u00f6ttingen, 37077 G\u00f6ttingen, Germany"
+    ],
+    "journal": "Hoffmann",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.26.010165",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.26.010165.pdf"
+    },
+    "abstract": "The pathogenic Middle East respiratory syndrome coronavirus (MERS-CoV), severe acute respiratory syndrome coronavirus (SARS-CoV-1) and COVID-19 coronavirus (SARS-CoV-2) have all emerged into the human population with devastating consequences. These viruses make use of a large envelope protein called spike (S) to engage host cell receptors and catalyze membrane fusion. Because of the vital role that these S proteins play, they represent a vulnerable target for the development of therapeutics to combat these highly pathogenic coronaviruses. Here, we describe the isolation and characterization of single-domain antibodies (VHHs) from a llama immunized with prefusion-stabilized coronavirus spikes. These VHHs are capable of potently neutralizing MERS-CoV or SARS-CoV-1 S pseudotyped viruses. The crystal structures of these VHHs bound to their respective viral targets reveal two distinct epitopes, but both VHHs block receptor binding. We also show cross-reactivity between the SARS-CoV-1 S-directed VHH and SARS-CoV-2 S, and demonstrate that this cross-reactive VHH is capable of neutralizing SARS-CoV-2 S pseudotyped viruses as a bivalent human IgG Fc-fusion. These data provide a molecular basis for the neutralization of pathogenic betacoronaviruses by VHHs and suggest that these molecules may serve as useful therapeutics during coronavirus outbreaks.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health"
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Disease",
+                    "award-id": [
+                        "R01-AI127521",
+                        "to J.S.M."
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by a National Institutes of Health (NIH)/National Institute of Allergy and Infectious Disease (NIAID) grant R01-AI127521 (to J.S.M.)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ghent University GOA"
+                },
+                {
+                    "funding-source": "FWO and VLAIO"
+                },
+                {
+                    "funding-source": "VIB-CMB COVID-19"
+                }
+            ],
+            "funding-statement": "Research was supported by funding from VIB, Ghent University GOA project to N.C. and X.S., FWO and VLAIO fellowships and research projects to various VIB-CMB COVID-19 response team members"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "EOS project"
+                }
+            ],
+            "funding-statement": "D.D.V. was supported by a FWOsb fellowship, W.V. by the FWO -SBO grant \u201cGlycoDelete\u201d, S.P. by BMBF (Rapid consortium, 01K11723D), and B.S. by FWO-EOS project"
+        }
+    ]
+}

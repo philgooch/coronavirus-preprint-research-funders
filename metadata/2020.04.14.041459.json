@@ -1,0 +1,26 @@
+{
+    "title": "Glycosaminoglycan binding motif at S1/S2 proteolytic cleavage site on spike glycoprotein may facilitate novel coronavirus (SARS-CoV-2) host cell entry",
+    "author": "So-Young Kim",
+    "date": 2020,
+    "affiliations": [
+        "Department of Medicine, Division of Pulmonary and Critical Care, University of California San Diego, La Jolla, California, United States of America 2 VA San Diego Healthcare System, Medical and Research Sections, La Jolla, California, United States of America",
+        "Glycobiology Research and Training Center, University of California San Diego, La Jolla, California, United States of America",
+        "Department of Biostatistics and Bioinformatics, Duke University, Durham, North Carolina, United States of America",
+        "Complex Carbohydrate Research Center, University of Georgia, Athens, Georgia, United States of America",
+        "Department of Chemistry and Chemical Biology, Rensselaer Polytechnic Institute, Troy, New York, United States of America",
+        "Department of Chemical and Biological Engineering, Center for Biotechnology and Interdisciplinary Studies, Rensselaer Polytechnic Institute, Troy, New York, United States of America",
+        "Department of Biological Science, Center for Biotechnology and Interdisciplinary Studies, Rensselaer Polytechnic Institute, Troy, New York, United States of America",
+        "Biomedical Engineering, Center for Biotechnology and Interdisciplinary Studies, Rensselaer Polytechnic Institute, Troy, New York, United States of America"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.14.041459",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.14.041459.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) has resulted in a pandemic and continues to spread around the globe at an unprecedented rate. To date, no effective therapeutic is available to fight its associated disease, COVID-19. Our discovery of a novel insertion of glycosaminoglycan (GAG)-binding motif at S1/S2 proteolytic cleavage site (681-686 (PRRARS)) and two other GAG-binding-like motifs within SARS-CoV-2 spike glycoprotein (SGP) led us to hypothesize that host cell surface GAGs might be involved in host cell entry of SARS-CoV-2. Using a surface plasmon resonance direct binding assay, we found that both monomeric and trimeric SARS-CoV-2 spike more tightly bind to immobilized heparin (KD = 40 pM and 73 pM, respectively) than the SARS-CoV and MERS-CoV SGPs (500 nM and 1 nM, respectively). In competitive binding studies, the IC50 of heparin, tri-sulfated non-anticoagulant heparan sulfate, and non-anticoagulant low molecular weight heparin against SARS-CoV-2 SGP binding to immobilized heparin were 0.056 \u03bcM, 0.12 \u03bcM, and 26.4 \u03bcM, respectively. Finally, unbiased computational ligand docking indicates that heparan sulfate interacts with the GAGbinding motif at the S1/S2 site on each monomer interface in the trimeric SARS-CoV-2 SGP, and at another site (453-459 (YRLFRKS)) when the receptor-binding domain is in an open conformation. Our study augments our knowledge in SARS-CoV-2 pathogenesis and advances carbohydrate-based COVID-19 therapeutic development.",
+    "funding": [
+        {}
+    ]
+}

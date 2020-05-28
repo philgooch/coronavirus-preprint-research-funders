@@ -1,0 +1,16 @@
+{
+    "abstract": "Recently a number of publications looked at the association between COVID-19 morbidity and mortality on one hand and countries' policies with respect to BCG vaccination on the other. This connection arises from differences in the rates of infection in countries where BCG vaccination is mandatory compared to countries where mandatory vaccination no longer exists or was never implemented in the first place. In at least 2 preprint publications the authors expressed the view that the \"known immunological benefits\" of BCG vaccination may be behind the biological mechanism of such observation. One study accounted for different income levels in different groups. Another study did not attempted to do so, instead exploring the differences between countries where a booster shot is given vs others where no such practice exists (finding no connection). Both of these studies did not explore other potential confounding factors. Meanwhile the press has focused on these headlines and pushed the narrative that BCG vaccination is causally linked to infection and mortality rates. This poses a serious challenge, demonstrated by the recently initiated clinical trials on BCG vaccination within the COVID19 context. This study shows that population age is a very significant confounding factor that explains the rates of infections much better and has a solid biology mechanism which explains this correlation. It suggests that BCG vaccination may have little or no causal link to infection rates and advises that any follow up studies should control for several confounding factors, such as population age, ethnicity, rates of certain chronic diseases, time from community spread start date, major public policy decisions and income levels.",
+    "author": "STEFAN Kirov",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20055616",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055616"
+    },
+    "title": "Association Between BCG Policy is Significantly Confounded by Age and is Unlikely to Alter Infection or Mortality Rates",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

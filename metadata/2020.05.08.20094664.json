@@ -1,0 +1,16 @@
+{
+    "abstract": "Recent studies indicated that detecting radiographic patterns on CT chest scans could in some cases yield higher sensitivity and specificity for COVID-19 detection compared to other methods such as RTPCR. In this work, we scrutinize the effectiveness of deep learning models for semantic segmentation of pneumonia infected area segmentation in CT images for the detection of COVID-19. We explore the efficacy of U-Nets and Fully Convolutional Neural Networks in this task using real-world CT data from COVID-19 patients. The results indicate that Fully Convolutional Neural Networks are capable of accurate segmentation despite the class imbalance on the dataset and the man-made annotation errors on the boundaries of symptom manifestation areas, and can be a promising method for further analysis of COVID-19 induced pneumonia symptoms in CT images.",
+    "author": "Athanasios Voulodimos; Eftychios Protopapadakis; Nikolaos Doulamis; Iason Katsamenis; Anastasios Doulamis",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20094664",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20094664"
+    },
+    "title": "Deep learning models for COVID-19 infected area segmentation in CT images",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding has been received."
+        }
+    ]
+}

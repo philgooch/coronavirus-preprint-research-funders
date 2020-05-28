@@ -1,0 +1,16 @@
+{
+    "abstract": "Novel corona virus is declared as pandemic and India is struggling to control this from a massive attack of death and destruction, similar to the other countries like China, Europe, and the United States of America. India reported 2545 cases novel corona confirmed cases as of April 2, 2020 and out of which 191 cases were reported recovered and 72 deaths occurred. The first case of novel corona is reported in India on January 30, 2020. The growth in the initial phase is following exponential. In this study an attempt has been made to model the spread of novel corona infection. For this purpose logistic growth model with minor modification is used and the model is applied on truncated information on novel corona confirmed cases in India. The result is very exiting that till date predicted number of confirmed corona positive cases is very close to observed on. The time of point of inflexion is found in the end of the April, 2020 means after that the increasing growth will start decline and there will be no new case in India by the end of July, 2020.",
+    "author": "Brijesh P Singh",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20085175",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20085175"
+    },
+    "title": "Forecasting Novel Corona Positive Cases in India using Truncated Information: A Mathematical Approach",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no funding</strong>"
+        }
+    ]
+}

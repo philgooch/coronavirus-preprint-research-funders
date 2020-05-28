@@ -1,0 +1,16 @@
+{
+    "abstract": "We built a machine learning model (ML model) which input the number of daily infection cases and the other information related to COVID-19 over the past 24 days in each of 17 provinces in South Korea, and output the total increase in the number of infection cases in each of 17 provinces over the coming 24 days. We employ a combination of XGBoost and MultiOutputRegressor as machine learning model (ML model). For each province, we conduct a binary classification whether our ML model can classify provinces where total infection cases over the coming 24 days is more than 100. The result is Sensitivity = 3/3 = 100%, Specificity = 11/14 = 78.6%, False Positive Rate = 3/11 = 21.4%, Accuracy = 14/17 = 82.4%. Sensitivity = 100% means that we did not overlook the three provinces where the number of COVID-19 infection cases increased by more than100. In addition, as for the provinces where the actual number of new COVID-19 infection cases is less than 100, the ratio (Specificity) that our ML model can correctly estimate was 78.6%, which is relatively high. From the above all, it is demonstrated that there is a sufficient possibility that our ML model can support the following four points. (1) Promotion of behavior modification of residents in dangerous areas, (2) Assistance for decision to resume economic activities in each province, (3) Assistance in determining infectious disease control measures in each province, (4) Search for factors that are highly correlated with the future increase in the number of COVID-19 infection cases.",
+    "author": "Ayaka Suzuki; Yoshiro Suzuki",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20097527",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20097527"
+    },
+    "title": "Machine learning model estimating number of COVID-19 infection cases over coming 24 days in every province of South Korea (XGBoost and MultiOutputRegressor)",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "On behalf of all authors, the corresponding author states that there is no conflict of interest."
+        }
+    ]
+}

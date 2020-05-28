@@ -1,0 +1,16 @@
+{
+    "abstract": "In this work, our team develops a differential equations model of COVID-19 epidemics. Our goal is to predict forward in time the future number of cases from early reported case data in regions throughout the world. Our model incorporates the following important elements of COVID-19 epidemics: (1) the number of asymptomatic infectious individuals (with very mild or no symptoms), (2) the number of symptomatic reported infectious individuals (with severe symptoms) and (3) the number of symptomatic unreported infectious individuals (with less severe symptoms). We apply our model to COVID-!9 epidemics in South Korea, Italy and Spain.",
+    "author": "Glenn F Webb; Zhihua Liu; Pierre Magal; Ousmane Seydi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20056945",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20056945"
+    },
+    "title": "A model to predict COVID-19 epidemics with applications to South Korea, Italy, and Spain",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding"
+        }
+    ]
+}

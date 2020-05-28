@@ -1,0 +1,38 @@
+{
+    "abstract": "Background: Thick-section CT scanners are more affordable for the developing countries. Considering the widely spread COVID-19, it is of great benefit to develop an automated and accurate system for quantification of COVID-19 associated lung abnormalities using thick-section chest CT images. Purpose: To develop a fully automated AI system to quantitatively assess the disease severity and disease progression using thick-section chest CT images. Materials and Methods: In this retrospective study, a deep learning based system was developed to automatically segment and quantify the COVID-19 infected lung regions on thick-section chest CT images. 531 thick-section CT scans from 204 patients diagnosed with COVID-19 were collected from one appointed COVID-19 hospital from 23 January 2020 to 12 February 2020. The lung abnormalities were first segmented by a deep learning model. To assess the disease severity (non-severe or severe) and the progression, two imaging bio-markers were automatically computed, i.e., the portion of infection (POI) and the average infection HU (iHU). The performance of lung abnormality segmentation was examined using Dice coefficient, while the assessment of disease severity and the disease progression were evaluated using the area under the receiver operating characteristic curve (AUC) and the Cohen's kappa statistic, respectively. Results: Dice coefficient between the segmentation of the AI system and the manual delineations of two experienced radiologists for the COVID-19 infected lung abnormalities were 0.74 \u00b1 0.28 and 0.76 \u00b1 0.29, respectively, which were close to the inter-observer agreement, i.e., 0.79 \u00b1 0.25. The computed two imaging bio-markers can distinguish between the severe and non-severe stages with an AUC of 0.9680 (p-value < 0.001). Very good agreement (\u03ba = 0.8220) between the AI system and the radiologists were achieved on evaluating the changes of infection volumes. Conclusions: A deep learning based AI system built on the thick-section CT imaging can accurately quantify the COVID-19 associated lung abnormalities, assess the disease severity and its progressions.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Natural Science Funding of China (No.61801491), Natural Science Funding of Hunan Province (No.2019JJ50728) and The Research Program of the Hunan Health and Family Planning Commission (No.B20180393)"
+    ],
+    "author": "Tianyu Zhang; Yue Sun; Zhang Li; Li Yu; Zheng Zhong; Liangxin Gao; Xianghua Ye; Lingyun Huang; Jing Xiao; Yang Li; Yuling Tang; Zheyu Hu; Dakai Jin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20070219",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20070219"
+    },
+    "title": "From Community Acquired Pneumonia to COVID-19: A Deep Learning Based Method for Quantitative Analysis of COVID-19 on thick-section CT Scans",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Funding of China",
+                    "award-id": [
+                        "61801491"
+                    ]
+                },
+                {
+                    "funding-source": "Natural Science Funding of Hunan Province",
+                    "award-id": [
+                        "2019JJ50728"
+                    ]
+                },
+                {
+                    "funding-source": "The Research Program of the Hunan Health and Family Planning Commission",
+                    "award-id": [
+                        "B20180393"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was partially supported by National Natural Science Funding of China (No.61801491), Natural Science Funding of Hunan Province (No.2019JJ50728) and The Research Program of the Hunan Health and Family Planning Commission (No.B20180393)"
+        }
+    ]
+}

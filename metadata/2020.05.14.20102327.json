@@ -1,0 +1,33 @@
+{
+    "abstract": "Previous researchers measured the Overall Filtration Efficiency using sodium chloride testing aerosol with aerosol photometer to analyze the reuse of respirators after sterilization. However, this study showed that the Overall Filtration Efficiency would significantly overestimate the respirators' ability to protect against submicrometer particles containing SARS-CoV-2. For example, after three cycle H2O2 vaporous sterilizations, the most penetrating particle size for the N95 level respirators was from 250 nm to 500 nm, which carried the peak concentration of the SARS-CoV-2 in hospitals. The Size Specific Filtration Efficiency (250 nm to 500 nm) dropped to 56%\u00b14%, however, the Overall Filtration Efficiency was still 86%\u00b15%. In order to protect health care personnel adequately, we recommend measuring the Size Specific Filtration Efficiency to evaluate the reuse of respirators.",
+    "affiliations": [
+        "Oklahoma State Department of Health to establish this testing program, by the supply chain logistics group at the University of Oklahoma Medical Center who provided the respirators and sterilization treatments, by the University of Oklahoma Health Sciences Center VPR\u0092s office through",
+        "COVID19 Rapid Response pilot grant, and by the student volunteers that assisted with data collection"
+    ],
+    "author": "Evan L. Floyd; Kathleen A. Aithinne; Toluwanimi Oni; Changjie Cai",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20102327",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20102327"
+    },
+    "title": "Is the Current N95 Respirator Filtration Efficiency Test Sufficient for Evaluating Protection Against Submicrometer Particles Containing SARS-CoV-2?",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Oklahoma State Department of Health"
+                },
+                {
+                    "funding-source": "University of Oklahoma Medical Center"
+                },
+                {
+                    "funding-source": "University of Oklahoma Health Sciences Center"
+                },
+                {
+                    "funding-source": "Rapid Response"
+                }
+            ],
+            "funding-statement": "This work was made possible by support from the Oklahoma State Department of Health to establish this testing program, by the supply chain logistics group at the University of Oklahoma Medical Center who provided the respirators and sterilization treatments, by the University of Oklahoma Health Sciences Center VPR\u0092s office through a COVID19 Rapid Response pilot grant, and by the student volunteers that assisted with data collection."
+        }
+    ]
+}

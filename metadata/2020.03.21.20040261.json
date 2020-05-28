@@ -1,0 +1,53 @@
+{
+    "abstract": "The pandemic caused by the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) has resulted in several thousand deaths worldwide in just a few months. Patients who died from Coronavirus disease 2019 (COVID-19) often had comorbidities, such as hypertension, diabetes, and chronic obstructive lung disease. The angiotensin-converting enzyme 2 (ACE2) was identified as a crucial factor that facilitates SARS-CoV2 to bind and enter host cells. To date, no study has assessed the ACE2 expression in the lungs of patients with these diseases. Here, we analyzed over 700 lung transcriptome samples of patients with comorbidities associated with severe COVID-19 and found that ACE2 was highly expressed in these patients, compared to control individuals. This finding suggests that patients with such comorbidities may have higher chances of developing severe COVID-19. We also found other genes, such as RAB1A, that can be important for SARS-CoV-2 infection in the lung. Correlation and network analyses revealed many potential regulators of ACE2 in the human lung, including genes related to histone modifications, such as HAT1, HDAC2, and KDM5B. In fact, epigenetic marks found in ACE2 locus were compatible to with those promoted by KDM5B. Our systems biology approach offers a possible explanation for increase of COVID-19 severity in patients with certain comorbidities.",
+    "author": "Antonio ER Oliveira; Jean PS Peron; Andre NA Goncalves; Leandro Jimenez; Rodrigo LT Ogava; Youvika Singh; Bruna GG Pinto; Helder I Nakaya; Rachel Creighton",
+    "date": 2020,
+    "doi": "10.1101/2020.03.21.20040261",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.21.20040261"
+    },
+    "title": "ACE2 Expression is Increased in the Lungs of Patients with Comorbidities Associated with Severe COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "S\u00e3o Paulo Research Foundation",
+                    "award-id": [
+                        "2017/50137-3",
+                        "2012/19278-6",
+                        "2018/14933-2",
+                        "2018/21934-5",
+                        "2013/08216-2"
+                    ]
+                }
+            ],
+            "funding-statement": "HIN is supported by CNPq (313662/2017-7) and the S\u00e3o Paulo Research Foundation (FAPESP; grants 2017/50137-3, 2012/19278-6, 2018/14933-2, 2018/21934-5 and 2013/08216-2)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF Graduate Research Fellowship",
+                    "award-id": [
+                        "DGE-1256082"
+                    ]
+                },
+                {
+                    "funding-source": "NSF Graduate Research Opportunities Worldwide Fellowship,"
+                },
+                {
+                    "funding-source": "STD & AIDS Research Training Fellowship Program",
+                    "award-id": [
+                        "NIH 2T32AI007140-41"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "2T32AI007140-41"
+                    ]
+                }
+            ],
+            "funding-statement": "RC was supported by an NSF Graduate Research Fellowship (DGE-1256082), NSF Graduate Research Opportunities Worldwide Fellowship, and by the STD & AIDS Research Training Fellowship Program (NIH 2T32AI007140-41)"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Predicting the Immunogenicity of T cell epitopes: From HIV to SARS-CoV-2",
+    "author": "Ang Gao, Zhilin Chen, Florencia Pereyra Segal, Mary Carrington, Hendrik Streeck, Arup K. Chakraborty, &,#, Boris Julg,&,#",
+    "date": 2020,
+    "affiliations": [
+        "Institute for Medical Engineering & Science, Massachusetts Institute of Technology, Cambridge, MA 02139, USA",
+        "Ragon Insitute of Massachusetts General Hospital, Massachusetts Institute of Technology, and Harvard, Cambridge, MA 02139, USA",
+        "Brigham and Women\u2019s Hospital, Boston, MA 02115, USA",
+        "Basic Science Program, Frederick National Laboratory for Cancer Research, Frederick, MD 21702, USA",
+        "Institut f\u00fcr Virologie, Universit\u00e4tsklinikum Bonn, 53127 Bonn, Germany",
+        "Department of Chemical Engineering, Massachusetts Institute of Technology Cambridge, MA 02139, USA",
+        "Department of Physics, Massachusetts Institute of Technology, Cambridge, MA 02139, USA",
+        "Department of Chemistry, Massachusetts Institute of Technology, Cambridge, MA 02139, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.095885",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.095885.pdf"
+    },
+    "abstract": "We describe a physics-based learning model for predicting the immunogenicity of Cytotoxic T Lymphocyte (CTL) epitopes derived from diverse pathogens, given a Human Leukocyte Antigen (HLA) genotype. The model was trained and tested on experimental data on the relative immunodominance of CTL epitopes in Human Immunodeficiency Virus infection. The method is more accurate than publicly available models. Our model predicts that only a fraction of SARSCoV-2 epitopes that have been predicted to bind to HLA molecules is immunogenic. The immunogenic CTL epitopes across all SARS-CoV-2 proteins are predicted to provide broad population coverage, but the immunogenic epitopes in the SARS-CoV-2 spike protein alone are unlikely to do so. Our model predicts that several immunogenic SARS-CoV-2 CTL epitopes are identical to those contained in low-pathogenicity coronaviruses circulating in the population. Thus, we suggest that some level of CTL immunity against COVID-19 may be present in some individuals prior to SARS-CoV-2 infection.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "AI138790 to B.J."
+                    ]
+                },
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "PHY-2026995"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Institutes of Health (AI138790 to B.J.), NSF grant # PHY-2026995 to A.G. and A.K.C"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "A.K.C.were"
+                },
+                {
+                    "funding-source": "Ragon Institute of MGH, MIT"
+                }
+            ],
+            "funding-statement": "A.G., B.J. and A.K.C.were supported by the Ragon Institute of MGH, MIT, & Harvard"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Frederick National Laboratory for Cancer Research,",
+                    "award-id": [
+                        "HHSN261200800001E"
+                    ]
+                }
+            ],
+            "funding-statement": "This project has been funded in whole or in part with federal funds from the Frederick National Laboratory for Cancer Research, under Contract No HHSN261200800001E"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "This Research"
+                },
+                {
+                    "funding-source": "Intramural Research Program of the NIH, Frederick"
+                },
+                {
+                    "funding-source": "National Lab, Center"
+                },
+                {
+                    "funding-source": "Cancer Research"
+                }
+            ],
+            "funding-statement": "This Research was supported in part by the Intramural Research Program of the NIH, Frederick National Lab, Center for Cancer Research"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "abstract": "Since first identified, the epidemic scale of the recently emerged novel coronavirus (2019-nCoV) in Wuhan, China, has increased rapidly, with cases arising across China and other countries and regions. using a transmission model, we estimate a basic reproductive number of 3.11 (95%CI, 2.39-4.13); 58-76% of transmissions must be prevented to stop increasing; Wuhan case ascertainment of 5.0% (3.6-7.4); 21022 (11090-33490) total infections in Wuhan 1 to 22 January.\nCompeting Interest Statement\nThe authors have declared no competing interest.\nFunding Statement",
+    "affiliations": [
+        "Faculty of Health and Medicine, Lancaster University in the form of",
+        "PhD Scholarship. CPJ acknowledges support from Wellcome"
+    ],
+    "author": "Chris P Jewell; Derek AT Cummings; Antonia Ho; Jonathan M Read; Jessica RE Bridgen",
+    "date": 2020,
+    "doi": "10.1101/2020.01.23.20018549",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.01.23.20018549"
+    },
+    "title": "Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "MR/5004793/1"
+                    ]
+                }
+            ],
+            "funding-statement": "JMR and CPJ acknowledge support from the Medical Research Council (MR/5004793/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Engineering and Physical Sciences Research Council",
+                    "award-id": [
+                        "EP/N014499/1"
+                    ]
+                }
+            ],
+            "funding-statement": "JMR acknowledges support from the Engineering and Physical Sciences Research Council (EP/N014499/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Faculty of Health and Medicine, Lancaster"
+                },
+                {
+                    "funding-source": "PhD Scholarship"
+                }
+            ],
+            "funding-statement": "JREB acknowledges support from Faculty of Health and Medicine, Lancaster University in the form of a PhD Scholarship"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "CPJ acknowledges support from Wellcome"
+        }
+    ]
+}

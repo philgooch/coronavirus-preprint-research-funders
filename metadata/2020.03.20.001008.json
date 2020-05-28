@@ -1,0 +1,71 @@
+{
+    "title": "DIRECT RT-qPCR DETECTION OF SARS-CoV-2 RNA FROM PATIENT NASOPHARYNGEAL SWABS WITHOUT AN RNA EXTRACTION STEP",
+    "author": "MAIN The ongoing COVID-19 pandemic has put exceptional strain on public health laboratories, hospital laboratories, and commercial laboratories as they attempt to keep up with demands for SARSCoV-2 testing. The current diagnostic testing methods recommended by the Centers for Disease Control and Prevention (CDC) in the United States and the World Health Organization (WHO) are traditional RT-qPCR assays that require two steps: first, an RNA extraction from patient nasopharyngeal (NP) swab material, followed by RT-qPCR amplification of the extracted RNA to detect viral RNA 1-3. The major bottleneck to widespread SARS-CoV-2 testing lies at the RNA extraction step. The simplest manual kit (the Qiagen Viral RNA Mini) is no longer available, and reagents and supplies for the larger automated instruments are extremely limited with uncertain supply chains. While substitution of other RNA extraction kits 4,5 is possible, they too are in limited supply. The current bottleneck is not simply the availability of RNA extraction kits, but also the cost of the extraction assay, the labor and time required to perform it, and the fact that it is rate limiting compared to the downstream RT-qPCR analysis. To address this issue, we tested the unconventional approach of skipping the RNA extraction step altogether and directly loading patient swab material into the RT-qPCR mix. Herein, we report that this approach (which we refer to hereafter as \u201cdirect RT-qPCR\u201d) correctly identified 92% of samples (n =155) previously shown to be positive for SARS-CoV-2 RNA by conventional RT-qPCR featuring an RNA extraction. Thus, our results suggest that this streamlined assay could greatly alleviate constraints to COVID, testing in many regions of the world",
+    "date": 2020,
+    "affiliations": [
+        "Department of Medicine, Division of Immunobiology, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington VT, 05405, USA",
+        "Virology Division, Department of Laboratory Medicine, University of Washington, Seattle WA 98195, USA",
+        "Vermont Integrative Genomics Resource, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington VT, 05405, USA",
+        "Department of Pathology and Laboratory Medicine, University of Vermont Medical Center, Burlington VT, 05401, USA",
+        "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle WA 98109, USA",
+        "Department of Microbiology and Molecular Genetics, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington VT, 05405, USA",
+        "Vaccine Testing Center, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, VT, 05405 USA",
+        "IXIS LLC, Data Science Division, Burlington, VT 05401, USA",
+        "Department of Pathology and Laboratory Medicine, Robert Larner, M.D. College of Medicine, University of Vermont and the University of Vermont Health Network, Burlington VT, 05405, USA",
+        "Department of Medicine, Division of Infectious Disease, University of Vermont Medical Center, Burlington VT, 05401, USA. Running Head: SARS-CoV-2 RNA detection without RNA extraction #EAB and MLH contributed equally to this work",
+        "KRJ and JWB were senior authors of this study and made equivalent contributions",
+        "Correspondence:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.20.001008",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.20.001008.pdf"
+    },
+    "abstract": "The ongoing COVID-19 pandemic has caused an unprecedented need for rapid diagnostic testing. The Centers for Disease Control and Prevention (CDC) and the World Health Organization (WHO) recommend a standard assay that includes an RNA extraction step from a nasopharyngeal (NP) swab followed by reverse transcription-quantitative polymerase chain reaction (RT-qPCR) to detect the purified SARS-CoV-2 RNA. The current global shortage of RNA extraction kits has caused a severe bottleneck to COVID-19 testing. We hypothesized that SARS-CoV-2 RNA could be detected from NP samples via a direct RT-qPCR assay that omits the RNA extraction step altogether, and tested this hypothesis on a series of blinded clinical samples. The direct RT-qPCR approach correctly identified 92% of NP samples (n = 155) demonstrated to be positive for SARSCoV-2 RNA by traditional clinical diagnostic RT-qPCR that included an RNA extraction. Thus, direct RT-qPCR could be a front-line approach to identify the substantial majority of COVID-19 patients, reserving a repeat test with RNA extraction for those individuals with high suspicion of infection but an initial negative result. This strategy would drastically ease supply chokepoints of COVID-19 testing and should be applicable throughout the world.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Office of the Vice President for Research"
+                },
+                {
+                    "funding-source": "University of Vermont"
+                }
+            ],
+            "funding-statement": "The authors gratefully acknowledge funding from the Office of the Vice President for Research at the University of Vermont (JWB), the M.J"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Murdock Charitable Trust",
+                    "award-id": [
+                        "P30GM118228-04"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "P30GM118228-04"
+                    ]
+                },
+                {
+                    "funding-source": "Immunology and Infectious Disease COBRE)",
+                    "award-id": [
+                        "P20GM125498-02"
+                    ]
+                },
+                {
+                    "funding-source": "Translational Global Infectious Diseases Research COBRE)",
+                    "award-id": [
+                        "U01AI1141997",
+                        "R41AI132047",
+                        "GM115516-01"
+                    ]
+                }
+            ],
+            "funding-statement": "Murdock Charitable Trust (KRJ), and NIH grants P30GM118228-04 (Immunology and Infectious Disease COBRE) (EB, JAD), P20GM125498-02 (Translational Global Infectious Diseases Research COBRE) (BDK, CDH, SAD, JAD), U01AI1141997 (JWB, SAD, and BDK), R41AI132047 (JWB), and U54 GM115516-01 (JAD)"
+        }
+    ]
+}

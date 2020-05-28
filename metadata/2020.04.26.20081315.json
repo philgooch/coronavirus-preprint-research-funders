@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The COVID\u221219 outbreak has shown two inconsistent phenomena: its reproduction number is almost two; and it shows earlier and lower peaks for new cases and the total number of patients. Object: To resolve this inconsistency, we constructed a mathematical model to explain these phenomena under the two hypotheses that effective counter measure and herd immunity. Method: To outbreak data from Wuhan, China and Japan, we applied a susceptible\u2212infected\u2212recovery model with the proportion of asymptomatic patients among infected people (q) as a key parameter for estimation, along with the basic reproduction number (R0) and effective reproduction number under counter measure (Re). Results: The first outbreak peak was recorded in Japan on April 3 for those infected on March 29. R0 , Re and q were estimated respectively as 3.78 , 3.44 and 99.32% in Wuhan. In Japan, these were estimated around the peak as 2.97, 2.78 and 99.99%. In both area, Reproduction numbers before and after counter measure initiation were not significantly difference. Discussion and Conclusion: By introducing a very high proportion of asymptomatic cases, the two inconsistent phenomena might be resolved. These phenomena can be explained better by herd immunity was supported than counter measure.\nCompeting Interest Statement",
+    "author": "Yasushi Ohkusa; Junko Kurita; Tamie Sugawara",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20081315",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20081315"
+    },
+    "title": "Statistical testing between counter measure vs herd immunity in the case of COVID\u221219 outbreak in Wuhan and Japan",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The author(s) received no specific funding for this work."
+        }
+    ]
+}

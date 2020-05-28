@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: In May 2020, many European countries have begun to introduce an exit strategy for the coronavirus disease 2019 (COVID-19) pandemic which involves relaxing social distancing measures. Predictive epidemiological modeling indicates that chances for resurgence are high. However, parametrization of the epidemiological nature of COVID-19 and the effect of relaxing social distancing is not well constrained, resulting in highly uncertain outcomes in view of managing future intensive care unit (ICU) needs. Methods and findings: For performance analysis of exit strategies we developed an open-source ensemble-based Susceptible-Exposed-Infectious-Removed (SEIR) model. It takes into account uncertainties for the COVID-19 parametrization and social distancing measures. The model is calibrated to data of the outbreak and lockdown phase. For the exit phase, the model includes the capability to activate an emergency brake, reinstating lockdown conditions. Alternatively, the model uses an adaptive COVID-19 cruise control (ACCC) capable to retain a targeted ICU level. The model is demonstrated for the Netherlands and we analyzed progressive and adaptive exit strategies through a stress test of managing ICU rates. The progressive strategy reflects the outcome of social and economic pressure to use one-way steering toward progressively relaxing measures at an early stage. It is marked by a high probability for the activation of the emergency brake due to an unsolicited growth of ICU needs in the following months. Alternatively, the two-way steering ACCC can flatten ICU needs in a more gradual way and avoids activation of the emergency brake. It also performs well for seasonal variation in the reproduction number of severe acute respiratory syndrome-coronavirus. Conclusions: The adaptive strategy (ACCC) is favored, as it avoids the use of the emergency brake at the expense of small steps of restrictive measures and allows the exploration of riskier and potentially rewarding measures in the future pathways of the exit strategy.\nCompeting Interest Statement",
+    "author": "Pien Verreijdt; Maurice Hanegraaf; Logan Brunner; Sander Osinga; Lonneke van Bijsterveldt; David van Westerloo; Marceline Tutu van Furth; Olwijn Leeuwenburgh; Martijn van der Kuip; Jan-Diederik van Wees; Maarten Pluymaekers; Michael Tanck",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20102947",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20102947"
+    },
+    "title": "Performance of progressive and adaptive COVID-19 exit strategies: a stress test analysis for managing intensive care unit rates",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement none</strong>"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Controlling the SARS-CoV-2 Spike Glycoprotein Conformation Rory Henderson1,2*, Robert J Edwards 1,2, Katayoun Mansouri1, Katarzyna Janowska1, Victoria Stalls1, Sophie",
+    "date": 2020,
+    "author": "Gobeil, Megan Kopp, Allen Hsu, Mario Borgnia, Rob Parks, Barton F. Haynes, and Priyamvada Acharya 1,5",
+    "affiliations": [
+        "Duke Human Vaccine Institute, Durham NC 27710, USA",
+        "Duke University, Department of Medicine, Durham NC 27710, USA",
+        "Genome Integrity and Structural Biology Laboratory, NIEHS, NIH, Department of Health and Human Services, Research Triangle Park, NC 27709, USA",
+        "Duke University, Department of Immunology, Durham NC 27710, USA",
+        "Duke University, Department of Surgery, Durham NC 27710, USA *To whom correspondence should be addressed"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.18.102087",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.18.102087.pdf"
+    },
+    "abstract": "The coronavirus (CoV) viral host cell fusion spike (S) protein is the primary immunogenic target for virus neutralization and the current focus of many vaccine design efforts. The highly flexible S-protein, with its mobile domains, presents a moving target to the immune system. Here, to better understand S-protein mobility, we implemented a structure-based vector analysis of available \u03b2-CoV S-protein structures. We found that despite overall similarity in domain organization, different \u03b2-CoV strains display distinct S-protein configurations. Based on this analysis, we developed two soluble ectodomain constructs in which the highly immunogenic and mobile receptor binding domain (RBD) is locked in either the all-RBDs \u2018down\u2019 position or is induced to display a previously unobserved in SARS-CoV-2 2-RBDs \u2018up\u2019 configuration. These results demonstrate that the conformation of the S-protein can be controlled via rational design and provide a framework for the development of engineered coronavirus spike proteins for vaccine applications.",
+    "hyperbole": [
+        "These structures revealed remarkable conformational heterogeneity in the S-protein spikes, especially in the RBD region. Within a single protomer, the RBD could adopt a closed \u2018down\u2019 state (Figure 1A), in which the RBD covers the apical region of the S2 protein near the C-terminus of the first heptad repeat (HR1), or an open \u2018up\u2019 state in which the RBD is dissociated from the apical central axis of S2 and the NTD. Further, cryo-EM structures strongly suggest a large degree of domain flexibility in both the \u2018down\u2019 and \u2018up\u2019 states in the NTD and RBD. While these structures have provided essential information to identify the relative arrangement of these domains, the degree to which conformational heterogeneity may be altered via mutation during the natural evolution of the virus and in a vaccine immunogen design context remains to be determined.",
+        "these domains display a remarkable array of relative shifts between the domains in the S1 region and the S2 region\u2019s \u03b2-sheet motif and connector domain (CD) (Figure 1B-F). In order to quantify these movements, we have analyzed the relevant regions of motion and their structural disposition in all available \u03b2-CoV ectodomain spike structures including 15 SARS4,5,7,8, 10 MERS4,12, a HKU12,10 , an OC432,10, a murine \u03b2-CoV, and three SARS-213,14 structures (Figures 1E-F and 2). Each protomer in those structures displaying asymmetric \u2018up\u2019/down\u2019 RBD states was examined independently yielding a dataset of 76 structural states. The NTD was split into a primary N-terminal section and a secondary C-terminal section based upon visual inspection of this region in the various \u03b2-CoV structures (Figures 1B-C and 2). We next analyzed S-protein geometry using a vector-based approach. Specifically, vectors connecting each region\u2019s C\u03b1 centroids were generated and used to define the relative dispositions of the domains (Figure 1C and 2). The vector magnitudes and select angles and dihedrals were used to identify the breadth of differences in domain positioning and compare between strains. The results indicated that \u03b2-CoV spike proteins in various strains differ markedly from one another and that considerable variability in the domain arrangements within strains exists, especially in the SARS ectodomains (Figures 1E-F and 2A-H). In particular, both  1 and \u02781 (Figure 2A-B), describing the angle between the SD2 to SD1 and SD1 to RBD vectors as well as the SD1 to RBD dihedral, respectively, effectively report on the \u2018up\u2019 and \u2018down\u2019 configurations while indicating substantial differences between SARS and MERS in both the \u2018up\u2019 and \u2018down\u2019 states. The angular disposition of the NTD elements further indicated differences in SARS and MERS with a particularly marked shift from the examined \u03b2-CoV spikes in the murine structure (Figure 1E). Additional S1 differences are observed between vectors involving SD2. The disposition of the S2 domain relative to S1 defined by the dihedral about the vector connecting SD2 to the S2 CD differs markedly between MERS/SARS-2 and SARS as well with the angle between the vectors connecting the NTD\u2019 to SD2 and SD2 to the CD demonstrating a shift in SARS-2.",
+        "protein demonstrates remarkable variability in S-protein conformation within \u2018up\u2019 and \u2018down\u2019 states between CoV strains. A) Cartoon representations of the \u2018down\u2019 (upper left) and \u2018up\u2019 (upper right) state structures colored according to the specified domains (lower). B) A single protomer of the \u03b2-CoV S-protein with labeled domains. C) A simplified diagram of the \u03b2-CoV S-protein depicting the centroids and vectors connecting them with the determine angles ( ) and dihedrals (\u0278) labeled. D) The SARS-2 (left; red) and MERS (right; blue) structures each with a single protomer depicted in a cartoon representation and the remaining two in a surface representation. E) Principal components analysis of the SARS, SARS-2, and MERS protomers including measures between S1 and S2 domains. F) Principal components analysis of the SARS, SARS-2, MERS, HKU1, and Murine CoV protomers including measures only between S1 domains.",
+        "protein demonstrates remarkable variability in S-protein conformation within \u2018up\u2019 and \u2018down\u2019 states between CoV strains. A) Angle between the subdomain 1 to subdomain 2 vector and the subdomain 1 to RBD vector. B) Dihedral about the subdomain 1 to RBD vector. C) Angle between the RBD to subdomain 1 vector and the RBD to RBD helix vector. D) Dihedral about the subdomain 2 to subdomain 1 vector. E) Angle between the NTD\u2019 to NTD vector and the NTD to NTD sheet motif vector. F) Dihedral about the NTD to NTD\u2019 vector. G) Angle between the NTD\u2019 to subdomain 2 vector and the NTD\u2019 to NTD vector. H) Angle between the subdomain 2 to NTD\u2019 vector and the subdomain 2 to subdomain 1 vector. I) Diagram of the domains and relevant angles and dihedrals for S1 J) Cartoon representation of one protomer\u2019s S1 domains in the \u2018down\u2019 state overlaid with a ribbon representation of the \u2018up\u2019 state colored according to (I). Black (\u2018down\u2019 state) and grey (\u2018up\u2019 state) spheres represent domain centroids with lines connecting representing the vectors. Adjacent protomers represented as transparent surfaces."
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Center for Cryo-EM Access and Training"
+                },
+                {
+                    "funding-source": "Simons Electron Microscopy Center"
+                },
+                {
+                    "funding-source": "New York Structural Biology Center,"
+                },
+                {
+                    "funding-source": "NIH Common Fund Transformative High Resolution Cryo-Electron Microscopy",
+                    "award-id": [
+                        "U24 GM129539,"
+                    ]
+                },
+                {
+                    "funding-source": "Simons Foundation",
+                    "award-id": [
+                        "SF349247"
+                    ]
+                },
+                {
+                    "funding-source": "NY State"
+                }
+            ],
+            "funding-statement": "Data collection for high-resolution structure determination was performed at the National Center for Cryo-EM Access and Training (NCCAT) and the Simons Electron Microscopy Center located at the New York Structural Biology Center, supported by the NIH Common Fund Transformative High Resolution Cryo-Electron Microscopy program (U24 GM129539,) and by grants from the Simons Foundation (SF349247) and NY State"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Duke Center for",
+                    "award-id": [
+                        "HIV/A"
+                    ]
+                },
+                {
+                    "funding-source": "AIDS Vaccine ImmunologyImmunogen Discovery,",
+                    "award-id": [
+                        "AI44371"
+                    ]
+                },
+                {
+                    "funding-source": "Duke Consortium for",
+                    "award-id": [
+                        "HIV/A"
+                    ]
+                },
+                {
+                    "funding-source": "AIDS Vaccine Development, Division"
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "Duke University Center for AIDS Research"
+                },
+                {
+                    "funding-source": "Translating Duke Health Initiative"
+                },
+                {
+                    "funding-source": "Intramural Research Program of the NIH; National"
+                },
+                {
+                    "funding-source": "Institute of Environmental Health Sciences",
+                    "award-id": [
+                        "ZIC ES103326 to M.J.B."
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by UM1 AI100645 (B.F.H), the Duke Center for HIV/AIDS Vaccine ImmunologyImmunogen Discovery, and UM1 AI44371 (B.F.H.), the Duke Consortium for HIV/AIDS Vaccine Development, Division of AIDS, NIAID, NIH; Duke University Center for AIDS Research (CFAR); Translating Duke Health Initiative (P.A. and R.C.H.), and the Intramural Research Program of the NIH; National Institute of Environmental Health Sciences (ZIC ES103326 to M.J.B.)"
+        }
+    ]
+}

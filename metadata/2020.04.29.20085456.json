@@ -1,0 +1,57 @@
+{
+    "abstract": "Coronavirus disease (COVID-19), the disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus, is responsible for the 2020 global pandemic and characterized by high transmissibility and morbidity. Healthcare workers (HCWs) are at risk of contracting COVID-19, and this risk is mitigated through the use of personal protective equipment such as N95 Filtering Facepiece Respirators (FFRs). The high demand for FFRs is not currently met by global supply chains, potentially placing HCWs at increased exposure risk. Effective FFR decontamination modalities exist, which could maintain respiratory protection for HCWs in the midst of the current pandemic, through the decontamination and re-use of FFRs. Here, we present a locally-implemented ultraviolet-C germicidal irradiation (UVGI)-based FFR decontamination pathway, utilizing a home-built UVGI array assembled entirely with previously existing components available at our institution. We provide recommendations on the construction of similar systems, as well as guidance and strategies towards successful institutional implementation of FFR decontamination.",
+    "affiliations": [
+        "Department of Veterans Affairs, Veterans Health Administration, Office of Research and Development, Biomedical Laboratory Research and Development Merit Review Awards I01-BX002949 (ES), I01 CX001562 (MH), I01-BX002547 (SMS)",
+        "Department of Defense CDMRP Award W81XWH-18-1-0598 (ES), an NIH NINDS 1R21NS102948 (ES), an NIH R01 AI129976 (MH) and an 1R21AI151079-01 (EK)"
+    ],
+    "author": "Christopher L. Trapp; John E. Dodier; Eric Schnell; Jane E. Yates; Stephen M. Smith; Sara K. Frazier; Melanie J. Harriff; Christopher D. Pfeiffer; Elham Karamooz; James McCarthy",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20085456",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20085456"
+    },
+    "title": "Homegrown Ultraviolet Germicidal Irradiation for Hospital-Based N95 Decontamination during the COVID-19 Pandemic",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Veterans Affairs, Veterans"
+                },
+                {
+                    "funding-source": "Health Administration, Office"
+                },
+                {
+                    "funding-source": "Research and Development, Biomedical"
+                },
+                {
+                    "funding-source": "Laboratory Research and Development Merit Review Awards",
+                    "award-id": [
+                        "I01-BX002949",
+                        "CX001562",
+                        "I01-BX002547"
+                    ]
+                },
+                {
+                    "funding-source": "Department of Defense CDMRP Award",
+                    "award-id": [
+                        "W81XWH-18-1-0598"
+                    ]
+                },
+                {
+                    "funding-source": "NIH NINDS",
+                    "award-id": [
+                        "1R21NS102948"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI129976",
+                        "1R21AI151079-01"
+                    ]
+                }
+            ],
+            "funding-statement": "No external funding was explicitly received in support of this work; but the authors would like to acknowledge support by the Department of Veterans Affairs, Veterans Health Administration, Office of Research and Development, Biomedical Laboratory Research and Development Merit Review Awards I01-BX002949 (ES), I01 CX001562 (MH), I01-BX002547 (SMS), a Department of Defense CDMRP Award W81XWH-18-1-0598 (ES), an NIH NINDS 1R21NS102948 (ES), an NIH R01 AI129976 (MH) and an 1R21AI151079-01 (EK)"
+        }
+    ]
+}

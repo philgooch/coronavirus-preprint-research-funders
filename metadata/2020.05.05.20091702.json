@@ -1,0 +1,20 @@
+{
+    "abstract": "Background Coronavirus disease 2019 (COVID19) is an acute respiratory illness with a high rate of hospitalization and mortality. Prognostic biomarkers are urgently needed. Red blood cell distribution width (RDW), a component of complete blood counts that reflects cellular volume variation, has been shown to be associated with elevated risk for morbidity and mortality in a wide range of diseases. Methods We retrospectively studied the relationship between RDW and COVID19 mortality risk for 1198 adult patients diagnosed with SARS COV2 at 4 Partners Healthcare Network Hospitals between March 4, 2020, and April 28, 2020. Findings Elevated RDW (> 14.5%) was associated with increased mortality in patients of all ages with a risk ratio of 2.5 (95% CI, 2.3-2.8). Stratified by age, the risk ratio was 6.2 (4.4-7.9, N = 312) < 50 years, 3.2 (2.5-4.1, N = 230) 50-60, 2.3 (1.6-3.1, N = 236) 60-70, 1.2 (0.7-1.8, N = 203) 70-80, and 1.9 (1.5-2.3, N = 216) > 80 years. RDW was significantly associated with mortality in Cox proportional hazards models adjusted for age, D-Dimer, absolute lymphocyte count, and common comorbidities (p < 1e-4 for RDW in all cases). Patients whose RDW increased during admission had a ~3-fold elevation in mortality risk compared to those whose RDW did not change. Interpretation Elevated RDW at diagnosis and an increase in RDW during admission are both associated with increased mortality risk for adult COVID19 patients at a large academic medical center network.",
+    "author": "Raimon Padros Valls; Erik Reinertsen; Roger Pallares Lopez; Jonathan CT Carlson; Eric Palanques-Tost; Brody H Foy; Aaron D Aguirre; John M Higgins; M Brandon Westover; Christopher Mow",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091702",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091702"
+    },
+    "title": "Elevated RDW is Associated with Increased Mortality Risk in COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "One Brave Idea Initiative and the CRICO Risk Management Fund"
+                }
+            ],
+            "funding-statement": "This study was supported by funding from the One Brave Idea Initiative and the CRICO Risk Management Fund"
+        }
+    ]
+}

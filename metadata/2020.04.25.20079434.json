@@ -1,0 +1,16 @@
+{
+    "abstract": "We show that the standard SIR model is not effective to predict the 2019-20 coronavirus pandemic propagation. We propose a new model where the logarithm of the detected population number follows a linear dynamical system. We estimate the parameters of this system and compare models obtained with data observed from different countries. Based on the given estimator and results obtained with the Pr. Raoult s treatment, we affirm with a reasonable degree of confidence that his test-treat-noconfine policy was less expensive in human lives than the confine and wait for a proved treatment policy adopted by the French government.",
+    "author": "Jean-Pierre Quadrat",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20079434",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20079434"
+    },
+    "title": "A simple Covid-19 Epidemic Model and Containment Policy in France",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding has been used"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "abstract": "Prediction on the peak time of COVID-19 virus spread is crucial to decision making on lockdown or closure of cities and states. In this paper we design a recursive bifurcation model for analyzing COVID-19 virus spread in different countries. The bifurcation facilitates a recursive processing of infected population through linear least-squares fitting. In addition, a nonlinear least-squares fitting is utilized to predict the future values of infected populations. Numerical results on the data from three countries (South Korea, United States and Germany) indicate the effectiveness of our approach.",
+    "affiliations": [
+        "Coronavirus Resource Center of Johns Hopkins University"
+    ],
+    "author": "Julia Shen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059329",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059329"
+    },
+    "title": "A Recursive Bifurcation Model for Predicting the Peak of COVID-19 Virus Spread in United States and Germany",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement not available</strong>"
+        }
+    ]
+}

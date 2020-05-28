@@ -1,0 +1,38 @@
+{
+    "title": "Rapid direct nucleic acid amplification test without RNA extraction for SARS-CoV-2 using a portable PCR thermocycler",
+    "author": "#WEE SOON KEONG#",
+    "date": 2020,
+    "affiliations": [
+        "Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore"
+    ],
+    "journal": "Dated",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.17.042366",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.17.042366.pdf"
+    },
+    "abstract": "There is an ongoing worldwide coronavirus disease 2019 (Covid-19) pandemic caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). At present, confirmatory diagnosis is by reverse transcription polymerase chain reaction (RT-PCR), typically taking several hours and requiring a molecular laboratory to perform. There is an urgent need for rapid, simplified and cost-effective detection methods. We have developed and analytically validated a protocol for direct rapid extraction-free PCR (DIRECT-PCR) detection of SARS-CoV-2 without the need for nucleic acid purification. As few as 6 RNA copies per reaction of viral nucleocapsid (N) gene from respiratory samples such as sputum and nasal exudate can be detected directly using our one-step inhibitor-resistant assay. The performance of this assay was validated on a commercially available portable PCR thermocycler. Viral lysis, reverse transcription, amplification and detection are achieved in a single-tube homogeneous reaction within 36 minutes. This minimized hands-on time, reduces turnaround-time for sample-to-result and obviates the need for RNA purification reagents. It could enable wider use of Covid-19 testing for diagnosis, screening and research in countries and regions where laboratory capabilities are limiting.",
+    "keywords": [
+        "Point-of-care",
+        "Diagnostics",
+        "DIRECT-PCR",
+        "portable PCR",
+        "SARS-CoV-2",
+        "Covid-19"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Start-Up Grant from Lee Kong Chian School of Medicine, Nanyang"
+                },
+                {
+                    "funding-source": "Technological University Singapore"
+                }
+            ],
+            "funding-statement": "This research is supported by a Start-Up Grant from Lee Kong Chian School of Medicine, Nanyang Technological University Singapore"
+        }
+    ]
+}

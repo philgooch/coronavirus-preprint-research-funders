@@ -1,0 +1,53 @@
+{
+    "abstract": "We explore a standard epidemiological model, known as the SIRD model, to study the COVID-19 infection in India, and a few other countries around the world. We use (a) the stable cumulative infection of various countries and (b) the number of infection versus the tests carried out to evaluate the model. The time-dependent infection rate is set in the model to obtain the best fit with the available data. The model is simulated aiming to project the probable features of the infection in India, various Indian states, and other countries. India imposed an early lockdown to contain the infection that can be treated by its healthcare system. We find that with the current infection rate and containment measures, the total active infection in India would be maximum at the end of June or beginning of July 2020. With proper containment measures in the infected zones and social distancing, the infection is expected to fall considerably from August. If the containment measures are relaxed before the arrival of the peak infection, more people from the susceptible population will fall sick as the infection is expected to see a three-fold rise at the peak. If the relaxation is given a month after the peak infection, a second peak with a moderate infection will follow. However, a gradual relaxation applied well ahead of peak infection, leads to a two-fold increase in the peak infection. The projection of the model is highly sensitive to the choice of the parameters and the available data. Our model provides a semi-quantitative overview of the progression of COVID-19 in India, with model projections reasonably replicating the current progress. However, since the pandemic is an ongoing dynamic phenomenon, the reported results are subjected to regular updates in consonance with the acquired real data.",
+    "author": "Mintu Karmakar; Apurba Sarkar; Raja Paul; Swarnajit Chatterjee; Saptarshi Chatterjee",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20098681",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20098681"
+    },
+    "title": "Studying the progress of COVID-19 outbreak in India using SIRD model",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Saptarshi Chatterjee and Apurba Sarkar"
+                },
+                {
+                    "funding-source": "University Grants Commission"
+                }
+            ],
+            "funding-statement": "Saptarshi Chatterjee and Apurba Sarkar were supported by a fellowship from the University Grants Commission (UGC), India"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Mintu Karmakar"
+                }
+            ],
+            "funding-statement": "Mintu Karmakar was supported by a fellowship from CSIR, India"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Swarnajit Chatterjee"
+                },
+                {
+                    "funding-source": "Indian Association for the Cultivation of Science, Kolkata"
+                }
+            ],
+            "funding-statement": "Swarnajit Chatterjee thanks Indian Association for the Cultivation of Science, Kolkata for financial support"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Raja Paul",
+                    "award-id": [
+                        "EMR/2017/001346"
+                    ]
+                }
+            ],
+            "funding-statement": "Raja Paul thanks IACS for support and Grant No EMR/2017/001346 of SERB, DST, India for the computational facility"
+        }
+    ]
+}

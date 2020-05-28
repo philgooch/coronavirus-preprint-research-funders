@@ -1,0 +1,16 @@
+{
+    "abstract": "The ongoing COVID19 outbreak originated in the city of Wuhan, China has caused a significant damage to the world population and the global economy. It has claimed more than 50,000 lives worldwide and more than one million of people have been infected as of 04th April 2020. In Sri Lanka, the first case of COVI19 was reported late January 2020 was a Chinese national and the first local case was identified in the second week of March. Since then, the government of Sri Lanka introduced various sequential measures to improve social distancing such as closure of schools and education institutes, introducing work from home model to reduce the public gathering, introducing travel bans to international arrivals and more drastically, imposed island wide curfew expecting to minimize the burden of the disease to the Sri Lankan health system and the entire community. Currently, there are 159 cases with five fatalities and also reported that 24 patients are recovered and discharged from hospitals. In this study, we use the SEIR conceptual model and its modified version by decomposing infected patients into two classes; patients who show mild symptoms and patients who tend to face severe respiratory problems and are required to treat in intensive care units. We numerically simulate the models for about five months period considering three critical parameters of COVID transmission mainly in the Sri Lankan context; efficacy of control measures, rate of overseas imported cases and time to introduce social distancing measures by the respective authorities.",
+    "author": "Tharindu Wickramaarachchi; Sanjeewa Perera; Saroj Jayasinghe",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20073734",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20073734"
+    },
+    "title": "COVID-19 epidemic in Sri Lanka: A mathematical and computational modelling approach to control",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Self-funded."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "We present a computational model of workflow in the hospital during a pandemic. The objective is to assist management in anticipating the load of each care unit, such as the ICU, or ordering supplies, such as personal protective equipment, but also to retrieve key parameters that measure the performance of the health system facing a new crisis. The model was fitted with good accuracy to France's data set that gives information on hospitalized patients and is provided online by the French government. The goal of this work is both practical in offering hospital management a tool to deal with the present crisis of COVID-19 and offering a conceptual illustration of the benefit of computational science during a pandemic.",
+    "author": "Vid Fikfak; Guillaume Joerger; Marc Garbey; Shannon Furr",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083154",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083154"
+    },
+    "title": "A Model of Workflow in the Hospital During a Pandemic to Assist Management",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for the research reported in this paper."
+        }
+    ]
+}

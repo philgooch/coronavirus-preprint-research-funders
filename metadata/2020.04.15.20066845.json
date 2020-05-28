@@ -1,0 +1,16 @@
+{
+    "abstract": "Half the world's population is already under lock-down and the remainder will have to follow if the ongoing novel coronavirus 2019 (COVID-19) virus pandemic is to be contained. Faced with such brutally difficult decisions, it is essential that as many people as possible understand (1) why lock-down interventions represent the only realistic way for individual countries to contain their national-level epidemics before they turn into public health catastrophes, (2) why these need to be implemented so early, so aggressively and for such extended periods, and (3) why international co-operation to conditionally re-open trade and travel between countries that have successfully eliminated local transmission represents the only way to contain the pandemic at global level. Here we present simplified arithmetic models of COVID-19 transmission, control and elimination in user-friendly Shiny and Excel formats that allow non-specialists to explore, query, critique and understand the containment decisions facing their country and the world at large. Based on parameter values representative of the United Republic of Tanzania, which is still early enough in its epidemic cycle and response to avert a national catastrophe, national containment and elimination with less than 10 deaths is predicted for highly rigorous lock down within 5 weeks of the first confirmed cases and maintained for 15 weeks. However, elimination may only be sustained if case importation from outside the country is comprehensively contained by isolating for three weeks all incoming travellers, except those from countries certified as COVID-free in the future. Any substantive relaxation of these assumptions, specifically shortening the lock-down period, less rigorous lock-down or imperfect importation containment, may facilitate epidemic re-initiation, resulting in over half a million deaths unless rigorously contained a second time. Removing contact tracing and isolation has minimal impact on successful containment trajectories because high incidence of similar mild symptoms caused by other common pathogens attenuates detection success of COVID-19 testing. Nevertheless, contact tracing is recommended as an invaluable epidemiological surveillance platform for monitoring and characterizing the epidemic, and for understanding the influence of interventions on transmission dynamics.",
+    "author": "Samson Kiware; Gerry Killeen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20066845",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20066845"
+    },
+    "title": "Why lockdown? Simplified arithmetic tools for decision-makers, health professionals, journalists and the general public to explore containment options for the novel coronavirus",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received from any source for the preparation of this article."
+        }
+    ]
+}

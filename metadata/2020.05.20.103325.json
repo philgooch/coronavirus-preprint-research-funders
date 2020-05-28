@@ -1,0 +1,72 @@
+{
+    "title": "Modeling and Simulation of a Fully-glycosylated Full-length SARS-CoV-2 Spike Protein in a Viral Membrane",
+    "author": "Hyeonuk Woo, Sang-Jun Park, Yeol Kyo Choi, Taeyong Park, Maham Tanveer, Yiwei Cao, Nathan R. Kern, Jumin Lee, Min Sun Yeom, Tristan Croll, Chaok Seok, Wonpil Im",
+    "date": 2020,
+    "affiliations": [
+        "Department of Chemistry, Seoul National University, Seoul 08826, Republic of Korea",
+        "Departments of Computer Science and Engineering, Lehigh University, Bethlehem, Pennsylvania 18015, USA",
+        "Departments of Biological Sciences, Chemistry, and Bioengineering, Lehigh University, Bethlehem, Pennsylvania 18015, USA",
+        "Korean Institute of Science and Technology Information, Daejeon 34141, Republic of Korea",
+        "Department of Haematology, Cambridge Institute for Medical Research, University of Cambridge, Cambridge CB2 0XY, UK",
+        "School of Computational Sciences, Korea Institute for Advanced Study, Seoul 02455, Republic of Korea",
+        "Corresponding authors:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.20.103325",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.20.103325.pdf"
+    },
+    "abstract": "This technical study describes all-atom modeling and simulation of a fully-glycosylated fulllength SARS-CoV-2 spike (S) protein in a viral membrane. First, starting from PDB:6VSB and 6VXX, full-length S protein structures were modeled using template-based modeling, de-novo protein structure prediction, and loop modeling techniques in GALAXY modeling suite. Then, using the recently-determined most occupied glycoforms, 22 N-glycans and 1 O-glycan of each monomer were modeled using Glycan Reader & Modeler in CHARMM-GUI. These fullyglycosylated full-length S protein model structures were assessed and further refined against the low-resolution data in their respective experimental maps using ISOLDE. We then used CHARMM-GUI Membrane Builder to place the S proteins in a viral membrane and performed all-atom molecular dynamics simulations. All structures are available in CHARMM-GUI COVID-19 Archive (http://www.charmm-gui.org/docs/archive/covid19), so researchers can use these models to carry out innovative and novel modeling and simulation research for the prevention and treatment of COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "GM126140"
+                    ]
+                },
+                {
+                    "funding-source": "NSF DBI-1145987",
+                    "award-id": [
+                        "MCB1810695"
+                    ]
+                },
+                {
+                    "funding-source": "Friedrich Wilhelm Bessel Research Award from the Humboldt Foundation"
+                },
+                {
+                    "funding-source": "National Research Foundation of Korea",
+                    "award-id": [
+                        "2019M3E5D4066898",
+                        "2016M3C4A7952630"
+                    ]
+                },
+                {
+                    "funding-source": "Korea government"
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "209407/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "National Supercomputing Center",
+                    "award-id": [
+                        "KSC-2020-CRE-0089"
+                    ]
+                },
+                {
+                    "funding-source": "SUPPORTING INFORMATION In the",
+                    "award-id": [
+                        "6VSB_1_1_1"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported in part by grants from NIH GM126140, NSF DBI-1145987 and MCB1810695, a Friedrich Wilhelm Bessel Research Award from the Humboldt Foundation (WI), National Research Foundation of Korea grants (2019M3E5D4066898 and 2016M3C4A7952630) funded by the Korea government (CS), Wellcome Trust grant number 209407/Z/17/Z (TC), and the National Supercomputing Center with supercomputing resources including technical support (KSC-2020-CRE-0089) (MSY). SUPPORTING INFORMATION In the supplementary material, Movie S1 shows a 30-ns production trajectory of system 6VSB_1_1_1"
+        }
+    ]
+}

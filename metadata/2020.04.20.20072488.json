@@ -1,0 +1,16 @@
+{
+    "abstract": "A set of open source programs in Python is devised to fit a parametric integrated Gaussian equation to cumulative deaths due to COVID-19 in Southern Hemisphere countries. The programs were successfully tested using data from advanced outbreak trajectories (Italy and Spain). The procedure was applied to data reported by Argentina. The projected total death toll will be 182 (277-182) with a peak of deaths (6(+/-2)) the 14 of April. The outbreak begins the 9th of March and end completely the 20th of May. However, already on 1st of May, 2 s (95.45%) of the deaths have occurred. The death toll arises from a number of infected individuals between 36412 and 2275. Then, they were to use to process data from several Southern Hemisphere countries: Argentina, Brazil, Mexico, Peru, Colombia, Ecuador, Cuba, Chile, Panama, Australia, Bolivia, Honduras, New Zealand, Paraguay, Guatemala, Venezuela, Uruguay, El Salvador, Jamaica, Haiti, Costa Rica and Nicaragua. The trend is to show low number of total deaths compared with other disease outbreaks. A total projected number of deaths between 15148 and 9939 deaths for a total population of ca. 664 M inhabitants. The projected death toll is much lower (5-10 times) than those forecasted by the Imperial College Group (ICG) even considering the best scenario of total suppression of virus transmission. Using actual mortality rates it is possible to back calculate which number of infected individuals would produce such mortality. The calculated number of infected individuals (worst case scenario) is below 2.5 million. This is significantly lower than that calculated by ICG (> 45 millions). In most countries the outbreak will end in May or early June. The dynamics of the outbreaks seems to do not saturate the health services (hospital beds) but only Peru, Ecuador and Panama should have not enough ICU beds for grave COVID-19 patients",
+    "author": "cesar a barbero",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072488",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072488"
+    },
+    "title": "A statistical forecast of LOW mortality and morbidity due to COVID-19, in ARGENTINA and other Southern Hemisphere countries.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "UNRC-CONICET"
+        }
+    ]
+}

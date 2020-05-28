@@ -1,0 +1,32 @@
+{
+    "abstract": "Background Following the emergence of coronavirus disease 2019 (COVID-19), early reports suggested a decrease in stroke and acute coronary syndrome (ACS). We sought to provide descriptive statistics for stroke and ACS from a sample of hospitals throughout the United States, comparing data from March 2020 to similar months pre-COVID. Methods We performed a retrospective analysis of 65 academic and community hospitals in the Vizient Clinical Data Base. The primary outcome is monthly count of stroke and ACS, and acute procedures for both, from February and March in 2020 compared to the same months in 2018 and 2019. Results are aggregated for all hospitals and reported by Census Region. Results We identified 51,246 strokes (42,780 ischemic, 8,466 hemorrhagic), 1,043 mechanical thrombectomies (MT), 836 tissue plasminogen activator (tPA) administrations, 36,551 ACS, and 3,925 percutaneous coronary interventions (PCI) for ACS. In February 2020, relative to February 2018 and 2019, hospitalizations with any discharge diagnosis of stroke and ACS increased by 9.8% and 12.1%, respectively, while in March 2020 they decreased 18.5% and 7.5%, relative to March 2018 and 2019. When only including hospitalizations with the primary discharge diagnosis of stroke or ACS, in March 2020 they decreased 17.6% and 25.7%, respectively. In March 2020, tPA decreased 3.3%, MT increased 18.8%, although in February 2020 it had increased 36.8%, and PCI decreased 14.7%. These decreases were observed in all Census regions. Conclusions Following greater recognition of the risks of COVID-19, hospitalizations with stroke and ACS were markedly diminished in a geographically diverse sample of United States hospitals. Because the most likely explanation is that some patients with stroke and ACS did not seek medical care, the underlying reasons for this decrease warrant additional study to inform public health efforts and clinical care during this and future pandemics.",
+    "author": "Ernie Shippey; Alen Delic; Sam Hohmann; John Ney; Mohammad Anadani; Brian Callaghan; Adam de Havenon; Shadi Yaghi; Jennifer Majersik; Gregory Esper",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20083386",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20083386"
+    },
+    "title": "A Rapid Decrease in Stroke, Acute Coronary Syndrome, and Corresponding Interventions at 65 United States Hospitals Following Emergence of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Dr de Havenon"
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "K23NS105924"
+                    ]
+                },
+                {
+                    "funding-source": "NINDS",
+                    "award-id": [
+                        "K23NS105924"
+                    ]
+                }
+            ],
+            "funding-statement": "Dr de Havenon is supported by NIH-NINDS K23NS105924"
+        }
+    ]
+}

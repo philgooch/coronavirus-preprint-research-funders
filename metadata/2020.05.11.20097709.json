@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Systemic corticosteroids are recommended by some treatment guidelines and used in severe and critical COVID-19 patients, though evidence supporting such use is limited. Methods: From December 26, 2019 to March 15, 2020, 1514 severe and 249 critical hospitalized COVID-19 patients were collected from two medical centers in Wuhan, China. We performed multivariable Cox models, Cox model with time-varying exposure and propensity score analysis (both inverse-probability-of-treatment-weighting (IPTW) and propensity score matching (PSM)) to estimate the association of corticosteroid use with the risk of in-hospital mortality among severe and critical cases. Results: Corticosteroids were administered in 531 (35.1%) severe and 159 (63.9%) critical patients. Compared to no corticosteroid use group, systemic corticosteroid use showed no benefit in reducing in-hospital mortality in both severe cases (HR=1.77, 95% CI: 1.08-2.89, p=0.023), and critical cases (HR=2.07, 95% CI: 1.08-3.98, p=0.028). In the time-varying Cox analysis that with time varying exposure, systemic corticosteroid use still showed no benefit in either population (for severe patients, HR=2.83, 95% CI: 1.72-4.64, p< 0.001; for critical patients, HR=3.02, 95% CI: 1.59-5.73, p=0.001). Baseline characteristics were matched after IPTW and PSM analysis. For severe COVID-19 patients at admission, corticosteroid use was not associated with improved outcome in either the IPTW analysis. For critical COVID-19 patients at admission, results were consistent with former analysis that corticosteroid use did not reduce in-hospital mortality. Conclusions: Corticosteroid use showed no benefit in reducing in-hospital mortality for severe or critical cases. The routine use of systemic corticosteroids among severe and critical COVID-19 patients was not recommended.\nCompeting Interest Statement",
+    "author": "Yang Yu; KarKeung Cheng; Jianfeng Wu; Shuling Chen; Yanbing Li; Zelong Liu; Cuiping Wang; Hui Yi; Xiang Si; Haipeng Xiao; Xiangdong Guan; Krishnarajah Nirantharakumar; Jianqiang Huang; Qiongya Wang; Qian Zhou; Daya Yang; Yihao Liu; Han Xiao; Xin Liu; Guochao Zhu; Ying Huang; Qingquan Lv; Sui Peng",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20097709",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20097709"
+    },
+    "title": "Systemic corticosteroids show no benefit in severe and critical COVID-19 patients in Wuhan, China: A retrospective cohort study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

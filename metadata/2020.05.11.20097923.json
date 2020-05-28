@@ -1,0 +1,21 @@
+{
+    "abstract": "In late 2019, SARS-CoV-2 (Severe Acute Respiratory Syndrome Coronavirus 2) infection started in Hubei province of China and now it has spread like a wildfire in almost all parts of the world except some. WHO named the disease caused by SARS-CoV-2 as COVID-19 (CoronaVirus Disease-2019). It is very intriguing to see a mild trend of infection in some countries which could be attributed to mitigation efforts, lockdown strategies, health infrastructure, demographics and cultural habits. However, the lower rate of infection and death rates in mostly developing countries, which are not placed at higher levels in terms of healthcare facilities, is a very surprising observation. To address this issue, we hypothesize that this lower rate of infection is majorly been observed in countries which have a higher transmission/prevalence of protozoan parasite borne disease, malaria. We compared the COVID-19 spread and malaria endemicity of 108 countries which have shown at least 200 cases of COVID-19 till 18th April 2020. We found that the number of COVID-19 cases per million population correlates negatively with the malaria endemicity of respective countries. The malaria free countries not only have higher density of COVID-19 infections but also the higher case fatality rates as compared to highly malaria endemic countries. We also postulate that this phenomenon is due to natural immune response against malaria infection, which is providing a heterologous protection against the virus. Unfortunately, there is no licensed vaccine against SARS-CoV-2 yet, but this information will be helpful in design of future strategies against fast spreading COVID-19 disease.",
+    "author": "Rupesh Srivastava; Kiran Kumari; Asif Mohmmed; Azhar Muneer; Manish Tripathi; Sumit Rathore",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20097923",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20097923"
+    },
+    "journal": "We have used World Malaria Report",
+    "title": "Comparative analyses revealed reduced spread of COVID-19 in malaria endemic countries",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ICMR and DBT GoI for"
+                }
+            ],
+            "funding-statement": "We are thankful to ICMR and DBT GoI for providing funding."
+        }
+    ]
+}

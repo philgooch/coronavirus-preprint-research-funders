@@ -1,0 +1,50 @@
+{
+    "title": "Potentially highly potent drugs for 2019-nCoV",
+    "keywords": [
+        "2019-nCoV",
+        "Drug repositioning",
+        "DrugBank",
+        "deep learning",
+        "algebraic topology"
+    ],
+    "author": "Duc Duy Nguyen, Kaifu Gao, Jiahui Chen, Rui Wang, and Guo-Wei Wei, \u2217 1 Department of Mathematics, Michigan State University, MI 48824, USA 2 Department of Biochemistry and Molecular Biology Michigan State University, MI 48824, USA 3 Department of Electrical and Computer Engineering Michigan State University, MI 48824, USA February 5, 2020",
+    "date": 2020,
+    "affiliations": [
+        "Department of Mathematics, Michigan State University, MI 48824, USA",
+        "Department of Biochemistry and Molecular Biology Michigan State University, MI 48824, USA",
+        "Department of Electrical and Computer Engineering Michigan State University, MI 48824, USA February 5, 2020"
+    ],
+    "journal": "Duc Duy Nguyen",
+    "volume": "2",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.05.936013",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.05.936013.pdf"
+    },
+    "abstract": "The World Health Organization (WHO) has declared the 2019 novel coronavirus (2019-nCoV) infection outbreak a global health emergency. Currently, there is no effective anti-2019-nCoV medication. The sequence identity of the 3CL proteases of 2019-nCoV and SARS is 96%, which provides a sound foundation for structural-based drug repositioning (SBDR). Based on a SARS 3CL protease X-ray crystal structure, we construct a 3D homology structure of 2019-nCoV 3CL protease. Based on this structure and existing experimental datasets for SARS 3CL protease inhibitors, we develop an SBDR model based on machine learning and mathematics to screen 1465 drugs in the DrugBank that have been approved by the U.S. Food and Drug Administration (FDA). We found that many FDA approved drugs are potentially highly potent to 2019-nCoV. Key words: 2019-nCoV, Drug repositioning, DrugBank, deep learning, algebraic topology.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "GM126189"
+                    ]
+                },
+                {
+                    "funding-source": "NSF Grants DMS-1721024, DMS",
+                    "award-id": [
+                        "1761320",
+                        "IIS1900473"
+                    ]
+                },
+                {
+                    "funding-source": "Bristol-Myers Squibb,"
+                }
+            ],
+            "funding-statement": "This work was supported in part by NIH grant GM126189, NSF Grants DMS-1721024, DMS-1761320, and IIS1900473, Bristol-Myers Squibb, and Pfizer"
+        }
+    ]
+}

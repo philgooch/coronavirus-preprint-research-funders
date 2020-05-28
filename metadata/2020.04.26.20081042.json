@@ -1,0 +1,16 @@
+{
+    "abstract": "In this work, we use a classical SIR model to study COVID-19 pandemic. We aim to deal with the SIR model fitting to COVID-19 data by using different technics and tools. We particularly use two ways: the first one start by fitting the total number of the confirmed cases and the second use a parametric solver tool. Finally a comparative forecasting, machine learning tools, is given.",
+    "author": "Mouhamadou Aliou Mountaga Tall Bald\u00e9",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20081042",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20081042"
+    },
+    "title": "Fitting SIR model to COVID-19 pandemic data and comparative forecasting with machine learning",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no external funding was received</strong>"
+        }
+    ]
+}

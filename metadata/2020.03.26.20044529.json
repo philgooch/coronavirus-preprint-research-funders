@@ -1,0 +1,16 @@
+{
+    "abstract": "The recent coronavirus pandemic follows in its early stages an almost exponential expansion, with the number of cases N reasonably well fit by N e\u03b1t, in many countries. We analyze the rate \u03b1 in different countries, choosing as a starting point in each country the first day with 30 cases and fitting for the following 12 days, capturing thus the early exponential growth in a rather homogeneous way. We look for a link between the rate \u03b1 and the average temperature T of each country, in the month of the epidemic growth. We analyze a {\\it base} set of 42 countries, which developed the epidemic at an earlier stage, an {\\it intermediate} set of 88 countries and an {\\it extended} set of 125 countries, which developed the epidemic more recently. Fitting with a linear behavior \u03b1(T), we find increasing evidence in the three datasets for a decreasing growth rate as a function of T, at $99.66\\%$C.L., $99.86\\%$C.L. and $99.99995 \\%$ C.L. ($p$-value $5 \\cdot 10^{-7}$, or 5$\\sigma$ detection) in the {\\it base}, {\\it intermediate} and {\\it extended} dataset, respectively. The doubling time is expected to increase by $40\\%\\sim 50\\%$, going from $5^\\circ$ C to $25^\\circ$ C. In the {\\it base} set, going beyond a linear model, a peak at about $(7.7\\pm 3.6)^\\circ C$ seems to be present in the data, but such evidence disappears for the larger datasets. Moreover we have analyzed the possible existence of a bias: poor countries, typically located in warm regions, might have less intense testing. By excluding countries below a given GDP per capita from the dataset, we find that this affects our conclusions only slightly and only for the {\\it extended} dataset. The significance always remains high, with a $p$-value of about $10^{-3}-10^{-4}$ or less. Our findings give hope that, for northern hemisphere countries, the growth rate should significantly decrease as a result of both warmer weather and lockdown policies. In general the propagation should be hopefully stopped by strong lockdown, testing and tracking policies, before the arrival of the next cold season.",
+    "author": "Alessio Notari",
+    "date": 2020,
+    "doi": "10.1101/2020.03.26.20044529",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.26.20044529"
+    },
+    "title": "Temperature dependence of COVID-19 transmission",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

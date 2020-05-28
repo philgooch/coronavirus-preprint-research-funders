@@ -1,0 +1,20 @@
+{
+    "abstract": "An important task during the current Covid-19 pandemic is to predict the remainder of the epidemic, both without preventive measures and with. In the current paper we address this question using a simple estimation-prediction method. The input is the observed initial doubling time and a known value of R0. The simple General epidemic model is then fitted, and time calibration to calendar time is done using the observed number of case fatalities, together with estimates of the time between infection to death and the infection fatality risk. Finally, predictions are made assuming no change of behaviour, as well as for the situation where preventive measures are put in place at one specific time-point. The overall effect of the preventive measures is assumed to be known, or else estimated from the observed increased doubling time after preventive measures are put in place. The predictions are highly sensitive to the doubling times without and with preventive measures, sensitive to R0, but less sensitive to the estimates used for time-calibration: observed number of case fatalities, typical time between infection and death, and the infection fatality risk. The method is applied to the urban area of Stockholm, and predictions show that the peak of infections appear in mid-April and infections start settling in May.",
+    "author": "Tom Britton",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20066050",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20066050"
+    },
+    "title": "Basic estimation-prediction techniques for Covid-19, and a prediction for Stockholm",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Swedish Research Council"
+                }
+            ],
+            "funding-statement": "The Swedish Research Council"
+        }
+    ]
+}

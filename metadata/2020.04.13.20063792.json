@@ -1,0 +1,44 @@
+{
+    "abstract": "Background: COVID-19 has been impacting on the whole world critically and constantly since late December 2019. Rapidly increasing infections has raised intense worldwide attention. How to model the evolution of COVID-19 effectively and efficiently is of great significance for prevention and control. Methods: We propose the multi-chain Fudan-CCDC model based on the original single-chain model in [8] to describe the evolution of COVID-19 in Singapore. Multi-chains can be considered as the superposition of several single chains with different characteristics. We identify parameters of models by minimizing the penalty function. Results: The numerical simulation results exhibit the multi-chain model performs well on data fitting. Though unsteady the increments are, they could still fall within the range of 25% fluctuation from simulation results. It is predicted by multi-chain models that Singapore are experiencing a nonnegligible risk of explosive outbreak, thus stronger measures are urgently needed to contain the epidemic. Conclusion: The multi-chain Fudan-CCDC model provides an effective way to early detect the appearance of imported infectors and super spreaders and forecast a second outbreak. It can also explain the data in those countries where the single-chain model shows deviation from the data.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Science Foundation of China (11671098, 91630309). Jin Cheng is supported in part by the National Science Foundation of China (11971121)"
+    ],
+    "author": "Ling Ye; Yue Yan; Nian Shao; Shufen Wang; Jin Cheng; Wenbin Chen; Hanshuang Pan; Xinyue Luo",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063792",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063792"
+    },
+    "title": "Multi-chain Fudan-CCDC model for COVID-19 -- a revisit to Singapore's case",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wenbin Chen"
+                },
+                {
+                    "funding-source": "National Science Foundation of China",
+                    "award-id": [
+                        "11671098",
+                        "91630309"
+                    ]
+                }
+            ],
+            "funding-statement": "Wenbin Chen is supported by the National Science Foundation of China (11671098, 91630309)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Jin Cheng"
+                },
+                {
+                    "funding-source": "National Science Foundation of China",
+                    "award-id": [
+                        "11971121"
+                    ]
+                }
+            ],
+            "funding-statement": "Jin Cheng is supported in part by the National Science Foundation of China (11971121)"
+        }
+    ]
+}

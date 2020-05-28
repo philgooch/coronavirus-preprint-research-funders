@@ -1,0 +1,16 @@
+{
+    "abstract": "The COVID-19 outbreak has caused over 1.7 million (still increasing) confirmed cases globally as of April 10th, 2020. The levels of spread and severity of the virus lead to a wide-spread political and economic turmoil. We believe that two critical contributing factors need to be taken into account by the authorities to make effective decisions for controlling the spread of the virus: (i) being familiar with the most effective controlling measures and (ii) having a mathematical model to predict the spread of the virus. In this study, we provided information regarding both of these crucial factors. First, we investigated the importance of different measures such as quarantine, isolation, face mask, social distancing, etc. in controlling the virus in various countries. We then present a mathematical model to predict the spread of the virus in different countries. Our prediction shows an excellent match with the actual data up to now.",
+    "author": "Mohammad Mehdi Pejman; armaghan fereidooni",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20062125",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20062125"
+    },
+    "title": "Coronavirus epidemic: prediction and controlling measures",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

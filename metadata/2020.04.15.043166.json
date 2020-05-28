@@ -1,0 +1,34 @@
+{
+    "title": "Clinical benefit of remdesivir in rhesus macaques infected with SARS-CoV-2 Brandi N. Williamson1, MPH; Friederike Feldmann2, AS; Benjamin Schwarz3, PhD; Kimberly MeadeWhite1, MSc; Danielle P. Porter5, PhD; Jonathan Schulz1, BSc; Neeltje van Doremalen1, PhD; Ian Leighton, BA3; Claude Kwe Yinda1, PhD; Lizzette P\u00e9rez-P\u00e9rez1, MSc; Atsushi Okumura1, DVM; Jamie Lovaglio2, DVM; Patrick W. Hanley2, DVM; Greg Saturday2, DVM; Catharine M. Bosio3, PhD; Sarah Anzick4, PhD; Kent Barbian4, MSc; Tomas Cihlar5, PhD; Craig Martens4, PhD; Dana P. Scott2, DVM; Vincent J. Munster1,",
+    "author": "PhD; Emmie de Wit, PhD 1Laboratory of Virology, 2Rocky Mountain Veterinary Branch, 3Laboratory of Bacteriology and 4Research Technologies Branch, National Institute of Allergy and Infectious Diseases, National Institutes of Health",
+    "date": 2020,
+    "affiliations": [
+        "Laboratory of Virology",
+        "Rocky Mountain Veterinary Branch",
+        "Laboratory of Bacteriology and",
+        "Research Technologies Branch, National Institute of Allergy and Infectious Diseases, National Institutes of Health",
+        "Accreditation of Laboratory Animal Care (AAALAC) International accredited facility, according to the institution\u2019s guidelines for animal use, following the guidelines and basic principles in the NIH Guide for the Care and Use of Laboratory Animals, the Animal Welfare Act, United States Department of",
+        "SavantTM DNA120 SpeedVacTM concentrator (Thermo Fisher). Samples were resuspended in 100 \u03bcL of 50% methanol, 50% water (v/v) and centrifuged as before. The supernatant was taken to a sample vial for LCMS analysis. Samples were separated using an ion-pairing liquid chromatography strategy on",
+        "Sciex ExionLCTM AC system. Samples were injected onto",
+        "Waters Atlantis T3 column (100 \u00c5, 3 \u03bcm, 3 mm X 100 mm) and eluted using a binary gradient from 5 mM tributylamine, 5 mM acetic acid in 2% isopropanol, 5% methanol, 93% water (v/v) to 100% isopropanol over 5.5 minutes. Analytes were measured using",
+        "Sciex 5500 QTRAP\u00ae mass spectrometer in negative mode. Multiple reaction monitoring was performed using two signal pairs for each analyte and signal fidelity was confirmed by collecting triggered product ion spectra and comparing back to spectra of synthetically pure standards"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.15.043166",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.15.043166.pdf"
+    },
+    "abstract": "Background: Effective therapeutics to treat COVID-19 are urgently needed. Remdesivir is a nucleotide prodrug with in vitro and in vivo efficacy against coronaviruses. Here, we tested the efficacy of remdesivir treatment in a rhesus macaque model of SARS-CoV-2 infection. Methods: To evaluate the effect of remdesivir treatment on SARS-CoV-2 disease outcome, we used the recently established rhesus macaque model of SARS-CoV-2 infection that results in transient lower respiratory tract disease. Two groups of six rhesus macaques were infected with SARS-CoV-2 and treated with intravenous remdesivir or an equal volume of vehicle solution once daily. Clinical, virological and histological parameters were assessed regularly during the study and at necropsy to determine treatment efficacy. Results: In contrast to vehicle-treated animals, animals treated with remdesivir did not show signs of respiratory disease and had reduced pulmonary infiltrates on radiographs. Virus titers in bronchoalveolar lavages were significantly reduced as early as 12hrs after the first treatment was administered. At necropsy on day 7 after inoculation, lung viral loads of remdesivir-treated animals were significantly lower and there was a clear reduction in damage to the lung tissue. Conclusions: Therapeutic remdesivir treatment initiated early during infection has a clear clinical benefit in SARS-CoV-2-infected rhesus macaques. These data support early remdesivir treatment initiation in COVID-19 patients to prevent progression to severe pneumonia.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intramural Research Program of NIAID, NIH"
+                }
+            ],
+            "funding-statement": "This study was supported by the Intramural Research Program of NIAID, NIH"
+        }
+    ]
+}

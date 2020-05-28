@@ -1,0 +1,16 @@
+{
+    "abstract": "A possible association between national Bacille Calmette-Gu\u00e9rin (BCG) vaccination policy and lower COVID-19 incidence has been suggested in some preprint papers. Using publicly accessible databases, I explored associations of national BCG vaccination policy with COVID-19 epidemiology in 78 countries. Data collection was conducted from April 25 to May 5, 2020. I compared countries that have a current universal BCG vaccination policy (BCG countries), with countries that currently lack such a policy (non-BCG countries). The mixed effect model revealed national BCG policy decreases in the country-specific risk of death by COVID-19, correspond to odds ratio of 0.446 (95% confidence intervals 0.323 - 0.614, P =1\u00d710-5). In BCG countries, the case increase rate was attenuated marginally by 25.4% (95% CI 3.0 to 42.7, P=0.029) as compared with those of the non-BCG countries. Although the protective mechanism of BCG vaccination against COVID-19 remains unknown, further laboratory and clinical research should be warranted.",
+    "author": "Norifumi Kuratani",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20100156",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20100156"
+    },
+    "title": "Association of national Bacille Calmette-Gu\u00e9rin vaccination policy with COVID-19 epidemiology: an ecological study in 78 countries",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This study was supported by the institutional resource"
+        }
+    ]
+}

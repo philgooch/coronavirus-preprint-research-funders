@@ -1,0 +1,19 @@
+{
+    "abstract": "We aim to help inform the choice of estimand (i.e., target of inference) and analysis method to be used in future COVID-19 treatment trials. To this end, we describe estimands for outcome types of particular interest in these trials (ordinal and time-to-event). When the outcome is ordinal, the estimands that we consider are the difference between study arms in the mean outcome, the Mann-Whitney (rank--based) estimand, and the average of the cumulative log odds ratios over the levels of the outcome. For time-to-event outcomes, we consider the difference between arms in the restricted mean survival time, the difference between arms in the cumulative incidence, and the relative risk. Advantageously, the interpretability of these estimands does not rely on a proportional odds or proportional hazards assumptions. For each estimand, we evaluate the potential value added by using estimators that leverage information in baseline variables to improve precision and reduce the required sample size to achieve a desired power. These are called covariate adjusted estimators. To evaluate the performance of the covariate adjusted and unadjusted estimators that we present, we simulate two-arm, randomized trials comparing a hypothetical COVID-19 treatment versus standard of care, where the primary outcome is ordinal or time-to-event. Our simulated distributions are derived from two sources: longitudinal data on over 500 patients hospitalized at Weill Cornell Medicine New York Presbyterian Hospital prior to March 28, 2020, and a CDC preliminary description of 2449 cases reported to the CDC from February 12 to March 16, 2020. We focus on hospitalized, COVID-19 positive patients and consider the following outcomes: intubation, ventilator use, and death. We conduct simulations using all three estimands when the outcome is ordinal, but only evaluate the restricted mean survival time when the outcome is time to event. Our simulations showed that, in trials with at least 200 participants, the precision gains due to covariate adjustment are equivalent to requiring 10-20% fewer participants to achieve the same power as a trial that uses the unadjusted estimator; this was the case for each outcome and estimand that we considered.",
+    "affiliations": [
+        "New York Presbyterian Hospital prior to March 28, 2020, and"
+    ],
+    "author": "Michael Rosenblum; Alex Luedtke; Daniel Scharfstein; David Benkeser; Jodi Segal; Ivan Diaz",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20069922",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20069922"
+    },
+    "title": "Improving Precision and Power in Randomized Trials for COVID-19 Treatments Using Covariate Adjustment, for Ordinal or Time to Event Outcomes",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

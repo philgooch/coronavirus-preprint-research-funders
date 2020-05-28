@@ -1,0 +1,16 @@
+{
+    "abstract": "In the middle of the global COVID-19 pandemic, the BCG hypothesis, the prevalence and severity of the COVID-19 outbreak seems to be correlated with whether a country has a universal coverage of Bacillus-Calmette-Guerin (BCG), a vaccine for tuberculosis disease (TB), has emerged and attracted the attention of scientific community and media outlets. However, all existing claims are based on cross-country correlations that do not exclude the possibility of spurious correlation. We merged country-age-level case statistics with the start/termination years of BCG vaccination policy and conducted a regression discontinuity and difference-in-difference analysis. The results do not support the BCG hypothesis.",
+    "author": "Masao Fukui; Kohei Kawaguchi; Hiroaki Matsuura",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20064287",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20064287"
+    },
+    "title": "Does TB Vaccination Reduce COVID-19 Infection?: No Evidence from a Regression Discontinuity Analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None."
+        }
+    ]
+}

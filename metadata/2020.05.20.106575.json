@@ -1,0 +1,40 @@
+{
+    "title": "SARS-CoV-2 targets cortical neurons of 3D human brain organoids and shows neurodegeneration-like effects",
+    "date": 2020,
+    "author": "Anand Ramani,#, Lisa M\u00fcller,#, Philipp Niklas Ostermann,#, Elke Gabriel, Pranty Abida-Islam, Andreas M\u00fcller-Schiffmann, Aruljothi Mariappan, Olivier Goureau, Henning Gruell, Andreas Walker, Marcel Andr\u00e9e, Sandra Hauka, Torsten Houwaart, Alexander Dilthey, Kai Wohlgemuth, Heymut Omran, Florian Klein, 9 Dagmar Wieczorek, Ortwin Adams, J\u00f6rg Timm, Carsten Korth, Heiner Schaal, Jay Gopalakrishnan",
+    "affiliations": [
+        "Institute of Human Genetics, University Hospital D\u00fcsseldorf, Heinrich-Heine-Universit\u00e4t, Universit\u00e4tsstr. 1, 40225 D\u00fcsseldorf, Germany",
+        "Institute of Virology, University Hospital D\u00fcsseldorf, Heinrich-Heine-Universit\u00e4t, Universit\u00e4tsstr. 1, 40225 D\u00fcsseldorf, Germany",
+        "Institute of Neuropathology, University Hospital D\u00fcsseldorf, Heinrich-Heine-Universit\u00e4t, Universit\u00e4tsstr. 1, 40225 D\u00fcsseldorf, Germany",
+        "Institut de la Vision, Sorbonne Universit\u00e9, INSERM, CNRS, F-75012 Paris, France",
+        "Institute of Virology, Faculty of Medicine and University Hospital Cologne, University of Cologne, Cologne, Germany",
+        "Institute of Medical Microbiology and Hygiene, University Hospital, Heinrich Heine University D\u00fcsseldorf, D\u00fcsseldorf, Germany",
+        "Department of General Pediatrics, University Children's Hospital Muenster, 48149 Muenster, Germany",
+        "German Center for Infection Research (DZIF), partner site Bonn-Cologne",
+        "Center for Molecular Medicine Cologne (CMMC), University of Cologne, Germany"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.20.106575",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.20.106575.pdf"
+    },
+    "abstract": "COVID-19 pandemic caused by SARS-CoV-2 infection is a public health emergency. COVID19 typically exhibits respiratory illness. Unexpectedly, emerging clinical reports indicate that neurological symptoms continue to rise, suggesting detrimental effects of SARS-CoV-2 on the central nervous system (CNS). Here, we show that a D\u00fcsseldorf isolate of SARSCoV-2 enters 3D human brain organoids within two days of exposure. Using COVID-19 convalescent serum, we identified that SARS-CoV-2 preferably targets soma of cortical neurons but not neural stem cells, the target cell type of ZIKA virus. Imaging cortical neurons of organoids reveal that SARS-CoV-2 exposure is associated with missorted Tau from axons to soma, hyperphosphorylation, and apparent neuronal death. Surprisingly, SARS-CoV-2 co-localizes specifically with Tau phosphorylated at Threonine-231 in the soma, indicative of early neurodegeneration-like effects. Our studies, therefore, provide initial insights into the impact of SARS-CoV-2 as a neurotropic virus and emphasize that brain organoids could model CNS pathologies of COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fritz-Thyssen Foundation."
+                },
+                {
+                    "funding-source": "Institute of Virology, University"
+                },
+                {
+                    "funding-source": "Hospital D\u00fcsseldorf"
+                }
+            ],
+            "funding-statement": "This work was financially supported by a grant from Fritz-Thyssen Foundation. \"We would like to thank the diagnostics department of the Institute of Virology, University Hospital D\u00fcsseldorf"
+        }
+    ]
+}

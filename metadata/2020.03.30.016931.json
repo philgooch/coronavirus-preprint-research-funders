@@ -1,0 +1,73 @@
+{
+    "title": "Prediction of SARS-CoV-2 epitopes across 9360 HLA class I alleles",
+    "date": 2020,
+    "author": "Katie M. Campbell, Gabriela Steiner, Daniel K. Wells, Antoni Ribas, Anusha Kalbasi",
+    "affiliations": [
+        "Department of Medicine, Division of Hematology-Oncology, University of California, Los Angeles (UCLA), Los Angeles, CA, 90095, USA",
+        "Parker Institute for Cancer Immunotherapy, San Francisco, CA, 94129, USA",
+        "Department of Radiation Oncology, UCLA, CA, 90095, USA",
+        "Department Surgery, Division of Surgical Oncology, University of California, Los Angeles, Los Angeles, CA, USA",
+        "Jonsson Comprehensive Cancer Center, Los Angeles, CA, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.30.016931",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.30.016931.pdf"
+    },
+    "abstract": "Elucidating antiviral CD8 T lymphocyte responses to SARS-CoV-2 may shed light on the heterogeneity of clinical outcomes and inform vaccine or therapeutic approaches. To facilitate the evaluation of antiviral CD8 T cell responses to SARS-CoV-2, we generated a publicly accessible database of epitopes predicted to bind any class I HLA protein across the entire SARS-CoV-2 proteome. While a subset of epitopes from earlier betacoronaviruses, such as SARS-CoV (SARS), have been validated experimentally, validation systems are often biased toward specific HLA haplotypes (notably HLA-A*02:01) that only account for a fraction of the haplotypes of individuals affected by the SARS-CoV-2 pandemic. To enable evaluation of epitopes across individuals with a variety of HLA haplotypes, we computed the predicted binding affinities between 9-mer peptides derived from the annotated SARS-CoV-2 peptidome across 9,360 MHC class I HLA-A, -B, and -C alleles. There were 6,748 unique combinations of peptides and HLA alleles (pMHCs) with a predicted binding affinity of less than 500nM, including 1,103 unique peptides and 1,022 HLA alleles, spanning 11 annotated superfamilies. These peptides were derived from all 11 proteins spanning the SARS-CoV-2 peptidome, including peptides that have previously been validated experimentally. We also show evidence that these previously validated epitopes may be relevant in other HLA contexts. This complete dataset is available publicly: gs://picicovid19-data-resources/mhci/peptide_predictions.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UCLA Tumor Immunology Training Grant",
+                    "award-id": [
+                        "NIH T32CA009120"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "T32CA009120"
+                    ]
+                },
+                {
+                    "funding-source": "Cancer Research Institute"
+                },
+                {
+                    "funding-source": "Irvington Postdoctoral Fellowship Program"
+                }
+            ],
+            "funding-statement": "KMC is supported by the UCLA Tumor Immunology Training Grant (NIH T32CA009120) and the Cancer Research Institute (CRI) Irvington Postdoctoral Fellowship Program"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UCLA CTSI",
+                    "award-id": [
+                        "NCATS TR001882"
+                    ]
+                },
+                {
+                    "funding-source": "NCATS",
+                    "award-id": [
+                        "TR001882"
+                    ]
+                },
+                {
+                    "funding-source": "Sarcoma Alliance for Research Through Collaboration Career Enhancement Program"
+                }
+            ],
+            "funding-statement": "AK is supported by the UCLA CTSI KL2 Award (NCATS TR001882) and Sarcoma Alliance for Research Through Collaboration Career Enhancement Program"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Ressler Family Fund,"
+                }
+            ],
+            "funding-statement": "AR is supported by R35 CA197633 and The Ressler Family Fund, and is a member researcher at PICI"
+        }
+    ]
+}

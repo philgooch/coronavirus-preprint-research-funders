@@ -1,0 +1,29 @@
+{
+    "title": "Coronavirus hemagglutinin-esterase and spike proteins 5 co-evolve for functional balance and optimal virion avidity",
+    "date": 2020,
+    "author": "Yifei Lang, Wentao Li, Zeshi Li, Danielle Koerhuis, Arthur C.S. van den Burg, Erik 8 Rozemuller, Berend-Jan Bosch, Frank J.M. van Kuppeveld, Geert-Jan P.H. Boons, Eric 9 G. Huizinga, Hilde M. van der Schaar, and Raoul J. de Groot,* 10 1Virology Division, Department of Infectious Diseases and Immunology, Faculty of Veterinary 11 Medicine, Utrecht University, 3584 CH Utrecht, the Netherlands; 2Department of Chemical Biology 12 and Drug Discovery, Utrecht Institute for Pharmaceutical Sciences and Bijvoet Center for Biomolecular 13 Research, Utrecht University, 3584 CG Utrecht, The Netherlands; 3GenDx B.V., Yalelaan 48, 3584 CM 14 Utrecht, the Netherlands; 4Department of Chemistry, University of Georgia, Athens, GA 30602; 15 5Complex Carbohydrate Research Center, University of Georgia, Athens, GA 30602; 6Crystal and 16 Structural Chemistry, Bijvoet Center for Biomolecular Research, Faculty of Sciences, Utrecht 17 University, 3584 CH Utrecht, the Netherlands; 7Present address: Batavia Biosciences B.V., Zernikedreef 18 16, 2333 CL Leiden, The Netherlands",
+    "affiliations": [
+        "Virology Division, Department of Infectious Diseases and Immunology, Faculty of Veterinary",
+        "Medicine, Utrecht University, 3584 CH Utrecht, the Netherlands",
+        "Department of Chemical Biology 12 and Drug Discovery, Utrecht Institute for Pharmaceutical Sciences and Bijvoet Center for Biomolecular",
+        "Research, Utrecht University, 3584 CG Utrecht, The Netherlands",
+        "GenDx B.V., Yalelaan 48, 3584 CM",
+        "Utrecht, the Netherlands",
+        "Department of Chemistry, University of Georgia, Athens, GA 30602; 15",
+        "Complex Carbohydrate Research Center, University of Georgia, Athens, GA 30602",
+        "Structural Chemistry, Bijvoet Center for Biomolecular Research, Faculty of Sciences, Utrecht",
+        "University, 3584 CH Utrecht, the Netherlands",
+        "Present address: Batavia Biosciences B.V., Zernikedreef 18 16, 2333 CL Leiden, The Netherlands"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.03.003699",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.03.003699.pdf"
+    },
+    "abstract": "Human coronaviruses OC43 and HKU1 are respiratory pathogen of zoonotic origin that have gained worldwide distribution. OC43 apparently emerged from a bovine coronavirus (BCoV) spill-over. All three viruses attach to 9-O-acetylated sialoglycans via spike protein S with hemagglutinin-esterase HE acting as a receptor-destroying enzyme. In BCoV, an HE lectin domain promotes esterase activity towards clustered substrates. OC43 and HKU1, however, lost HE lectin function as an adaptation to humans. Replaying OC43 evolution, we knocked-out BCoV HE lectin function and performed forced evolution-population dynamics analysis. Loss of HE receptor-binding selected for second-site mutations in S, decreasing S binding affinity by orders of magnitude. Irreversible HE mutations selected for cooperativity in virus swarms with low-affinity S minority variants sustaining propagation of high-affinity majority phenotypes. Salvageable HE mutations induced successive second-site substitutions in both S and HE. Apparently, S and HE are functionally interdependent and co-evolve to optimize the balance between attachment and release. This mechanism of glycan-based receptor usage, entailing a concerted, fine-tuned activity of two envelope protein species, is unique among CoVs, but reminiscent of that of influenza A viruses (IAVs). Apparently, general principles fundamental to virion-sialoglycan interactions prompted convergent evolution of two important groups of human and animal pathogens.",
+    "funding": [
+        {}
+    ]
+}

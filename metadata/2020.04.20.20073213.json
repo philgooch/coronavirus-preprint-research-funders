@@ -1,0 +1,16 @@
+{
+    "abstract": "We present a stochastic compartmental network model of SARS-CoV-2 and COVID-19 exploring the effects of policy choices in three domains: social distancing, hospital triaging, and testing. We distinguished between high-risk and low-risk members of the population, and modeled differences in social interactions due to context, risk level, infection status, and testing status. The model incorporates many of the currently important characteristics of the disease, including overcapacity in the healthcare system and uncertainties surrounding the proportion and transmission potential of asymptomatic cases. We compared current policy guidelines from public health agencies with alternative options, and investigated the effects of policy decisions on the overall proportion of COVID-19-related deaths. Our results support current policies to contain the outbreak but also suggest possible refinements, including emphasizing the need to reduce public, random contacts more than private contacts, and testing low-risk symptomatic individuals before high-risk symptomatic individuals. Our model furthermore points to interactions among the three policy domains; the efficacy of a particular policy choice depends on other implemented policies. Finally, our results provide an explanation for why societies like Germany, with lower average rates of social contact, are more successful at containing the outbreak than highly social societies such as Italy, despite the implementation of similar policy measures.",
+    "author": "Claus Kadelka; Audrey McCombs",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20073213",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20073213"
+    },
+    "title": "A model-based evaluation of the efficacy of COVID-19 social distancing, testing and hospital triage policies",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Neither of the authors has received any funding to support this work."
+        }
+    ]
+}

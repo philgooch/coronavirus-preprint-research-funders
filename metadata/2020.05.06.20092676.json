@@ -1,0 +1,53 @@
+{
+    "abstract": "Background: Recent data suggest higher COVID-19 rates and severity in Black, Asian, and minority ethnic (BAME) communities. We aimed to study the association between ethnicity and risk of COVID-19 and adjust it by deprivation and previous comorbidity. Methods: Prospective cohort. UK Biobank participants from England linked to Hospital Episode Statistics (HES) and COVID-19 tests until 14 April 2020. COVID-19 infection was based on a positive PCR test. Ethnicity was self-reported and classified using Office of National Statistics groups. Socioeconomic status was based on index of multiple deprivation quintiles. Comorbidities were extracted from HES. We used Poisson regression to estimate rate ratios of infection according to ethnicity, adjusted for socioeconomic status, alcohol drinking, smoking, BMI, age, sex, and comorbidity. Results: 415,582 participants were included, with 2,886 tested and 1,039 positive for COVID-19. The incidence of COVID-19 was 0.85% (0.67% - 1.09%) in Black/Black British participants, 0.47% (0.30%-0.74%) in other ethnicities, 0.58% (0.44%-0.76%) in Asian/Asian British, 0.30% (0.11%-0.80%) in Chinese, 0.23% (0.11%-0.52%) in mixed, and 0.23% (0.21%-0.34%) in White. Compared with White participants, Black/Black British participants had an adjusted relative risk (RR) of 2.66 (2.03-3.88), Asian/Asian British participants 2.09 (1.53-2.84), Chinese participants 1.72 (0.64-4.61), other ethnicities 1.67 (1.04-2.68), and mixed ethnicities 0.93 (0.41-2.07). Socioeconomic status (adjusted RR 1.73 (1.43-2.1) for the most deprived), was also associated with increased risk of COVID-19. Conclusion: COVID-19 rates in England are higher in BAME communities, and in those living in deprived areas. Public health strategies are needed to reduce COVID-19 infections among the most susceptible groups.\nCompeting Interest Statement",
+    "affiliations": [
+        "England linked to Hospital Episode Statistics (HES) and COVID-19 tests until",
+        "National Institute for Health Research (NIHR) Oxford Biomedical Research Centre (BRC). DPA is funded through an NIHR Senior Research Fellowship (Grant number SRF-2018-11-ST2-004). The views expressed in this publication are those of the author(s) and not necessarily those of the NHS, the National Institute for Health Research, or the Department of Health. APU is supported by Fundacion Alfonso Martin Escudero and the Medical Research Council (grant numbers MR/K501256/1, MR/N013468/1)"
+    ],
+    "author": "Roger Paredes; DANIEL PRIETO-ALHAMBRA; Albert Prats-Uribe",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20092676",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20092676"
+    },
+    "title": "Ethnicity, comorbidity, socioeconomic status, and their associations with COVID-19 infection in England: a cohort analysis of UK Biobank data",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Oxford Biomedical Research Centre"
+                }
+            ],
+            "funding-statement": "The research was partially supported by the National Institute for Health Research (NIHR) Oxford Biomedical Research Centre (BRC)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Senior Research Fellowship",
+                    "award-id": [
+                        "SRF-2018-11-ST2-004"
+                    ]
+                }
+            ],
+            "funding-statement": "DPA is funded through an NIHR Senior Research Fellowship (Grant number SRF-2018-11-ST2-004)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fundacion Alfonso Martin Escudero and the Medical Research Council",
+                    "award-id": [
+                        "MR/K501256/1",
+                        "MR/N013468/1"
+                    ]
+                }
+            ],
+            "funding-statement": "APU is supported by Fundacion Alfonso Martin Escudero and the Medical Research Council (grant numbers MR/K501256/1, MR/N013468/1)"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "We discuss a two-step model for the rise and decay of the COVID-19. The first stage is well described by the same equation for turbulent flows and chaotic maps: a small number of infected d0 grows exponentially to a saturation value d\u221e. The typical growth time is given by \u03c4=1/\u03bb, where \u03bb is the Lyapunov exponent. After a time tcrit determined by social distancing and/or other measures, the spread decreases exponentially as for nuclear decays and non-chaotic maps. A few countries, like China, S. Korea, Italy are in this second stage while other including the USA is near the end of the growth stage. The model predicts 15,000 (\u00b11,500) casualties for the Lombardy region (Italy) at the end of the spreading around May 10,2020. Without the quarantine, the casualties would have been more than 50,000, hundred days after the start of the epidemics. The data from the 50 US states are of very poor quality because of an extremely late response to the epidemics, resulting unfortunately in a large number of casualties, more than 70,000 on May 6,2020. S. Korea, notwithstanding the high population density (511/km\u00b2) and the closeness to China, responded best to the epidemics with 255 deceased as of May 6,2020.",
+    "author": "Aldo Bonasera; hua zheng",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20094235",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20094235"
+    },
+    "title": "Chaos, Percolation and the Coronavirus Spread: a two-step model.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no external fundings</strong>"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Role of 1\u2019-Ribose Cyano Substitution for Remdesivir to Effectively Inhibit both Nucleotide Addition and Proofreading in SARS-CoV-2 Viral RNA Replication",
+    "author": "Lu Zhang, Dong Zhang, Congmin Yuan, Xiaowei Wang, Yongfang Li, Xilin Jia, Xin Gao, Hui-Ling Yen, Peter Pak-Hang Cheung, Xuhui Huang",
+    "date": 2020,
+    "affiliations": [
+        "State Key Laboratory of Structural Chemistry, Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences, Fuzhou, Fujian, China",
+        "University of Chinese Academy of Sciences, Beijing, China",
+        "Department of Chemistry, Centre of Systems Biology and Human Health, State Key Laboratory of Molecular Neuroscience, The Hong Kong University of Science and Technology, Kowloon, Hong Kong",
+        "The Hong Kong University of Science and Technology-Shenzhen Research Institute, Hi-Tech Park, Nanshan, Shenzhen 518057, China",
+        "Computational Bioscience Research Center, Computer, Electrical and Mathematical Sciences Engineering Division, King Abdullah University of Science and Technology, Saudi Arabia"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.27.063859",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.27.063859.pdf"
+    },
+    "abstract": "COVID-19 has recently caused a global health crisis and an effective interventional therapy is urgently needed. SARS-CoV-2 RNA-dependent RNA polymerase (RdRp) provides a promising but challenging drug target due to its intrinsic proofreading exoribonuclease (ExoN) function. Nucleoside triphosphate (NTP) analogues added to the growing RNA chain should supposedly terminate viral RNA replication, but ExoN can cleave the incorporated compounds and counteract their efficacy. Remdesivir targeting SARS-CoV-2 RdRp exerts high drug efficacy in vitro and in vivo. However, its underlying inhibitory mechanisms remain elusive. Here, we performed all-atom molecular dynamics (MD) simulations with an accumulated simulation time of 12.6 microseconds to elucidate the molecular mechanisms underlying the inhibitory effects of remdesivir in nucleotide addition (RdRp complex: nsp12-nsp7-nsp8) and proofreading (ExoN complex: nsp14-nsp10). We found that the 1\u2019-cyano group of remdesivir possesses the dual role of inhibiting both nucleotide addition and proofreading. For nucleotide addition, we showed that incorporation of one remdesivir is not sufficient to terminate RNA synthesis. Instead, the presence of the polar 1\u2019-cyano group of remdesivir at an upstream site causes instability via its electrostatic interactions with a salt bridge formed by Asp865 and Lys593, rendering translocation unfavourable. This may eventually lead to a delayed chain termination of RNA extension by three nucleotides. For proofreading, remdesivir can inhibit cleavage via the steric clash between the 1\u2019-cyano group and Asn104. To further examine the role of 1\u2019-cyano group in remdesivir\u2019s inhibitory effects, we studied three additional NTP analogues with other types of modifications: favipiravir, vidarabine, and fludarabine. Our simulations suggest that all three of them are prone to ExoN cleavage. Our computational findings were further supported by an in vitro assay in Vero E6 cells using live SARS-CoV-2. The dose-response curves suggest that among tested NTP analogues, only remdesivir exerts significant inhibitory effects on viral replication. Our work provides plausible mechanisms at molecular level on how remdesivir inhibits viral RNA replication, and our findings may guide rational design for new treatments of COVID-19 targeting viral replication.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China Grants",
+                    "award-id": [
+                        "21733007",
+                        "21803071"
+                    ]
+                }
+            ],
+            "funding-statement": "Z. was supported by the National Natural Science Foundation of China Grants (21733007 and 21803071)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Shenzhen Science and Technology Innovation Committee",
+                    "award-id": [
+                        "JCYJ20170413173837121"
+                    ]
+                },
+                {
+                    "funding-source": "Hong Kong Research Grant Council",
+                    "award-id": [
+                        "16303919",
+                        "16307718",
+                        "16318816",
+                        "AoE/P-705/16",
+                        "AoE/M-09/12",
+                        "T13-605/18-W"
+                    ]
+                },
+                {
+                    "funding-source": "Innovation and Technology Commission",
+                    "award-id": [
+                        "ITCPD/17-9",
+                        "ITC-CNERC14SC01"
+                    ]
+                },
+                {
+                    "funding-source": "ITCPD/",
+                    "award-id": [
+                        "17-9",
+                        "ITC-CNERC14SC01"
+                    ]
+                }
+            ],
+            "funding-statement": "X.H. was supported by Shenzhen Science and Technology Innovation Committee (JCYJ20170413173837121), Hong Kong Research Grant Council (16303919, 16307718, 16318816, AoE/P-705/16, AoE/M-09/12, and T13-605/18-W), and Innovation and Technology Commission (ITCPD/17-9 and ITC-CNERC14SC01)"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "G. was supported by the"
+        }
+    ]
+}

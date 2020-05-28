@@ -1,0 +1,16 @@
+{
+    "abstract": "Discovering the mechanism that enables pre-symptomatic individuals to transmit the SARS-CoV-2 virus has a significant impact on the possibility of controlling COVID-19 pandemic. To this end, we have developed an evidence based quantitative mechanistic mathematical model. The model explicitly tracks the dynamics of contact and airborne transmission between individuals indoors, and was validated against the observed fundamental attributes of the epidemic, the secondary attack rate (SAR) and serial interval distribution. Using the model we identified the dominant driver of pre-symptomatic transmission, which was found to be contact route, while the contribution of the airborne route is negligible. We provide evidence that a combination of rather easy to implement measures of frequent hand washing, cleaning fomites and avoiding physical contact decreases the risk of infection by an order of magnitude, similarly to wearing masks and gloves.",
+    "author": "Yehuda Arav; Ziv Klausner; Eyal Fattal",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099085",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099085"
+    },
+    "title": "Understanding the indoor pre-symptomatic transmission mechanism of COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There is no external funding and there is no conflict of interest. The research was a part of the institutional research program on Covid-19."
+        }
+    ]
+}

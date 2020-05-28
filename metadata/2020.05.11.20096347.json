@@ -1,0 +1,23 @@
+{
+    "abstract": "Background. COVID-19 infection has limited preventive or therapeutic drug options at this stage. Some of common existing drugs like angiotensin-converting enzyme inhibitors (ACEi), angiotensin II receptor blockers (ARB) and the HMG-CoA reductase inhibitors (statins) have been hypothesised to impact on disease severity. However, up till now, no studies investigating this association were conducted in the most vulnerable and affected population groups, i.e. older people residing in nursing homes. The purpose of this study has been to explore the association of ACEi/ARB and/or statins with clinical manifestations in COVID-19 infected older people residing in nursing homes. Methods and Findings. We undertook a retrospective multi-centre cohort study in two Belgian nursing homes that experienced similar COVID-19 outbreaks. COVID-19 diagnoses were based on clinical suspicion and/or viral presence using PCR of nasopharyngeal samples. A total of 154 COVID-19 positive subjects was identified. The outcomes were defined as 1) serious COVID-19 defined as a long-stay hospital admission (length of stay \u2265 7 days) or death (at hospital or nursing home) within 14 days of disease onset, and 2) asymptomatic, i.e. no disease symptoms in the whole study-period while still being PCR diagnosed. Disease symptoms were defined as any COVID-19-related clinical symptom (e.g. coughing, dyspnoea, sore throat) or sign (low oxygen saturation and fever) for \u2265 2 days out of 3 consecutive days. Logistic regression models with Firth corrections were applied on these 154 subjects to analyse the association between ACEi/ARB and/or statin use with the outcomes. Age, sex, functional status, diabetes and hypertension were used as covariates. Sensitivity analyses were conducted to evaluate the robustness of our statistical significant findings. We found a statistically significant association between statin intake and the absence of symptoms during COVID-19 infection (unadjusted OR 2.91; CI 1.27-6.71; p=0.011), which remained statistically significant after adjusting for age, sex, functional status, diabetes mellitus and hypertension. The strength of this association was considerable and clinically important. Although the effects of statin intake on serious clinical outcome (long-stay hospitalisation or death) were in the same beneficial direction, these were not statistically significant (OR 0.75; CI 0.25-1.85; p=0.556). There was also no statistically significant association between ACEi/ARB and asymptomatic status (OR 1.52; CI 0.62-3.50; p=0.339) or serious clinical outcome (OR 0.79; CI 0.26-1.95; p=0.629). Conclusions. Our data indicate that statin intake in old, frail people could be associated with a considerable beneficial effect on COVID-19 related clinical symptoms. The role of statins and any interaction with renin-angiotensin system drugs need to be further explored in larger observational studies as well as randomised clinical trials.",
+    "author": "Geert Byttebier; Guy De Tre; Luc Belmans; Bart De Spiegeleer; Diemer Van Dijck; Filip Vandaele; Daniel Bean; Anton De Spiegeleer; Antoon Bronselaer; James T Teo; Richard Dobson; Evelien Wynendaele; David Fedson; Christophe Van De Wiele",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20096347",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20096347"
+    },
+    "title": "The effects of ARBs, ACEIs and statins on clinical outcomes of COVID-19 infection among nursing home residents",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Foundation Flanders",
+                    "award-id": [
+                        "1158818N"
+                    ]
+                }
+            ],
+            "funding-statement": "ADS is supported by a grant of Research Foundation Flanders (FWO) (grant number 1158818N)"
+        }
+    ]
+}

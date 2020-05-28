@@ -1,0 +1,29 @@
+{
+    "abstract": "Background: Whether cardiovascular disease (CVD) and its traditional risk factors predict severe coronavirus disease 2019 (COVID-19) is uncertain, in part, because of potential confounding by age and sex. Methods: We performed a systematic review of studies that explored pre-existing CVD and its traditional risk factors as risk factors of severe COVID-19 (defined as death, acute respiratory distress syndrome, mechanical ventilation, or intensive care unit admission). We searched PubMed and Embase for papers in English with original data (\u226510 cases of severe COVID-19). Using random-effects models, we pooled relative risk (RR) estimates and conducted meta-regression analyses. Results: Of the 661 publications identified in our search, 25 papers met our inclusion criteria, with 76,638 COVID-19 patients including 11,766 severe cases. Older age was consistently associated with severe COVID-19 in all eight eligible studies, with RR >~5 in >60-65 vs. <50 years. Three studies showed no change in the RR of age after adjusting for covariate(s). In univariate analyses, factors robustly associated with severe COVID-19 were male sex (10 studies; pooled RR=1.73, [95%CI 1.50-2.01]), hypertension (8 studies; 2.87 [2.09-3.93]), diabetes (9 studies; 3.20 [2.26-4.53]), and CVD (10 studies; 4.97 [3.76-6.58]). RR for male sex was likely to be independent of age. For the other three factors, meta-regression analyses suggested confounding by age. Only four studies reported multivariable analysis, but most of them showed adjusted RR ~2 for hypertension, diabetes, and CVD. No study explored renin-angiotensin system inhibitors as a risk factor for severe COVID-19. Conclusions: Despite the potential for confounding, these results suggest that hypertension, diabetes, and CVD are independently associated with severe COVID-19 and, together with age and male sex, can be used to inform objective decisions on COVID-19 testing, clinical management, and workforce planning.\nCompeting Interest Statement",
+    "author": "Xiao Hu; Minghao Kou; Junichi Ishigami; David Dowdy; Lawrence J Appel; Yejin Mok; Yasuyuki Honda; Kunihiro Matsushita; Yumin Gao; Ning Ding; Mengkun Chen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.05.20054155",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.05.20054155"
+    },
+    "title": "The relationship of COVID-19 severity with cardiovascular disease and its traditional risk factors: A systematic review and meta-analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Save Lives,"
+                },
+                {
+                    "funding-source": "Bloomberg Philanthropies,"
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation,"
+                },
+                {
+                    "funding-source": "Gates Philanthropy"
+                }
+            ],
+            "funding-statement": "This project is supported by Resolve to Save Lives, which is funded by Bloomberg Philanthropies, the Bill and Melinda Gates Foundation, and Gates Philanthropy"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "The real number of people who were truly infected with SARS-CoV-2, is certainly significantly larger than the official record. Few countries have tracking and testing procedures that are sufficiently robust to discover nearly all infections. In most countries they are inadequate, hence the true extent of the pandemic is unknown. The current study proposes the estimate of the COVID-19 extent for countries with sufficiently high number of deaths and cases. The estimate is based on a simple model of mortality. This model was developed for a reference country with a large number of cases and high intensity of COVID-19 testing. The model is then applied to compute apparent mortality in the target and reference countries. The number of cases in the target country is then estimated assuming constant underlying true mortality. The estimate of cases in most countries is significantly higher than the official record. As of April 12, 2020, the global estimate is 5.2 million compared to 1.8 million in the official record. The models developed in this study are available at covid-model.net. The model ignores several factors that are known to influence mortality, such as the demographics and health condition of population, state of epidemic and sociological differences between countries. While the model is rough, it nevertheless provides a unified approach to producing a systematic global estimate of the extent of the COVID-19 epidemic and can be useful for its monitoring.",
+    "author": "Witold R Rudnicki; Rados\u0142aw Piliszek",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20064840",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20064840"
+    },
+    "title": "Estimate of Covid-19 prevalence using imperfect data",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding for this work was received."
+        }
+    ]
+}

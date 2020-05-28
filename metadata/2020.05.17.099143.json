@@ -1,0 +1,41 @@
+{
+    "title": "Computational Study of Ions and Water Permeation and Transportation Mechanisms of the SARS-CoV-2 Pentameric E Protein Channel",
+    "author": "Yipeng Cao, Rui Yang, Wei Wang, Imshik Lee, Ruiping Zhang, Wenwen Zhang, Jiana Sun, Bo Xu, # and Xiangfei Meng 2 #",
+    "date": 2020,
+    "affiliations": [
+        "Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, Tianjin, 300060 P.R. China",
+        "National Supercomputer Center in Tianjin, 300457 P.R. China",
+        "Department of Infection and Immunity, Tianjin Union Medical Center, Nankai University Affiliated Hospital. 300031, P.R. China",
+        "College of Physics, Nankai University, Tianjin, 300071 P.R. China",
+        "Center for Intelligent Oncology, Chongqing University School of Medicine and Chongqing University Cancer Hospital, Chongqing 400030, P.R.China # Corresponding Author",
+        "National Center for Biotechnology Information (NCBI) database"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.17.099143",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.17.099143.pdf"
+    },
+    "abstract": "Coronavirus disease 2019 (COVID-19) is caused by a novel coronavirus (SARS-CoV-2) and represents the causative agent of a potentially fatal disease that is of public health emergency of international concern. Coronaviruses, including SARS-CoV-2, encode an envelope (E) protein, which is a small, hydrophobic membrane protein; the E protein of SARS-CoV-2 has high homology with that of severe acute respiratory syndrome coronavirus. (SARS-CoV) In this study, we provide insights into the function of the SARS-CoV-2 E protein channel and the ion and water permeation mechanisms on the basis of combined in silico methods. Our results suggest that the pentameric E protein promotes the penetration of monovalent ions through the channel. Analysis of the potential mean force (PMF), pore radius and diffusion coefficient reveals that Leu10 and Phe19 are the hydrophobic gates of the channel. In addition, the pore demonstrated a clear wetting/dewetting transition with monovalent cation selectivity under transmembrane voltage, which indicates that it is a hydrophobic voltage-dependent channel. Overall, these results provide structural-basis insights and molecular-dynamic information that are needed to understand the regulatory mechanisms of ion permeability in the pentameric SARS-CoV-2 E protein channel.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "NSFC-31900894",
+                        "NSFC-81974464"
+                    ]
+                },
+                {
+                    "funding-source": "The Science & Technology Development Fund of Tianjin Education Commission for Higher Education",
+                    "award-id": [
+                        "2018KJ067"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by the National Natural Science Foundation of China (NSFC-31900894 and NSFC-81974464) and The Science & Technology Development Fund of Tianjin Education Commission for Higher Education (2018KJ067)"
+        }
+    ]
+}

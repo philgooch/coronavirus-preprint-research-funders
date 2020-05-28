@@ -1,0 +1,35 @@
+{
+    "title": "Potential antiviral options against SARS-CoV-2 infection",
+    "author": "Denis Kainov",
+    "date": 2020,
+    "affiliations": [
+        "Department of Clinical and Molecular Medicine, Norwegian University of Science and Technology, Trondheim 7028, Norway",
+        "Department of Medical Microbiology and",
+        "Department of immunology and transfusion medicine, St. Olavs Hospital, Trondheim 7006, Norway",
+        "Institute of Technology, University of Tartu, Tartu 50090, Estonia"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.091165",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.091165.pdf"
+    },
+    "abstract": "As of May 2020, the number of people infected with SARS-CoV-2 continues to skyrocket, with more than 4,5 million cases worldwide. Both the World Health Organization (WHO) and United Nations (UN) has highlighted the need for better control of SARS-CoV-2 infections. Developing novel virus-specific vaccines, monoclonal antibodies and antiviral drugs against SARS-CoV-2 can be time-consuming and costly. Convalescent plasma and safe-in-man broad-spectrum antivirals (BSAAs) are readily available treatment options. Here we developed a neutralization assay using SARS-CoV-2 virus and monkey VeroE6 cells. We identified most potent sera from recovered patients for treatment of SARS-CoV-2-infected patients. We also screened 136 safe-in-man broad-spectrum antivirals against SARS-CoV-2 infection in Vero-E6 cells and identified antiviral activity of nelfinavir, salinomycin, amodiaquine, obatoclax, emetine and homoharringtonine. We found that combinations of virus-directed drug nelfinavir with host-directed drugs, such as salinomycin, amodiaquine, obatoclax, emetine and homoharringtonine exhibit synergistic effect against SARS-CoV-2 in vitro. Finally, we developed a website to disseminate the knowledge on available and emerging treatments of COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Regional Development Fund,"
+                },
+                {
+                    "funding-source": "Mobilitas Pluss Project",
+                    "award-id": [
+                        "to D.K."
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by the European Regional Development Fund, the Mobilitas Pluss Project MOBTT39 (to D.K.)"
+        }
+    ]
+}

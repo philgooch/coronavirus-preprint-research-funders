@@ -1,0 +1,26 @@
+{
+    "abstract": "Determining the impact of non-pharmaceutical interventions on transmission of the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is paramount for the design and deployment of effective public health policies. Incorporating Apple Maps mobility data into an epidemiological model of daily deaths and hospitalizations allowed us to estimate an explicit relationship between human mobility and transmission in the United States. We find that reduced mobility explains a large decrease in the effective reproductive number attained by April 1st and further identify state-to-state variation in the inferred transmission-mobility relationship. These findings indicate that simply relaxing stay-at-home orders can rapidly lead to outbreaks exceeding the scale of transmission that has occurred to date. Our findings provide quantitative guidance on the impact policies must achieve against transmission to safely relax social distancing measures.",
+    "affiliations": [
+        "University of California, Berkeley Population Center"
+    ],
+    "author": "Joseph A Lewnard; Emily B Fox; Carlos Guestrin; Nicholas J Foti; Andrew C Miller; Nicholas P Jewell",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20094441",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20094441"
+    },
+    "title": "Mobility trends provide a leading indicator of changes in SARS-CoV-2 transmission",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of California, Berkeley"
+                },
+                {
+                    "funding-source": "Population Center"
+                }
+            ],
+            "funding-statement": "JAL was supported by a grant from the University of California, Berkeley Population Center"
+        }
+    ]
+}

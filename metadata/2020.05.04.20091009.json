@@ -1,0 +1,30 @@
+{
+    "abstract": "In our model of the COVID-19 epidemic, infected individuals can be of four types, according whether they are asymptomatic (A) or symptomatic (I), and use a contact tracing mobile phone app (Y) or not (N). We denote by f the fraction of A's, by y the fraction of Y's and by R_0 the average number of secondary infections from a random infected individual. We investigate the effect of non-electronic interventions (voluntary isolation upon symptom onset, quarantining private contacts) and of electronic interventions (contact tracing thanks to the app), depending on the willingness to quarantine, parameterized by four cooperating probabilities. For a given `effective' R_0 obtained with non-electronic interventions, we use non-negative matrix theory and stopping line techniques to characterize mathematically the minimal fraction y_0 of app users needed to curb the epidemic. We show that under a wide range of scenarios, the threshold y_0 as a function of R_0 rises steeply from 0 at R_0=1 to prohibitively large values (of the order of 60-70\\% up) whenever R_0 is above 1.3. Our results show that moderate rates of adoption of a contact tracing app can reduce R_0 but are by no means sufficient to reduce it below 1 unless it is already very close to 1 thanks to non-electronic interventions.",
+    "affiliations": [
+        "Center for Interdisciplinary Research in Biology (CNRS, Coll\u00e8ge de France, Paris)"
+    ],
+    "author": "Amaury Lambert",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20091009",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20091009"
+    },
+    "title": "A mathematical assessment of the efficiency of quarantining and contact tracing in curbing the COVID-19 epidemic",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Center for Interdisciplinary Research in Biology",
+                    "award-id": [
+                        "Coll\u00e8ge de France",
+                        "Paris"
+                    ]
+                },
+                {
+                    "funding-source": "Coll\u00e8ge de France, Paris"
+                }
+            ],
+            "funding-statement": "The author was entirely funded by his hosting institution, the Center for Interdisciplinary Research in Biology (CNRS, Coll\u00e8ge de France, Paris)"
+        }
+    ]
+}

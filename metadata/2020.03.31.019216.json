@@ -1,0 +1,97 @@
+{
+    "title": "Virus-host interactome and proteomic survey of PMBCs from COVID-19 patients reveal potential virulence factors influencing SARS-CoV-2 pathogenesis",
+    "author": "Jingjiao Li, Mingquan Guo, Xiaoxu Tian, Chengrong Liu, Xin Wang, Xing Yang, Ping Wu, Zixuan Xiao, Yafei Qu, Yue Yin, Joyce Fu, Zhaoqin Zhu, Zhenshan Liu, Chao Peng, Tongyu Zhu, and Qiming Liang",
+    "date": 2020,
+    "affiliations": [
+        "Research Center of Translational Medicine, Shanghai Children\u2019s Hospital; Shanghai Institute of Immunology, Department of Immunology and Microbiology, School of Medicine, Shanghai Jiao Tong University, Shanghai, 200025, China",
+        "Shanghai Institute of Phage, Shanghai Public Health Clinical Center, Fudan University, Shanghai, 201508, China",
+        "Department of Laboratory Medicine, Shanghai Public Health Clinical Center, Fudan University, Shanghai, 201508, China",
+        "National Facility for Protein Science in Shanghai, Zhangjiang Lab, Shanghai Advanced Research Institute, Chinese Academy of Sciences, Shanghai, 201210, China",
+        "Faculty of Medicine & Dentistry, University of Alberta, Alberta, Canada",
+        "Department of Statistics, University of California, Riverside, California, USA",
+        "Shanghai Key Laboratory of Organ Transplantation, Zhongshan Hospital, Fudan University, Shanghai, 200032, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.31.019216",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.31.019216.pdf"
+    },
+    "abstract": "The ongoing coronavirus disease (COVID-19) pandemic caused by Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) is a global public health concern due to relatively easy person-to-person transmission and the current lack of effective antiviral therapy. However, the exact molecular mechanisms of SARS-CoV-2 pathogenesis remain largely unknown. We exploited an integrated proteomics approach to systematically investigate intra-viral and virus-host interactomes for the identification of unrealized SARS-CoV2 host targets and participation of cellular proteins in the response to viral infection using peripheral blood mononuclear cells (PBMCs) isolated from COVID-19 patients. Using this approach, we elucidated 251 host proteins targeted by SARS-CoV-2 and more than 200 host proteins that are significantly perturbed in COVID-19 derived PBMCs. From the interactome, we further identified that non-structural protein nsp9 and nsp10 interact with NKRF, a NF-kB repressor, and may precipitate the strong IL-8/IL-6 mediated chemotaxis of neutrophils and overexuberant host inflammatory response observed in COVID-19 patients. Our integrative study not only presents a systematic examination of SARS-CoV-2-induced perturbation of host targets and cellular networks to reflect disease etiology, but also reveals insights into the mechanisms by which SARS-CoV-2 triggers cytokine storms and represents a powerful resource in the quest for therapeutic intervention.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Project of China",
+                    "award-id": [
+                        "2018YFA0900802"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31770176",
+                        "31500667"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Major Project",
+                    "award-id": [
+                        "2020ZX09201001"
+                    ]
+                },
+                {
+                    "funding-source": "Program for Professor of Special Appointment",
+                    "award-id": [
+                        "Eastern Scholar"
+                    ]
+                },
+                {
+                    "funding-source": "Eastern Scholar)"
+                },
+                {
+                    "funding-source": "Shanghai Institutions of Higher"
+                },
+                {
+                    "funding-source": "Shanghai Science and Technology Commission",
+                    "award-id": [
+                        "2017QA1403200"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Municipal Health Commission",
+                    "award-id": [
+                        "2018YQ40",
+                        "201940179"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Municipal Key Clinical Specialty",
+                    "award-id": [
+                        "shslczdzk01102"
+                    ]
+                },
+                {
+                    "funding-source": "Innovative Research Team of High-level Local Universities in Shanghai,"
+                },
+                {
+                    "funding-source": "Interdisciplinary Program of Shanghai Jiao Tong University",
+                    "award-id": [
+                        "YG2020YQ14"
+                    ]
+                },
+                {
+                    "funding-source": "Chinese Academy of Sciences Large Research Infrastructure of Maintenance and Remolding Project",
+                    "award-id": [
+                        "DSS-WXGZ-2020-0001"
+                    ]
+                },
+                {
+                    "funding-source": "Chinese Academy of Science Key Technology Talent Program"
+                }
+            ],
+            "funding-statement": "This work was supported by grants from National Key Research and Development Project of China (2018YFA0900802), National Natural Science Foundation of China (31770176 and 31500667), National Science and Technology Major Project (2020ZX09201001), the Program for Professor of Special Appointment (Eastern Scholar) at Shanghai Institutions of Higher learning, Shanghai Science and Technology Commission (2017QA1403200), Shanghai Municipal Health Commission (2018YQ40 and 201940179), Shanghai Municipal Key Clinical Specialty (shslczdzk01102), Innovative Research Team of High-level Local Universities in Shanghai, the Interdisciplinary Program of Shanghai Jiao Tong University (YG2020YQ14), Chinese Academy of Sciences Large Research Infrastructure of Maintenance and Remolding Project (DSS-WXGZ-2020-0001), and Chinese Academy of Science Key Technology Talent Program"
+        }
+    ]
+}

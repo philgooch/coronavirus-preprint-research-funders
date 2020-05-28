@@ -1,0 +1,16 @@
+{
+    "abstract": "The novel coronavirus pandemic has negative impacts over the health, economy and well-being of the global population. This negative effect is growing with the high spreading rate of the virus. The most critical step to prevent the spreading of the virus is pre-screening and early diagnosis of the individuals. This results in quaranteeing the patients not to effect the healthy population. COVID-19 is the name of the disease caused by the novel coronavirus. It has a high infection rate and it is urgent to diagnose many patients as we can to prevent the spread of the virus at the early stage. Rapid diagnostic tools development is urgent to save lives. MantisCOVID is a cloud-based pre-diagnosis tool to be accessed from the internet. This tool delivers a rapid screening test by analyzing the X-ray Chest Radiograph scans via Artificial Intelligence (AI) and it also evaluates the mortality rate of patients with the synthesis of the patient history with the machine learning methods. This study reveals the methods used over the platform and evaluation of the algorithms via open datasets.",
+    "author": "Mert Burkay Coteli; Berat Tuna Karli; Yagmur Yasar; Cem Coteli",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090779",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090779"
+    },
+    "title": "MantisCOVID: Rapid X-Ray Chest Radiograph and Mortality Rate Evaluation With Artificial Intelligence For COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding is received."
+        }
+    ]
+}

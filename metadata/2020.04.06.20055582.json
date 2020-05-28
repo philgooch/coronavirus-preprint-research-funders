@@ -1,0 +1,26 @@
+{
+    "abstract": "Testing for SARS-CoV-2 in the United States is currently targeted to individuals whose symptoms and/or jobs place them at a high presumed risk of infection. An open question is, what is the share of infections that are undetected under current testing guidelines? To answer this question, we turn to COVID-19 testing data from Iceland. The criteria for testing within the Icelandic medical system, processed by the National University Hospital of Iceland (NUHI), have also been targeted at high-risk individuals, but additionally most Icelanders qualify for voluntary testing through the biopharmaceutical company deCODE genetics. We use results from Iceland's two testing programs to estimate the share of infections that are undetected under standard (NUHI) testing guidelines. Because of complications in the deCODE testing regime, it is not possible to estimate a single value for this this undetected rate; however, a range can be estimated. Our primary estimates for the fraction of infections that are undetected range from 88.7% to 93.6%.",
+    "affiliations": [
+        "National Science Foundation Graduate Research Fellowship under Grant No. 1122374"
+    ],
+    "author": "Karl M Aspelund; Christopher D Walker; James H Stock; Michael Droste",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20055582",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055582"
+    },
+    "title": "Estimates of the Undetected Rate among the SARS-CoV-2 Infected using Testing Data from Iceland",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation Graduate Research Fellowship",
+                    "award-id": [
+                        "1122374"
+                    ]
+                }
+            ],
+            "funding-statement": "This material is based upon work supported by the National Science Foundation Graduate Research Fellowship under Grant No 1122374"
+        }
+    ]
+}

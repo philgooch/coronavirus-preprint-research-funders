@@ -1,0 +1,38 @@
+{
+    "abstract": "Observational data on COVID-19 including hypothesised risk factors for infection and progression are accruing rapidly, often from non-random sampling such as hospital admissions, targeted testing or voluntary participation. Here, we highlight the challenge of interpreting observational evidence from such samples of the population, which may be affected by collider bias. We illustrate these issues using data from the UK Biobank in which individuals tested for COVID-19 are highly selected for a wide range of genetic, behavioural, cardiovascular, demographic, and anthropometric traits. We discuss the sampling mechanisms that leave aetiological studies of COVID-19 infection and progression particularly susceptible to collider bias. We also describe several tools and strategies that could help mitigate the effects of collider bias in extant studies of COVID-19 and make available a web app for performing sensitivity analyses. While bias due to non-random sampling should be explored in existing studies, the optimal way to mitigate the problem is to use appropriate sampling strategies at the study design stage.",
+    "affiliations": [
+        "University of Bristol support the MRC Integrative Epidemiology Unit [MC_UU_12013/1, MC_UU_12013/9, MC_UU_00011/1]. NMD is supported by",
+        "Norwegian Research Council Grant number 295989. GH is supported by the Wellcome Trust and Royal Society [208806/Z/17/Z]"
+    ],
+    "author": "Annie Herbert; Tim T Morris; Kate Tilling; Luisa Zuccolo; Neil M Davies; Matt Tudball; Tom M Palmer; Giulia Mancano; Lindsey Pike; George Davey Smith; Gareth Griffith; Gibran Hemani; Gemma C Sharp",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090506",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090506"
+    },
+    "title": "Collider bias undermines our understanding of COVID-19 disease risk and severity",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Norwegian Research Council Grant",
+                    "award-id": [
+                        "295989"
+                    ]
+                }
+            ],
+            "funding-statement": "NMD is supported by a Norwegian Research Council Grant number 295989"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust and Royal Society",
+                    "award-id": [
+                        "208806/Z/17/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "GH is supported by the Wellcome Trust and Royal Society [208806/Z/17/Z]"
+        }
+    ]
+}

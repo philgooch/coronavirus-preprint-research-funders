@@ -1,0 +1,40 @@
+{
+    "abstract": "Substantial amount of data about the COVID-19 pandemic is generated every day. Yet, data streaming, while considerably visualized, is not accompanied with advanced modelling techniques to provide real-time insights. This study introduces a unified platform which integrates visualization capabilities with advanced statistical methods for predicting the virus spread in the short run, using real-time data. The platform is backed up by advanced time series models to capture any possible non-linearity in the data which is enhanced by the capability of measuring the expected impact of preventive interventions such as social distancing and lockdowns. The platform enables lay users, and experts, to examine the data and develop several customized models with different restriction such as models developed for specific time window of the data. Our policy assessment of the case of Australia, shows that social distancing and travel ban restriction significantly affect the reduction of number of cases, as an effective policy.",
+    "author": "Siroos Shahriari; AKM Azad; Fatemeh Vafaee; Taha Hossein Rashidi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078923",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078923"
+    },
+    "title": "Real-time time-series modelling for prediction of COVID-19 spread and intervention assessment",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Australian Research Council",
+                    "award-id": [
+                        "LP160100450"
+                    ]
+                },
+                {
+                    "funding-source": "Linkage Scheme",
+                    "award-id": [
+                        "LP160100450"
+                    ]
+                }
+            ],
+            "funding-statement": "SS and THR acknowledge the support from the Australian Research Council under Linkage Scheme (LP160100450)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "DECRA Scheme",
+                    "award-id": [
+                        "DE170101346"
+                    ]
+                }
+            ],
+            "funding-statement": "THR acknowledges the support from the Australian research Council under the DECRA Scheme (DE170101346)"
+        }
+    ]
+}

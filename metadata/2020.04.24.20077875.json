@@ -1,0 +1,47 @@
+{
+    "abstract": "Background. Medical editorials have suggested that angiotensin converting enzyme inhibitors (ACEIs) and angiotensin receptor blockers (ARBs) should not be given to people with arterial hypertension during the coronavirus disease 2019 (COVID-19) pandemic because of a potential increased risk of worse clinical outcomes and that calcium channel blockers (CCBs) should be used as an alternative. Methods Using a cohort of 610 COVID-19 cases and 48,667 population-based controls from Zheijang, China we have tested the role of usage of ACEIs, ARBs, CCBs and other medications on risk and severity of COVID 19. Analyses were adjusted for age, sex and BMI and for presence of relevant comorbidities. Findings: Higher BMI, diabetes and cardio/ cerebrovascular disease as independent risk factors for the development of COVID-19. Individuals with hypertension taking CCBs had significantly increased risk [odds ratio (OR)= 1.67 (95% CI 1.2-2.9)) of manifesting symptoms of COVID-19 whereas those taking ARBs and diuretics had significantly lower disease risk (OR=0.24; 95%CI 0.17-0.34 and OR=0.32; 95%CI 0.19-0.57 respectively). Other antihypertensive drugs were not associated with increased risk of severe or critical form of the infection. Use of glucocorticoids was significantly associated with a severe/critical form of COVID-19 (OR= 7.56; 95%CI 1.17-48.93). Interpretation: we found no evidence to alter ARBs or ACEIs therapy in the context of the pandemic. Patients on corticosteroids with COVID-19 are at higher risk of developing a severe form of COVID-19and therefore should be monitored closely.",
+    "affiliations": [
+        "Nottingham Biomedical Research Centre Nottingham University Hospitals NHS Trust and University of Nottingham; Division of Rheumatology, Orthopaedics and Dermatology, School of Medicine, University of Nottingham",
+        "Nottingham Biomedical Research Centre, Nottingham University Hospitals NHS Trust and University of Nottingham; Nottingham Digestive Diseases Centre, School of Medicine, University of Nottingham",
+        "Nottingham Biomedical Research Centre, Nottingham University Hospitals NHS Trust and University of Nottingham; Nottingham Digestive Diseases Centre, School of Medicine, University of Nottingham",
+        "Nottingham Biomedical Research Centre (Reference no: BRC-1215-20003)"
+    ],
+    "author": "Shiqing Yang; Susu Jin; Hongxia Wang; Jingyuan Du; Amrita Vijay; Fanrong Jiang; Huadong Yan; Shun Zhang; Ting Cai; Guruprasad P Aithal; Nanhong Zheng; Lili Liang; Xiaoyan Tan; Shanbo Wang; Ana M Valdes; Kecheng Huang; Yaoren Hu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20077875",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20077875"
+    },
+    "title": "Role of Drugs Affecting the Renin-Angiotensin-Aldosterone System on Susceptibility and Severity of COVID-19: A Large Case-Control Study from Zheijang Province, China.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Social Development Major Projects of Ningbo City",
+                    "award-id": [
+                        "2016C51005"
+                    ]
+                },
+                {
+                    "funding-source": "Medical Health Science and Technology Project of Zhejiang Provincial Health Commission",
+                    "award-id": [
+                        "2018ZD039"
+                    ]
+                },
+                {
+                    "funding-source": "Zhejiang Provincial",
+                    "award-id": [
+                        "LGF20H030006"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR Nottingham Biomedical Research Centre",
+                    "award-id": [
+                        "Reference BRC-1215-20003"
+                    ]
+                }
+            ],
+            "funding-statement": "Funded by the Social Development Major Projects of Ningbo City (2016C51005), Medical Health Science and Technology Project of Zhejiang Provincial Health Commission (2018ZD039), Zhejiang Provincial natural science foundation (LGF20H030006) and by the NIHR Nottingham Biomedical Research Centre (Reference no: BRC-1215-20003)."
+        }
+    ]
+}

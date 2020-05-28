@@ -1,0 +1,20 @@
+{
+    "abstract": "Epidemiologists use mathematical models to predict epidemic trends, and these results are inherently uncertain when parameters are unknown or changing. In other contexts, such as climate, modellers use multi-model ensembles to inform their decision-making: when forecasts align, modellers can be more certain. This paper looks at a sub-set of alternative epidemiological models that focus on the growth rate, and it cautions against relying on the method proposed in (Pike & Saini, 2020): relying on the data for China to calculate future trajectories is likely to be subject to overfitting, a common problem in financial and economic modelling. This paper finds, surprisingly, that the data for China are double-exponential, not exponential; and that different countries are showing a range of different trajectories. The paper proposes using non-parametric and local regression methods to support epidemiologists and policymakers in assessing the relative effectiveness of social distancing policies. All works contained herein are provided free to use worldwide by the author under CC BY 2.0.",
+    "affiliations": [
+        "National Health Commission (National Health Commission, 2020). The R scripts used to run the tests are shown in Appendix",
+        "All works contained herein are provided free to use worldwide by the author under CC BY 2.0"
+    ],
+    "author": "Neil M. Lancastle",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20049049",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20049049"
+    },
+    "title": "Is the impact of social distancing on coronavirus growth rates effective across different settings? A non-parametric and local regression approach to test and compare the growth rate",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding"
+        }
+    ]
+}

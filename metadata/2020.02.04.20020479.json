@@ -1,0 +1,121 @@
+{
+    "abstract": "Background: A novel coronavirus (2019-nCoV) emerged in Wuhan City, China, at the end of 2019 and has caused an outbreak of human-to-human transmission with a Public Health Emergency of International Concern declared by the World Health Organization on January 30, 2020. Aim: We aimed to estimate the potential risk and geographic range of Wuhan novel coronavirus (2019-nCoV) spread within and beyond China from January through to April, 2020. Methods: A series of domestic and international travel network-based connectivity and risk analyses were performed, by using de-identified and aggregated mobile phone data, air passenger itinerary data, and case reports. Results: The cordon sanitaire of Wuhan is likely to have occurred during the latter stages of peak population numbers leaving the city before Lunar New Year (LNY), with travellers departing into neighbouring cities and other megacities in China. We estimated that 59,912 air passengers, of which 834 (95% UI: 478 - 1349) had 2019-nCoV infection, travelled from Wuhan to 382 cities outside of mainland China during the two weeks prior to the lockdown of Wuhan. The majority of these cities were in Asia, but major hubs in Europe, the US and Australia were also prominent, with strong correlation seen between predicted importation risks and reported cases. Because significant spread has already occurred, a large number of airline travellers (3.3 million under the scenario of 75% travel reduction from normal volumes) may be required to be screened at origin high-risk cities in China and destinations across the globe for the following three months of February to April, 2020 to effectively limit spread beyond its current extent. Conclusion: Further spread of 2019-nCoV within China and international exportation is likely to occur. All countries, especially vulnerable regions, should be prepared for efforts to contain the 2019-nCoV infection.\nCompeting Interest Statement",
+    "author": "Alexander Watts; Isaac Bogoch; Hongjie Yu; Weizhong Yang; Shengjie Lai; Andrew J Tatem; Nick Ruktanonchai; Kamran Khan; Xin Lu",
+    "date": 2020,
+    "doi": "10.1101/2020.02.04.20020479",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.04.20020479"
+    },
+    "title": "Assessing spread risk of Wuhan novel coronavirus within and beyond China, January-April 2020: a travel network-based modelling study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1134076"
+                    ]
+                },
+                {
+                    "funding-source": "European Union Horizon",
+                    "award-id": [
+                        "MOOD 874850"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Fund of China",
+                    "award-id": [
+                        "81773498",
+                        "71771213",
+                        "91846301"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Major Project of China",
+                    "award-id": [
+                        "2016ZX10004222-009"
+                    ]
+                },
+                {
+                    "funding-source": "Program of Shanghai",
+                    "award-id": [
+                        "18XD"
+                    ]
+                },
+                {
+                    "funding-source": "Technology Research Leader",
+                    "award-id": [
+                        "18XD1400300"
+                    ]
+                },
+                {
+                    "funding-source": "Hunan Science and Technology Plan Project",
+                    "award-id": [
+                        "2017RS3040",
+                        "2018JJ1034"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by the grants from the Bill & Melinda Gates Foundation (OPP1134076); the European Union Horizon 2020 (MOOD 874850); the National Natural Science Fund of China (81773498, 71771213, 91846301); National Science and Technology Major Project of China (2016ZX10004222-009); Program of Shanghai Academic/Technology Research Leader (18XD1400300); Hunan Science and Technology Plan Project (2017RS3040, 2018JJ1034)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1106427",
+                        "OPP1032350",
+                        "OPP1134076",
+                        "OPP1094793"
+                    ]
+                },
+                {
+                    "funding-source": "Clinton Health Access Initiative,"
+                },
+                {
+                    "funding-source": "UK Department for International Development",
+                    "award-id": [
+                        "106866/Z/15/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "106866/Z/15/Z",
+                        "204613/Z/16/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "AJT is supported by funding from the Bill & Melinda Gates Foundation (OPP1106427, OPP1032350, OPP1134076, OPP1094793), the Clinton Health Access Initiative, the UK Department for International Development (DFID) and the Wellcome Trust (106866/Z/15/Z, 204613/Z/16/Z)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Fund for Distinguished Young Scholars of China",
+                    "award-id": [
+                        "81525023"
+                    ]
+                },
+                {
+                    "funding-source": "Program of Shanghai"
+                },
+                {
+                    "funding-source": "Technology Research Leader",
+                    "award-id": [
+                        "18XD1400300"
+                    ]
+                },
+                {
+                    "funding-source": "United States National Institutes of Health"
+                },
+                {
+                    "funding-source": "Comprehensive International Program for Research on AIDS",
+                    "award-id": [
+                        "AI51915"
+                    ]
+                }
+            ],
+            "funding-statement": "HY is supported by funding from the National Natural Science Fund for Distinguished Young Scholars of China (No 81525023); Program of Shanghai Academic/Technology Research Leader (No 18XD1400300); and the United States National Institutes of Health (Comprehensive International Program for Research on AIDS grant U19 AI51915)"
+        }
+    ]
+}

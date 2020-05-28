@@ -1,0 +1,56 @@
+{
+    "title": "Rapid development of an inactivated vaccine for SARS-CoV-2",
+    "author": "Qiang Gao,$, Linlin Bao,$, Haiyan Mao,$, Lin Wang,$, Kangwei Xu,$, Minnan Yang,$, Yajing Li, Ling Zhu, Nan Wang, Zhe Lv, Hong Gao, Xiaoqin Ge, Biao Kan, Yaling Hu, Jiangning Liu, Fang Cai, Deyu Jiang, Yanhui Yin, Chengfeng Qin, Jing Li, Xuejie Gong, Xiuyu Lou, Wen Shi, Dongdong Wu, Hengming Zhang, Lang Zhu, Wei Deng, Yurong Li",
+    "date": 2020,
+    "affiliations": [
+        "Key Laboratory of Human Disease Comparative Medicine, Chinese Ministry of Health, Beijing Key Laboratory for Animal Models of Emerging and Remerging Infectious Diseases, Institute of Laboratory Animal Science, Chinese Academy of Medical Sciences and Comparative Medicine Center, Peking Union Medical College, Beijing, China",
+        "CAS Key Laboratory of Infection and Immunity, National Laboratory of Macromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, China",
+        "Department of Microbiology, Zhejiang Provincial Center for Disease Control and Prevention, Hangzhou, China",
+        "National Institute for Communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Changping, Beijing, China",
+        "Institute of Microbiology and Epidemiology, Academy of Military Medical Sciences, Beijing, China",
+        "Division of Respiratory Virus Vaccines, National Institute for Food and Drug Control, Beijing, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.17.046375",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.17.046375.pdf"
+    },
+    "abstract": "The COVID-19 pandemic caused by SARS-CoV-2 has brought about an unprecedented crisis, taking a heavy toll on human health, lives as well as the global economy. There are no SARS-CoV-2-specific treatments or vaccines available due to the novelty of this virus. Hence, rapid development of effective vaccines against SARS-CoV-2 is urgently needed. Here we developed a pilot-scale production of a purified inactivated SARS-CoV-2 virus vaccine candidate (PiCoVacc), which induced SARS-CoV-2-specific neutralizing antibodies in mice, rats and non-human primates. These antibodies potently neutralized 10 representative SARS-CoV-2 strains, indicative of a possible broader neutralizing ability against SARS-CoV-2 strains circulating worldwide. Immunization with two different doses (3\u03bcg or 6 \u03bcg per dose) provided partial or complete protection in macaques against SARS-CoV-2 challenge, respectively, without any antibody-dependent enhancement of infection. Systematic evaluation of PiCoVacc via monitoring clinical signs, hematological and biochemical index, and histophathological analysis in macaques suggests that it is safe. These data support the rapid clinical development of SARS-CoV-2 vaccines for humans.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Program",
+                    "award-id": [
+                        "2020YFC0842100",
+                        "2020YFA0707500"
+                    ]
+                },
+                {
+                    "funding-source": "Strategic Priority Research Program",
+                    "award-id": [
+                        "XDB29010000",
+                        "Z201100005420006"
+                    ]
+                }
+            ],
+            "funding-statement": "Work was supported by the National Key Research and Development Program (2020YFC0842100, 2020YFA0707500), the Strategic Priority Research Program (XDB29010000) and the Beijing science and technology plan (Z201100005420006)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Xiangxi Wang"
+                },
+                {
+                    "funding-source": "Ten Thousand Talent Program and the NSFS Innovative Research Group",
+                    "award-id": [
+                        "81921005"
+                    ]
+                }
+            ],
+            "funding-statement": "Xiangxi Wang was supported by Ten Thousand Talent Program and the NSFS Innovative Research Group (No 81921005)"
+        }
+    ]
+}

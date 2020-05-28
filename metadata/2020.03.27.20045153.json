@@ -1,0 +1,38 @@
+{
+    "abstract": "The ongoing SARS-CoV-2 outbreak has killed over twenty-one thousand and sickened over four hundred thousand people worldwide, posing a great challenge to global public health. A sensitive and accurate diagnosis method will substantially help to control disease expansion. Here, we developed a chemiluminescence-immunoassay method based on the recombinant nucleocapsid antigen and the magnetic beads for diagnosis of SARS-CoV-2 infections and surveillance of antibody changing pattern. Serums from 29 healthy individuals, 51 tuberculosis patients, and 79 SARS-CoV-2 confirmed patients were employed to evaluate the performance of this approach. Compared to the IgM testing, the IgG testing was more reliable in which it identified 65 SARS-CoV-2 infections from the 79 confirmed patients and only two false-positive cases from the 80 control group with a sensitivity and specificity reaching 82.28% and 97.5%, respectively. However, only a slight difference (not statistically significant) in the detected cases of SARS-CoV-2 infections was observed between the IgM and IgG testing manner in patients at a different time of onset of disease. A performance comparison between an ELISA kit using the same nucleocapsid antigen and our chemiluminescence method was undertaken. The same false-positive cases were seen in both methods from the paired control group, while ELISA kit can only detect half of the SARS-CoV-2 infections from paired SARS-CoV-2 confirmed patients group than that of the chemiluminescence method, indicating a higher performance for the chemiluminescence-immunoassay approach. Together, our studies provide a useful and valuable serological testing tool for the diagnosis of SARS-CoV-2 infections in the community.",
+    "affiliations": [
+        "National Natural Science Funds of China (81802060), the start-up funding of Shenzhen University and the National Science and Technology Major Project (2017ZX10201301)"
+    ],
+    "author": "Mingxia Zhang; Xinchun Chen; Yunlong Hu; Jiubiao Guo; Dachuan Lin; Yuzhong Xu; Yi Cai; Zheng Zhang; Kaisong Huang; Lei Liu; Youchao Dai; Qianting Yang",
+    "date": 2020,
+    "doi": "10.1101/2020.03.27.20045153",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.27.20045153"
+    },
+    "title": "Evaluations of serological test in the diagnosis of 2019 novel coronavirus (SARS-CoV-2) infections during the COVID-19 outbreak",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Guangdong Provincial Science and Technology Program",
+                    "award-id": [
+                        "2019b030301009"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Funds of China",
+                    "award-id": [
+                        "81802060"
+                    ]
+                },
+                {
+                    "funding-source": "Shenzhen University and the National Science and Technology Major Project",
+                    "award-id": [
+                        "2017ZX10201301"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is supported by Guangdong Provincial Science and Technology Program (No 2019b030301009), the National Natural Science Funds of China (81802060), the start-up funding of Shenzhen University and the National Science and Technology Major Project (2017ZX10201301)"
+        }
+    ]
+}

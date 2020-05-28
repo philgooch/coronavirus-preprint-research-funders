@@ -1,0 +1,23 @@
+{
+    "abstract": "Recently classified as a pandemic by WHO, novel Corononavirus 2019 has affected almost every corner of the globe causing human deaths in a range of hundred thousands. The virus having its roots in Wuhan (China) has been spread over the world by its own property to change itself accordingly. These changes correspond to its transmission and pathogenicity due to which the concept of social distancing appeared into the picture. In this paper, a few findings from the whole genome sequence analysis of viral genome sequences submitted from India are presented. The data used for analysis comprises 440 collective genome sequences of virus submitted in GenBank, GISAID, and SRA projects, from around the world as well as 28 viral sequences from India. Multiple sequence alignment of all genome sequences was performed and analysed. A novel non-synonymous mutation 4809C>T (S1515F) in NSP3 gene of SARS-CoV2 Indian strains is reported along with other frequent and important changes from around the world: 3037C>T, 14408C>T, and 23403A>G. The novel change was observed in samples collected in the month of March, whereas was found to be absent in samples collected in January with the respective persons\u2019 travel history to China. Phylogenetic analysis clustered the sequences with this change as one separate clade. Mutation was predicted as stabilising change by insilco tool DynaMut. A second patient in the world to our knowledge with multiple (Wuhan and USA) strain contraction was observed in this study. The infected person is among the two early infected patients with travel history to China. Strains sequenced in Iran stood out to have different variants, as most of the reported frequent variants were not observed. The objective of this paper is to highlight the similarities and changes observed in the submitted Indian viral strains. This helps to keep track on the activity, that how virus is changing into a new subtype. Major strains observed were European with the novel change in India and other being emergent clade of Iran. Its important to observe the changes in NSP3 gene, as this gene has been reported with extensive positive selection as well as potential drug target. Extensive Positive Selection Drives the Evolution of Nonstructural Proteins. With the limited number of sequences this was the only frequent novel non-synonymous change observed from Indian strains, thereby making this change vulnerable for investigation in future. This paper has a special focus on tracking of Indian viral sequences submitted in public domain.",
+    "affiliations": [
+        "Indian Institute of Technology Jodhpur, India (grant no. I/SEED/SPU/20160010)"
+    ],
+    "author": "Sushmita Paul; Aditi Joshi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.041301",
+    "identifiers": {
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.14.041301"
+    },
+    "title": "Phylogenetic Analysis of the Novel Coronavirus Reveals Important Variants in Indian Strains",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Indian Institute of Technology Jodhpur, India"
+                }
+            ],
+            "funding-statement": "This work is partially supported by the seed grant program of the Indian Institute of Technology Jodhpur, India (grant no"
+        }
+    ]
+}

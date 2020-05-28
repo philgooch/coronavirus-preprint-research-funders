@@ -1,0 +1,32 @@
+{
+    "title": "Structural Basis of SARS-CoV-2 Spike Protein Priming by TMPRSS2",
+    "author": "Mushtaq Hussain, PhD Bioinformatics and Molecular Medicine Research Group, Dow College of Biotechnology, Dow University of Health Sciences Karachi-Pakistan",
+    "date": 2020,
+    "affiliations": [
+        "Dow College of Biotechnology, Dow University of Health Sciences Karachi-Pakistan",
+        "Nusrat Jabeen, PhD Department of Microbiology, University of Karachi Karachi-Pakistan",
+        "Dow College of Biotechnology, Dow University of Health Sciences Karachi-Pakistan",
+        "Dow College of Biotechnology, Dow University of Health Sciences Karachi-Pakistan",
+        "Dow College of Biotechnology, Dow University of Health Sciences Karachi-Pakistan",
+        "Dow College of Biotechnology, Dow University of Health Sciences Karachi-Pakistan",
+        "Dow College of Biotechnology, Dow University of Health Sciences Karachi-Pakistan",
+        "Dow College of Biotechnology, Dow University of Health Sciences Karachi-Pakistan"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.21.052639",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.21.052639.pdf"
+    },
+    "abstract": "Entry of SARS-CoV-2, etiological agent of COVID-19, in the host cell is driven by the interaction of its spike protein with human ACE2 receptor and a serine protease, TMPRSS2. Although complex between SARS-CoV-2 spike protein and ACE2 has been structurally resolved, the molecular details of the SARS-CoV-2 and TMPRSS2 complex are still elusive. TMPRSS2 is responsible for priming of the viral spike protein that entails cleavage of the spike protein at two potential sites, Arg685/Ser686 and Arg815/Ser816. The present study aims to investigate the conformational details of complex between TMPRSS2 and SARS-CoV-2 spike protein, in order to discern the finer details of the priming of viral spike and to point candidate drug targets. Briefly, full length structural model of TMPRSS2 was developed and docked against the resolved structure of SARS-CoV-2 spike protein with directional restraints of both cleavage sites. The docking simulations showed that TMPRSS2 interacts with the two different loops of SARS-CoV-2 spike protein, each containing different cleavage sites. Key functional residues of TMPRSS2 (His296, Ser441 and Ser460) were found to interact with immediate flanking residues of cleavage sites of SARS-CoV-2 spike protein. Compared to the N-terminal cleavage site (Arg685/Ser686), TMPRSS2 region that interact with C-terminal cleavage site (Arg815/Ser816) of the SARS-CoV-2 spike protein was predicted as relatively more druggable. In summary, the present study provide structural characteristics of molecular complex between human TMPRSS2 and SARS-CoV-2 spike protein and points to the candidate drug targets that could further be exploited to direct structure base drug designing.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "spike protein",
+        "TMPRSS2"
+    ],
+    "funding": [
+        {}
+    ]
+}

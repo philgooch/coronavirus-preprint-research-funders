@@ -1,0 +1,56 @@
+{
+    "title": "RdRp mutations are associated with SARS-CoV-2 genome evolution",
+    "author": "Do\u011fa Eskier, G\u00f6khan Karak\u00fclah, Asl\u0131 Suner, Yavuz Oktay",
+    "date": 2020,
+    "affiliations": [
+        "Biomedicine and Genome Center (IBG), 35340, \u0130nciralt\u0131, \u0130zmir, Turkey",
+        "\u0130zmir International Biomedicine and Genome Institute (iBG-\u0130zmir), Dokuz Eyl\u00fcl University, 35340, \u0130nciralt\u0131, \u0130zmir, Turkey",
+        "Department of Biostatistics and Medical Informatics, Faculty of Medicine, Ege University, \u0130zmir, Turkey",
+        "Faculty of Medicine, Department of Medical Biology, Dokuz Eyl\u00fcl University, 35340, \u0130nciralt\u0131, \u0130zmir, Turkey"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.20.104885",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.20.104885.pdf"
+    },
+    "abstract": "COVID-19, caused by the novel SARS-CoV-2 virus, started in China in late 2019, and soon became a global pandemic. With the help of thousands of viral genome sequences that have been accumulating, it has become possible to track the evolution of viral genome over time as it spread across the world. An important question that still needs to be answered is whether any of the common mutations affect the viral properties, and therefore the disease characteristics. Therefore, we sought to understand the effects of mutations in RNAdependent RNA polymerase (RdRp), particularly the common 14408C>T mutation, on",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "RdRp",
+        "mutation rate",
+        "RNA-dependent RNA polymerase"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Izmir Biomedicine and Genome Center"
+                },
+                {
+                    "funding-source": "Scientific and Technological Research Council of Turkey",
+                    "award-id": [
+                        "IBG-COVID19"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors also would like to extend their thanks to Izmir Biomedicine and Genome Center (IBG) COVID19 platform IBGCOVID19 for their support in implementing the study and the Scientific and Technological Research Council of Turkey (TUBITAK) for their financial support of IBG-COVID19"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding YO"
+                },
+                {
+                    "funding-source": "Turkish Academy of Sciences Young Investigator Program"
+                },
+                {
+                    "funding-source": "Grant Disclosures Not"
+                }
+            ],
+            "funding-statement": "Funding YO is supported by the Turkish Academy of Sciences Young Investigator Program (T\u00dcBAGEB\u0130P) Grant Disclosures Not applicable"
+        }
+    ]
+}

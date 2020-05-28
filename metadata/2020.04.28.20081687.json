@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Diagnostic tests for SARS-CoV-2 infection (mostly RT-PCR and Computed Tomography) are not widely available in numerous countries, expensive and with imperfect performance Methods: This multicenter retrospective study aimed to determine a pre-test probability score for SARS-CoV-2 infection based on clinical and biological variables. Patients were recruited from emergency and infectious disease departments and were divided into a training and a validation cohort. Demographic characteristics, clinical symptoms, and results of blood tests (complete white blood cell count, serum electrolytes and CRP) were collected. The pre-test probability score was derived from univariate analyses between patients and controls, followed by multivariate binary logistic analysis to determine the independent variables associated with SARS-CoV-2 infection. Points were assigned to each variable to create the PARIS score. ROC curve analysis determined the area under the curve (AUC) Findings: One hundred subjects with clinical suspicion of SARS-CoV-2 infection were included in the training cohort, and 300 other consecutive individuals were included in the validation cohort. Low lymphocyte (<1.3 G/L), eosinophil (<0.06G/L), basophil (<0.04G/L) and neutrophil counts (<5G/L) were associated with a high probability of SARS-CoV-2 infection. No clinical variable was statistically significant. The score had a good performance in the validation cohort (AUC=0.889 (CI: [0.846-0.932]; STD=0.022) with a sensitivity and Positive Predictive Value of high-probability score of 80.3% and 92.3% respectively. Furthermore, a low-probability score excluded SARS-CoV-2 infection with a Negative Predictive Value of 99.5% Interpretation: The PARIS score based on complete white blood cell count has a good performance to categorize the pre-test probability of SARS-CoV-2 infection. It could help clinicians avoid diagnostic tests in patients with a low-probability score and conversely keep on testing individuals with high-probability score but negative RT-PCR or CT. It could prove helpful in countries with a low-availability of PCR and/or CT during the current period of pandemic\nCompeting Interest Statement",
+    "author": "Benoit Doumenc; Guillaume Madelin; Fadila Mihoubi; Marie-Pierre Revel; Guillaume Chassagnon; Jean-Luc Drap\u00e9; Sebastien Beaune; Rahul D Mali; Ines Saab; Robert Burns; Ahmed Mekki; Robert-Yves Carlier; Deborah Eshagh; Antoine Feydy; Mickael Tordjman; Enora Guillo; Simon Bessis",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20081687",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20081687"
+    },
+    "title": "Pre-test probability for SARS-Cov-2-related Infection Score: the PARIS score",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "title": "A Computational Approach to Design Potential siRNA Molecules as a",
+    "author": "Prospective Tool for Silencing Nucleocapsid Phosphoprotein and",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biochemistry and Molecular Biology, University of Dhaka, Bangladesh"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.10.036335",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.10.036335.pdf"
+    },
+    "abstract": "An outbreak, caused by a RNA virus, SARS-CoV-2 named COVID-19 has become pandemic with a magnitude which is daunting to all public health institutions in the absence of specific antiviral treatment. Surface glycoprotein and nucleocapsid phosphoprotein are two important proteins of this virus facilitating its entry into host cell and genome replication. Small interfering RNA (siRNA) is a prospective tool of the RNA interference (RNAi) pathway for the control of human viral infections by suppressing viral gene expression through hybridization and neutralization of target complementary mRNA. So, in this study, the power of RNA interference technology was harnessed to develop siRNA molecules against specific target genes namely, nucleocapsid phosphoprotein gene and surface glycoprotein gene. Conserved sequence from 139 SARS-CoV-2 strains from around the globe was collected to construct 78 siRNA that can inactivate nucleocapsid phosphoprotein and surface glycoprotein genes. Finally, based on GC content, free energy of folding, free energy of binding, melting temperature and efficacy prediction process 8 siRNA",
+    "keywords": [
+        "SARS-CoV-2",
+        "Nucleocapsid phosphoprotein",
+        "Surface glycoprotein",
+        "siRNA",
+        "siDirect"
+    ],
+    "funding": [
+        {}
+    ]
+}

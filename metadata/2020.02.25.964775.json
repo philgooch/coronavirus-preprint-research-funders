@@ -1,0 +1,48 @@
+{
+    "title": "Comparative analysis of primer-probe sets for the laboratory confirmation of SARS-CoV-2",
+    "author": "Yu Jin Jung, Gun-Soo Park, Jun Hye Moon, Keunbon Ku, Seung-Hwa Beak, Seil Kim, Edmond Changkyun Park, Daeui Park, Jong-Hwan Lee, Cheol Woo Byeon, Joong Jin Lee, Jin-Soo Maeng, Seong Jun Kim, Seung Il Kim, Bum-Tae Kim, Min Jun Lee, and Hong Gi Kim",
+    "date": 2020,
+    "affiliations": [
+        "Center for Convergent Research of Emerging Virus Infection, Korea Research Institute of Chemical Technology, Daejeon 34114, Republic of Korea",
+        "Research Group of Food Processing, Korea Food Research Institute, Wanju-gun, Jeollabuk-do 55365, Republic of Kore",
+        "Department of Molecular Diagnostics, WELLS BIO, INC, MagokJungang 8-ro 1-gil, Gangseo-gu, Seoul, Republic of Korea",
+        "Department of Predictive Toxicology, Korea Institute of Toxicology, Daejeon 34114, Republic of Korea",
+        "Division of Chemical and Medical Metrology, Center for Bioanalysis, Korea Research Institute of Standards and Science, Daejeon 34113, Republic of Korea",
+        "Research Center for Bioconvergence Analysis, Korea Basic Science Institute, Cheongju 28119, Republic of Korea",
+        "Universit\u00e4tsmedizin Berlin Institute of Virology (Germany), The University of Hong Kong (Hong Kong), National Institute of Infectious Disease, Department of virology III (Japan), China CDC (China), and National Institute of Health (Thailand). All of the DNA oligonucleotides were synthesized from Neoprobe (Daejeon, South Korea). The sequences of primer-probe sets and their locations at viral RNA (GenBank MN908947.3) were listed in Figure 1 and Table",
+        "Seven of the ten sets were derived from the N gene, and the other three sets were derived from Orf1 gene (RdRp, ORF 1b-Nsp14, and ORF 1-Nsp10). All DNA oligonucleotides were resuspended in nuclease-free water before use"
+    ],
+    "journal": "Keywords",
+    "volume": "2",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.25.964775",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.25.964775.pdf"
+    },
+    "abstract": "Coronavirus disease 2019 (COVID-19) is newly emerging human infectious diseases, which is caused by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2, also previously known as 2019-nCoV). Within two months of the outbreak, more than 80,000 cases of COVID-19 have been confirmed worldwide. Since the human to human transmission occurred easily and the human infection is rapidly increasing, the sensitive and early diagnosis is essential to prevent the global outbreak. Recently, World Health Organization (WHO) announced various primer and probe sets for SARS-CoV-2 previously developed in China, Germany, Hong Kong, Japan, Thailand, and USA. In this study, we compared the ability to detect SARS-CoV-2 RNA among the seven primerprobe sets for N gene and the three primer-probe sets for Orf1 gene. The result of the comparative analysis represented that the \u20182019-nCoV_N2, N3\u2019 of USA and the \u2018ORF1ab\u2019 of China are the most sensitive primer-probe sets for N and Orf1 genes, respectively. Therefore, the appropriate combination from ORF1ab (China), 2019nCoV_N2, N3 (USA), and NIID_2019-nCOV_N (Japan) sets should be selected for the sensitive and reliable laboratory confirmation of SARS-CoV-2.",
+    "keywords": [
+        "SARS-CoV-2",
+        "real-time qPCR",
+        "molecular diagnosis",
+        "2019-nCoV",
+        "COVID-19"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Research Council of Science and Technology"
+                },
+                {
+                    "funding-source": "Ministry of Science and ICT",
+                    "award-id": [
+                        "CRC\u201016\u201001\u2010KRICT"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by National Research Council of Science and Technology grant by the Ministry of Science and ICT (Grant No CRC\u201016\u201001\u2010KRICT)"
+        }
+    ]
+}

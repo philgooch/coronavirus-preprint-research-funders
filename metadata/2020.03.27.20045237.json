@@ -1,0 +1,26 @@
+{
+    "abstract": "SARS-CoV2 spread is hard to control, as asymptomatic people contribute to transmission. Currently, Covid-19 mitigation imposes social distancing and isolates the diseased. This slows down virus spread, eases stress on health care systems and thereby reduces the death toll. However, this strategy takes a high economic toll, and virus transmission will surge again if measures are lifted. App-based contact tracing of symptomatic cases and isolating their contacts has been proposed as an alternative, but may not suffice for mitigation, as asymptomatic infections remain unidentified. Here, we evaluate complementary mitigation strategies relying on virus-RNA testing to detect and quarantine both, symptomatic and asymptomatic cases. Epidemic dynamics modeling shows that stopping the pandemic by mass testing alone is unrealistic, as we lack enough tests. However, realistic numbers of tests may suffice in a smart-testing strategy, e.g. when biasing tests towards people with exceptionally high numbers of contacts. These people are at particularly high risk to become infected (with or without symptoms) and transmit the virus. A mitigation strategy combining smart testing with contact counting (STeCC) and contact tracing in one app would reduce R0 by 2.4-fold (e.g. from R0=2.4 to R0=1) with realistic test numbers (\u2248166 per 100'000 people per day) when a realistic fraction of smartphone owners use the app (\u224872%, i.e. \u224850% in total population). Thereby, STeCC expands the portfolio of mitigation strategies and may help easing social distancing without compromising public health.",
+    "affiliations": [
+        "Swiss National Science Foundation (grant number 174060)"
+    ],
+    "author": "Wolf-Dietrich Hardt; Hossein Gorji; David F Jenny; Markus Arnoldini; Patrick Jenny",
+    "date": 2020,
+    "doi": "10.1101/2020.03.27.20045237",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.27.20045237"
+    },
+    "title": "STeCC: Smart Testing with Contact Counting Enhances Covid-19 Mitigation by Bluetooth App Based Contact Tracing",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Swiss National Science Foundation",
+                    "award-id": [
+                        "174060"
+                    ]
+                }
+            ],
+            "funding-statement": "HG acknowledges funding from the Swiss National Science Foundation (grant number 174060)"
+        }
+    ]
+}

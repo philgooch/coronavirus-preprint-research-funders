@@ -1,0 +1,16 @@
+{
+    "abstract": "The ongoing COVID-19 pandemic is one of the major health emergencies in decades that affected almost every country in the world. As of May 10, 2020, it has caused an outbreak with more than 41,78,000 confirmed infections and more than 2,83,000 reported deaths globally. Due to the unavailability of an effective treatment (or vaccine) and insufficient evidence regarding the transmission mechanism of the epidemic, the world population is currently in a vulnerable position. The daily cases data sets of COVID-19 for profoundly affected countries represent a stochastic process comprised of deterministic and stochastic components. This study proposes an integrated deterministic-stochastic approach to predict the long-term trajectories of the COVID-19 cases for Italy and Spain. The deterministic component of the daily-cases univariate time-series is assessed by an extended SIR (SIRCX) model whereas its stochastic component is modeled using an autoregressive (AR) time series model. The proposed integrated SIRCX-AR (ISA) approach based on two operationally distinct modeling paradigms utilizes the superiority of both the deterministic SIRCX and stochastic AR models to find the long-term trajectories of the epidemic curves. Experimental analysis based on the proposed ISA model suggests that the estimated numbers of cases in Italy and Spain between 11 May, 2020 -- 09 June, 2020 will be 10982 (6383--15582) and 13731 (3395--29013), respectively. Additionally, the expected number of daily cases on 09 July, 2020 for Italy and Spain are estimated to be 30 (0--183) and 92 (0--602), respectively. These log-term forecasts for Italy and Spain of the coming outbreaks will be very useful for the effective allocation of health care resources to mitigate COVID-19.",
+    "author": "Tanujit Chakraborty; Indrajit Ghosh",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20101303",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20101303"
+    },
+    "title": "An integrated deterministic-stochastic approach for predicting the long-term trajectories of COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None."
+        }
+    ]
+}

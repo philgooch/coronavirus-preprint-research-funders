@@ -1,0 +1,39 @@
+{
+    "abstract": "Estimates of the reproductive number for novel pathogens such as SARS-CoV-2 are essential for understanding the potential trajectory of the epidemic and the level of intervention that is needed to bring the epidemic under control. However, most methods for estimating the basic reproductive number (R0) and time-varying effective reproductive number (Rt) assume that the fraction of cases detected and reported is constant through time. We explore the impact of secular changes in diagnostic testing and reporting on estimates of R0 and Rt using simulated data. We then compare these patterns to data on reported cases of COVID-19 and testing practices from different United States (US) states. We find that changes in testing practices and delays in reporting can result in biased estimates of R0 and Rt. Examination of changes in the daily number of tests conducted and the percent of patients testing positive may be helpful for identifying the potential direction of bias. Changes in diagnostic testing and reporting processes should be monitored and taken into consideration when interpreting estimates of the reproductive number of COVID-19.",
+    "affiliations": [
+        "National Institutes of Health/National Institute of Allergy and Infectious Diseases (NIH/NIAID): R01AI137093 (VEP, JLW, DMW), R01AI112970 (VEP), R01AI123208 (DMW), and R01AI146555 (NAM, TC)"
+    ],
+    "author": "Virginia E. Pitzer; Melanie Chitwood; Joshua L. Warren; Ted Cohen; Joshua Havumaki; Nicolas A. Menzies; Daniel M. Weinberger; Stephanie Perniciaro",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20073338",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20073338"
+    },
+    "title": "The impact of changes in diagnostic testing practices on estimates of COVID-19 transmission in the United States",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of"
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases",
+                    "award-id": [
+                        "NIH/NIAID",
+                        "R01AI137093"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R01AI137093",
+                        "R01AI112970",
+                        "R01AI123208",
+                        "R01AI146555"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the following grants from the National Institutes of Health/National Institute of Allergy and Infectious Diseases (NIH/NIAID): R01AI137093 (VEP, JLW, DMW), R01AI112970 (VEP), R01AI123208 (DMW), and R01AI146555 (NAM, TC)"
+        }
+    ]
+}

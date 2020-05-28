@@ -1,0 +1,71 @@
+{
+    "title": "SARS-CoV-2 Productively Infects Human Gut Enterocytes",
+    "author": "Hans Clevers",
+    "date": 2020,
+    "affiliations": [
+        "Viroscience Department, Erasmus Medical Center, Rotterdam, Netherlands",
+        "Oncode Institute, Hubrecht Institute, Royal Netherlands Academy of Arts and Sciences and University Medical Center, Uppsalalaan 8, Utrecht, 3584 CT, Netherlands",
+        "The Maastricht Multimodal Molecular Imaging Institute, Maastricht University, 6229 ER Maastricht, Netherlands",
+        "Center for Molecular Medicine and Oncode Institute, University Medical Centre Utrecht, Utrecht, Netherlands",
+        "Hartwig Medical Foundation, Amsterdam, Netherlands"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.25.060350",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.25.060350.pdf"
+    },
+    "abstract": "COVID-19, caused by SARS-CoV-2, is an influenza-like disease with a respiratory route of transmission, yet clinical evidence suggests that the intestine may present another viral target organ. Indeed, the SARS-CoV-2 receptor angiotensin converting enzyme 2 (ACE2) is highly expressed on differentiated enterocytes. In human small intestinal organoids, enterocytes were readily infected by SARS-CoV and SARS-CoV-2 as demonstrated by confocal- and electron-microscopy. Consequently, significant titers of infectious viral particles were measured. mRNA expression analysis revealed strong induction of a generic viral response program. We conclude that intestinal epithelium supports SARS-CoV-2 replication.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding This"
+                },
+                {
+                    "funding-source": "ERC Advanced Grant",
+                    "award-id": [
+                        "67013"
+                    ]
+                },
+                {
+                    "funding-source": "Lung Foundation Netherlands,"
+                },
+                {
+                    "funding-source": "NWO Grant"
+                },
+                {
+                    "funding-source": "PJP & RBGR"
+                },
+                {
+                    "funding-source": "Dutch Technology Foundation STW",
+                    "award-id": [
+                        "UPON 14207"
+                    ]
+                },
+                {
+                    "funding-source": "PJP and RBGR"
+                },
+                {
+                    "funding-source": "European Union\u2019s Horizon"
+                },
+                {
+                    "funding-source": "Research and Innovation Programme",
+                    "award-id": [
+                        "766970",
+                        "Q-SORT",
+                        "H2020-FETOPEN-1-2016-2017"
+                    ]
+                },
+                {
+                    "funding-source": "KK & RBGR"
+                },
+                {
+                    "funding-source": "PJP & RGBR"
+                }
+            ],
+            "funding-statement": "Funding This work was supported by ERC Advanced Grant 67013 and by Lung Foundation Netherlands, and by NWO Grant 022.005.032. KK, JQD, PJP & RBGR received funding from the Dutch Technology Foundation STW (UPON 14207). PJP and RBGR acknowledge funding from the European Union\u2019s Horizon 2020 Research and Innovation Programme under Grant Agreement No 766970 Q-SORT (H2020-FETOPEN-1-2016-2017). Author contributions ML, JB and JV performed experiments and designed the study. KK & JQD prepared samples. KK & RBGR performed imaging. KK, JPvS, PJP & RGBR interpreted results. TB, AM, SR, DS and MG measured virus titers. JP analyzed RNAseq data. EC performed sequencing. MK, BH and HC supervised."
+        }
+    ]
+}

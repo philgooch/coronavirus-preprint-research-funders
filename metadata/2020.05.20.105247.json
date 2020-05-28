@@ -1,0 +1,79 @@
+{
+    "title": "rVSV-SARS2 ms-figs-FINAL for submission-V2-KC-05202020",
+    "author": "Kartik Chandran",
+    "date": 2020,
+    "affiliations": [
+        "Department of Microbiology and Immunology, Albert Einstein College of Medicine, New York, NY 10461, USA",
+        "Department of Biochemistry, Albert Einstein College of Medicine, New York, NY 10461, USA 3U.S. Army Medical Research Institute of Infectious Diseases, Frederick, MD 21702, USA",
+        "Department of Chemistry and Life Science, United States Military Academy at West Point, West Point, NY 10996, USA",
+        "Division of Infectious Diseases, Department of Medicine, Albert Einstein College of Medicine and Montefiore Medical Center, New York, NY 10461, USA",
+        "The Geneva Foundation, 917 Pacific Avenue, Tacoma, WA 98402, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.20.105247",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.20.105247.pdf"
+    },
+    "abstract": "There is an urgent need for vaccines and therapeutics to prevent and treat COVID-19. Rapid SARS-CoV-2 countermeasure development is contingent on the availability of robust, scalable, and readily deployable surrogate viral assays to screen antiviral humoral responses, and define correlates of immune protection, and to down-select candidate antivirals. Here, we describe a highly infectious recombinant vesicular stomatitis virus bearing the SARS-CoV-2 spike glycoprotein S as its sole entry glycoprotein that closely resembles the authentic agent in its entry-related properties. We show that the neutralizing activities of a large panel of COVID-19 convalescent sera can be assessed in high-throughput fluorescent reporter assay with rVSVSARS-CoV-2 S and that neutralization of the rVSV and authentic SARS-CoV-2 by spikespecific antibodies in these antisera is highly correlated. Our findings underscore the utility of rVSV-SARS-CoV-2 S for the development of spike-specific vaccines and therapeutics and for mechanistic studies of viral entry and its inhibition.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "U19AI142777"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "U19AI142777",
+                        "R01AI132633",
+                        "to K.C.",
+                        "R01AI143453",
+                        "R01AI123654",
+                        "to L.P.",
+                        "R01AI125462",
+                        "to J.R.L.",
+                        "R21AI141367",
+                        "to J.P.D"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported in part by National Institutes of Health (NIH) grants U19AI142777 and R01AI132633 (to K.C.) and R01AI143453 and R01AI123654 (to L.P.), R01AI125462 (to J.R.L.) and R21AI141367 (to J.P.D)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Latin American Fellow in the Biomedical Sciences,"
+                },
+                {
+                    "funding-source": "Pew Charitable Trusts"
+                }
+            ],
+            "funding-statement": "M.E.D. is a Latin American Fellow in the Biomedical Sciences, supported by the Pew Charitable Trusts"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "R.H.B.III."
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "2T32GM007288-45"
+                    ]
+                },
+                {
+                    "funding-source": "Medical Scientist Training Program)"
+                },
+                {
+                    "funding-source": "Albert Einstein College of Medicine"
+                }
+            ],
+            "funding-statement": "R.H.B.III. and R.J.M. were partially supported by NIH training grant 2T32GM007288-45 (Medical Scientist Training Program) at Albert Einstein College of Medicine"
+        }
+    ]
+}

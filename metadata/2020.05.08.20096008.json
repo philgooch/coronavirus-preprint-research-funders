@@ -1,0 +1,20 @@
+{
+    "abstract": "Background: Projection of cases and deaths in an epidemic such as CoViD-19 is hazardous and the early projections were way-off the actual pattern. However, we now have actual data for more than 50 consecutive days in India that can be effectively used for projection. Methods: We closely track the trend and use the same pattern for projection. We call this Empirical Model. We also fit a Theoretical Model based on a Gamma function on the pattern of some of the previous epidemics. Results: The Empirical Model predicts the peak around the fourth week of May and the near end of the epidemic by the end of June 2020. The maximum number of active cases is likely to be nearly 75,000 during the second week of June. This would mean a peak demand of nearly 15,000 beds and nearly 4000 ventilators. The case-fatality based on those who have reached an outcome was nearly 10% in the first week of May and is likely to remain at this level for some time. Theoretical Model projected a peak of nearly 2500 new cases per day in the second week of May that seems to have been already breached. This model predicts the near end of the epidemic by the middle of July 2020.\nCompeting Interest Statement",
+    "author": "Abhaya Indrayan; Shubham Shukla",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20096008",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20096008"
+    },
+    "title": "CoViD-19 Epidemic in India and Projections: Is Relief in Sight?",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "No Funding"
+                }
+            ],
+            "funding-statement": "No Funding source"
+        }
+    ]
+}

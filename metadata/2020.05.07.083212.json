@@ -1,0 +1,48 @@
+{
+    "title": "Coarse-grained molecular simulations of the binding of the SARS-CoV 2 spike protein RBD to the ACE2 cell receptor",
+    "date": 2020,
+    "author": "David De Sancho University of the Basque Country, Faculty of Chemistry, Paseo Manuel Lardizabal, 20018 Donostia-San Sebasti\u00e1n, Spain",
+    "affiliations": [
+        "David De Sancho University of the Basque Country, Faculty of Chemistry, Paseo Manuel Lardizabal, 3, 20018 Donostia-San Sebasti\u00e1n, Spain\u2217",
+        "Gavira Laboratory of Crystallographic Studies, IACT (CSIC-UGR), Granada, 18100, Spain"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.07.083212",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.07.083212.pdf"
+    },
+    "abstract": "Since it was first observed in late 2019, the COVID-19 pandemic has created a global emergency for national health systems due to millions of confirmed cases and hundreds of thousands of deaths. At a molecular level, the bottleneck for the infection is the binding of the receptor binding domain (RBD) of the viral spike protein to ACE2, an enzyme exposed on human cell membranes. Several experimental structures of the ACE2:RBD complex have been made available, however they offer only a static description of the arrangements of the molecules in either the free or bound states. In order to gain a dynamic description of the binding process that is key to infection, we use molecular simulations with a coarse grained model of the RBD and ACE2. We find that binding occurs in an all-or-none way, without intermediates, and that even in the bound state, the RBD exhibits a highly dynamic behaviour. From short equilibrium simulations started in the unbound state we provide snapshots that result in a tentative mechanism of binding. Our findings may be important for the development of drug discovery strategies that target the RBD.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Spanish Ministry of Science, Research",
+                    "award-id": [
+                        "MINECO/FEDER"
+                    ]
+                },
+                {
+                    "funding-source": "Basque Government",
+                    "award-id": [
+                        "IT588-13"
+                    ]
+                }
+            ],
+            "funding-statement": "DDS receives financial support from the grants PGC2018-099321-B-I0 and RYC-201619590 from the Spanish Ministry of Science, Research and Universities (MINECO/FEDER) and the Basque Government through grant IT588-13"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Spanish Ministry of Science, Research",
+                    "award-id": [
+                        "BIO2016-74875-P",
+                        "BIO2016-77390-R"
+                    ]
+                }
+            ],
+            "funding-statement": "The Spanish Ministry of Science, Research and Universities also supports JAG and RPJ through grants BIO2016-74875-P and BIO2016-77390-R, respectively"
+        }
+    ]
+}

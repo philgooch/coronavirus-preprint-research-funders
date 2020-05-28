@@ -1,0 +1,32 @@
+{
+    "title": "A virus that has gone viral: Amino acid mutation in S protein of Indian isolate of Coronavirus COVID-19 might impact receptor binding and thus infectivity",
+    "author": "PRIYANKA SAHA",
+    "date": 2020,
+    "affiliations": [
+        "CSIR-Indian Institute of Chemical Biology, 4, Raja S.C., Mullick Road, Jadavpur, Kolkata-700032, West Bengal, India",
+        "Department of Biochemistry, North Bengal Medical College and Hospital, Sushrutanagar, Siliguri734012, West Bengal, India"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.07.029132",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.029132.pdf"
+    },
+    "abstract": "Since 2002, beta coronaviruses (CoV) have caused three zoonotic outbreaks, SARSCoV in 2002, MERS-CoV in 2012, and the recent outbreak of SARS-CoV-2 late in 2019 (also named as COVID-19 or novel coronavirus 2019 or nCoV2019. Spike(S) protein, one of the structural proteins of this virus plays key role in receptor (ACE2) binding and thus virus entry. Thus, this protein has attracted scientists for detailed study and therapeutic targeting. As the 2019 novel coronavirus takes its course throughout the world, more and more sequence analyses are been done and genome sequences getting deposited in various databases. From India two clinical isolates have been sequenced and the full genome deposited in GenBank. We have performed sequence analyses of the spike protein of the Indian isolates and compared with that of the Wuhan, China (where the outbreak was first reported). While all the sequences of Wuhan isolates are identical, we found point mutations in the Indian isolates. Out of the two isolates one was found to harbour a mutation in its Receptor binding domain (RBD) at position 407. At this site arginine (a positively charged amino acid) was replaced by isoleucine (a hydrophobic amino acid that is also a C-beta branched amino acid). This mutation has been seen to change the secondary structure of the protein at that region and this can potentially alter receptor ding of the virus. Although this finding needs further validation and more sequencing, the information might be useful in rational drug designing and vaccine engineering.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "S protein"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Biotechnology, DBT"
+                }
+            ],
+            "funding-statement": "We also thank Department of Biotechnology, DBT for funding to PS"
+        }
+    ]
+}

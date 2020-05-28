@@ -1,0 +1,40 @@
+{
+    "title": "Impact of Thiol-Disulfide Balance on the Binding of Covid-19 Spike Protein with Angiotensin Converting Enzyme 2 Receptor",
+    "date": 2020,
+    "affiliations": [
+        "Department of Chemistry, University of Wisconsin-Eau Claire"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.07.083147",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.07.083147.pdf"
+    },
+    "abstract": "The novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has led to an ongoing pandemic of coronavirus disease (COVID-19), which started in 2019. This is a member of Coronaviridae family in the genus Betacoronavirus, which also includes SARS-CoV and Middle East respiratory syndrome coronavirus (MERS-CoV). The angiotensin-converting enzyme 2 (ACE2) is the functional receptor for SARS-CoV and SARS-CoV-2 to enter the host cells. In particular, the interaction of viral spike proteins with ACE2 is a critical step in the viral replication cycle. The receptor binding domain of the viral spike proteins and ACE2 have several cysteine residues. In this study, the role of thiol-disulfide balance on the interactions between SARS-CoV/CoV-2 spike proteins and ACE2 was investigated using molecular dynamic simulations. The study revealed that the binding affinity was significantly impaired when all the disulfide bonds of both ACE2 and SARS-CoV/CoV-2 spike proteins were reduced to thiol groups. The impact on the binding affinity was less severe when the disulfide bridges of only one of the binding partners were reduced to thiols. This computational finding provides a molecular basis for the severity of COVID-19 infection due to the oxidative stress.",
+    "keywords": [
+        "COVID-19",
+        "ACE2",
+        "disulfide-thiol balance",
+        "oxidative stress",
+        "Coronovirus",
+        "CoV",
+        "Molecular Dynamic",
+        "Receptor binding domain",
+        "treecode-accelerated boundary integral Poisson-Boltzmann",
+        "TABI-PB"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Health",
+                    "award-id": [
+                        "1R15GM11751001 (S.H."
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported in part by National Institute of Health [grant number 1R15GM11751001 (S.H. and S.B.)]"
+        }
+    ]
+}

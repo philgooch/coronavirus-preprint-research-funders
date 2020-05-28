@@ -1,0 +1,32 @@
+{
+    "abstract": "As the COVID-19 pandemic spreads across the world, it is important to understand its features and responses to public health interventions in real-time. The field of infectious diseases epidemiology has highly advanced modeling strategies that yield relevant estimates. These include the doubling time of the epidemic and various other representations of the numbers of cases identified over time. Crude estimates of these quantities suffer from dependence on the underlying testing strategies within communities. We clarify the functional relationship between testing and the epidemic parameters, and thereby derive sensitivity analyses that explore the range of possible truths under various testing dynamics. We derive the required adjustment to the estimates of interest for New York City. We demonstrate that crude estimates that assume stable testing or complete testing can be biased.",
+    "affiliations": [
+        "US National Institutes of Health (R01NS094610) and the US National Science Foundation (DMS-2013789)"
+    ],
+    "author": "Rebecca A Betensky; Yang Feng",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20058313",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20058313"
+    },
+    "title": "Accounting for incomplete testing in the estimation of epidemic parameters",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "US National Institutes of Health",
+                    "award-id": [
+                        "R01NS094610"
+                    ]
+                },
+                {
+                    "funding-source": "US National Science Foundation",
+                    "award-id": [
+                        "DMS-2013789"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the US National Institutes of Health (R01NS094610) and the US National Science Foundation (DMS-2013789)"
+        }
+    ]
+}

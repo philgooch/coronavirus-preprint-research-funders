@@ -1,0 +1,46 @@
+{
+    "abstract": "The COVID-19 pandemic caused more than 800,000 infections and 40,000 deaths by the end of March 2020. However, some of the basic epidemiological parameters, such as the exponential epidemic growth rate and R0 are debated. We developed an inference approach to control for confounding factors in data collection, such as under-reporting and changes in surveillance intensities, and fitted a mathematical model to infection and death count data collected from eight European countries and the US. In all countries, the early epidemic grew exponentially at rates between 0.19-0.29/day (epidemic doubling times between 2.4-3.7 days). This suggests a highly infectious virus with an R0 likely between 4.0 and 7.1. We show that similar levels of intervention efforts are needed, no matter the goal is mitigation or containment. Early, strong and comprehensive intervention efforts to achieve greater than 74-86% reduction in transmission are necessary.",
+    "affiliations": [
+        "Laboratory Directed Research and Development (LDRD) Rapid Response Program through the Center for Nonlinear Studies at Los Alamos National Laboratory. RK and SS would like to acknowledge funding from DARPA (HR0011938513), the Center for Nonlinear Studies. ERS was funded though NIH grant (R01AI135946)"
+    ],
+    "author": "Nicholas Hengartner; Ethan Romero-Severson; Ruian Ke; Steven Sanche",
+    "date": 2020,
+    "doi": "10.1101/2020.04.04.20050427",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.04.20050427"
+    },
+    "title": "Fast spread of COVID-19 in Europe and the US suggests the necessity of early, strong and comprehensive interventions",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Laboratory Directed Research and Development"
+                },
+                {
+                    "funding-source": "Rapid Response Program"
+                },
+                {
+                    "funding-source": "Center for Nonlinear Studies"
+                },
+                {
+                    "funding-source": "Los Alamos National Laboratory"
+                }
+            ],
+            "funding-statement": "The work is partially funded by the Laboratory Directed Research and Development (LDRD) Rapid Response Program through the Center for Nonlinear Studies at Los Alamos National Laboratory"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "DARPA",
+                    "award-id": [
+                        "HR0011938513"
+                    ]
+                },
+                {
+                    "funding-source": "Center for Nonlinear Studies"
+                }
+            ],
+            "funding-statement": "RK and SS would like to acknowledge funding from DARPA (HR0011938513), the Center for Nonlinear Studies"
+        }
+    ]
+}

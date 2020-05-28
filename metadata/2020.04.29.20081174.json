@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The new coronavirus respiratory syndrome disease (COVID-19) pandemic has become a major health problem worldwide. Many attempts have been devoted to modeling the dynamics of new infection rates, death rates, and the impact of the disease on health systems and the world economy. Most of these modeling concepts use the Susceptible-Infectious-Susceptible (SIS) and Susceptible-Exposed-Infected-Recovered (SEIR) compartmental models; however, wide imprecise outcomes in forecasting can occur with these models in the context of poor data, low testing levels, and a nonhomogeneous population. Objectives: To predict Brazilian ICU beds demand over time and during COVID-19 pandemic peak. Methods: In the present study, we describe a Bayesian COVID-19 model combined with a Hamiltonian Monte Carlo algorithm to forecast quantitative predictions of infections, number of deaths and the demand for critical care beds in the next month in the Brazilian context of scarce data availability. We also estimated COVID-19 spread tendency in the state of Sao Paulo and forecasted the demand for critical care beds, as Sao Paulo is the epicenter of the Latin America pandemic. Results: Our model estimated that the number of infected individuals would be approximately 6.5 million (median) on April 25, 2020, and would reach 16 to 17 million (median) by the end of August 2020 in Brazil. The probability that an infected individual requires ICU-level care in Brazil is 0.5833% . Our model suggests that the current level of mitigation seen in Sao Paulo is sufficient to reach Rt < 1, thus attaining a peak in the short term. In Sao Paulo state, the total number of deaths is estimated to be around 9,000 (median) with the 2.5% quantile being 6,600 deaths and the 97.5% quantile being around 13,350 deaths. Also, Sao Paulo will not attain its maximum capacity of ICU beds if the current trend persists over the long term. Conclusions: The COVID-19 pandemic should peak in Brazil between May 8 and May 20, 2020 with a fatality rate lower than that suggested in the literature. The northern and northeastern regions of Brazil will suffer from a lack of available ICU beds, whereas the southeastern, southern, and central-western regions appear to have sufficient ICU beds only if they share private system beds with the publicly funded Unified Heath System (SUS). The model predicts that, if the current policies and population behavior are maintained throughout the forecasted period, by the end of August 2020, Brazil will have around 7.6% to 8.2% of its population immune to COVID-19.\nCompeting Interest Statement",
+    "author": "Bruno A Filardi; Samy Dana; Alexandre B Simas; Rodrigo N Rodriguez; Leandro Lane da Costa Valiengo; Jose Gallucci-Neto",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20081174",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20081174"
+    },
+    "title": "Brazilian Modeling of COVID-19 (BRAM-COD): a Bayesian Monte Carlo approach for COVID-19 spread in a limited data set context",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Simas acknowledges the financial support from CNPq"
+        }
+    ]
+}

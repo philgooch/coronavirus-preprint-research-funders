@@ -1,0 +1,16 @@
+{
+    "abstract": "Testing representative populations to determine the prevalence or percent of the population with active SARS-Cov-2 (COVID-19) infection and/or antibodies to infection is being recommended as essential for making public policy decisions to open-up or to continue enforcing national, state and local government rules to shelter-in-place. However, all laboratory tests are imperfect and have estimates of sensitivity and specificity less than 100% - in some cases considerably less than 100%. That error will lead to biased prevalence estimates. If the true prevalence of COVID-19 is low, possibly in the range of 1-5%, then testing error will lead to a constant background of bias that will most likely be larger and possibly much larger than the true prevalence itself. As a result, what is needed is a method for adjusting prevalence estimates for testing error. In this paper we outline methods for adjusting prevalence estimates for testing error both prospectively in studies being planned and retrospectively in studies that have been conducted. The methods if employed would also help to harmonize study results within countries and around the world. Adjustment can lead to more accurate prevalence estimates and to better policy decisions.",
+    "author": "Christopher Sempos; Lu Tian",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20098202",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20098202"
+    },
+    "title": "Adjusting Coronavirus prevalence estimates for laboratory test kit error",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No outside funding was used in the preparation of this manuscript."
+        }
+    ]
+}

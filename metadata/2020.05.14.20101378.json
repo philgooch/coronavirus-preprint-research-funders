@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: As the Covid-19 virus epidemic spreads, it is important to establish reliable estimates of fatality hazard rates. Australia and South Korea are ideal candidates for detailed consideration. Both have completed the first wave of the epidemic, they have extensive Covid-19 testing and tracking programs so that confirmed case load data are reliable, and neither country has had any significant case load stress in their hospital systems. Methods: For each country, mortality hazard models were estimated using a parameterized distributed lag model where the number of daily deaths was dependent on the number of confirmed cases in each of the preceding six weeks. Age cohort CFRs were also examined. Findings: We observed major difference in the mortality rates when comparing South Korea to Australia in both the simple age adjusted fatality rates and in the disease hazard curve. On a like-for-like basis, the CFR for South Korea appears to be close to double the Australian rate (aggregate; 2.4% vs 1.4%). Interpretation: Neither differences in the time pattern of the peaking of the case load of confirmed cases, nor differences in the size of age cohorts of confirmed cases explain the difference in mortality observed. We discuss possible explanations that point the way for further investigation. Funding: nil.\nCompeting Interest Statement",
+    "author": "John Beggs; Peter John Collignon",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20101378",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20101378"
+    },
+    "title": "COVID-19 FATALITY RISK: WHY IS AUSTRALIA LOWER THAN SOUTH KOREA?",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Funding: nil"
+        }
+    ]
+}

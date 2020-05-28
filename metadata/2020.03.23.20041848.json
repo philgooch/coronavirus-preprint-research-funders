@@ -1,0 +1,54 @@
+{
+    "title": "History of coronary heart disease increases the mortality rate of COVID-19 patients: a nested case-control study",
+    "date": 2020,
+    "author": "Tian Gu, MS, Qiao Chu 2, Ph.D., Zhangsheng Yu, Ph.D., Botao Fa, MS, Anqi Li, MS, Lei Xu, MD, Yaping He, Ph.D., Ruijun Wu, Ph.D. Affiliations: 1. Department of Biostatistics, School of Public Health, University of Michigan, Ann Arbor, MI 2. School of Public Health, Shanghai Jiao Tong University School of Medicine, Shanghai",
+    "affiliations": [
+        "Department of Biostatistics, School of Public Health, University of Michigan, Ann Arbor, MI",
+        "School of Public Health, Shanghai Jiao Tong University School of Medicine, Shanghai",
+        "Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, Shanghai",
+        "School of Social Development, East China Normal University, Shanghai, China",
+        "Department of Cardiology, Shanghai Chest Hospital, Shanghai Jiao Tong University",
+        "He at College of Public Health, Shanghai Jiao Tong University School of Medicine, South Chongqing Rd., No. 227, Shanghai 200025, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.23.20041848",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.23.20041848.pdf"
+    },
+    "abstract": "Background: China has experienced an outbreak of a novel human coronavirus (SARS-CoV-2) since December 2019, which quickly became a worldwide pandemic in early 2020. There is limited evidence on the mortality risk effect of pre-existing comorbidities for coronavirus disease 2019 (COVID-19), which has important implications for early treatment.\nObjective: Evaluate the risk of pre-existing comorbidities on COVID-19 mortality, and provide clinical suggestions accordingly.\nMethod: This study used a nested case-control design. A total of 94 publicly reported deaths in locations outside of Hubei Province, China, between December 18th, 2019 and March 8th, 2020 were included as cases. Each case was matched with up to three controls, based on gender and age \u00b1 1 year old (94 cases and 181 controls). The inverse probability weighted Cox proportional hazard model was performed.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "71874111"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Municipal Health Bureau Foundation",
+                    "award-id": [
+                        "201740116"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Jiao Tong University Scientific and Technological Innovation Funds",
+                    "award-id": [
+                        "YG2020YQ01",
+                        "YG2020YQ06",
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Situation Report",
+                    "award-id": [
+                        "20200322"
+                    ]
+                }
+            ],
+            "funding-statement": "This project was funded by the National Natural Science Foundation of China (No 71874111), Shanghai Municipal Health Bureau Foundation (No 201740116) and Shanghai Jiao Tong University Scientific and Technological Innovation Funds (YG2020YQ01, YG2020YQ06). Reference [1] Coronavirus disease 2019 (COVID-19) Situation Report \u2013 62. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200322-sitrep-62covid-19.pdf?sfvrsn=f7764c46_2 [2] Lu R, Zhao X, Li J, Niu P, Yang B, Wu H et al Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "abstract": "Background A pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been spreading over the world. However, the viral dynamics, host serologic responses, and their associations with clinical manifestations, have not been well described in prospective cohort. Methods We conducted a prospective cohort and enrolled 67 COVID-19 patients admitting between Jan 26 and Feb 5, 2020. Clinical specimens including nasopharyngeal swab, sputum, blood, urine and stool were tested periodically according to standardized case report form with final follow-up on February 27. The routes and duration of viral shedding, antibody response, and their associations with disease severity and clinical manifestations were systematically evaluated. Coronaviral particles in clinical specimens were observed by transmission electron microscopy (TEM). Results The median duration of SARS-CoV-2 RNA shedding were 12 (3-38), 19 (5-37), and 18 (7-26) days in nasopharyngeal swabs, sputum and stools, respectively. Only 13 urines (5.6%) and 12 plasmas (5.7%) were viral positive. Prolonged viral shedding was observed in severe patients than that of non-severe patients. Cough but not fever, aligned with viral shedding in clinical respiratory specimens, meanwhile the positive stool-RNA appeared to align with the proportion who concurrently had cough and sputum production, but not diarrhea. Typical coronaviral particles could be found directly in sputum by TEM. The anti-nucleocapsid-protein IgM started on day 7 and positive rate peaked on day 28, while that of IgG was on day 10 and day 49 after illness onset. IgM and IgG appear earlier, and their titers are significantly higher in severe patients than non-severe patients (p<0.05). The weak responders for IgG had a significantly higher viral clearance rate than that of strong responders (p= 0.011). Conclusions Nasopharyngeal, sputum and stools rather than blood and urine, were the major shedding routes for SARS-CoV-2, and meanwhile sputum had a prolonged viral shedding. Symptom cough seems to be aligned with viral shedding in clinical respiratory and fecal specimens. Stronger antibody response was associated with delayed viral clearance and disease severity.",
+    "affiliations": [
+        "Southwest Hospital Medical Science Innovation Plan (SWH2018BJKJ-01, SWH2018QNLC-04). We thank for the supports the Youth Talent Program from Third Military Medical University (Tan W and Sun F) and the Academy of Medical Sciences Newton International Fellowship (Tan W). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript"
+    ],
+    "author": "Jie Xia; Weiwei He; Wei Zhang; Qiangzhong Sun; Yanzhi Guo; Guohong Deng; Yaokai Chen; Qing Mao; Xing Wan; Yunjie Dan; Zhaoxia Tan; Xiaomei Xiang; Fengming Sun; Chunfang Qian; Quanfang Wei; Xiu-Hua Wang; Sikuan Ye; Juan Zhang; Wenting Tan; Yanqiu Lu; Yi Zhou; Guangqiang Pan; Honglan Liu; Xiaoqing He; Qingli Hu; Cong Chen; Jing Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.03.24.20042382",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.24.20042382"
+    },
+    "title": "Viral Kinetics and Antibody Responses in Patients with COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chongqing Health Commission COVID-19 Project",
+                    "award-id": [
+                        "2020NCPZX01"
+                    ]
+                },
+                {
+                    "funding-source": "Youth Talent Medical Technology Program of PLA",
+                    "award-id": [
+                        "17QNP010"
+                    ]
+                },
+                {
+                    "funding-source": "Chinese Key Project Specialized for Infectious Diseases",
+                    "award-id": [
+                        "2018ZX10723203",
+                        "2018XYY10"
+                    ]
+                },
+                {
+                    "funding-source": "Southwest Hospital Medical Science Innovation Plan",
+                    "award-id": [
+                        "SWH2018BJKJ-01",
+                        "SWH2018QNLC-04"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was partly supported by Chongqing Health Commission COVID-19 Project 2020NCPZX01, Youth Talent Medical Technology Program of PLA (17QNP010), the Chinese Key Project Specialized for Infectious Diseases (2018ZX10723203), the TMMU key project for medical research (2018XYY10), and the Southwest Hospital Medical Science Innovation Plan (SWH2018BJKJ-01, SWH2018QNLC-04)"
+        }
+    ]
+}

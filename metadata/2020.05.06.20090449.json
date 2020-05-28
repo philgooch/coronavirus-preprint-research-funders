@@ -1,0 +1,16 @@
+{
+    "abstract": "We describe a quantitative droplet digital PCR (ddPCR) assay for detection of SARS-CoV-2 viral ribonucleic acid (RNA) in total RNA extracted from human sputum. This method was validated using the guidance of the United States Food and Drug Administration Accelerated Emergency Use Authorization (EUA) Template for SARS-CoV-2 that Causes Coronavirus Disease (COVID-19) Molecular Testing of Respiratory Speciment in CLIA Certified High-Complexity Laboratories. Though our laboratory is not CLIA certified, this method met all criteria specified by the guidance document with a Limit of Detection (LOD) of 0.25 copies/microliter in the final ddPCR (at least 19/20 replicates reactive), which we consider to be a Lower Limit of Quantification (LLOQ); inclusivity of all known annotated SARS-CoV-2 genomes; no cross-reactivity with other respiratory pathogens; and reactivity of all contrived positives at or above the LOD.\nCompeting Interest Statement",
+    "author": "Cassidy Mentus; Christian P DiPaola; Cynthia D Timmers; Martin J Romeo",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20090449",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20090449"
+    },
+    "title": "A Droplet Digital PCR Assay to Detect SARS-CoV-2 RNA",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was supported by crowdsourced funding through Endcoronavirus.org"
+        }
+    ]
+}

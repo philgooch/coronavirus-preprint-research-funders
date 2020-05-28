@@ -1,0 +1,57 @@
+{
+    "abstract": "Drug target prioritisation for new targets and drug repurposing of existing drugs for COVID-19 treatment are urgently needed for the current pandemic. Here we pooled 353 candidate drug targets of COVID-19 from clinical trial registries and the literature and estimated their putative causal effects in 11 SARS-CoV-2 related tissues on 622 complex human diseases. By constructing a disease atlas of drug targets for COVID-19, we prioritise 726 target-disease associations as evidence of causality using robust Mendelian randomization (MR) and colocalization evidence (http://epigraphdb.org/covid-19/ctda/). Triangulating these MR findings with historic drug trial information and the druggable genome, we ranked and prioritised three genes DHODH, ITGB5 and JAK2 targeted by three marketed drugs (Leflunomide, Cilengitide and Baricitinib) which may have repurposing potential with careful risk assessment. This study evidences the value of our integrative approach in prioritising and repurposing drug targets, which will be particularly applicable when genetic association studies of COVID-19 are available in the near future.",
+    "author": "Yuemiao Zhang; Yi Liu; Hong Zhang; George Davey Smith; Lin Wang; Jie Zheng; Xingzi Liu; Denis Baird; Tom Gaunt",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20093286",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20093286"
+    },
+    "title": "Multi-omics study revealing tissue-dependent putative mechanisms of SARS-CoV-2 drug targets on viral infections and complex diseases",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Vice-Chancellor Fellowship from the University of Bristol"
+                }
+            ],
+            "funding-statement": "JZ is funded by a Vice-Chancellor Fellowship from the University of Bristol"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Medical Research Council Integrative Epidemiology Unit",
+                    "award-id": [
+                        "MC_UU_00011/1",
+                        "MC_UU_00011/4"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was also funded by the UK Medical Research Council Integrative Epidemiology Unit (MC_UU_00011/1, MC_UU_00011/4)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81800636"
+                    ]
+                }
+            ],
+            "funding-statement": "YMZ is supported by National Natural Science Foundation of China (81800636)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Michigan Health"
+                },
+                {
+                    "funding-source": "Peking University Health Science Center Joint Institute for Translational and Clinical Research",
+                    "award-id": [
+                        "BMU2017JI007"
+                    ]
+                }
+            ],
+            "funding-statement": "HZ is supported by the University of Michigan Health System\u0096Peking University Health Science Center Joint Institute for Translational and Clinical Research (BMU2017JI007)"
+        }
+    ]
+}

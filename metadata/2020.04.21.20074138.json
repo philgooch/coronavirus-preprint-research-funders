@@ -1,0 +1,19 @@
+{
+    "abstract": "The outbreak of novel coronavirus-caused pneumonia (COVID-19) in Wuhan has attracted worldwide attention. To contain its spread, China adopted unprecedented nationwide interventions on January 23. We sought to show how these control measures impacted the containment of the epidemic. We proposed an SEIR(Susceptible-Exposed- Infectious-Removed) model to analyze the epidemic trend in Wuhan and use the AI model to analyze the epidemic trend in non-Wuhan areas. We found that if the closure was lifted, the outbreak in non-Wuhan areas of mainland China would double in size. Our SEIR and AI model was effective in predicting the COVID-19 epidemic peaks and sizes. The implementation of control measures on January 23, 2020, was indispensable in reducing the eventual COVID-19 epidemic size.",
+    "affiliations": [
+        "National Bureau of Statistics of China, Ovi interactive map and China Meteorological Administration, from http://www.dxy.cn/; http://www.gpsov.com/cn/main.php ; http://www.cma.gov.cn/"
+    ],
+    "author": "Zebang Feng; Shuo Feng; Chen Ling; Zhongke Feng; Chen Chang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20074138",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20074138"
+    },
+    "title": "Prediction of the COVID-19 Epidemic Trends Based on SEIR and AI Models",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

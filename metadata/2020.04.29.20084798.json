@@ -1,0 +1,41 @@
+{
+    "abstract": "Objectives: To assess the impact of the implemented social distancing interventions (SD) in Greece. Study Design: A dynamic, discrete time, stochastic individual-based model was developed to simulate COVID-19 transmission. Methods: We fit the transmission model to the observed trends in deaths and ICU beds use. Results: If Greece had not implemented the SD measures, the healthcare system would have been overwhelmed between 30 March and 4 of April. Additionally, the SD interventions averted 4360 deaths and prevent the healthcare system from overwhelmed. Conclusions: The fast reflexes of the Greek government limit the burden of the Covid-19 outbreak.",
+    "author": "Georgios Hillas; Ilias Gountas; Kyriakos Souliotis",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20084798",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20084798"
+    },
+    "title": "Act early, save lives: managing COVID-19 in Greece",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Greece and the European Union",
+                    "award-id": [
+                        "European Social Fund- ESF"
+                    ]
+                },
+                {
+                    "funding-source": "European Social Fund- ESF)"
+                },
+                {
+                    "funding-source": "Operational Programme"
+                },
+                {
+                    "funding-source": "Human Resources Development, Education"
+                },
+                {
+                    "funding-source": "Reinforcement of Postdoctoral Researchers",
+                    "award-id": [
+                        "MIS-5033021"
+                    ]
+                },
+                {
+                    "funding-source": "State Scholarships Foundation"
+                }
+            ],
+            "funding-statement": "This research is co-financed by Greece and the European Union (European Social Fund- ESF) through the Operational Programme \u00abHuman Resources Development, Education and Lifelong Learning\u00bb in the context of the project \u201cReinforcement of Postdoctoral Researchers - 2nd Cycle\u201d (MIS-5033021), implemented by the State Scholarships Foundation (IKY)"
+        }
+    ]
+}

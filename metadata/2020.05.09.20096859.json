@@ -1,0 +1,20 @@
+{
+    "abstract": "In this paper I examine the sensitivity of total UK Covid-19 deaths and the demand for intensive care and ward beds, to the timing and duration of suppression periods during a 500 day period. This is achieved via a SEIR model. Using an expected latent period of 4.5 days and infectious period of 3.8 days, R_0 was first estimated as 3.18 using observed death rates under unmitigated spread and then under the effects of the total lockdown (R_0=0.60) of 23 March. The case fatality rate given infection is taken as 1%. Parameter values for mean length of stay and conditional probability of death for ICU and non-ICU hospital admissions are guided by Ferguson et al.(2020). Under unmitigated spread the model predicts around 600,000 deaths in the UK. Starting with one exposed person at time zero and a suppression consistent with an R_0 of 0.60 on day 72, the model predicts around 39,000 deaths for a first wave, but this reduces to around 11,000 if the intervention takes place one week earlier. If the initial suppression were in place until day 200 and then relaxed to an R_0 of 1.5 between days 200 and 300, to be followed by a return to an R_0 of 0.60, the model predicts around 43,000 deaths. This would increase to around 64,000 if the release from the first suppression takes place 20 days earlier. The results indicate the extreme sensitivity to timing and the consequences of even small delays to suppression and premature relaxation of such measures.",
+    "author": "John S Dagpunar",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20096859",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20096859"
+    },
+    "title": "Sensitivity of UK Covid-19 deaths to the timing of suppression measures and their relaxation",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "No Funding. Personal"
+                }
+            ],
+            "funding-statement": "No Funding. Personal Research"
+        }
+    ]
+}

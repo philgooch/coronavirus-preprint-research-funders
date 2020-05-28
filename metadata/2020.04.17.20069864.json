@@ -1,0 +1,20 @@
+{
+    "abstract": "The novel human coronavirus SARS-CoV-2 was first discovered in the city of Wuhan, Hubei province, China, causing an outbreak of pneumonia in January 2020. As of April 10, 2020, the virus has rapidly disseminated to over 200 countries and territories, causing more than 1.6 million confirmed cases of COVID-19 and 97,000 deaths worldwide. The clinical presentation of COVID-19 is fairly non-specific, and symptoms overlap with other seasonal respiratory infections concurrently circulating in the population. Further, it is estimated that up to 80% of infected individuals experience mild symptoms or are asymptomatic, confounding efforts to reliably diagnose COVID-19 empirically. To support infection control measures, there is an urgent need for rapid and accurate molecular diagnostics to identify COVID-19 positive patients. In the present study, we have evaluated the analytical sensitivity and clinical performance of four SARS-CoV-2 molecular diagnostic assays granted Emergency Use Authorization by the FDA using nasopharyngeal swabs from symptomatic patients. This information is crucial for both laboratories and clinical teams, as decisions on which testing platform to implement are made.",
+    "author": "Wei Zhen; Gregory J Berry; Elizabeth Smith; Ryhana Manji",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20069864",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20069864"
+    },
+    "title": "Comparison of Four Molecular In Vitro Diagnostic Assays for the Detection of SARS-CoV-2 in Nasopharyngeal Specimens",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Diasorin Molecular LLC."
+                }
+            ],
+            "funding-statement": "We would also like to thank Diasorin Molecular LLC. for providing the reagents used in this study"
+        }
+    ]
+}

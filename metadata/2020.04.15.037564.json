@@ -1,0 +1,67 @@
+{
+    "title": "Supramolecular Organization Predicts Protein Nanoparticle Delivery to Neutrophils for Acute Lung Inflammation Diagnosis and Treatment",
+    "author": "Jacob Myerson",
+    "date": 2020,
+    "affiliations": [
+        "Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania",
+        "Biointerfaces Institute and Department of Chemical Engineering, University of Michigan at Ann Arbor",
+        "Department of Chemistry, University of Massachusetts at Amherst",
+        "Pulmonary, Allergy, and Critical Care Division, Department of Medicine, Perelman School of Medicine, University of Pennsylvania",
+        "Department of Pediatrics, Perelman School of Medicine, University of Pennsylvania",
+        "Wyss Institute for Biologically Inspired Engineering, Harvard University"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.15.037564",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.15.037564.pdf"
+    },
+    "abstract": "Acute lung inflammation has severe morbidity, as seen in COVID-19 patients. Lung inflammation is accompanied or led by massive accumulation of neutrophils in pulmonary capillaries (\u201cmargination\u201d). We sought to identify nanostructural properties that predispose nanoparticles to accumulate in pulmonary marginated neutrophils, and therefore to target severely inflamed lungs. We designed a library of nanoparticles and conducted an in vivo screen of biodistributions in naive mice and mice treated with lipopolysaccharides. We found that supramolecular organization of protein in nanoparticles predicts uptake in inflamed lungs. Specifically, nanoparticles with agglutinated protein (NAPs) efficiently home to pulmonary neutrophils, while protein nanoparticles with symmetric structure (e.g. viral capsids) are ignored by pulmonary neutrophils. We validated this finding by engineering protein-conjugated liposomes that recapitulate NAP targeting to neutrophils in inflamed lungs. We show that NAPs can diagnose acute lung injury in SPECT imaging and that NAP-like liposomes can mitigate neutrophil extravasation and pulmonary edema arising in lung inflammation. Finally, we demonstrate that ischemic ex vivo human lungs selectively take up NAPs, illustrating translational potential. This work demonstrates that structure-dependent interactions with neutrophils can dramatically alter the biodistribution of nanoparticles, and NAPs have significant potential in detecting and treating respiratory conditions arising from injury or infections.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R01HL125462"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported by NIH R01HL125462 (V.R.M.)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Defense Threat Reduction Agency",
+                    "award-id": [
+                        "HDTRA-1-15-0045"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors acknowledge funding from the Defense Threat Reduction Agency (HDTRA-1-15-0045, J.L., V.R.M.)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "T32HL07915"
+                    ]
+                }
+            ],
+            "funding-statement": "J.W.M. was supported by NIH T32HL07915 while conducting this research"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "American Heart Association",
+                    "award-id": [
+                        "19CDA345900001"
+                    ]
+                }
+            ],
+            "funding-statement": "O.A.M. received funding from the American Heart Association (19CDA345900001)"
+        }
+    ]
+}

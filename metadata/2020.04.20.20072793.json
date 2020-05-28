@@ -1,0 +1,16 @@
+{
+    "abstract": "We study the effect of the coronavirus disease 2019 (COVID-19) in India using the SEIR compartmental model. After it's outbreak in Wuhan, China, it has been imported to India which is a densely populated country. India is fighting against this disease by ensuring nationwide social distancing. We estimate the infection rate to be 0.258 using a least square method with Poisson noise and estimate the reproduction number to be 2.58. We approximate the peak of the epidemic to be August 11, 2020. We estimate that a 25% drop in infection rate will delay the peak by 38 days for a 1 month intervention period. We estimate that the total individuals infected in India will be approximately 9% of the total population.",
+    "author": "Parth Vipul Shah",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072793",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072793"
+    },
+    "title": "Prediction of the Peak, Effect of Intervention and Total Infected by the Coronavirus Disease in India",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

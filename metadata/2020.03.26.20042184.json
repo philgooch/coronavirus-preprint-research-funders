@@ -1,0 +1,55 @@
+{
+    "abstract": "WHO has declared COVID-19 a pandemic with more than 300,000 confirmed cases and more than 14,000 deaths. There is urgent need for accurate and rapid diagnostic kits. Here we report the development and validation of a COVID-19/SARS-CoV-2 S1 serology ELISA kit for the detection of total anti-virus antibody (IgG+IgM) titers in sera from either the general population or patients suspected to be infected. For indirect ELISA, CHO-expressed recombinant full length SARS-CoV-2-S1 protein with 6*His tag was used as the coating antigen to capture the SARS-CoV-2-S1 antibodies specifically. The specificity of the ELISA kit was determined to be 97.5%, as examined against total 412 normal human sera including 257 samples collected prior to the outbreak and 155 collected during the outbreak. The sensitivity of the ELISA kit was determined to be 97.5% by testing against 69 samples from hospitalized and/or recovered COVID-19 patients. The overall accuracy rate reached 97.3%. Most importantly, in one case study, the ELISA test kit was able to identify an infected person who had previously been quarantined for 14 days after coming into contact with a confirmed COVID-19 patient, and discharged after testing negative twice by nucleic acid test. With the assays developed here, we can screen millions of medical staffs in the hospitals and people in residential complex, schools, public transportations, and business parks in the epidemic centers of the outbreaks to fish out the \"innocent viral spreaders\", and help to stop the further spreading of the virus.",
+    "affiliations": [
+        "National Natural Science Foundation of China (NSFC) (81702015), and the National Science and Technology Major Project (2018ZX10733403) to H.S.We thank Professor Wenjie Tan from National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention for providing the sequences of SARS-CoV-2 S1 protien"
+    ],
+    "author": "Bin Su; Xianghua Guo; Ya Peng; Ailiang He; Xinkun Mao; Yingmei Feng; Ronghua Jin; Jingong Chen; Rongqing Zhao; Zhonghu Bai; Jianxin Chen; Wen Jing Cao; Hunter Sun; Yanjun Wang; Yufei Sun; Qinlu Zhang; Junchi Su; Jin-Wen Song; Le Sun; Jin Zhu; Maohua Li; Jianli Li; Hui Chen; Wenlin Ren; Sean Sun; Hao Song",
+    "date": 2020,
+    "doi": "10.1101/2020.03.26.20042184",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.26.20042184"
+    },
+    "title": "Serological diagnostic kit of SARS-CoV-2 antibodies using CHO-expressed full-length SARS-CoV-2 S1 proteins",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Grants from Beijing Science and Technology Commission,"
+                },
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation"
+                },
+                {
+                    "funding-source": "Le Sun"
+                }
+            ],
+            "funding-statement": "This work is supported by Research Grants from Beijing Science and Technology Commission, and Bill & Melinda Gates Foundation to Le Sun"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81702015"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Major Project",
+                    "award-id": [
+                        "2018ZX10733403"
+                    ]
+                },
+                {
+                    "funding-source": "H.S.We"
+                },
+                {
+                    "funding-source": "Professor Wenjie Tan from National Institute for Viral Disease Control and Prevention, Chinese"
+                },
+                {
+                    "funding-source": "Center for Disease Control and Prevention for"
+                }
+            ],
+            "funding-statement": "This work was also supported by the National Natural Science Foundation of China (NSFC) (81702015), and the National Science and Technology Major Project (2018ZX10733403) to H.S.We thank Professor Wenjie Tan from National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention for providing the sequences of SARS-CoV-2 S1 protien"
+        }
+    ]
+}

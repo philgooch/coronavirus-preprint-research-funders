@@ -1,0 +1,55 @@
+{
+    "abstract": "Background: Glucocorticoids are widely used in the treatment of various pulmonary inflammatory diseases, but they are also often accompanied by significant adverse reactions. Published guidelines point out that low dose and short duration systemic glucocorticoid therapy may be considered for patients with rapidly progressing COVID-19 while the evidence is still limited. Methods: We comprehensively searched electronic databases and supplemented the screening by conducting a manual search. We included RCTs and cohort studies evaluating the effectiveness and safety of glucocorticoids in children and adults with COVID-19, SARS and MERS, and conducted meta-analyses of the main indicators that were identified in the studies. Results: Our search retrieved 23 studies, including one RCT and 22 cohort studies, with a total of 13,815 patients. In adults with COVID-19, the use of systemic glucocorticoid did not reduce mortality (RR=2.00, 95% CI: 0.69 to 5.75, I 2=90.9%) or the duration of lung inflammation (WMD=-1 days, 95% CI: -2.91 to 0.91), while a significant reduction was found in the duration of fever (WMD=-3.23 days, 95% CI: -3.56 to -2.90). In patients with SARS, glucocorticoids also did not reduce the mortality (RR=1.52, 95% CI: 0.89 to 2.60, I2=84.6%), duration of fever (WMD=0.82 days, 95% CI: -2.88 to 4.52, I2=97.9%) or duration of lung inflammation absorption (WMD=0.95 days, 95% CI: -7.57 to 9.48, I2=94.6%). The use of systemic glucocorticoid therapy prolonged the duration of hospital stay in all patients (COVID-19, SARS and MERS). Conclusions: Glucocorticoid therapy was found to reduce the duration of fever, but not mortality, duration of hospitalization or lung inflammation absorption. Long-term use of high-dose glucocorticoids increased the risk of adverse reactions such as coinfections, so routine use of systemic glucocorticoids for patients with COVID-19 cannot be recommend. Keywords: COVID-19; glucocorticoids; meta-analysis; rapid review\nCompeting Interest Statement",
+    "author": "Yanfang Ma; Shuya Lu; Myeong Soo Lee; Zhengxiu Luo; Zijun Wang; Yaolong Chen; Hyeong Sik Ahn; Donghong Peng; Chenyan Zhou; Weiguo Li; Toshio Fukuoka; Liping Huang; Enmei Liu; Xufei Luo; Qi Zhou; Qianling Shi; Yuyi Tang; Siya Zhao",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20064469",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20064469"
+    },
+    "keywords": [
+        "COVID-19",
+        "glucocorticoids",
+        "meta-analysis",
+        "rapid review"
+    ],
+    "title": "Effectiveness and Safety of Glucocorticoids to Treat COVID-19: A Rapid Review and Meta-Analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Clinical Research Center for Child Health and Disorders"
+                },
+                {
+                    "funding-source": "Children's Hospital of Chongqing Medical University, Chongqing",
+                    "award-id": [
+                        "NCRCCHD-2020-EP-01"
+                    ]
+                },
+                {
+                    "funding-source": "Special Fund for Key Research and Development Projects in Gansu Province in"
+                },
+                {
+                    "funding-source": "Special Project of Science and Technology for Emergency Response",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Chongqing Science and Technology Bureau"
+                }
+            ],
+            "funding-statement": "This work was supported by grants from National Clinical Research Center for Child Health and Disorders (Children's Hospital of Chongqing Medical University, Chongqing, China) (grant number NCRCCHD-2020-EP-01); Special Fund for Key Research and Development Projects in Gansu Province in 2020; The fourth batch of \"Special Project of Science and Technology for Emergency Response to COVID-19\" of Chongqing Science and Technology Bureau"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Key Laboratory of Evidence Based Medicine and Knowledge Translation of Gansu Province",
+                    "award-id": [
+                        "GSEBMKT-2020YJ01"
+                    ]
+                }
+            ],
+            "funding-statement": "Special funding for prevention and control of emergency of COVID-19 from Key Laboratory of Evidence Based Medicine and Knowledge Translation of Gansu Province (grant number No GSEBMKT-2020YJ01)"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "abstract": "Randomized controlled trials are crucial for the evaluation of interventions such as vaccinations, but the design and analysis of these studies during infectious disease outbreaks is complicated by statistical, ethical, and logistical factors. Attempts to resolve these complexities have led to the proposal of a variety of trial designs, including individual randomization and several types of cluster randomization designs: parallel-arm, ring vaccination, and stepped wedge designs. Because of the strong time trends present in infectious disease incidence, however, methods generally used to analyze stepped wedge trials may not perform well in these settings. Using simulated outbreaks, we evaluate various designs and analysis methods, including recently proposed methods for analyzing stepped wedge trials, to determine the statistical properties of these methods. While new methods for analyzing stepped wedge trials can provide some improvement over previous methods, we find that they still lag behind parallel-arm cluster-randomized trials and individually-randomized trials in achieving adequate power to detect intervention effects. We also find that these methods are highly sensitive to the weighting of effect estimates across time periods. Despite the value of new methods, stepped wedge trials still have statistical disadvantages compared to other trial designs in epidemic settings.",
+    "affiliations": [
+        "National Institute of Allergy and Infectious Diseases (Lee Kennedy-Shaffer, award number 1F31AI147745) and the National Institute of General Medical Sciences (Marc Lipsitch, award number U54GM088558)"
+    ],
+    "author": "Marc Lipsitch; Lee Kennedy-Shaffer",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087429",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087429"
+    },
+    "title": "Statistical Properties of Stepped Wedge Cluster-Randomized Trials in Infectious Disease Outbreaks",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases"
+                },
+                {
+                    "funding-source": "Lee Kennedy-Shaffer,",
+                    "award-id": [
+                        "1F31AI147745"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of General Medical Sciences"
+                },
+                {
+                    "funding-source": "Marc Lipsitch,",
+                    "award-id": [
+                        "U54GM088558"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Institute of Allergy and Infectious Diseases (Lee Kennedy-Shaffer, award number 1F31AI147745) and the National Institute of General Medical Sciences (Marc Lipsitch, award number U54GM088558)"
+        }
+    ]
+}

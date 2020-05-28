@@ -1,0 +1,44 @@
+{
+    "title": "The first-in-class peptide binder to the SARS-CoV-2 spike protein",
+    "keywords": [
+        "SARS-CoV-2",
+        "peptide binder",
+        "protein-protein interaction inhibitor",
+        "coronavirus",
+        "49 COVID-19",
+        "rapid response",
+        "peptide therapeutic",
+        "MD simulation",
+        "automated flow peptide synthesis"
+    ],
+    "author": "G. Zhang, S. Pomplun, A. R. Loftis, A. Loas, and B. L. Pentelute",
+    "date": 2020,
+    "affiliations": [
+        "Massachusetts Institute of Technology, Department of Chemistry, 77 Massachusetts",
+        "Avenue, Cambridge, MA 02139, USA. 12",
+        "Extramural Member, Koch Institute of Integrative Cancer Research MIT; Associate",
+        "Member, Broad Institute of Harvard and MIT; Member, Center for Environmental Health",
+        "Sciences MIT; Cambridge, MA 02139, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.19.999318",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.19.999318.pdf"
+    },
+    "abstract": "Coronavirus disease 19 (COVID-19) is an emerging global health crisis. With over 200,000 confirmed cases to date, this pandemic continues to expand, spurring research to discover vaccines and therapies. SARS-CoV-2 is the novel coronavirus responsible for this disease. It initiates entry into human cells by binding to angiotensin-converting enzyme 2 (ACE2) via the receptor binding domain (RBD) of its spike protein (S). Disrupting the SARS-CoV-2-RBD binding to ACE2 with designer drugs has the potential to inhibit the virus from entering human cells, presenting a new modality for therapeutic intervention. Peptide-based binders are an attractive solution to inhibit the RBD-ACE2 interaction by adequately covering the extended protein contact interface. Using molecular dynamics simulations based on the recently solved ACE2 and SARS-",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Deutsche Forschungsgemeinschaft",
+                    "award-id": [
+                        "PO 2413/1-1"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported by MIT start-up and seed funds. S.P. is supported by a postdoctoral fellowship from Deutsche Forschungsgemeinschaft (award PO 2413/1-1)"
+        }
+    ]
+}

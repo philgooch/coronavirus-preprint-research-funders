@@ -1,0 +1,54 @@
+{
+    "abstract": "Management of the COVID-19 pandemic has proven to be a significant challenge to policy makers. This is in large part due to uneven reporting and the absence of open-access visualization tools to present local trends and infer healthcare needs. Here we report the development of CovidCounties.org, an interactive web application that depicts daily disease trends at the level of US counties using time series plots and maps. This application is accompanied by a manually curated dataset that catalogs all major public policy actions made at the state-level, as well as technical validation of the primary data. Finally, the underlying code for the site is also provided as open source, enabling others to validate and learn from this work.",
+    "author": "Douglas Arneson; Boris Oskotsky; Travis Zack; Atul J. Butte; Matthew Elliott; Vivek A. Rudrapatna; Paul Bleicher; Arman Mosenia; Rohit Vashisht",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083279",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083279"
+    },
+    "title": "CovidCounties - an interactive, real-time tracker of the COVID-19 pandemic at the level of US counties",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UCSF Bakar Computational Health Sciences Institute and the National Center for Advancing Translational Sciences of the National Institutes of Health",
+                    "award-id": [
+                        "TR001872"
+                    ]
+                }
+            ],
+            "funding-statement": "Research reported in this publication was supported by funding from the UCSF Bakar Computational Health Sciences Institute and the National Center for Advancing Translational Sciences of the National Institutes of Health under award number UL1 TR001872"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Center for Advancing Translational Sciences, National"
+                },
+                {
+                    "funding-source": "Institutes of Health,"
+                },
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "TR001871"
+                    ]
+                }
+            ],
+            "funding-statement": "VAR was supported by the National Center for Advancing Translational Sciences, National Institutes of Health, through of the National Institutes of Health grant under award number TL1 TR001871"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases"
+                },
+                {
+                    "funding-source": "Bioinformatics Support Contract",
+                    "award-id": [
+                        "HHSN316201200036W"
+                    ]
+                }
+            ],
+            "funding-statement": "AJB was supported in part by the National Institute of Allergy and Infectious Diseases (Bioinformatics Support Contract HHSN316201200036W)"
+        }
+    ]
+}

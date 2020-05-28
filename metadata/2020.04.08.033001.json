@@ -1,0 +1,85 @@
+{
+    "title": "Relative Abundance of SARS-CoV-2 Entry Genes in the Enterocytes of the Lower Gastrointestinal Tract",
+    "date": 2020,
+    "author": "Jaewon J. Lee, Scott Kopetz, Eduardo Vilar, John Paul Shen, Ken Chen, Anirban Maitra",
+    "affiliations": [
+        "Department of Translational Molecular Pathology",
+        "Sheikh Ahmed Center for Pancreatic Cancer Research",
+        "Department of Surgical Oncology",
+        "Department of Gastrointestinal Medical Oncology",
+        "Department of Clinical Cancer Prevention",
+        "Department of Bioinformatics and Computational Biology The University of Texas MD Anderson Cancer Center",
+        "Sheikh Ahmed Center for Pancreatic Cancer Research Department of Translational Molecular Pathology The University of Texas MD Anderson Cancer Center 6565 MD Anderson Blvd Houston, TX 77030",
+        "Johns Hopkins University to Thrive Earlier Detection. E.V. has a consulting and advisory role with Janssen research and Development. The remaining authors disclose no conflicts",
+        "University of Texas MD Anderson Cancer Center through written informed consent following Institutional Review Board approval. Single cell dissociation, library generation, and sequencing were performed following standard protocols described in Supplementary Materials"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.08.033001",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.08.033001.pdf"
+    },
+    "abstract": "Correspondence: Anirban Maitra, M.B.B.S. Sheikh Ahmed Center for Pancreatic Cancer Research Department of Translational Molecular Pathology The University of Texas MD Anderson Cancer Center 6565 MD Anderson Blvd Houston, TX 77030 Email: amaitra@mdanderson.org",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "MD Anderson Pancreatic Cancer Moon Shot Program and the Khalifa Bin Zayed Foundation"
+                },
+                {
+                    "funding-source": "Human Breast Cell Atlas Seed Network Grant",
+                    "award-id": [
+                        "HCA3-0000000147"
+                    ]
+                },
+                {
+                    "funding-source": "Chan Zuckerberg Initiative",
+                    "award-id": [
+                        "CA234406-01"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "CA234406-01"
+                    ]
+                },
+                {
+                    "funding-source": "Cancer Prevention and Research Institute of Texas"
+                },
+                {
+                    "funding-source": "Scholar in Cancer Research"
+                },
+                {
+                    "funding-source": "Feinberg Family and MD Anderson Cancer Center Pre-Cancer Atlas Project"
+                },
+                {
+                    "funding-source": "MD Anderson Colorectal Cancer Moon Shot Program"
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "CA009599"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "CA016672"
+                    ]
+                },
+                {
+                    "funding-source": "MD Anderson Cancer Center Core Support Grant;"
+                },
+                {
+                    "funding-source": "CPRIT SINGLE CORE Facilities Grant",
+                    "award-id": [
+                        "RP180684"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the MD Anderson Pancreatic Cancer Moon Shot Program and the Khalifa Bin Zayed Foundation to A.M.; the Human Breast Cell Atlas Seed Network Grant HCA3-0000000147 from the Chan Zuckerberg Initiative to K.C.; the NIH K22 CA234406-01 and the Cancer Prevention and Research Institute of Texas (CPRIT) Scholar in Cancer Research to J.P.S.; a gift from the Feinberg Family and MD Anderson Cancer Center Pre-Cancer Atlas Project to E.V.; the MD Anderson Colorectal Cancer Moon Shot Program to S.K. and E.V.; the NIH T32 CA009599 to J.J.L.; the NIH/NCI P30 CA016672 to the MD Anderson Cancer Center Core Support Grant; and the CPRIT SINGLE CORE Facilities Grant RP180684."
+        }
+    ]
+}

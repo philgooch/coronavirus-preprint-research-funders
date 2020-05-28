@@ -1,0 +1,36 @@
+{
+    "title": "Characterization of neutralizing antibodies from a SARS-CoV-2 infected individual",
+    "author": "Stamatatos, Leo",
+    "date": 2020,
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.091298",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.091298.pdf"
+    },
+    "abstract": "B cells specific for the SARS-CoV-2 S envelope glycoprotein spike were isolated from a COVID-19-infected subject using a stabilized spike-derived ectodomain (S2P) twenty-one days post-infection. Forty-four S2P-specific monoclonal antibodies were generated, three of which bound to the receptor binding domain (RBD). The antibodies were minimally mutated from germline and were derived from different B cell lineages. Only two antibodies displayed neutralizing activity against SARS-CoV-2 pseudo-virus. The most potent antibody bound the RBD in a manner that prevented binding to the ACE2 receptor, while the other bound outside the RBD. Our study indicates that the majority of antibodies against the viral envelope spike that were generated during the first weeks of COVID-19 infection are non-neutralizing and target epitopes outside the RBD. Antibodies that disrupt the SARS-CoV-2 spike-ACE2 interaction can potently neutralize the virus without undergoing extensive maturation. Such antibodies have potential preventive/therapeutic potential and can serve as templates for vaccine-design.",
+    "keywords": [
+        "47 COVID-19",
+        "SARS",
+        "SARS-CoV-2",
+        "antibody",
+        "B cells",
+        "spike protein",
+        "receptor binding 48 domain",
+        "53 Thus"
+    ],
+    "affiliations": [
+        "Hutchinson Cancer Research Center, Vaccines and Infectious Diseases Division"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fred Hutch COVID-19 Research Fund"
+                }
+            ],
+            "funding-statement": "This work was supported by generous donations to Fred Hutch COVID-19 Research Fund"
+        }
+    ]
+}

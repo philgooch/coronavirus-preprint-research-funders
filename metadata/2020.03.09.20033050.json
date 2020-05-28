@@ -1,0 +1,167 @@
+{
+    "abstract": "BACKGROUND: In December 2019, a novel strain of SARS-CoV-2 emerged in Wuhan, China. Since then, the city of Wuhan has taken unprecedented measures and efforts in response to the outbreak. METHODS: We quantified the effects of control measures on population contact patterns in Wuhan, China, to assess their effects on the progression of the outbreak. We included the latest estimates of epidemic parameters from a transmission model fitted to data on local and internationally exported cases from Wuhan in the age-structured epidemic framework. Further, we looked at the age-distribution of cases. Lastly, we simulated lifting of the control measures by allowing people to return to work in a phased-in way, and looked at the effects of returning to work at different stages of the underlying outbreak. FINDINGS: Changes in mixing patterns may have contributed to reducing the number of infections in mid-2020 by 92% (interquartile range: 66-97%). There are benefits to sustaining these measures until April in terms of reducing the height of the peak, overall epidemic size in mid-2020 and probability that a second peak may occur after return to work. However, the modelled effects of social distancing measures vary by the duration of infectiousness and the role school children play in the epidemic. INTERPRETATION: Restrictions on activities in Wuhan, if maintained until April, would likely contribute to the reduction and delay the epidemic size and peak, respectively. However, there are some limitations to the analysis, including large uncertainties around estimates of R0 and the duration of infectiousness.",
+    "author": "Petra Klepac; Nicholas Davies; Mark Jit; Yang Liu; Tim Russell; Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group; Rosalind M Eggo; Adam J Kucharski; Kiesha Prem",
+    "date": 2020,
+    "doi": "10.1101/2020.03.09.20033050",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.09.20033050"
+    },
+    "title": "The effect of control strategies that reduce social mixing on outcomes of the COVID-19 epidemic in Wuhan, China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation",
+                    "award-id": [
+                        "INV-003174"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute for Health Research",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "206250/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "HDR UK",
+                    "award-id": [
+                        "MR/S003975/1"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "HPRU-2012-10096"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute for Health Research",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "UK Government"
+                }
+            ],
+            "funding-statement": "KP, YL, MJ, and PK were funded by the Bill & Melinda Gates Foundation (grant number INV-003174), YL and MJ were funded by the National Institute for Health Research (NIHR) (16/137/109), TWR and AJK were funded by the Wellcome Trust (grant number 206250/Z/17/Z), RME was funded by HDR UK (grant number MR/S003975/1), and ND was funded by NIHR (HPRU-2012-10096).This research was partly funded by the National Institute for Health Research (NIHR) (16/137/109) using UK aid from the UK Government to support global health research"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Stefan Flasche and Sam Clifford"
+                },
+                {
+                    "funding-source": "Sir Henry Dale Fellowship",
+                    "award-id": [
+                        "208812/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Fiona Sun,"
+                },
+                {
+                    "funding-source": "Charlie Diamond",
+                    "award-id": [
+                        "NIHR [16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "Joel Hellewell, Sam"
+                },
+                {
+                    "funding-source": "Sebastian Funk"
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "210758/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Amy Gimma and Christopher"
+                },
+                {
+                    "funding-source": "Global Challenges Research Fund",
+                    "award-id": [
+                        "ES/P010873/1"
+                    ]
+                },
+                {
+                    "funding-source": "Hamish Gibbs"
+                },
+                {
+                    "funding-source": "Department of Health and Social Care",
+                    "award-id": [
+                        "ITCRZ 03010"
+                    ]
+                },
+                {
+                    "funding-source": "ITCRZ",
+                    "award-id": [
+                        "03010"
+                    ]
+                },
+                {
+                    "funding-source": "Alicia Rosello",
+                    "award-id": [
+                        "PR-OD-1017-20"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "PR-OD-1017-20002"
+                    ]
+                },
+                {
+                    "funding-source": "Thibaut Jombart",
+                    "award-id": [
+                        "RCUK/ESRC",
+                        "ES/P010873/1"
+                    ]
+                },
+                {
+                    "funding-source": "UK PH RST, NIHR"
+                },
+                {
+                    "funding-source": "HPRU Modelling Methodology)"
+                },
+                {
+                    "funding-source": "Research for Health in Humanitarian Crises"
+                },
+                {
+                    "funding-source": "UK Government"
+                },
+                {
+                    "funding-source": "Wellcome Trust, NIHR"
+                }
+            ],
+            "funding-statement": "Their funding sources are as follows: Stefan Flasche and Sam Clifford (Sir Henry Dale Fellowship [grant number 208812/Z/17/Z]); Billy J Quilty, Fiona Sun, and Charlie Diamond (NIHR [grant number 16/137/109]); Joel Hellewell, Sam Abbott, James D Munday, and Sebastian Funk (Wellcome Trust [grant number 210758/Z/18/Z] ); Amy Gimma and Christopher I Jarvis (Global Challenges Research Fund [grant number ES/P010873/1]); Hamish Gibbs (Department of Health and Social Care [grant number ITCRZ 03010]); Alicia Rosello (NIHR [grant number PR-OD-1017-20002]); Thibaut Jombart (RCUK/ESRC [grant number ES/P010873/1], UK PH RST, NIHR HPRU Modelling Methodology); Kevin van Zandvoort (Elrha\u0092s Research for Health in Humanitarian Crises (R2HC) Programme, UK Government (DFID), Wellcome Trust, NIHR)"
+        }
+    ]
+}

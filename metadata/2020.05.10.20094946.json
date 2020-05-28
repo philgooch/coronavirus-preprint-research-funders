@@ -1,0 +1,16 @@
+{
+    "abstract": "The Government of India in networks with its state government has implemented the epidemic curtailment strategies inclusive of case-isolation, quarantine and lockdown in response to ongoing novel coronavirus (COVID-19) outbreak . In this manuscript we attempt to estimate the effect of these steps across ten Indian states using crowd-sourced data. The chosen transmission parameters are -reproduction number (R0), doubling time and growth rate during the early epidemic phase (15 days into lockdown) and 30 days into lockdown (23rd April 2020) through maximum likelihood approach. The overall analysis shows the decreasing trends in reproductive numbers and growth rate (with few exceptions) and incremental doubling time. The curtailment strategies employed by the Indian government seemed to be effective in reducing the transmission parameters of the COVID-19 epidemic. The effective reproductive numbers are still higher above the threshold of 1 and the resultant absolute numbers tend to be exponentiating fundamentally. The curtailment strategy thus may take into account these findings while formulating further course of actions.",
+    "author": "Arun Mitra; Adrija Roy; Ankur Joshi; Abhijit P Pakhare",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20094946",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20094946"
+    },
+    "title": "Impact of COVID-19 epidemic curtailment strategies in selected Indian states: an analysis by reproduction number and doubling time with incidence modelling",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

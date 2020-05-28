@@ -1,0 +1,20 @@
+{
+    "abstract": "Objective. Countries presently apply different strategies to control the COVID-19 outbreak. Differences in population structures, decision making, health systems and numerous other factors result in various trajectories in terms of mortality at country scale. Our objective in this manuscript is to disentangle the future of second-line European countries (i.e. countries that present, today, a moderate death rate) with respect to the current COVID-19 wave. Method. We propose a data-driven approach, grounded on a mixture model, to forecast the dynamics of the number of deaths from COVID-19 in a given focal country using data from countries that are ahead in time in terms of COVID-19-induced mortality. In this approach, the mortality curves of ahead-in-time countries are used to build predictors, which are then used as the components of the mixture model. This approach was applied to eight second-line European countries (Austria, Denmark, Germany, Ireland, Poland, Portugal, Romania and Sweden), using Belgium, France, Italy, Netherlands, Spain, Switzerland, United Kingdom as well as the Hubei province in China to build predictors. For this analysis, we used data pooled by the Johns Hopkins University Center for Systems Science and Engineering. Results. In general, the second-line European countries tend to follow relatively mild mortality curves (typically, those of Switzerland and Hubei) rather than fast and severe ones (typically, those of Spain, Italy, Belgium, France and the United Kingdom). From a methodological viewpoint, the performance of our forecasting approach is about 80% up to 8 days in the future, as soon as the focal country has accumulated at least two hundreds of deaths. Discussion. Our results suggest that the continuation of the current COVID-19 wave across Europe will likely be mitigated, and not as strong as it was in most of the front-line countries first impacted by the wave.",
+    "author": "Melina Ribaud; Denis Allard; Samuel Soubeyrand; Lionel Roques; Denys Pommeret; Virgile Baudrot",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20069179",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20069179"
+    },
+    "title": "The current COVID-19 wave will likely be mitigated in the second-line European countries",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "INRAE"
+                }
+            ],
+            "funding-statement": "This research was funded by INRAE"
+        }
+    ]
+}

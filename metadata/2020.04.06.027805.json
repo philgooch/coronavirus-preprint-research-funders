@@ -1,0 +1,23 @@
+{
+    "title": "Sequence-based prediction of vaccine targets for inducing T cell responses to SARS-CoV-2 utilizing the bioinformatics predictor RECON",
+    "author": "Lakshmi Srinivasan",
+    "date": 2020,
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.06.027805",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.06.027805.pdf"
+    },
+    "abstract": "Background: The ongoing COVID-19 pandemic has created an urgency to identify novel vaccine targets for protective immunity against SARS-CoV-2. Consistent with observations for SARS-CoV, a closely related coronavirus responsible for the 2003 SARS outbreak, early reports identify a protective role for both humoral and cell-mediated immunity for SARS CoV-2.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Neon Therapeutics, Inc"
+                }
+            ],
+            "funding-statement": "Funding: Neon Therapeutics, Inc"
+        }
+    ]
+}

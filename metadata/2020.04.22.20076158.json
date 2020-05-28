@@ -1,0 +1,26 @@
+{
+    "abstract": "The novel coronavirus disease (namely COVID-19) has taken attention because of its deadliness across the globe, causing a massive death as well as critical situation around the world. It is an infectious disease which is caused by newly discovered coronavirus. Our study demonstrates with a nonlinear model of this devastating COVID-19 which narrates transmission from human-to-human in the society. Pontryagin Maximum principle has also been applied in order to obtain optimal control strategies where the maintenance of social distancing is the major control. The target of this study is to find out the most fruitful control measures of averting coronavirus infection and eventually, curtailed of the COVID-19 transmission among people. The model is investigated analytically by using most familiar necessary conditions of Pontryagin maximum principle. Furthermore, numerical simulations have been performed to illustrate the analytical results. The analysis reveals that implementation of educational campaign, social distancing and developing human immune system are the major factors which can be able to plunge the scenario of becoming infected.",
+    "author": "M. R. Khatun; S. A. Samad; M. A. Islam; M. S. Khatun; A. K. Paul; Md. Haider Ali Biswas; U. Ghosh",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20076158",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20076158"
+    },
+    "title": "Modeling the Effective Control Strategy for Transmission Dynamics of Global Pandemic COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Science and Technology, Government"
+                },
+                {
+                    "funding-source": "Republic of Bangladesh",
+                    "award-id": [
+                        "2019-2020"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors greatly acknowledges the partial financial support provided by the Ministry of Science and Technology, Government of the People\u0092s Republic of Bangladesh under special allocation in 2019-2020 with the research grant Ref"
+        }
+    ]
+}

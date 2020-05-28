@@ -1,0 +1,17 @@
+{
+    "abstract": "April 9, 2020 marks 100 days since the first cases of coronavirus disease 2019 in China. In this crucial day with 1 436 198 confirmed infected cases in the world and 85 521 deaths, the Global Level of the Covid-19 pandemic was evaluated at very high according to the World Health Organization (WHO) situation report. For most people, COVID-19 infection will cause mild illness (fever and at least one symptom of respiratory disease); however, for more than 3.4% of people, it can be fatal. Older people and those with preexisting medical conditions (such as cardiovascular disease, chronic respiratory disease, or diabetes) are at risk of severe disease and mortality. The incubation period of the virus is estimated to be between 2 and 14 days, but longer incubation had been reported. Furthermore, data published by world authorities show that statistics are different for different geographical regions and depend on many social and environmental factors. The sad reality of the COVID-19 is that there are currently no medications or vaccines proven to be effective for the treatment or prevention of the disease. The pandemic spread is consequenctly followed by a worldwide panic. Facing this dramatic uncertain situation, implementing a country-wide strategy for social distancing and a general logistic policy for critical and life-saving supplies is an urgent for government and sanitary authorities. Several mathematical models have been proposed to predict epidemic spread. However, models should be adapted to specific situations in countries where geographic, societal, economic, and political strategies are different. Here, we propose the application of the well-known SIR model to the case study of Tunisia for which data are collected from three databases in order to have rapidly predict the situation. Such results can be useful in the future to design a more reliable model to help in monitoring infection control.",
+    "author": "Olfa Boubaker; Afef Ben Saad; Raouf Ketata; Hela Lassoued; Abir Lassoued",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076802",
+    "identifiers": {
+        "doi": "10.17632/v8fhn6wsh2.3",
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076802"
+    },
+    "title": "Dataset on the COVID-19 Pandemic Situation in Tunisia with application to SIR Model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors declare that they have no known competing financial interests or personal relationships that have, or could be perceived to have influenced the work reported in this article."
+        }
+    ]
+}

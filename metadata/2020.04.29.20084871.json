@@ -1,0 +1,16 @@
+{
+    "abstract": "In this paper, we present a SIR mathematical model in order to study the dynamics and propagation of Covid19 and the effect of lockdown of susceptible population and isolation of infectious population. The basic reproduction number R0 depends on the lockdown and isolation rates. We prove that, R0 becomes smaller than one if the lockdown and isolation rates are higher and in this case, we have the extinction of the infectious population. We apply our results to the case of Morocco country. In the end we carried out some numerical simulations illustrating our results.",
+    "author": "Radouane YAFIA",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20084871",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20084871"
+    },
+    "title": "Modeling and Dynamics in Epidemiology, COVID19 with Lockdown and Isolation Effect : Application to Moroccan Case",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

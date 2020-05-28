@@ -1,0 +1,39 @@
+{
+    "abstract": "Serologic assays are needed to determine SARS-CoV-2 seroprevalence, but poor specificity can overestimate exposures. Here, we built a pan-human coronavirus proteome-wide programmable phage display assay (VirScan) to profile coronavirus antigens specifically enriched by 20 COVID-19 patient serum IgG. With ReScan, a new diagnostic development workflow which combines the isolation of phage expressing the most immunogenic peptides with paper-based microarrays manufactured via acoustic liquid handling, we identified 9 candidate antigens from a library of 534 SARS-CoV-2 peptides. These arrays could form the basis of a multiplexed COVID-19 serologic assay with enhanced specificity. ReScan has broad applicability for serologic assay development.",
+    "affiliations": [
+        "University of California, San Francisco (UCSF) Dean\u0092s Office Medical Student Research Program (G.A.S.)"
+    ],
+    "author": "Bonny D. Alvarenga; Charles Y Chiu; Sabrina A. Mann; Michael R Wilson; Kelsey C. Zorn; Colin R. Zamecnik; Joseph L. DeRisi; Mars Stone; Jayant V. Rajan; Philip J. Norris; Gavin M. Sowa; Kevin A. Yamauchi; Wei Gu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20092528",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20092528"
+    },
+    "title": "ReScan, a Multiplex Diagnostic Pipeline, Pans Human Sera for SARS-CoV-2 Antigens",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "David Friedberg"
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "K08NS096117",
+                        "to M.R.W."
+                    ]
+                },
+                {
+                    "funding-source": "Chan Zuckerberg Biohub",
+                    "award-id": [
+                        "to M.R.W."
+                    ]
+                },
+                {
+                    "funding-source": "Sandler and William"
+                }
+            ],
+            "funding-statement": "This work is supported by David Friedberg (C.R.Z. and M.R.W.), NIH grant K08NS096117 (to M.R.W.), the Chan Zuckerberg Biohub (J.L.D. and K.A.Y.), an endowment from the Rachleff family (to M.R.W.), and the Sandler and William K"
+        }
+    ]
+}

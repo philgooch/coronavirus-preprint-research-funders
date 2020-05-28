@@ -1,0 +1,31 @@
+{
+    "abstract": "Background: Antibody diagnostics play an important role in disease detection and can potentially aid in monitoring of the immune responses to see if an individual has developed immunity. Developing high throughput diagnostics which does not involve handling of infectious material becomes imperative in the case of pandemics such as the recent outbreak of SARS-CoV2. Methods: A protein microarray technology was used to detect the plurality of antibody response to four novel antigens namely S1 glycoprotein, Receptor binding domain (RBD), S2 glycoprotein and Nucleoprotein of the novel coronavirus named SARS-CoV2 using serum samples. A DBS card was additionally used to compare its performance with a venipuncture-based serum separator tube (SST) draw. Results: The three main subclasses of antibodies IgM, IgA and IgG were analyzed to see the variations in immune responses in the affected population and compared to their microbial RT-PCR based NP swab results. The clinical sensitivity and specificity were determined to be 98.1% and 98.6%. In the matrix comparison study, which would enable patients to test without risk of transmitting the virus, DBS matched with higher than 98% accuracy to a venipuncture-based SST collection. Conclusion: Multiplex testing enables higher sensitivity and specificity which is essential while establishing exposure on a population scale. This flexible platform along with a discrete collection methodology would be crucial and broadly useful to scale up testing in current and future pandemics. Minimum sample volume that can be collected using DBS cards can be processed in this multiplex pillar plate format enabling the capacity to provide the reliability of high throughput analyzers while having the ease of collection similar to rapid tests. Keywords: COVID19, SARS-CoV2, Antibody, Multiplex, serology, biomarker, immune modulation, prevalence, high sensitivity, high specificity, Dried blood spot, pandemic, venipuncture\nCompeting Interest Statement",
+    "author": "Rok Seon Choung; Tianhao Wang; Joseph A Murray; Karthik Krishna; Vasanth Jayaraman; Inna Yaskin; Alex J Rai; Hari K Krishnamurthy; Kang Bei; John J Rajasekaran; Karenah E Rajasekaran",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20085068",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20085068"
+    },
+    "keywords": [
+        "COVID19",
+        "SARS-CoV2",
+        "Antibody",
+        "Multiplex",
+        "serology",
+        "biomarker",
+        "immune modulation",
+        "prevalence",
+        "high sensitivity",
+        "high specificity",
+        "Dried blood spot",
+        "pandemic",
+        "venipuncture"
+    ],
+    "title": "Antibody Profiling and Prevalence in the US population during the SARS-CoV2 Pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

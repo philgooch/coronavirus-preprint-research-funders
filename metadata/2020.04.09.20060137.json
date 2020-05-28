@@ -1,0 +1,35 @@
+{
+    "abstract": "Objective: Coronavirus disease 2019 (COVID-19) is a serious infectious disease, which has caused great number of deaths and health problems worldwide. This study aims to examine the effects of airborne particulate matter (PM) pollution on COVID-19 across China. Methods: In this study, we obtained confirmed cases of COVID-19, the data of airborne ambient PM with aerodynamic diameter \u2264 2.5 \u03bcm (PM2.5) and \u2264 10 \u03bcm (PM10), ambient temperature (AT), absolute humidity (AH) and migration scale index (MSI) in 72 cities of China (excluded Wuhan city) on a daily basis, each of which confirmed more than 50 cases from January 20th to March 2nd, 2020. We applied a two-stage analysis. Generalized additive models with quasi-Poisson distribution was first fitted to estimate city-specific effects of PM10 and PM2.5 on daily confirmed COVID-19 cases while controlling AT, AH and MSI. Then, we used meta-analysis to generate the pooled effect estimates from city-specific results. Results: During the study period, there were a total of 24 939 COVID-19 cases, most of which were reported in Hubei Province. In our meta-analysis, we found each 10 \u03bcg/m3 increase in concentration of PM2.5 and PM10 in single day lag (from lag 0 to lag 7 and lag 14) were positively associated with confirmed cases of COVID-19, not including PM10 at lag 5, lag 6 and lag 7, and PM2.5 at lag 5, lag 6. Similar trend was also found in different cumulative lag days (from lag 01 to lag 07 and lag 014). The effects of PM2.5 and PM10 on daily COVID-19 confirmed cases are statistically significant for three cumulative lag periods over 3, 7 and 14 days with the greatest effect over 14 days. The estimated RRs of which were 1.64 (95% CIs: 1.47, 1.82) and 1.47 (95% CIs: 1.34, 1.61) with each 10 \u03bcg/m3 increase in concentrations of PM2.5 and PM10, respectively. In addition, we found that the effects of PM2.5 on daily confirmed cases were greater than PM10 in all included lag days. Conclusions: This nationwide study suggests that airborne PM pollution likely increases the risk of getting COVID-19 in China.",
+    "affiliations": [
+        "Central Universities, Lanzhou university, China [lzujbky-2020-sp21]; National Natural Science Foundation of China [4187050043]; the Novel Coronavirus Disease Science and Technology Major Project in Gansu Province"
+    ],
+    "author": "Jun Yan; Bo Wang; Xiaowei Ren; Jingping Niu; Bin Luo; Shihua Fu; Xiaocheng Xu; Ji Zhou; Xingrong Liu; Xiaotao He; Lanyu Li; Yanjun Shi; Jinxi Yao; Kai zhang; Yueling Ma; Xiuxia Zhang; Jiangtao Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20060137",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20060137"
+    },
+    "title": "An effect assessment of Airborne particulate matter pollution on COVID-19: A multi-city Study in China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities, Lanzhou",
+                    "award-id": [
+                        "lzujbky-2020-sp21"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "4187050043"
+                    ]
+                },
+                {
+                    "funding-source": "Novel Coronavirus Disease Science and Technology Major Project in Gansu Province"
+                }
+            ],
+            "funding-statement": "This work was supported by the Fundamental Research Funds for the Central Universities, Lanzhou university, China [lzujbky-2020-sp21]; National Natural Science Foundation of China [4187050043]; the Novel Coronavirus Disease Science and Technology Major Project in Gansu Province"
+        }
+    ]
+}

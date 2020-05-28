@@ -1,0 +1,16 @@
+{
+    "abstract": "Introduction: COVID-19 disproportionately affects those with comorbidities and the elderly. Hypertension is the most common pre-existing condition amongst COVID-19 patients. Upregulation of the renin-angiotensin-aldosterone system (RAAS) is common in hypertensive patients and may promote inflammation and ensuing cytokine storm in COVID-19. It is unknown whether RAAS inhibition with ACE1 inhibitors or angiotensin-receptor blockers (ARB) can be harmful or beneficial. Methods: Within Hackensack Meridian Health network, the largest healthcare provider in New Jersey, we performed a retrospective, multicenter, convenience sampling study of hospitalized COVID-19 patients. Demographics, clinical characteristics, treatments, and outcomes were manually abstracted. Fishers exact tests, and logistic regression were performed. Results: Among 3017 hospitalized COVID-19 patients, 1584 (52.5%) carried a diagnosis of hypertension. In the discharged or deceased cohort, the overall mortality was significantly increased at 35% vs 13% among COVID-19 patients with hypertension. However, when adjusted for age, the effect of hypertension on mortality was greatly diminished, with a reduction in odds-ratio by over half; and completely disappeared when adjusted for other major covariates. The mortality rates were lower for hypertensive patients prescribed ACE1 (27%, p=0.001) or ARBs (33%, p=0.12) compared to other anti-hypertensive agents (39%) in the unadjusted analyses. RAAS inhibitor therapy appeared protective compared to other anti-hypertensive agents (p=0.001). Conclusions: While our results are limited by the retrospective nature of our study and by potential confounders, our data argue against a harmful effect of RAAS inhibition and support the HFSA/AHA/ACC joint statement recommending continuing ACE1 and ARB therapy in hypertensive COVID-19 patients.",
+    "author": "Stuart L Goldberg; Joseph E Parrillo; Shivam Mathura; Ihor S Sawczuk; Kaushal Parikh; Eric Hansen; Andrew Ip",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20077388",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20077388"
+    },
+    "title": "Hypertension and Renin-Angiotensin-Aldosterone System Inhibitors in Patients with Covid-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Mutation landscape of SARS-CoV-2 reveals three mutually exclusive clusters of leading and trailing single nucleotide substitutions",
+    "author": "Akhilesh Mishra$1, Ashutosh Kumar Pandey$1, Parul Gupta$1, Prashant Pradhan$1, Sonam Dhamija, James Gomes, Bishwajit Kundu, Perumal Vivekanandan, and Manoj B. Menon",
+    "date": 2020,
+    "affiliations": [
+        "Kusuma School of biological sciences, Indian institute of technology, New Delhi-110016, India",
+        "Acharya Narendra Dev College, University of Delhi, New Delhi-110019, India $Equal contribution"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.07.082768",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.07.082768.pdf"
+    },
+    "abstract": "The COVID-19 pandemic has spread across the globe at an alarming rate in the last four months. However, unlike any of the previous global outbreaks the availability of hundreds of SARS-CoV-2 sequences provides us with a unique opportunity to understand viral evolution in real time. We analysed 480 full-length (>29000 nt) sequences from the 1575 SARS-CoV-2 sequences available and identified 37 single-nucleotide substitutions occurring in >1% of the genomes. Majority of the substitutions were C to T or G to A. We identify C/Gs with an upstream TTT trinucleotide motif as hotspots for mutations in the SARS-CoV-2 genome. Interestingly, two of the 37 substitutions occur within highly conserved secondary structures in the 5\u2019 and 3\u2019 untranslated regions that are critical for the virus life cycle. Furthermore, clustering analysis revealed unique geographical distribution of SARS-CoV-2 variants defined by their mutation profile. Of note, we observed several co-occurring mutations that almost never occur individually. We define 3 mutually exclusive lineages (A1, B1 and C1) of SARS-CoV-2 which account for about three quarters of the genomes analysed. We identify lineage-defining leading mutations in the SARS-CoV-2 genome which precede the occurrence of sub-lineage defining trailing mutations. The identification of mutually exclusive lineage-defining mutations with geographically restricted patterns of distribution has potential implications for diagnosis, pathogenesis and vaccine design. Our work provides novel insights on the temporal evolution of SARS-CoV-2.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "single-nucleotide substitutions",
+        "mutations",
+        "hotspot",
+        "lineage-defining mutations",
+        "leading and trailing mutations"
+    ],
+    "funding": [
+        {}
+    ]
+}

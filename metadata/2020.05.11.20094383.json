@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: This study aims to investigate the clinical characteristics and risk prediction of severe or critical events of COVID-19 in the elderly patients in China. Methods: The clinical data of COVID-19 in the elderly patients admitted to the Shanghai Public Health Clinical Center during the period of January 20, 2020 to March 16, 2020 were collected. A retrospective cohort study design was conducted to screen out independent factors through Cox univariable regression analysis and multivariable regression analysis, and the efficacy of risk prediction of severe or critical illness was examined through the receiver operating characteristic (ROC) curve. Results: A total of 110 elderly patients with COVID-19 were enrolled. 52 (47.3%) were males and 21 (19.1%) had severe or critical illness. Multivariable regression analysis showed that CD4 cells and D-dimer were independent risk factors. D-dimer, CD4 cells, and D-dimer/CD cells ratios with cut off values of 0.65 (mg/L), 268 (cell/ul) and 431 were in the prediction of severe or critical illness of the elderly COVID-19. The AUC value of D-dimer, CD4 cells, CD4 cells/D-dimer ratio, the tandem group and the parallel group were 0.703, 0.804, 0.794, 0.812 and 0.694, respectively. Conclusions: D-dimer, CD4 cells and their combination have risk assessment value in predicting severe or critical illness of COVID-19 in the elderly.\nCompeting Interest Statement",
+    "affiliations": [
+        "Public Health Clinical Center for data access"
+    ],
+    "author": "Yi Zhang; Xin-Yan Li; Yu-Xian Huang; Hai-Bing Wu; Qing-Chun Fu; Liang Chen; Zhi-Ping Qian; Yang Zhao; Wei-Xia Li; Xiao-Yu Zhang; Yin-Peng Jin; Lin Zhang; Yun Ling",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20094383",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20094383"
+    },
+    "title": "Risk assessment and prediction of severe or critical illness of COVID-19 in the elderly",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Shanghai Public Health Clinical Center for"
+                }
+            ],
+            "funding-statement": "This study was supported by the Shanghai Public Health Clinical Center for data access"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Background Wuhan, China was the epicenter of the 2019 coronavirus outbreak. As a designated hospital, Wuhan Pulmonary Hospital has received over 700 COVID-19 patients. With the COVID-19 becoming a pandemic all over the world, we aim to share our epidemiological and clinical findings with the global community. Methods In this retrospective cohort study, we studied 340 confirmed COVID-19 patients from Wuhan Pulmonary Hospital, including 310 discharged cases and 30 death cases. We analyzed their demographic, epidemiological, clinical and laboratory data and implemented our findings into an interactive, free access web application. Findings Baseline T lymphocyte Subsets differed significantly between the discharged cases and the death cases in two-sample t-tests: Total T cells (p < 2.2e-16), Helper T cells (p < 2.2e-16), Suppressor T cells (p = 1.8-14), and TH/TS (Helper/Suppressor ratio, p = 0.0066). Multivariate logistic regression model with death or discharge as the outcome resulted in the following significant predictors: age (OR 1.05, p 0.04), underlying disease status (OR 3.42, p 0.02), Helper T cells on the log scale (OR 0.22, p 0.00), and TH/TS on the log scale (OR 4.80, p 0.00). The McFadden pseudo R-squared for the logistic regression model is 0.35, suggesting the model has a fair predictive power. Interpretation While age and underlying diseases are known risk factors for poor prognosis, patients with a less damaged immune system at the time of hospitalization had higher chance of recovery. Close monitoring of the T lymphocyte subsets might provide valuable information of the patients condition change during the treatment process. Our web visualization application can be used as a supplementary tool for the evaluation.",
+    "author": "Shinichi Tokuno; Feng Xu; Bing Wang; Peng Peng; Xiaoyu Liu; Qibin Liu; Xuemin Fang; Ungil Chung; Xiyong Dai; Xianxiang Chen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20056127",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20056127"
+    },
+    "title": "Prediction of the clinical outcome of COVID-19 patients using T lymphocyte subsets with 340 cases from Wuhan, China: a retrospective cohort study and a web visualization tool",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors report no funding."
+        }
+    ]
+}

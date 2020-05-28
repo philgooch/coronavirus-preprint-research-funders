@@ -1,0 +1,26 @@
+{
+    "abstract": "We present an epidemic model capable of describing key features of the present Covid-19 pandemic. While capturing several qualitative properties of the virus spreading, it allows to compute the basic reproduction number, the number of deaths due to the virus and various other statistics. Numerical integrations are used to illustrate the relevance of quarantine and the role of care houses.\nCompeting Interest Statement",
+    "author": "Elena Rossi; Mauro Garavello; Francesca Marcellini; Rinaldo M Colombo",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103317",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103317"
+    },
+    "title": "An Age and Space Structured SIR Model Describing the Covid-19 Pandemic",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "GNAMPA"
+                },
+                {
+                    "funding-source": "From Wellposedness"
+                },
+                {
+                    "funding-source": "Game Theory in Conservation Laws\u201d"
+                }
+            ],
+            "funding-statement": "The authors were partly supported by the GNAMPA 2020 project \u201cFrom Wellposedness to Game Theory in Conservation Laws\u201d"
+        }
+    ]
+}

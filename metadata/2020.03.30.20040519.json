@@ -1,0 +1,170 @@
+{
+    "title": "Inferring Timing of Infection Using Within-host SARS-CoV-2 Infection Dynamics Model: Are \"Imported Cases\" Truly Imported?",
+    "author": "Inferring Timing of Infection Using Within-host",
+    "date": 2020,
+    "affiliations": [
+        "Department of Epidemiology and Biostatistics, Indiana University School of Public",
+        "Health-Bloomington, IN, USA 47405",
+        "Department of Biology, Faculty of Sciences",
+        "Kyushu University, Fukuoka, Japan 8190395",
+        "Department of Virology II, National",
+        "Institute of Infectious Diseases, Tokyo, Japan 1628640",
+        "National Center for Global",
+        "Health and Medicine, Tokyo, Japan 1628655",
+        "Department of Applied Biological",
+        "Science, Tokyo University of Science, Noda, Japan 2788510",
+        "MIRAI, JST, Saitama",
+        "Institute for Frontier Life and Medical Sciences, Kyoto University",
+        "Kyoto, Japan 6068507",
+        "Institute of Industrial Science, The University of Tokyo",
+        "Tokyo, Japan 1138654",
+        "International Research Center for Neurointelligence, The",
+        "University of Tokyo Institutes for Advanced Study, The University of Tokyo, Tokyo",
+        "Science Groove Inc., Fukuoka, Japan 8100041. 20 1To whom correspondence may be addressed. 21"
+    ],
+    "journal": "On March",
+    "volume": "11",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.30.20040519",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.30.20040519.pdf"
+    },
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "mathematical model",
+        "infectious disease epidemiology 39"
+    ],
+    "abstract": "(171/250)\nIn countries/communities at risk of future outbreaks of COVID-19, ascertaining whether cases are imported or the result of local secondary transmission is important for government to shape appropriate public health strategies. In this study, we propose a novel approach to identify the timing of infection, whereby we developed a within-host model to capture viral load dynamics postsymptom onset. We submit our approach allow us to differentiate imported cases from local secondary cases. To illustrate our method, we use the initial reported cases in Singapore, where the first reported 18 cases were considered imported, as these individuals had recent travel history to Wuhan, China, which is a hotspot of COVID-19 outbreak. With additional information regarding day of entrance in Singapore, we were able to infer whether these were infected locally or prior to arriving in Singapore. Of all the cases, we identified 6 as likely evidence of ongoing secondary transmission within Singapore. In an early phase of outbreaks, collecting viral load data over time from cases from symptom onset is highly recommended.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Basic Science Research Program"
+                },
+                {
+                    "funding-source": "National Research Foundation of Korea",
+                    "award-id": [
+                        "2019R1A6A3"
+                    ]
+                },
+                {
+                    "funding-source": "Ministry of Education",
+                    "award-id": [
+                        "2019R1A6A3A12031316",
+                        "to K.S.K."
+                    ]
+                },
+                {
+                    "funding-source": "Grants-in-Aid for JSPS Scientific Research"
+                },
+                {
+                    "funding-source": "Scientific Research",
+                    "award-id": [
+                        "17H04085",
+                        "to K.W.",
+                        "18KT0018",
+                        "to S.I.",
+                        "18H01139",
+                        "to S.I.",
+                        "16H04845",
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "Scientific Research",
+                    "award-id": [
+                        "15H05707",
+                        "to K.A."
+                    ]
+                },
+                {
+                    "funding-source": "Scientific Research in Innovative Areas",
+                    "award-id": [
+                        "19H04839",
+                        "to S.I.",
+                        "18H05103",
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "AMED CREST",
+                    "award-id": [
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "AMED J-PRIDE",
+                    "award-id": [
+                        "to K.W.",
+                        "to S.I.",
+                        "to S.I.",
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "AMED Research Program on",
+                    "award-id": [
+                        "HIV/AIDS",
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "Research Program on Emerging and Re-emerging Infectious Diseases",
+                    "award-id": [
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "Program for Basic and Clinical Research on Hepatitis",
+                    "award-id": [
+                        "to K.W.",
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "Program on the Innovative Development and the Application of New Drugs for Hepatitis",
+                    "award-id": [
+                        "to K.W.",
+                        "to K.W.",
+                        "to K.W.",
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "JST PRESTO",
+                    "award-id": [
+                        "to S.N."
+                    ]
+                },
+                {
+                    "funding-source": "JST MIRAI",
+                    "award-id": [
+                        "to K.W."
+                    ]
+                },
+                {
+                    "funding-source": "The Yasuda Medical Foundation",
+                    "award-id": [
+                        "to K.W."
+                    ]
+                },
+                {
+                    "funding-source": "Smoking Research Foundation",
+                    "award-id": [
+                        "to K.W."
+                    ]
+                },
+                {
+                    "funding-source": "Takeda Science Foundation",
+                    "award-id": [
+                        "to K.W."
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported in part by Basic Science Research Program through the National Research Foundation of Korea funded by the Ministry of Education 2019R1A6A3A12031316 (to K.S.K.); Grants-in-Aid for JSPS Scientific Research (KAKENHI) Scientific Research B 17H04085 (to K.W.), 18KT0018 (to S.I.), 18H01139 (to S.I.), 16H04845 (to S.I.), Scientific Research S 15H05707 (to K.A.), Scientific Research in Innovative Areas 19H04839 (to S.I.), 18H05103 (to S.I.); AMED CREST 19gm1310002 (to S.I.); AMED J-PRIDE 19fm0208019j0003 (to K.W.), 19fm0208006s0103 (to S.I.), 19fm0208014h0003 (to S.I.), 19fm0208019h0103 (to S.I.); AMED Research Program on HIV/AIDS 19fk0410023s0101 (to S.I.); Research Program on Emerging and Re-emerging Infectious Diseases 19fk0108050h0003 (to S.I.); Program for Basic and Clinical Research on Hepatitis 19fk0210036j0002 (to K.W.), 19fk0210036h0502 (to S.I.); Program on the Innovative Development and the Application of New Drugs for Hepatitis B 19fk0310114j0003 (to K.W.), 19fk0310101j1003 (to K.W.) , 19fk0310103j0203 (to K.W.), 19fk0310114h0103 (to S.I.); JST PRESTO (to S.N.); JST MIRAI (to K.W. and S.I.); The Yasuda Medical Foundation (to K.W.); Smoking Research Foundation (to K.W.); Takeda Science Foundation (to K.W.); Mochida"
+        }
+    ]
+}

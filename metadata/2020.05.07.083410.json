@@ -1,0 +1,34 @@
+{
+    "title": "Characterization of SARS-CoV-2 viral diversity within and across hosts",
+    "author": "Palash Sashittal, Yunan Luo, Jian Peng, Mohammed El-Kebir",
+    "date": 2020,
+    "affiliations": [
+        "Aerospace Engineering, University of Illinois at Urbana-Champaign, IL 61801, USA",
+        "Dept. of Computer Science, University of Illinois at Urbana-Champaign, IL 61801, USA",
+        "College of Medicine, University of Illinois at Urbana-Champaign, IL 61801, USA",
+        "Equal contribution \u2020 To whom correspondence should be addressed"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.07.083410",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.07.083410.pdf"
+    },
+    "abstract": "In light of the current COVID-19 pandemic, there is an urgent need to accurately infer the evolutionary and transmission history of the virus to inform real-time outbreak management, public health policies and mitigation strategies. Current phylogenetic and phylodynamic approaches typically use consensus sequences, essentially assuming the presence of a single viral strain per host. Here, we analyze 621 bulk RNA sequencing samples and 7,540 consensus sequences from COVID-19 patients, and identify multiple strains of the virus, SARS-CoV-2, in four major clades that are prevalent within and across hosts. In particular, we find evidence for (i) within-host diversity across phylogenetic clades, (ii) putative cases of recombination, multi-strain and/or superinfections as well as (iii) distinct strain profiles across geographical locations and time. Our findings and algorithms will facilitate more detailed evolutionary analyses and contact tracing that specifically account for within-host viral diversity in the ongoing COVID-19 pandemic as well as future pandemics.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "DBI-1652815",
+                        "CCF-1850502",
+                        "CCF-2027669"
+                    ]
+                }
+            ],
+            "funding-statement": "This material is based upon work supported by the National Science Foundation under award numbers DBI-1652815, CCF-1850502 and CCF-2027669. Author Contributions"
+        }
+    ]
+}

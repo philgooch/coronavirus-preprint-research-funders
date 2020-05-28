@@ -1,0 +1,38 @@
+{
+    "title": "Favipiravir strikes the SARS-CoV-2 at its Achilles heel, the RNA polymerase",
+    "author": "Bruno Canard",
+    "date": 2020,
+    "affiliations": [
+        "Universit\u00e9, UMR 7257, Polytech Case 925, 13009 Marseille, France",
+        "University of Hamburg, Faculty of Sciences, Department of Chemistry, Organic Chemistry",
+        "Department of Biochemistry & Molecular Biology, Colorado State University, Fort Collins"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.15.098731",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.15.098731.pdf"
+    },
+    "abstract": "The ongoing Corona Virus Disease 2019 (COVID-19) pandemic, caused by severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), has emphasized the urgent need for antiviral therapeutics. The viral RNA-dependent-RNA-polymerase (RdRp) is a promising target with polymerase inhibitors successfully used for the treatment of several viral diseases. Here we show that Favipiravir exerts an antiviral effect as a nucleotide analogue through a combination of chain termination, slowed RNA synthesis and lethal mutagenesis. The SARS-CoV RdRp complex is at least 10-fold more active than any other viral RdRp known. It possesses both unusually high nucleotide incorporation rates and high-error rates allowing facile insertion of",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Recherche M\u00e9dicale",
+                    "award-id": [
+                        "Aide aux \u00e9quipes"
+                    ]
+                },
+                {
+                    "funding-source": "SCORE",
+                    "award-id": [
+                        "H2020",
+                        "SC1-PHE"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Fondation pour la Recherche M\u00e9dicale (Aide aux \u00e9quipes), the SCORE project H2020 SC1-PHE-Coronavirus-"
+        }
+    ]
+}

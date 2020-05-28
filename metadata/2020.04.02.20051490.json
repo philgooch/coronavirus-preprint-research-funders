@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The number of patients of COVID\u221219 in Tokyo has been increasing gradually through the end of March, 2020. Object: Support for policymaking requires forecasting of the entire course and outcome of the outbreak if a self\u2212restraint in going out is not initiated. Moreover, the effects of a self\u2212restraint in going out must be considered when choosing to initiate one. Method: Data of Tokyo patients with symptoms during January 14 \u2212 March 28, 2020 were used to formulate a susceptible\u2212infected\u2212recovered (SIR) model using three age classes and to estimate the basic reproduction number (R0). Based on the estimated R0, We inferred outbreak outcomes and medical burden if a self-restraint in going out were not enacted. Then we estimate the self-restraint in going out effects. Results: Results suggest R0 as 2.86, with a 95% confidence interval of [2.73, 2.97]. Exhaustion of medical resources can be expected to occur on April 26 if no self-restraint in going out occurs. If a self-restraint in going out were enacted from April 6, and if more than 60% of trips outside the home were restricted voluntarily, then medical care service could be maintained. Discussion and Conclusion: The estimated R0 was similar to that found from other studies conducted in China and Japan. Results demonstrate that a self-restraint in going out with reasonable cooperation of residents is required to maintain medical care.\nCompeting Interest Statement",
+    "author": "Yasushi Ohkusa; Junko Kurita; Tamie Sugawara",
+    "date": 2020,
+    "doi": "10.1101/2020.04.02.20051490",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20051490"
+    },
+    "title": "Forecast of the COVID\u221219 outbreak and effects of self-restraint in going out in Tokyo, Japan",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The author(s) received no specific funding for this work."
+        }
+    ]
+}

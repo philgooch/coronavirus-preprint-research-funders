@@ -1,0 +1,16 @@
+{
+    "abstract": "Importance: The Covid-19 pandemic has placed unprecedented stress on health systems across the world, and reliable estimates of risk for adverse outcomes are needed. Objective: To quantify admission laboratory features associated with mechanical ventilation and mortality risk across 5 Eastern Massachusetts hospitals. Design: Retrospective cohort study using narrative clinical notes and laboratory values through April 28, 2020. Setting: Emergency department and inpatient settings from 2 academic medical centers and 3 community hospitals. Participants: All individuals with hospital admission and documented coronavirus testing across these 5 hospitals. Main Outcome or Measure: Mechanical ventilation, as documented in narrative notes. Results: Among 1,898 hospitalized Covid-19-positive individuals through April 28, 2020, 481 (25.3%) required mechanical ventilation and 241 (12.7%) died. L1-regression models developed in 3 of these hospitals yielded area under ROC curve (AUC) of 0.837 for in-hospital mortality and 0.839 for mechanical ventilation in the other 2 hospitals. In total, 66.7% of deaths occurred in the highest-risk mortality quintile. Conclusions and Relevance: Specific admission laboratory studies in concert with sociodemographic features facilitate risk stratification among individuals hospitalized for COVID-19.",
+    "author": "Roy H Perlis; Victor M Castro",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090555",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090555"
+    },
+    "title": "Laboratory findings associated with mechanical ventilation requirement and mortality among hospitalized individuals with Covid-19 in Eastern Massachusetts",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

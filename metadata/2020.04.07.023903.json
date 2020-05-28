@@ -1,0 +1,60 @@
+{
+    "title": "Structural and functional analysis of a potent sarbecovirus neutralizing antibody",
+    "author": "Davide Corti",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biochemistry, University of Washington, Seattle, Washington 98195, USA. 12",
+        "Institut Pasteur & CNRS UMR 3569, Unit\u00e9 de Virologie Structurale, 75015, Paris, France. 13",
+        "Vir Biotechnology, San Francisco, California 94158, USA 14",
+        "Institute for Research in Biomedicine, Universit\u00e0 della Svizzera Italiana, 6500 Bellinzona",
+        "Departments of Medicine, Molecular Microbiology, Pathology & Immunology, Washington",
+        "University School of Medicine, St. Louis, MO 631110, USA 18",
+        "These authors contributed equally 19"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.07.023903",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.023903.pdf"
+    },
+    "abstract": "23 SARS-CoV-2 is a newly emerged coronavirus responsible for the current COVID24 19 pandemic that has resulted in more than one million infections and 73,000 deaths1,2. Vaccine and therapeutic discovery efforts are paramount to curb the pandemic spread of this zoonotic virus. The SARS-CoV-2 spike (S) glycoprotein promotes entry into host cells and is the main target of neutralizing antibodies. Here we describe multiple monoclonal antibodies targeting SARS-CoV-2 S identified from memory B cells of a SARS survivor infected in 2003. One antibody, named S309, potently neutralizes SARS-CoV-2 and SARS-CoV pseudoviruses as well as authentic SARS-CoV-2 by engaging the S receptor32 binding domain. Using cryo-electron microscopy and binding assays, we show that S309 recognizes a glycan-containing epitope that is conserved within the sarbecovirus subgenus, without competing with receptor attachment. Antibody cocktails including S309 along with other antibodies identified here further enhanced SARS-CoV-2 neutralization and may limit the emergence of neutralization-escape mutants. These results pave the way for using S309 and S309-containing antibody cocktails for prophylaxis in individuals at high risk of exposure or as a post-exposure therapy to limit or treat severe disease.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of General Medical Sciences",
+                    "award-id": [
+                        "R01GM120553"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases",
+                    "award-id": [
+                        "HHSN272201700059C to DV",
+                        "75N93019C00062 to MSD"
+                    ]
+                },
+                {
+                    "funding-source": "Pew Biomedical Scholars Award"
+                },
+                {
+                    "funding-source": "Investigators in the Pathogenesis of Infectious Disease Award from the Burroughs Wellcome Fund"
+                },
+                {
+                    "funding-source": "University of Washington Arnold and Mabel Beckman"
+                },
+                {
+                    "funding-source": "Pasteur Institute"
+                },
+                {
+                    "funding-source": "Advanced Light Source"
+                },
+                {
+                    "funding-source": "Lawrence Berkley National Laboratory"
+                }
+            ],
+            "funding-statement": "This study was supported by the National Institute of General Medical Sciences (R01GM120553, D.V.), the National Institute of Allergy and Infectious Diseases (HHSN272201700059C to DV and 75N93019C00062 to MSD)), a Pew Biomedical Scholars Award (D.V.), an Investigators in the Pathogenesis of Infectious Disease Award from the Burroughs Wellcome Fund (D.V.), the University of Washington Arnold and Mabel Beckman cryoEM center, the Pasteur Institute (M.A.T.) and the beamline 5.0.1 at the Advanced Light Source at Lawrence Berkley National Laboratory"
+        }
+    ]
+}

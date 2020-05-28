@@ -1,0 +1,34 @@
+{
+    "title": "An engineered stable mini-protein to plug SARS-Cov-2 Spikes",
+    "author": "Rita Berisio",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Biostructures and Bioimaging, IBB, CNR, Napoli, Italy"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.29.067728",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.29.067728.pdf"
+    },
+    "abstract": "The novel betacoronavirus SARS-CoV-2 is the etiological agent of the current pandemic COVID-19. Like other coronaviruses, this novel virus relies on the surface Spike glycoprotein to access the host cells, mainly through the interaction of its Receptor Binding Domain (RBD) with the human angiotensin-converting enzyme 2 (ACE2). Therefore, molecular entities able to interfere with binding of the SARS-CoV-2 Spike protein to ACE2 have a great potential to inhibit viral entry. Starting from the available structural data on the interaction between SARS-CoV-2 Spike protein and the host ACE2 receptor, we here engineered a mini-protein with the aim of creating a soluble and stable Spike interactor. This mini-protein, which was recombinantly produced in high yields, possesses a stable \u03b1 helical conformation and is able to interact with the RBD of glycosylated Spike protein from SARSCoV-2 with nanomolar affinity, as measured by microscale thermophoresis. By plugging the Spike protein, our mini-protein constitutes a valid tool for the development of treatments against different types of coronavirus.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "viral entry",
+        "Spike protein",
+        "protein structure",
+        "infectious disease Abbreviations: COVID-19",
+        "Coronavirus disease 19",
+        "Protein Databank",
+        "Receptor Binding Domain",
+        "Receptor Binding Motif",
+        "ACE2",
+        "angiotensin-converting enzyme 2",
+        "Microscale thermophoresis"
+    ],
+    "funding": [
+        {}
+    ]
+}

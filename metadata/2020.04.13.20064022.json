@@ -1,0 +1,16 @@
+{
+    "abstract": "A mathematical model which accounts for tested and untested infectious individuals is calibrated during the early stages of COVID-19 outbreaks in Germany, the Hubei province, Italy, Spain and the UK. The predicted percentage of untested infected individuals depends on the specific outbreak but we found that they typically represent 50% to 80% of the infected individuals. Even when unreported cases are taken into account, we estimate that less than 8% of the population would have been exposed to SARS-CoV-2 by 09/04/2020 in the analysed outbreaks. These levels are far from the 70-85% needed to ensure herd immunity and we predict a resurgence of infection if ongoing lockdowns in the analysed outbreaks are fully lifted. We propose that partially lifted lockdowns together with fast and thorough testing allowing for quick isolation of both symptomatic and asymptomatic cases could lead to suppression of secondary waves of COVID-19 epidemics.",
+    "author": "Norval J. C. Strachan; Ken J. Forbes; Francisco J. Perez-Reche",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20064022",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20064022"
+    },
+    "title": "Importance of untested infectious individuals for the suppression of COVID-19 epidemics",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "N/A"
+        }
+    ]
+}

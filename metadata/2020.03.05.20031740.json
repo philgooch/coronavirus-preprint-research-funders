@@ -1,0 +1,40 @@
+{
+    "abstract": "Two months after it was firstly reported, the novel coronavirus disease COVID-19 has already spread worldwide. However, the vast majority of reported infections have occurred in China. To assess the effect of early travel restrictions adopted by the health authorities in China, we have implemented an epidemic metapopulation model that is fed with mobility data corresponding to 2019 and 2020. This allows to compare two radically different scenarios, one with no travel restrictions and another in which mobility is reduced by a travel ban. Our findings indicate that i) travel restrictions are an effective measure in the short term, however, ii) they are ineffective when it comes to completely eliminate the disease. The latter is due to the impossibility of removing the risk of seeding the disease to other regions. Our study also highlights the importance of developing more realistic models of behavioral changes when a disease outbreak is unfolding.",
+    "affiliations": [
+        "Intesa Sanpaolo Innovation Center. PJ acknowledges Natural Science Foundation of Shanghai, Eastern Scholar and NSFC 269 (11701096). The funders had no role in study design, data collection, and analysis, decision to publish, or preparation of the manuscript"
+    ],
+    "author": "Alberto Aleta; Peng Ji; Jiachen Ye; Yamir Moreno; Qitong Hu",
+    "date": 2020,
+    "doi": "10.1101/2020.03.05.20031740",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.05.20031740"
+    },
+    "title": "A data-driven assessment of early travel restrictions related to the spreading of the novel COVID-19 within mainland China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Government of Aragon, Spain",
+                    "award-id": [
+                        "E36-17R"
+                    ]
+                },
+                {
+                    "funding-source": "MINECO and FEDER",
+                    "award-id": [
+                        "FIS2017-87519-P"
+                    ]
+                }
+            ],
+            "funding-statement": "YM acknowledges partial support from the Government of Aragon, Spain through grant E36-17R (FENOL), and by MINECO and FEDER funds (FIS2017-87519-P)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intesa Sanpaolo Innovation Center"
+                }
+            ],
+            "funding-statement": "AA and YM acknowledge support from Intesa Sanpaolo Innovation Center"
+        }
+    ]
+}

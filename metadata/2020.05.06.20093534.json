@@ -1,0 +1,45 @@
+{
+    "abstract": "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), causing the coronavirus disease 2019 (COVID-19) pandemic, has infected millions of people and caused hundreds of thousands of deaths. While COVID-19 has overwhelmed healthcare resources (e.g., healthcare personnel, testing resources, hospital beds, and ventilators) in a number of countries, limited research has been conducted to understand spatial accessibility of such resources. This study fills this gap by rapidly measuring the spatial accessibility of COVID-19 healthcare resources with a particular focus on Illinois, USA. Specifically, the rapid measurement is achieved by resolving computational intensity of an enhanced two-step floating catchment area (E2SFCA) method through a parallel computing strategy based on cyberGIS (cyber geographic information science and systems). The study compared the spatial accessibility measures for COVID-19 patients to those of general population, identifying which geographic areas need additional healthcare resources to improve access. The results also help delineate the areas that may face a COVID-19-induced shortage of healthcare resources caused by COVID-19. The Chicagoland, particularly the southern Chicago, shows an additional need for resources. Our findings are relevant for policymakers and public health practitioners to allocate existing healthcare resources or distribute new resources for maximum access to health services.",
+    "author": "Jeon-Young Kang; Nelson Agbodo; Shaowen Wang; Shaohua Wang; Fangzheng Lyu; Alexander C Michels; Vincent L Freeman",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093534",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093534"
+    },
+    "title": "Rapidly Measuring Spatial Accessibility of COVID-19 Healthcare Resources: A Case Study of Illinois, USA",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "144308"
+                    ]
+                },
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "1443080",
+                        "1743184"
+                    ]
+                },
+                {
+                    "funding-source": "NSF"
+                },
+                {
+                    "funding-source": "Illinois Department of Public Health and the University of Illinois. Our"
+                },
+                {
+                    "funding-source": "Virtual ROGER,"
+                },
+                {
+                    "funding-source": "Advanced Digital and Spatial Studies and the School of Earth, Society"
+                },
+                {
+                    "funding-source": "University of Illinois"
+                }
+            ],
+            "funding-statement": "This article and associated materials are based in part upon work supported by the National Science Foundation (NSF) under grant numbers: 1443080 and 1743184. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of NSF. The research was conducted through a collaboration between the Illinois Department of Public Health and the University of Illinois. Our computational work used Virtual ROGER, which is a cyberGIS supercomputer supported by the CyberGIS center for Advanced Digital and Spatial Studies and the School of Earth, Society and Environment at the University of Illinois at Urbana-Champaign."
+        }
+    ]
+}

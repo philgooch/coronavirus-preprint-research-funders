@@ -1,0 +1,59 @@
+{
+    "title": "Mechanistic modeling of the SARS-CoV-2 disease map",
+    "author": "DOPAZO BLAZQUEZ ,JOAQUIN",
+    "date": 2020,
+    "affiliations": [
+        "Hospital Virgen del Roc\u00edo, Sevilla, Spain",
+        "Computational Systems Medicine, Institute of Biomedicine of Seville (IBIS), Hospital Virgen del Rocio. 41013. Sevilla. Spain",
+        "Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.12.025577",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.12.025577.pdf"
+    },
+    "abstract": "Here we present a web interface that implements a comprehensive mechanistic model of the SARS-CoV-2 disease map in which the detailed activity of the human signaling circuits related to the viral infection and the different antiviral responses, including immune and inflammatory activities, can be inferred from gene expression experiments. Moreover, given to the mechanistic properties of the model, the effect of potential interventions, such as knock-downs, over-expression or drug effects (currently the system models the effect of more than 8000 DrugBank drugs) can be studied in specific conditions. By providing a holistic, systems biology approach to the understanding of the complexities of the viral infection process, this tool will become an important asset in the search for efficient antiviral treatments.\nThe tool is freely available at: http://hipathia.babelomics.org/covid19/",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Spanish Ministry of Economy and Competitiveness and"
+                },
+                {
+                    "funding-source": "Plataforma de Recursos Biomoleculares y Bioinform\u00e1ticos\u201d PT",
+                    "award-id": [
+                        "0009/0006"
+                    ]
+                },
+                {
+                    "funding-source": "European Regional Development Funds",
+                    "award-id": [
+                        "H2020"
+                    ]
+                },
+                {
+                    "funding-source": "Programme of the European Union"
+                },
+                {
+                    "funding-source": "Marie Curie Innovative Training Network"
+                },
+                {
+                    "funding-source": "Machine Learning Frontiers in Precision Medicine\"",
+                    "award-id": [
+                        "GA 813533",
+                        "ELIXIR-EXCELERATE"
+                    ]
+                },
+                {
+                    "funding-source": "ELIXIR",
+                    "award-id": [
+                        "GA 676559"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is supported by grants SAF2017-88908-R from the Spanish Ministry of Economy and Competitiveness and \u201cPlataforma de Recursos Biomoleculares y Bioinform\u00e1ticos\u201d PT17/0009/0006 from the ISCIII, both co-funded with European Regional Development Funds (ERDF) as well as H2020 Programme of the European Union grants Marie Curie Innovative Training Network \"Machine Learning Frontiers in Precision Medicine\" (MLFPM) (GA 813533) and \u201cELIXIR-EXCELERATE fast-track ELIXIR implementation and drive early user exploitation across the life sciences\u201d (GA 676559)"
+        }
+    ]
+}

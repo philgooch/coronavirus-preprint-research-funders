@@ -1,0 +1,25 @@
+{
+    "abstract": "Effective public health response to COVID-19 relies on accurate and timely surveillance of local pandemic spread, as well as rapid characterization of the clinical course of disease in affected individuals. De novo diagnostic testing methods developed for emergent pandemics are subject to significant development delays and capacity limitations. There is a critical need for complementary surveillance approaches that can function at population-scale to inform public health decisions in real-time. Internet search patterns provide a number of important advantages relative to laboratory testing. We conducted a detailed global study of Internet search patterns related to COVID-19 symptoms in multiple languages across 32 countries on six continents. We found that Internet search patterns reveal a robust temporal pattern of disease progression for COVID-19: Initial symptoms of fever, dry cough, sore throat and chills are followed by shortness of breath an average of 5.22 days [95% CI 3.30-7.14] after symptom onset, matching the precise clinical course reported in the medical literature. Furthermore, we found that increases in COVID-19-symptom-related searches predict increases in reported COVID-19 cases and deaths 18.53 days [95% CI 15.98-21.08] and 22.16 days [95% CI 20.33-23.99] in advance, respectively. This is the first study to show that Internet search patterns can be used to reveal the detailed clinical course of a disease. These data can be used to track and predict the local spread of COVID-19 before widespread laboratory testing becomes available in each country, helping to guide the current public health response.",
+    "author": "Tina Lu; Ben Y Reis",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087858",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087858"
+    },
+    "title": "Internet Search Patterns Reveal Clinical Course of Disease Progression for COVID-19 and Predict Pandemic Spread in 32 Countries",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R01HG009129",
+                        "R01MH117599",
+                        "R01MH116042"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was made possible by funding from NIH grants R01HG009129, R01MH117599 and R01MH116042"
+        }
+    ]
+}

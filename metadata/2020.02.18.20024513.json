@@ -1,0 +1,16 @@
+{
+    "abstract": "The epidemic caused by the novel coronavirus COVID-19 in Wuhan at the end of 2019 has become an urgent public event of worldwide concern. However, due to the changing data of the epidemic, there is no scientific estimate of the cure rate and case fatality rate of the epidemic. This study proposes a method to estimate the cure rate and case fatality rate of COVID-19. The ratio of cumulative discharges on a given day to the sum of cumulative discharges on a given day and cumulative deaths before j days is used to estimate the cure rate. Moreover, the case fatality ratio can also be estimated. After simulation calculations, j is statistically appropriate when it is 8-10, and it is also clinically appropriate. When j is 9, based on the available data, it is inferred that the cure rate of this epidemic is about 93% and the case fatality rate is about 7%. This method of estimating the cure rate can be used to evaluate the effectiveness of treatment in different medical schemes and different regions, and has great value and significance for decision-making in the epidemic.",
+    "author": "Dingfu Liu; Zhongli Hu; Chen Dong; Xuan She; Ying Diao; Yuanming Zhang; Tao Wang; Xiaoyun Liu; Xiaofei Zeng; Changlong Zhou",
+    "date": 2020,
+    "doi": "10.1101/2020.02.18.20024513",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.18.20024513"
+    },
+    "title": "Estimating the cure rate and case fatality rate of the ongoing epidemic COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

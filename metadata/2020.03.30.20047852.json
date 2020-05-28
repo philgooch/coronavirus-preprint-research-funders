@@ -1,0 +1,48 @@
+{
+    "abstract": "Infection caused by SARS-CoV-2 can result in severe respiratory complications and death. Patients with a compromised immune system are expected to be more susceptible to a severe disease course. In this report we suggest that patients with systemic lupus erythematous might be especially prone to severe COVID-19 independent of their immunosuppressed state from lupus treatment. Specially, we provide evidence in lupus to suggest hypomethylation and overexpression of ACE2, which is located on the X chromosome and encodes a functional receptor for the SARS-CoV-2 spike glycoprotein. Oxidative stress induced by viral infections exacerbates the DNA methylation defect in lupus, possibly resulting in further ACE2 hypomethylation and enhanced viremia. In addition, demethylation of interferon-regulated genes, NF\u03baB, and key cytokine genes in lupus patients might exacerbate the immune response to SARS-CoV-2 and increase the likelihood of cytokine storm. These arguments suggest that inherent epigenetic dysregulation in lupus might facilitate viral entry, viremia, and an excessive immune response to SARS-CoV-2. Further, maintaining disease remission in lupus patients is critical to prevent a vicious cycle of demethylation and increased oxidative stress, which will exacerbate susceptibility to SARS-CoV-2 infection during the current pandemic. Epigenetic control of the ACE2 gene might be a target for prevention and therapy in COVID-19.",
+    "affiliations": [
+        "Alliance and the National Institute of Allergy and Infectious Diseases of the National Institutes of Health grants number U19AI110502 and R01AI097134 to Dr. Sawalha; and the National Natural Science Foundation of China (No. 81830097), the innovation project of Chinese academy of medical sciences (Research Unit, No. 2019-I2M-5\u0096033) and an urgent grant of Hunan Province for fighting against coronavirus disease- 2019 epidemic (2020SK3005 ) to Dr. Lu"
+    ],
+    "author": "Amr H Sawalha; Patrick Coit; Ming Zhao; Qianjin Lu",
+    "date": 2020,
+    "doi": "10.1101/2020.03.30.20047852",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.30.20047852"
+    },
+    "title": "Epigenetic dysregulation of ACE2 and interferon-regulated genes might suggest increased COVID-19 susceptibility and severity in lupus patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Lupus Research Alliance and the National Institute of Allergy and Infectious Diseases of the National Institutes of Health",
+                    "award-id": [
+                        "U19AI110502",
+                        "R01AI097134"
+                    ]
+                },
+                {
+                    "funding-source": "Dr Sawalha;"
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81830097"
+                    ]
+                },
+                {
+                    "funding-source": "Research Unit, No",
+                    "award-id": [
+                        "2019-I2M-5"
+                    ]
+                },
+                {
+                    "funding-source": "Hunan Province for",
+                    "award-id": [
+                        "2020SK3005"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Lupus Research Alliance and the National Institute of Allergy and Infectious Diseases of the National Institutes of Health grants number U19AI110502 and R01AI097134 to Dr Sawalha; and the National Natural Science Foundation of China (No 81830097), the innovation project of Chinese academy of medical sciences (Research Unit, No 2019-I2M-5\u0096033) and an urgent grant of Hunan Province for fighting against coronavirus disease- 2019 epidemic (2020SK3005 ) to Dr Lu"
+        }
+    ]
+}

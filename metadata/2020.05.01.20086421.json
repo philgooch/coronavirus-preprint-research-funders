@@ -1,0 +1,44 @@
+{
+    "abstract": "Severe COVID-19 patients showed worse clinical outcomes compared to mild and moderate patients. However, effective indicators are still lacking to predict the severity of the disease. In the present study, we retrospectively analyzed the clinical and laboratory data of 16 COVID-19 patients and found that the absolute counts of three T-cells (CD3+, CD4+, and CD8+) were significantly lower in the moderate and severe patients than those in mild patients and were significantly lower in severe patients than in moderate patients on admission. With the recovery of the COVID-19, serum levels of inflammatory biomarkers (CRP, PCT, and IL6) of moderate and severe patients gradually decreased. In contrast, the counts of lymphocytes and their subsets including CD3+, CD4+, and CD8+ T cells gradually increased in severe patients, and eventually showed comparable levels with moderate patients. ROC analysis showed that the counts of CD3+, CD4+, and CD8+ T-cells with AUC > 0.9 have potential values for predicting the severity of COVID-19 patients. In conclusion, the reduction of CD3+, CD4+, and CD8+ T-cells is related to the severity of COVID-19 and dynamic detection of these T-lymphocyte subsets may help predict the outcome of the patients.",
+    "affiliations": [
+        "National Natural Science Foundation of China (8136024)"
+    ],
+    "author": "Xingqi Dong; Shuguang Zuo; Xinping Yang; Zhi Li; Boting Zhang; Xicheng Wang; Jingrong Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20086421",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20086421"
+    },
+    "title": "Characteristics of lymphocyte subsets and their predicting values for the severity of COVID-19 patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "New Product Development Projects of Yunnan Province",
+                    "award-id": [
+                        "2016BC005"
+                    ]
+                },
+                {
+                    "funding-source": "Thirteenth Five-Year\" Science"
+                },
+                {
+                    "funding-source": "Technology Major Project for Prevention and Control of AIDS, Viral"
+                },
+                {
+                    "funding-source": "Hepatitis and Other Major Infectious Diseases",
+                    "award-id": [
+                        "2017ZX10202101-002-005"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "8136024"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported financially by New Product Development Projects of Yunnan Province (2016BC005), The \"Thirteenth Five-Year\" Science and Technology Major Project for Prevention and Control of AIDS, Viral Hepatitis and Other Major Infectious Diseases (2017ZX10202101-002-005) and the National Natural Science Foundation of China (8136024)."
+        }
+    ]
+}

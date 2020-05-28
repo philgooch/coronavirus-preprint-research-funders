@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Italy was the first European country hit by the COVID-19 pandemic and has the highest number of recorded COVID-19 deaths in Europe. Methods: This prospective cohort study of the correlates of the risk of death in COVID-19 patients was conducted at the Infectious Diseases and Intensive Care units of Luigi Sacco Hospital, Milan, Italy. The clinical characteristics of all the COVID-19 patients hospitalised in the early days of the epidemic (21 February -19 March 2020) were recorded upon admission, and the time-dependent probability of death was evaluated using the Kaplan-Meier method (censored as of 20 April 2020). Cox proportional hazard models were used to assess the factors independently associated with the risk of death. Results: Forty-eight (20.6%) of the 233 patients followed up for a median of 40 days (interquartile range 33-47) died during the follow-up. Most were males (69.1%) and their median age was 61 years (IQR 50-72). The time-dependent probability of death was 19.7% (95% CI 14.6-24.9%) 30 days after hospital admission. Age (adjusted hazard ratio [aHR] 2.08, 95% CI 1.48-2.92 per ten years more) and obesity (aHR 3.04, 95% CI 1.42-6.49) were independently associated with an increased risk of death, which was also associated with critical disease (aHR 8.26, 95% CI 1.41-48.29), C-reactive protein levels (aHR 1.17, 95% CI 1.02-1.35 per 50 mg/L more) and creatinine kinase levels above 185 U/L (aHR 2.58, 95% CI 1.37-4.87) upon admission. Conclusions: Case-fatality rate of patients hospitalized with COVID-19 in the early days of the Italian epidemic was about 20%. Our study adds evidence to the notion that older age, obesity and more advanced illness are factors associated to an increased risk of death among patients hospitalized with COVID-19.\nFunding Statement",
+    "author": "Roberto Rech; Laura Milazzo; Cecilia Bonazzetti; Massimo Galli; Alessandro Torre; Giuliano Rizzardini; Luca Meroni; Massimo Coen; Chiara Cogliati; Agostino Riva; Andrea Giacomelli; Riccardo Colombo; Guido Gubertini; Anna Lisa Ridolfo; Letizia Oreni; Anna Maria Brambilla; Matteo Passerini; Antonio Castelli; Marco Schiuma; Spinello Antinori; Marco Piscaglia; Stefano Rusconi; Alice Covizzi; Dario Bernacchia; Matteo Siano",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20088336",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20088336"
+    },
+    "title": "30-day mortality in patients hospitalized with COVID-19 during the first wave of the Italian epidemic: a prospective cohort study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

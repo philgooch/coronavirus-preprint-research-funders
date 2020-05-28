@@ -1,0 +1,35 @@
+{
+    "abstract": "Our main aim is to estimate the last day for COVID-19 outbreak in mainland China. We developed mathematical models to predict reasonable bounds on the date of end of the COVID-19 epidemics in mainland China with strong quarantine and testing measures for a sufficiently long time. We used reported data in China from January 20, 2020 to April 9, 2020. We firstly used a deterministic approach to obtain a formula to compute the probability distribution of the extinction date by combining the models and continuous-time Markov processes. Then we present the individual based model (IMB) simulations to compare the result by deterministic approach and show the absolute difference between the estimated cumulative probability distribution computed by simulations and formula. We provide the predictions of the last day of epidemic for different fractions f of asymptomatic infectious that become reported symptomatic infectious.",
+    "affiliations": [
+        "National Natural Science Foundation of China (grant number: 11871007 (ZL)), NSFC and CNRS (Grant number: 11811530272 (ZL, PM)) and the Fundamental Research Funds for the Central Universities (ZL)"
+    ],
+    "author": "Zhihua Liu; Quentin Griette; pierre magal",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20064824",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20064824"
+    },
+    "title": "Estimating the last day for COVID-19 outbreak in mainland China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "11871007"
+                    ]
+                },
+                {
+                    "funding-source": "NSFC and CNRS",
+                    "award-id": [
+                        "11811530272"
+                    ]
+                },
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities"
+                }
+            ],
+            "funding-statement": "This research was funded by the National Natural Science Foundation of China (grant number: 11871007 (ZL)), NSFC and CNRS (Grant number: 11811530272 (ZL, PM)) and the Fundamental Research Funds for the Central Universities (ZL)"
+        }
+    ]
+}

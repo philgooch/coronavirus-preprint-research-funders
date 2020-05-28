@@ -1,0 +1,40 @@
+{
+    "abstract": "Community transmission of the new coronavirus SARS-CoV-2 is a major public health concern that remains difficult to assess. We present a genomic survey of SARS-CoV-2 from a during the first 10 weeks of COVID-19 activity in New South Wales, Australia. Transmission events were monitored prospectively during the critical period of implementation of national control measures. SARS-CoV-2 genomes were sequenced from 209 patients diagnosed with COVID-19 infection between January and March 2020. Only a quarter of cases appeared to be locally acquired and genomic-based estimates of local transmission rates were concordant with predictions from a computational agent-based model. This convergent assessment indicates that genome sequencing provides key information to inform public health action and has improved our understanding of the COVID-19 evolution from outbreak to epidemic.",
+    "affiliations": [
+        "NHMRC Centre for Research Excellence in Emerging Infectious Diseases (GNT1102962). VS and MP are supported by the Australian Research Council grant DP200103005.The funders of this study had no role in the study design, data collection, data analysis and interpretation, or writing of the report. The corresponding author had full access to study data and final responsibility for the decision to submit for publication"
+    ],
+    "author": "Sharon C-A Chen; Karen-Ann Gray; Eby Sim; Edward C Holmes; Roy Byun; Rosemarie Sadsad; Vitali Sintchenko; Mailie Gall; Nathan L Bachmann; Kerri Basile; Sheryl Chang; Jenny Draper; Dominic E Dwyer; Susan Maddocks; Alicia Arnott; Rebecca J Rockett; Ian Carter; Verlaine Timms; John-Sebastian Eden; Tania C. Sorrell; Jen Kok; Mikhail Prokopenko; Matthew V O\u2019Sullivan; Connie Lam",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.048751",
+    "identifiers": {
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.19.048751"
+    },
+    "title": "Revealing COVID-19 Transmission by SARS-CoV-2 Genome Sequencing and Agent Based Modelling",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Prevention Research Support Program"
+                },
+                {
+                    "funding-source": "New South Wales Ministry of Health and the NHMRC Centre for Research Excellence in Emerging Infectious Diseases",
+                    "award-id": [
+                        "GNT1102962"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding statement: This study was supported by the Prevention Research Support Program funded by the New South Wales Ministry of Health and the NHMRC Centre for Research Excellence in Emerging Infectious Diseases (GNT1102962)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Australian Research Council",
+                    "award-id": [
+                        "DP200103005"
+                    ]
+                }
+            ],
+            "funding-statement": "VS and MP are supported by the Australian Research Council grant DP200103005.The funders of this study had no role in the study design, data collection, data analysis and interpretation, or writing of the report"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "abstract": "As a novel coronavirus (COVID-19) continues to spread widely and claim lives worldwide, its transmission characteristics remain uncertain. Here, we present and analyze the serial intervals-the time period between the onset of symptoms in an index (infector) case and the onset of symptoms in a secondary (infectee) case-of 339 confirmed cases of COVID-19 identified from 264 cities in mainland China prior to February 19, 2020. Here, we provide the complete dataset in both English and Chinese to support further COVID-19 research and modeling efforts.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Natural Science Foundation of China (61773091)"
+    ],
+    "author": "Benjamin J Cowling; Lauren Ancel Meyers; xiaoke Xu; Ye Wu; Zhanwei Du; Lin Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20075796",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20075796"
+    },
+    "title": "COVID-19 serial interval estimates based on confirmed cases in public reports from 86 Chinese cities",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "U01 GM087719"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "61773091"
+                    ]
+                }
+            ],
+            "funding-statement": "We acknowledge the financial support from NIH (U01 GM087719) and the National Natural Science Foundation of China (61773091)"
+        }
+    ]
+}

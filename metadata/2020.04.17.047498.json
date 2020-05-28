@@ -1,0 +1,72 @@
+{
+    "title": "The crystal structure of nsp10-nsp16 heterodimer from SARS-CoV-2 in complex with S-adenosylmethionine",
+    "author": "Karla J. F. Satchell",
+    "date": 2020,
+    "affiliations": [
+        "Department of Microbiology-Immunology, Northwestern University, Feinberg School of Medicine, Chicago, IL, USA",
+        "Center for Structural Genomics of Infectious Diseases, Northwestern University, Feinberg School of Medicine, Chicago, IL, USA",
+        "Consortium for Advanced Science and Engineering, University of Chicago, Chicago, IL 60667, USA",
+        "Structural Biology Center, X-ray Science Division, Argonne National Laboratory, Argonne, IL 60439, USA",
+        "Department of Biomedical Sciences, University of California, Riverside School of Medicine, Riverside, CA, USA",
+        "Department of Biochemistry and Molecular Biology, University of Chicago, Chicago, IL, USA",
+        "Center for Structural Genomics of Infectious Diseases implemented a structural genomics pipeline to solve the structures of proteins essential for coronavirus replicationtranscription. Here we show the first structure of the SARS-CoV-2 nsp10-nsp16 2\u2019-Omethyltransferase complex with S-adenosylmethionine at a resolution of 1.80 \u00c5. This heterodimer complex is essential for capping viral",
+        "RNA transcripts for efficient translation and to evade immune surveillance",
+        "Johns Hopkins University tracking system, that reported 2,182,734 of infections and 147,384 deaths (1)"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.17.047498",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.17.047498.pdf"
+    },
+    "abstract": "SARS-CoV-2 is a member of the coronaviridae family and is the etiological agent of the respiratory Coronavirus Disease 2019. The virus has spread rapidly around the world resulting in over two million cases and nearly 150,000 deaths as of April 17, 2020. Since no treatments or vaccines are available to treat COVID-19 and SARS-CoV-2, respiratory complications derived from the infections have overwhelmed healthcare systems around the world. This virus is related to SARSCoV-1, the virus that caused the 2002-2004 outbreak of Severe Acute Respiratory Syndrome. In January 2020, the Center for Structural Genomics of Infectious Diseases implemented a structural genomics pipeline to solve the structures of proteins essential for coronavirus replicationtranscription. Here we show the first structure of the SARS-CoV-2 nsp10-nsp16 2\u2019-Omethyltransferase complex with S-adenosylmethionine at a resolution of 1.80 \u00c5. This heterodimer complex is essential for capping viral mRNA transcripts for efficient translation and to evade immune surveillance.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases"
+                }
+            ],
+            "funding-statement": "This project has been funded in whole or in part with Federal funds from the National Institute of Allergy and Infectious Diseases under Contract Nos"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "HHSN272201700060C"
+                    ]
+                }
+            ],
+            "funding-statement": "HHSN272201200026C and HHSN272201700060C and Grant Nos"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of General Medical Sciences",
+                    "award-id": [
+                        "GM118187"
+                    ]
+                },
+                {
+                    "funding-source": "National Institutes of Health, Department"
+                },
+                {
+                    "funding-source": "Health and Human Services"
+                }
+            ],
+            "funding-statement": "U01AI124316 and R01 GM05789 and from the National Institute of General Medical Sciences grant GM118187, both from National Institutes of Health, Department of Health and Human Services"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Use of the LS-CAT Sector"
+                },
+                {
+                    "funding-source": "Michigan Economic"
+                }
+            ],
+            "funding-statement": "Use of the LS-CAT Sector 21 was supported by the Michigan Economic"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "SARS-CoV2 quantification using RT-dPCR: a faster and safer alternative to assist viral genomic copies assessment using RT-qPCR",
+    "date": 2020,
+    "author": "Paula Rodrigues de Almeida, Meriane Demoliner, Ana Karolina Antunes Eisen, F\u00e1gner Henrique Heldt, Alana Witt Hansen, Karoline Schallenberger, Juliane Deise Fleck, Fernando Rosado Spilki",
+    "affiliations": [
+        "Molecular Microbiology Laboratory, Feevale University"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.01.072728",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.01.072728.pdf"
+    },
+    "abstract": "In this study, serial dilutions of SARS-CoV 2 RNA extract were tested using RT-dPCR using three different primer-probe assays aiming SARS-CoV 2 nucleocapsid coding region. Narrower confidence intervals, indicating high quantification precision were obtained in 100 and 1000-fold serial dilution and RT-dPCR results were equivalent between different assays in the same dilution. High accuracy of this test allowed conclusions regarding the ability of this technique to evaluate precisely the amount of genomic copies present in a sample. We believe that this fast and safe method can assist other researchers in titration of SARS-CoV2 controls used in RT-qPCR without the need of virus isolation.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding This"
+                },
+                {
+                    "funding-source": "Rede-Virus MCTIC; CAPES"
+                },
+                {
+                    "funding-source": "FINEP"
+                }
+            ],
+            "funding-statement": "Funding This study was funded by Rede-Virus MCTIC; CAPES; FINEP"
+        }
+    ]
+}

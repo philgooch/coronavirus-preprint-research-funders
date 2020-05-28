@@ -1,0 +1,46 @@
+{
+    "title": "Molecular Basis for ADP-ribose Binding to the Macro-X Domain of SARS-CoV-2 Nsp3",
+    "author": "David N. Frick,* Rajdeep S. Virdi, Nemanja Vuksanovic, Narayan Dahal, & Nicholas R. Silvaggi",
+    "date": 2020,
+    "affiliations": [
+        "The University of Wisconsin- Milwaukee, Milwaukee, WI 53217 KEYWORDS: COVID-19, Antiviral Drug target, Severe Acute Respiratory Syndrome, Coronavirus"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.31.014639",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.31.014639.pdf"
+    },
+    "abstract": "The virus that causes COVID-19, SARSCoV-2, has a large RNA genome that encodes numerous proteins that might be targets for antiviral drugs. Some of these proteins, such as the RNA-dependent RNA polymers, helicase and main protease, are well conserved between SARS-CoV-2 and the original SARS virus, but several others are not. This study examines one of the proteins encoded by SARS-CoV-2 that is most different, a macrodomain of nonstructural protein 3 (nsp3). Although 26% of the amino acids in this SARS-CoV-2 macrodomain differ from those seen in other coronaviruses, biochemical and structural data reveal that the protein retains the ability to bind ADP-ribose, which is an important characteristic of beta coronaviruses, and potential therapeutic target.",
+    "keywords": [
+        "COVID-19",
+        "Antiviral Drug target",
+        "Severe Acute Respiratory Syndrome",
+        "Coronavirus"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding Sources This"
+                },
+                {
+                    "funding-source": "National Institutes of Health Grant",
+                    "award-id": [
+                        "AI088001",
+                        "to D.N.F.",
+                        "CHE1903899"
+                    ]
+                },
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "to N.R.S."
+                    ]
+                }
+            ],
+            "funding-statement": "Funding Sources This work was supported by National Institutes of Health Grant R01 AI088001 (to D.N.F.) and by Grant CHE1903899 from the National Science Foundation (to N.R.S.)."
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Multiple approaches for massively parallel sequencing of HCoV-19 (SARS-CoV-2) genomes directly from clinical samples",
+    "date": 2020,
+    "author": "4 Minfeng Xiao, Xiaoqing Liu, Jingkai Ji, Min Li, Jiandong Li, Lin",
+    "affiliations": [
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Res13 piratory Disease, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of",
+        "Guangzhou Medical University, Guangzhou, China. 15",
+        "School of Future Technology, University of Chinese Academy of Sciences, Bei16 jing 101408, China. 17",
+        "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen, 518083",
+        "MGI, BGI-Shenzhen, Shenzhen, 518083, China. 20",
+        "BGI PathoGenesis Pharmaceutical Technology, Shenzhen, China. 21",
+        "Shenzhen Key Laboratory of Unknown Pathogen Identification, BGI-Shenzhen, Shen22 zhen, 518083, China. 23",
+        "Institute of Infectious disease, Guangzhou Eighth People's Hospital of Guangzhou Medi24 cal University, Guangzhou, China. 25",
+        "James D. Watson Institute of Genome Science, Hangzhou, 310008, China. 26",
+        "Guangdong Provincial Key Laboratory of Genome Read and Write, BGI-Shenzhen, 27 Shenzhen, 518120, China. 28",
+        "Shenzhen Engineering Laboratory for Innovative Molecular Diagnostics, BGI-Shenzhen, 29 Shenzhen, 518120, China. 30",
+        "School of Biology and Biological Engineering, South China University of Technology, 31 Guangzhou, China 32 33 Correspondence should be addressed to J.L"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.16.993584",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.16.993584.pdf"
+    },
+    "abstract": "COVID-19 has caused a major epidemic worldwide, however, much is yet to be known about the epidemiology and evolution of the virus. One reason is that the challenges underneath sequencing HCoV-19 directly from clinical samples have not been com42 pletely tackled. Here we illustrate the application of amplicon and hybrid capture (cap43 ture)-based sequencing, as well as ultra-high-throughput metatranscriptomic (meta) 44 sequencing in retrieving complete genomes, inter-individual and intra-individual var45 iations of HCoV-19 from clinical samples covering a range of sample types and viral 46 load. We also examine and compare the bias, sensitivity, accuracy, and other char47 acteristics of these approaches in a comprehensive manner. This is, to date, the first work systematically implements amplicon and capture approaches in sequencing HCoV-19, as well as the first comparative study across methods. Our work offers practical solutions for genome sequencing and analyses of HCoV-19 and other emerging viruses.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "State Key Research Development Program of China",
+                    "award-id": [
+                        "2019YFC1200501"
+                    ]
+                },
+                {
+                    "funding-source": "National Major Project for Control and Prevention of Infectious Disease in China",
+                    "award-id": [
+                        "2018ZX10301101-004"
+                    ]
+                },
+                {
+                    "funding-source": "Ministry of Science and Technology",
+                    "award-id": [
+                        "2020YFC0841400",
+                        "2020B111108001",
+                        "2018B020207013"
+                    ]
+                },
+                {
+                    "funding-source": "Guangdong Provincial Key Laboratory of Genome Read and Write",
+                    "award-id": [
+                        "2017B030301011"
+                    ]
+                },
+                {
+                    "funding-source": "Guangdong Provincial Academician Workstation of BGI Synthetic Genomics",
+                    "award-id": [
+                        "2017B090904014"
+                    ]
+                },
+                {
+                    "funding-source": "Shenzhen Engineering Laboratory for Innovative Molecular Diagnostics",
+                    "award-id": [
+                        "DRC-SZ[2016]884"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is funded by the State Key Research Development Program of China (2019YFC1200501), the National Major Project for Control and Prevention of Infectious Disease in China (2018ZX10301101-004), the emergency grants for prevention and control of SARS-CoV-2 of Ministry of Science and Technology (2020YFC0841400) 2020B111108001, 2018B020207013), Guangdong Provincial Key Laboratory of Genome Read and Write (No 2017B030301011), Guangdong Provincial Academician Workstation of BGI Synthetic Genomics (No 2017B090904014), and Shenzhen Engineering Laboratory for Innovative Molecular Diagnostics (DRC-SZ[2016]884)"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "abstract": "Background Mechanically ventilated patients with coronavirus disease 2019 (COVID-19) have a mortality of 24-53%, in part due to distal mucopurulent secretions interfering with ventilation. Dornase alfa is recombinant human DNase 1 and digests DNA in mucoid sputum. Nebulized dornase alfa is FDA-approved for cystic fibrosis treatment. DNA from neutrophil extracellular traps (NETs) contributes to the viscosity of mucopurulent secretions. NETs are found in the serum of patients with severe COVID-19, and targeting NETs reduces mortality in animal models of acute respiratory distress syndrome (ARDS). Thus, dornase alfa may be beneficial to patients with severe COVID-19, acting as a mucolytic and targeting NETs. However, delivery of nebulized drugs can aerosolize SARS-CoV-2, which causes COVID-19, increasing the infection risk for staff. Here, we report a single center case series where dornase alfa was administered through an in-line nebulizer system to minimize risk of virus aerosolization. Methods Demographic, clinical data, and outcomes were collected from the electronic medical records of five mechanically ventilated patients with COVID-19, including three requiring veno-venous extracorporeal membrane oxygenation (VV-ECMO), treated with nebulized in-line endotracheal dornase alfa co-administered with albuterol (used to increase delivery to the alveoli), between March 31 and April 24, 2020. Data on tolerability and responses, including longitudinal values capturing respiratory function and inflammatory status, were analyzed. Results Following nebulized in-line administration of dornase alfa with albuterol, the fraction of inspired oxygen requirements was reduced for all five patients. All patients remain alive and two patients have been discharged from the intensive care unit. No drug associated toxicities were identified. Conclusions The results presented in this case series suggest that dornase alfa will be well-tolerated by critically ill patients with COVID-19. Clinical trials are required to formally test the dosing, safety, and efficacy of dornase alfa in COVID-19, and two have recently been registered (NCT04359654 and NCT04355364). With this case series, we hope to contribute to the development of management approaches for critically ill patients with COVID-19.",
+    "affiliations": [
+        "Center for Autoimmune, Musculoskeletal and Hematopoietic Diseases, The Feinstein Institutes for Medical Research and the Departments of Molecular Medicine and Pediatrics, Donald and Barbara Zucker School of Medicine at Hofstra/Northwell",
+        "National Institute of Allergy and Infectious Diseases (NIAID)"
+    ],
+    "author": "Andrew G. Weber; Betsy J Barnes; Mikala Egeblad; Tobias Janowitz; Alice S Chau",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20087734",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20087734"
+    },
+    "title": "Nebulized in-line endotracheal dornase alfa and albuterol administered to mechanically ventilated COVID-19 patients: A case series",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was supported by the William C. and Joyce C"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "5P30CA045508-30"
+                    ]
+                }
+            ],
+            "funding-statement": "In addition, M.E. and T.J. are supported by NIH grant 5P30CA045508-30"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "1R01AR076242-01"
+                    ]
+                },
+                {
+                    "funding-source": "DOD LRP",
+                    "award-id": [
+                        "W81XWH-18-1-0674"
+                    ]
+                }
+            ],
+            "funding-statement": "B.J.B. is supported by NIH grant 1R01AR076242-01 and DOD LRP W81XWH-18-1-0674"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Primary Immune Deficiency Treatment Consortium",
+                    "award-id": [
+                        "U54 AI 082973"
+                    ]
+                },
+                {
+                    "funding-source": "NCATS",
+                    "award-id": [
+                        "write out"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases"
+                }
+            ],
+            "funding-statement": "A.S.C. was supported by The Primary Immune Deficiency Treatment Consortium (U54 AI 082973), funded jointly by NCATS (write out) and the National Institute of Allergy and Infectious Diseases (NIAID)"
+        }
+    ]
+}

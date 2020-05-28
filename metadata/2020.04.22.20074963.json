@@ -1,0 +1,105 @@
+{
+    "abstract": "Coronavirus disease 2019 (COVID-19) shows a wide variation in expression and severity of symptoms, from very mild or no symptomes, to flu-like symptoms, and in more severe cases, to pneumonia, acute respiratory distress syndrome and even death. Large differences in outcome have also been observed between males and females. The causes for this variability are likely to be multifactorial, and to include genetics. The SARS-CoV-2 virus responsible for the infection uses the human receptor angiotensin converting enzyme 2 (ACE2) for cell invasion, and the serine protease TMPRSS2 for S protein priming. Genetic variation in these two genes may thus modulate an individual's genetic predisposition to infection and virus clearance. While genetic data on COVID-19 patients is being gathered, we carried out a phenome-wide association scan (PheWAS) to investigate the role of these genes in other human phenotypes in the general population. We examined 178 quantitative phenotypes including cytokines and cardio-metabolic biomarkers, as well as 58 medications in 36,339 volunteers from the Lifelines population biobank, in relation to 1,273 genetic variants located in or near ACE2 and TMPRSS2. While none reached our threshold for significance, we observed a suggestive association of polymorphisms within the ACE2 gene with (1) the use of ARBs combination therapies (p=5.7x10-4), an association that is significantly stronger in females (pdiff=0.01), and (2) with the use of non-steroid anti-inflammatory and antirheumatic products (p=5.5x10-4). While these associations need to be confirmed in larger sample sizes, they suggest that these variants play a role in diseases such as hypertension and chronic inflammation that are often observed in the more severe COVID-19 cases. Further investigation of these genetic variants in the context of COVID-19 is thus promising for better understanding of disease variability. Full results are available at https://covid19research.nl.",
+    "author": "Jingyuan Fu; Esteban Lopera; Marije van der Geest; Cisca Wijmenga; Serena Sanna; Adriaan van der Graaf; Lude Franke; Alexandra Zhernakova; Pauline Lanting; Morris Swertz; Patrick Deelen; Lifelines Cohort Study",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20074963",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20074963"
+    },
+    "title": "Lack of association between genetic variants at ACE2 and TMPRSS2 genes involved in SARS-CoV-2 infection and human quantitative phenotypes",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Netherlands Organization for Scientific Research",
+                    "award-id": [
+                        "92-266"
+                    ]
+                },
+                {
+                    "funding-source": "NWO Spinoza Prize SPI",
+                    "award-id": [
+                        "92-266",
+                        "to C.W."
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Netherlands Organization for Scientific Research (NWO): NWO Spinoza Prize SPI 92-266 (to C.W.)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Lifelines Biobank"
+                },
+                {
+                    "funding-source": "Dutch Ministry of Health, Welfare"
+                },
+                {
+                    "funding-source": "Dutch Ministry of Economic Affairs;"
+                },
+                {
+                    "funding-source": "University Medical Center Groningen",
+                    "award-id": [
+                        "UMCG the Netherlands"
+                    ]
+                },
+                {
+                    "funding-source": "UMCG the Netherlands)"
+                },
+                {
+                    "funding-source": "University of Groningen and the Northern Provinces of the Netherlands"
+                }
+            ],
+            "funding-statement": "The Lifelines Biobank initiative has been made possible by funding from the Dutch Ministry of Health, Welfare and Sport; the Dutch Ministry of Economic Affairs; the University Medical Center Groningen (UMCG the Netherlands); the University of Groningen and the Northern Provinces of the Netherlands"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Lifelines Cohort Study"
+                },
+                {
+                    "funding-source": "UMCG Genetics Lifelines Initiative"
+                }
+            ],
+            "funding-statement": "The generation and management of GWAS genotype data for the Lifelines Cohort Study is supported by the UMCG Genetics Lifelines Initiative (UGLI)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NWO Gravitation Netherlands Organ-on-Chip Initiative",
+                    "award-id": [
+                        "024.003.001"
+                    ]
+                },
+                {
+                    "funding-source": "Netherlands Heart Foundation CVON",
+                    "award-id": [
+                        "2018-27"
+                    ]
+                }
+            ],
+            "funding-statement": "J.F. is supported by NWO Gravitation Netherlands Organ-on-Chip Initiative (024.003.001) and the Netherlands Heart Foundation CVON grant 2018-27"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "ERC Starting Grant",
+                    "award-id": [
+                        "715772",
+                        "NWO-VIDI"
+                    ]
+                },
+                {
+                    "funding-source": "Netherlands Heart Foundation CVON",
+                    "award-id": [
+                        "2018-27"
+                    ]
+                },
+                {
+                    "funding-source": "NWO Gravitation"
+                }
+            ],
+            "funding-statement": "A.Z. is supported by ERC Starting Grant 715772, NWO-VIDI grant 016.178.056, the Netherlands Heart Foundation CVON grant 2018-27, and NWO Gravitation grant ExposomeNL"
+        }
+    ]
+}

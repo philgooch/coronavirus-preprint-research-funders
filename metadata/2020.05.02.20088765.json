@@ -1,0 +1,29 @@
+{
+    "abstract": "The extent and duration of immunity following SARS-CoV-2 infection are critical outstanding questions about the epidemiology of this novel virus, and studies are needed to evaluate the effects of serostatus on reinfection. Understanding the potential sources of bias and methods to alleviate biases in these studies is important for informing their design and analysis. Confounding by individual-level risk factors in observational studies like these is relatively well appreciated. Here, we show how geographic structure and the underlying, natural dynamics of epidemics can also induce noncausal associations. We take the approach of simulating serologic studies in the context of an uncontrolled or a controlled epidemic, under different assumptions about whether prior infection does or does not protect an individual against subsequent infection, and using various designs and analytic approaches to analyze the simulated data. We find that in studies assessing the efficacy of serostatus on future infection, comparing seropositive individuals to seronegative individuals with similar time-dependent patterns of exposure to infection, by stratifying or matching on geographic location and time of enrollment, is essential to prevent bias.",
+    "affiliations": [
+        "US National Institute Of General Medical Sciences. The content of this article is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health"
+    ],
+    "author": "Lee Kennedy-Shaffer; Yonatan Grad; James M Robins; Marc Lipsitch; Rebecca Kahn",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20088765",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20088765"
+    },
+    "title": "Potential biases arising from epidemic dynamics in observational seroprotection studies",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Award Number",
+                    "award-id": [
+                        "U54GM088558"
+                    ]
+                },
+                {
+                    "funding-source": "US National Institute Of General Medical Sciences"
+                }
+            ],
+            "funding-statement": "This work was supported in part by Award Number U54GM088558 from the US National Institute Of General Medical Sciences"
+        }
+    ]
+}

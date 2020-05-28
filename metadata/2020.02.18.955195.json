@@ -1,0 +1,36 @@
+{
+    "title": "Structure and immune recognition of the porcine epidemic diarrhea virus spike protein",
+    "author": "Robert Kirchdoerfer",
+    "date": 2020,
+    "affiliations": [
+        "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, California 92037, United States",
+        "Department of Veterinary Diagnostic and Production Animal Medicine, Iowa State University, Ames, Iowa 50011, United States",
+        "Current address: Department of Biochemistry, University of Wisconsin-Madison, Madison, Wisconsin 53706, United States",
+        "Correspondence:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.18.955195",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.18.955195.pdf"
+    },
+    "abstract": "Porcine epidemic diarrhea virus is an alphacoronavirus responsible for significant morbidity and mortality in pigs. A key determinant of viral tropism and entry, the PEDV spike protein is a key target for the host antibody response and a good candidate for a protein-based vaccine immunogen. We used electron microscopy to evaluate the PEDV spike structure, as well as pig polyclonal antibody responses to viral infection. The structure of the PEDV spike reveals a configuration similar to that of HuCoV-NL63. Several PEDV protein-protein interfaces are mediated by non-protein components including a glycan at Asn264 and two bound palmitoleic acid molecules. The polyclonal antibody response to PEDV infection shows a dominance of epitopes in the S1 region. This structural and immune characterization provides new insights into coronavirus spike stability determinants and explores the immune landscape of viral spike proteins.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health, National"
+                },
+                {
+                    "funding-source": "Institute of Allergy and Infectious Disease",
+                    "award-id": [
+                        "AI123498",
+                        "AI127521"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Institutes of Health, National Institute of Allergy and Infectious Disease AI123498 to R.N.K. and AI127521 to A.B.W"
+        }
+    ]
+}

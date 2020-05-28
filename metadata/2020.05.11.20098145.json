@@ -1,0 +1,32 @@
+{
+    "abstract": "Background. With its high prevalence of chronic non-degenerative diseases, it is suspected that in Mexico there is a high risk of fatal complications from COVID-19. The present study aims to estimate the risk factors for hospitalisation and death in the Mexican population infected by SARS-CoV-2. Methods and Findings. We used the publicly available data released by the Epidemiological Surveillance System for Viral Respiratory Diseases of the Mexican Ministry of Health (Secretaria de Salud, SS). All records of positive SARS-CoV-2 cases were included. Two multiple logistic regression models were fitted to estimate the association between the hospitalisation and mortality, with other covariables. Data on 10,544 individuals (57.68% men), with mean age 46.47 SD 15.62, were analysed. Men were about 1.54 times as likely to be hospitalized than women (p<0.001, 95% C.I. 1.37-1.74); individuals aged 50-74 and >=74 years were more likely to be hospitalized than people from 25-49 years (OR 2.05, p<0.001, 95% C.I. 1.81-2.32, and OR 23.84, p<0.001, 95% C.I. 2.90-5.15, respectively). People with hypertension, obesity, and diabetes were more likely to be hospitalised than people without these morbidities (p<0.01). Men had more risk of death in comparison to women (OR=1.53, p<0.001, 95% C.I. 1.30-1.81) and individuals aged 50-74 and \u226575 years were more likely to die than people from 25-49 years (OR 1.96, p<0.001, 95% C.I. 1.63-2.34, and OR 3.74, p<0.001, 95% C.I. 2.80-4.98, respectively). Hypertension, obesity, and diabetes presented in combination, provided a higher risk of dying in comparison to not having these diseases (OR=2.10; p<0.001, 95% C.I. 1.50-2.93). Hospitalisation, intubation and pneumonia conferred a higher risk of dying (OR 5.02, p<0.001, 95% C.I. 3.88-6.50; OR 4.27, p<0.001, 95% C.I. 3.26-5.59, and OR=2.57; p<0.001, 95% C.I. 2.11-3.13, respectively). The main limitation of our study is the lack of information on mild (asymptomatic) or moderate cases of COVID-19. Conclusions. The present study points out that in Mexico, where an important proportion of the population develops two or more chronic conditions simultaneously, high mortality is a sever outcome for those infected by SARS-CoV-2.",
+    "author": "Carmen Garcia-Pe\u00f1a; Luis Miguel Gutierrez-Robledo; Guillermo Salinas-Escudero; Lorena Parra-Rodriguez; Maria Fernanda Carrillo-Vega",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20098145",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20098145"
+    },
+    "title": "Early estimation of the risk factors for hospitalisation and mortality by COVID-19 in Mexico",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Secretaria de Educacion, Ciencia"
+                },
+                {
+                    "funding-source": "Innovacion de la Ciudad de Mexico",
+                    "award-id": [
+                        "CM-SECTEI/041/2020"
+                    ]
+                },
+                {
+                    "funding-source": "Investigaci\u00f3n Traslacional"
+                },
+                {
+                    "funding-source": "Envejecimiento Saludable de la Ciudad de Mexico\""
+                }
+            ],
+            "funding-statement": "This project was supported by a grant from the Secretaria de Educacion, Ciencia, Tecnologia e Innovacion de la Ciudad de Mexico CM-SECTEI/041/2020 \"Red colaborativa de Investigaci\u00f3n Traslacional para el Envejecimiento Saludable de la Ciudad de Mexico\" (RECITES)"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Coronavirus disease 2019 (COVID-19), the most hectic pandemic of the era, is increasing exponentially and taking thousands of lives worldwide. This study aimed to assess the prevalence of pre-existing morbidities among COVID-19 infected patients and their mortality risks against each type of pre-existing morbidity category. Methods: To conduct this systematic review and meta-analysis, Medline, Web of Science, Scopus, and CINAHL databases were searched using specified relavent keywords. Further searches were conducted using the reference list of the selected studies, renowned pre-print servers (e.g., medRxiv, bioRixv, SSRN), and relevant journal websites. Studies written in the English language included if those were conducted among COVID-19 patients with and without comorbidities and presented survivor vs. non-survivor counts or hazard/odds of deaths or survivors against types of pre-existing morbidities. Comorbidities reported in the selected studies were grouped into eight categories. The pooled likelihoods of deaths in each category were estimated using a fixed or random-effect model, based on the heterogeneity assessment. Publication bias was assessed by visual inspection of the funnel plot asymmetry and Eggers regression test. Trim and Fill method was used if there any publication bias was found. Results: A total of 42 studies included in this study comprised of 39,398 samples. The most common pre-existing morbidities in COVID-19 infected patients were hypertension (36.5%), cardiovascular disease (11.9%), and diabetes (22.0%). The higher likelihood of deaths was found among COVID-19 patients who had pre-existing cardiovascular diseases (OR: 3.32, 95% CI: 2.79-3.95), immune and metabolic disorders (OR: 2.39, 95% CI: 2.00-2.85), respiratory diseases (OR: 2.02, 95% CI: 1.80-2.26), cerebrovascular diseases (OR: 4.12, 95% CI: 3.04-5.58), any types of cancers (OR: 2.22, 95% CI: 1.63-3.03), renal (OR: 3.02, 95% CI: 2.60-3.52), and liver diseases (OR: 1.44, 95% CI: 1.21-1.71). Conclusions: This study provides evidence of a higher likelihood of deaths among COVID-19 patients against morbidity categories. These findings could potentially help healthcare providers to sort out the most endangered COVID-19 patients by comorbidities, take precautionary measures during hospitalization, assess susceptibility to death, and prioritize their treatment, which could potentially reduce the number of fatalities in COVID-19.\nCompeting Interest Statement",
+    "author": "Md. Golam Mustagir; Mostaured Khan; Md Saiful Islam; Md Iqbal Kabir; Juwel Rana; Md Nuruzzaman Khan",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095968",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095968"
+    },
+    "title": "Effects of underlying morbidities on the occurrence of deaths in COVID-19 patients: A systematic review and meta-analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors have received no specific funds for this study."
+        }
+    ]
+}

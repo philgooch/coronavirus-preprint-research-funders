@@ -1,0 +1,19 @@
+{
+    "abstract": "Objectives Our primary objective is to predict the dynamics of COVID-19 epidemic in India while adjusting for the effects of various progressively implemented containment measures. Apart from forecasting the major turning points and parameters associated with the epidemic, we intend to provide an epidemiological assessment of the impact of these containment measures in India. Methods We propose a method based on time-series SIR model to estimate time-dependent modifiers for transmission rate of the infection. These modifiers are used in state-space SIR model to estimate reproduction number R0, expected total incidence, and to forecast the daily prevalence till the end of the epidemic. We consider four different scenarios, two based on current developments and two based on hypothetical situations for the purpose of comparison. Results Assuming gradual relaxation in lockdown post 17 May 2020, we expect the prevalence of infecteds to cross 9 million, with at least 1 million severe cases, around the end of October 2020. For the same case, estimates of R0 for the phases no-intervention, partial-lockdown and lockdown are 4.46 (7.1), 1.47 (2.33), and 0.817 (1.29) respectively, assuming 14-day (24-day) infectious period. Conclusions Estimated modifiers give consistent estimates of unadjusted R0 across different scenarios, demonstrating precision. Results corroborate the effectiveness of lockdown measures in substantially reducing R0. Also, predictions are highly sensitive towards estimate of infectious period.",
+    "affiliations": [
+        "Centre for Systems Science and Engineering, Johns Hopkins University"
+    ],
+    "author": "Anuradha Rajkonwar Chetiya; Vishal Deo; Barnali Deka; Gurprit Grover",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095877",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095877"
+    },
+    "title": "Forecasting Transmission Dynamics of COVID-19 Epidemic in India under Various Containment Measures- A Time-Dependent State-Space SIR Approach",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors."
+        }
+    ]
+}

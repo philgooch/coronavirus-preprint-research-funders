@@ -1,0 +1,92 @@
+{
+    "title": "A mouse-adapted SARS-CoV-2 model for the evaluation of COVID-19 medical countermeasures",
+    "date": 2020,
+    "author": "(MCMs). SARS-CoV-2 cannot infect wildtype laboratory mice due to inefficient interactions between the viral spike (S) protein and the murine ortholog of the human receptor, ACE,. We used reverse genetics to remodel the S and mACE, binding interface resulting in a recombinant virus (SARS-CoV-2 MA) that could utilize mACE, for entry. SARS-CoV-2 MA replicated in both the upper and lower airways of both young adult and aged BALB/c mice. Importantly, disease was more severe in aged mice, and showed more clinically relevant phenotypes than those seen in hACE, transgenic mice. We then demonstrated the utility of this model through vaccine challenge studies in immune competent mice with native expression of mACE,. Lastly, we show",
+    "affiliations": [
+        "Department of Microbiology & Immunology, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA",
+        "Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA",
+        "Department of Pathology & Laboratory Medicine, University of North Carolina, Chapel Hill, NC, USA",
+        "Eiger BioPharmaceuticals , Inc., Palo Alto, CA, USA",
+        "Departments of Medicine and Microbiology & Immunology, Stanford University, Stanford, CA, USA",
+        "Palo Alto Veterans Administration, Palo Alto, CA, USA *Co-first Authors",
+        "Address correspondence to Ralph S. Baric"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.06.081497",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.06.081497.pdf"
+    },
+    "abstract": "Coronaviruses are prone to emergence into new host species most recently evidenced by SARS-\nCoV-2, the causative agent of the COVID-19 pandemic. Small animal models that recapitulate\nSARS-CoV-2 disease are desperately needed to rapidly evaluate medical countermeasures",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Acknowledgements This"
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases, National"
+                },
+                {
+                    "funding-source": "Institutes of Health, Department"
+                },
+                {
+                    "funding-source": "Health and Human Service",
+                    "award-id": [
+                        "1U19",
+                        "AI142759"
+                    ]
+                },
+                {
+                    "funding-source": "Antiviral Drug Discovery and Development Center",
+                    "award-id": [
+                        "5R01AI132178",
+                        "partnership awarded to T.P.S."
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "HHSN272201700036I"
+                    ]
+                }
+            ],
+            "funding-statement": "Acknowledgements This project was funded in part by the National Institute of Allergy and Infectious Diseases, National Institutes of Health, Department of Health and Human Service award: 1U19 AI142759 (Antiviral Drug Discovery and Development Center awarded to R.S.B); 5R01AI132178 (partnership grant awarded to T.P.S. and R.S.B) and an animal models contract from the NIH (HHSN272201700036I)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH NIAID",
+                    "award-id": [
+                        "AI007151"
+                    ]
+                },
+                {
+                    "funding-source": "Burroughs Wellcome Fund Postdoctoral Enrichment Program Award"
+                }
+            ],
+            "funding-statement": "D.R.M is funded by an NIH NIAID T32 AI007151 and a Burroughs Wellcome Fund Postdoctoral Enrichment Program Award"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Marsico Lung Institute Tissue Procurement and Cell Culture Core"
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "DK065988"
+                    ]
+                },
+                {
+                    "funding-source": "Cystic Fibrosis Foundation",
+                    "award-id": [
+                        "BOUCHE15RO"
+                    ]
+                }
+            ],
+            "funding-statement": "The Marsico Lung Institute Tissue Procurement and Cell Culture Core is supported by NIH grant DK065988 and Cystic Fibrosis Foundation grant BOUCHE15RO"
+        }
+    ]
+}

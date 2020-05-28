@@ -1,0 +1,42 @@
+{
+    "title": "Hospitalization time and outcome in patients with Coronavirus Disease 2019 (COVID-19): analysis data from China",
+    "author": "Songshan Chai#1 ,Dongdong Xiao#1 ,Qikai Cheng#2 ,Shengzhi Huang,Yihao Wang,Jiajia Qian,Jiajing Wang,Junjun Li,Peng Fu,Qiangping Wang,Jing Rao,Hongyang Zhao,Fangcheng Zhang,Nanxiang Xiong",
+    "date": 2020,
+    "affiliations": [
+        "Department of Neurosurgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China",
+        "School of Information Management, Wuhan University, Wuhan, China",
+        "Fangcheng Zhang, Department of Neurosurgery, Union Hospital, Jiefang",
+        "Nanxiang Xiong, Department of Neurosurgery, Union Hospital, Jiefang Avenue No.1277, Wuhan 430022, China"
+    ],
+    "journal": "Objective",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.11.20061465",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20061465.pdf"
+    },
+    "abstract": "Objective: The mean hospitalization time and outcome among patients with coronavirus disease 2019 (COVID-19) was estimated with the purpose of providing evidence for decision-making in medical institutions and governments in epidemic areas.\n: Method The data of COVID-19 patients in china were collected from the websites of provincial and municipal health commissions. The mean hospitalization time and mortality in the mild or severe patients and the mean time from severe to mild illness were calculated by Gaussian mixture modeling. Results: The mean hospitalization time among mild patients in Hubei province, other areas except Hubei province, and the national areas was 20.71\u00b1 9.30, 16.86 \u00b1 8.24, and 19.34 \u00b1 9.29 days, respectively. The mean transition time from severe to mild group in the above three areas were 15.00, 17.00, and 14.99 days, respectively. The death rate of mild and severe patients in Hubei province and the national areas were 1.10% and",
+    "keywords": [
+        "Hospitalization",
+        "Death rate",
+        "outcome",
+        "COVID-19"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Hubei Province Technological Innovation Special Soft Science Research Project",
+                    "award-id": [
+                        "2019ADC034"
+                    ]
+                },
+                {
+                    "funding-source": "Xiong NX"
+                }
+            ],
+            "funding-statement": "This work was supported by Hubei Province Technological Innovation Special Soft Science Research Project (2019ADC034) to Xiong NX"
+        }
+    ]
+}

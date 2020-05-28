@@ -1,0 +1,16 @@
+{
+    "abstract": "In this work I analyse how proportions of fatal cases after COVID-19 infection change since outbreak of the disease. Using publicity available data I model the change in deaths probability from day 30 of outbreak until 25 April 2020. The global trend is that the proportion of fatal cases is still increasing and that many countries have not yet reached the maximum deaths proportion. However, there are visual differences between countries and in some countries the proportions are clearly below or above the global trend. A positive correlation between deaths cases and recorded infections indicates that a higher infection number results in increased mortality numbers.",
+    "author": "Thomas Scheuerl",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20068908",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20068908"
+    },
+    "title": "The proportion of deaths cases in confirmed patients of COVID-19 is still increasing for cumulative cases reported up to 25 April 2020",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There is no funding body associated."
+        }
+    ]
+}

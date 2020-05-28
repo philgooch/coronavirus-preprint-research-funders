@@ -1,0 +1,16 @@
+{
+    "abstract": "This paper presents a prediction of the total number of ICU and regular beds that will be needed during the pandemic COVID-19 for Bogot\u00e1-Colombia. We use a SEIR model that includes three different compartments of infection: those who can stay at home, those in regular hospital beds and those in need of ICU treatment. The model allows for a time varying transmission rate which we use to incorporate the measures introduced by the government over the period of one year. The model predicts that by mid July 2020, the city will reach the peak of the epidemic with a total of 22 526 prevalent ICUs needed and 84 816 regular hospital beds needed. By the end of May 2020, the number of patients that need ICUs will overpass the current capacity set at 2000 beds for ICU hospital beds in the city. The model predicts that the death toll by the same date will reach 1752 people and the number of cases will be 54652 inhabitants by then. We provide a Shiny app available in (https://claudia-rivera-rodriguez.shinyapps.io/shinyappcovidclinic/). The original values in the app reproduce the results of this paper, but the parameters and starting values can be changed according to the users needs.",
+    "author": "Beatriz Piedad Urdinola; Claudia Rivera-Rodriguez",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065466",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065466"
+    },
+    "title": "Modelling strategies to predict hospital demand during the COVID-19 outbreak in Bogot\u00e1, Colombia",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The author(s) received no financial support for the research, authorship, and/or publication of this article"
+        }
+    ]
+}

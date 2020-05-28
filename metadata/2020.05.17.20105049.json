@@ -1,0 +1,18 @@
+{
+    "title": "Risk interactions of coronavirus infection across age groups after the peak of COVID-19 epidemic",
+    "date": 2020,
+    "affiliations": [
+        "Environmental Health School of Public Health University of Memphis"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.17.20105049",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.17.20105049.pdf"
+    },
+    "abstract": "Background: the COVID-19 epidemic has incurred significant disease burden worldwide, particularly on elderly population. This study aims to explore how risks of infection interact across age groups and compared risk patterns between South Korea and US Florida state. Methods: Daily new COVID-19 cases were scraped from online sources. A multivariate vector autoregressive model for time series count data was used to examine the risk interactions across age groups. Case counts from previous days were included as predictors to dynamically examine the change of risk patterns. Results: In both South Korea and Florida, the risk of coronavirus infection among elderly people was significantly affected by other age groups. An increase of virus infection among people aged 20 -39 could double the risk of infection among elderly people. Meanwhile, an increase in virus infection among elderly people also significantly increased risks of infection among other age groups. The risks of infection among younger people were relatively unaffected by that of other age groups. Conclusions: Protecting elderly people from coronavirus infection could not only reduce the risk of infection among themselves but also ameliorate the risks of virus infection among other age groups. Such interventions should be effective and for long term.",
+    "funding": [
+        {}
+    ]
+}

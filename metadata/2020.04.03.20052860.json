@@ -1,0 +1,81 @@
+{
+    "title": "Portable and accurate diagnostics for COVID-19:",
+    "author": "Everardo Gonz\u00e1lez-Gonz\u00e1lez, Grissel Trujillo-de Santiago, Itzel Montserrat Lara, Mayorga, Sergio Omar Mart\u00ednez-Chapa, Mario Mois\u00e9s Alvarez,* 7 8 1 Centro de Biotecnolog\u00eda-FEMSA, Tecnologico de Monterrey, CP 64849, Monterrey, 9 Nuevo Le\u00f3n, M\u00e9xico 10 2 Departamento de Bioingenier\u00eda, Tecnologico de Monterrey, CP 64849, Monterrey, Nuevo 11 Le\u00f3n, M\u00e9xico 12 3 Departamento de Ingenier\u00eda Mec\u00e1tr\u00f3nica y El\u00e9ctrica, Tecnologico de Monterrey, CP 13 64849, Monterrey, Nuevo Le\u00f3n, M\u00e9xico 14 15 *Corresponding authors. E-mails: mario.alvarez@tec.mx 16",
+    "date": 2020,
+    "affiliations": [
+        "Departamento de Bioingenier\u00eda, Tecnologico de Monterrey, CP 64849, Monterrey, Nuevo",
+        "Departamento de Ingenier\u00eda Mec\u00e1tr\u00f3nica y El\u00e9ctrica, Tecnologico de Monterrey, CP 13 64849, Monterrey, Nuevo Le\u00f3n, M\u00e9xico 14 15",
+        "Corresponding authors"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.03.20052860",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.03.20052860.pdf"
+    },
+    "abstract": "The COVID-19 pandemic has crudely demonstrated the value of massive and rapid 19 diagnostics. By the first week of April, more than 900,000 positive cases of COVID-19 20 have been reported worldwide, although this number could be greatly underestimated. In",
+    "keywords": [
+        "mini-PCR",
+        "point-of-care",
+        "SARS-CoV-2",
+        "COVID-19",
+        "diagnostic",
+        "portable",
+        "nucleic acid amplification"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Federico Baur Endowed Chair in Nanotechnology",
+                    "award-id": [
+                        "0020240I03"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors aknowledge the funding provided by the Federico Baur Endowed Chair in Nanotechnology (0020240I03)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Consejo Nacional de Ciencia y Tecnolog\u00eda, M\u00e9xico"
+                }
+            ],
+            "funding-statement": "EGG acknowledges funding from a doctoral scholarship provided by CONACyT (Consejo Nacional de Ciencia y Tecnolog\u00eda, M\u00e9xico)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "GTdS and MMA"
+                },
+                {
+                    "funding-source": "Tecnol\u00f3gico de Monterrey",
+                    "award-id": [
+                        "002EICIS01"
+                    ]
+                }
+            ],
+            "funding-statement": "GTdS and MMA acknowledge the institutional funding received from Tecnol\u00f3gico de Monterrey (Grant 002EICIS01)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "SOMC and IMLM"
+                },
+                {
+                    "funding-source": "Consejo Nacional de Ciencia y Tecnolog\u00eda, M\u00e9xico",
+                    "award-id": [
+                        "SNI 26048",
+                        "SNI 256730",
+                        "SNI 31803"
+                    ]
+                },
+                {
+                    "funding-source": "Supporting Information"
+                }
+            ],
+            "funding-statement": "MMA, GTdS, SOMC and IMLM acknowledge funding provided by CONACyT (Consejo Nacional de Ciencia y Tecnolog\u00eda, M\u00e9xico) through grants (SNI 26048, SNI 256730, SNI 31803). Supporting Information"
+        }
+    ]
+}

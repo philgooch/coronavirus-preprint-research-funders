@@ -1,0 +1,54 @@
+{
+    "abstract": "Rationale Zoonotically transmitted coronaviruses are responsible for three disease outbreaks since 2002, including the current coronavirus disease 2019 pandemic, caused by SARS-CoV-2. Its efficient transmission and range of disease severity raise questions regarding the contributions of virus-receptor interactions. ACE2 is a host ectopeptidase and the cellular receptor for SARS-CoV-2. Receptor expression on the cell surface facilitates viral binding and entry. However, reports of the abundance and distribution of ACE2 expression in the respiratory tract are limited and conflicting.",
+    "affiliations": [
+        "National Institutes of Health (NIH) Grant P01 AI060699; and the Pathology Core, which are partially supported by the Center for Gene Therapy for Cystic Fibrosis (NIH Grant P30 DK-54759), and the Cystic Fibrosis Foundation. P.B.M. is supported by the Roy J. Carver Charitable Trust"
+    ],
+    "author": "Andrew Thurman; Philip H. Karp; Mariah R. Leidinger; Alejandro Pezzulo; Ping Tan; Paul B. McCray; Julia A. Klesney-Tait; Miguel Ortiz Bezara; Christine Wohlford-Lenane; David K. Meyerholz",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.056127",
+    "identifiers": {
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.22.056127"
+    },
+    "title": "Heterogeneous expression of the SARS-Coronavirus-2 receptor ACE2 in the human respiratory tract",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "AI060699"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI060699"
+                    ]
+                },
+                {
+                    "funding-source": "Pathology Core,"
+                },
+                {
+                    "funding-source": "Center for Gene Therapy for Cystic Fibrosis",
+                    "award-id": [
+                        "NIH P30 DK-54759"
+                    ]
+                },
+                {
+                    "funding-source": "NIH Grant",
+                    "award-id": [
+                        "DK-54759"
+                    ]
+                },
+                {
+                    "funding-source": "Cystic Fibrosis Foundation"
+                }
+            ],
+            "funding-statement": "This work is supported by the National Institutes of Health (NIH) Grant P01 AI060699; and the Pathology Core, which are partially supported by the Center for Gene Therapy for Cystic Fibrosis (NIH Grant P30 DK-54759), and the Cystic Fibrosis Foundation"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "P.B.M. is supported by the Roy J"
+        }
+    ]
+}

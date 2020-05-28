@@ -1,0 +1,60 @@
+{
+    "title": "Topoisomerase III-\u00df is required for efficient replication of positive-sense RNA viruses",
+    "author": "Mariano Garcia-Blanco",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biochemistry and Molecular Biology, University of Texas Medical Branch, Galveston, Texas, USA",
+        "Transplant Division, Department of Surgery, University of Texas Medical Branch, Galveston, Texas, USA",
+        "Department of Microbiology and Immunology, University of Texas Medical Branch, Galveston, Texas, USA",
+        "Department of Pathology, University of Texas Medical Branch, Galveston, Texas, USA",
+        "Galveston National Laboratory, University of Texas Medical Branch, Galveston, Texas, USA",
+        "Institute of Human Infections and Immunity, University of Texas Medical Branch, Galveston, Texas, USA",
+        "Department of Epigenetics and Molecular Carcinogenesis, MD Anderson Cancer Center, Smithville, Texas, USA",
+        "Programme in Emerging Infectious Diseases, Duke-NUS Medical School, Singapore"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.24.005900",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.24.005900.pdf"
+    },
+    "abstract": "Based on genome-scale loss-of-function screens we discovered that Topoisomerase III-\u00df (TOP3B), a human topoisomerase that acts on DNA and RNA, is required for yellow fever virus and dengue virus-2 replication. Remarkably, we found that TOP3B is required for efficient replication of all positive-sense-single stranded RNA viruses tested, including SARS-CoV-2. While there are no drugs that specifically inhibit this topoisomerase, we posit that TOP3B is an attractive anti-viral target.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Uehara Foundation Fellowship",
+                    "award-id": [
+                        "CA204806"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "CA204806"
+                    ]
+                },
+                {
+                    "funding-source": "Vacek Chair,"
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "GM126412"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI142759"
+                    ]
+                },
+                {
+                    "funding-source": "Kleberg Foundation, John"
+                }
+            ],
+            "funding-statement": "We acknowledge support from the Uehara Foundation Fellowship (MH), NIH R01 CA204806, Vacek Chair, and UTMB startup package (MGB), NIH R01 GM126412 (MTB), NIH AI142759, and awards from the Kleberg Foundation, John S"
+        }
+    ]
+}

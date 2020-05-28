@@ -1,0 +1,41 @@
+{
+    "abstract": "Background. COVID-19 is a pandemic with no specific antiviral treatments or vaccines. The urgent needs for exploring the neutralizing antibodies from patients with different clinical characteristics are emerging. Methods. A total of 117 blood samples were collected from 70 COVID-19 inpatients and convalescent patients. The presence of neutralizing antibody was determined with a modified cytopathogenic assay based on live SARS-CoV-2. The dynamics of neutralizing antibody levels at different with different clinical characteristics were analyzed. Results. The seropositivity rate reached up to 100.0% within 20 days since onset, and remained 100.0% till day 41-53. The total GMT was 1:163.7 (95% CI, 128.5 to 208.6), and the antibody level was highest during day 31-40 since onset, and then decreased slightly. Individual differences in changes of antibody levels were observed among 8 representative convalescent patients. In multivariate GEE analysis, patients at age of 31-60 and 61-84 had a higher antibody level than those at age of 16-30 (\u03b2=1.0518, P=0.0152; \u03b2=1.3718, P=0.0020). Patients with a worse clinical classification had a higher antibody titer (\u03b2=0.4639, P=0.0227). Conclusions. The neutralizing antibodies were detected even at the early stage of disease, and a significant response showed in convalescent patients. Moreover, changes on antibody levels ware individual specific.",
+    "affiliations": [
+        "National Key Research and Development Program of China (2020YFC0842100), Beijing Science and Technology Program (Z201100005420006), and Beijing Traditional Chinese Medicine (TCM) Science and Technology Development (# BJYAYY-2020YC-02)"
+    ],
+    "author": "Qianqian Xin; Yanhui Chu; Yang Pan; Xianghua Guo; Quanyi Wang; Jing Li; Xiaoli Wang; Yingmei Feng",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20065623",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20065623"
+    },
+    "title": "Neutralizing Antibodies Responses to SARS-CoV-2 in COVID-19 Inpatients and Convalescent Patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2020YFC0842100"
+                    ]
+                },
+                {
+                    "funding-source": "Beijing Science and Technology Program",
+                    "award-id": [
+                        "Z201100005420006"
+                    ]
+                },
+                {
+                    "funding-source": "Beijing Traditional Chinese Medicine"
+                },
+                {
+                    "funding-source": "Science and Technology Development",
+                    "award-id": [
+                        "# BJYAYY-2020YC-02"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded by National Key Research and Development Program of China (2020YFC0842100), Beijing Science and Technology Program (Z201100005420006), and Beijing Traditional Chinese Medicine (TCM) Science and Technology Development (# BJYAYY-2020YC-02)"
+        }
+    ]
+}

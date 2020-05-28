@@ -1,0 +1,27 @@
+{
+    "abstract": "The severe acute respiratory syndrome virus SARS-CoV-2, a close relative of the SARS-CoV virus, is the cause of recent COVID-19 pandemic affecting, to date, over a 2 million individuals across the globe and demonstrating relatively high rates of infection and mortality. A third virus, the H5N1, responsible for avian influenza, has caused infection with some clinical similarities to those in COVID-19 infections. Cytokines, small proteins that modulate immune responses, have been directly implicated in some of the severe responses seen in COVID-19 patients, e.g. cytokine storms. Understanding the immune processes related to COVID-19, and other similar infections, could help identify diagnostic markers and therapeutic targets. Here we examine data of cytokine, immune cell types, and disease associations captured from biomedical literature associated with coronavirus, SARS, and H5N1 influenza, with the objective of identifying potentially useful relationships and areas for future research. Cytokine and cell-type associations captured from MeSH terms linked to thousands of PubMed abstracts, has identified differing patterns of associations between the three corpuses of abstracts (coronavirus, SARS, or H5N1 influenza). Clustering of cytokine-disease co-occurrences in the context of coronavirus has identified compelling clusters of co-morbidities and symptoms, some of which already known to be linked to COVID-19. Finally, network analysis identified sub-networks of cytokines and immune cell types associated with different manifestations, co-morbidities and symptoms of coronavirus, SARS, and H5N1. Systematic review of research in medicine is essential to facilitate evidence-based choices about health interventions. In a fast moving pandemic the approach taken here will identify trends and enable rapid comparison to the literature of related diseases.",
+    "affiliations": [
+        "Manchester Biomedical research Centre"
+    ],
+    "author": "Anthony D Whetton; Nophar Geifman",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20065425",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.1093/jamia/ocv166",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20065425"
+    },
+    "title": "A consideration of publication-derived immune-related associations in Coronavirus and related lung damaging diseases",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Manchester Biomedical"
+                }
+            ],
+            "funding-statement": "This work was supported by the NIHR Manchester Biomedical research Centre"
+        }
+    ]
+}

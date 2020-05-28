@@ -1,0 +1,66 @@
+{
+    "title": "Recapitulation of SARS-CoV-2 Infection and",
+    "keywords": [
+        "SARS-CoV-2",
+        "human liver organoids",
+        "ACE2+ cholangiocytes",
+        "liver damage"
+    ],
+    "author": "Cholangiocyte Damage with Human Liver Organoids",
+    "date": 2020,
+    "affiliations": [
+        "State Key Laboratory of Genetic Engineering, School of Life Sciences, Zhongshan",
+        "Hospital, Fudan University, Shanghai 200438, China",
+        "State Key Laboratory of Medical",
+        "Molecular Biology, Institute of Basic Medical Sciences, Chinese Academy of Medical",
+        "Sciences, Peking Union Medical College, Beijing 100005, China",
+        "Key Laboratory of",
+        "Medical Molecular Virology (MOE/NHC/CAMS), School of Basic Medical Sciences",
+        "Shanghai Medical College, Fudan University, Shanghai 200032, China",
+        "Antibiotics, Huashan Hospital, Fudan University, Shanghai 200040, China",
+        "Organoid Lifesciences Ltd., Shanghai 201900, China",
+        "These authors contributed 16 equally to this work"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.16.990317",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.16.990317.pdf"
+    },
+    "abstract": "The newly emerged pandemic coronavirus, SARS-CoV-2, has posed a significant public health threat worldwide. However, the mode of virus transmission and tissue tropism is not well established yet. Recent findings of substantial liver damage in patients and ACE2+ cholangiocytes in healthy liver tissues prompted us to hypothesize that human liver ductal organoids could serve as a model to determine the susceptibility and mechanisms underlining the liver damage upon SARS-CoV-2 infection. By single-cell RNA sequencing, we found that long-term liver ductal organoid culture preserved the human specific ACE2+ population of cholangiocytes. Moreover, human liver ductal organoids were permissive to SARS-CoV-2 infection and support robust replication. Notably, virus infection impaired the barrier and bile acid transporting functions of cholangiocytes through dysregulation of genes involved in tight junction formation and bile acid transportation, which could explain the bile acid accumulation and consequent liver damage in patients. These results indicate that control of liver damage caused directly by viral infection should be valued in treating COVID-19 patients. Our findings also provide an application of human organoids in investigating the tropism and pathogenesis of SARS-CoV-2, which would facilitate novel drug discovery.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2018YFA0109400",
+                        "2018YFA0109800"
+                    ]
+                },
+                {
+                    "funding-source": "Zhejiang University Special Scientific Research Fund for COVID-19 Prevention and Control",
+                    "award-id": [
+                        "2020XGZX013"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Municipal Science and Technology Major Project",
+                    "award-id": [
+                        "2017SHZDZX01"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants from the National Key Research and Development Program of China (2018YFA0109400 and 2018YFA0109800), the Zhejiang University Special Scientific Research Fund for COVID-19 Prevention and Control (2020XGZX013) and the Shanghai Municipal Science and Technology Major Project (2017SHZDZX01)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Shanghai Rising-Star Program and"
+                }
+            ],
+            "funding-statement": "B.Z. was sponsored by Shanghai Rising-Star Program and"
+        }
+    ]
+}

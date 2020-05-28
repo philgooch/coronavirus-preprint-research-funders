@@ -1,0 +1,105 @@
+{
+    "abstract": "COVID-19 is a complex disease phenotype where the underlying microbiome could influence morbidity and mortality. Amplicon and metagenomic MinION based sequencing was used to rapidly (within 8 hours) identify SARS-CoV-2 and assess the microbiome in nasopharyngeal swabs obtained from patients with COVID-19 by the ISARIC 4C consortium.\nCompeting Interest Statement\nThe authors have declared no competing interest.",
+    "affiliations": [
+        "Wellcome Trust clinical career development fellow, supported by grant number 205228/Z/16/Z"
+    ],
+    "author": "Lance Turtle; Calum Semple; Derrick W T Crook; Andrew D. Davidson; Yani Sun; Daniel Carter; J Kenneth Baillie; Zana Mahmood; Catherine Hartley; Julian Druce; Qin Zhao; Richard T Vipond; Xiaofeng Dong; James Cruise; Tom Solomon; Steven T Pullan; Michael B. J. Beadsworth; Muhannad Alruwaili; Julian Alexander Hiscox; En-min Zhou; Debby Bogaert; Lisa Ng; Laurent Renia; Miles W Carroll; Waleed Aljabr; David A Matthews; Shona C Moore; Kevin Bewley; Peter Openshaw; Rebekah Penrice-Randal",
+    "date": 2020,
+    "doi": "10.1101/2020.03.05.20032011",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.05.20032011"
+    },
+    "title": "Amplicon based MinION sequencing of SARS-CoV-2 and metagenomic characterisation of nasopharyngeal swabs from patients with COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "United States Food and Drug Administration",
+                    "award-id": [
+                        "HHSF223201510104C"
+                    ]
+                },
+                {
+                    "funding-source": "Ebola Virus",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the United States Food and Drug Administration grant number HHSF223201510104C \u0091Ebola Virus Disease: correlates of protection, determinants of outcome and clinical management\u0092 amended to incorporate urgent COVID-19 studies"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council"
+                },
+                {
+                    "funding-source": "Protocol for Severe Emerging",
+                    "award-id": [
+                        "MC_PC_19025"
+                    ]
+                }
+            ],
+            "funding-statement": "Recruitment, sample acquisition, transport, laboratory and management costs were supported by the Medical Research Council \u0093Protocol for Severe Emerging Infection\u0094 grant number MC_PC_19025 awarded to J.K.B., M.G.S., and P.J.M.O"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Center, King"
+                },
+                {
+                    "funding-source": "Fahad Medical City, Saudi",
+                    "award-id": [
+                        "019-003"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by Research Center, King Fahad Medical City, Saudi Arabia grant number 019-003 \u0091Elucidating the viral biology of MERS-CoV and the host response using high resolution sequencing\u0092"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council Discovery Medicine North Doctoral Training Partnership and"
+                }
+            ],
+            "funding-statement": "This work was supported by the Medical Research Council Discovery Medicine North Doctoral Training Partnership and directly funds the studentship of R.P.-R"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research Health Protection Research Unit",
+                    "award-id": [
+                        "NIHR HPRU"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR HPRU)"
+                },
+                {
+                    "funding-source": "Emerging and Zoonotic Infections"
+                },
+                {
+                    "funding-source": "University of Liverpool in"
+                },
+                {
+                    "funding-source": "Public Health England"
+                },
+                {
+                    "funding-source": "Liverpool School of Tropical Medicine"
+                }
+            ],
+            "funding-statement": "This work was supported by the National Institute for Health Research Health Protection Research Unit (NIHR HPRU) in Emerging and Zoonotic Infections at University of Liverpool in partnership with Public Health England (PHE), in collaboration with Liverpool School of Tropical Medicine"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "205228/Z/16/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "L.T. is a Wellcome Trust clinical career development fellow, supported by grant number 205228/Z/16/Z"
+        }
+    ]
+}

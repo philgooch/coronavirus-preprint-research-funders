@@ -1,0 +1,16 @@
+{
+    "abstract": "This manuscript is based on the method we developed urgently to deal with the research requirement in the conflict between achieving a complete genome sequence for the evolutionary history of SARS-CoV-2 study and the low viral RNA concentration. Here, in this manuscript, we developed a set of SARS-CoV-2 enrichment probes to increase the sensitivity of sequence-based virus detection and characterization via obtaining the comprehensive genome sequence. Following the CDC health and safety guidelines, we test the concept using the culturing supernatant contain SARS-CoV-2 particles, and its full-length sequence was used for further analysis. The fraction of SARS-CoV-2 endogenous DNA was 93.47% with Cluster Factor about 1.1, which demonstrate that the numbers of mapped reads to SARS-CoV-2 reference sequence significantly increased, compared to metagenomic sequencing technology, following SARS-CoV-2 probe enrichment. Moreover, based on the high-quality sequence, we discussed the heterozygosity and viral expression during replication of coronavirus, and its phylogenetic relationship with other selected high-quality samples from The Genome Variation Map (GVM) (on 2020/03/22). We believe this manuscript is valuable for all the researchers who are interested in using clinical warp samples to obtain the high coverage of SARS-CoV-2 genome sequence with a relatively low concentration of viral particles. This would allow the clinician to correlate the diagnostic data with molecular monitoring in viral evolutional, the most importantly, to track the functional mutation of SARS-CoV-2.",
+    "author": "Xiao Zhang; shaoqing wen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20061507",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20061507"
+    },
+    "title": "A High-Coverage SARS-CoV-2 Genome Sequence Acquired by Target Capture Sequencing",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

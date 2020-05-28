@@ -1,0 +1,45 @@
+{
+    "abstract": "Background: Acute respiratory infection caused by RNA viruses is still one of the main diseases all over the world such as SARS CoV 2 and Influenza A virus. mNGS was a powerful tool for ethological diagnosis. But there were some challenges during mNGS implementation in clinical settings such as time consuming manipulation and lack of comprehensive analytical validation. Methods: We set up CATCH that was a mNGS method based on RNA and DNA hybrid tagmentation via Tn5 transposon. Seven respiratory RNA viruses and three subtypes of Influenza A virus had been used to test capabilities of CATCH on detection and quantification. Analytical performance of SARS CoV 2 and Influenza A virus had been determined with reference standards. We compared accuracy of CATCH with quantitative real time PCR by using clinical 98 samples from 64 COVID19 patients. Results: We minimized the library preparation process to 3 hours and handling time to 35 minutes. Duplicate filtered RPM of 7 respiratory viruses and 3 Influenza A virus subtypes were highly correlated with viral concentration. LOD of SARS CoV 2 was 39.2 copies/test and of Influenza A virus was 278.1 copies/mL. Comparing with quantitative real time PCR, the overall accuracy of CATCH was 91.4%. Sensitivity was 84.5% and specificity was 100%. Meanwhile, there were significant difference of microbial profile in oropharyngeal swabs among critical, moderate patients and healthy controls. Conclusion: Although further optimization is needed before CATCH can be rolled out as a routine diagnostic test, we highlight the potential impact of it advancing molecular diagnostics for respiratory pathogens.\nCompeting Interest Statement",
+    "affiliations": [
+        "Key Technology Research and Development Funding of Beijing Hospital Authority, National Science and Technology Major Special Program of the 13th Five Year Plan (2018ZX10732202-004-003), and Beijing institute of Hepatology Reform and Development Project (Y-2020HZ-2)",
+        "Beijing Youan Hospital, Capital Medical University"
+    ],
+    "author": "Dexi Chen; Shan Guo; Feili Wei; Xianghua Guo; Yabo Ouyang; Rui Wang; Haiying Jin; Zhongjie Hu; Ronghua Jin; Yanhua Yu; Ying Shi",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099754",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099754"
+    },
+    "title": "Laboratory validation of an RNA/DNA hybrid tagmentation based mNGS workflow on SARS-CoV-2 and other respiratory RNA viruses detection",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "COVID-19 Key Technology Research and Development Funding of Beijing Hospital Authority, National"
+                },
+                {
+                    "funding-source": "Science and Technology Major Special Program of the",
+                    "award-id": [
+                        "2018ZX10732202-0"
+                    ]
+                },
+                {
+                    "funding-source": "Five Year Plan",
+                    "award-id": [
+                        "2018ZX10732202-004-003"
+                    ]
+                },
+                {
+                    "funding-source": "Beijing institute"
+                },
+                {
+                    "funding-source": "Hepatology Reform and Development Project",
+                    "award-id": [
+                        "Y-2020HZ-2"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the COVID-19 Key Technology Research and Development Funding of Beijing Hospital Authority, National Science and Technology Major Special Program of the 13th Five Year Plan (2018ZX10732202-004-003), and Beijing institute of Hepatology Reform and Development Project (Y-2020HZ-2)"
+        }
+    ]
+}

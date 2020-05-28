@@ -1,0 +1,44 @@
+{
+    "title": "Empowering Virus Sequences Research through Conceptual Modeling",
+    "date": 2020,
+    "author": "Anna Bernasconi, Arif Canakoglu, Pietro Pinoli, Stefano Ceri",
+    "affiliations": [
+        "Dipartimento di Elettronica, Informazione",
+        "Bioingegneria, Politecnico di Milano, Via Ponzio 34/5, 20133, Milano, Italy"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.29.067637",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.29.067637.pdf"
+    },
+    "abstract": "The pandemic outbreak of the coronavirus disease has attracted attention towards the genetic mechanisms of viruses. We hereby present the Viral Conceptual Model (VCM), centered on the virus sequence and described from four perspectives: biological (virus type and hosts/sample), analytical (annotations and variants), organizational (sequencing project) and technical (experimental technology). VCM is inspired by GCM, our previously developed Genomic Conceptual Model, but it introduces many novel concepts, as viral sequences significantly differ from human genomes. When applied to SARS-CoV2 virus, complex conceptual queries upon VCM are able to replicate the search results of recent articles, hence demonstrating huge potential in supporting virology research. In addition to VCM, we also illustrate the data dictionary for patient\u2019s phenotype used by the COVID-19 Host Genetic Initiative. Our effort is part of a broad vision: availability of conceptual models for both human genomics and viruses will provide important opportunities for research, especially if interconnected by the same human being, playing the role of virus host as well as provider of genomic and phenotype information.",
+    "keywords": [
+        "Conceptual Model",
+        "Viral Genomics",
+        "Clinical Database",
+        "Data Warehouse",
+        "Biological Research",
+        "Open Datasets"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ERC Advanced Grant",
+                    "award-id": [
+                        "693174"
+                    ]
+                },
+                {
+                    "funding-source": "Data-Driven Genomic Computing)",
+                    "award-id": [
+                        "2016-2021"
+                    ]
+                }
+            ],
+            "funding-statement": "This research is funded by the ERC Advanced Grant 693174 GeCo (Data-Driven Genomic Computing), 2016-2021"
+        }
+    ]
+}

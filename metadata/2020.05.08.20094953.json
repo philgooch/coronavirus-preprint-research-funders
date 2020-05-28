@@ -1,0 +1,16 @@
+{
+    "abstract": "In this study, we propose a novel statistical method to predict a long-term epidemic evolution based on a on-going data. We developed a Bayesian framework for the Susceptible-Infected-Removed model (Bayesian SIR), and estimated its underlying parameters based on day-by-day timeseries of the cumulative number of infectious individuals. The new Bayesian framework extends the deterministic SIR model to a probabilistic form, which provides an accurate estimation of the underlying system by a short and noisy data. We applied it to the data reported on the Coronavirus Disease 2019 (COVID-19), and made a month long prediction on its evolution. Our simulated test using past timeseries to predict the current data gives a reasonable reliability of the proposed method. Our analysis of the current data detected and warned a rising trend in the countries in Central Asia, Middle East, and South America, while United States or European countries, which have already experienced large numbers of infected cases, are predicted to slow down in the increase.",
+    "author": "Shohei Hidaka; Takuma Torii",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20094953",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20094953"
+    },
+    "title": "Predicting Long-term Evolution of COVID-19 by On-going Data using Bayesian Susceptible-Infected-Removed Model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding is received for this study."
+        }
+    ]
+}

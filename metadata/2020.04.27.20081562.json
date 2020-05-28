@@ -1,0 +1,27 @@
+{
+    "abstract": "The fast spread of severe acute respiratory syndrome coronavirus 2 has resulted in the emergence of several hot-spots around the world. Several of these are located in areas associated with high levels of air pollution. This study investigates the relationship between exposure to particulate matter and COVID-19 incidence in 355 municipalities in the Netherlands. The results show that atmospheric particulate matter with diameter less than 2.5 is a highly significant predictor of the number of confirmed COVID-19 cases and related hospital admissions. The estimates suggest that expected COVID-19 cases increase by nearly 100 percent when pollution concentrations increase by 20 percent. The association between air pollution and case incidence is robust in the presence of data on health-related preconditions, proxies for symptom severity, and demographic control variables. The results are obtained with ground-measurements and satellite-derived measures of atmospheric particulate matter as well as COVID-19 data from alternative dates. The findings call for further investigation into the association between air pollution and SARS-CoV-2 infection risk. If particulate matter plays a significant role in COVID-19 incidence, it has strong implications for the mitigation strategies required to prevent spreading.",
+    "author": "Bo Pieter Johannes Andree",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20081562",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20081562"
+    },
+    "title": "Incidence of COVID-19 and Connections with Air Pollution Exposure: Evidence from the Netherlands",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Digital Technology and Development Fund",
+                    "award-id": [
+                        "DT4D",
+                        "World Bank"
+                    ]
+                },
+                {
+                    "funding-source": "World Bank)"
+                }
+            ],
+            "funding-statement": "Funding Statement this work has been funded by the Digital Technology and Development Fund (DT4D, World Bank), and is part of a broader effort to foster just-in-time advanced analytics during conflict, crises and emergencies"
+        }
+    ]
+}

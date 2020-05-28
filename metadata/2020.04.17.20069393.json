@@ -1,0 +1,16 @@
+{
+    "abstract": "Background While the epidemic of SARS-CoV-2 is spreading worldwide, there is much concern over the mortality rate that the infection induces. Available data suggest that COVID-19 case fatality rate varies temporally (as the epidemic progresses) and spatially (among countries). Here, we attempted to identify key factors possibly explaining the variability in case fatality rate across countries. Methods We used data on the temporal trajectory of case fatality rate provided by the European Center for Disease Prevention and Control, and country-specific data on different metrics describing the incidence of known comorbidity factors associated with an increased risk of COVID-19 mortality at the individual level (Institute for Health Metrics and Evaluation). We also compiled data on demography, economy and political regimes for each country. Findings We first showed that temporal trajectories of case fatality rate greatly vary among countries. We found no evidence for association between comorbidities and case fatality rate at the country level. Case fatality rate was negatively associated with number of hospital beds x1,000 inhabitants. We also report evidence suggesting an association between case fatality rate and the political regime, with democracies suffering from the highest mortality burden, compared to autocratic regimes. However, most of the among-country variance in case fatality rate remained unexplained. Interpretation Overall, these results emphasize the role of socio-economic and political factors as possible drivers of COVID-19 case fatality rate at the country level. Funding None.",
+    "author": "Gabriele Sorci; Bruno Faivre; Serge Morand",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20069393",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20069393"
+    },
+    "title": "Why does COVID-19 case fatality rate vary among countries?",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

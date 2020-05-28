@@ -1,0 +1,16 @@
+{
+    "abstract": "Due to high infections rates and a high death toll of the COVID-19 pandemic, it is important to have daily updated forecasted estimates for the next weeks in order to allocate the scare resources as good as possible. We propose a pragmatic model to forecast the COVID-19 epidemic by applying a mixture normal distribution to open accessible WHO data. We specified a simple joint model on data from 20 countries with number of confirmed COVID-19 infections and number of COVID-19 deaths. We found that the duration of an epidemic wave (99% of total size) was usually between 45-48 days. Using data up to April 6, 2020, we found in six of 20 counties two waves, spaced between 21 and 47 days. In China and Korea the first wave was bigger, and in Denmark, Iran, Japan, and Sweden the second wave was stronger. Lag time between time trends in confirmed infections and time trends in deaths varied between 3.1 and 9.5 days. We obtained a good fit between observed and modelled data in almost all countries. In about halve of the countries the highest peak of the COVID-19 epidemic had been reached until April 6, 2020. Among the 20 countries, it is predicted that the USA will reach the highest numbers of confirmed infections (653 683-802 205) and number of deaths (36 591-53 286). Taken together, for many countries reasonable and up-to-date forecasting seems to be feasible. This method therefore bears a high potential for assisting decision makers to adjust the measures aiming at reducing the spread of the virus appropriately.",
+    "author": "Carlos Nordt; Marcus Herdener",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20056481",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20056481"
+    },
+    "title": "A pragmatic model to forecast the COVID-19 epidemic in different countries and allowing for daily updates",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding."
+        }
+    ]
+}

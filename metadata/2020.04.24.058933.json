@@ -1,0 +1,45 @@
+{
+    "title": "Evolution and molecular characteristics of SARS-CoV-2 genome",
+    "author": "Yunmeng Bai,#, Dawei Jiang,#, Jerome R Lon,#, Xiaoshi Chen, Meiling Hu, Shudai",
+    "date": 2020,
+    "affiliations": [
+        "School of Biology and Biological Engineering, South China University of Technology",
+        "State Clinic Center of Gearitic, Chinese PLA General Hospital, Beijing 100853",
+        "KingMed Transformative Medicine Institute Co., Ltd, Guangzhou"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.24.058933",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.24.058933.pdf"
+    },
+    "keywords": [
+        "SARS-CoV-2",
+        "evolution",
+        "classification",
+        "haplotype"
+    ],
+    "abstract": "In the evolution analysis of 622 or 3624 complete SARS-CoV-2 genomes, the estimated Ka/Ks ratio is 1.008 or 1.094, which is higher than that of SARS-CoV and\nMERS-CoV, and the time to the most recent common ancestor (tMRCA) is inferred in late September 2019, indicating that SARS-CoV-2 may have completed positive selection pressure of the cross-host evolution in the early stage. Further we find 9 key specific sites of highly linkage which play a decisive role in the classification of\nSARS-CoV-2. Notably the frequencies of haplotype TTTG and H1 are generally high in European countries and correlated to death rate (r>0.37) based on 3624 or 16373",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2018YFC0910201",
+                        "2019B020226001"
+                    ]
+                },
+                {
+                    "funding-source": "Science and the Technology Planning Project of Guangzhou",
+                    "award-id": [
+                        "201704020176",
+                        "2020Q-P013"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Key R&D Program of China (2018YFC0910201), (2019B020226001), the Science and the Technology Planning Project of Guangzhou (201704020176 and 2020Q-P013).  the  Key  R&D  Program of  Guangdong  Province"
+        }
+    ]
+}

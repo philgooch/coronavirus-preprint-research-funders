@@ -1,0 +1,39 @@
+{
+    "abstract": "BACKGROUND AND OBJECTIVE The novel coronavirus (SARS-Cov-2) infected coronavirus disease 2019 (COVID-19) was broken out in Wuhan and Hubei province for more than a month. It severely threats people's health of thousands in Chin and even other countries. In order to prevent its wide spread, it is necessary to understand the development of the epidemic with precise mathematical language. METHODS The various data of novel coronavirus pneumonia were collected from the official websites of the National Health Committee of the People's Republic of China. According to epidemic and administrative division, three groups were divided to analyze the data, Hubei Province (including Wuhan), nationwide without Hubei and Henan Province. With classic SIR models, the fitting epidemiological curves of incidence have made, and basic reproduction number (R0) was also calculated as well. Therefore the disease's infection intensity, peak time and the epidemiological end time can be deduced.",
+    "affiliations": [
+        "National Health Committee of the People's Republic of China. According to epidemic and administrative division, three groups were divided to analyze the data, Hubei Province (including Wuhan), nationwide without Hubei and Henan Province. With classic SIR models, the fitting epidemiological curves of incidence have made, and basic reproduction number (R0) was also calculated as well. Therefore the disease's infection intensity, peak time and the epidemiological end time can be deduced",
+        "Science and Technology Department (192102310134), Open Project of National Health Commission Key Laboratory of Birth Defect Prevention (ZD201903) and Medical Foundation of Health and Family Planning Commission of Henan Province (No. 2018020589)"
+    ],
+    "author": "Liang Zhao; Rui ling Li; Pan pan Sun; Shan shan Wu; Jin Bo Deng; Li fang Jiang; Yan li Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.02.21.20026229",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.21.20026229"
+    },
+    "title": "Epidemiological Development of Novel Coronavirus Pneumonia in China and Its Forecast",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Scientific and Technical Project of Henan Science and Technology Department",
+                    "award-id": [
+                        "192102310134"
+                    ]
+                },
+                {
+                    "funding-source": "Open Project of National Health Commission Key Laboratory of Birth Defect Prevention",
+                    "award-id": [
+                        "ZD201903"
+                    ]
+                },
+                {
+                    "funding-source": "Medical Foundation of Health and Family Planning Commission of Henan Province",
+                    "award-id": [
+                        "2018020589"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding:This study was supported by Scientific and Technical Project of Henan Science and Technology Department (192102310134), Open Project of National Health Commission Key Laboratory of Birth Defect Prevention (ZD201903) and Medical Foundation of Health and Family Planning Commission of Henan Province (No 2018020589)"
+        }
+    ]
+}

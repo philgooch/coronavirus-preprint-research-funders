@@ -1,0 +1,43 @@
+{
+    "title": "CONTAIN: An open-source shipping container laboratory optimised",
+    "author": "Marcus Walker",
+    "date": 2020,
+    "affiliations": [
+        "Department of Neuroscience, Physiology and Pharmacology, University College London, London, WC1E 6BT, United Kingdom",
+        "Department of Molecular Biosciences, School of Biosciences, Cardiff University, CF10 3AX Cardiff, Wales, United Kingdom",
+        "Department of Biochemistry, Institute of Biochemistry and Technical Biochemistry, University of Stuttgart",
+        "Synthetic Biology Group, MRC London Institute of Medical Sciences, London, UK",
+        "Institute of Clinical Sciences, Faculty of Medicine, Imperial College London, London, UK",
+        "Department of Chemical Engineering, Imperial College London, London, SW7 2AZ, United Kingdom",
+        "Interdisciplinary Computing and Complex Biosystems group (ICOS), School of Computing, Newcastle University, NE4 5TG, United Kingdom",
+        "South London virology centre, Kings College Hospital NHS Foundation Trust, Bessemer Road London, SE5 9RS, United Kingdom",
+        "Stem Cell Hotel, Centre for Stem Cells and Regenerative Medicine, King\u2019s College London, Great Maze Pond, London SE1 9RT, United Kingdom",
+        "National health organisations still largely rely on reverse transcriptase-qPCR (RTqPCR)14\u201316"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.20.106625",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.20.106625.pdf"
+    },
+    "abstract": "The COVID-19 pandemic has challenged diagnostic systems globally. Expanding testing capabilities to conduct population-wide screening for COVID-19 requires innovation in diagnostic services at both the molecular and industrial scale. No report to-date has considered the complexity of laboratory infrastructure in conjunction with the available molecular assays to offer a standardised solution to testing. Here we present CONTAIN. A modular biosafety level 2+ laboratory optimised for automated RT-qPCR COVID-19 testing based on a standard 40ft shipping container. Using open-source liquid-handling robots and RNA extraction reagents we demonstrate a reproducible workflow for RT-qPCR COVID-19 testing. With five OT2 liquid handlers, a single CONTAIN unit reaches a maximum daily testing capacity of 2400 tests/day. We validate this workflow for automated RT-qPCR testing, using both synthetic SARS-CoV-2 samples and patient samples from a local NHS hospital. Finally, we discuss the suitability of CONTAIN and its flexibility in a range of diagnostic testing scenarios including high-density urban environments and mobile response units.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Charles Walford of Stanhope in"
+                }
+            ],
+            "funding-statement": "We would like to acknowledge the support of Charles Walford of Stanhope in advising on infrastructure, groundworks and other practical considerations of development"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Twist Bioscience, ThermoFisher"
+                }
+            ],
+            "funding-statement": "We acknowledge the support of IDT, Twist Bioscience, ThermoFisher Scientific, MedCity, VWR international, Starlab, Youseq, PCR biosystems, Aptogen for expedited delivery, samples and other support"
+        }
+    ]
+}

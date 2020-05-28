@@ -1,0 +1,23 @@
+{
+    "abstract": "BACKGROUND: Mortality remains very high and unpredictable in COVID-19, with intense public protection strategies tailored to perceived risk. Genomic studies are in process to identify differences in host susceptibility to infection by the SARS-CoV-2 virus. Open source research publications are accessible to pre-genotyped individuals. Males are more at risk from severe COVID-19. METHODS: To facilitate development of Clinical Genetics support to the public and healthcare professionals, genomic structure and variants in 213,158 exomes/genomes were integrated for ACE2 encoding the SARS-CoV-2 receptor. ACMG/AMP-based pathogenicity criteria were applied. RESULTS: Across the 19 ACE2 exons on the X chromosome, 9 of 3596 (0.25%) nucleotides were homozygous variant in females compared to 262/3596 (7.3%) hemizygous variant in males (p< 0.0001). 90% of variants were very rare, although K26R affecting a SARS-CoV-2-interacting amino acid is present in ~1/239 people. Modelling the \u2033COVID-resistant \u2033 state where pathogenic alleles would be beneficial, nine null alleles met PVS1. Thirty-seven variants met PM1 based on critical location +/-PP3 based on computational modelling. Modelling a \u2033COVID-susceptible \u2033 state, 31 variants in four upstream open reading frames and 5\u2032 untranslated regions could meet PM1, and may have differential effects if aminoglycoside antibiotics were prescribed for pneumonia and sepsis. CONCLUSIONS: Males are more likely to exhibit consequences from a single variant ACE2 allele. Differential allele frequencies in COVID-19 susceptible and resistant individuals are likely to emerge before variants meet ACMG/AMP criteria for actionable results in patients. Prioritising genomic regions for functional study and ACMG/AMP-structured approaches to research-based presentation of COVID-19 susceptibility variant results are encouraged.",
+    "affiliations": [
+        "Imperial Biomedical Research Centre"
+    ],
+    "author": "Marcela P Vizcaychipi; Claire L Shovlin",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20098160",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20098160"
+    },
+    "title": "COVID-19 genomic susceptibility: Definition of ACE2 variants relevant to human infection with SARS-CoV-2 in the context of ACMG/AMP Guidance",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Imperial Biomedical Research Centre"
+                }
+            ],
+            "funding-statement": "The work received no specific funding. CLS also acknowledges infrastructure support provided by the NIHR Imperial Biomedical Research Centre"
+        }
+    ]
+}

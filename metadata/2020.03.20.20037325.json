@@ -1,0 +1,65 @@
+{
+    "title": "Predicting COVID-19 malignant progression with AI techniques",
+    "author": "Xiang Bai, Cong Fang, Yu Zhou, Song Bai, Zaiyi Liu, Qianlan Chen, Yongchao Xu, Tian Xia, Shi Gong, Xudong Xie, Dejia Song, Ronghui Du, Chunhua Zhou, Chengyang Chen, Dianer Nie, Dandan Tu, Changzheng Zhang, Xiaowu Liu, Lixin Qin, Weiwei Chen",
+    "date": 2020,
+    "affiliations": [
+        "School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan 430074, People\u2019s Republic of China",
+        "Department of Radiology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430030, People\u2019s Republic of China",
+        "Department of Radiology, Wuhan Pulmonary Hospital, Wuhan 430030, People\u2019s Republic of China",
+        "Department of Pulmonary and Critical care Medicine, Wuhan Pulmonary Hospital, Wuhan 430030, People\u2019s Republic of China",
+        "Department of Radiology, Guangdong Provincial People\u2019s Hospital, Guangdong Academy of Medical Sciences, Guangzhou 510080, People\u2019s Republic of China",
+        "HUST-HW Joint Innovation Lab, Wuhan 430074, People\u2019s Republic of China",
+        "Contributed equally"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.20.20037325",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.20.20037325.pdf"
+    },
+    "abstract": "Correspondence to: Weiwei Chen. Department of Radiology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430030, People\u2019s Republic of China. Email: chenweiwei_tjh@163.com. Lixin Qin. Department of Radiology, Wuhan Pulmonary Hospital, Wuhan 430030, People\u2019s Republic of China. Email: qlxzch2020@163.com.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Acknowledgments This"
+                },
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2018YFB1004600"
+                    ]
+                },
+                {
+                    "funding-source": "HUST COVID-19 Rapid Response Call",
+                    "award-id": [
+                        "2020kfyXGYJ093",
+                        "2020kfyXGYJ094"
+                    ]
+                },
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2017YFC1309100"
+                    ]
+                },
+                {
+                    "funding-source": "National Science Fund for Distinguished Young Scholars",
+                    "award-id": [
+                        "81925023"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "61703049",
+                        "81771912",
+                        "81401390"
+                    ]
+                }
+            ],
+            "funding-statement": "Acknowledgments This work was supported by National Key R&D Program of China (No 2018YFB1004600), HUST COVID-19 Rapid Response Call (No 2020kfyXGYJ093, No 2020kfyXGYJ094), National Key R&D Program of China (No.2017YFC1309100), National Science Fund for Distinguished Young Scholars (No.81925023), National Natural Science Foundation of China (No.61703049, No 81771912, No 81401390)"
+        }
+    ]
+}

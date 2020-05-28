@@ -1,0 +1,52 @@
+{
+    "abstract": "Background: To date, characterisation studies of COVID-19 have focussed on hospitalised or intensive care patients. We report for the first time on the natural history of COVID-19 disease from first diagnosis, including both outpatient and hospital care. Methods: Data was obtained from SIDIAP, a primary care records database covering >6 million people (>80% of the population of Catalonia), linked to COVID-19 RT-PCR tests, hospital emergency and inpatient, and mortality registers. All participants >=15 years, diagnosed with COVID-19 in outpatient between 15th March and 24th April 2020 (10th April for outcome studies) were included. Baseline characteristics, testing, and 30-day outcomes (hospitalisation for COVID-19 and all-cause fatality) were analysed. Results: A total of 121,263 and 95,467 COVID-19 patients were identified for characterisation and outcome studies, respectively. Women (57.8%) and age 45-54 (20.2%) were predominant. 44,709 were tested, with 32,976 (73.8%) PCR+. From 95,467 cases, a 14.6% [14.4-14.9] were hospitalised in the month after diagnosis, with male predominance (19.2% vs 11.3%), peaking at age 75-84. Overall 30-day fatality was 4.0% [95%CI 3.9%-4.2%], higher in men (4.8%) than women (3.4%), increasing with age, and highest in those residing in nursing homes (25.3% [24.2% to 26.4%]). Conclusions: COVID-19 is seen in all age-sex strata, but severe forms of disease cluster in older men and nursing home residents. Although initially managed in primary care, 15% of cases require hospitalization within a month, with overall fatality of 4%.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Institute for Health Research (NIHR) Senior Research Fellowship (Grant number SRF-2018-11-ST2-004). The views expressed in this publication are those of the author(s) and not necessarily those of the NHS, the National Institute for Health Research or the Department of Health. AP-U is supported by Fundacion Alfonso Martin Escudero and the Medical Research Council (grant numbers MR/K501256/1, MR/N013468/1)"
+    ],
+    "author": "Manuel Medina-Peralta; Talita Duarte-Salles; DANIEL PRIETO-ALHAMBRA; Maria Aragon; Nuria Mora; Albert Prats-Uribe; Carolina Guiriguet; Elisabet Ballo; Ermengol Coma-Redon; Francesc Fina-Aviles; Mencia Benitez; Mireia Fabregas",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090050",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090050"
+    },
+    "title": "Hospitalization and 30-day fatality in 121,263 COVID-19 outpatient cases",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "BIOCAT"
+                }
+            ],
+            "funding-statement": "The research was partially supported by BIOCAT (Grant number 4_4)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Senior Research Fellowship",
+                    "award-id": [
+                        "SRF-2018-11-ST2-004"
+                    ]
+                }
+            ],
+            "funding-statement": "DPA is funded through a National Institute for Health Research (NIHR) Senior Research Fellowship (Grant number SRF-2018-11-ST2-004)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fundacion Alfonso Martin Escudero and the Medical Research Council",
+                    "award-id": [
+                        "MR/K501256/1",
+                        "MR/N013468/1"
+                    ]
+                }
+            ],
+            "funding-statement": "AP-U is supported by Fundacion Alfonso Martin Escudero and the Medical Research Council (grant numbers MR/K501256/1, MR/N013468/1)"
+        }
+    ]
+}

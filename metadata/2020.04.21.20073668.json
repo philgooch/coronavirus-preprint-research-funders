@@ -1,0 +1,16 @@
+{
+    "abstract": "Almost all countries around the world are struggling against the novel coronavirus (Covid-19) pandemic. In this paper, a nonlinear Markov chains model is proposed in order to analyse and to understand the behaviour of the Covid-19 pandemic. The data from China was used to build up the presented model. Thereafter, the nonlinear Markov chain model is employed to estimate the daily new Covid-19 cases in some countries including Italy, Spain, France, UK, the USA, Germany, Turkey, and Kuwait. In addition, the correlation between the daily new Covid-19 cases and the daily number of deaths is examined.",
+    "author": "Necati Duran; Muammer Catak",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20073668",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20073668"
+    },
+    "title": "Nonlinear Markov Chain Modelling of the Novel Coronavirus (Covid-19) Pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

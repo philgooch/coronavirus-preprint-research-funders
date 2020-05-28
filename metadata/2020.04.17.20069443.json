@@ -1,0 +1,16 @@
+{
+    "abstract": "In this work we use mathematical modeling to describe a possible route to the end of COVID-19, which does not feature either vaccination or herd immunity. We call this route self-burnout. We consider a region with (a) no influx of corona cases from the outside, (b) extensive social distancing, though not necessarily a full lockdown, and (c) high testing capacity relative to the actual number of new cases per day. These conditions can make it possible for the region to initiate the endgame phase of epidemic management, wherein the disease is slowly made to burn itself out through a combination of social distancing, sanitization, contact tracing and preventive testing. The dynamics of the case trajectories in this regime are governed by a single-variable first order linear delay differential equation, whose stability criterion can be obtained analytically. Basis this criterion, we conclude that the social mobility restrictions should be such as to ensure that on the average, one person interacts closely (from the transmission viewpoint) with at most one other person over a 4-5 day period. If the endgame can be played out for a long enough time, we claim that the Coronavirus can eventually get completely contained without affecting a significant fraction of the region's population. We present estimates of the duration for which the epidemic is expected to last, finding an interval of approximately 5-15 weeks after the self-burnout phase is initiated. South Korea, Austria, Australia, New Zealand and the states of Goa, Kerala and Odisha in India appear to be well on the way towards containing COVID by this method.",
+    "author": "Richard H Rand; B Shayak",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20069443",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20069443"
+    },
+    "title": "Self-burnout - a new path to the end of COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "We have NOT received funding for this study from any agency."
+        }
+    ]
+}

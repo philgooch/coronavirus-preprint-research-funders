@@ -1,0 +1,16 @@
+{
+    "abstract": "The exponential character of the recent Covid-19 outbreak requires a change in strategy from containment to mitigation. Meanwhile, most countries apply social distancing with the objective to keep the number of critical cases below the capabilities of the health care system. Due to the novelty and rapid spread of the virus, an a priori assessment of this strategy was not possible. In this study, we present a model-based systems analysis to assess the effectiveness of social distancing measures in terms of intensity and duration of application. Results show a super-linear scaling between intensity (percent contact reduction) and required duration of application to have an added value (lower fatality rate). This holds true for an effective reproduction of R > 1 and is reverted for R < 1. If R is not reduced below 1, secondary effects of required long-term isolation are likely to unravel the added value of disease mitigation. If an extinction is not feasible, we recommend moderate social-distancing that is well balanced against capability limits of national health-care systems.",
+    "author": "Christian Neuwirth; Thomas Murphy; Christoph Gruber",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078022",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078022"
+    },
+    "title": "Investigating duration and intensity of Covid-19 social-distancing strategies",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No specific third party funding was provided for this study."
+        }
+    ]
+}

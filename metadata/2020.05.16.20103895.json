@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: As economic burden makes it increasingly difficult for countries to continue imposing control measures, it is vital for countries to make predictions using time series forecasting before making decisions on lifting the restrictions. Aim: Since apparent differences were noted in the disease transmission between the two South East Asian countries of India and Thailand, the study aims to draw comparative account of the progression of COVID 19 in near future between these two countries. Methods: The study used data of COVID 19 confirmed cases in India and Thailand from WHO COVID 19 situation reports during the time period between 25th March, 2020 and 14th May, 2020. After determination of stationarity in the data and differencing, observation of autocorrelation function (ACF) and partial autocorrelation function (PACF), Auto Regressive Integrated Moving Average (ARIMA) (2,2,1) model was used to forecast the COVID 19 confirmed cases in both these countries for two weeks (i.e. 28th May, 2020). IBM SPSS version 20.0 software was used for data analysis. Results: The study demonstrated a possible increasing trend in number of COVID 19 cases in India in the coming two weeks with an estimated point forecast of 1,28,772 (95% CI 115023 to 142520) by 28th May, 2020. A stationary phase was forecasted for Thailand with a difference of only 43 cases between 14th May (the last case of input data) and 28th May. Conclusion: The time series forecasting employed in the present study warrants thorough preparation on part of the Indian health care system and authorities and calls for caution with regard to decisions made on lifting the control measures. The difference in the time series forecasting between these two South East Asian countries also highlights the need for strengthening of public health systems.\nCompeting Interest Statement",
+    "author": "Viswa Chaitanya Chandu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20103895",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20103895"
+    },
+    "title": "Time series forecasting of COVID-19 confirmed cases with ARIMA model in the South East Asian countries of India and Thailand: a comparative case study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors did not receive any funding"
+        }
+    ]
+}

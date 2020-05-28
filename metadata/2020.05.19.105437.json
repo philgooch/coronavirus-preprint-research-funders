@@ -1,0 +1,76 @@
+{
+    "title": "Type I and Type III IFN Restrict SARS-CoV-2 Infection of Human Airway Epithelial Cultures",
+    "date": 2020,
+    "author": "Abigail Vanderheiden,c, Philipp Ralfs,d, Tatiana Chirkovaa,b, Amit A. Upadhyay,e, 5 Matthew G. Zimmerman,c, Shamika Bedoyad, Hadj Aouedb, Gregory M. Tharpb, 6 Kathryn L. Pellegrinib, Anice C. Lowend, Vineet D. Menacheryf, Larry J. Andersona,b, 7 Arash Grakoui,a,b,d, Steven E. Bosinger,e, Mehul S. Suthar,c #",
+    "affiliations": [
+        "Center for Childhood Infections and Vaccines (CCIV); Children\u2019s Healthcare of Atlanta",
+        "Department of Pediatrics, Emory University School of Medicine, Atlanta, GA 30322",
+        "Emory Vaccine Center, Emory University School of Medicine, Atlanta, GA 30329, USA. 13",
+        "Yerkes National Primate Research Center, Atlanta, GA 30329, USA. 14",
+        "Department of Microbiology and Immunology, Emory University School of Medicine",
+        "Atlanta, GA 30322, USA. 16",
+        "Department of Pathology and Laboratory Medicine, Emory University School of",
+        "Medicine, Atlanta, GA 30322, USA. 18",
+        "Department of Microbiology and Immunology, Institute for Human Infection and",
+        "Immunity, World Reference Center for Emerging Viruses and Arboviruses, University of 20 Texas Medical Branch, Galveston, TX, USA. 21 #Correspondence: Mehul S. Suthar"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.19.105437",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.19.105437.pdf"
+    },
+    "abstract": "The newly emerged human coronavirus, SARS-CoV-2, has caused a pandemic of respiratory illness. The innate immune response is critical for protection against Coronaviruses. However, little is known about the interplay between the innate immune system and SARS-CoV-2. Here, we modeled SARS-CoV-2 infection using primary human airway epithelial (pHAE) cultures, which are maintained in an air-liquid interface. We found that SARS-CoV-2 infects and replicates in pHAE cultures and is directionally released on the apical, but not basolateral surface. Transcriptional profiling studies found that infected pHAE cultures had a molecular signature dominated by pro33 inflammatory cytokines and chemokine induction, including IL-6, TNF\u03b1, CXCL8. We 34 also identified NF-\u03baB and ATF4 transcription factors as key drivers of this pro35 inflammatory cytokine response. Surprisingly, we observed a complete lack of a type I or III IFN induction during SARS-CoV-2 infection. Pre-treatment or post-treatment with type I and III IFNs dramatically reduced virus replication in pHAE cultures and this corresponded with an upregulation of antiviral effector genes. Our findings demonstrate that SARS-CoV-2 induces a strong pro-inflammatory cytokine response yet blocks the production of type I and III IFNs. Further, SARS-CoV-2 is sensitive to the effects of type I and III IFNs, demonstrating their potential utility as therapeutic options to treat COVID42 19 patients.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Emory EVPHA Synergy Fund"
+                },
+                {
+                    "funding-source": "Center for Childhood Infections and Vaccines, Children"
+                },
+                {
+                    "funding-source": "Healthcare of Atlanta,"
+                },
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "ORIP/OD",
+                        "P51OD011132",
+                        "AG049092"
+                    ]
+                },
+                {
+                    "funding-source": "World Reference Center for Emerging Viruses and Arboviruses",
+                    "award-id": [
+                        "AI120942"
+                    ]
+                },
+                {
+                    "funding-source": "Emory University and the"
+                },
+                {
+                    "funding-source": "Emory University"
+                },
+                {
+                    "funding-source": "The Yerkes NHP Genomics Core"
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "OD011132"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "OD026799"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was funded in part by an Emory EVPHA Synergy Fund award (M.S.S), Center for Childhood Infections and Vaccines, Children\u2019s Healthcare of Atlanta, and by the National Institutes of Health ORIP/OD P51OD011132 (M.S.S), R00 AG049092 (V.D.M) and World Reference Center for Emerging Viruses and Arboviruses R24 AI120942 (V.D.M). The research reported in this publication was supported in part by Emory University and the MP3 Initiative (M.S.S and A.L.). The content is solely the responsibility of the authors and does not necessarily represent the official views of Emory University or the MP3 Initiative. The Yerkes NHP Genomics Core is supported in part by NIH P51 OD011132, and an equipment grant, NIH S10 OD026799 (S.E.B.) The funders had no role in study design, data collection and analysis, decision to publish, or preparation, the manuscript. Author contributions: A.V., P.R., and M.S. contributed to the acquisition, analysis, and interpretation of the data, T.C. M.Z. and A.G. contributed to the acquisition and interpretation of the data, A.U., K.P., and S.E.B. contributed to the acquisition and analysis of the data, S.B., A.L., L.A., contributed to the acquisition of the data. T.C., A.L., L.A., V.D.M, G.M.T, H.A. and"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Crystal structure of SARS-CoV-2 nucleocapsid protein RNA binding domain reveals potential unique drug targeting sites",
+    "keywords": [
+        "COVID-19",
+        "Coronavirus",
+        "SARS-CoV-2",
+        "Nucleocapsid protein",
+        "RNA binding domain",
+        "38 Crystal structure",
+        "Antiviral targeting site"
+    ],
+    "date": 2020,
+    "author": "3 Sisi KANG, Mei YANG, Zhongsi HONG, Liping ZHANG, Zhaoxia HUANG, Xiaoxue CHEN",
+    "affiliations": [
+        "Molecular Imaging Center, Guangdong Provincial Key Laboratory of Biomedical Imaging, The Fifth",
+        "Affiliated Hospital, Sun Yat-sen University, 519000, Zhuhai, China",
+        "Department of Infectious Diseases, The Fifth Affiliated Hospital, Sun Yat-sen University, 519000, Zhuhai",
+        "Key Laboratory of Tropical Marine Bio-resources and Ecology, Guangdong Key Laboratory of Marine",
+        "Institute of Oceanology, Chinese Academy of Sciences, 164 West Xingang Road, 510301 , Guangzhou"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.06.977876",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.06.977876.pdf"
+    },
+    "abstract": "The outbreak of coronavirus disease (COVID-19) in China caused by SARS-CoV-2 virus continually lead to worldwide human infections and deaths. It is currently no specific viral protein targeted therapeutics yet. Viral nucleocapsid protein is a potential antiviral drug target, serving multiple critical functions during the viral life cycle. However, the structural information of SARS28 CoV-2 nucleocapsid protein is yet to be clear. Herein, we have determined the 2.7 \u00c5 crystal structure of the N-terminal RNA binding domain of SARS-CoV-2 nucleocapsid protein. Although overall structure is similar with other reported coronavirus nucleocapsid protein N31 terminal domain, the surface electrostatic potential characteristics between them are distinct. Further comparison with mild virus type HCoV-OC43 equivalent domain demonstrates a unique potential RNA binding pocket alongside the b-sheet core. Complemented by in vitro binding studies, our data provide several atomic resolution features of SARS-CoV-2 nucleocapsid protein N-terminal domain, guiding the design of novel antiviral agents specific targeting to SARS-CoV-2.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31770801"
+                    ]
+                },
+                {
+                    "funding-source": "Special Fund for Scientific and Technological Innovation Strategy of Guangdong Province of China",
+                    "award-id": [
+                        "2018B030306029",
+                        "2017A030313145"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by National Natural Science Foundation of China (31770801) and Special Fund for Scientific and Technological Innovation Strategy of Guangdong Province of China (2018B030306029, 2017A030313145) to S.C"
+        }
+    ]
+}

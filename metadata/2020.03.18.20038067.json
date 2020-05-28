@@ -1,0 +1,40 @@
+{
+    "abstract": "Background: During the coronavirus disease 2019 (COVID) pandemic, various organisations have produced management guidance for cancer patients and the delivery of cytotoxic chemotherapy, but none offer estimates of risk, or the potential impact across populations. Methods: We combine data from four countries to produce pooled age-banded Case Fatality Rates (CFRs), calculate the sex-difference in survival and use data from four recent studies to convert CFRs into age-sex stratified Infection Fatality Rates (IFRs). We estimate the additional risk of death in cancer patients, and in those receiving chemotherapy. We illustrate the impact of these by considering the impact on a national incident cancer cohort and present some clinical scenarios. Results: We obtained data based on 412,985 cases and 41,854 deaths. The pooled estimate for IFR was 0.92%. Age-related IFRs for patients with cancer range from 0.01% to 29%, and higher in patients receiving chemotherapy. The risk is significantly higher in men than women. 40% of all male and 32% of all female patients with a new diagnosis of cancer this year have an IFR of >= 5\\%. Conclusions: Older male patients are at a higher risk of death with COVID infection. Patients with cancer are also at higher risk, as are those who have recently received chemotherapy. We provide well-founded estimates to allow patients and clinicians to better balance these risks, and illustrate the wider impact in a national incident cohort.\nCompeting Interest Statement",
+    "affiliations": [
+        "ICR CRUK Major Centre; LPS receives funding from Brain Tumour Research and the Brain Tumour Research Campaign. JC is supported by the Guangdong International Young Research Talents Training Programme for Postdoctoral Researchers"
+    ],
+    "author": "Ella Mi; Seema Dadhania; Kerlann Le Calvez; Simon Rabinowicz; Jiarong Chen; James Wang; Lillie Pakzad-Shahabi; Andrew LK Ho; Matt Williams",
+    "date": 2020,
+    "doi": "10.1101/2020.03.18.20038067",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.18.20038067"
+    },
+    "title": "Estimating the risk of death from COVID Infection in Adult Cancer Patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR BRC; SD",
+                    "award-id": [
+                        "IC/I"
+                    ]
+                },
+                {
+                    "funding-source": "ICR CRUK Major Centre; LPS"
+                },
+                {
+                    "funding-source": "Brain Tumour Research and the Brain Tumour Research Campaign"
+                }
+            ],
+            "funding-statement": "MW receives funding from the Imperial/ NIHR BRC; SD receives funding from the IC/ICR CRUK Major Centre; LPS receives funding from Brain Tumour Research and the Brain Tumour Research Campaign"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Guangdong International Young Research Talents Training Programme for Postdoctoral Researchers"
+                }
+            ],
+            "funding-statement": "JC is supported by the Guangdong International Young Research Talents Training Programme for Postdoctoral Researchers"
+        }
+    ]
+}

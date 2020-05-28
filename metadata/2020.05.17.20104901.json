@@ -1,0 +1,16 @@
+{
+    "abstract": "Since its discovery in the Hubei province of China, the global spread of the novel coronavirus SARS-CoV-2 has resulted in millions of COVID-19 cases and hundreds of thousands of deaths. The spread throughout Asia, Europe, and the Americas has presented one of the greatest infectious disease threats in recent history and has tested the capacity of global health infrastructures. Since no effective vaccine is available, isolation techniques to prevent infection such as home quarantine and social distancing while in public have remained the cornerstone of public health interventions. While government and health officials were charged with implementing stay-at-home strategies, many of which had little guidance as to the consequences of how quickly to begin them. Moreover, as the local epidemic curves have been flattened, the same officials must wrestle with when to ease or cease such restrictions as to not impose economic turmoil. To evaluate the effects of quarantine strategies during the initial epidemic, an agent based modeling framework was created to take into account local spread based on geographic and population data with a corresponding interactive desktop and web-based application. Using the state of Massachusetts in the United States of America, we have illustrated the consequences of implementing quarantines at different time points after the initial seeding of the state with COVID-19 cases. Furthermore, we suggest that this application can be adapted to other states, small countries, or regions within a country to provide decision makers with critical information necessary to best protect human health.",
+    "author": "Konstantin Barsukov; Yuriy Gankin; Alexander Kirpich; Thomas A. Weppelmann; Vladimir Shvartc; Evgeny Imyanitov; Vladimir Koniukhovskii; Pavel Skums; Semyon Semyonov",
+    "date": 2020,
+    "doi": "10.1101/2020.05.17.20104901",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.17.20104901"
+    },
+    "title": "Development of an interactive, agent-based local stochastic model of COVID-19 transmission and evaluation of mitigation strategies illustrated for the state of Massachusetts, USA",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was not funded by any agency"
+        }
+    ]
+}

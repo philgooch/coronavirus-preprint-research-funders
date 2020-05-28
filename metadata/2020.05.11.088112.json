@@ -1,0 +1,39 @@
+{
+    "title": "Evidence for strong mutation bias towards, and selection against, T/U content in SARS-CoV2: implications for attenuated vaccine design",
+    "author": "Laurence Hurst",
+    "date": 2020,
+    "affiliations": [
+        "The Milner Centre for Evolution, Department of Biology and Biochemistry, University of Bath, Bath, BA2 7AY, UK",
+        "MRC Human Genetics Unit, Institute for Genetics and Molecular Medicine, The University of Edinburgh, Edinburgh, UK",
+        "Aarhus University, Department of Molecular Biology and Genetics, C F M\u00f8llersAll\u00e9 3, 8000 Aarhus, Denmark",
+        "These authors contributed equally \u00a7Co-senior authors"
+    ],
+    "journal": "Gustafsson",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.11.088112",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.11.088112.pdf"
+    },
+    "abstract": "Large-scale re-engineering of synonymous sites is a promising strategy to generate attenuated viruses for vaccines. Attenuation typically relies on de-optimisation of codon pairs and maximization of CpG dinculeotide frequencies. So as to formulate evolutionarily-informed attenuation strategies, that aim to force nucleotide usage against the estimated direction favoured by selection, here we examine available whole-genome sequences of SARS-CoV2 to infer patterns of mutation and selection on synonymous sites. Analysis of mutational profiles indicates a strong mutation bias towards T with concomitant selection against T. Accounting for dinucleotide effects reinforces this conclusion, observed TT content being a quarter of that expected under neutrality. A significantly different mutational profile at CDS sites that are not 4-fold degenerate is consistent with contemporaneous selection against T mutations more widely. Although selection against CpG dinucleotides is expected to drive synonymous site G+C content below mutational equilibrium, observed G+C content is slightly above equilibrium, possibly because of selection for higher expression. Consistent with gene-specific selection against CpG dinucleotides, we observe systematic differences of CpG content between SARS-CoV2 genes. We propose an evolutionarily informed gene-bespoke approach to attenuation that, unusually, seeks to increase usage of the already most common synonymous codons. Comparable analysis of H1N1 and Ebola finds that GC3 deviated from neutral equilibrium is not a universal feature, cautioning against generalization of results.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "fellowship 207507 to G.K."
+                    ]
+                },
+                {
+                    "funding-source": "European Research Council",
+                    "award-id": [
+                        "advanced ERC-2014-ADG 669207 to L.D.H."
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Wellcome Trust (fellowship 207507 to G.K.) and the European Research Council (advanced grant ERC-2014-ADG 669207 to L.D.H.)"
+        }
+    ]
+}

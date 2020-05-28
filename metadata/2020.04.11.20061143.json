@@ -1,0 +1,20 @@
+{
+    "abstract": "Many countries are implementing lockdown measures to slow the COVID-19 pandemic, putting more than a third of the world's population under restrictions. The scale of such lockdowns is unprecedented, and while some effects of lockdowns are readily apparent, it is less clear what effects they may have on outbreaks of serious communicable diseases. We examine the impact of these lockdowns on outbreaks of mosquito-borne diseases. Using an agent-based model and simulations, we find that the risk and severity of such outbreaks is much greater under lockdown conditions, with the number of infected people doubling in some cases. This increase in number of cases varies by different mosquito-borne diseases, and is significantly higher for diseases spread by day-biting mosquitoes. We analysed various intervention strategies and found that during lockdowns, decentralised strategies such as insecticide-treated nets and indoor residual spraying are more effective than centralised strategies.",
+    "author": "Shrisha Rao; Akshay Jindal",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20061143",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20061143"
+    },
+    "title": "Lockdowns to Contain COVID-19 Increase Risk and Severity of Mosquito-Borne Disease Outbreaks",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "AWS Machine Learning Research Award from Amazon"
+                }
+            ],
+            "funding-statement": "The work of the second author was supported in part by an AWS Machine Learning Research Award from Amazon"
+        }
+    ]
+}

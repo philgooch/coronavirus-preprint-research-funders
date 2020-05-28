@@ -1,0 +1,72 @@
+{
+    "title": "Potent neutralizing antibodies from COVID-19 patients define multiple targets of vulnerability",
+    "author": "Straten, K. van der (Karlijn)",
+    "date": 2020,
+    "affiliations": [
+        "Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam Infection & Immunity Institute, 1105AZ Amsterdam, the Netherlands",
+        "Department of Internal Medicine, Amsterdam UMC, University of Amsterdam, Amsterdam Infection & Immunity Institute, 1105AZ Amsterdam, the Netherlands",
+        "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, CA 92037, USA",
+        "Department of Viroscience, Erasmus Medical Center, Rotterdam, 3015GD, the Netherlands",
+        "Sanquin Research, Department of Experimental Immunohematology, Amsterdam, The Netherlands and Landsteiner Laboratory, Amsterdam UMC, University of Amsterdam, 1006AD Amsterdam, the Netherlands",
+        "IBIS Technologies BV, 7521PR Enschede, the Netherlands",
+        "Department of Virology, Biomedical Primate Research Centre, 2288GJ Rijswijk, the Netherlands",
+        "Department of Experimental Immunology, Amsterdam UMC, University of Amsterdam, Amsterdam Infection & Immunity Institute, 1105AZ Amsterdam, the Netherlands",
+        "Department of Microbiology and Immunology, Weill Medical College of Cornell University, New York, NY 10021, USA. #These authors contributed equally",
+        "Correspondence to:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.088716",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.088716.pdf"
+    },
+    "abstract": "The rapid spread of SARS-CoV-2 has a significant impact on global health, travel and economy. Therefore, preventative and therapeutic measures are urgently needed. Here, we isolated neutralizing antibodies from convalescent COVID-19 patients using a SARS-CoV-2 stabilized prefusion spike protein. Several of these antibodies were able to potently inhibit live SARS-CoV-2 infection at concentrations as low as 0.007 \u03bcg/mL, making them the most potent human SARS-CoV-2 antibodies described to date. Mapping studies revealed that the SARSCoV-2 spike protein contained multiple distinct antigenic sites, including several receptorbinding domain (RBD) epitopes as well as previously undefined non-RBD epitopes. In addition to providing guidance for vaccine design, these mAbs are promising candidates for treatment and prevention of COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Netherlands Organization for Scientific Research",
+                    "award-id": [
+                        "to R.W.S."
+                    ]
+                },
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation"
+                },
+                {
+                    "funding-source": "Collaboration for AIDS Vaccine Discovery",
+                    "award-id": [
+                        "OPP1111923",
+                        "OPP1132237",
+                        "INV-002022",
+                        "to R.W.S.",
+                        "OPP1170236"
+                    ]
+                },
+                {
+                    "funding-source": "Fondation Dormeur, Vaduz",
+                    "award-id": [
+                        "to R.W.S.",
+                        "to M.J.v.G."
+                    ]
+                }
+            ],
+            "funding-statement": "Funding: This study was supported by the Netherlands Organization for Scientific Research (NWO) Vici grant (to R.W.S.), by the Bill & Melinda Gates Foundation through the Collaboration for AIDS Vaccine Discovery (CAVD), grants OPP1111923, OPP1132237, and INV-002022 (to R.W.S.), OPP1170236 (A.B.W.), and by the Fondation Dormeur, Vaduz (to R.W.S. and to M.J.v.G.)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "AMC Fellowship, Amsterdam",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Amsterdam Institute of Infection and Immunity,"
+                }
+            ],
+            "funding-statement": "M.J.v.G. is a recipient of an AMC Fellowship, Amsterdam UMC and a COVID-19 grant of the Amsterdam Institute of Infection and Immunity, the Netherlands"
+        }
+    ]
+}

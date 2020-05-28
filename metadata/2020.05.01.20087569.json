@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 has spread in a matter of months to most countries in the world. Various social and economic factors determine the time in which a pandemic reaches a country. This time is essential, because it allows countries to prepare their response. This study considered a gravity model that expressed time to first case as a function of multiple socio-economic factors. First, Kaplan-Meier analysis was performed by comparing upper and lower half values of each variable in the model. In order to measure the effect of these variables on time to first case, parameters of the gravity model were estimated using accelerated failure time (AFT) survival analysis. In the Kaplan-Meier analysis the differences between high and low value groups were significant for every variable except population. The AFT analysis determined that increased personal freedom had the largest effect on lowering the survival time, controlling for detection capacity. Higher GDP per capita and a larger population also reduced survival time, while a greater distance from the outbreak source increased it. Understanding the influence of factors affecting time to index case can help us understand disease spread in the early stages of a pandemic.",
+    "author": "Alon Vigdorovits",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087569",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087569"
+    },
+    "title": "Buying time: an ecological survival analysis of COVID-19 spread based on the gravity model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was recieved."
+        }
+    ]
+}

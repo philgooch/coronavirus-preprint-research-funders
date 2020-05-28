@@ -1,0 +1,20 @@
+{
+    "abstract": "COVID-19 or novel coronavirus disease, which has already been declared as a worldwide pandemic, at first had an outbreak in a small town of China, named Wuhan. More than two hundred countries around the world have already been affected by this severe virus as it spreads by human interaction. Moreover, the symptoms of novel coronavirus are quite similar to the general flu. Screening of infected patients is considered as a critical step in the fight against COVID-19. Therefore, it is highly relevant to recognize positive cases as early as possible to avoid further spreading of this epidemic. However, there are several methods to detect COVID-19 positive patients, which are typically performed based on respiratory samples and among them one of the critical approach which is treated as radiology imaging or X-Ray imaging. Recent findings from X-Ray imaging techniques suggest that such images contain relevant information about the SARS-CoV-2 virus. In this article, we have introduced a Deep Neural Network (DNN) based Faster Regions with Convolutional Neural Networks (Faster R-CNN) framework to detect COVID-19 patients from chest X-Ray images using available open-source dataset. Our proposed approach provides a classification accuracy of 97.36%, 97.65% of sensitivity, and a precision of 99.28%. Therefore, we believe this proposed method might be of assistance for health professionals to validate their initial assessment towards COVID-19 patients.",
+    "author": "Md. Mahbubur Rahman; Kabid Hassan Shibly; Samrat Kumar Dey; Md. Tahzib Ul Islam",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20101873",
+    "identifiers": {
+        "arxiv": "2003.09871",
+        "doc_id": null,
+        "doi": null,
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20101873"
+    },
+    "title": "COVID Faster R-CNN: A Novel Framework to Diagnose Novel Coronavirus Disease (COVID-19) in X-Ray Images",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

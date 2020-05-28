@@ -1,0 +1,44 @@
+{
+    "abstract": "Background: The role of aerosols in the transmission of SARS-CoV-2 remains debated. We analysed an outbreak involving three non-associated families in Restaurant X in Guangzhou, China, and assessed the possibility of aerosol transmission of SARS-CoV-2 and characterize the associated environmental conditions. Methods: We collected epidemiological data, obtained a video record and a patron seating-arrangement from the restaurant, and measured the dispersion of a warm tracer gas as a surrogate for exhaled droplets from the suspected index patient. Computer simulations were performed to simulate the spread of fine exhaled droplets. We compared the in-room location of subsequently infected cases and spread of the simulated virus-laden aerosol tracer. The ventilation rate was measured using the tracer decay method. Results: Three families (A, B, C), 10 members of which were subsequently found to have been infected with SARS-CoV-2 at this time, or previously, ate lunch at Restaurant X on Chinese New Year's Eve (January 24, 2020) at three neighboring tables. Subsequently, three members of family B and two members of family C became infected with SARS-CoV-2, whereas none of the waiters or 68 patrons at the remaining 15 tables became infected. During this occasion, the ventilation rate was 0.75-1.04 L/s per person. No close contact or fomite contact was observed, aside from back-to-back sitting by some patrons. Our results show that the infection distribution is consistent with a spread pattern representative of exhaled virus-laden aerosols. Conclusions: Aerosol transmission of SARS-CoV-2 due to poor ventilation may explain the community spread of COVID-19.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Key Research and Development Program of China (2017YFC0702800), the National Natural Science Foundation of China (41875015), and the Science and Technology Planning Project of Guangdong Province (2019B111103001)"
+    ],
+    "author": "Hua Qian; Ling Hong; Jian Hang; Jiansen Li; Min Kang; Xuguang Chen; Shenglan Xiao; Li Liu; Jianjian Wei; Peng Liang; Yuguo Li",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067728",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067728"
+    },
+    "title": "Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Grants Council of Hong Kong\u2019s General Research Fund",
+                    "award-id": [
+                        "17202719"
+                    ]
+                },
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2017YFC0702800"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "41875015"
+                    ]
+                },
+                {
+                    "funding-source": "Science and Technology Planning Project of Guangdong Province",
+                    "award-id": [
+                        "2019B111103001"
+                    ]
+                }
+            ],
+            "funding-statement": "The work was supported by the Research Grants Council of Hong Kong\u2019s General Research Fund (17202719), the National Key Research and Development Program of China (2017YFC0702800), the National Natural Science Foundation of China (41875015), and the Science and Technology Planning Project of Guangdong Province (2019B111103001)"
+        }
+    ]
+}

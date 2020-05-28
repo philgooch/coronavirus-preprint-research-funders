@@ -1,0 +1,16 @@
+{
+    "abstract": "The reason for the observed country-wise variability in incidence and severity of the COVID-19 outcome remains unknown. Few recent studies have suggested a positive protective correlation of the BCG vaccination policy of the countries with the observed COVID-19 severity. The current study was undertaken to reassess the existing data as of 4th April 2020. The incidence rates (cases per million population), Case Fatality Rates (CFR) and inherently more robust Infection Fatality Rates (IFR) were calculated across countries accounting for about 99% COVID-19 deaths. The initial scrutiny suggested a weaker association with BCG vaccination policy or BCG coverage, so positivity to the Tuberculin Sensitivity Test (TST)/ Interferon Gamma Release Assay (IGRA) as a measure of the potential protective effect of the resident populations exposure to Mycobacterium spp. whether from BCG vaccination or as a result of exposure to environmental mycobacteria was analyzed. The incidence rates (the number of cases per million population) decreased with an increase in % LTBI (TST/IGRA positivity) for the analyzed countries with R2 =0.6343, suggesting an exponentially negative covariation. However, the covariation of CFR estimates that ranged from 0.29% to 12.25 % (average 5.39%) among countries, was tenuous. Interim estimates of IFR (i-IFR), a more dependable measure for such studies, for the best and worst-case scenarios, i.e., i-IFR-l and i-IFR-h, predict on an average 20.57% to 30.15 % COVID-19 fatality rates globally, but individual country estimates display huge variation. Among countries accounting for 92.14% deaths (11 countries; top 20% countries included in current study) the estimate for lowest IFRs (i-IFR-l=4.16 (China) & i-IFR-h=4.61 (China)) and highest IFRs (i-IFR-l=96.39% (UK); & i-IFR-h=96.54% (UK)) displayed huge difference (average for the group: CFR=6.8 \u00b1 3.6%; i-IFR-l=34.97 \u00b1 30.55%; & i-IFR-h=44.20 \u00b1 29.08%). Currently, the worst affected countries Italy (CFR=12.25%; i-IFR-l=42.63%; i-IFR-h=48.69%) and Spain (CFR=9.39%; i-IFR-l=26.85%; i-IFR-h=36.60%) would seemingly cope with COVID-19 better than UK, Netherlands and USA while the countries Germany (CFR=1.40%; i-IFR-l=4.93%; i-IFR-h=17.49%) and Switzerland (CFR=3.01%; i-IFR-l=10.87%; i-IFR-h=16.23%) along with China could fare the best. The rest of the 80% countries (accounting for 6.74% deaths), seemed to have reduced mortality (CFR=2.45 \u00b1 2.01; i-IFR-l= 30.62 \u00b1 28.24%; i-IFR-h=40.99 \u00b1 30.47%) with associated high % LTBI (17.28 \u00b1 8.87) than top 20% countries. The inherent issues in the data set (e.g., heterogeneity, non-random sampling, different criteria of sampling and reporting, access to health care, genetic composition, underlying co-morbidities, etc) need to be taken into account for making informed decisions.",
+    "author": "Samer Singh",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20062232",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20062232"
+    },
+    "title": "BCG VACCINES MAY NOT REDUCE COVID-19 MORTALITY RATES",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for the submitted work."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Exploring Conformational Transition of 2019 Novel Coronavirus Spike Glycoprotein Between Its Closed and Open States Using Molecular Dynamics Simulations",
+    "author": "Elhan Taka",
+    "date": 2020,
+    "affiliations": [
+        "Department of Mechanical Engineering, Faculty of Mechanical Engineering, Istanbul Technical University (ITU), Istanbul, Turkey",
+        "National Center for High Performance Computing, Istanbul Technical University (ITU), Istanbul, Turkey",
+        "Mert G\u00fcr, PhD Vice Dean, Faculty of Mechanical Engineering Vice Dean, Graduate School of Science, Engineering and Technology Department of Mechanical Engineering Istanbul Technical University (ITU) Faculty of Mechanical Engineering, Suite 445 \u0130n\u00f6n\u00fc Caddesi, No. 65 G\u00fcm\u00fc\u015fsuyu 34437 Beyo\u011flu, Istanbul, Turkey Voice: +90 212 293 13 00 Fax: +90 212 245 07 95"
+    ],
+    "journal": "Exploring Conformational Transition of",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.17.047324",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.17.047324.pdf"
+    },
+    "abstract": "Since its first recorded appearance in December 2019, a novel coronavirus (SARS-CoV-2) causing the disease COVID-19 has resulted in more than 2,000,000 infections and 128,000 deaths. Currently there is no proven treatment for COVID-19 and there is an urgent need for the development of vaccines and therapeutics. Coronavirus spike glycoproteins play a critical role in coronavirus entry into the host cells, as they provide host cell recognition and membrane fusion between virus and host cell. Thus, they emerged as popular and promising drug targets. Crystal structures of spike protein in its closed and open states were resolved very recently in March 2020. These structures comprise 77% of the sequence and provide almost the complete protein structure. Based on down and up positions of receptor binding domain (RBD), spike protein can be in a receptor inaccessible closed or receptor accessible open state, respectively. Starting from closed and open state crystal structures, and also 16 intermediate conformations, an extensive set of all-atom molecular dynamics (MD) simulations in the presence of explicit",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Center of High Performance Computing"
+                }
+            ],
+            "funding-statement": "We gratefully acknowledge the support of the National Center of High Performance Computing (UHeM) at ITU, Turkey"
+        }
+    ]
+}

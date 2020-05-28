@@ -1,0 +1,43 @@
+{
+    "abstract": "Purpose: To identify differences in CT imaging and clinical features between COVID-19 and influenza pneumonia in the early stage, and to identify the most valuable features in the differential diagnosis. Materials and Method: A consecutive cohort of 73 COVID-19 and 48 influenza pneumonia patients were retrospectively recruited from five independent institutions. The courses of both diseases were confirmed to be in the early stages (mean 2.66 (SD 2.62) days for COVID-19 and mean 2.19 (SD 2.10) days for influenza pneumonia after onset). The chi-square test, student`s t-test, and Kruskal-Wallis H-test were performed to compare CT imaging and clinical features between the two groups. Spearman or Kendall correlation tests between feature metrics and diagnosis outcomes were also assessed. The diagnostic performance of each feature in differentiating COVID-19 from influenza pneumonia was evaluated with univariate analysis. The corresponding area under the curve (AUC), accuracy, specificity, sensitivity and threshold were reported. Results: The ground-glass opacification (GGO) was the most common imaging feature in COVID-19, including pure-GGO (75.3%) and mixed-GGO (78.1%), mainly in peripheral distribution. For clinical features, most COVID-19 patients presented normal white blood cell (WBC) count (89.04%) and neutrophil count (84.93%). Twenty imaging features and 6 clinical features were identified to be significantly different between the two diseases. The diagnosis outcomes correlated significantly with the WBC count (r=-0.526, P<0.001) and neutrophil count (r=-0.500, P<0.001). Four CT imaging features had absolute correlations coefficients higher than 0.300 (P<0.001), including crazy-paving pattern, mixed-GGO in peripheral area, pleural effusions, and consolidation. Conclusions: Among a total of 1537 lesions and 62 imaging and clinical features, 26 features were demonstrated to be significantly different between COVID-19 and influenza pneumonia. The crazy-paving pattern was recognized as the most powerful imaging feature for the differential diagnosis in the early stage, while WBC count yielded the highest diagnostic efficacy in clinical manifestations.",
+    "affiliations": [
+        "Colleges and Universities in Guangdong Province (grant number 2020KZDZX1085) to Z.D"
+    ],
+    "author": "Yuting Liao; Zhiqi Yang; Jianning Xiao; Guorui Liu; Xiaofeng Chen; Renhua Wu; Zhuozhi Dai; Hongfu Sun; Xiangguang Chen; Jinming Qiu; Yanyan Tang; Daiying Lin; Shengkai Li; Ruibin Huang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20061242",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20061242"
+    },
+    "title": "Distinguishing COVID-19 from influenza pneumonia in the early stage through CT imaging and clinical features",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Natural Science Foundation of China",
+                    "award-id": [
+                        "81471730",
+                        "31870981",
+                        "2020LKSFBME06"
+                    ]
+                },
+                {
+                    "funding-source": "Natural Science Foundation of Guangdong Province",
+                    "award-id": [
+                        "2018A030307057"
+                    ]
+                },
+                {
+                    "funding-source": "Special Project on Prevention and Control of COVID-19"
+                },
+                {
+                    "funding-source": "Colleges and Universities in Guangdong Province",
+                    "award-id": [
+                        "2020KZDZX1085"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants from the Natural Science Foundation of China [grant number 81471730, 31870981] to R.W.; the 2020 LKSF cross-disciplinary research grants [grant number 2020LKSFBME06]; the Natural Science Foundation of Guangdong Province [grant number 2018A030307057] to Z.D.; and the Special Project on Prevention and Control of COVID-19 for Colleges and Universities in Guangdong Province (grant number 2020KZDZX1085) to Z.D"
+        }
+    ]
+}

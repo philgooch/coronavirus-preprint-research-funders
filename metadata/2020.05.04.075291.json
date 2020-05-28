@@ -1,0 +1,172 @@
+{
+    "title": "Baseline pulmonary levels of CD8+ T cells and NK cells inversely correlate with expression of the SARS-CoV-2 entry receptor ACE2",
+    "author": "Pascal Duijf",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Health and Biomedical Innovation, Queensland University of Technology (QUT), Faculty of Health, School of Biomedical Sciences, 37 Kent Street, Brisbane, QLD 4102, Australia",
+        "University of Queensland Diamantina Institute, The University of Queensland, Translational Research Institute, 37 Kent Street, Brisbane, QLD 4102, Australia",
+        "Correspondence: Pascal H.G. Duijf"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.04.075291",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.04.075291.pdf"
+    },
+    "abstract": "Coronavirus disease 19 (COVID-19) is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and currently has detrimental human health, community and economic impacts around the world. In SARS-CoV-2-infected lung, induction of immune cell-recruiting cytokines is initially poor. When induction does occur, this may in fact exacerbate infection. These observations suggest that baseline levels of leukocytes, already residing in the lung prior to infection, may be important for orchestrating an effective early immune response. Hence, we performed \"in silico flow cytometry\" on 1,927 human lung tissues to deconvolute the levels of seven leukocyte types involved in triggering an acute anti-viral cellular immune response. Baseline levels of CD8+ T cells, resting natural killer (NK) cells and activated NK cells are significantly lower in lung tissues with high expression of the SARSCoV-2 host cell entry receptor ACE2. We observe this in univariate analyses, in multivariate analyses that include sex, age, race, body mass index and smoking history, and in two independent datasets. Elevated ACE2 expression increases sensitivity to coronavirus infection. Thus, our results suggest that a subgroup of individuals may be exceedingly susceptible to COVID-19 due to concomitant high preexisting ACE2 expression and low baseline cytotoxic lymphocyte levels in the lung.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "ACE2",
+        "T cells",
+        "NK cells"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Common Fund of the Office of the Director of the National Institutes of Health",
+                    "award-id": [
+                        "commonfund.nih.gov/GTEx"
+                    ]
+                }
+            ],
+            "funding-statement": "GTEx was supported by the Common Fund of the Office of the Director of the National Institutes of Health (commonfund.nih.gov/GTEx)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Biospecimen Source Sites"
+                },
+                {
+                    "funding-source": "Leidos Biomedical Research, Inc"
+                },
+                {
+                    "funding-source": "National Disease Research Interchange",
+                    "award-id": [
+                        "10XS170"
+                    ]
+                },
+                {
+                    "funding-source": "Roswell Park Cancer Institute",
+                    "award-id": [
+                        "10XS171"
+                    ]
+                },
+                {
+                    "funding-source": "Science Care, Inc",
+                    "award-id": [
+                        "X10S172"
+                    ]
+                }
+            ],
+            "funding-statement": "Donors were enrolled at Biospecimen Source Sites funded by NCI\\Leidos Biomedical Research, Inc. subcontracts to the National Disease Research Interchange (10XS170), Roswell Park Cancer Institute (10XS171), and Science Care, Inc. (X10S172)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Laboratory, Data"
+                },
+                {
+                    "funding-source": "Coordinating Center",
+                    "award-id": [
+                        "HHSN268201000029C"
+                    ]
+                },
+                {
+                    "funding-source": "The Broad Institute, Inc"
+                }
+            ],
+            "funding-statement": "The Laboratory, Data Analysis, and Coordinating Center (LDACC) was funded through a contract (HHSN268201000029C) to the The Broad Institute, Inc"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Leidos Biomedical Research, Inc"
+                },
+                {
+                    "funding-source": "Van Andel Research Institute",
+                    "award-id": [
+                        "10ST1035"
+                    ]
+                }
+            ],
+            "funding-statement": "Biorepository operations were funded through a Leidos Biomedical Research, Inc. subcontract to Van Andel Research Institute (10ST1035)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Brain Bank"
+                },
+                {
+                    "funding-source": "University of Miami",
+                    "award-id": [
+                        "DA006227"
+                    ]
+                }
+            ],
+            "funding-statement": "The Brain Bank was supported supplements to University of Miami grant DA006227"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Statistical Methods"
+                },
+                {
+                    "funding-source": "University of Geneva",
+                    "award-id": [
+                        "MH090941",
+                        "MH101814"
+                    ]
+                },
+                {
+                    "funding-source": "University of Chicago",
+                    "award-id": [
+                        "MH090951",
+                        "MH090937",
+                        "MH101825",
+                        "MH101820"
+                    ]
+                },
+                {
+                    "funding-source": "University of North Carolina Chapel Hill",
+                    "award-id": [
+                        "MH090936"
+                    ]
+                },
+                {
+                    "funding-source": "North Carolina State University",
+                    "award-id": [
+                        "MH101819"
+                    ]
+                },
+                {
+                    "funding-source": "Harvard University",
+                    "award-id": [
+                        "MH090948"
+                    ]
+                },
+                {
+                    "funding-source": "Stanford University",
+                    "award-id": [
+                        "MH101782"
+                    ]
+                },
+                {
+                    "funding-source": "Washington University",
+                    "award-id": [
+                        "MH101810"
+                    ]
+                },
+                {
+                    "funding-source": "University of Pennsylvania",
+                    "award-id": [
+                        "MH101822"
+                    ]
+                }
+            ],
+            "funding-statement": "Statistical Methods development grants were made to the University of Geneva (MH090941 & MH101814), the University of Chicago (MH090951, MH090937, MH101825, & MH101820), the University of North Carolina Chapel Hill (MH090936), North Carolina State University (MH101819), Harvard University (MH090948), Stanford University (MH101782), Washington University (MH101810), and to the University of Pennsylvania (MH101822)"
+        }
+    ]
+}

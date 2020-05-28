@@ -1,0 +1,22 @@
+{
+    "title": "Mutational spectra of SARS-CoV-2 orf1ab polyprotein and Signature mutations in the United States of America",
+    "author": "Shuvam Banerjee, M.Tech (Bioinformatics)1,2; Sohan Seal,#; Riju Dey,#; Kousik Kr. Mondal,; Pritha Bhattacharjee, PhD",
+    "date": 2020,
+    "affiliations": [
+        "Environmental Epigenomics Lab, Department of Environmental Science, University of Calcutta, 35 Ballygunge Circular Road, Kolkata \u2013 700019",
+        "UGC-DAE Consortium for Scientific Research, Kolkata Centre, Sector 3, LB-8, Bidhan Nagar, Kolkata \u2013 700098",
+        "Department of Zoology, Ramakrishna Mission Vidyamandira, Belur math, Howrah -711202 #SS and RD contributed equally",
+        "Corresponding details:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.01.071654",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.01.071654.pdf"
+    },
+    "abstract": "Pandemic COVID-19 outbreak has been caused due to SARS-COV2 pathogen, resulting millions of infection and death worldwide, USA being on top at the present moment. The long, complex orf1ab polyproteins of SARS-COV2 play an important role in viral RNA synthesis. To assess the impact of mutations in this important domain, we analyzed 1134 complete protein sequences of orf1ab polyprotein from NCBI Virus database from affected patients across various states of USA from December 2019 to 25th April, 2020. Multiple sequence alignment using Clustal Omega followed by statistical significance was calculated. Four significant mutations T265I (nsp 2), P4715L (nsp 12) and P5828L and Y5865C (both at nsp 13) were identified in important non-structural proteins, which function either as replicase or helicase. A comparative analysis shows 265T>I, 5828P>L and 5865Y>C are unique to USA and not reported from Europe or Asia; while one, 4715P>L is predominant in both Europe and USA. Mutational changes in amino acids are predicted to alter structure and function of corresponding proteins, thereby it is imperative to consider the mutational spectra while designing new antiviral therapeutics targeting viral orf1ab.",
+    "funding": [
+        {}
+    ]
+}

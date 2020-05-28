@@ -1,0 +1,29 @@
+{
+    "abstract": "We conducted an analysis of 669 Covid-19 positive patients within the UK Biobank cohort, a prospective cohort including over 500,000 participants. Our analyses led to several findings. We found that black participants in the cohort were over four times more likely to be diagnosed with Covid-19 than white participants. In order to assess for confounding, we produced - to our knowledge - the first multivariable adjusted estimate of the association of racial characteristics with Covid-19. Our adjusted estimates indicated that black participants remained at over threefold increased risk of Covid-19 relative to white participants. Exploratory analyses identified that 22.9% of Covid-19 positive black patients were using either angiotensin converting enzyme inhibitors or angiotensin II receptor blockers, relative to just 6.7% of all black participants. Our genetic analyses confirmed the finding of a previous report noting an association of blood type A with Covid-19, and we discovered a novel genetic association with HLA DQA1_509 that remained significant even after Bonferroni correction.",
+    "author": "David A Kolin; Scott Kulm; Olivier Elemento",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20075507",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20075507"
+    },
+    "title": "Clinical and Genetic Characteristics of Covid-19 Patients from UK Biobank",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "CA210989",
+                        "CA194547",
+                        "P50CA211024",
+                        "UL1TR002384"
+                    ]
+                },
+                {
+                    "funding-source": "Emerson Collective Cancer Research Fund. There"
+                }
+            ],
+            "funding-statement": "NIH grants U24 CA210989, R01 CA194547, P50CA211024, UL1TR002384 and Emerson Collective Cancer Research Fund. There were no additional funding sources for this study, and the authors have no conflicts of interest to disclose."
+        }
+    ]
+}

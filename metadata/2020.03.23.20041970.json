@@ -1,0 +1,20 @@
+{
+    "abstract": "The Diamond Princess (DP) cruise ship was put under quarantine offshore Yokohama, Japan, after a passenger who disembarked in Hong Kong was confirmed as a COVID-19 case. We performed whole genome sequencing of SARS-CoV-2 directly from PCR-positive clinical specimens and conducted a haplotype network analysis of the outbreak. All tested isolates exhibited a transversion at G11083T, suggesting that SARS-CoV-2 dissemination on the DP originated from a single introduction event before the quarantine started. Although further spreading might have been prevented by quarantine, some progeny clusters were linked to transmission through mass-gathering events in the recreational areas and direct transmission among passengers who shared cabins during the quarantine. This study demonstrates the usefulness of haplotype network analysis in identifying potential infection routes.",
+    "author": "Takuri Takahashi; Takuya Yamagishi; Tsutomu Kageyama; Rina Tanaka; Motoi Suzuki; Kentaro Itokawa; Nao Naganori; Hideki Asanuma; Masanori Hashino; Kensaku Kakimoto; Tsuyoshi Sekizuka; Hajime Kamiya; Takaji Wakita; Shinji Saito; Ikuyo Takayama; Makoto Kuroda; Hideki Hasegawa",
+    "date": 2020,
+    "doi": "10.1101/2020.03.23.20041970",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.23.20041970"
+    },
+    "title": "Haplotype networks of SARS-CoV-2 infections in the Diamond Princess cruise ship outbreak",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Grant-in Aid from the Japan Agency for Medical Research and Development"
+                }
+            ],
+            "funding-statement": "This study was supported by a Grant-in Aid from the Japan Agency for Medical Research and Development (AMED) under Grant Numbers JPfk0108103"
+        }
+    ]
+}

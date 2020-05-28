@@ -1,0 +1,30 @@
+{
+    "title": "TARGETED PROTEOMICS FOR THE DETECTION OF SARS-COV-2 PROTEINS",
+    "author": "Karel Bezstarosti, Mart M. Lamers, Bart L. Haagmans, Jeroen A. A. Demmers",
+    "date": 2020,
+    "affiliations": [
+        "Proteomics Center, Erasmus University Medical Center, Rotterdam, the Netherlands",
+        "Viroscience Department, Erasmus University Medical Center, Rotterdam, the Netherlands",
+        "Correspondence:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.23.057810",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.23.057810.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the causative agent of coronavirus disease 2019 (COVID-19). The rapid, sensitive and specific diagnosis of SARS-CoV-2 by fast and unambiguous testing is widely recognized to be critical in responding the current outbreak. Since the current testing capacity by conventional PCR based methods is insufficient because of shortages of supplies such as RNA extraction kits and PCR reagents, alternative and/or complementary testing assays should be developed. Here, we exploit the potential of targeted mass spectrometry based proteomic technologies to solve the current issue of insufficient SARS-CoV-2 diagnostic testing capacity. We have assessed the limit of detection by parallel reaction monitoring (PRM) on an Orbitrap Eclipse mass spectrometer for target tryptic peptides of several SARS-CoV-2 proteins from a sample of virus infected Vero cells. For Nucleocapsid protein the limit of detection was found to be in the mid-attomole range (0.9 x 10-12 g), which would theoretically correspond to approximately 10,000 SARS-CoV-2 particles, under the assumption that all viral proteins are assembled in macromolecular virus particles. Whether or not this sensitivity is sufficient to play a role in SARSCoV-2 detection in patient material such as swabs or body fluids largely depends on the amount of viral proteins present in such samples and is subject of further research. If yes, mass spectrometry based methods could serve as a complementary protein based diagnostic tool and further steps should be focused on sample preparation protocols and on improvements in sample throughput.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "proteomics",
+        "targeted mass spectrometry",
+        "LC-MS",
+        "parallel reaction monitoring",
+        "limit of detection"
+    ],
+    "funding": [
+        {}
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "title": "Functional pathways in respiratory tract microbiome separate COVID-19 from community-acquired pneumonia patients",
+    "author": "Niina Haiminen, Filippo Utro, Ed Seabolt, and Laxmi Parida",
+    "date": 2020,
+    "affiliations": [
+        "Watson Research Center, Yorktown Heights, NY, USA",
+        "IBM Almaden Research Center, San Jose, CA, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.01.073171",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.01.073171.pdf"
+    },
+    "abstract": "In response to the global pandemic of the last four months, some progress has been made in understanding the molecular-level host interactions of the new coronavirus SARS-CoV-2 responsible for COVID-19. However, when the virus enters the body it interacts not only with the host but also with the micro-organisms already inhabiting the host. Understanding the virus-hostmicrobiome interactions can yield additional insights into the biological processes perturbed by the viral invasion. We carry out a comparative functional analysis of bronchoalveolar lavage fluid of eight COVID-19, twenty-five community-acquired pneumonia (CAP) patients and twenty healthy controls. The resulting functional profiles clearly separate the cohorts, even more sharply than just their corresponding taxonomic profiles. We also detect distinct pathway signatures in the respiratory tract microbiome that consistently distinguish COVID-19 patients from both the CAP and healthy cohorts. These include increased vitamin, drug, nucleotide, and energy metabolism during SARS-CoV-2 infection, contrasted with decreased amino acid and carbohydrate metabolism. This comparative analysis indicates consistent differences in COVID-19 respiratory tract metatranscriptomes compared to CAP and healthy samples.",
+    "funding": [
+        {}
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "The alarming spread of the pandemic coronavirus disease 2019 (COVID-19) caused by the SARS-CoV-2 virus is requiring several measures to reduce the risk of contagion. Every successful strategy in controlling SARS-CoV2 infection depends on the timely viral diagnosis which should include asymptomatic carriers. Consequently, strategies to increase the throughput for clinical laboratories to conduct large-scale diagnostic testing are urgently needed. Here we support the hypothesis that standard diagnostic protocol for SARS-CoV-2 virus could be conveniently applied to pooled samples obtained from different subjects. We suggest that a two-step sequential pooling procedure could identify positive subjects, ensuring at the same time significant benefits of costs and time. Simulation data are used to assess the efficiency, in terms of number of required tests, both for random assignment of the subjects to the pools and for situations when epidemiological and clinical data are used to create an \"informed\" version of the pooling. Different scenarios are examined in the simulations to measure the effect of different pool sizes and different values for the virus frequency. Our results allow to customize the pooling strategy according to the specific characteristics of the cohort to be tested.",
+    "author": "Renato Millioni; Cinzia Mortarino",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20077966",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20077966"
+    },
+    "title": "Sequential informed pooling approach to detect SARS-CoV2 infection",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

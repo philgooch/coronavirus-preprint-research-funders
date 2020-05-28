@@ -1,0 +1,16 @@
+{
+    "abstract": "There seems to be widespread pessimism regarding the ability of a nation to eliminate covid. One factor in this pessimism seems to be concern that covid might always be able to re-emerge because of the ongoing presence of unrecognised asymptomatic cases. However, it is shown here that it should be possible to eliminate covid more easily than anticipated, for a reason that at first glance seems paradoxical - the presence of superspreaders. If superspreaders are responsible for most of the spread, then, with the average number of secondary cases fixed at say R0=2.5, we have to conclude that superspreaders are relatively rare. When towards the end of an elimination program, there are very few infected people, whether symptomatic or asymptomatic, that small number of people may well not include any superspreaders. As a result, chance effects may make extinction likely. Nevertheless it is clear an attempt at elimination will require a rather onerous lockdown. In this paper we use a branching processes model to look at the tradeoff between risk of disease re-emergence and the length of lockdown required after a program of elimination has dropped the number of symptomatic cases in a region to just one.",
+    "author": "David Abraham Kault",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071761",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071761"
+    },
+    "title": "Superspreaders help covid-19 elimination",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Paper was prepared as part of my role as an adjunct senior lecturer, with no funding other than being allowed ongoing access to university library resources"
+        }
+    ]
+}

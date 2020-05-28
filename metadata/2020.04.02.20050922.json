@@ -1,0 +1,35 @@
+{
+    "abstract": "As COVID-19 is rapidly spreading across the globe, short-term modeling forecasts provide time-critical information for decisions on containment and mitigation strategies. A main challenge for short-term forecasts is the assessment of key epidemiological parameters and how they change when first interventions show an effect. By combining an established epidemiological model with Bayesian inference, we analyze the time dependence of the effective growth rate of new infections. Focusing on the COVID-19 spread in Germany, we detect change points in the effective growth rate that correlate well with the times of publicly announced interventions. Thereby, we can quantify the effect of interventions, and we can incorporate the corresponding change points into forecasts of future scenarios and case numbers. Our code is freely available and can be readily adapted to any country or region.",
+    "affiliations": [
+        "Campus Institute for Dynamics of Biological Networks funded by the VolkswagenStiftung"
+    ],
+    "author": "Johannes Zierenberg; Viola Priesemann; Jonas Dehning; Frank Paul Spitzner; Michael Wibral; Joao Pinheiro Neto; Michael Wilczek",
+    "date": 2020,
+    "doi": "10.1101/2020.04.02.20050922",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20050922"
+    },
+    "title": "Inferring change points in the COVID-19 spreading reveals the effectiveness of interventions",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "All authors received support from the Max-Planck-Society"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "VolkswagenStiftung and the Bernstein Network"
+                }
+            ],
+            "funding-statement": "JD and PS acknowledge funding by SMARTSTART, the joint training program in computational neuroscience by the VolkswagenStiftung and the Bernstein Network"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Joachim Herz Stiftung"
+                }
+            ],
+            "funding-statement": "JZ received financial support from the Joachim Herz Stiftung"
+        }
+    ]
+}

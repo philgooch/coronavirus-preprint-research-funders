@@ -1,0 +1,87 @@
+{
+    "title": "A rapid, low cost, and highly sensitive SARS-CoV-2 diagnostic based on whole genome sequencing",
+    "date": 2020,
+    "author": "Brian Glenn St Hilaire, Neva C. Durand, Namita Mitra, Saul Godinez Pulido, Ragini Mahajan, Alyssa Blackburn, Zane L. Colaric, Joshua W. M. Theisen, David Weisz, Olga Dudchenko, Andreas Gnirke, Suhas S.P. Rao, Parwinder Kaur, Erez Lieberman Aiden,#, Aviva Presser Aiden,10,#",
+    "affiliations": [
+        "The Center for Genome Architecture, Baylor College of Medicine, Houston, TX 77030, USA",
+        "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, TX",
+        "Center for Theoretical Biological Physics, Rice University, Houston, TX 77030, USA",
+        "Broad Institute of MIT and Harvard, Cambridge, MA 02139, USA",
+        "Department of Structural Biology, Stanford University School of Medicine, Stanford, CA 94305, USA",
+        "Departments of Computer Science and Computational and Applied Mathematics, Rice University, Houston, TX 77030, USA",
+        "UWA School of Agriculture and Environment, Faculty of Science, The University of Western Australia, 35 Stirling Highway, Crawley, WA 6009, Australia",
+        "Shanghai Institute for Advanced Immunochemical Studies, Shanghai Tech University, Shanghai, China",
+        "Department of Bioengineering, Rice University, Houston, TX, USA",
+        "Department of Pediatrics, Texas Children\u2019s Hospital, Houston, TX, USA # Co-corresponding authors",
+        "Center for Disease Control\u2019s 2019-Novel Coronavirus test. Using POLAR, a single person can process 192 samples over the course of an 8-hour experiment, at a cost of ~$30/patient, enabling a 24-hour turnaround with sequencing and data analysis time included. Further testing and refinement will likely enable greater enhancements in the sensitivity of the above approach",
+        "Center for Disease Control\u2019s 2019-Novel Coronavirus test in 10 clinical samples (nasopharyngeal swabs), yielding an exact match in 10 of 10 cases (5 positive, 5 negative)"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.25.061499",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.25.061499.pdf"
+    },
+    "abstract": "Early detection of infection with SARS-CoV-2 is key to managing the current global pandemic, as evidence shows the virus is most contagious on or before symptom onset. Here, we introduce a low-cost, high-throughput method for diagnosis of SARS-CoV-2 infection, dubbed PathogenOriented Low-Cost Assembly & Re-Sequencing (POLAR), that enhances sensitivity by aiming to amplify the entire SARS-CoV-2 genome rather than targeting particular viral loci, as in typical RTPCR assays. To achieve this goal, we combine a SARS-CoV-2 enrichment method developed by the ARTIC Network (https://artic.network/) with short-read DNA sequencing and de novo genome assembly. We are able to reliably (>95% accuracy) detect SARS-CoV-2 at concentrations of 84 genome equivalents per milliliter, better than the reported limits of detection of almost all diagnostic methods currently approved by the US Food and Drug Administration. At higher concentrations, we are able to reliably assemble the SARS-CoV-2 genome in the sample, often with no gaps and perfect accuracy. Such genome assemblies enable the spread of the disease to be analyzed much more effectively than would be possible with an ordinary yes/no diagnostic, and can help identify vaccine and drug targets. Finally, we show that POLAR diagnoses on 10 of 10 clinical nasopharyngeal swab samples (half positive, half negative) match those obtained in a CLIA-certified lab using the Center for Disease Control\u2019s 2019-Novel Coronavirus test. Using POLAR, a single person can process 192 samples over the course of an 8-hour experiment, at a cost of ~$30/patient, enabling a 24-hour turnaround with sequencing and data analysis time included. Further testing and refinement will likely enable greater enhancements in the sensitivity of the above approach.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Thrasher Research Fund Early Career Award",
+                    "award-id": [
+                        "14801"
+                    ]
+                },
+                {
+                    "funding-source": "Howard Hughes Medical Institute Gilliam Fellowship",
+                    "award-id": [
+                        "#GT11533"
+                    ]
+                },
+                {
+                    "funding-source": "Israel Binational Science Foundation Grant",
+                    "award-id": [
+                        "#2017086"
+                    ]
+                },
+                {
+                    "funding-source": "NSF Physics Frontier Center Grant",
+                    "award-id": [
+                        "#PHY1427654"
+                    ]
+                },
+                {
+                    "funding-source": "Dr Gary Schroth, Dr"
+                },
+                {
+                    "funding-source": "Linda Ray, Dr"
+                },
+                {
+                    "funding-source": "Feng Chen, Dr"
+                },
+                {
+                    "funding-source": "Erich Jaeger, Dr"
+                },
+                {
+                    "funding-source": "Steph Craig and Dr Mehdi Keddache of Illumina for"
+                }
+            ],
+            "funding-statement": "This work was supported by a Thrasher Research Fund Early Career Award (#14801) to A.P.A., a Howard Hughes Medical Institute Gilliam Fellowship (#GT11533) to B.G.S., an Israel Binational Science Foundation Grant (#2017086) and an NSF Physics Frontier Center Grant (#PHY1427654). We thank Dr Gary Schroth, Dr Linda Ray, Dr Feng Chen, Dr Erich Jaeger, Dr Steph Craig and Dr Mehdi Keddache of Illumina for providing flow cells, reagents, and constructive feedback on our project"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The POLAR BEAR"
+                },
+                {
+                    "funding-source": "University of Western Australia and the Pawsey Supercomputing Centre"
+                },
+                {
+                    "funding-source": "Australian Government and the Government of Western Australia"
+                }
+            ],
+            "funding-statement": "The POLAR BEAR pipeline benchmarking work was supported by resources provided by the University of Western Australia and the Pawsey Supercomputing Centre with funding from the Australian Government and the Government of Western Australia"
+        }
+    ]
+}

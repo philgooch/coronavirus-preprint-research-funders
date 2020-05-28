@@ -1,0 +1,29 @@
+{
+    "abstract": "Background. Current management efforts of COVID-19 include: early diagnosis, use of antivirals and immune modulation. After the initial viral phase of the illness, identification of the patients developing cytokine storm syndrome is critical. Treatment of this hyper-inflammation in these patients using existing, approved therapies with proven safety profiles could address the immediate need to reduce the rising mortality. Methods. Using data from an A549 cell line, primary human bronchial epithelial (NBHE), as well as from COVID-19-infected lung, we compare the changes in the gene expression, pathways and mechanisms between SARS-CoV2, influenza A, and respiratory syncytial virus. Results. We identified FDA-approved drugs that could be repurposed to help COVID-19 patients with severe symptoms related to hyper-inflammation. An important finding is that drugs in the same class will not achieve similar effects. For instance methylprednisolone and prednisolone were predicted to be effective in reverting many of the changes triggered by COVID-19, while other closely related steroids, such as prednisone or dexamethasone, were not. An independent clinical study evaluated 213 subjects, 81 (38%) and 132 (62%) in pre-and post-methylprednisolone groups, respectively. The composite end point was composed of escalation to intensive care units, need for mechanical ventilation, and death. The composite endpoint occurred at a significantly lower rate in post-methylprednisolone group compared to pre-methylprednisolone group (34.9% vs. 54.3%, p=0.005). Conclusion. Clinical results confirmed the efficacy of the in silico prediction that indicated methyl- prednisolone could improve outcomes in severe COVID-19. These findings are important for any future pandemic regardless of the virus.",
+    "affiliations": [
+        "National Science Foundation grant 1853207: SBIR Phase II:A multi-omics data integration approach for precision medicine and improved clinical trial success. The clinical study undertook at HFSH did not use any external funding"
+    ],
+    "author": "Radu L Vanciu; Tuan-Minh Nguyen; Mayur Ramesh; Raef Fadel; Sorin Draghici; Cordelia Ziraldo; Larry A Sonna; Austin Morrison; Gil Mor",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20076687",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20076687"
+    },
+    "title": "COVID-19: disease pathways and gene expression changes predict methylprednisolone can improve outcome in severe cases",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "1853207"
+                    ]
+                },
+                {
+                    "funding-source": "SBIR Phase"
+                }
+            ],
+            "funding-statement": "AdvaitaBio is supported by a National Science Foundation grant 1853207: SBIR Phase II:A multi-omics data integration approach for precision medicine and improved clinical trial success. The clinical study undertook at HFSH did not use any external funding."
+        }
+    ]
+}

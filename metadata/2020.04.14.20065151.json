@@ -1,0 +1,16 @@
+{
+    "abstract": "BACKGROUND India was one of the countries to institute strict measures for SARS-CoV-2 control in early phase. Since, then, the epidemic growth trajectory was slow before registering an explosion of cases due to local cluster transmissions. METHODS We estimated growth rate and doubling time of SARS-CoV-2 for India and high burden states using crowd sourced time series data. Further, we also estimated Basic Reproductive Number (R0) and time dependent reproductive number (Rt) using serial intervals from the data. We compared the R0 estimated from five different methods and R0 from SB was further used in analysis. We modified standard SIR models to SIRD model to accommodate deaths using R0 with the Sequential Bayesian method (SBM) for simulation in SIRD models. RESULTS On an average, 2.8 individuals were infected by an index case. The mean serial interval was 3.9 days. The R0 estimated from different methods ranged from 1.43 to 1.85. The mean time to recovery was 14, SD 5.3 days. Daily epidemic growth rate of India was 0.16 [95%CI; 0.14, 0.17] with a doubling time of 4.30 days [95%CI; 3.96, 4.70]. From the SIRD model, it can be deduced that the peak of SARS-CoV-2 in India will be around mid-July to early August 2020 with around 12.5% likely to be infected at peak time of incidence. CONCLUSIONS The pattern of spread of SARS-CoV-2 in India is suggestive of community transmission. There is a need to increase fund for infectious disease research and epidemiologic studies. All the current gains may be reversed rapidly if air travel and social mixing resumes rapidly. For the time being, these must be resumed only in a phased manner, and should be back to normal levels only after we are prepared to deal with the disease with efficient tools like vaccine or a medicine.",
+    "author": "Mehul Kumar Chourasia; Anu Sasidharan Nair; Aravind Lathika Rajendrakumar; Anand Thakarakkattil Narayanan Nair; Prabal Kumar Chourasia; Charvi Nangia; Mohammad Ghouse Syed; Arun B Nair; Muhammed Shaffi Fazaludeen Koya",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065151",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065151"
+    },
+    "title": "Epidemic Landscape and Forecasting of SARS-CoV-2 in India",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

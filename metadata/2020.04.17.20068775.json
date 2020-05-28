@@ -1,0 +1,29 @@
+{
+    "abstract": "This study focuses on evaluating the different policies of controlling the outbreak of COVID-19 in mainland China and in some European countries. The study is based on mathematical model which is a modified susceptible-infected-recovered (SIR) model. The model takes death and recovery into consideration which in convenience is called the susceptible-infected-recovered-death (SIRD) model. The criterion for the recovered patients is assumed by COVID-19 nucleic acid testing negative. The mathematical model is constructed by retrospective study. Determination of the parameters in the model is based on the epidemic bulletin supplied by the Chinese Center for Disease Control and Prevention (CDC) and National Health Commission of the People's Republic of China (NHC) from Jan 16 2020 to Mar 5 2020. The data cover the date when the epidemic situation is reported and the data showed that the epidemic situation is almost under control in China. The mathematical model mainly simulates the active cases and the deaths during the outbreak of COVID-19. Then apply the mathematical model to simulate the epidemic situations in Italy and Spain, which are suffering the outbreak of COVID-19 in Europe. The determination of the parameters for the 2 European countries is based on the data supplied by Worldometers. By comparing the difference of the parameters based on the same mathematical model, it is possible to evaluate the different policies in different countries. It turns out that the relatively easing control policies might lead to rapid spread of the disease.",
+    "affiliations": [
+        "European countries is based on the data supplied by Worldometers. By comparing the difference of the parameters based on the same mathematical model, it is possible to evaluate the different policies in different countries. It turns out that the relatively easing control policies might lead to rapid spread of the disease",
+        "Central Universities (3332019170), Research on the construction of monitoring information system for blood safety (2016ZX330057), Investigating the influencing factors on donation frequency of plasma donor based on geography information system (Q15086)"
+    ],
+    "author": "Feng Lin; Yonghua Yin; Xu He; Yi Huang; Huifang Zhang; Jiaxin Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20068775",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20068775"
+    },
+    "title": "Evaluating the different control policies for COVID-19 between mainland China and European countries by a mathematical model in the confirmed cases",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities",
+                    "award-id": [
+                        "3332019170",
+                        "2016ZX330057",
+                        "Q15086"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by Fundamental Research Funds for the Central Universities (3332019170), Research on the construction of monitoring information system for blood safety (2016ZX330057), Investigating the influencing factors on donation frequency of plasma donor based on geography information system (Q15086)"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "The novel coronavirus disease 2019 (COVID-19) became a rapidly spreading worldwide epidemic; thus, it is a global priority to reduce the speed of the epidemic spreading. Several studies predicted that high temperature and humidity could reduce COVID-19 transmission. However, exceptions exist to this observation, further thorough examinations are thus needed for their confirmation. In this study, therefore, we used a global dataset of COVID-19 cases and global climate databases and comprehensively investigated how climate parameters could contribute to the growth rate of COVID-19 cases while statistically controlling for potential confounding effects using spatial analysis. We also confirmed that the growth rate decreased with the temperature; however, the growth rate was affected by precipitation seasonality and warming velocity rather than temperature. In particular, a lower growth rate was observed for a higher precipitation seasonality and lower warming velocity. These effects were independent of population density, human life quality, and travel restrictions. The results indicate that the temperature effect is less important compared to these intrinsic climate characteristics, which might thus be useful for explaining the exceptions. However, the contributions of the climate parameters to the growth rate were moderate; rather, the contribution of travel restrictions in each country was more significant. Although our findings are preliminary owing to data-analysis limitations, they may be helpful when predicting COVID-19 transmission.",
+    "author": "Katsumi Chiyomaru; Kazuhiro Takemoto",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20060459",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20060459"
+    },
+    "title": "Global COVID-19 transmission rate is influenced by precipitation seasonality and the speed of climate temperature warming",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No specific funding was awarded for this research."
+        }
+    ]
+}

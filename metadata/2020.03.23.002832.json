@@ -1,0 +1,59 @@
+{
+    "title": "scRNA-seq reveals ACE2 and TMPRSS2 expression in TROP2+ Liver Progenitor Cells: Implications in COVID-19 associated Liver Dysfunction",
+    "date": 2020,
+    "author": "Justine Jia Wen Seow, Rhea Pai, Archita Mishra, Edwin Shepherdson, Tony Kiat Hon Lim, Brian KP Goh, Jerry KY Chan, Pierce KH Chow, Florent Ginhoux, Ramanuj DasGupta, Ankur Sharma,* 1Genome Institute of Singapore, Agency for Science, Technology and Research, 60 Biopolis Street, Genome, #02-01, Singapore 138672, Singapore 2Singapore Immunology Network (SIgN), A,STAR, 8A Biomedical Grove, Immunos Building, Level 3 and 4, Singapore 138648, Singapore 3Department of Reproductive Medicine, KK Women\u2019s and Children\u2019s Hospital, Singapore 229899, Singapore 4Department of Pathology, Singapore General Hospital, Singapore 169608, Singapore 5Department of Hepato-Pancreato-Biliary and Transplant Surgery, Singapore General Hospital, Singapore 169608, Singapore 6Division of Surgical Oncology, National Cancer Centre, Singapore 169610, Singapore 7Shanghai Institute of Immunology, Shanghai JiaoTong University School of Medicine, Shanghai 200025, China 8Translational Immunology Institute, SingHealth Duke-NUS Academic Medical Centre, 169856, Singapore *Correspondence: pierce.chow.k.h@singhealth.com.sg (P.K.H.C.), florent_ginhoux@immunol.astar.edu.sg (F.G.), dasguptar@gis.a-star.edu.sg (R.D.G.), sharmaa@gis.astar.edu.sg (A.S.)",
+    "affiliations": [
+        "Genome Institute of Singapore, Agency for Science, Technology and Research, 60 Biopolis Street, Genome, #02-01, Singapore 138672, Singapore",
+        "Singapore Immunology Network (SIgN), A*STAR, 8A Biomedical Grove, Immunos Building, Level 3 and 4, Singapore 138648, Singapore",
+        "Department of Reproductive Medicine, KK Women\u2019s and Children\u2019s Hospital, Singapore 229899, Singapore",
+        "Department of Pathology, Singapore General Hospital, Singapore 169608, Singapore",
+        "Department of Hepato-Pancreato-Biliary and Transplant Surgery, Singapore General Hospital, Singapore 169608, Singapore",
+        "Division of Surgical Oncology, National Cancer Centre, Singapore 169610, Singapore",
+        "Shanghai Institute of Immunology, Shanghai JiaoTong University School of Medicine, Shanghai 200025, China",
+        "Translational Immunology Institute, SingHealth Duke-NUS Academic Medical Centre, 169856, Singapore",
+        "Correspondence:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.23.002832",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.23.002832.pdf"
+    },
+    "abstract": "The recent pandemic of coronavirus disease 2019 (COVID-19) is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). COVID-19 was first reported in China (December 2019) and now prevalent in ~170 countries across the globe. Entry of SARS-CoV-2 into mammalian cells require the binding of viral Spike (S) proteins to the ACE2 (angiotensin converting enzyme 2) receptor. Once entered the S protein is primed by a specialised serine protease, TMPRSS2 (Transmembrane",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "ACE2",
+        "TMPRSS2",
+        "TROP2",
+        "Liver",
+        "scRNA-seq"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Medical Research Council",
+                    "award-id": [
+                        "Singapore"
+                    ]
+                },
+                {
+                    "funding-source": "Agency for Science, Technology"
+                }
+            ],
+            "funding-statement": "This work is supported by National Medical Research Council (NMRC, Singapore) grant TCR15Jun006, Agency for Science, Technology and Research (A*STAR) core funds to R.D.G. and F.G"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "OFYIRF18nov-0056"
+                    ]
+                }
+            ],
+            "funding-statement": "A.S. is supported by NMRC young investigator grant (OFYIRF18nov-0056)"
+        }
+    ]
+}

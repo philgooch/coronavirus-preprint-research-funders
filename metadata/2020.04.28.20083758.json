@@ -1,0 +1,28 @@
+{
+    "abstract": "The coronavirus disease 2019 (COVID-19) has been found to be caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). However, comprehensive knowledge of COVID-19 remains incomplete and many important features are still unknown. This manuscripts conduct a meta-analysis and a sensitivity study to answer the questions: What is the basic reproduction number? How long is the incubation time of the disease on average? What portion of infections are asymptomatic? And ultimately, what is the case fatality rate? Our studies estimate the basic reproduction number to be 3.15 with the 95% interval (2.41, 3.90), the average incubation time to be 5.08 days with the 95% confidence interval (4.77, 5.39) (in day), the asymptomatic infection rate to be 46% with the 95% confidence interval (18.48%, 73.60%), and the case fatality rate to be 2.72% with 95% confidence interval (1.29%, 4.16%) where asymptomatic infections are accounted for.\nCompeting Interest Statement",
+    "author": "Grace Y. Yi; Wenqing He; Yayuan Zhu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083758",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083758"
+    },
+    "title": "Estimation of the basic reproduction number, average incubation time, asymptomatic infection rate, and case fatality rate for COVID-19: Meta-analysis and sensitivity analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Natural Sciences and Engineering Research Council of Canada"
+                }
+            ],
+            "funding-statement": "The research is partially supported by fundings from the Natural Sciences and Engineering Research Council of Canada (NSERC)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Canada Research Chairs Program"
+                }
+            ],
+            "funding-statement": "Her research was undertaken, in part, thanks to funding from the Canada Research Chairs Program"
+        }
+    ]
+}

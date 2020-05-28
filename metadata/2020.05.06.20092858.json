@@ -1,0 +1,16 @@
+{
+    "abstract": "The SARS-CoV-2 driven infectious novel coronavirus disease (COVID-19) has been declared a pandemic by virtue of its brutal impact on the world in terms of loss on human life, health, economy, and other crucial resources. With the aim to explore more about its aspects, we adopted the SEIQRD (Susceptible-Exposed-Infected-Quarantine-Recovered-Death) pandemic spread with a time delay on the heterogeneous population and geography in this work. Focusing on the spatial heterogeneity, the entire population of interest in a region is divided into small distinct geographical sub regions, which interact by means of migration networks across boundaries. Utilizing the estimations of the time delay differential equations based model, we analyzed the spread dynamics of disease in a region and its sub regions. The model based numerical outcomes are validated from real time available data for India. We computed the approximate peak infection in forward time and relative timespan when disease outspread halts. To further evaluate the influence of the delay on the long term system dynamics, the sensitivity analysis is performed on time delay. The most crucial parameter, basic reproduction number R0 and its time-dependent generalization, has been estimated at both regional and sub regional levels. The impact of the most significant lockdown measure that has been implemented in India to contain the pandemic spread has been extensively studied by considering no lockdown scenario. A suggestion based on outcomes, for a bit relaxed lockdown, followed by an extended period of strict social distancing as one of the most effective control measures to manage COVID-19 spread is provided for India.",
+    "author": "Atul Kumar Verma; Natasha Sharma; Arvind Kumar Gupta",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20092858",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20092858"
+    },
+    "title": "Spatial Network based model forecasting transmission and control of COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

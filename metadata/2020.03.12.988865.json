@@ -1,0 +1,60 @@
+{
+    "title": "The architecture of SARS-CoV-2 transcriptome",
+    "date": 2020,
+    "author": "Dongwan Kim, Joo-Yeon Lee, Jeong-Sun Yang, Jun Won Kim, V. Narry Kim, and Hyeshik Chang",
+    "affiliations": [
+        "Center for RNA Research, Institute for Basic Science (IBS), Seoul 08826, Republic of Korea",
+        "School of Biological Sciences, Seoul National University, Seoul 08826, Republic of Korea",
+        "Korea National Institute of Health, Korea Centers for Disease Control & Prevention, Osong 28159, Republic of Korea"
+    ],
+    "journal": "SARS",
+    "volume": "2",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.12.988865",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.12.988865.pdf"
+    },
+    "abstract": "SARS-CoV-2 is a betacoronavirus that is responsible for the COVID-19 pandemic. The genome of SARS-CoV-2 was reported recently, but its transcriptomic architecture is unknown. Utilizing two complementary sequencing techniques, we here present a high-resolution map of the\nSARS-CoV-2 transcriptome and epitranscriptome. DNA nanoball sequencing 6 shows that the transcriptome is highly complex owing to numerous recombination events, both canonical and noncanonical. In addition to the genomic RNA and subgenomic RNAs common in all coronaviruses,",
+    "keywords": [
+        "SARS-CoV-2",
+        "coronavirus",
+        "betacoronavirus",
+        "COVID-19",
+        "2019-nCoV",
+        "nanopore",
+        "19 direct RNA sequencing",
+        "RNA modification",
+        "discontinuous transcription"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Institute for Basic Science from the Ministry of Science, ICT"
+                },
+                {
+                    "funding-source": "Future Planning of Korea"
+                },
+                {
+                    "funding-source": "Research Fellowship from the Ministry of Education of Korea"
+                },
+                {
+                    "funding-source": "New Faculty Startup Fund from Seoul National University",
+                    "award-id": [
+                        "4845-300",
+                        "2019-NG044"
+                    ]
+                },
+                {
+                    "funding-source": "Korea Centers for Disease Control and Prevention"
+                },
+                {
+                    "funding-source": "Author Contributions H.C,"
+                }
+            ],
+            "funding-statement": "This work was supported by IBS-R008-D1 of Institute for Basic Science from the Ministry of Science, ICT and Future Planning of Korea (D.K., H.C. and V.N.K.), BK21 Research Fellowship from the Ministry of Education of Korea (D.K.), the New Faculty Startup Fund from Seoul National University (H.C.), and 4845-300(2019-NG044) of Korea Centers for Disease Control and Prevention (J.Y.L., J.S.Y., and J.W.K.). Author Contributions H.C, J.Y.L, and V.N.K. designed the study. D.K., J.S.Y., and J.W.K. performed molecular and cell biological experiments. H.C. carried out computational analyses. H.C., J.Y.L, and V.N.K. wrote the manuscript."
+        }
+    ]
+}

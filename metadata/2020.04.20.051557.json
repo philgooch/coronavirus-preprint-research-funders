@@ -1,0 +1,40 @@
+{
+    "title": "Design an efficient multi-epitope peptide vaccine candidate against SARS-CoV-2: An in silico analysis",
+    "author": "Zahra Yazdani, Alireza Rafiei, Mohammadreza Yazdani, Reza Valadan, 1- Department of Immunology, Molecular and Cell Biology Research Center, School of Medicine, Mazandaran University of Medical Sciences, Sari, Iran 2- Department of Chemistry, Isfahan University of Technology, Isfahan, 84156-83111, Iran Corresponding author: Alireza Rafiei, Department of Immunology, Molecular and Cell Biology Research Center, School of Medicine, Mazandaran University of Medical Sciences, KM 18 Khazarabad road, Khazar Sq, Sari, Iran, E-mail: rafiei1710@gmail.com, Orcid Id:0000-0002-1766-6605, Tel: +981133543614",
+    "date": 2020,
+    "affiliations": [
+        "1- Department of Immunology, Molecular and Cell Biology Research Center, School of Medicine, Mazandaran University of Medical Sciences, Sari, Iran 2- Department of Chemistry, Isfahan University of Technology, Isfahan, 84156-83111, Iran Corresponding author: Alireza Rafiei, Department of Immunology, Molecular and Cell Biology Research Center, School of Medicine, Mazandaran University of Medical Sciences, KM",
+        "Khazarabad road, Khazar Sq, Sari, Iran"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.20.051557",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.20.051557.pdf"
+    },
+    "abstract": "Background: To date, no specific vaccine or drug has been proven to be effective for SARS-CoV-2 infection. Therefore, we implemented immunoinformatics approach to design an efficient multi-epitopes vaccine against SARS-CoV-2. Results: The designed vaccine construct has several immunodominant epitopes from structural proteins of Spike, Nucleocapsid, Membrane and Envelope. These peptides promote cellular and humoral immunity and Interferon gamma responses. In addition, these epitopes have antigenicity ability and no allergenicity probability. To enhance the vaccine immunogenicity, we used three potent adjuvants; Flagellin, a driven peptide from high mobility group box 1 as HP-91 and human beta defensin 3 protein. The physicochemical and immunological properties of the vaccine structure were evaluated. Tertiary structure of the vaccine protein was predicted and refined by I-Tasser and galaxi refine and validated using Rampage and ERRAT. Results of Ellipro showed 242 residues from vaccine might be conformational B cell epitopes. Docking of vaccine with Toll-Like Receptors 3, 5 and 8 proved an appropriate interaction between the vaccine and receptor proteins. In silico cloning demonstrated that the vaccine can be efficiently expressed in Escherichia coli. Conclusions: The designed multi epitope vaccine is potentially antigenic in nature and has the ability to induce humoral and cellular immune responses against SARS-CoV-2. This vaccine can interact appropriately with the TLR3, 5, and 8. Also, this vaccine has high quality structure and suitable characteristics such as high stability and potential for expression in Escherichia coli. Key words: SARS-CoV-2, multi-epitope vaccine, structural proteins, humoral immunity, cellular immunity",
+    "keywords": [
+        "SARS-CoV-2",
+        "multi-epitope vaccine",
+        "structural proteins",
+        "humoral immunity",
+        "cellular immunity"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding This"
+                },
+                {
+                    "funding-source": "Research and Technology"
+                },
+                {
+                    "funding-source": "Mazandaran University of Medical Sciences."
+                }
+            ],
+            "funding-statement": "Funding This study received a small grant (Grant no: 7252) from Research and Technology deputy of Mazandaran University of Medical Sciences. 7.2 Authors' contributions A.R conceived and designed this study; supervised the project and collected the data"
+        }
+    ]
+}

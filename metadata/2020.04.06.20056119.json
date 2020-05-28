@@ -1,0 +1,16 @@
+{
+    "abstract": "The transmission dynamics of the coronavirus - COVID-19- have challenged humankind at almost every level. Currently, research groups around the globe are trying to figure out such transmission dynamics using different scientific and technological approaches. One of those is by using mathematical and computational models like the compartmental model or the agent-based models. In this paper, a general agent-based model, called INFEKTA, that combines the transmission dynamics of an infectious disease with agents (individuals) that can move on a complex network of accessible places defined over a Euclidean space representing a real town or city is proposed. The applicability of INFEKTA is shown by modeling the transmission dynamics of the COVID-19 in Bogot\u00e1 city, the capital of Colombia.",
+    "author": "Jeisson Prieto; Elizabeth Leon; Arles Rodriguez; Jonatan Gomez",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20056119",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20056119"
+    },
+    "title": "INFEKTA: A General Agent-based Model for Transmission of Infectious Diseases: Studying the COVID-19 Propagation in Bogot\u00e1 - Colombia",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No additional funding was granted for writing this paper."
+        }
+    ]
+}

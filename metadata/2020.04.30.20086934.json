@@ -1,0 +1,16 @@
+{
+    "abstract": "The effective reproduction number, Reff, is an important measure of transmission potential in the modelling of epidemics. It measures the average number of people that will be infected by a single contagious individual. A value of Reff > 1 suggests that an outbreak will occur, while Reff< 1 suggests the virus will die out. In response to the COVID-19 pandemic, countries worldwide are implementing a range of intervention measures, such as population-wide social distancing and case isolation, with the goal of reducing Reff to values below one, to slow or eliminate transmission. We analyse case data from 25 international locations to estimate their Reff values over time and to assess the effectiveness of interventions, equivalent to New Zealand's Alert Levels 1-4, for reducing transmission. Our results show that strong interventions, equivalent to NZ's Alert Level 3 or 4, have been successful at reducing Reff below the threshold for outbreak. In general, countries that implemented strong interventions earlier in their outbreak have managed to maintain case numbers at lower levels. These estimates provide indicative ranges of Reff for each Alert Level, to inform parameters in models of COVID-19 spread under different intervention scenarios in New Zealand and worldwide. Predictions from such models are important for informing policy and decisions on intervention timing and stringency during the pandemic.",
+    "author": "Michael J Plank; Rachelle N Binny; Alex James; Shaun C Hendy; Nicholas Steyn; Audrey Lustig",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20086934",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20086934"
+    },
+    "title": "Effect of Alert Level 4 on effective reproduction number: review of international COVID-19 cases",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

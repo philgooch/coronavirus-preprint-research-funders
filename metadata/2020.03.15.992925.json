@@ -1,0 +1,34 @@
+{
+    "title": "Master Regulator Analysis of the SARS-CoV2/Human interactome",
+    "author": "Pietro Hiram Guzzi 1\u00a7, Daniele Mercatelli 2\u00a7, Carmine Ceraolo, and Federico M. Giorgi 2",
+    "date": 2020,
+    "affiliations": [
+        "Department of Surgical and Medical Science, University of Catanzaro, Italy",
+        "Department of Pharmacy and Biotechnology, University of Bologna, Italy",
+        "Correspondence:",
+        "These authors contributed equally to this work"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.15.992925",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.15.992925.pdf"
+    },
+    "abstract": "the recent epidemic outbreak of a novel human coronavirus called SARS-CoV-2 and causing the respiratory tract disease COVID-19 has reached worldwide resonance and a global effort is being undertaken to characterize the molecular features and evolutionary origins of this virus. In this paper, we set out to shed light on the SARS-CoV-2/host receptor recognition, a crucial factor for successful virus infection. Based on the current knowledge of the interactome between SARS-CoV-2 and host cell proteins, we performed Master Regulator Analysis to detect which parts of the human interactome are most affected by the infection. We detected, amongst others, affected apoptotic and mitochondrial mechanisms, and a downregulation of the ACE2 protein receptor, notions that can be used to develop specific therapies against this new virus.",
+    "keywords": [
+        "coronavirus",
+        "bioinformatics",
+        "gene network analysis"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Italian Ministry of University and"
+                }
+            ],
+            "funding-statement": "This research was supported by CINECA, grant numbers HP10CPQJBV and HP10CC5F89; this research was also funded by the Italian Ministry of University and research."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "abstract": "Background: Current reporting of Covid-19 mortality data by race and ethnicity across the United States could bias our understanding of population-mortality disparities. Moreover, stark differences in age distribution by race and ethnicity groups are seldom accounted for in analyses. Methods: To address these gaps, we conducted a cross-sectional study using publicly-reported Covid-19 mortality data to assess the quality of race and ethnicity data (Black, Latinx, white), and estimated age-adjusted disparities using a random effects meta-analytic approach. Results: We found only 28 states, and NYC, reported race and ethnicity-stratified Covid-19 mortality along with large variation in the percent of missing race and ethnicity data by state. Aggregated relative risk of death estimates for Black compared to the white population was 3.57 (95% CI: 2.84-4.48). Similarly, Latinx population displayed 1.88 (95% CI: 1.61-2.19) times higher risk of death than white patients. Discussion: In states providing race and ethnicity data, we identified significant population-level Covid-19 mortality disparities. We demonstrated the importance of adjusting for age differences across population groups to prevent underestimating disparities in younger population groups. The availability of high-quality and comprehensive race and ethnicity data is necessary to address factors contributing to inequity in Covid-19 mortality.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Comprehensive Cancer Network (funded by Pfizer and Astra-Zeneca), funding from Johnson & Johnson to assist with developing new approaches to sharing clinical trial data (through the Yale Open Data Access Project), and funding from Flatiron, Inc for travel/speaking, outside the submitted work. No other disclosures were reported"
+    ],
+    "author": "Saamir Pasha; Marcella Nunez-Smith; Jacob R Gross; Utibe R Essien; Cary P Gross; Shi-yi Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20094250",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20094250"
+    },
+    "title": "Racial and Ethnic Disparities in Population Level Covid-19 Mortality",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Comprehensive Cancer Network",
+                    "award-id": [
+                        "funded by Pfizer",
+                        "Astra-Zeneca"
+                    ]
+                },
+                {
+                    "funding-source": "Pfizer and Astra-Zeneca)"
+                },
+                {
+                    "funding-source": "Johnson & Johnson"
+                },
+                {
+                    "funding-source": "Yale Open Data Access Project)"
+                }
+            ],
+            "funding-statement": "Dr Gross reported receiving research grants from the National Comprehensive Cancer Network (funded by Pfizer and Astra-Zeneca), funding from Johnson & Johnson to assist with developing new approaches to sharing clinical trial data (through the Yale Open Data Access Project), and funding from Flatiron, Inc for travel/speaking, outside the submitted work"
+        }
+    ]
+}

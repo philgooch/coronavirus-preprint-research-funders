@@ -1,0 +1,16 @@
+{
+    "abstract": "The COVID-19 disease is rapidly spreading in whole globe, affecting millions of people and pushing governments to take drastic measures to contain the outbreaks. The understanding of the dynamics of the epidemic is of great interest for the governments and health authorities that are facing COVID-19 outbreaks. The scarce presence of epidemiologic data, due to the still ongoing outbreaks, makes prediction difficult and mainly based on heuristic (fitting) models. However, these models with non-physical based parameters, can only give limited insight in the evolution of the outbreaks. In this work a SIRD compartmental model was developed to describe and predict the evolution of the Chinese and Italian outbreaks. Exploiting the similarities of the measures taken by the governments to contain the virus and of the total population number of Hubei province and Italy, the model was tuned on the Chinese outbreak (almost extinguished) and by perturbation the Italian outbreak was describe and predicted.",
+    "author": "Diego Caccavo",
+    "date": 2020,
+    "doi": "10.1101/2020.03.19.20039388",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.19.20039388"
+    },
+    "title": "Chinese and Italian COVID-19 outbreaks can be correctly described by a modified SIRD model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The author received no specific funding for this work."
+        }
+    ]
+}

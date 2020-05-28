@@ -1,0 +1,16 @@
+{
+    "abstract": "Background In the current COVID-19 pandemic, much focus is put on 'flattening the curve'. This epidemiological 'curve' refers to the cases versus time graph, which shows the rise of a disease to its peak before descending. The aim in a pandemic is to flatten this curve by reducing the peak and spreading out the timeline. However, the models used to predict this curve are often not clearly outlined, no model parameters are given, and models are not tested against real data. This lack of detail makes it difficult to recreate the curve. What is much needed is a simple tool for approximating the curve to allow ideas to be tested and comparisons made. Methods This work presents a Simple Curve Approximation Tool (SCAT) which can be used by anyone. This tool allows the user to approximate and draw the curve and allows testing of assumptions, trajectories and the wildly varying figures reported in the media. The mathematics behind SCAT is clearly outlined here but understanding of this is not required. SCAT is provided online as a downloadable MS Excel workbook with some sample cases shown. Throughout this work, the parameters used are specified so that all results can be easily reproduced. Findings Although not intended as a prediction tool, SCAT has achieved less than 0.5 % error in short-term forward prediction. It also shows a very significant improvement on the pandemic exponential approximations found throughout media reporting. As a comparison tool, it highlights obvious differences between COVID-19 and other diseases, such as influenza, and between countries at different stages of the pandemic (China, Italy and the UK are used here for demonstration purposes). Interpretation SCAT allows for quick approximation of the curve and creates meaningful comparisons and understandable visualisations for COVID-19 and other diseases. Funding None.",
+    "author": "Jane Courtney",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20055467",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055467"
+    },
+    "title": "COVID-19: Tracking the Pandemic with A Simple Curve Approximation Tool (SCAT)",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None."
+        }
+    ]
+}

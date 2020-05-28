@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: As the number of COVID-19 cases in the US continues to rise and hospitals are experiencing personal protective equipment (PPE) shortages, healthcare workers have been disproportionately affected by COVID-19 infection. Since COVID-19 testing is now available, some have raised the question of whether we should be routinely testing asymptomatic healthcare workers. Methods: Using publicly available data on COVID-19 infections and emergency department visits, as well as internal hospital staffing information, we generated a mathematical model to predict the impact of periodic COVID-19 testing in asymptomatic members of the emergency department staff in regions affected by COVID-19 infection. We calculated various transmission constants based on the Diamond Princess cruise ship data, used a logistic model to calculate new infections, and we created a Markov model according to average COVID-19 incubation time. Results: Our model predicts that after 30 days, with a transmission constant of 1.219e-4 new infections per person2, weekly COVID-19 testing of healthcare workers (HCW) would reduce new HCW and patient infections by 5.1% and bi-weekly testing would reduce both by 2.3%. At a transmission constant of 3.660e-4 new infections per person,2 weekly testing would reduce infections by 21.1% and bi-weekly testing would reduce infections by 9.7-9.8%. For a lower transmission constant of 4.067e-5 new infections per person2, weekly and biweekly HCW testing would result in a 1.54% and 0.7% reduction in infections respectively. Conclusion: Periodic COVID-19 testing for emergency department staff in regions that are heavily-affected by COVID-19 and/or facing resource constraints may reduce COVID-19 transmission significantly among healthcare workers and previously-uninfected patients.\nCompeting Interest Statement",
+    "author": "Sheng-Ru Cheng; Yuemei Zhang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20084053",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20084053"
+    },
+    "title": "Periodic COVID-19 Testing in Emergency Department Staff",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors received no financial support for the research, authorship, and/or publication of this article."
+        }
+    ]
+}

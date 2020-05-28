@@ -1,0 +1,27 @@
+{
+    "abstract": "The rapid expansion of COVID-19 has caused a global pandemic. Although quarantine measures have been used widely, the critical steps among them to suppress the outbreak without a huge social-economic loss remain unknown. Hong Kong, unlike other regions in the world, had a massive number of travellers from Mainland China during the early expansion period, and yet the spread of virus has been relatively limited. Understanding the effect of control measures to reduce the transmission in Hong Kong can improve the control of the virus spreading. We have developed a susceptible-exposed-infectious-quarantined-recovered (SEIQR) meta-population model that can stratify the infections into imported and subsequent local infections, and therefore to obtain the control effects on transmissibility in a region with many imported cases. We fitted the model to both imported and local confirmed cases with symptom onset from 18 January to 29 February 2020 in Hong Kong with daily transportation data and the transmission dynamics from Wuhan and Mainland China. The model estimated that the reproductive number was dropped from 2.32 to 0.76 (95% CI, 0.66 to 0.86) after an infected case was estimated to be quarantined half day before the symptom onset, corresponding to the incubation time of 5.43 days (95% CI, 1.30-9.47). If the quarantine happened about one day after the onset, community spread would be likely to occur, indicated by the reproductive number larger than one. The results suggest that the early quarantine for a suspected case before the symptom onset is a key factor to suppress COVID-19.",
+    "affiliations": [
+        "City University of Hong Kong [#7200573 and #9610416]"
+    ],
+    "author": "Dirk Pfeiffer; Guiyuan Han; Axiu Mao; Hsiangkuo Yuan; Hsiang-Yu Yuan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059006",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059006"
+    },
+    "title": "Effectiveness of quarantine measure on transmission dynamics of COVID-19 in Hong Kong",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "City University of Hong Kong",
+                    "award-id": [
+                        "#7200573",
+                        "#9610416"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors also acknowledge the support from the grants funded by City University of Hong Kong [#7200573 and #9610416]"
+        }
+    ]
+}

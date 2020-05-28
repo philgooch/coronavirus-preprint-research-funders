@@ -1,0 +1,16 @@
+{
+    "abstract": "Introduction: Many countries with weaker health systems are struggling to put together a coherent strategy against the COVID-19 epidemic. We explored COVID-19 control strategies that could offer the greatest benefit in resource limited settings. Methods: Using an age-structured SEIR model, we explored the effects of COVID-19 control interventions--a lockdown, physical distancing measures, and active case finding (testing and isolation, contact tracing and quarantine)-- implemented individually and in combination to control a hypothetical COVID-19 epidemic in Kathmandu (population 2.6 million), Nepal. Results: A month-long lockdown that is currently in place in Nepal will delay peak demand for hospital beds by 36 days, as compared to a base scenario of no interventions (peak demand at 108 days (IQR 97-119); a 2 month long lockdown will delay it by 74 days, without any difference in annual mortality, or healthcare demand volume. Year-long physical distancing measures will reduce peak demand to 36% (IQR 23%-46%) and annual morality to 67% (IQR 48%-77%) of base scenario. Following a month long lockdown with ongoing physical distancing measures and an active case finding intervention that detects 5% of the daily infection burden could reduce projected morality and peak demand by more than 99%. Interpretation: Limited resources settings are best served by a combination of early and aggressive case finding with ongoing physical distancing measures to control the COVID-19 epidemic. A lockdown may be helpful until combination interventions can be put in place but is unlikely to reduce annual mortality or healthcare demand.",
+    "author": "Bhagawan Koirala; Anup Subedee; Bishesh Khanal; Kiran Raj Pandey",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20079673",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20079673"
+    },
+    "title": "COVID-19 Control Strategies and Intervention Effects in Resource Limited Settings: A Modeling Study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding as was available for this study."
+        }
+    ]
+}

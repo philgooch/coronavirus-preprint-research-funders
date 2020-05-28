@@ -1,0 +1,55 @@
+{
+    "abstract": "During the early phase of the COVID-19 pandemic, when SARS-CoV-2 was chiefly reported in the city of Wuhan, cases exported to other locations were largely predicted using flight travel data from Wuhan. However, given Wuhan's connectivity to other cities in mainland China prior to the lockdown, there has likely been a substantial risk of exportation of cases from other Chinese cities. It is likely that many of these exportations remained undetected because early international case definitions for COVID-19 required a recent travel history from Wuhan. Here, we combine estimates of prevalence in 18 Chinese cities with estimates of flight volume, accounting for the effects of travel bans and the timing of Lunar New Year, to approximate the number of cases exported from cities outside of Wuhan from early December 2019 to late February 2020. We predict that for every one case from Wuhan exported internationally, there were approximately 2.9 cases from large Chinese cities exported internationally that likely remained undetected. Additionally, we predict the number of exported cases in six destinations for which predictions on exported cases have yet to be made, surveillance has likely been low, and where health care systems will likely face issues in managing current or potential outbreaks. We observe heterogeneities in exported case counts across these destinations. The predicted number of cases exported to Egypt and South Africa exceeds the predicted number of cases exported to Mauritania. These trends may anticipate differences in the timing and emergence of local transmission in these countries. Our findings highlight the importance of setting accurate travel history requirements for case definition guidelines in the initial phase of an epidemic, and actively updating these guidelines as the epidemic advances.",
+    "affiliations": [
+        "US National Institute Of General Medical Sciences. PMD was supported by the Fellowship Foundation Ramon Areces. COB was supported by",
+        "NIGMS Maximizing Investigator\u0092s Research Award (MIRA) R35GM124715-02"
+    ],
+    "author": "Alexander Watts; Michael J Mina; Pablo Martinez de Salazar; Caroline Buckee; Tigist Ferede Menkir; James A Hay; Erik Surface; Taylor Chin; Rene Niehus; Marc Lipsitch; Kamran Khan",
+    "date": 2020,
+    "doi": "10.1101/2020.03.23.20038331",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.23.20038331"
+    },
+    "title": "Estimating the number of undetected COVID-19 cases exported internationally from all of China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Award Number",
+                    "award-id": [
+                        "U54GM088558"
+                    ]
+                },
+                {
+                    "funding-source": "US National Institute Of General Medical Sciences"
+                }
+            ],
+            "funding-statement": "ML, TFM, TC and RN were supported by Award Number U54GM088558 from the US National Institute Of General Medical Sciences"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fellowship Foundation Ramon Areces"
+                }
+            ],
+            "funding-statement": "PMD was supported by the Fellowship Foundation Ramon Areces"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIGMS Maximizing",
+                    "award-id": [
+                        "R35GM12471"
+                    ]
+                },
+                {
+                    "funding-source": "Research Award",
+                    "award-id": [
+                        "R35GM124715-02"
+                    ]
+                }
+            ],
+            "funding-statement": "COB was supported by a NIGMS Maximizing Investigator\u0092s Research Award (MIRA) R35GM124715-02"
+        }
+    ]
+}

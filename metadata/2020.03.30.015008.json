@@ -1,0 +1,104 @@
+{
+    "title": "Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic",
+    "date": 2020,
+    "author": "Maciej F Boni, Philippe Lemey, Xiaowei Jiang, Tommy Tsan-Yuk Lam, Blair Perry, Todd Castoe, Andrew Rambaut,  and David L Robertson,  *joint first authors 1Center for Infectious Disease Dynamics, Department of Biology, Pennsylvania State University, University Park, PA, USA. 2Department of Microbiology, Immunology and Transplantation, KU Leuven, Leuven, Belgium. 3Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, Jiangsu, China. 4State Key Laboratory of Emerging Infectious Diseases, School of Public Health, The University of Hong Kong, Hong Kong SAR, China. 5Department of Biology, University of Texas Arlington, Arlington, TX, USA. 6Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK. 7MRC-University of Glasgow Centre for Virus Research (CVR), Glasgow, UK",
+    "affiliations": [
+        "Center for Infectious Disease Dynamics, Department of Biology, Pennsylvania State University, University Park, PA, USA",
+        "Department of Microbiology, Immunology and Transplantation, KU Leuven, Leuven, Belgium. 3Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, Jiangsu, China",
+        "State Key Laboratory of Emerging Infectious Diseases, School of Public Health, The University of Hong Kong, Hong Kong SAR, China",
+        "Department of Biology, University of Texas Arlington, Arlington, TX, USA",
+        "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK",
+        "MRC-University of Glasgow Centre for Virus Research (CVR), Glasgow, UK",
+        "Chinese Center for Disease Control and Prevention (China CDC) and the World Health Organization\u2019s (WHO) China Country Office. In early January, the etiological agent of the pneumonia cases was found to be a coronavirus (World Health Organization, 2020a), subsequently named SARS-CoV-2 by an International Committee on Taxonomy of Viruses (ICTV) Study Group (Gorbalenya et al., 2020), (also named",
+        "CoV-19 by (Wu et al., 2020b)). The first available sequence data (Wu et al., 2020a) placed this novel human pathogen in the Sarbecovirus subgenus of Coronaviridae (Lu et al., 2020), the same sub-genus as the SARS virus that caused a global outbreak of nearly 8000 cases in 2002-2003. By midJanuary, the virus was spreading widely inside Hubei province and by early March SARS-CoV-2 reached pandemic status (World Health Organization, 2020b)"
+    ],
+    "journal": "Date",
+    "volume": "29",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.30.015008",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.30.015008.pdf"
+    },
+    "abstract": "There are outstanding evolutionary questions on the recent emergence of coronavirus SARS-CoV-2/hCoV-19 in Hubei province that caused the COVID-19 pandemic, including (1) the relationship of the new virus to the SARS-related coronaviruses, (2) the role of bats as a reservoir species, (3) the potential role of other mammals in the emergence event, and (4) the role of recombination in viral emergence. Here, we address these questions and find that the sarbecoviruses \u2013 the viral subgenus responsible for the emergence of SARS-CoV and SARSCoV-2 \u2013 exhibit frequent recombination, but the SARS-CoV-2 lineage itself is not a recombinant of any viruses detected to date. In order to employ phylogenetic methods to date the divergence events between SARS-CoV-2 and the bat sarbecovirus reservoir, recombinant regions of a 68-genome sarbecovirus alignment were removed with three independent methods. Bayesian evolutionary rate and divergence date estimates were consistent for all three recombination-free alignments and robust to two different prior specifications based on HCoV-OC43 and MERS-CoV evolutionary rates. Divergence dates between SARS-CoV-2 and the bat sarbecovirus reservoir were estimated as 1948 (95% HPD: 1879-1999), 1969 (95% HPD: 1930-2000), and 1982 (95% HPD: 1948-2009). Despite intensified characterization of sarbecoviruses since SARS, the lineage giving rise to SARS-CoV-2 has been circulating unnoticed for decades in bats and been transmitted to other hosts such as pangolins. The occurrence of a third significant coronavirus emergence in 17 years together with the high prevalence and virus diversity in bats implies that these viruses are likely to cross species boundaries again.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Research Council"
+                },
+                {
+                    "funding-source": "European Union's Horizon",
+                    "award-id": [
+                        "725422-ReservoirDOCS"
+                    ]
+                }
+            ],
+            "funding-statement": "The research leading to these results has received funding from the European Research Council under the European Union's Horizon 2020 research and innovation programme (grant agreement no. 725422-ReservoirDOCS)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "MC UU",
+                    "award-id": [
+                        "1201412"
+                    ]
+                }
+            ],
+            "funding-statement": "DLR is funded by the MRC (MC UU 1201412)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Artic Network"
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "206298/Z/17/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "The Artic Network receives funding from the Wellcome Trust through project 206298/Z/17/Z"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Foundation"
+                },
+                {
+                    "funding-source": "Wetenschappelijk Onderzoek",
+                    "award-id": [
+                        "G066215N",
+                        "G0D5117N",
+                        "G0B9317N"
+                    ]
+                }
+            ],
+            "funding-statement": "PL acknowledges support by the Research Foundation -- Flanders (`Fonds voor Wetenschappelijk Onderzoek -- Vlaanderen', G066215N, G0D5117N and G0B9317N)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The National Natural Science Foundation of China"
+                },
+                {
+                    "funding-source": "Excellent Young Scientists Fund",
+                    "award-id": [
+                        "Hong Kong",
+                        "Macau",
+                        "31922087"
+                    ]
+                },
+                {
+                    "funding-source": "Hong Kong and Macau)",
+                    "award-id": [
+                        "31922087"
+                    ]
+                }
+            ],
+            "funding-statement": "TL is funded by The National Natural Science Foundation of China (NSFC) Excellent Young Scientists Fund (Hong Kong and Macau) (31922087)"
+        }
+    ]
+}

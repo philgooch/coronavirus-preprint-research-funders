@@ -1,0 +1,23 @@
+{
+    "abstract": "The SARS-CoV-2 pandemic has evolved far more aggressively in countries lacking a robust testing strategy to identify infected individuals. Given the global demand for fast and reliable diagnosis to determine the carrier individuals, a stock-out scenario for a number of essential reagents/kits used along the diagnostic process has been foreseen by many organizations. Having identified the RNA extraction step as one of the key bottlenecks, we tested several alternatives that avoid the use of commercial kits for this step. The analysis showed that 2-propanol precipitation of the viral RNA, followed by one-step RT-qPCR results in a sensitivity and specificity comparable to that provided currently by automatized systems such as the COBAS 6800 system. Therefore, this simple protocol allows SARS-CoV-2 testing independently of commercial kit providers in a time and cost-effective manner. It can be readily implemented in research and/or diagnostic laboratories worldwide, provided that patient confidentiality and researcher safety are ensured. Scaling up the testing capabilities of hospitals and research facilities will identify larger numbers of infected individuals to paint a clear picture of the COVID-19 prevalence, a pre-requisite for informed policy decision making.",
+    "author": "Maier Lorizate; Xabier Guruceaga; coBIG (COVID19 Basque Inter-institutional Group); Jon Ander Nieto-Garai; Izortze Santin; Ugo Mayor; Jose Ramon Bilbao; Patricia Aspichueta; Daniel Marino; Amanda Sierra",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20081307",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20081307"
+    },
+    "title": "Fast SARS-CoV-2 detection protocol based on RNA precipitation and RT-qPCR in nasopharyngeal swab samples",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Acci\u00f3n Especial",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                }
+            ],
+            "funding-statement": "This project was supported by funding from the UPV/EHU (Acci\u00f3n Especial \"Desarrollo e implementaci\u00f3n del test de diagn\u00f3stico para COVID-19\")"
+        }
+    ]
+}

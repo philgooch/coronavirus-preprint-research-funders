@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The aim of this study is to explain the changes of outbreak indicators for coronavirus in China with nonlinear models and time series analysis. There are lots of methods for modelling. But we want to determine the best mathematical model and the best time series method among other models. Methods: The data was obtained between January 22 and April 21, 2020 from China records. The number of total cases and the number of total deaths were used for the calculations. For modelling Weibull, Negative Exponential, Von Bertalanffy, Janoscheck, Lundqvist-Korf and Sloboda models were used and AR, MA, ARMA, Holt, Brown and Damped models were used for time series. The determination coefficient (R2), Pseudo R2 and mean square error were used for nonlinear modelling as criteria for determining the model that best describes the number of cases, the number of total deaths and BIC (Bayesian Information Criteria) was used for time series. Results: According to our results, the Sloboda model among the growth curves and ARIMA (0,2,1) model among the times series models were most suitable models for modelling of the number of total cases. In addition Lundqvist-Korf model among the growth curves and Holt linear trend exponential smoothing model among the times series models were most suitable model for modelling of the number of total deaths. Our time series models forecast that the number of total cases will 83311 on 5 May and the number of total deaths will be 5273. Conclusions: Because results of the modelling has providing information on measures to be taken and giving prior information for subsequent similar situations, it is of great importance modeling outbreak indicators for each country separately.\nCompeting Interest Statement",
+    "author": "Handan Ankarali; Senol Celik; Ozge Pasin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20080465",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20080465"
+    },
+    "title": "MODELLING OF COVID-19 OUTBREAK INDICATORS IN CHINA BETWEEN JANUARY AND APRIL",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding in the study."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "The SIR ('susceptible-infectious-recovered') formulation is used to uncover the generic spread mechanisms observed by COVID-19 dynamics globally, especially in the early phases of infectious spread. During this early period, potential controls were not effectively put in place or enforced in many countries. Hence, the early phases of COVID-19 spread in countries where controls were weak offer a unique perspective on the ensemble-behavior of COVID-19 basic reproduction number Ro. The work here shows that there is global convergence (i.e. across many nations) to an uncontrolled Ro=4.5 that describes the early time spread of COVID-19. This value is in agreement with independent estimates from other sources reviewed here and adds to the growing consensus that the early estimate of Ro=2.2 adopted by the World Health Organization is low. A reconciliation between power-law and exponential growth predictions is also featured within the confines of the SIR formulation. Implications for evaluating potential control strategies from this uncontrolled Ro are briefly discussed in the context of the maximum possible infected fraction of the population (needed for assessing health care capacity) and mortality (especially in the USA given diverging projections). Model results indicate that if intervention measures still result in Ro > 2.7 within 49 days after first infection, intervention is unlikely to be effective in general for COVID-19. Current optimistic projections place mortality figures in the USA in the range of 100,000 fatalities. For fatalities to be confined to 100,000 requires a reduction in Ro from 4.5 to 2.7 within 17 days of first infection assuming a mortality rate of 3.4%.",
+    "author": "Sara Bonetti; Anthony J. Parolari; Gabriel G. Katul; Gabriele Manoli; Assaad Mrad",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20060954",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20060954"
+    },
+    "title": "Global convergence of COVID-19 basic reproduction number and estimation from early-time SIR dynamics",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding received"
+        }
+    ]
+}

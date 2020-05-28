@@ -1,0 +1,52 @@
+{
+    "abstract": "The outbreak of pneumonia caused by the 2019 Novel Coronavirus (2019-nCoV) was reported in Wuhan City, China. However, the clinical symptoms varied in different reports. Based on the results of inter-group difference test, we found that the incidence of diarrhea differed in three recent reports. As 2019-nCoV utilizes the same cell entry receptor ACE2 as severe acute respiratory syndrome coronavirus (SARS-CoV) and ACE2 tightly controls intestinal inflammation, to trace the route of infection mediated by 2019-nCoV, we used the single-cell RNA sequencing data for analysis. We found that the ACE2 mRNA was highly expressed in the healthy human small intestine rather than the lung. Besides, single-cell RNA sequencing data showed that ACE2 was significantly elevated in the proximal and distal enterocytes, where the small intestinal epithelium is exposed to the foreign pathogen. Thus, we suspect that ACE2-expressing small intestinal epithelium cells might be vulnerable to 2019-nCoV infection when people eat infected wild animals and diarrhea may serve as an indicator for infection, suggesting that clinicians should pay more attention to patients with diarrhea during the outbreak of pneumonia.",
+    "affiliations": [
+        "National Natural Science Foundation of China (81870449 and 81670601 to Q.Z., 81902886 to W.L.), Special Fund for Frontier and Key Technology Innovation of Guangdong Province (2015B020226004 to Q.Z.), Key Project Fund of Guangdong Natural Science Foundation (2017A030311034 to Q.Z.), Guangdong Province Universities and Colleges Pearl River Scholar Funded Scheme (Year 2017 to Q.Z.), National Key Point Research and Invention Program of the Thirteenth (2018ZX10723203 to Q.Z.)"
+    ],
+    "author": "Zhijie Feng; Wei Qi; Cuicui Xiao; Shitao Rao; Weicheng Liang; Zexiao Lin; Qi Zhang",
+    "date": 2020,
+    "doi": "10.1101/2020.02.03.20020289",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.03.20020289"
+    },
+    "title": "Diarrhea may be underestimated: a missing link in 2019 novel coronavirus",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81870449",
+                        "81670601 to Q.Z.",
+                        "81902886 to W.L."
+                    ]
+                },
+                {
+                    "funding-source": "Special Fund for Frontier and Key Technology Innovation of Guangdong Province",
+                    "award-id": [
+                        "2015B020226004 to Q.Z."
+                    ]
+                },
+                {
+                    "funding-source": "Key Project Fund of Guangdong Natural Science Foundation",
+                    "award-id": [
+                        "2017A030311034 to Q.Z."
+                    ]
+                },
+                {
+                    "funding-source": "Guangdong Province Universities and Colleges Pearl River Scholar Funded Scheme",
+                    "award-id": [
+                        "Year 2017 to Q.Z."
+                    ]
+                },
+                {
+                    "funding-source": "National Key Point Research and Invention Program of the Thirteenth",
+                    "award-id": [
+                        "2018ZX10723203 to Q.Z."
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants from the National Natural Science Foundation of China (81870449 and 81670601 to Q.Z., 81902886 to W.L.), Special Fund for Frontier and Key Technology Innovation of Guangdong Province (2015B020226004 to Q.Z.), Key Project Fund of Guangdong Natural Science Foundation (2017A030311034 to Q.Z.), Guangdong Province Universities and Colleges Pearl River Scholar Funded Scheme (Year 2017 to Q.Z.), National Key Point Research and Invention Program of the Thirteenth (2018ZX10723203 to Q.Z.)"
+        }
+    ]
+}

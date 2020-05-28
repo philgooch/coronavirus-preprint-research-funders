@@ -1,0 +1,49 @@
+{
+    "title": "Potent neutralization of SARS-CoV-2 in vitro and in an animal model by a human monoclonal antibody",
+    "author": "Tina Ju",
+    "date": 2020,
+    "affiliations": [
+        "Center for Antibody Therapeutics, Division of Infectious Diseases, Department of Medicine, University of Pittsburgh Medical School, 3550 Terrace Str, Pittsburgh, PA 15261, USA",
+        "Department of Microbiology & Immunology, Centers for Biodefense and Emerging Diseases, Galveston National Laboratory, 301 University Blvd, Galveston, Texas 77550, USA",
+        "University of North Carolina at Chapel Hill, 135 Dauer Drive, 3109 Michael Hooker Research Center Chapel Hill, NC 27599, USA",
+        "Abound Bio, 1401 Forbes Ave, Pittsburgh, PA 15219, USA",
+        "ScD Center for Antibody Therapeutics Division of Infectious Diseases Department of Medicine University of Pittsburgh Medical School S843 Scaife Hall 3550 Terrace Street Pittsburgh, PA 15261, USA Tel: 412-383-4702 Fax: 412-383-7982"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.13.093088",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.13.093088.pdf"
+    },
+    "abstract": "#Equal Contribution *Corresponding Author: Dimiter S. Dimitrov, PhD, ScD Center for Antibody Therapeutics Division of Infectious Diseases Department of Medicine University of Pittsburgh Medical School S843 Scaife Hall 3550 Terrace Street Pittsburgh, PA 15261, USA Tel: 412-383-4702 Fax: 412-383-7982 E-mail: mit666666@pitt.edu",
+    "keywords": [
+        "SARS-CoV-2",
+        "therapeutic antibodies",
+        "animal models"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Pittsburgh Medical Center"
+                }
+            ],
+            "funding-statement": "This work was supported by the University of Pittsburgh Medical Center"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH NIAID",
+                    "award-id": [
+                        "AI007151"
+                    ]
+                },
+                {
+                    "funding-source": "Burroughs Wellcome Fund Postdoctoral Enrichment"
+                }
+            ],
+            "funding-statement": "Martinez is funded by an NIH NIAID T32 AI007151 and a Burroughs Wellcome Fund Postdoctoral Enrichment"
+        }
+    ]
+}

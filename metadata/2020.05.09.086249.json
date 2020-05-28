@@ -1,0 +1,35 @@
+{
+    "title": "The role of high cholesterol in age-related COVID19 lethality",
+    "date": 2020,
+    "author": "1Department of Molecular Medicine, 2Department of Neuroscience, 3Skaggs Graduate School of Chemical and Biological Sciences, The Scripps Research Institute, Jupiter, Florida 33458, USA",
+    "affiliations": [
+        "Department of Molecular Medicine",
+        "Department of Neuroscience",
+        "Skaggs Graduate School of Chemical and Biological Sciences, The Scripps Research Institute, Jupiter, Florida 33458, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.09.086249",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.09.086249.pdf"
+    },
+    "abstract": "Coronavirus disease 2019 (COVID19) is a respiratory infection caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) originating in Wuhan China in 2019. The disease in notably severe in elderly and those with underlying chronic conditions. The molecular mechanism as to why the elderly are vulnerable and why children are resistant is largely unknown. Understanding these differences is critical for safeguarding the vulnerable and guiding effective policy and treatments. Here we show loading cells with cholesterol from blood serum using the cholesterol transport protein apolipoprotein E (apoE) enhances the endocytic entry of pseudotyped SARS-CoV-2. Super resolution imaging of the SARS-CoV-2 entry point with high cholesterol showed markedly increased apparent diameter (~10% to 100 nm) and almost twice the total number of viral entry points. The cholesterol concomitantly traffics angiotensinogen converting enzyme (ACE2) to the viral entry site where SARS-CoV-2 docks to properly exploit entry into the cell. Furthermore, we show cholesterol enhances binding of SARS-CoV-2 to the cell surface which increases association with the endocytic pathway. Decreasing cellular cholesterol has the opposite effect. Based on these findings and known loading of cholesterol into peripheral tissue during aging and inflammation, we build a cholesterol dependent model for COVID19 lethality in elderly and the chronically ill. As cholesterol increases with age and inflammation (e.g. smoking and diabetes), the cell surface is coated with viral entry points and optimally assembled viral entry proteins. Importantly our model suggests high levels of cholesterol is most alarming in the tissue, not the blood. In fact, rapidly dropping cholesterol in the blood may indicate severe loading of cholesterol in peripheral tissue and a dangerous situation for escalated SARS-CoV-2 infectivity. Polyunsaturated fatty acids (PUFAs) oppose the effects of cholesterol and provide a molecular basis for eating healthy diets to avoid severe cases of COVID19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health"
+                },
+                {
+                    "funding-source": "Director\u2019s New Innovator Award",
+                    "award-id": [
+                        "DP2NS087943",
+                        "R01NS112534"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Institutes of Health via a Director\u2019s New Innovator Award to S.B.H. (DP2NS087943), R01 to S.B.H. (R01NS112534)"
+        }
+    ]
+}

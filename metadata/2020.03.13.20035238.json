@@ -1,0 +1,43 @@
+{
+    "abstract": "This paper examines the role of various socioeconomic factors in mediating the local and cross-city transmissions of the novel coronavirus 2019 (COVID-19) in China. We implement a machine learning approach to select instrumental variables that strongly predict virus transmission among the rich exogenous weather characteristics. Our 2SLS estimates show that the stringent quarantine, massive lockdown and other public health measures imposed in late January significantly reduced the transmission rate of COVID-19. By early February, the virus spread had been contained. While many socioeconomic factors mediate the virus spread, a robust government response since late January played a determinant role in the containment of the virus. We also demonstrate that the actual population flow from the outbreak source poses a higher risk to the destination than other factors such as geographic proximity and similarity in economic conditions. The results have rich implications for ongoing global efforts in containment of COVID-19.",
+    "affiliations": [
+        "US PEPPER Center Scholar Award (P30AG021342) and NIH/NIA grants (R03AG048920; K01AG053408). Shi acknowledges the support from the National Natural Science Foundation of China (Grant No.71803062) and the Ministry of Education of China (Grant No.18YJC790138)"
+    ],
+    "author": "Yun Qiu; Xi Chen; Wei Shi",
+    "date": 2020,
+    "doi": "10.1101/2020.03.13.20035238",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.13.20035238"
+    },
+    "title": "Impacts of social and economic factors on the transmission of coronavirus disease (COVID-19) in China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Qiu and Shi",
+                    "award-id": [
+                        "B18026"
+                    ]
+                }
+            ],
+            "funding-statement": "Qiu and Shi acknowledge the support from the 111 Project (Grant No.B18026)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "71803062"
+                    ]
+                },
+                {
+                    "funding-source": "Ministry of Education of China",
+                    "award-id": [
+                        "18YJC790138"
+                    ]
+                }
+            ],
+            "funding-statement": "Shi acknowledges the support from the National Natural Science Foundation of China (Grant No.71803062) and the Ministry of Education of China (Grant No.18YJC790138)"
+        }
+    ]
+}

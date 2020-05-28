@@ -1,0 +1,16 @@
+{
+    "abstract": "Since the beginning of 2020, COVID-19 is the most urgent and challenging task for the international scientific community, in order to identify its behaviour, track its progress and plan effective mitigation policies. In this study, Greece is the main focus for assessing the national outbreak and estimating the general trends and outlook of it. Multiple data analytics procedures, spectral decomposition and curve-fitting formulations are developed based on the data available at hand. Standard SIEQRDP epidemic modelling is applied for Greece and for the general region around it, providing hints for the outbreak progression in the mid- and long-term, for various infections under-reporting rates. The overall short-term outlook for Greece seems to be towards positive, with a downward trend in infections rate daily increase (i.e., now beyond the exponential growth rate), a possible peak within a few days beyond April 14th, as well as the high availability level of ICU w.r.t. expected demand at peak. On the negative side, the fade-out period seems to be in the order of several months, with high probability of recurrent surges of the outbreak. The mitigation policies for the `next day' should be focused on close tracking of the epidemic via large-scale tests, strict border checking in international travelling and an adaptive plan for selective activation of mitigation measures when deemed necessary.",
+    "author": "Harris V Georgiou",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20066712",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20066712"
+    },
+    "title": "COVID-19 outbreak in Greece has passed its rising inflection point and stepping into its peak",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "abstract": "Background: The COVID-19 disease, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is a rapidly emerging pandemic which has enforced extreme containment measures worldwide. In the absence of a vaccine or efficient treatment, cost-effective epidemiological surveillance strategies are urgently needed. Methods: Here, we have used RT-qPCR for SARS-CoV-2 detection in a series of longitudinal metropolitan wastewaters samples collected during the earliest stages of the epidemic in the Region of Valencia, Spain. Results: We were able to consistently detect SARS-CoV-2 RNA in samples taken when communicated cases in that region were only incipient. We also find that the wastewater viral RNA context increased rapidly and anticipated the subsequent ascent in the number of declared cases. Interpretation: Our results strongly suggest that the virus was undergoing community transmission earlier than previously believed, and show that wastewater analysis is a sensitive and cost-effective strategy for COVID-19 epidemiological surveillance. Routine implementation of this surveillance tool would significantly improve our preparedness against new or re-occurring viral outbreaks.\nCompeting Interest Statement",
+    "affiliations": [
+        "Innovation and Universities to G.S. and ERC Consolidator Grant 724519-Vis-\u00e0-Vis to R.S. W.R. was supported by APOSTD/2018/150 postdoctoral fellowship, and E.C-F. was supported by a predoctoral contract from the MICINN, Call 2018"
+    ],
+    "author": "Pilar Domingo-Calap; Gloria Sanchez; Walter Randazzo; Enric Cuevas-Ferrando; Rafael Sanjuan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076679",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076679"
+    },
+    "title": "Metropolitan Wastewater Analysis for COVID-19 Epidemiological Surveillance",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Spanish Ministry of Science, Innovation"
+                },
+                {
+                    "funding-source": "ERC Consolidator Grant",
+                    "award-id": [
+                        "724519"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was funded by CSIC 202070E101 grant and AGL2017-82909 (AEI/FEDER, UE) funded by Spanish Ministry of Science, Innovation and Universities to G.S. and ERC Consolidator Grant 724519-Vis-\u00e0-Vis to R.S"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "APOSTD/2018/150"
+                    ]
+                }
+            ],
+            "funding-statement": "W.R. was supported by APOSTD/2018/150 postdoctoral fellowship, and E.C-F. was supported by a predoctoral contract from the MICINN, Call 2018"
+        }
+    ]
+}

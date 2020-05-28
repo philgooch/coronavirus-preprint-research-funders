@@ -1,0 +1,36 @@
+{
+    "abstract": "Background: The average length of stay (LOS) in the intensive care unit (ICU_ALOS) is a helpful parameter summarizing critical bed occupancy. During the outbreak of a novel virus, estimating early a reliable ICU_ALOS estimate of infected patients is critical to accurately parameterize models examining mitigation and preparedness scenarios. Methods: Two estimation methods of ICU ALOS were compared: the average LOS of already discharged patients at the date of estimation (DPE), and a standard parametric method used for analyzing time-to-event data which fits a given distribution to observed data and includes the censored stays of patients still treated in the ICU at the date of estimation (CPE). Methods were compared on a series of all COVID-19 consecutive cases (n=59) admitted in an ICU devoted to such patients. At the last follow-up date, 99 days after the first admission, all patients but one had been discharged. A simulation study investigated the generalizability of the methods' patterns. CPE and DPE estimates were also compared to COVID-19 estimates reported to date. Findings: LOS \u2265 30 days concerned 14 out of the 59 patients (24%), including 8 of the 21 deaths observed. Two months after the first admission, 38 (64%) patients had been discharged, with corresponding DPE and CPE estimates of ICU_ALOS (95%CI) at 13.0 days (10.4, 15.6) and 23.1 days (18.1, 29.7), respectively. Series' true ICU_ALOS was greater than 21 days, well above reported estimates to date. Interpretation: Discharges of short stays are more likely observed earlier during the course of an outbreak. Cautious unbiased ICU_ALOS estimates suggest parameterizing a higher burden of ICU bed occupancy than that adopted to date in COVID-19 forecasting models. Funding: Support by the National Natural Science Foundation of China (81900097 to Dr. Zhou) and the Emergency Response Project of Hubei Science and Technology Department (2020FCA023 to Pr. Zhao).\nCompeting Interest Statement",
+    "affiliations": [
+        "Support by the National Natural Science Foundation of China (81900097 to Dr. Zhou) and the Emergency Response Project of Hubei Science and Technology Department (2020FCA023 to Pr. Zhao)",
+        "Support by the National Natural Science Foundation of China (81900097 to Dr. Zhou) and the Emergency Response Project of Hubei Science and Technology Department (2020FCA023 to Pr. Zhao)"
+    ],
+    "author": "Bruno Riou; Fabrice Carrat; Yan Zhao; Xianlong Zhou; Nathanael Lapidus; Gilles Hejblum",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20073916",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20073916"
+    },
+    "title": "Biased and unbiased estimation of the average lengths of stay in intensive care units in the COVID-19 pandemic",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81900097"
+                    ]
+                },
+                {
+                    "funding-source": "Dr Zhou)"
+                },
+                {
+                    "funding-source": "Emergency Response Project of Hubei Science and Technology Department",
+                    "award-id": [
+                        "2020FCA023"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding: Support by the National Natural Science Foundation of China (81900097 to Dr Zhou) and the Emergency Response Project of Hubei Science and Technology Department (2020FCA023 to Pr"
+        }
+    ]
+}

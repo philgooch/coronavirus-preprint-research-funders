@@ -1,0 +1,42 @@
+{
+    "title": "Positive selection of ORF3a and ORF8 genes drives the evolution of 2 SARS-CoV-2 during the 2020 COVID-19 pandemic",
+    "author": "Lauro Velazquez-Salinas 1, Selene Zarate 3, Samantha Eberl 4, Douglas P 1. Gladue, 4 Isabel Novella 5 and Manuel V. Borca 1",
+    "date": 2020,
+    "affiliations": [
+        "Island Animal Disease Center, PO",
+        "Box 848, Greenport NY 11944, USA",
+        "College of Veterinary Medicine, Kansas State University, Manhattan, KS 66506, USA"
+    ],
+    "journal": "The International Committee on Taxonomy of Viruses",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.10.035964",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.10.035964.pdf"
+    },
+    "abstract": "In this study, we analyzed full-length SARS-CoV-2 genomes from multiple countries to determine early trends in the evolutionary dynamics of the novel COVID-19 pandemic. Results indicated SARS-CoV-2 evolved early into at least three phylogenetic groups, characterized by positive selection at specific residues of the accessory proteins OFR3a and ORF8a. We also report evidence of epistatic interactions among sites in the genome that may be important in the generation of variants adapted to humans. These observations might impact not only public health, but also suggest more studies are needed to understand the genetic mechanisms that may affect the development of therapeutic and preventive tools, like antivirals and vaccines.",
+    "keywords": [
+        "Novel coronavirus",
+        "pandemic",
+        "evolution",
+        "epistasis",
+        "positive selection",
+        "COVID-19",
+        "26 SARS-CoV2",
+        "phylogenetics"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "USDA Research Service CRIS Project No",
+                    "award-id": [
+                        "8064-32000-06000D"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was performed under USDA Research Service CRIS Project No 8064-32000-06000D."
+        }
+    ]
+}

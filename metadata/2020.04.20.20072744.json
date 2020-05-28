@@ -1,0 +1,16 @@
+{
+    "abstract": "The COVID-19 is a rapidly spreading respiratory illness caused with the infection of SARS-CoV-2. The COVID-19 data from India was compared with China and rest of the world. The average values of daily growth rate (DGR), case recovery rate (CRR), case fatality rate (CFR), serial interval (SI) of COVID-19 in India was 17%, 8.25%, and 1.87%, and 5.76 days respectively, as of April 9, 2020. The data driven estimates of basic reproduction number (R0), average reproduction number (R) and effective reproduction number (Re) were 1.03, 1.73, and 1.35, respectively. The results of exponential and SIR model showed higher estimates of R0, R and Re. The data driven as well as estimated COVID-19 cases reflect the growing nature of the epidemic in India and world excluding China, whereas the same in China reveal the involved population became infected with the disease and moved into the recovered stage. The epidemic size of India was estimated to be ~30,284 (as of April 15, 2020 with 12,370 infectious cases) with an estimated end of the epidemic on June 9, 2020. The Re values in India before and after lockdown were 1.62 and 1.37 respectively, with SI 5.52 days and 5.98 days, respectively, as of April 17, 2020, reflecting the effectiveness of lockdown strategies. Beyond April 17, 2020, our estimate of 24,431 COVID-19 infected cases with lockdown is 78% lower compared to the 112,042 case estimates in absence of lockdown, on April 27, 2020. To early end of the COVID-19 epidemic, strong social distancing is important.",
+    "author": "Manisha Mandal; Shyamapada Mandal",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072744",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072744"
+    },
+    "title": "COVID-19 pandemic scenario in India compared to China and rest of the world: a data driven and model analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding source for the study"
+        }
+    ]
+}

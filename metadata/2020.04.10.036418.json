@@ -1,0 +1,25 @@
+{
+    "title": "The SARS-CoV-2 receptor-binding domain elicits a potent neutralizing response without antibody-dependent enhancement",
+    "author": "Michael Farzan",
+    "date": 2020,
+    "affiliations": [
+        "Department of Immunology and Microbiology, The Scripps Research Institute, Jupiter, FL 33458, USA",
+        "Department of Animal and Food Sciences, University of Delaware, Newark, DE 19716, USA",
+        "Department of Microbiology, University of Alabama at Birmingham School Of Medicine, Birmingham, AL 35294, USA",
+        "National Institute of Biological Sciences, Tsinghua Institute of Multidisciplinary Biomedical Research, Tsinghua University, Beijing, China",
+        "Scripps Research | SZBL Chemical Biology Institute, Shenzhen Bay Laboratory (SZBL), Shenzhen, China",
+        "School of Chemical Biology and Biotechnology, Peking University Shenzhen Graduate School, Shenzhen, China",
+        "These authors contributed equally"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.10.036418",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.10.036418.pdf"
+    },
+    "abstract": "The SARS-coronavirus 2 (SARS-CoV-2) spike (S) protein mediates entry of SARS-CoV-2 into cells expressing the angiotensin-converting enzyme 2 (ACE2). The S protein engages ACE2 through its receptor-binding domain (RBD), an independently folded 197-amino acid fragment of the 1273-amino acid S-protein protomer. Antibodies to the RBD domain of SARS-CoV (SARS-CoV-1), a closely related coronavirus which emerged in 2002-2003, have been shown to potently neutralize SARS-CoV-1 S-protein-mediated entry, and the presence of anti-RBD antibodies correlates with neutralization in SARS-CoV-2 convalescent sera. Here we show that immunization with the SARS-CoV-2 RBD elicits a robust neutralizing antibody response in rodents, comparable to 100 \u03bcg/ml of ACE2-Ig, a potent SARS-CoV-2 entry inhibitor. Importantly, anti-sera from immunized animals did not mediate antibodydependent enhancement (ADE) of S-protein-mediated entry under conditions in which Zika virus ADE was readily observed. These data suggest that an RBD-based vaccine for SARSCoV-2 could be safe and effective.",
+    "funding": [
+        {}
+    ]
+}

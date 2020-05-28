@@ -1,0 +1,33 @@
+{
+    "abstract": "Background: Sustained spread of SARS-CoV-2 has happened in major US cities. Capacity needs in Chinese cities could inform the planning of local healthcare resources. Methods: We described the intensive care unit (ICU) and inpatient bed needs for confirmed COVID-19 patients in two Chinese cities (Wuhan and Guangzhou) from January 10 to February 29, 2020, and compared the timing of disease control measures in relation to the timing of SARS-CoV-2 community spread. We estimated the peak ICU bed needs in US cities if a Wuhan-like outbreak occurs. Results: In Wuhan, strict disease control measures were implemented six weeks after sustained local transmission of SARS-CoV-2. Between January 10 and February 29, COVID-19 patients accounted for an average of 637 ICU patients and 3,454 serious inpatients on each day. During the epidemic peak, 19,425 patients (24.5 per 10,000 adults) were hospitalized, 9,689 (12.2 per 10,000 adults) were considered to be in serious condition, and 2,087 patients (2.6 per 10,000 adults) needed critical care per day. In Guangzhou, strict disease control measures were implemented within one week of case importation. Between January 24 and February 29, COVID-19 accounted for an average of 9 ICU patients and 20 inpatients on each day. During the epidemic peak, 15 patients were in critical condition, and 38 were classified as serious. If a Wuhan-like outbreak were to happen in a US city, the need for healthcare resources may be higher in cities with a higher prevalence of vulnerable populations. Conclusion: Even after the lockdown of Wuhan on January 23, the number of seriously ill COVID-19 patients continued to rise, exceeding local hospitalization and ICU capacities for at least a month. Plans are urgently needed to mitigate the effect of COVID-19 outbreaks on the local healthcare system in US cities.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Natural Science Foundation of China",
+        "National Institute Of General Medical Sciences and Centers for Disease Control and Prevention (CK000538-01) coop agreement. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institute Of General Medical Science, the National Institutes of Health or the CDC"
+    ],
+    "author": "Eric Toner; Qi Tan; Ruoran Li; Caitlin Rivers; Megan B Murray; Marc Lipsitch",
+    "date": 2020,
+    "doi": "10.1101/2020.03.09.20033241",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.09.20033241"
+    },
+    "title": "The demand for inpatient and ICU beds for COVID-19 in the US: lessons from Chinese cities",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Award Number",
+                    "award-id": [
+                        "U54GM088558"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute Of General Medical Sciences and Centers for Disease Control and Prevention",
+                    "award-id": [
+                        "CK000538-01"
+                    ]
+                }
+            ],
+            "funding-statement": "ML was supported by Award Number U54GM088558 from the National Institute Of General Medical Sciences and Centers for Disease Control and Prevention (CK000538-01) coop agreement"
+        }
+    ]
+}

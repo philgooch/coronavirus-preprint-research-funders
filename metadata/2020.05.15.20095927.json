@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: Data from the COVID-19 pandemic in the United States show large differences in hospitalizations and mortality across race and geography. However, there is limited data on health information, beliefs, and behaviors that might indicate different exposure to risk. Methods: A sample of 5,198 respondents in the United States (80% population representative, 20% oversample of hotspot areas in New York City, Seattle, New Orleans, and Detroit) was conducted from March 29th to April 13th to measure differences in knowledge, beliefs and behavior regarding COVID-19. Linear regression was used to understand racial, geographic, political, and socioeconomic differences in COVID-19 reported incidence knowledge, and behaviors after adjusting for state-specific and survey date fixed effects. Results: The largest differences in COVID-19 knowledge and behaviors are associated with race/ethnicity, gender, and age. African-Americans, men, and people <55 years old are less likely to know how the disease is spread, less likely to know symptoms of COVID-19, wash their hands less frequently, and leave the home more often. Differences by income, political orientation, and living in a hotspot area are much smaller. Conclusions: There are wide gaps in COVID-19 reported incidence, knowledge regarding disease spread and symptoms, and in social distancing behavior. The findings suggest more effort is needed to increase accurate information and encourage appropriate behaviors among minority communities, men, and younger people.\nCompeting Interest Statement",
+    "affiliations": [
+        "Harvard Kennedy School of Public Policy"
+    ],
+    "author": "David Yang; Stefanie Stantcheva; David Cutler; Marcella Alsan",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20095927",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20095927"
+    },
+    "title": "Disparities in COVID-19 Reported Incidence, Knowledge, and Behavior",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Harvard Kennedy School of Public Policy"
+                }
+            ],
+            "funding-statement": "The project was supported by funding from Harvard Kennedy School of Public Policy"
+        }
+    ]
+}

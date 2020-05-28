@@ -1,0 +1,66 @@
+{
+    "title": "Mucin 4 Protects Female Mice from Coronavirus Pathogenesis",
+    "date": 2020,
+    "affiliations": [
+        "Department of Epidemiology",
+        "Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599",
+        "Oregon Clinical and Translational Research Institute, Oregon Health & Science University, Portland, OR 97239",
+        "Department of Immunology and the Center for Innate Immunity and Disease, University of Washington, Seattle, WA 98109",
+        "Department of Microbiology and Immunology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599",
+        "Deptartment of Microbiology and Immunology, University of Texas Medical Branch, Galveston, TX 77555 *Co-corresponding authors",
+        "Current address: World Reference Center for Emerging Viruses and Arboviruses, University of Texas Medical Branch, Galveston, TX 77555"
+    ],
+    "journal": "Keywords",
+    "volume": "2",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.19.957118",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.19.957118.pdf"
+    },
+    "abstract": "Using incipient lines of the Collaborative Cross (CC), a murine genetic reference population, we previously identified a quantitative trait loci (QTL) associated with low SARS-CoV titer. In this study, we integrated sequence information and RNA expression of genes within the QTL to identify mucin 4 (Muc4) as a high priority candidate for controlling SARS-CoV titer in the lung. To test this hypothesis, we infected Muc4-/- mice and found that female, but not male, Muc4-/mice developed more weight loss and disease following infection with SARS-CoV. Female Muc4-/- mice also had more difficulty breathing despite reduced lung pathology; however, no change in viral titers was observed. Comparing across viral families, studies with chikungunya virus, a mosquito-borne arthralgic virus, suggests that Muc4\u2019s impact on viral pathogenesis may be widespread. Although not confirming the original titer QTL, our data identifies a role for Muc4 in the SARS-CoV disease and viral pathogenesis. Importance Given the recent emergence of SARS-CoV-2, this work suggest that Muc4 expression plays a protective role in female mice not conserved in male mice following SARS-CoV infection. With the SARS-CoV-2 outbreak continuing, treatments that modulate or enhance Muc4 activity may provide an avenue for treatment and improved outcomes. In addition, the work highlights the importance of studying host factors including host genetics and biological sex as key parameters influencing infection and disease outcomes.",
+    "keywords": [
+        "coronavirus",
+        "SARS-CoV",
+        "zoonotic",
+        "SARS-CoV-2",
+        "emergence",
+        "2019-nCoV"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH NIAID",
+                    "award-id": [
+                        "U19 AI 100625",
+                        "U19 AI 109761",
+                        "U54 AI 081680",
+                        "126730"
+                    ]
+                },
+                {
+                    "funding-source": "NIH NIAID",
+                    "award-id": [
+                        "T32 AI 7419-22"
+                    ]
+                },
+                {
+                    "funding-source": "NIH NIA KSP",
+                    "award-id": [
+                        "007151-36A1"
+                    ]
+                },
+                {
+                    "funding-source": "NIH NIAID",
+                    "award-id": [
+                        "007151-36A1",
+                        "K99 AG 049092"
+                    ]
+                }
+            ],
+            "funding-statement": "JAP, LEG, MTF, MTH and RSB were funded by NIH NIAID (U19 AI 100625, U19 AI 109761, and U54 AI 081680). 126730). AB was funded by NIH NIAID (T32 AI 7419-22). VDM was funded by the NIH NIA KSP was funded by NIH NIAID (T32 AI 007151-36A1 and F32 AI (K99 AG 049092). The funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication. Author Contributions"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "abstract": "Background: Data for frontline healthcare workers (HCWs) and risk of SARS-CoV-2 infection are limited and whether personal protective equipment (PPE) mitigates this risk is unknown. We evaluated risk for COVID-19 among frontline HCWs compared to the general community and the influence of PPE. Methods: We performed a prospective cohort study of the general community, including frontline HCWs, who reported information through the COVID Symptom Study smartphone application beginning on March 24 (United Kingdom, U.K.) and March 29 (United States, U.S.) through April 23, 2020. We used Cox proportional hazards modeling to estimate multivariate-adjusted hazard ratios (aHRs) of a positive COVID-19 test. Findings: Among 2,035,395 community individuals and 99,795 frontline HCWs, we documented 5,545 incident reports of a positive COVID-19 test over 34,435,272 person-days. Compared with the general community, frontline HCWs had an aHR of 11.6 (95% CI: 10.9 to 12.3) for reporting a positive test. The corresponding aHR was 3.40 (95% CI: 3.37 to 3.43) using an inverse probability weighted Cox model adjusting for the likelihood of receiving a test. A symptom-based classifier of predicted COVID-19 yielded similar risk estimates. Compared with HCWs reporting adequate PPE, the aHRs for reporting a positive test were 1.46 (95% CI: 1.21 to 1.76) for those reporting PPE reuse and 1.31 (95% CI: 1.10 to 1.56) for reporting inadequate PPE. Compared with HCWs reporting adequate PPE who did not care for COVID-19 patients, HCWs caring for patients with documented COVID-19 had aHRs for a positive test of 4.83 (95% CI: 3.99 to 5.85) if they had adequate PPE, 5.06 (95% CI: 3.90 to 6.57) for reused PPE, and 5.91 (95% CI: 4.53 to 7.71) for inadequate PPE. Interpretation: Frontline HCWs had a significantly increased risk of COVID-19 infection, highest among HCWs who reused PPE or had inadequate access to PPE. However, adequate supplies of PPE did not completely mitigate high-risk exposures.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Institute of Diabetes and Digestive and Kidney Diseases K01DK120742. ATC is the Stuart and Suzanne Steele MGH Research Scholar and Stand Up to Cancer scientist. The National Institutes of Health grants related to this project include: UM1 CA186107 (AHE, MJS), U01 CA176726 (AHE, WCW), U01 CA167552 (WCW, LAM), U01 HL145386 (JEC), R24 ES028521 (JEC), P30ES000002 (JEH), and"
+    ],
+    "author": "Mingyang Song; Jonathan Wolf; Long H. Nguyen; Janet Rich-Edwards; Chuan-Guo Guo; David Alden Drew; Mary Ni Lochlainn; Mark Graham; Thomas Varsavsky; Joan Capdevila; Jaime Hart; Raaj S. Mehta; Amit D. Joshi; Claire Steves; Walter C. Willett; Sohee Kwon; Andrew T. Chan; Jorge E. Chavarro; Meir Stampfer; Daniel R. Sikavi; Karla A. Lee; Carol H. Sudre; Lorelei A. Mucci; A. Heather Eliassen; Chun-Han Lo; Wenjie Ma; Timothy Spector; Richard Davies; M. Jorge Cardoso; Sebastien Ourselin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20084111",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20084111"
+    },
+    "title": "Risk of COVID-19 among frontline healthcare workers and the general community: a prospective cohort study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "American Gastroenterological Association Research Scholars Award"
+                }
+            ],
+            "funding-statement": "LHN is supported by the American Gastroenterological Association Research Scholars Award"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "award-id": [
+                        "K01DK120742"
+                    ]
+                }
+            ],
+            "funding-statement": "DAD is supported by the National Institute of Diabetes and Digestive and Kidney Diseases K01DK120742"
+        }
+    ]
+}

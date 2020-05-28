@@ -1,0 +1,59 @@
+{
+    "abstract": "The purpose of this work is to make a case for epidemiological models with fractional exponent in the contribution of sub-populations to the transmission rate. More specifically, we question the standard assumption in the literature on epidemiological models, where the transmission rate dictating propagation of infections is taken to be proportional to the product between the infected and susceptible sub-populations; a model that relies on strong mixing between the two groups and widespread contact between members of the groups. We content, that contact between infected and susceptible individuals, especially during the early phases of an epidemic, takes place over a (possibly diffused) boundary between the respective sub-populations. As a result, the rate of transmission depends on the product of fractional powers instead. The intuition relies on the fact that infection grows in geographically concentrated cells, in contrast to the standard product model that relies on complete mixing of the susceptible to infected sub-populations. We validate the hypothesis of fractional exponents i) by numerical simulation for disease propagation in graphs imposing a local structure to allowed disease transmissions and ii) by fitting the model to a COVID-19 data set provided by John Hopkins University (JHUCSSE) for the period Jan-31-20 to Mar-24-20, for the countries of Italy, Germany, Iran, and France.",
+    "affiliations": [
+        "John Hopkins University (JHUCSSE) for the period Jan-31-20 to Mar-24-20, for the countries of Italy, Germany, Iran, and France",
+        "National Institute of Aging Grant R01-AG048769, MSK Cancer Center Support Grant/Core Grant (P30 CA008748), and a grant from Breast Cancer Research Foundation BCRF-17-193"
+    ],
+    "author": "Amirhossein Taghvaei; Larry Norton; Tryphon T. Georgiou; Allen R Tannenbaum",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083865",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083865"
+    },
+    "title": "Fractional SIR Epidemiological Models",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "AFOSR Grants",
+                    "award-id": [
+                        "FA9550-20-1-0029",
+                        "FA9550-17-1-0435"
+                    ]
+                },
+                {
+                    "funding-source": "NSF Grants",
+                    "award-id": [
+                        "1807664",
+                        "1839441"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of Aging Grant",
+                    "award-id": [
+                        "R01-AG048769"
+                    ]
+                },
+                {
+                    "funding-source": "MSK Cancer Center Support",
+                    "award-id": [
+                        "P30 CA008748"
+                    ]
+                },
+                {
+                    "funding-source": "Core Grant",
+                    "award-id": [
+                        "P30 CA008748"
+                    ]
+                },
+                {
+                    "funding-source": "Breast Cancer Research Foundation",
+                    "award-id": [
+                        "BCRF-17-193"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported by AFOSR Grants FA9550-20-1-0029, FA9550-17-1-0435, NSF Grants 1807664, 1839441, National Institute of Aging Grant R01-AG048769, MSK Cancer Center Support Grant/Core Grant (P30 CA008748), and a grant from Breast Cancer Research Foundation BCRF-17-193"
+        }
+    ]
+}

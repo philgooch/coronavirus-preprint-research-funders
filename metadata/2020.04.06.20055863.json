@@ -1,0 +1,30 @@
+{
+    "abstract": "On March 11, 2020, the World Health Organization declared the coronavirus disease 2019, COVID-19, a global pandemic. In an unprecedented collective effort, massive amounts of data are now being collected worldwide to estimate the immediate and long-term impact of this pandemic on the health system and the global economy. However, the precise timeline of the disease, its transmissibility, and the effect of mitigation strategies remain incompletely understood. Here we integrate a global network model with a local epidemic SEIR model to quantify the outbreak dynamics of COVID-19 in China and the United States. For the outbreak in China, in n=30 provinces, we found a latent period of 2.56+/-0.72 days, a contact period of 1.47+/-0.32 days, and an infectious period of 17.82+/-2.95 days. We assume that the latent and infectious periods are disease-specific and the contact period is behavior-specific and can vary between different communities, states, or countries. For the early stages of the outbreak in the United States, in n=50 states, we adopted the latent and infectious periods from China, and found a contact period of 3.38+/-0.69 days. Our network model predicts that - without the massive political mitigation strategies that are in place today - the United states would have faced a basic reproduction number of 5.3+/-0.95 and a nationwide peak of the outbreak on May 10, 2020 with 3 million infections. Our results demonstrate how mathematical modeling can help estimate outbreak dynamics and provide decision guidelines for successful outbreak control. We anticipate that our model will become a valuable tool to estimate the potential of vaccination and quantify the effect of relaxing political measures including total lock down, shelter in place, and travel restrictions for low-risk subgroups of the population or for the population as a whole.",
+    "author": "Mathias Peirlinck; Ellen Kuhl; Francisco Sahli Costabal; Kevin Linka",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20055863",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055863"
+    },
+    "title": "Outbreak dynamics of COVID-19 in China and the United States",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Author Declarations All"
+                },
+                {
+                    "funding-source": "Yes All",
+                    "award-id": [
+                        "note: if posting a prospective study registered retrospectively",
+                        "please provide a statement in the trial ID field explaining why the study was not registered in advance"
+                    ]
+                },
+                {
+                    "funding-source": "EQUATOR Network"
+                }
+            ],
+            "funding-statement": "Statement n/a Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript.  Yes All necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived. I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance). I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable."
+        }
+    ]
+}

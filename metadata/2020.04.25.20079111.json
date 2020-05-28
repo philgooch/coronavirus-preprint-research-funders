@@ -1,0 +1,16 @@
+{
+    "abstract": "This paper attempts to describe the outbreak of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) or named as novel coronavirus (COVID-19) via an epidemic model. This dangerous virus has dissimilar effects in different countries in the world. It is observable that the number of new active coronavirus cases is increasing day by day across the globe. India is now in the second stage of COVID-19 spreading, and as a densely populated country, it will be an epidemic very quickly if proper protection / strategies are not under-taken based on the database of the transmission of the disease. This paper is using the current data of COVID-19 for the mathematical modeling and its dynamical analysis. As an alternative of the standard SEIR model, we bring in a new representation to appraise and manage the outbreak of infectious disease COVID-19 through SEQIR pandemic model, which is based on the supposition that the infected but undetected by testing individuals are send to quarantine during the incubation period. During the incubation period if any individual be infected by COVID-19, then that confirmed infected individuals are isolated and the necessary treatments are arranged in proper way so that they cannot taint the other residents in the community. Dynamics of the SEQIR model is presented by basic reproduction number R\u2080 and the comprehensive stability analysis. Numerical results are depicted through apt graphical appearances using the data of five states and India.",
+    "author": "D Ghosh; P K Santra; G S Mahapatra; D Pal",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20079111",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20079111"
+    },
+    "title": "Mathematical Analysis of a COVID-19 Epidemic Model by using Data Driven Epidemiological Parameters of Diseases Spread in India",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding is available"
+        }
+    ]
+}

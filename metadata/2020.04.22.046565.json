@@ -1,0 +1,86 @@
+{
+    "title": "Functional and Genetic Analysis of Viral Receptor ACE2 Orthologs Reveals a Broad Potential Host Range of SARS-CoV-2",
+    "author": "Yinghui Liu, Gaowei Hu, Yuyan Wang, Xiaomin Zhao, Fansen Ji, Wenlin Ren, Mingli Gong, Xiaohui Ju, Changhe Li, Junxian Hong, Yuanfei Zhu, Xia Cai, Jianping Wu, Xun Lan, Youhua Xie, Xinquan Wang, Zhenghong Yuan, Rong Zhang, Qiang Ding",
+    "date": 2020,
+    "affiliations": [
+        "Center for Infectious Disease Research, School of Medicine, Tsinghua University, Beijing 100084, China",
+        "Key Laboratory of Medical Molecular Virology (MOE/NHC/CAMS), School of Basic Medical Sciences, Shanghai Medical College, Biosafety Level",
+        "Laboratory, Fudan University, Shanghai 200032, China",
+        "Key Laboratory of Structural Biology of Zhejiang Province, School of Life Sciences, Westlake University",
+        "Shilongshan Road, Hangzhou 310024, Zhejiang Province, China",
+        "Institute of Biology, Westlake Institute for Advanced Study",
+        "Shilongshan Road, Hangzhou 310024, Zhejiang Province, China",
+        "School of Life Sciences, Tsinghua University, Beijing 100084, China",
+        "Beijing Advanced Innovation Center for Structural Biology, Tsinghua University, Beijing 100084, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.22.046565",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.22.046565.pdf"
+    },
+    "abstract": "The pandemic of Coronavirus Disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is a major global health threat. Epidemiological studies suggest that bats are the natural zoonotic reservoir for SARS-CoV-2. However, the host range of SARS-CoV-2 and intermediate hosts that facilitate its transmission to humans remain unknown. The interaction of coronavirus with its host receptor is a key genetic determinant of host range and cross-species transmission. SARS-CoV-2 uses angiotensin-converting enzyme 2 (ACE2) as the receptor to enter host cells in a species-dependent manner. It has been shown that human, palm civet, pig and bat ACE2 can support virus entry, while the murine ortholog cannot. In this study, we characterized the ability of ACE2 from diverse species to support viral entry. We found that ACE2 is expressed in a wide range of species, with especially high conservation in mammals. By analyzing amino acid residues of ACE2 critical for virus entry, based on structure of SARS-CoV spike protein interaction with human, bat, palm civet, pig and ferret ACE2, we identified approximately eighty ACE2 proteins from mammals that could potentially mediate SARS-CoV-2 entry. Functional assays showed that 44 of these mammalian ACE2 orthologs, including those of domestic animals, pets, livestock, and animals commonly found in zoos and aquaria, could bind SARS-CoV-2 spike protein and support viral entry. In contrast, New World monkey ACE2 orthologs could not bind SARS-CoV-2 spike protein and support viral entry. We further identified the genetic determinant of New World monkey ACE2 that restricts viral entry using genetic and functional analyses. In summary, our study demonstrates that ACE2 from a remarkably broad range of species can facilitate SARS-CoV-2 entry. These findings highlight a potentially broad host tropism of SARS-CoV-2 and suggest that SARS-CoV-2 might be distributed much more widely than previously recognized, underscoring the necessity to monitor susceptible hosts to prevent future outbreaks.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "ACE2",
+        "host range",
+        "intermediate host"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Yingjie Zhang and Ruiqi Chen",
+                    "award-id": [
+                        "Tsinghua University"
+                    ]
+                },
+                {
+                    "funding-source": "Tsinghua University)"
+                },
+                {
+                    "funding-source": "Tsinghua-Peking University Center of Life Sciences",
+                    "award-id": [
+                        "045-61020100120"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "32041005"
+                    ]
+                },
+                {
+                    "funding-source": "Tsinghua University Initiative Scientific Research Program",
+                    "award-id": [
+                        "2019Z06QCX10"
+                    ]
+                },
+                {
+                    "funding-source": "Beijing Advanced Innovation Center for Structure Biology",
+                    "award-id": [
+                        "100300001"
+                    ]
+                },
+                {
+                    "funding-source": "Start-up Foundation of Tsinghua University",
+                    "award-id": [
+                        "53332101319"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Municipal Science and Technology Major Project",
+                    "award-id": [
+                        "20431900400"
+                    ]
+                },
+                {
+                    "funding-source": "Project of Novel Coronavirus Research of Fudan University"
+                }
+            ],
+            "funding-statement": "We are grateful to Yingjie Zhang and Ruiqi Chen (Tsinghua University) for validating gene sequences. This work was supported by Tsinghua-Peking University Center of Life Sciences (045-61020100120), National Natural Science Foundation of China (32041005), Tsinghua University Initiative Scientific Research Program (2019Z06QCX10), Beijing Advanced Innovation Center for Structure Biology (100300001), Start-up Foundation of Tsinghua University (53332101319), Shanghai Municipal Science and Technology Major Project (20431900400) and Project of Novel Coronavirus Research of Fudan University"
+        }
+    ]
+}

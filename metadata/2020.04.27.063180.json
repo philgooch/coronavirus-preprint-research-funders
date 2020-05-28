@@ -1,0 +1,52 @@
+{
+    "title": "Structure of replicating SARS-CoV-2 polymerase",
+    "date": 2020,
+    "author": "Hauke S. Hillen, Goran Kokic, Lucas Farnung, Christian Dienemann, Dimitry Tegunov,* & Patrick Cramer",
+    "affiliations": [
+        "Max Planck Institute for Biophysical Chemistry, Department of Molecular Biology, Am Fassberg 11, 37077 G\u00f6ttingen, Germany",
+        "These authors contributed equally. Correspondence:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.27.063180",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.27.063180.pdf"
+    },
+    "abstract": "The coronavirus SARS-CoV-2 uses an RNA-dependent RNA polymerase (RdRp) for the replication of its genome and the transcription of its genes. Here we present the cryo-electron microscopic structure of the SARS-CoV-2 RdRp in its replicating form. The structure comprises the viral proteins nsp12, nsp8, and nsp7, and over two turns of RNA template-product duplex. The active site cleft of nsp12 binds the first turn of RNA and mediates RdRp activity with conserved residues. Two copies of nsp8 bind to opposite sides of the cleft and position the RNA duplex as it exits. Long helical extensions in nsp8 protrude along exiting RNA, forming positively charged \u2018sliding poles\u2019 that may enable processive replication of the long coronavirus genome. Our results will allow for a detailed analysis of the inhibitory mechanisms used by antivirals such as remdesivir, which is currently in clinical trials for the treatment of coronavirus disease 2019 (COVID-19).",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Deutsche Forschungsgemeinschaft",
+                    "award-id": [
+                        "FOR2848"
+                    ]
+                }
+            ],
+            "funding-statement": "H.S.H. was supported by the Deutsche Forschungsgemeinschaft (FOR2848)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Deutsche Forschungsgemeinschaft",
+                    "award-id": [
+                        "EXC 2067/1 39072994",
+                        "SFB860",
+                        "SPP2191"
+                    ]
+                },
+                {
+                    "funding-source": "ERC Advanced Investigator Grant TRANSREGULON",
+                    "award-id": [
+                        "693023"
+                    ]
+                },
+                {
+                    "funding-source": "Volkswagen Foundation"
+                }
+            ],
+            "funding-statement": "P.C. was supported by the Deutsche Forschungsgemeinschaft (EXC 2067/1 39072994, SFB860, SPP2191), the ERC Advanced Investigator Grant TRANSREGULON (grant agreement No 693023) and the Volkswagen Foundation"
+        }
+    ]
+}

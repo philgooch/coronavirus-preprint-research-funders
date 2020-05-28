@@ -1,0 +1,23 @@
+{
+    "abstract": "World Health Organization (WHO) declared COVID-19 as a pandemic disease on March 11, 2020. Comparison of genome sequences from diverse locations allows us to identify the genetic diversity among viruses which would help in ascertaining viral virulence, disease pathogenicity, origin and spread of the SARS-CoV-2 between countries. The aim of this study is to ascertain the genetic diversity among Indian SARS-CoV-2 isolates. Initial examination of the phylogenetic data of SARS-CoV-2 genomes (n=3123) from different continents deposited at GISAID (Global Initiative on Sharing All Influenza Data) revealed multiple origin for Indian isolates. An in-depth analysis of 449 viral genomes derived from samples representing countries from USA, Europe, China, East Asia, South Asia, Oceania, Middle East regions and India revealed that most Indian samples are divided into two clusters (A and B) with cluster A showing more similarity to samples from Oceania and Kuwait and the cluster B grouping with countries from Europe, Middle East and South Asia. Diversity analysis of viral clades, which are characterized by specific non-synonymous mutations in viral proteins, discovered that the cluster A Indian samples belong to I clade (V378I in ORF1ab), which is an Oceania clade with samples having Iran connections and the cluster B Indian samples belong to G clade (D614G in Spike protein), which is an European clade. Thus our study identifies that the Indian SARS-CoV-2 viruses belong to I and G clades with potential origin to be countries mainly from Oceania, Europe, Middle East and South Asia regions, which strongly implying the spread of virus through most travelled countries. The study also emphasizes the importance of pathogen genomics through phylogenetic analysis to discover viral genetic diversity and understand the viral transmission dynamics with eventual grasp on viral virulence and disease pathogenesis.",
+    "affiliations": [
+        "Centre for Advanced Studies in Molecular Microbiology) to MCB is acknowledged. KS is a J. C. Bose Fellow of the Department of Science and Technology"
+    ],
+    "author": "Mainak Mondal; Kumaravel Somasundaram; Ankita Lawarde",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20079475",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20079475"
+    },
+    "title": "Genomics of Indian SARS-CoV-2: Implications in genetic diversity, possible origin and spread of virus",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Centre for Advanced Studies in Molecular Microbiology)"
+                }
+            ],
+            "funding-statement": "Infrastructure support by funding from DST-FIST, IISc-DBT partnership and UGC (Centre for Advanced Studies in Molecular Microbiology) to MCB is acknowledged"
+        }
+    ]
+}

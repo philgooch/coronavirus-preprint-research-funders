@@ -1,0 +1,43 @@
+{
+    "abstract": "Background: Accurate serological assays can improve the early diagnosis of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection, but few studies have compared performance characteristics between assays in symptomatic and recovered patients. Methods: We recruited 32 patients who had 2019 coronavirus disease (COVID-19; 18 hospitalized and actively symptomatic, 14 recovered mild cases), and measured levels of IgM (against the full-length S1 or the highly homologous SARS-CoV E protein) and IgG (against S1 receptor binding domain [RBD]). We performed the same analysis in 103 pre-2020 healthy adult control (HC) participants and 13 participants who had negative molecular testing for SARS-CoV-2. Results: Anti-S1-RBD IgG levels were very elevated within days of symptom onset for hospitalized patients (median 2.04 optical density [OD], vs. 0.12 in HC). People who recovered from milder COVID-19 only reached similar IgG levels 28 days after symptom onset. IgM levels were elevated early in both groups (median 1.91 and 2.12 vs. 1.14 OD in HC for anti-S1 IgM, 2.23 and 2.26 vs 1.52 in HC for anti-E IgM), with downward trends in hospitalized cases having longer disease duration. The combination of the two IgM levels showed similar sensitivity for COVID-19 as IgG but greater specificity, and identified 4/10 people (vs. 3/10 by IgG) with prior symptoms and negative molecular testing to have had COVID-19. Conclusions: Disease severity and timing both influence levels of IgM and IgG against SARS-CoV-2, with IgG better for early detection of severe cases but IgM more suited for early detection of milder cases.\nCompeting Interest Statement",
+    "affiliations": [
+        "Hu and Emory University have licensed the IgM assay panel for SARS-CoV-2, have a patent on the CSF-based diagnosis of FTLD-TDP, and have a patent pending on the CSF-based prognosis of spinal muscular atrophy; Dr. Hu has consulted for ViveBio, LLC, AARP, Inc, and Biogen, Inc.; and has received research support from Fujirebio US. Dr. Lee is the founder of MicroB-plex, Inc and has research grants with Genentech",
+        "National Institutes of Health grants R01 AG 054046, R01 AG054991, and T32HL116271"
+    ],
+    "author": "Richard P Ramonell; F. Eun-Hyung Lee; Leda Bassit; William T Hu; Kevin Cashman; Shama Pirmohammed; John Roback; Raymond F Schinazi; Vince C Marconi; Karima Benameur; Whitney Wharton; Christina Howell; Tugba Ozturk",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20097535",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20097535"
+    },
+    "title": "Cross-sectional IgM and IgG profiles in SARS-CoV-2 infection",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Dr Hu and Emory University",
+                    "award-id": [
+                        "FTLD-TDP"
+                    ]
+                },
+                {
+                    "funding-source": "Fujirebio US"
+                }
+            ],
+            "funding-statement": "Dr Hu and Emory University have licensed the IgM assay panel for SARS-CoV-2, have a patent on the CSF-based diagnosis of FTLD-TDP, and have a patent pending on the CSF-based prognosis of spinal muscular atrophy; Dr Hu has consulted for ViveBio, LLC, AARP, Inc, and Biogen, Inc.; and has received research support from Fujirebio US"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "054046",
+                        "AG054991",
+                        "T32HL116271"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by National Institutes of Health grants R01 AG 054046, R01 AG054991, and T32HL116271"
+        }
+    ]
+}

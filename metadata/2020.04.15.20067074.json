@@ -1,0 +1,16 @@
+{
+    "abstract": "We perform a counterfactual time series analysis on 2020 mortality data from towns in Italy using data from the previous five years as control. We find an excess mortality that is correlated in time with the official COVID-19 death rate, but exceeds it by a factor of at least 1.5. Our analysis suggests that there is a large population of predominantly older people that are missing from the official fatality statistics. We estimate that the number of COVID-19 deaths in Italy is 49,000-53,000 as of May 9 2020, as compared to the official number of 33,000. The Population Fatality Rate (PFR) has reached 0.26% in the most affected region of Lombardia and 0.58% in the most affected province of Bergamo. These PFRs constitutes a lower bound to the Infection Fatality Rate (IFR). We combine the PFRs with the Test Positivity Ratio to derive a better lower bound of 0.61% on the IFR for Lombardia. We further estimate the IFR as a function of age and find a steeper age dependence than previous studies: we find 17% of COVID-related deaths are attributed to the age group above 90, 7.5% to 80-89, declining to 0.04% for age 40-49 and 0.01% for age 30-39, the latter more than an order of magnitude lower than previous estimates. We observe that the IFR traces the Yearly Mortality Rate (YMR) above ages of 60 years, which can be used as a model to estimate the IFR for other populations and thus other regions in the world. We predict an IFR lower bound of 0.5% for NYC and that 27% of the total COVID-19 fatalities in NYC should arise from the population below 65 years. This is in agreement with the official NYC data and three times higher than the percentage observed in Lombardia. Combining the PFR with the Princess Diamond cruise ship IFR for ages above 70 we estimate the infection rates (IR) for regions in Italy. These peak in Lombardia at 26% (13%-47%, 95% c.l.), and for provinces in Bergamo at 69% (35%- 100%, 95% c.l.). These estimates suggest that the number of infected people greatly exceeds the number of positive tests, e.g., by a factor of 35 in Lombardia.",
+    "author": "Simone Ferraro; Chirag Modi; George Stein; Vanessa Boehm; Uros Seljak",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20067074",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20067074"
+    },
+    "title": "How deadly is COVID-19? A rigorous analysis of excess mortality and age-dependent fatality rates in Italy",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this work."
+        }
+    ]
+}

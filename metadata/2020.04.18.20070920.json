@@ -1,0 +1,23 @@
+{
+    "abstract": "Summary Objective. To analyze the role of temperature, humidity, date of first case diagnosed (DFC) and the behavior of the growth-curve of cumulative frequency (CF) [number of days to rise (DCS) and reach the first 100 cases (D100), and the difference between them (\u0394DD)] with the doubling time (Td) of Covid-19 cases in 67 countries grouped by climate zone. Design. Retrospective incident case study. Setting. WHO based register of cumulative incidence of Covid-19 cases. Participants. 1,706,914 subjects diagnosed between 12-29-2019 and 4-15-2020. Exposures. SARS-Cov-2 virus, ambient humidity, temperature and climate areas (temperate, tropical/subtropical). Main outcome measures. Comparison of DCS, D100, \u0394DD, DFC, humidity, temperature, Td for the first (Td10) and second (Td20) ten days of the CF growth-curve between countries according to climate zone, and identification of factors involved in Td, as well as predictors of CF using lineal regression models. Results. Td10 and Td20 were \u22653 days longer in tropical/subtropical vs. temperate areas (2.8[plusmn]1.2 vs. 5.7[plusmn]3.4; p=1.41E-05 and 4.6[plusmn]1.8 vs. 8.6[plusmn]4.2; p=9.7E-05, respectively). The factors involved in Td10 (DFC and \u0394DD) were different than those in Td20 (Td10 and climate areas). After D100, the fastest growth-curves during the first 10 days, were associated with Td10<2 and Td10<3 in temperate and tropical/subtropical countries, respectively. The fold change Td20/Td10 >2 was associated with earlier flattening of the growth-curve. In multivariate models, Td10, DFC and ambient temperature were negatively related with CF and explained 44.7% (r2 = 0.447) of CF variability at day 20 of the growth-curve, while Td20 and DFC were negatively related with CF and explained 63.8% (r2 = 0.638) of CF variability towards day 30 of the growth-curve. Conclusions. The larger Td in tropical/subtropical countries is positively related to DFC and temperature. Td and environmental factors explain 64% of CF variability in the best of cases. Therefore, other factors, such as pandemic containment measures, would explain the remaining variability.",
+    "affiliations": [
+        "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+    ],
+    "author": "Jaime Berumen; Rebeca Garcia-Leyva; Miguel Betancourt-Cravioto; Rosa M Wong-Chew; Roberto Tapia-Conyer; German Fajardo-Dolci; Hector Gallardo; Guadalupe Guerrero; Gustavo Olaiz; Max Schmulson; Elizabeth Barrera; Jorge Larriva-Sahd",
+    "date": 2020,
+    "doi": "10.1101/2020.04.18.20070920",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.18.20070920"
+    },
+    "title": "Trends of SARS-Cov-2 infection in 67 countries: Role of climate zone, temperature, humidity and curve behavior of cumulative frequency on duplication time",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+                }
+            ],
+            "funding-statement": "This work was funding by the Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+        }
+    ]
+}

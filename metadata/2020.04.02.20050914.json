@@ -1,0 +1,22 @@
+{
+    "abstract": "Purpose: To screen for COVID-19 patients in immigration using minimal nucleic acid testing (NAT). Methods: In the first phase, nasopharyngeal swab samples from the inbound population were numbered and grouped. The samples in the group were mixed together, and a NAT test was performed. When the test result is negative, it means that everyone in the group is not infected and the screening of the group is complete. When the test results were positive, the group moved on to the second stage. In the second stage, all samples in the positive group will be tested individually for NAT. Results: The advantages and considerations of the method are discussed. Prevalence in the incoming population was a determinant of the sample size within the group. The lower the incidence, the larger the sample size within the group, the higher the savings in NAT and testing costs. Conclusion: This method has significant efficiency and cost advantages in COVID-19 screening. It can also be used to screen other populations, such as community populations and people at high risk of infection, etc. Key words: COVID-19; NAT; nucleic acid testing; screening; nasopharyngeal swab",
+    "author": "Cheng Yuan yuan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.02.20050914",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20050914"
+    },
+    "keywords": [
+        "COVID-19",
+        "nucleic acid testing",
+        "screening",
+        "nasopharyngeal swab"
+    ],
+    "title": "Statistical methods for batch screening of input populations by stage and group in COVID-19 nucleic acid testing",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There is no external funding, and there is no conflict of interest."
+        }
+    ]
+}

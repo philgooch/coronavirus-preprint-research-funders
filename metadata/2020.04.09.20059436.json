@@ -1,0 +1,16 @@
+{
+    "abstract": "We study an SEIQR (Susceptible-Exposed-Infectious-Quarantined-Recovered) model for an infectious disease, with time delays for latency and an asymptomatic phase. For fast pandemics where nobody has prior immunity and everyone has immunity after recovery, the SEIQR model decouples into two nonlinear delay differential equations (DDEs) with five parameters. One parameter is set to unity by scaling time. The subcase of perfect quarantining and zero self-recovery before quarantine, with two free parameters, is examined first. The method of multiple scales yields a hyperbolic tangent solution; and a long-wave approximation yields a first order ordinary differential equation (ODE). With imperfect quarantining and nonzero self-recovery, the long-wave approximation is a second order ODE. These three approximations each capture the full outbreak, from infinitesimal initiation to final saturation. Low-dimensional dynamics in the DDEs is demonstrated using a six state non-delayed reduced order model obtained by Galerkin projection. Numerical solutions from the reduced order model match the DDE over a range of parameter choices and initial conditions. Finally, stability analysis and numerics show how correctly executed time-varying social distancing, within the present model, can cut the number of affected people by almost half. Alternatively, faster detection followed by near-certain quarantining can potentially be even more effective.",
+    "author": "Anindya Chatterjee; Chandrika Prakash Vyasarayani",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059436",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059436"
+    },
+    "title": "New approximations, and policy implications, from a delayed dynamic model of a fast pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for this research."
+        }
+    ]
+}

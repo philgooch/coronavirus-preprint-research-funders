@@ -1,0 +1,29 @@
+{
+    "abstract": "The flood of conflicting COVID-19 research has revealed that COVID-19 continues to be an enigma. Although more than 14,000 research articles on COVID-19 have been published with the disease taking a pandemic proportion, clinicians and researchers are struggling to distill knowledge for furthering clinical management and research. In this study, we address this gap for a targeted user group, i.e. clinicians, researchers, and policymakers by applying natural language processing to develop a CovidNLP dashboard in order to speed up knowledge discovery. The WHO has created a repository of about more than 5000 peer-reviewed and curated research articles on varied aspects including epidemiology, clinical features, diagnosis, treatment, social factors, and economics. We summarised all the articles in the WHO Database through an extractive summarizer followed by an exploration of the feature space using word embeddings which were then used to visualize the summarized associations of COVID-19 as found in the text. Clinicians, researchers, and policymakers will not only discover the direct effects of COVID-19 but also the systematic implications such as the anticipated rise in TB and cancer mortality due to the non-availability of drugs during the export lockdown as highlighted by our models. These demonstrate the utility of mining massive literature with natural language processing for rapid distillation and knowledge updates. This can help the users understand, synthesize, and take pre-emptive action with the available peer-reviewed evidence on COVID-19. Our models will be continuously updated with new literature and we have made our resource CovidNLP publicly available in a user-friendly fashion at http://covidnlp.tavlab.iiitd.edu.in/.",
+    "affiliations": [
+        "Sethi and the Center for Artificial Intelligence at IIIT-Delhi. Tavpritesh Sethi and Pradeep Singh also acknowledge the support received from the Department of Science and Technology vide project DST/INT/ISR/P-21/2017. Authors also acknowledge Prof. Rakesh Lodha from All India Institute of Medical Sciences, New Delhi, for his valuable inputs"
+    ],
+    "author": "Tavpritesh Sethi; Aditya Nagori; Suryatej Reddy; Ridam Pal; Raghav Awasthi; Ponnurangam Kumaraguru; Amogh Gulati; Pradeep Singh",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20079129",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20079129"
+    },
+    "title": "CovidNLP: A Web Application for Distilling Systemic Implications of COVID-19 Pandemic with Natural Language Processing",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "DBT India Alliance Fellowship",
+                    "award-id": [
+                        "IA/CPHE/14/1/501504"
+                    ]
+                },
+                {
+                    "funding-source": "Tavpritesh Sethi and the Center for Artificial Intelligence"
+                }
+            ],
+            "funding-statement": "This work was partially supported by the Wellcome Trust/DBT India Alliance Fellowship IA/CPHE/14/1/501504 awarded to Tavpritesh Sethi and the Center for Artificial Intelligence at IIIT-Delhi"
+        }
+    ]
+}

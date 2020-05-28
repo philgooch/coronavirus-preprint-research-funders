@@ -1,0 +1,99 @@
+{
+    "title": "Rapid isolation and profiling of a diverse panel of human monoclonal antibodies targeting the SARS-CoV-2 spike protein",
+    "author": "James Crowe",
+    "date": 2020,
+    "affiliations": [
+        "Vanderbilt Vaccine Center, Vanderbilt University Medical Center, Nashville, TN, 37232",
+        "Department of Pathology & Immunology, Washington University School of Medicine, 18 St. Louis, MO, 63110, USA 19",
+        "Department of Pathology, Microbiology, and Immunology, Vanderbilt University Medical 20 Center, Nashville, TN, 37232, USA 21",
+        "Department of Medicine, University of Toronto, Toronto, ON, Canada 22",
+        "Division of Allergy and Infectious Diseases, University of Washington, Seattle 98109, USA 23",
+        "Berkeley Lights, Inc., Emeryville, CA, 94608, USA 24",
+        "Department of Medicine, Emory University, Atlanta, GA, 30322 USA",
+        "Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill",
+        "Department of Medicine, Washington University School of Medicine, St. Louis, 63110"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.091462",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.091462.pdf"
+    },
+    "keywords": [
+        "Coronavirus",
+        "SARS-CoV-2",
+        "SARS-CoV",
+        "COVID-19",
+        "Antibodies",
+        "Monoclonal",
+        "53 Human",
+        "Adaptive Immunity"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Defense Advanced Research Projects Agency",
+                    "award-id": [
+                        "HR0011-18-2-0001"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "75N93019C00074",
+                        "75N93019C00062"
+                    ]
+                },
+                {
+                    "funding-source": "Dolly Parton COVID-19 Research Fund"
+                }
+            ],
+            "funding-statement": "This study was supported by Defense Advanced Research Projects Agency (DARPA) grant HR0011-18-2-0001, NIH contracts 75N93019C00074 and 75N93019C00062 and the Dolly Parton COVID-19 Research Fund at Vanderbilt"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "1S10RR028106-01A1"
+                    ]
+                },
+                {
+                    "funding-source": "Next Generation Nucleic Acid Sequencer,"
+                },
+                {
+                    "funding-source": "Vanderbilt Technologies for Advanced Genomics"
+                },
+                {
+                    "funding-source": "National Center for Research Resources, Grant",
+                    "award-id": [
+                        "RR024975-01"
+                    ]
+                },
+                {
+                    "funding-source": "National Center for Advancing Translational Sciences, Grant",
+                    "award-id": [
+                        "TR000445-06"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI095202"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by NIH grant 1S10RR028106-01A1 for the Next Generation Nucleic Acid Sequencer, housed in Vanderbilt Technologies for Advanced Genomics (VANTAGE) and supported by the National Center for Research Resources, Grant UL1 RR024975-01, and is now at the National Center for Advancing Translational Sciences, Grant 2 UL1 TR000445-06. S.J.Z. was supported by NIH T32 AI095202"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Helen Hay Whitney"
+                }
+            ],
+            "funding-statement": "J.B.C. is supported by a Helen Hay Whitney"
+        }
+    ]
+}

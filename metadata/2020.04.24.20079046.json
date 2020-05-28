@@ -1,0 +1,16 @@
+{
+    "abstract": "Importance COVID-19 epidemiological data show higher mortality rates among males compared to females. However, it remains unclear if the disparity in mortality is due to gender differences in high-risk characteristics. Objective To study the clinical characteristics of a large and diverse cohort of COVID-19 patients stratified by gender and determine the outcomes after matching for age and other high-risk characteristics. Design Retrospective cohort between January 20, 2020, and April 15, 2020 Setting TriNetX COVID-19 Research Network consisting of multiple healthcare organizations (HCOs) predominantly in the United States Participants and Exposure A cohort of male and female patients > 10 years of age diagnosed with COVID-19 identified with real-time analyses of electronic medical records of patients from participating HCOs. A 1:1 propensity score matching of cohorts was performed for age, race, nicotine use, and all possible confounding comorbidities. Main Outcome Risk of mortality, hospitalization and mechanical ventilation within 30 days after the diagnosis of COVID-19 Results A total of 5980 males and 7730 females diagnosed with COVID-19 were identified. Males were significantly older than females (54.9 (18.3) vs. 50.9 (18.4), p-value <0.0001). There were significant differences in patient characteristics, but after propensity matching, both groups (N=5350 each group) were balanced. Males had a significantly higher risk for mortality both before (Risk Ratio (RR) 2.1, 95% CI 1.8-2.4) and after matching (RR 1.4, 95% CI 1.2-1.7). Similarly, the risk of hospitalization (RR 1.3, 95%CI 1.2-1.4) and mechanical ventilation (RR 1.71, 95% CI 1.3-2.3) was significantly higher in males even after matching. On subanalysis, males age > 50 had higher mortality than matched females of similar age (RR 1.6, 95% CI 1.4-1.8), whereas the risk of mortality in matched groups < 40 years was similar (RR 1.00, 95% CI 0.4-2.4). Conclusion In conclusion, males are more severely affected and have higher mortality from COVID-19. This gender-specific risk is especially more pronounced in advanced age. Gender disparity in poor outcomes can only be partially explained by differences in high-risk behavior and comorbidities. Further research is needed to understand the causes of this disparity.",
+    "author": "Monica Chowdhry; Arka Chatterjee; Shailendra Singh; Ahmad Khan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20079046",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20079046"
+    },
+    "title": "Gender-Based Disparities in COVID-19: Clinical Characteristics and Propensity-matched Analysis of Outcomes",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

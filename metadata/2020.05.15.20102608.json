@@ -1,0 +1,26 @@
+{
+    "abstract": "Predictions of COVID-19 case growth and mortality are critical to the decisions of political leaders, businesses, and individuals grappling with the pandemic. This predictive task is challenging due to the novelty of the virus, limited data, and dynamic political and societal responses. We embed a Bayesian nonlinear mixed model and a random forest algorithm within an epidemiological compartmental model for empirically grounded COVID-19 predictions. The Bayesian case model fits a location-specific curve to the velocity (first derivative) of the transformed cumulative case count, borrowing strength across geographic locations and incorporating prior information to obtain a posterior distribution for case trajectory. The compartmental model uses this distribution and predicts deaths using a random forest algorithm trained on COVID-19 data and population-level characteristics, yielding daily projections and interval estimates for infections and deaths in U.S. states. We evaluate forecasting accuracy on a two-week holdout set, finding that the model predicts COVID-19 cases and deaths well, with a mean absolute scaled error of 0.40 for cases and 0.32 for deaths throughout the two-week evaluation period. The substantial variation in predicted trajectories and associated uncertainty between states is illustrated by comparing three unique locations: New York, Ohio, and Mississippi. The sophistication and accuracy of this COVID-19 model offer reliable predictions and uncertainty estimates for the current trajectory of the pandemic in the U.S. and provide a platform for future predictions as shifting political and societal responses alter its course.",
+    "affiliations": [
+        "US National Institutes of Health, grants from IQVIA, and personal fees from Janssen Research and Development. All other authors declare no competing interests"
+    ],
+    "author": "Joseph A Zoller; Phillip Sundin; Marc A Suchard; Di Xiong; Lu Zhang; Anne W Rimoin; Gregory L Watson; Christina M Ramirez; John Shamshoian; Teresa Bufford",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20102608",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20102608"
+    },
+    "title": "Fusing a Bayesian case velocity model with random forest for predicting COVID-19 in the U.S.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Private Health Management",
+                    "award-id": [
+                        "https://www.privatehealth.com/"
+                    ]
+                }
+            ],
+            "funding-statement": "All authors partially supported by unrestricted grants from Private Health Management (https://www.privatehealth.com/). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+        }
+    ]
+}

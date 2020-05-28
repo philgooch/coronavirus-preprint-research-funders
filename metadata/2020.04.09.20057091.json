@@ -1,0 +1,41 @@
+{
+    "abstract": "Background The COVID-19 outbreak in sub-Saharan African countries started after those in Asia, Europe and North America, on 28th February 2020. The susceptibility to infection of populations in that region has been debated. Outbreaks on the scale of those seen elsewhere would pose substantial challenges. There are reasons for concern that transmission may be high and difficult to control, rapidly exceeding capacity to meet the needs for hospitalization and critical care. Methods We obtained data on daily new confirmed cases for all 46 countries from the World Health Organization, and used these to model and visualize growth trajectories using an AutoRegressive Integrated Moving Average (ARIMA) model. We then estimated doubling times from growth rates estimated from Poisson regression models, and by back counting from the most recent observation. We also calculated the time from 1st to 50th case, and the time from 5th to 100th case. These indicators were compared with the same summary indicators of growth at the same stage of the outbreak in highly affected European countries. Results Kenya was the only country with clear evidence of exponential growth. Nineteen countries had either reported no cases, were in the first few days of the outbreak, or had reported fewer than 10 cases over a period of two or more weeks. For the remaining 27 countries we identified four growth patterns: slow linear growth, more rapid linear growth, variable growth patterns over the course of the outbreak, and early signs of possible exponential growth. For those in the last three groups, doubling times ranged from 3 to 4 days, times from 1st to 50th case from 12 to 29 days, and from 5th to 100th case from eight to 15 days. These early indicators are comparable to those in European countries that have gone on to have substantial outbreaks, and time to 50th case was shorter suggesting lesser effectiveness of contact-tracing and quarantine in the early phase. Conclusion The 46 sub-Saharan African countries, home to over one billion people, are at a tipping point with clear potential for the outbreak to follow a similar course as in HIC in the global north. Radical population-level physical distancing measures may be required, but their impact on poor, disadvantaged and vulnerable people and communities need mitigating. Health systems in the region need urgent technical and material support, with testing, personal protection, and hospital/ critical care.",
+    "affiliations": [
+        "National Institute for Health Research (NIHR) Global Health Research Unit on Health System Strengthening in Sub-Saharan Africa, King\u0092s College London (GHRU 16/136/54) using UK aid from the UK Government to support global health research. The views expressed in this publication are those of the authors and not necessarily those of the NIHR or the Department of Health and Social Care"
+    ],
+    "author": "Martin James Prince; Lara Fairall; Ruth Verhey; Andrew JM Leather; Dixon Chibanda; Crick Lund; Charlotte Hanlon; Inge Petersen; Haja Wurie; Atalay Alem; Abebaw Fekadu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20057091",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20057091"
+    },
+    "title": "The first month of the COVID-19 outbreak in 46 sub-Saharan African countries; a comparative analysis of growth rates",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Global Health Research Unit on Health System Strengthening in Sub-Saharan Africa, King",
+                    "award-id": [
+                        "GHRU 16/136/54"
+                    ]
+                },
+                {
+                    "funding-source": "College London",
+                    "award-id": [
+                        "GHRU 16/136/54"
+                    ]
+                },
+                {
+                    "funding-source": "UK Government"
+                }
+            ],
+            "funding-statement": "This research was funded by the National Institute for Health Research (NIHR) Global Health Research Unit on Health System Strengthening in Sub-Saharan Africa, King\u0092s College London (GHRU 16/136/54) using UK aid from the UK Government to support global health research"
+        }
+    ]
+}

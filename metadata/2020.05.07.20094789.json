@@ -1,0 +1,16 @@
+{
+    "abstract": "A person clinically diagnosed with COVID 19 can infect others for several days before and after the onset of symptoms. At the epidemiological level, this information on how infectious someone is lies embedded implicitly in the serial interval data. Other clinical indicators of infectiousness based on the temporal kinetics of the viral shedding from the nasopharyngeal swabs and sputum show the former decaying weeks sooner than the latter. In this work, we attempt to provide a better quantitative estimate for the temporal infectiousness profile using serial interval data from a combined 1251 individuals reported in the literature. We show that the infectiousness profile which we calculate correlates well with the viral shedding kinetics from nasopharyngeal swabs (rho=0.97, p=0.00) and culturability (rho=0.83, p=0.01). The profile suggests that a 68.4% (95% CI: 67.0-69.7%) of the infections are caused by infections before the symptoms appear, which is a much stronger pre-symptomatic influence than what was predicted in the literature 44% (95% CI: 25-69%) using serial data from 77 individuals.",
+    "author": "Meher K Prakash",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20094789",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20094789"
+    },
+    "title": "Quantitative COVID-19 infectiousness estimate correlating with viral shedding and culturability suggests 68% pre-symptomatic transmissions",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding has been received"
+        }
+    ]
+}

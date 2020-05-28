@@ -1,0 +1,26 @@
+{
+    "abstract": "Background: On the present trajectory, COVID is inevitably becoming a global epidemic, leading to concerns regarding the pandemic potential in China and other countries. Objective: In this study, we use the time-dependent reproduction number (Rt) to comprise the COVID transmissibility across different countries. Methods: We used data from Jan 20, 2019, to Feb 29, 2020, on the number of newly confirmed cases, obtained from the reports published by the CDC, to infer the incidence of infectious over time. A two-step procedure was used to estimate the Rt. The first step used data on known index-secondary cases pairs, from publicly available case reports, to estimate the serial interval distribution. The second step estimated the Rt jointly from the incidence data and the information data in the first step. Rt was then used to simulate the epidemics across all major cities in China and typical countries worldwide. Results: Based on a total of 126 index-secondary cases pairs from 4 international regions, we estimated that the serial interval for SARS-2-CoV was 4.18 (IQR 1.92 \u2212 6.65) days. Domestically, Rt of China, Hubei province, Wuhan had fallen below 1.0 on 9 Feb, 10 Feb and 13 Feb (Rt were 0.99 \u00b1 0.02, 0.99 \u00b1 0.02 and 0.96 \u00b1 0.02), respectively. Internationally, as of 26 Feb, statistically significant periods of COVID spread (Rt >1) were identified for most regions, except for Singapore (Rt was 0.92 \u00b1 0.17). Conclusions: The epidemic in China has been well controlled, but the worldwide pandemic has not been well controlled. Worldwide preparedness and vulnerability against COVID-19 should be regarded with more care.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Key Research and Development Program of China (2019YFB1404803)"
+    ],
+    "author": "Kang Qin; Lingling Zheng; Weiyao Liao; Shuai Huang; Huimin Xia; Huiying Liang; Dong Liu; Jinling Tang; Xiujuan Chen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083899",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083899"
+    },
+    "title": "Chinese effective control and other countries uncharted challenge against COVID-19: an epidemiological and modelling study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2019YFB1404803"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is funded by the National Key Research and Development Program of China (2019YFB1404803)"
+        }
+    ]
+}

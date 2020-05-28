@@ -1,0 +1,44 @@
+{
+    "title": "Evaluation Of SYBR Green Real Time PCR For Detecting SARS-CoV-2 From Clinical Samples",
+    "author": "Gonzalo Moratorio",
+    "date": 2020,
+    "affiliations": [
+        "Laboratorio de Virolog\u00eda Molecular, Centro de Investigaciones Nucleares, Facultad de Ciencias, Universidad de la Rep\u00fablica, Montevideo, Uruguay",
+        "Laboratorio de Evoluci\u00f3n Experimental de Virus, Institut Pasteur, Montevideo, Uruguay",
+        "Laboratorio de Virolog\u00eda Molecular, Sede Salto, Centro Universitario Regional Litoral Norte, Universidad de la Rep\u00fablica, Salto, Uruguay",
+        "University of Hong Kong) to SYBR Green. Our results suggest that SYBR-Green detection represents a reliable cost-effective alternative to increase the testing capacity"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.13.093609",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.13.093609.pdf"
+    },
+    "abstract": "The pandemic caused by SARS-CoV-2 has triggered an extraordinary collapse of healthcare systems and hundred thousand of deaths worldwide. Following the declaration of the outbreak as a Public Health Emergency of International Concern by the World Health Organization (WHO) on January 30th, 2020, it has become imperative to develop diagnostic tools to reliably detect the virus in infected patients. Several methods based on real time reverse transcription polymerase chain reaction (RT-qPCR) for the detection of SARS-CoV-2 genomic RNA have been developed. In addition, these methods have been recommended by the WHO for laboratory diagnosis. Since all these protocols are based on the use of fluorogenic probes and one-step reagents (cDNA synthesis followed by PCR amplification in the same tube), these techniques can be difficult to perform given the limited supply of reagents in low and middle income countries. In the interest of economy, time and availability of chemicals and consumables, the SYBR Green-based detection was implemented to establish a convenient assay. Therefore, we adapted one of WHO recommended Taqman-based one-step real time PCR protocols (from the University of Hong Kong) to SYBR Green. Our results suggest that SYBR-Green detection represents a reliable cost-effective alternative to increase the testing capacity.",
+    "keywords": [
+        "SARS-CoV-2",
+        "molecular detection",
+        "SYBR Green",
+        "RT-qPCR"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "FUNDING This"
+                },
+                {
+                    "funding-source": "Agencia Nacional de Investigaci\u00f3n"
+                },
+                {
+                    "funding-source": "PEDECIBA and Comisi\u00f3n Acad\u00e9mica de Posgrados, Universidad"
+                },
+                {
+                    "funding-source": "Rep\u00fablica Uruguay"
+                }
+            ],
+            "funding-statement": "FUNDING This work was supported by Agencia Nacional de Investigaci\u00f3n e Innovaci\u00f3n (ANII), PEDECIBA and Comisi\u00f3n Acad\u00e9mica de Posgrados, Universidad de la Rep\u00fablica Uruguay (UdelaR)."
+        }
+    ]
+}

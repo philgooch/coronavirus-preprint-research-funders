@@ -1,0 +1,34 @@
+{
+    "abstract": "CoVID-19 is spreading throughout the world at an alarming rate. So far it has spread over 200 countries in the whole world. Mathematical modelling of an epidemic like CoVID-19 is always useful for strategic decision making, especially it is very useful to gain some understanding of the future of the epidemic in densely populous countries like India. We use a simple yet effective mathematical model SIR(D) to predict the future of the epidemic in India by using the existing data. We also estimate the effect of lock-down/social isolation via a time-dependent coefficient of the model. The model study with realistic parameters set shows that the epidemic will be at its peak around the end of June or the first week of July with almost 108 Indians most likely being infected if the lock-down relaxed after May 3, 2020. However, the total number of infected population will become one-third of what predicted here if we consider that people only in the red zones (approximately one-third of India's population) are susceptible to the infection. Even in a very optimistic scenario we expect that at least the infected numbers of people will be of the order of 107.",
+    "affiliations": [
+        "DST through INSPIRE Faculty research grant, Government of India. VR also like to thank Prof. Sourendu Gupta for an initial discussion on SIR(D) model. SS acknowledges financial support from Polish National Agency for Academic Exchange"
+    ],
+    "author": "Victor Roy; Aditya Rajesh; Haidas Pai; Subhasis Samanta; Sabyasachi Ghosh",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20085902",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20085902"
+    },
+    "title": "CoVID-19 prediction for India from the existing data and SIR(D) model study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "INSPIRE Faculty"
+                },
+                {
+                    "funding-source": "Government of India"
+                }
+            ],
+            "funding-statement": "V.R. acknowledges financial support from the DST through INSPIRE Faculty research grant, Government of India"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Polish National Agency for Academic Exchange"
+                }
+            ],
+            "funding-statement": "SS acknowledges financial support from Polish National Agency for Academic Exchange"
+        }
+    ]
+}

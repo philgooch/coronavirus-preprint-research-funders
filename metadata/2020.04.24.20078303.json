@@ -1,0 +1,20 @@
+{
+    "abstract": "Background: Hydroxychloroquine and chloroquine have been used extensively in malaria and rheumatological conditions. Although generally safe and well tolerated they are potentially lethal in overdose. These two drugs are now candidates for the prevention and treatment of COVID19. In vitro data suggest that high concentrations and thus high doses will be needed if they are to be of benefit, but as yet there is no convincing evidence they are clinically effective. Nevertheless they are already being used very widely and fatal accidental overdoses have been reported. Methods: Individual data from prospectively studied French patients who had taken intentional chloroquine overdoses and were managed in the national toxicology intensive care unit in Paris were pooled. Bayesian logistic regression was used to estimate a concentration-fatality curve. The probabilities of fatal iatrogenic toxicity with the chloroquine regimens currently being trialled for the treatment of COVID19 were estimated from a combined pharmacokinetic-pharmacodynamic model. Findings: In total, 258 patients were studied of whom 26 died (10%). There was a steep sigmoid relationship between admission whole blood chloroquine concentrations and death. Concentrations above 13umol/L (95% credible interval (C.I.), 10 to 16) were associated with greater than 1% mortality. Based on peak concentrations, absolute fatality ratios in the high dose arm (chloroquine base equivalent adult dose of 600mg given twice daily for ten days) of a recently terminated trial were estimated between 0.06% (90kg adult, 95%C.I. 0 to 0.3%) and 4.8% (40kg adult, 95% C.I. 1.9 to 9.7%). This regimen results in peak concentrations above 10umol/L in more than 60% of adults weighing 70kg. The other high dose regimens trialled currently for COVID19 result in peak concentrations above 10umol/L in only 0.2% of adults weighting 70kg. Interpretation:} High-dose chloroquine treatment regimens which result in whole blood chloroquine concentrations below 10umol/L for the majority of patients should not result in life-threatening cardiovascular toxicity.\nCompeting Interest Statement",
+    "author": "Jean-Luc Clemessy; Richard M Hoglund; Frederic J Baud; Nicholas J White; Joel Tarning; James A Watson",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078303",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078303"
+    },
+    "title": "Concentration-dependent mortality of chloroquine in overdose",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust of Great Britain and the Bill and Melinda Gates Foundation."
+                }
+            ],
+            "funding-statement": "Wellcome Trust of Great Britain and the Bill and Melinda Gates Foundation."
+        }
+    ]
+}

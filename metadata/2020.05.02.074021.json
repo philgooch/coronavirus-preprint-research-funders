@@ -1,0 +1,63 @@
+{
+    "title": "An artificial intelligence system reveals liquiritin inhibits SARS-CoV-2 by mimicking type I interferon",
+    "date": 2020,
+    "author": "Jie Zhu, Yong-Qiang Deng, Xin Wang, Xiao-Feng Li, Na-Na Zhang, Zurui Liu, Bowen Zhang, Cheng-Feng Qin,#, Zhengwei Xie,#",
+    "affiliations": [
+        "Peking University International Cancer Institute and Department of Pharmacology, School of Basic Medical Sciences, Peking University, Beijing, China",
+        "State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, Academy of Military Medical Sciences, Beijing, China",
+        "Gigaceuticals Co. Ltd., Beijing, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.02.074021",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.02.074021.pdf"
+    },
+    "abstract": "The pandemic COVID-19 has spread to all over the world and greatly threatens safety and health of people. COVID-19 is highly infectious and with high mortality rate. As no effective antiviral treatment is currently available, new drugs are urgently needed. We employed transcriptional analysis to uncover potential antiviral drugs from natural products or FDA approved drugs. We found liquiritin significantly inhibit replication of SARS-CoV-2 in Vero E6 cells with EC50 = 2.39 \u03bcM. Mechanistically, we found liquiritin exerts anti-viral function by mimicking type I interferon. Upregulated genes induced by liquiritin are enriched in GO categories including type I interferon signaling pathway, negative regulation of viral genome replication and etc. In toxicity experiment, no death was observed when treated at dose of 300 mg/kg for a week in ICR mice. All the organ indexes but liver and serum biochemical indexes were normal after treatment. Liquiritin is abundant in licorice tablet (~0.2% by mass), a traditional Chinese medicine. Together, we recommend liquiritin as a competitive candidate for treating COVID-19. We also expect liquiritin to have a broad and potent antiviral function to other viral pathogens, like HBV, HIV and etc.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China Grants",
+                    "award-id": [
+                        "31771519"
+                    ]
+                },
+                {
+                    "funding-source": "Beijing Natural Science Foundation",
+                    "award-id": [
+                        "5182012"
+                    ]
+                }
+            ],
+            "funding-statement": "Z.W.X was supported by National key research and development program of China (2018YFA0900200), National Natural Science Foundation of China Grants (31771519) and Beijing Natural Science Foundation (5182012)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Fund for Distinguished Young Scholar",
+                    "award-id": [
+                        "81925025"
+                    ]
+                },
+                {
+                    "funding-source": "Innovative Research Group",
+                    "award-id": [
+                        "81621005"
+                    ]
+                },
+                {
+                    "funding-source": "Innovation Fund for Medical Sciences",
+                    "award-id": [
+                        "2019-I2M-5049"
+                    ]
+                },
+                {
+                    "funding-source": "Chinese Academy of Medical Sciences"
+                }
+            ],
+            "funding-statement": "C.F.Q. was supported by the National Science Fund for Distinguished Young Scholar (No 81925025), and the Innovative Research Group (No 81621005) from the NSFC, and the Innovation Fund for Medical Sciences (No.2019-I2M-5049) from the Chinese Academy of Medical Sciences"
+        }
+    ]
+}

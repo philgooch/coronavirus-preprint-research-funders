@@ -1,0 +1,44 @@
+{
+    "abstract": "Objective: To investigate the performance of serological test and dynamics of serum antibody with the progress of SARS-CoV-2 infections. Methods: A total of 419 patients were enrolled including 19 confirmed cases and 400 patients from fever clinics. Their serial serum samples collected during the hospitalization were menstruated for IgM and IgG against SARS-CoV-2 using gold immunochromatographic assay and chemiluminescence immunoassay. We investigated whether thermal inactivation could affect the results of antibody detection. The dynamics of antibodies with the disease progress and false positive factors for antibody testing were also analyzed. Results: The positive rate of IgG detection was 91.67% and 83.33% using two CLIA, respectively. However, the IgM positive rate was dramatically declined might due to the lack of blood samples at early stages of the disease. The chemiluminescence immunoassay had a favorable but narrow linear range. Our work showed increased IgG values in serums from virus-negative patients and four negative samples were IgG weak-positive after thermal incubation. Our data showed the specificity of viral N+S proteins was higher than single antigen. Unlike generally thought that IgM appeared earlier than IgG, there is no certain chronological order of IgM and IgG seroconversion in COVID-19 patients. It was difficult to detect antibodies in asymptomatic patients suggesting that their low viral loads were not enough to cause immune response. Analysis of common interferent in three IgG false-positive patients, such as rheumatoid factor, proved that false positives were not caused by these interfering substances and antigenic cross-reaction. Conclusions: Viral serological test is an effective means for SARS-CoV-2 infect detection using both chemiluminescence immunoassay and gold immunochromatographic assay. Chemiluminescence immunoassay against multi-antigens has obvious advantages but still need improve in reducing false positives.",
+    "affiliations": [
+        "Supported by National Natural Science Foundation of China (31901035); Science and Technology Program of Guangzhou(201903010060); The Military Logistics Research Project(CWH17C018)and Military Healthcare Special Project(18BJZ14)"
+    ],
+    "author": "Aiwu Luo; Linhai Li; Zhaohui Sun; Jingwen Quan; Quan Zhou; Bin Xiao; Ling Huang; Ting Lei; Zhenzhan Kuang; Huacheng Yan; Weiyun Zhang; Jiahui Liu; Danping Zhu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20092551",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092551"
+    },
+    "title": "A preliminary study on analytical performance of serological assay for SARS-CoV-2 IgM/IgG and application in clinical practice",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31901035"
+                    ]
+                },
+                {
+                    "funding-source": "Science and Technology Program of",
+                    "award-id": [
+                        "201903010060"
+                    ]
+                },
+                {
+                    "funding-source": "The Military Logistics Research",
+                    "award-id": [
+                        "CWH17C018"
+                    ]
+                },
+                {
+                    "funding-source": "Military Healthcare Special",
+                    "award-id": [
+                        "18BJZ14"
+                    ]
+                }
+            ],
+            "funding-statement": "Supported by National Natural Science Foundation of China (31901035); Science and Technology Program of Guangzhou(201903010060); The Military Logistics Research Project(CWH17C018)and Military Healthcare Special Project(18BJZ14)"
+        }
+    ]
+}

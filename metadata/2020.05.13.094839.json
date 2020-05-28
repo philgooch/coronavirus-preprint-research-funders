@@ -1,0 +1,41 @@
+{
+    "title": "Patient DNA cross-reactivity of the CDC SARS-CoV-2 extraction control leads to an inherent potential for false negative results",
+    "author": "Amy Caudy",
+    "date": 2020,
+    "affiliations": [
+        "Department of Pathology, Stony Brook University Hospital, Stony Brook, NY, USA",
+        "Stony Brook University Cancer Center, Stony Brook, NY, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.13.094839",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.13.094839.pdf"
+    },
+    "abstract": "The US Centers for Disease Control and Prevention (CDC) have specified and given emergency use authorization (EUA) for a SARS-CoV-2 molecular diagnostic used to detect viral RNA in clinical samples (2). This assay is widely used and also serves as a prototype for many FDAauthorized tests (discussed below). As I show here, this assay uses a poorly-designed specimen extraction control that does not perform as intended on real-world samples. The CDC control fails to reports on specimen and process integrity.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Stony Brook Medicine Biobank for"
+                },
+                {
+                    "funding-source": "Maple Flavored Solutions LLC for"
+                }
+            ],
+            "funding-statement": "APR would like to acknowledge the support of the Stony Brook Medicine Biobank for providing de-identified purified RNA from patient samples and Maple Flavored Solutions LLC for access to instruments and donation of supplies and reagents"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Stony Brook University and NIGMS",
+                    "award-id": [
+                        "R01GM132238"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding: the author is supported by startup funds from Stony Brook University and NIGMS R01GM132238; Author contributions: APR conceived, designed, executed, analyzed, and wrote this manuscript; Competing interests: the author declares no competing interests; and Data and materials availability: all data are available in the manuscript or the supplementary materials"
+        }
+    ]
+}

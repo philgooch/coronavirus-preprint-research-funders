@@ -1,0 +1,99 @@
+{
+    "title": "Intra-host Variation and Evolutionary Dynamics of SARS-CoV-2",
+    "author": "22 6BGI PathoGenesis Pharmaceutical Technology Co., Ltd BGI-Shenzhen, Shenzhen, 518083",
+    "date": 2020,
+    "affiliations": [
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory",
+        "Disease, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou",
+        "Medical University, Guangzhou, Guangdong, 510120, China. 16",
+        "BGI-Shenzhen, Shenzhen, 518083, China. 17",
+        "Shenzhen Key Laboratory of Unknown Pathogen Identification, BGI-Shenzhen, Shenzhen, 18 518083, China. 19",
+        "Institute of Infectious disease, Guangzhou Eighth People's Hospital of Guangzhou Medical 20 University, Guangzhou, Guangdong, 510060, China. 21",
+        "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen, 518083, China",
+        "Department of Infectious Diseases, Guangdong Provincial Key Laboratory of Biomedical 25 Imaging, Guangdong Provincial Engineering Research Center of Molecular Imaging. The Fifth 26 Affiliated Hospital, Sun Yat-sen University, Zhuhai, Guangdong, 519000, China. 27",
+        "Yangjiang People\u2019s Hospital, Yangjiang, Guangdong, China. 28",
+        "School of Biology and Biological Engineering, South China University of Technology, 29 Guangzhou, China. 30",
+        "School of Future Technology, University of Chinese Academy of Sciences, Beijing 101408, 31 China. 32",
+        "James D. Watson Institute of Genome Science, Hangzhou, 310008, China. 33",
+        "Guangdong Provincial Key Laboratory of Genome Read and Write, BGI-Shenzhen, Shenzhen, 34 518120, China. 35",
+        "Guangdong Provincial Center for Disease Control and Prevention, Guangzhou, Guangdong, 36 511430, China. 37",
+        "The HKU\u2013Pasteur Research Pole, School of Public Health, Li Ka Shing Faculty of Medicine, 38 the University of Hong Kong, Hong Kong SAR, 19406, China. 39 40 #These authors contributed equally to this work. 41 42"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.20.103549",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.20.103549.pdf"
+    },
+    "abstract": "As of middle May 2020, the causative agent of COVID-19, SARS-CoV-2, has infected over 4 million people with more than 300 thousand death as official reports1,2. The key to understanding the biology and virus-host interactions of SARS-CoV-2 requires the knowledge of mutation and evolution of this virus at both inter- and intra-host levels. However, despite quite a few polymorphic sites identified among SARS-CoV-2 populations, intra-host variant spectra and their evolutionary dynamics remain mostly unknown. Here, using deep sequencing data, we achieved and characterized consensus genomes and intra-host genomic variants from 32 serial 57 samples collected from eight patients with COVID-19. The 32 consensus genomes revealed the 58 coexistence of different genotypes within the same patient. We further identified 40 intra-host single nucleotide variants (iSNVs). Most (30/40) iSNVs presented in single patient, while ten iSNVs were found in at least two patients or identical to consensus variants. Comparison of allele frequencies of the iSNVs revealed genetic divergence between intra-host populations of the respiratory tract (RT) and gastrointestinal tract (GIT), mostly driven by bottleneck events among intra-host transmissions. Nonetheless, we observed a maintained viral genetic diversity within GIT, showing an increased population with accumulated mutations developed in the tissue-specific environments. The iSNVs identified here not only show spatial divergence of intra-host viral populations, but also provide new insights into the complex virus-host interactions. 69 MAIN 70 From January 25 to February 10 in 2020, we collected a total of 62 serial clinical samples from eight hospitalized patients (GZMU cohort) confirmed with SARS-CoV-2 infection using real-time RT-qPCR (Table S1). All patients had direct contacts with confirmed cases during the early stage of the outbreak. Most patients, except P15 and P62, had severe symptoms and received mechanical ventilation in ICU, including the patient P01 who passed away eventually. The",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "Intra-host",
+        "Variation"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The National Key Research and Development Program of China",
+                    "award-id": [
+                        "2018YFC1200100",
+                        "2018ZX10301403",
+                        "2018YFC1311900"
+                    ]
+                },
+                {
+                    "funding-source": "Ministry of Science and  Technology",
+                    "award-id": [
+                        "2018B020207013",
+                        "2020B111112003"
+                    ]
+                },
+                {
+                    "funding-source": "Guangdong Province Basic and Applied Basic Research Fund",
+                    "award-id": [
+                        "2020A1515010911"
+                    ]
+                },
+                {
+                    "funding-source": "Guangdong Science and Technology Foundation",
+                    "award-id": [
+                        "2019B030316028"
+                    ]
+                },
+                {
+                    "funding-source": "Guangdong Provincial Key Laboratory of Genome Read and Write",
+                    "award-id": [
+                        "2017B030301011"
+                    ]
+                },
+                {
+                    "funding-source": "Guangzhou Medical University High-level University Innovation Team Training Program"
+                },
+                {
+                    "funding-source": "Guangzhou Medical University"
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81702047",
+                        "81772191",
+                        "91842106",
+                        "8181101118"
+                    ]
+                },
+                {
+                    "funding-source": "State Key Laboratory of Respiratory Disease",
+                    "award-id": [
+                        "SKLRD-QN-201715",
+                        "SKLRD-QN-201912",
+                        "SKLRD-Z- 202007"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded by grants from The National Key Research and Development Program of China (2018YFC1200100, 2018ZX10301403, 2018YFC1311900), the emergency grants for prevention and control of SARS-CoV-2 of Ministry of Science and  Technology 2018B020207013, 2020B111112003), the Guangdong Province Basic and Applied Basic Research Fund (2020A1515010911), Guangdong Science and Technology Foundation (2019B030316028), Guangdong Provincial Key Laboratory of Genome Read and Write (2017B030301011), Guangzhou Medical University High-level University Innovation Team Training Program (Guangzhou Medical University released [2017] No.159), National Natural Science Foundation of China (81702047, 81772191, 91842106 and 8181101118), State Key Laboratory of Respiratory Disease (SKLRD-QN-201715, SKLRD-QN-201912 and SKLRD-Z- 202007)"
+        }
+    ]
+}

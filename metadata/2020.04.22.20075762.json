@@ -1,0 +1,32 @@
+{
+    "abstract": "In early 2020, cities across China enacted strict social distancing measures to contain emerging coronavirus (COVID-19) outbreaks. We estimated the speed with which these measures contained community transmission in each of 58 Chinese cities. On average, containment was achieved 7.83 days (SD 6.79 days) after the implementation of social distancing interventions, with an average reduction in the reproduction number (Rt) of 54.3% (SD 17.6%) over that time period. A single day delay in the implementation of social distancing led to a 2.41 (95% CI: 0.97, 3.86) day delay in containment. Swift social distancing interventions may thus achieve rapid containment of newly emerging COVID-19 outbreaks.",
+    "affiliations": [
+        "National Natural Science Foundation of China (61773091)"
+    ],
+    "author": "Benjamin J Cowling; Lauren Ancel Meyers; Spencer J. Fox; xiaoke Xu; Alison P. Galvani; Zhanwei Du; Lin Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075762",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075762"
+    },
+    "title": "Proactive social distancing mitigates COVID-19 outbreaks within a month across 58 mainland China cities",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "U01 GM087719"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "61773091"
+                    ]
+                }
+            ],
+            "funding-statement": "We acknowledge the financial support from NIH (U01 GM087719) and the National Natural Science Foundation of China (61773091)"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "abstract": "The potential infectiousness of asymptomatic COVID-19 cases together with a substantial fraction of asymptomatic infections among all infections, have been highlighted in clinical studies. We conducted statistical modeling analysis to derive the delay-adjusted asymptomatic proportion of the positive COVID-19 infections onboard the Princess Cruises ship along with the timeline of infections. We estimated the asymptomatic proportion at 17.9% (95% CrI: 15.5%-20.2%), with most of the infections occurring before the start of the 2-week quarantine.\nCompeting Interest Statement",
+    "affiliations": [
+        "Oxford Martin School Programme on Pandemic Genomics. GC acknowledges support from NSF grant 1414374 as part of the joint NSF-NIH-USDA Ecology and Evolution of Infectious Diseases program"
+    ],
+    "author": "Katsushi Kagaya; Kenji Mizumoto; Alexander Zarebski; Gerardo Chowell",
+    "date": 2020,
+    "doi": "10.1101/2020.02.20.20025866",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.20.20025866"
+    },
+    "title": "Estimating the Asymptomatic Proportion of 2019 Novel Coronavirus onboard the Princess Cruises Ship, 2020",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Japan Society for the Promotion of Science",
+                    "award-id": [
+                        "18K17368"
+                    ]
+                },
+                {
+                    "funding-source": "KAKENHI Grant Number",
+                    "award-id": [
+                        "18K17368"
+                    ]
+                },
+                {
+                    "funding-source": "Leading Initiative for Excellent Young Researchers from the Ministry of Education, Culture"
+                },
+                {
+                    "funding-source": "Science & Technology of Japan"
+                }
+            ],
+            "funding-statement": "KM acknowledges support from the Japan Society for the Promotion of Science (JSPS) KAKENHI Grant Number 18K17368 and from the Leading Initiative for Excellent Young Researchers from the Ministry of Education, Culture, Sport, Science & Technology of Japan"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "JSPS KAKENHI Grant Number",
+                    "award-id": [
+                        "18K19336",
+                        "19H05330"
+                    ]
+                }
+            ],
+            "funding-statement": "KK acknowledges support from the JSPS KAKENHI Grant Number 18K19336 and 19H05330"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "1414374"
+                    ]
+                },
+                {
+                    "funding-source": "NSF-NIH-USDA Ecology and Evolution of Infectious Diseases"
+                }
+            ],
+            "funding-statement": "GC acknowledges support from NSF grant 1414374 as part of the joint NSF-NIH-USDA Ecology and Evolution of Infectious Diseases program"
+        }
+    ]
+}

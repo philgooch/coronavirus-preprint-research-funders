@@ -1,0 +1,26 @@
+{
+    "abstract": "In this research, an optimized deep learning method was proposed to explore the possibility and practicality of neural net-work applications in medical imaging. The method was used to achieve the goal of judging common pneumonia and even COVID-19 more effectively. Where, the genetic algorithm was taken advantage to optimize the Dropout module, which is essential in neural networks so as to improve the performance of typical neural network models. The experiment results demonstrate that the proposed method shows excellent performance and strong practicability in judging pneumonia, and the application of advanced artificial intelligence technology in the field of medical imaging has broad prospects.",
+    "affiliations": [
+        "National Natural Science Foundation of China (61075075,61110306140)"
+    ],
+    "author": "Zihan Zeng; Bo Wang; Zhiwen Zhao",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20072637",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20072637"
+    },
+    "title": "Research on CNN-based Models Optimized by Genetic Algorithm and Application in the Diagnosis of Pneumonia and COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "61075075,61110306140"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Natural Science Foundation of China (61075075,61110306140)"
+        }
+    ]
+}

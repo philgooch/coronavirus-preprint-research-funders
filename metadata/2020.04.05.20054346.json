@@ -1,0 +1,16 @@
+{
+    "abstract": "The goal of this study is to establish a general framework for predicting the so-called critical Turning Period in an infectious disease epidemic such as the COVID-19 outbreak in China early this year. This framework enabled a timely prediction of the turning period when applied to Wuhan COVID-19 epidemic and informed the relevant authority for taking appropriate and timely actions to control the epidemic. It is expected to provide insightful information on turning period for the world's current battle against the COVID-19 pandemic. The underlying mathematical model in our framework is the individual Susceptible-Exposed-Infective-Removed (iSEIR) model, which is a set of differential equations extending the classic SEIR model. We used the observed daily cases of COVID-19 in Wuhan from February 6 to 10, 2020 as the input to the iSEIR model and were able to generate the trajectory of COVID-19 cases dynamics for the following days at midnight of February 10 based on the updated model, from which we predicted that the turning period of CIVID-19 outbreak in Wuhan would arrive within one week after February 14. This prediction turned to be timely and accurate, providing adequate time for the government, hospitals, essential industry sectors and services to meet peak demands and to prepare aftermath planning. Our study also supports the observed effectiveness on flatting the epidemic curve by decisively imposing the Lockdown and Isolation Control Program in Wuhan since January 23, 2020. The Wuhan experience provides an exemplary lesson for the whole world to learn in combating COVID-19.",
+    "author": "Yudi Gu; Lan Di; Xiaosong Qian; Guoqi Qian; George X Yuan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.05.20054346",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.05.20054346"
+    },
+    "title": "The Framework for the Prediction of the Critical Turning Period for Outbreak of COVID-19 Spread in China based on the iSEIR Model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding supporting."
+        }
+    ]
+}

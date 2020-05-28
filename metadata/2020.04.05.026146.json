@@ -1,0 +1,22 @@
+{
+    "title": "CovProfile: profiling the viral genome and gene expressions of SARS-COV-2",
+    "author": "Yonghan Yu, Zhengtu Li, Yinhu Li, Le Yu, Wenlong Jia, Yiqi Jiang, Feng Ye,* Shuai Cheng Li",
+    "date": 2020,
+    "affiliations": [
+        "City University of Hong Kong Shenzhen Research Institute",
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou 510120, China",
+        "Beijing YuanShengKangTai (ProtoDNA) Genetech Co. Ltd., Beijing 100190, China",
+        "The authors contributed equally to the work"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.05.026146",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.05.026146.pdf"
+    },
+    "abstract": "The SARS-CoV-2 virus has infected more than one million people worldwide to date. Knowing its genome and gene expressions is essential to understand the virus\u2019 mechanism. Here, we propose a computational tool CovProfile to detect the viral genomic variations as well as viral gene expressions from the sequences obtained from Nanopore devices. We applied CovProfile to 11 samples, each from a terminally ill patient, and discovered that all the patients are infected by multiple viral strains, which might affect the reliability of phylogenetic analysis. Moreover, the expression of viral genes ORF1ab gene, S gene, M gene, and N gene are high among most of the samples. While performing the tests, we noticed a consistent abundance of transcript segments of MUC5B, presumably from the host, across all the samples.",
+    "funding": [
+        {}
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "abstract": "COVID-19 has become a global pandemic, resulting in nearly three hundred thousand deaths distributed heterogeneously across countries. Estimating the infection fatality rate (IFR) has been elusive due to the presence of asymptomatic or mildly symptomatic infections and lack of testing capacity. We analyze global data to derive the IFR of COVID-19. Estimates of COVID-19 IFR in each country or locality differ due to variable sampling regimes, demographics, and healthcare resources. We present a novel statistical approach based on sampling effort and the reported case fatality rate of each country. The asymptote of this function gives the global IFR. Applying this asymptotic estimator to cumulative COVID-19 data from 139 countries reveals a global IFR of 1.04% (CI: 0.77%,1.38%). Deviation of countries' reported CFR from the estimator does not correlate with demography or per capita GDP, suggesting variation is due to differing testing regimes or reporting guidelines by country. Estimates of IFR through seroprevalence studies and point estimates from case studies or sub-sampled populations are limited by sample coverage and cannot inform a global IFR, as mortality is known to vary dramatically by age and treatment availability. Our estimated IFR aligns with many previous estimates and is the first attempt at a global estimate of COVID-19 IFR.",
+    "affiliations": [
+        "Stanford Biology Department"
+    ],
+    "author": "Giulio De Leo; Richard Grewelle",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20098780",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20098780"
+    },
+    "title": "Estimating the Global Infection Fatality Rate of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Stanford Graduate Fellowship and Stanford Biology Department"
+                }
+            ],
+            "funding-statement": "REG is funded by the Stanford Graduate Fellowship and Stanford Biology Department"
+        }
+    ]
+}

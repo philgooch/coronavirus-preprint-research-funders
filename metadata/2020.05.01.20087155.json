@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: In Japan, as a countermeasure against the COVID-19 outbreak, voluntary restrictions against going out (VRG) from a residence were announced from the end of March by national and local governments in preference to lockdowns like those instituted in European and North American countries. Object: We examined some associations among going out information provided by Apple Inc. and estimated an effective reproduction number R(t). Method: We regressed R(t) on a polynomial function of daily Apple Inc. data. From estimation using the whole period, the sub-periods delimited by March 10 were analyzed. Results: Estimation results indicate R(t) as 1.72 if VRG ceases and mobility reverts to a normal level. However, the critical level of R(t)<1 was achieved at a 89.3% of the normal level of mobility. Discussion and Conclusion: Results indicate that a 10% reduction from the normal number of trips will be necessary until herd immunity is achieved. Complete cessation of VRG might not be necessary to avoid re-emergence of the outbreak.\nCompeting Interest Statement",
+    "author": "Yasushi Ohkusa; Junko Kurita; Tamie Sugawara",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087155",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087155"
+    },
+    "title": "Evaluating Apple Inc. mobility trend data related to the COVID\u221219 outbreak in Japan",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The author(s) received no specific funding for this work."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Understanding olfactory dysfunction in COVID-19: Expression of ACE2, TMPRSS2 and Furin in the nose and olfactory bulb in human and mice",
+    "author": "Short Summary: ACE, TMPRSS, and Furin expression patterns suggest sensorineural dysfunction without olfactory neuronal damage in COVID-19-associated anosmia",
+    "date": 2020,
+    "affiliations": [
+        "Department of Otolaryngology and Head and Neck Surgery, Faculty of Medicine, the"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.15.097352",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.15.097352.pdf"
+    },
+    "abstract": "2 Background: Anosmia is a frequent symptom in coronavirus disease 2019 (COVID-19) patients 3 that generally resolves within weeks. In contrast, the anosmia caused by other upper respiratory 4 infections affects a small proportion of patients and may take months to resolve or never resolve. 5 The mechanisms behind COVID-19-induced olfactory dysfunction remain unknown. Here, we 6 address the unique pathophysiology of COVID-19-associated olfactory dysfunction. 7 8 Methods: The expression of ACE2 (virus binding receptor) and TMPRSS2 and Furin (host cell 9 proteases facilitating virus entry) was examined in the nasal mucosa, composed of respiratory mucosa (RM), olfactory mucosa (OM), and olfactory bulb (OB) of mouse and human tissues using immunohistochemistry and gene analyses. 13 Results: Co-expression of ACE2, TMPRSS2, and Furin was observed in the RM and in the OM, especially in the supporting cells of the olfactory epithelium and the Bowman\u2019s glands. Notably, the olfactory receptor neurons (ORNs) in the OM were positive for ACE2 but almost negative for TMPRSS2 and Furin. Cells in the OB expressed ACE2 strongly and Furin weakly, and did not express TMPRSS2. All three gene expressions were confirmed in the nasal mucosa and OB.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "JSPS KAKENHI Grant-in-Aid for Scientific Research",
+                    "award-id": [
+                        "24791749",
+                        "16K20231"
+                    ]
+                },
+                {
+                    "funding-source": "Smoking Research Foundation",
+                    "award-id": [
+                        "Tokyo",
+                        "Japan"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by JSPS KAKENHI Grant-in-Aid for Scientific Research [grant number 24791749, 16K20231] and by the Smoking Research Foundation (Tokyo, Japan). Author contributions: R.U. developed the concept, designed and performed the experiments, and wrote the draft of the manuscript. R.K. and S.S. designed and performed the experiments. S.U. performed the experiments and wrote partially the draft of the manuscript. K.K, and T.Y."
+        }
+    ]
+}

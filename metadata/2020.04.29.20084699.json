@@ -1,0 +1,26 @@
+{
+    "abstract": "This paper develops an agent-level simulation model, termed ALPS, for simulating the spread of an infectious disease in a confined community. The mechanism of transmission is agent-to-agent contact, using parameters reported for Corona COVID-19 pandemic. The main goal of the ALPS simulation is analyze effects of preventive measures -- imposition and lifting of lockdown norms -- on the rates of infections, fatalities and recoveries. The model assumptions and choices represent a balance between competing demands of being realistic and being efficient for real-time inferences. The model provides quantification of gains in reducing casualties by imposition and maintenance of restrictive measures in place.",
+    "author": "Anuj Srivastava",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20084699",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20084699"
+    },
+    "title": "Agent-Level Pandemic Simulation (ALPS) for Analyzing Effects of Lockdown Measures",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF DMS-1621787",
+                    "award-id": [
+                        "DMS-1953087"
+                    ]
+                },
+                {
+                    "funding-source": "NSF DMS-1953087"
+                }
+            ],
+            "funding-statement": "This research was supported in part by the grants NSF DMS-1621787 and NSF DMS-1953087"
+        }
+    ]
+}

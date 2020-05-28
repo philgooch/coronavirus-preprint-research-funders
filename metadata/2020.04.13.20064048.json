@@ -1,0 +1,16 @@
+{
+    "abstract": "Based on a new concept called Turning Period,the goal of this report is to show how we can conduct the prediction for the outlook in the different stages for the battle with outbreak of COVID-19 currently in US, in particular, to identify when each of top 15 states in USA (basically on their populations) is going to enter into the stage that the outbreak of COVID-19 is under the control by the criteria such as daily change of new patients is less than 10% smoothly. Indeed, based on the data of April 10, 2020 with the numerical analysis, we are able to classify 15 states of US into the following four different categories for the Prevention and Control of Infectious Diseases Today and the main conclusion are: First, staring around April 14, 20202, three states which are Washington State, Louisiana and Indiana are entering the stage that the outbreak of COVID-19 is under the control, which means daily change of new patients is less than 10% and the gamma is less than zero in general. Second, staring around April 15, 20202, two states which are New Jersey, and New York are entering the stage that the outbreak of COVID-19 is under the control, which means daily change of new patients is less than 10% and the gamma is less than zero in general. Third, staring around April 16, 20202, seven states which are California, Florida, Georgia (GA), Illinois, Maryland, Indiana, Michigan, and Pennsylvania are entering the stage that the outbreak of COVID-19 is under the control, which means daily change of new patients is less than 10% and the gamma is less than zero in general. Fourth, staring around April 17, 20202, three states which are Texas, Massachusetts, and Connecticut are entering the stage that the outbreak of COVID-19 is under the control, which means daily change of new patients is less than 10% and the gamma is less than zero in general. Finally, we want to reinforce that emergency risk management is always associated with the implementation of an emergency plan. The identification of the Turning Time Period is key to emergency planning as it provides a timeline for effective actions and solutions to combat a pandemic by reducing as much unexpected risk as soon as possible.",
+    "author": "Yudi Gu; Lan Di; Xiaosong Qian; Guoqi Qian; George X Yuan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20064048",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20064048"
+    },
+    "title": "The Prediction for the Outbreak of COVID-19 for 15 States in USA by Using Turning Phase Concepts as of April 10, 2020",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No."
+        }
+    ]
+}

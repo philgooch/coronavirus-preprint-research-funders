@@ -1,0 +1,16 @@
+{
+    "abstract": "We predict the evolution of the COVID-19 pandemic in several countries by using a regression-based predictive model. In particular, the growth rate of the infection has been fitted as an exponential decay, as compared to a linear decay, reported previously. The model has been validated with the data of China and South Korea, where the pandemic is nearing to its end. The data of Italy, Germany, Spain, and Sweden show that the peak of the infection has reached i.e. a time when the new infections will start to decrease as compared to the previous day. The model predicts the approximate number of total infections at the end of the outbreak. The model prediction of the USA, and Brazil show that the peak will reach in the next two-three weeks. The total number of infections in the USA is estimated to be around 4 million by the model. The reported data of India show the start of disease evolution, with a large initial scatter in the growth rate. The possible peak date and the total number of infections are predicted using the data available.",
+    "author": "Rajneesh Bhardwaj",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063271",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063271"
+    },
+    "title": "A Predictive Model for the Evolution of COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this work."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "abstract": "Background The coronavirus disease 2019 (COVID-19) pandemic presents significant safety challenges to healthcare professionals. In some jurisdictions, over 10% of confirmed cases of COVID-19 have been found among healthcare workers. Aerosol-generating medical procedures (AGMPs) may increase the risk of nosocomial transmission, exacerbated by present global shortages of personal protective equipment (PPE). Improved methods for mitigating risk during AGMPs are therefore urgently needed. Methods The Aerosol Containment Enclosure (ACE) was constructed from acrylic with silicone gaskets for arm port seals and completed with a thin plastic sheet. Hospital wall suction generated negative pressure within the ACE. To evaluate protective capability, differential pressures were recorded under static conditions and during simulated AGMPs. Smoke flow patterns, fluorescence aerosolization, and sodium saccharin aerosolization tests were also conducted. Results Negative pressures of up to \u221247.7 mmH2O were obtained using the enclosure with two wall suction units (combined outflow of 70 L min\u22121), with inflow of O2 of 15 L min\u22121. Negative pressures between \u221210 and \u221235 mmH2O were maintained during simulated AGMPs, including oxygen delivery by mask, airway suctioning, bag-mask manual ventilation and endotracheal intubation of a potential COVID-19 patient. The ACE effectively contained smoke, fluorescein aerosol, and sodium saccharin aerosol within the enclosure during use. Conclusions The ACE is capable of maintaining negative pressure during simulated AGMPs. In all cases, containment was improved relative to an identical enclosure with non-occluded ports at ambient pressure. During the current COVID-19 pandemic, the use of such a device may assist in reducing nosocomial infections among healthcare providers.",
+    "author": "Anthony M. Chahal; Erin Fukushima; Robert Gooch; Kenneth Van Dewark; Zachary M. Hudson",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20063958",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20063958"
+    },
+    "title": "A Rapidly Deployable Negative Pressure Enclosure for Aerosol-Generating Medical Procedures",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Natural Sciences and Engineering Council"
+                }
+            ],
+            "funding-statement": "The authors acknowledge the Natural Sciences and Engineering Council (NSERC) of Canada for financial support"
+        }
+    ]
+}

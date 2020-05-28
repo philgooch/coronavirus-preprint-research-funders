@@ -1,0 +1,35 @@
+{
+    "title": "Molecular Docking Analysis of Some Phytochemicals on Two Sars-Cov-2 Targets",
+    "author": "7 Amaka Ubani, Francis Agwom, Nathan Yakubu Shehu, Pam Luka, Arinze",
+    "date": 2020,
+    "affiliations": [
+        "Department of Pharmaceutical & Medicinal Chemistry, Faculty of",
+        "Pharmaceutical Sciences, University of Jos, Nigeria",
+        "Department of Medicine, Jos University Teaching Hospital, Jos Plateau State",
+        "Biotechnology Centre, National Veterinary Research Institute, Vom. Nigeria",
+        "African Centre of Excellence in Phytomedicine Research and development"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.31.017657",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.31.017657.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (previously called 2019 novel coronavirus (2019-nCoV) is the causative agent of coronavirus disease 2019 (COVID-19), a disease recently declared a global public health emergency by the World Health Organization. At the moment there is no available drug(s) and vaccine(s) for the treatment or prevention of COVID-19. SARS-CoV-2 spike envelope glycoprotein (S) and main protease (Mpro) are crucial determinants in the virus infectious process and have been recognized as key targets for therapeutics designs. In the present in silico study, a library of 22 phytochemicals with antiviral activity obtained from PubChem Database was screened for activity against 6lu7 and 6vsb with the PyRX software. Six lead compounds with binding energies within the range of -9 to -9.6 Kcal/mol were selected for molecular docking analyses against 6lu7. SwissADMET and Molinspiration Cheminformatics for CLogP (mean range of 0.77-8.72) of the lead compounds showed no correlation observed between lipophilicity and interaction with receptors and all the compounds except for baicalin exhibited drug-like properties based on Lipinski and Veber filter. The ADMET profile showed that lead compounds lack hepatotoxicity and mutagenicity effects while",
+    "keywords": [
+        "45 pro"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "ACE126974"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was funded by World bank-IDA, grant number ACE126974\u201d given to J.C.A."
+        }
+    ]
+}

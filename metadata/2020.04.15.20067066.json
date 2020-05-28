@@ -1,0 +1,26 @@
+{
+    "abstract": "Establishing how many people have already been infected by SARS-CoV-2 is an urgent priority for controlling the COVID-19 pandemic. Patchy virological testing has hampered interpretation of confirmed case counts, and unknown rates of asymptomatic and mild infections make it challenging to develop evidence-based public health policies. Serological tests that identify past infection can be used to estimate cumulative incidence, but the relative accuracy and robustness of various sampling strategies has been unclear. Here, we used a flexible framework that integrates uncertainty from test characteristics, sample size, and heterogeneity in seroprevalence across tested subpopulations to compare estimates from sampling schemes. Using the same framework and making the assumption that serological positivity indicates immune protection, we propagated these estimates and uncertainty through dynamical models to assess the uncertainty in the epidemiological parameters needed to evaluate public health interventions. We examined the relative accuracy of convenience samples versus structured surveys to estimate population seroprevalence, and found that sampling schemes informed by demographics and contact networks outperform uniform sampling. The framework can be adapted to optimize the design of serological surveys given particular test characteristics and capacity, population demography, sampling strategy, and modeling approach, and can be tailored to support decision-making around introducing or removing interventions.",
+    "affiliations": [
+        "Fund for the Center for Communicable Disease Dynamics at the Harvard T.H. Chan School of Public Health"
+    ],
+    "author": "C. Jessica E. Metcalf; Kate M Bubar; Caroline Buckee; Bailey K Fosdick; Daniel B Larremore; Yonatan Grad; Stephen M Kissler; Sam Zhang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20067066",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20067066"
+    },
+    "title": "Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Morris-Singer Fund for the Center for Communicable Disease Dynamics"
+                },
+                {
+                    "funding-source": "Harvard T.H"
+                }
+            ],
+            "funding-statement": "The work was supported in part by the Morris-Singer Fund for the Center for Communicable Disease Dynamics at the Harvard T.H"
+        }
+    ]
+}

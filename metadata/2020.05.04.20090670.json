@@ -1,0 +1,29 @@
+{
+    "abstract": "In March and April 2020, control measures enforcing social distancing and restricting individual movement and contact were adopted across the United States in an effort to slow the spread and growth of COVID-19. However, a number of states have now begun to ease these restrictions. Here, we evaluate the effects of loosening stay-at-home orders on COVID-19 incidence and related outcomes. We use a metapopulation model applied at county resolution to simulate the spread and growth of COVID-19 incidence in the United States. We calibrate the model against county-level daily case and death data collected from February 21, 2020 to May 2, 2020, and project the outbreak in 3,142 US counties for 6 weeks into the future. Projections for daily reported cases, daily new infections (both reported and unreported), new and cumulative hospital bed demand, ICU bed and ventilator demand, as well as daily mortality, are generated. We observe a rebound in COVID-19 incidence and deaths beginning in late May, approximately 2 to 4 weeks after states begin to reopen. Importantly, the lag between infection acquisition and case confirmation, coupled with insufficient broader testing and contact tracing, will mask any rebound and exponential growth of the COVID-19 until it is well underway.",
+    "author": "Sen Pei; Jeffrey Shaman; Sasikiran Kandula; Teresa Yamana",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090670",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090670"
+    },
+    "title": "Projection of COVID-19 Cases and Deaths in the US as Individual States Re-open May 4,2020",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "US NIH",
+                    "award-id": [
+                        "GM110748"
+                    ]
+                },
+                {
+                    "funding-source": "US NSF RAPID",
+                    "award-id": [
+                        "DMS2027369"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by US NIH grant GM110748 and US NSF RAPID grant DMS2027369"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "title": "Growth factor receptor signaling inhibition prevents SARS-CoV-2 replication",
+    "author": "Windows User",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Biochemistry II, Faculty of Medicine, Goethe University, Frankfurt am Main, Germany",
+        "Institute of Medical Virology, University Hospital Frankfurt, Frankfurt am Main, Germany",
+        "German Centre for Infection Research (DZIF), External partner site Frankfurt, Germany",
+        "Frankfurt Cancer Institute, Frankfurt am Main, Germany; Cardio-Pulmonary Institute, Frankfurt am Main, Germany; lead author"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.095661",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.095661.pdf"
+    },
+    "abstract": "SARS-CoV-2 infections are rapidly spreading around the globe. The rapid development of therapies is of major importance. However, our lack of understanding of the molecular processes and host cell signaling events underlying SARS-CoV-2 infection hinder therapy 20 development. We employed a SARS-CoV-2 infection system in permissible human cells to study signaling changes by phospho-proteomics. We identified viral protein phosphorylation and defined phosphorylation-driven host cell signaling changes upon infection. Growth factor receptor (GFR) signaling and downstream pathways were activated. Drug-protein network analyses revealed GFR signaling as key pathway 25 targetable by approved drugs. Inhibition of GFR downstream signaling by five compounds prevented SARS-CoV-2 replication in cells, assessed by cytopathic effect, viral dsRNA production, and viral RNA release into the supernatant. This study describes host cell signaling events upon SARS-CoV-2 infection and reveals GFR signaling as central pathway essential for SARS-CoV-2 replication. It provides with novel strategies for 30 COVID-19 treatment.",
+    "keywords": [
+        "SARS-CoV-2",
+        "Proteomics",
+        "Signaling",
+        "Phosphoproteomics",
+        "COVID-19"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Research Council"
+                },
+                {
+                    "funding-source": "European Union\u2019s Seventh Framework Programme",
+                    "award-id": [
+                        "ERC StG 803565",
+                        "CRC1177"
+                    ]
+                },
+                {
+                    "funding-source": "ERC StG",
+                    "award-id": [
+                        "803565",
+                        "CRC1177"
+                    ]
+                },
+                {
+                    "funding-source": "Emmy Noether Programme of the Deutsche Forschungsgemeinschaft",
+                    "award-id": [
+                        "MU 4216/1-1"
+                    ]
+                },
+                {
+                    "funding-source": "Johanna Quandt Young Academy"
+                },
+                {
+                    "funding-source": "Aventis Foundation Bridge Award."
+                },
+                {
+                    "funding-source": "Kinder Frankfurt"
+                },
+                {
+                    "funding-source": "Frankfurter Stiftung"
+                },
+                {
+                    "funding-source": "Formal Analysis,"
+                },
+                {
+                    "funding-source": "Data Curation,"
+                },
+                {
+                    "funding-source": "Original Draft,"
+                },
+                {
+                    "funding-source": "Review and Editing,"
+                },
+                {
+                    "funding-source": "Funding Acquisition,"
+                }
+            ],
+            "funding-statement": "260 C.M. was supported by the European Research Council under the European Union\u2019s Seventh Framework Programme (ERC StG 803565), CRC1177 and the Emmy Noether Programme of the Deutsche Forschungsgemeinschaft (DFG, MU 4216/1-1), the Johanna Quandt Young Academy at Goethe, and Aventis Foundation Bridge Award. J.C. was funded by the Hilfe f\u00fcr krebskranke Kinder Frankfurt e.V. and the Frankfurter Stiftung f\u00fcr krebskranke Kinder. 265 Author contributions Conceptualization, K.K., D.B., C.M., and J.C.; Methodology, K.K. and D.B.; Software, K.K.; Formal Analysis, K.K. and G.T.; Investigation, K.K., D.B., and J.C.; Resources, S.C., C.M., and J.C.; Data Curation, K.K.; Writing \u2013 Original Draft, K.K. and C.M.; Writing \u2013 Review and Editing, K.K., D.B., G.T., C.M., and J.C.; Visualization, K.K.; Supervision, C.M. and J.C.; Project 270 Administration, C.M. and J.C.; Funding Acquisition, S.C., C.M., and J.C."
+        }
+    ]
+}

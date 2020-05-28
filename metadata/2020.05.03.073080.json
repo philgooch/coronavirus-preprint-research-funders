@@ -1,0 +1,59 @@
+{
+    "title": "Feline coronavirus drug inhibits the main protease of SARS-CoV-2 and blocks virus replication",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "3CLpro",
+        "coronavirus",
+        "main protease",
+        "kinetics",
+        "SARS"
+    ],
+    "author": "Joanne Lemieux",
+    "date": 2020,
+    "affiliations": [
+        "Department of Chemistry, Faculty of Science, University of Alberta, Edmonton T6G 2G2, Alberta, Canada",
+        "Department of Biochemistry, Faculty of Medicine and Dentistry, Membrane Protein Disease Research Group, University of Alberta, Edmonton T6G 2R3, Alberta, Canada",
+        "Department of Medical Microbiology and Immunology, Faculty of Medicine and Dentistry, University of Alberta, Edmonton T6G 2R3, Alberta, Canada 4 Li Ka Shing Institute of Virology, Faculty of Medicine and Dentistry, University of Alberta, Edmonton T6G 2E1, Alberta, Canada"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.03.073080",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.03.073080.pdf"
+    },
+    "abstract": "The COVID-19 pandemic, attributed to the SARS-CoV-2 coronavirus infection, resulted in millions infected worldwide and an immediate need for antiviral treatments. The main protease (Mpro) in SARS-CoV-2 is a viable drug target because of its essential role in the cleavage of the virus polypeptide and subsequent viral replication. Feline infectious peritonitis, a fatal infection in cats caused by a coronavirus, was successfully treated previously with a dipeptide-based protease inhibitor. Here we show this drug, GC376, and its analog GC373, are effective inhibitors of the Mpro from both SARS-CoV and SARS-CoV-2 with IC50 values in the nanomolar range. Crystal structures of the SARS-CoV and SARS-CoV-2 Mpro with these inhibitors have a covalent modification of the nucleophilic Cys145. NMR analysis reveals that inhibition proceeds via reversible formation of a hemithioacetal. GC373 and GC376 are potent inhibitors of SARSCoV-2 in cell culture, with EC50 values near one micromolar and little to no toxicity. These protease inhibitors are soluble, non-toxic, and bind reversibly. They are strong drug candidates for the treatment of human coronavirus infections because they have already been successful in animals (cats). The work here lays the framework for their use in human trials for the treatment of COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "CIHR and NSERC",
+                    "award-id": [
+                        "COVID-19 SOF-549297-2019"
+                    ]
+                }
+            ],
+            "funding-statement": "M.J.L, J.C.V and D.L.T. acknowledge funding from CIHR and NSERC (COVID-19 SOF-549297-2019)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Li Ka Shing Institute of Virology and the GSK Chair in Virology"
+                }
+            ],
+            "funding-statement": "D.L.T acknowledges support from Li Ka Shing Institute of Virology and the GSK Chair in Virology"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Alberta Innovates Graduate Scholarship and T.L."
+                },
+                {
+                    "funding-source": "CIHR CGSM Scholarship"
+                }
+            ],
+            "funding-statement": "W.V. was supported by an Alberta Innovates Graduate Scholarship and T.L. by a CIHR CGSM Scholarship"
+        }
+    ]
+}

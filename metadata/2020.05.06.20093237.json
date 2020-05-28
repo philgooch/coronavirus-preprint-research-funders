@@ -1,0 +1,16 @@
+{
+    "abstract": "An outbreak of a novel human coronavirus infection emerged in Wuhan, China in December 2019. Two months later, the World Health Organization (WHO) announced SARS-CoV-2 as the name for the new virus and COVID-19 for the associated illness. On March 12, 2020, the WHO officially declared COVID-19 as a pandemic. The scientific community has raced to find effective therapeutic agents against the virus. Gautret et al 2020 is among one of the first purportedly positive trials of hydroxychloroquine for the treatment of COVID-19. However, it is imperative that a thorough analysis and understanding of trial data be undertaken prior to making claims about safety and efficacy. Our group assessed the statistical robustness of the trial using the Fragility Index (FI). The FI provides a numerical quantification of a clinical trial's conclusions. The index is based on iterative statistical calculations to determine the minimum number of events within a trial that would theoretically need to change from positive to negative in order for the trial's endpoint to convert from significant to non-significant; the higher the index, the more statistically robust the study results. For the Gautret et al trial, one endpoint had an FI of 1, two had indices of 2, and another had an index of 4. The primary endpoint of viral clearance on day 6 had an FI of 4. This indicates that if 4 events were to change from positive to negative, the conclusion of the trial would become mathematically non-significant. This index is comparable to many other published trials of established agents; the median FI across the reported literature appears to be 2. In conclusion, the trial results reported by Gautret et al are statistically robust, assuming that data quality is not compromised; however, the study was an open-label trial with non-homogenous groups, with analysis conducted per-protocol. Additionally, SARS-CoV-2 Reverse Transcriptase-PCR (RT-PCR) testing was not conducted in a systematic way amongst the two groups. Further analyses of this trial and future trials of antiviral agents with potential activity against SARS-CoV-2 should be performed with complementary epidemiologic and statistical techniques to determine whether the trial's results are clinically important and/or should be explored in depth. Given the statistically robust results reported by Gautret et al, despite the study's inherent methodological and analytical flaws, hydroxychloroquine should be studied as a potential agent against COVID-19 in larger clinical trials.",
+    "author": "Michael Lock; Sameer Elsayed; Ronald Chow",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093237",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093237"
+    },
+    "title": "How robust are the results of one of the first positive trials exploring hydroxychloroquine for treatment of COVID-19?",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

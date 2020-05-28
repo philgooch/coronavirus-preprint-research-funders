@@ -1,0 +1,61 @@
+{
+    "abstract": "The current reference for COVID-19 diagnosis is based on the detection of SARS-CoV-2 on RNA extracts using one-step retrotranscription and quantitative PCR (RT-qPCR). Based on the urgent need for high-throughput COVID-19 screening, we tested the performance of three alternative, simple and affordable protocols to rapidly detect SARS-CoV-2, overcoming the long and tedious RNA extraction step. Although with an average increase of 6.1 ( \u00b11.6) cycles compared to standard tests with RNA extracts, we show that RT-qPCR yielded consistent results in nasopharyngeal swab samples that were subject to a direct 70\u00b0C incubation for 10 min. Our findings provide viable options to overcome any supply chain issue and help to increase the throughput of diagnostic tests by using any qPCR device, thereby complementing standard COVID-19 testing.",
+    "author": "Rafaela Gonzalez-Montelongo; Antonio Inigo-Campos; The Microbiology Technical Support Team; Helena Gil-Campesino; Laura Ciuffreda; Carlos Flores; Julia Alcoba-Florez; Diego Garcia-Martinez de Artola; Agustin Valenzuela-Fernandez",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20058495",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20058495"
+    },
+    "title": "Fast SARS-CoV-2 detection by RT-qPCR in preheated nasopharyngeal swab samples",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Cabildo Insular de Tenerife",
+                    "award-id": [
+                        "CGIEU0000219140"
+                    ]
+                },
+                {
+                    "funding-source": "Instituto Tecnol\u00f3gico y de Energ\u00edas Renovables"
+                },
+                {
+                    "funding-source": "Personalized Medicine and Biotechnology",
+                    "award-id": [
+                        "OA17/008"
+                    ]
+                },
+                {
+                    "funding-source": "Ministerio de Innovaci\u00f3n y Ciencia",
+                    "award-id": [
+                        "RTI2018-093747-B-I00",
+                        "RTC-2017-6471-1"
+                    ]
+                },
+                {
+                    "funding-source": "European Regional Development Funds",
+                    "award-id": [
+                        "UNLL10-3E-783"
+                    ]
+                },
+                {
+                    "funding-source": "Fundaci\u00f3n CajaCanarias\"",
+                    "award-id": [
+                        "HIV/A"
+                    ]
+                },
+                {
+                    "funding-source": "AIDS Research Network",
+                    "award-id": [
+                        "RIS-RETIC",
+                        "RD16/0025/0011"
+                    ]
+                },
+                {
+                    "funding-source": "Instituto de Salud Carlos III and"
+                }
+            ],
+            "funding-statement": "This study was supported by Cabildo Insular de Tenerife (CGIEU0000219140); the agreement with Instituto Tecnol\u00f3gico y de Energ\u00edas Renovables (ITER) to strengthen scientific and technological education, training, research, development and innovation in Genomics, Personalized Medicine and Biotechnology (OA17/008); Ministerio de Innovaci\u00f3n y Ciencia (RTI2018-093747-B-I00 and RTC-2017-6471-1), co-funded by the European Regional Development Funds (ERDF); Lab P2+ facility (UNLL10-3E-783), co-funded by the ERDF and \"Fundaci\u00f3n CajaCanarias\"; and the Spanish HIV/AIDS Research Network (RIS-RETIC, RD16/0025/0011), co-funded by Instituto de Salud Carlos III and by the ERDF"
+        }
+    ]
+}

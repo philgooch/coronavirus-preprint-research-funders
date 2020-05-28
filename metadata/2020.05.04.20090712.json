@@ -1,0 +1,16 @@
+{
+    "abstract": "The aim of this study was to develop a realistic network model to predict the relationship between lockdown duration and coverage in controlling the progression of the incidence curve of an epidemic with the characteristics of COVID-19 in two scenarios (1) a closed and non-immune population, and (2) a real scenario from State of Rio de Janeiro at May 6th 2020. Effects of lockdown time and rate on the progression of an epidemic incidence curve in a virtual population of 10 thousand subjects. Predictor variables were reproductive values established in the most recent literature (R0 =2.7 and 5.7, and Re = 1.44 for RJ), without lockdown and with coverages of 25%, 50%, and 90% for 21, 35, 70, and 140 days in 13 different scenarios for each R0/Re, where individuals remained infected and transmitters for 14 days. We estimated model validity in theoretical and real scenarios by applying an exponential model on the incidence curve with no lockdown with growth rate coefficient observed in realistic scenarios) and fitting real data serie upon simulated data, respectively. For R0=5.7, the flattening of the curve occurs only with long lockdown periods (70 and 140 days) with a 90% coverage. For R0=2.7, coverages of 25 and 50% also result in curve flattening and reduction of total cases, provided they occur for a long period (70 days or more). Short and soft lockdowns had no relevant effect on incidence or casuistry. For realistic scenario, lockdowns during 140 days show expressive flattening and number of COVID cases two to five times lower. These data corroborate the importance of lockdown duration regardless of virus transmission and sometimes of intensity of coverage.",
+    "author": "Saint Clair Gomes Junior; Dimitri M Abramov",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090712",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090712"
+    },
+    "title": "Multivariate Prediction Network Model for epidemic progression to study the effects of lockdown time and coverage on a closed community on theoretical and real scenarios of COVID-19.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work has no funding support"
+        }
+    ]
+}

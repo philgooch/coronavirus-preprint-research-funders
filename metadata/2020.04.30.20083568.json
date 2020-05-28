@@ -1,0 +1,16 @@
+{
+    "abstract": "We examine the spread of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in Italy, to address the appropriate methodological choices for the design of selective relaxations of the current containment measures. Pressing relevance stems from the need to restart the economy dramatically affected by the lockdown. We employ a spatially explicit, data-intensive model of the patterns of disease spread in Italy, which devotes proper attention to the paramount role of inapparent infections. We aim at providing tools to: estimate the baseline trajectory, i.e. the expected unfolding of the outbreak if the current containment measures were kept in place indefinitely; assess possible deviations from the baseline, should relaxations of the current lockdown result in increased disease transmission; and estimate the isolation effort required to prevent a resurgence of the outbreak. A 40% increase in effective transmission as a result of the loosening of confinement measures would yield an epidemic curve that shows a major rebound, larger than the previous peaks in most regions. A control effort capable of isolating a daily percentage of approximately 5.5% of the exposed and highly infectious individuals proves necessary to counterbalance such an increase and maintain the epidemic curve onto the decreasing baseline trajectory. We explore several scenarios, provide the basic data to design the related control strategies, and discuss their feasibility. Should suitable control via tracing and testing prove unfeasible, stop-and-go enforcement or delay of the lockdown relaxations would be necessary to reduce the isolation effort required to maintain the epidemic trajectory under control.",
+    "author": "Andrea Rinaldo; Stefano Miccoli; Damiano Pasetto; Marino Gatto; Lorenzo Mari; Enrico Bertuzzo; Renato Casagrandi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20083568",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20083568"
+    },
+    "title": "The geography of COVID-19 spread in Italy and implications for the relaxation of confinement measures",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

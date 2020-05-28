@@ -1,0 +1,54 @@
+{
+    "abstract": "The ongoing pandemic caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2, COVID-19) has an estimated overall case fatality ratio of 1.38% in China, being 53% higher in males and increasing exponentially with age. Mosaicism for X chromosome monosomy (XCM) shows a similar increase in aging population mostly driven by loss of chromosome Y in males (LOY), and is associated with a raise in all-cause mortality. Using comparative transcriptomic data, we have defined that XCM/LOY is associated with abnormal peripheral blood cell counts with decreased progenitor cells and multiple biomarkers of immune system dysfunction, pro-coagulation activity and increased cardiovascular risk. Several differentially down-regulated genes in XCM/LOY individuals are involved in the initial immune response to SARS-CoV-2 (OR of enrichment=7.23, p=1.5x10-7), mainly interferon-induced genes that code for inhibitors of viral processes. Thus, our data suggest that XCM mosaicism underlies at least part of the sex-biased severity and mortality of COVID-19 in aging patients. Given its potential relevance for modulating prognosis and therapeutic response, we propose that evaluation of LOY and XCM by currently established methods should be implemented as biomarkers in infected patients, including currently ongoing clinical trials with different medications and vaccines for COVID-19. Testing for LOY/XCM at large scale among elderly people may also be helpful to identify still unexposed people who may be especially vulnerable to severe Covid-19 disease.",
+    "affiliations": [
+        "Catalan Department of Economy and Knowledge (SGR2017/1974, SGR2017/801) and the Spanish Ministry of Science \u201cPrograma de Excelencia Mar\u00eda de Maeztu\u201d (MDM-2014-0370) and \u201cCentro de Excelencia Severo Ochoa\u201d (CEX2018-000806-S), the Fondo Europeo de Desarrollo Regional, UE (RTI2018-100789-B-I00) and the Estonian Research Council (PUT1660). Authors also receive support from the Generalitat de Catalunya through the CERCA Program"
+    ],
+    "author": "Luis A Perez-Jurado; Alejandro Caceres; Juan R Gonzalez; Tonu Esko",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071357",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071357"
+    },
+    "title": "Immune defects and cardiovascular risk in X chromosome monosomy mosaicism mediated by loss of chromosome Y. A risk factor for SARS-CoV-2 vulnerability in elderly men?",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Catalan Department of Economy and Knowledge",
+                    "award-id": [
+                        "SGR2017/1974",
+                        "SGR2017/801"
+                    ]
+                },
+                {
+                    "funding-source": "Spanish Ministry of Science"
+                },
+                {
+                    "funding-source": "Programa de Excelencia Mar\u00eda de Maeztu\u201d",
+                    "award-id": [
+                        "MDM-2014-0370"
+                    ]
+                },
+                {
+                    "funding-source": "Centro de Excelencia Severo Ochoa\u201d",
+                    "award-id": [
+                        "CEX2018-000806-S"
+                    ]
+                },
+                {
+                    "funding-source": "Fondo Europeo de Desarrollo Regional, UE",
+                    "award-id": [
+                        "RTI2018-100789-B-I00"
+                    ]
+                },
+                {
+                    "funding-source": "Estonian Research Council",
+                    "award-id": [
+                        "PUT1660"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors acknowledge support from the Catalan Department of Economy and Knowledge (SGR2017/1974, SGR2017/801) and the Spanish Ministry of Science \u201cPrograma de Excelencia Mar\u00eda de Maeztu\u201d (MDM-2014-0370) and \u201cCentro de Excelencia Severo Ochoa\u201d (CEX2018-000806-S), the Fondo Europeo de Desarrollo Regional, UE (RTI2018-100789-B-I00) and the Estonian Research Council (PUT1660)"
+        }
+    ]
+}

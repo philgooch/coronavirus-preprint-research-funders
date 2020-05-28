@@ -1,0 +1,29 @@
+{
+    "abstract": "Background This study presents two simulation modelling tools to support the organisation of networks of dialysis services during the COVID-19 pandemic. These tools were developed to support renal services in the South of England (the Wessex region caring for 650 patients), but are applicable elsewhere. Methods A discrete-event simulation was used to model a worst case spread of COVID-19 (80% infected over three months), to stress-test plans for dialysis provision throughout the COVID-19 outbreak. We investigated the ability of the system to manage the mix of COVID-19 positive and negative patients, and examined the likely effects on patients, outpatient workloads across all units, and inpatient workload at the centralised COVID-positive inpatient unit. A second Monte-Carlo vehicle routing model estimated the feasibility of patient transport plans and relaxing the current policy of single COVID-19 patient transport to allow up to four infected patients at a time. Results If current outpatient capacity is maintained there is sufficient capacity in the South of England to keep COVID-19 negative/recovered and positive patients in separate sessions, but rapid reallocation of patients may be needed (as sessions are cleared of negative/recovered patients to enable that session to be dedicated to positive patients). Outpatient COVID-19 cases will spillover to a secondary site while other sites will experience a reduction in workload. The primary site chosen to manage infected patients will experience a significant increase in outpatients and in-patients. At the peak of infection, it is predicted there will be up to 140 COVID-19 positive patients with 40 to 90 of these as inpatients, likely breaching current inpatient capacity (and possibly leading to a need for temporary movement of dialysis equipment). Patient transport services will also come under considerable pressure. If patient transport operates on a policy of one positive patient at a time, and two-way transport is needed, a likely scenario estimates 80 ambulance drive time hours per day (not including fixed drop-off and ambulance cleaning times). Relaxing policies on individual patient transport to 2-4 patients per trip can save 40-60% of drive time. In mixed urban/rural geographies steps may need to be taken to temporarily accommodate renal COVID-19 positive patients closer to treatment facilities. Conclusions Discrete-event simulation simulation and Monte-Carlo vehicle routing model provides a useful method for stress-testing inpatient and outpatient clinical systems prior to peak COVID-19 workloads.",
+    "affiliations": [
+        "National Institute for Health Research (NIHR) Applied Research Collaboration South West Peninsula. The views expressed in this publication are those of the author(s) and not necessarily those of the National Health Service, the NIHR, or the Department of Health and Social Care"
+    ],
+    "author": "Thomas Monks; Michael Allen; Steven Dudfield; Jonas Willemsen; Stuart Logan; Amir Bhanji",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075457",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075457"
+    },
+    "title": "Organising outpatient dialysis services during the COVID-19 pandemic. A simulation and mathematical modelling study.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Applied Research Collaboration South West Peninsula"
+                }
+            ],
+            "funding-statement": "This article presents independent research funded by the National Institute for Health Research (NIHR) Applied Research Collaboration South West Peninsula"
+        }
+    ]
+}

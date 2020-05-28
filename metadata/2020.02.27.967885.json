@@ -1,0 +1,45 @@
+{
+    "title": "Prediction of the receptorome for the human-infecting virome",
+    "author": "Zheng Zhang,#, Sifan Ye,#, Aiping Wu, Taijiao Jiang,Yousong Peng",
+    "date": 2020,
+    "affiliations": [
+        "College of Biology, Hunan Provincial Key Laboratory of Medical Virology, Hunan University",
+        "Changsha 410082, China",
+        "Center for Systems Medicine, Institute of Basic Medical Sciences, Chinese Academy of Medical",
+        "Sciences & Peking Union Medical College, Beijing 100005, Suzhou Institute of Systems",
+        "Medicine, Suzhou, Jiangsu 215123, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.27.967885",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.27.967885.pdf"
+    },
+    "abstract": "The virus receptors are key for the viral infection of host cells. Identification of the virus receptors is still challenging at present. Our previous study has shown that human virus receptor proteins have some unique features including high N-glycosylation level, high number of interaction partners and high expression level. Here, a random-forest model was built to identify human virus receptorome from human cell membrane proteins with an accepted accuracy based on the combination of the unique features of human virus receptors and protein sequences. A total of 1380 human cell membrane proteins were predicted to constitute the receptorome of the human-infecting virome. In addition, the combination of the random-forest model with protein-protein interactions between human and viruses predicted in previous",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Plan for Scientific Research and Development of China",
+                    "award-id": [
+                        "2016YFD0500300"
+                    ]
+                },
+                {
+                    "funding-source": "Hunan Provincial Natural Science Foundation of China",
+                    "award-id": [
+                        "2018JJ3039"
+                    ]
+                },
+                {
+                    "funding-source": "Chinese Academy of Medical Sciences",
+                    "award-id": [
+                        "2016-I2M-1-005"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Key Plan for Scientific Research and Development of China (2016YFD0500300), Hunan Provincial Natural Science Foundation of China (2018JJ3039), and the Chinese Academy of Medical Sciences (2016-I2M-1-005). The authors have declared that no competing interests exist"
+        }
+    ]
+}

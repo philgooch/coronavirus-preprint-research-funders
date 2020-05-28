@@ -1,0 +1,43 @@
+{
+    "title": "Comparison of the Accula SARS-CoV-2 Test with a Laboratory-Developed Assay for Detection of SARS-CoV-2 RNA in Clinical Nasopharyngeal Specimens",
+    "date": 2020,
+    "affiliations": [
+        "Laboratory-Developed Assay for Detection 2 of SARS-CoV-2 RNA in Clinical Nasopharyngeal Specimens 3",
+        "Catherine A. Hogan, MD, MSc1,2, Natasha Garamani, BSc1, Andrew S. Lee, MD, PhD1, Jack K",
+        "Tung, MD, PhD1, Malaya K. Sahoo, PhD1, ChunHong Huang, MD1, Bryan Stevens, MD1,2",
+        "James Zehnder, MD1, Benjamin A. Pinsky, MD, PhD1,2,3* 7 8",
+        "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA 9",
+        "Clinical Virology Laboratory, Stanford Health Care, Stanford, CA, USA 10",
+        "Division of Infectious Diseases and Geographic Medicine, Department of Medicine, Stanford",
+        "University School of Medicine, Stanford, CA, USA 12 13",
+        "Corresponding author:",
+        "Benjamin A. Pinsky 15 3375 Hillview, Room 2913",
+        "Palo Alto, CA 94304",
+        "Phone (650) 498-5575",
+        "Fax (650) 736-1964 19",
+        "Clinical Laboratory Improvement Amendments of 1988 (CLIA) (4, 5). Currently",
+        "CLIA55 waived point-of-care tests (POCT) are EUA-approved for SARS-CoV-2 testing: the Cepheid 56 Xpert Xpress, the Abbott ID NOW, and the Mesa Accula (6). Compared to high complexity 57 LDTs, POCT have the potential to reduce turnaround time of testing, optimize clinical 58 management and increase patient satisfaction (7). The Accula SARS-CoV-2 test is",
+        "DNA, nucleic acid amplification, 87 and detection by lateral flow. Due to biosafety regulations and hospital-mandated protocols for 88 sample collection at SHC, NP swabs were directly placed into VTM or saline at the patient"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.092379",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.092379.pdf"
+    },
+    "abstract": "Background: Several point-of-care (POC) molecular tests have received emergency use authorization (EUA) from the Food and Drug Administration (FDA) for diagnosis of SARS28 CoV-2. The test performance characteristics of the Accula (Mesa Biotech) SARS-CoV-2 POC test need to be evaluated to inform its optimal use. Objectives: The aim of this study was to assess test performance of the Accula SARS-CoV-2 test. 32 Study design: The performance of the Accula test was assessed by comparing results of 100 33 nasopharyngeal swab samples previously characterized by the Stanford Health Care EUA laboratory-developed test (SHC-LDT) targeting the envelope (E) gene. Assay concordance was assessed by overall percent agreement, positive percent agreement (PPA), negative percent agreement (NPA), and Cohen\u2019s kappa coefficient. Results: Overall percent agreement between the assays was 84.0% (95% confidence interval [CI] 75.3 to 90.6%), PPA was 68.0% (95% CI 53.3 to 80.5%) and the kappa coefficient was 0.68 (95% CI 0.54 to 0.82). Sixteen specimens detected by the SHC-LDT were not detected by the Accula test, and showed low viral load burden with a median cycle threshold value of 37.7. NPA was 100% (95% CI 94.2 to 100%). Conclusion: Compared to the SHC-LDT, the Accula SARS-CoV-2 test showed excellent negative agreement. However, positive agreement was low for samples with low viral load. The false negative rate of the Accula POC test calls for a more thorough evaluation of POC test performance characteristics in clinical settings, and for confirmatory testing in individuals with moderate to high pre-test probability of SARS-CoV-2 who test negative on Accula.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "Mesa Accula",
+        "Point-of-Care Test",
+        "Laboratory-developed 23 Test 24"
+    ],
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

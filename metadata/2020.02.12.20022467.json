@@ -1,0 +1,32 @@
+{
+    "abstract": "A novel coronavirus (COVID-19) was identified in Wuhan, Hubei Province, China, in December 2019 and has caused over 40,000 cases worldwide to date. Previous studies have supported an epidemiological hypothesis that cold and dry (low absolute humidity) environments facilitate the survival and spread of droplet-mediated viral diseases, and warm and humid (high absolute humidity) environments see attenuated viral transmission (i.e., influenza). However, the role of absolute humidity in transmission of COVID-19 has not yet been established. Here, we examine province-level variability of the basic reproductive numbers of COVID-19 across China and find that changes in weather alone (i.e., increase of temperature and humidity as spring and summer months arrive in the North Hemisphere) will not necessarily lead to declines in COVID-19 case counts without the implementation of extensive public health interventions.",
+    "affiliations": [
+        "National Institute of General Medical Sciences of the National Institutes of Health under Award Number R01GM130668. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health"
+    ],
+    "author": "Dianbo Liu; Wei Luo; Mauricio Santillana; Marc Lipsitch; Maimuna S Majumder; Canelle Poirier; Kenneth D Mandl",
+    "date": 2020,
+    "doi": "10.1101/2020.02.12.20022467",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.12.20022467"
+    },
+    "title": "The role of absolute humidity on transmission rates of the COVID-19 outbreak",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of General Medical Sciences of the National Institutes of Health",
+                    "award-id": [
+                        "R01GM130668"
+                    ]
+                },
+                {
+                    "funding-source": "Award Number",
+                    "award-id": [
+                        "R01GM130668"
+                    ]
+                }
+            ],
+            "funding-statement": "MS and CP are partially supported by the National Institute of General Medical Sciences of the National Institutes of Health under Award Number R01GM130668"
+        }
+    ]
+}

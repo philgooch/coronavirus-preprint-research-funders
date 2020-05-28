@@ -1,0 +1,27 @@
+{
+    "title": "XXXXXXXXX, YYYY, 0\u20130 doi: XXXXXXX/XXXXXXX/xxxxx Advance Access Publication Date: DD Month 2020",
+    "date": 2020,
+    "author": "COVID-19 Knowledge Graph: a computable, multi-modal, cause-and-effect knowledge model of COVID-19 pathophysiology",
+    "affiliations": [
+        "Department of Bioinformatics, Fraunhofer Institute for Algorithms and Scientific Computing (SCAI), 53754 Sankt Augustin, Germany, (2) Bonn-Aachen International Center for Information Technology (B-IT), University of Bonn, 53113 Bonn, Germany, (3) Causality Biomodels, Kinfra Hi-Tech Park, Kalamassery, Cochin, Kerala 683503, India"
+    ],
+    "journal": "XXXXXXXXX",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.14.040667",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.14.040667.pdf"
+    },
+    "abstract": "Summary: The past few weeks have witnessed a worldwide mobilization of the research community in response to the novel coronavirus (COVID-19). This global response has led to a burst of publications on the pathophysiology of the virus, yet without coordinated efforts to organize this knowledge, it can remain hidden away from individual research groups. By extracting and formalizing this knowledge in a structured and computable form, as in the form of a knowledge graph, researchers can readily reason and analyze this information on a much larger scale. Here, we present the COVID-19 Knowledge Graph, an expansive cause-and-effect network constructed from scientific literature on the new coronavirus that aims to provide a comprehensive view of its pathophysiology. To make this resource available to the research community and facilitate its exploration and analysis, we also implemented a web application and released the KG in multiple standard formats. Availability: The COVID-19 Knowledge Graph is publicly available under CC-0 license at https://github.com/covid19kgand https://bikmi.covid19-knowledgespace.de. Contact:alpha.tom.kodamullil@scai.fraunhofer.de Supplementary information:Supplementary data are available online.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fraunhofer Society."
+                }
+            ],
+            "funding-statement": "This work has been supported by the MAVO program of the Fraunhofer Society."
+        }
+    ]
+}

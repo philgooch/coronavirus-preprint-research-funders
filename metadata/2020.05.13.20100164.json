@@ -1,0 +1,35 @@
+{
+    "abstract": "COVID-19 first appeared in Wuhan, Hubei Province,China in late December 2019 and spread rapidly in China. Currently, the spread of local epidemics has been basically blocked. The import of overseas epidemics has become the main form of growth in China's new epidemic. As an important international transportation hub in China, Shanghai is one of the regions with the highest risk of imported cases abroad. Due to imported of overseas cases are affected by the international epidemic trend. The traditional infectious disease model is difficult to accurately predict the cumulative trend of cumulative cases in the Shanghai areas. It is also difficult to accurately evaluate the effectiveness of the international traffic blockade. In this situation, this study takes Shanghai as an example to propose a new type of infectious disease prediction model. The model first uses the sparse graph model to analyze the international epidemic spread network to find countries and regions related to Shanghai. Next, multiple regression models were used to fit the existing COV-19 growth data in Shanghai. Finally, the model can predict the growth curve of Shanghai's epidemic without blocking traffic. The results show that the control measures taken by Shanghai are very effective. At present, more and more countries and regions will face the current situation in Shanghai. We recommend that other countries and regions learn from Shanghai's successful experience in preventing overseas imports in order to fully prepare for epidemic prevention and control.",
+    "author": "Liang Yong; Miao Rui; Qi Dang",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20100164",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20100164"
+    },
+    "title": "COVID-19 In Shang Hai: It is Worth Learning from the Successful Experience in Preventing and Controlling the Overseas Epidemic Situation",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Macau Science and Technology Development Funds Grands No.",
+                    "award-id": [
+                        "003/2016/A"
+                    ]
+                },
+                {
+                    "funding-source": "AFJ and No.",
+                    "award-id": [
+                        "0055/2018/A2"
+                    ]
+                },
+                {
+                    "funding-source": "Macau Special Administrative Region of the"
+                },
+                {
+                    "funding-source": "Republic of China"
+                }
+            ],
+            "funding-statement": "This work is supported by the Macau Science and Technology Development Funds Grands No.003/2016/AFJ and No.0055/2018/A2 from the Macau Special Administrative Region of the People\u0092s Republic of China"
+        }
+    ]
+}

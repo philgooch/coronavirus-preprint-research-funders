@@ -1,0 +1,78 @@
+{
+    "title": "Open Access and Altmetrics in the pandemic age: 2 Forescast analysis on COVID-19 literature",
+    "keywords": [
+        "altmetrics",
+        "scientometrics",
+        "coronavirus",
+        "COVID-19",
+        "open 25 access",
+        "repositories",
+        "science of science",
+        "open science"
+    ],
+    "author": "Daniel Torres-Salinas \u00b7 Nicolas 4 Robinson-Garcia \u00b7 Pedro A. 5 Castillo-Valdivieso",
+    "date": 2020,
+    "affiliations": [
+        "Torres-Salinas Departamento de Informacion y Comunicacion, Medialab UGR, Unidad de Excelencia Iberlab, y Ec3metrics spin off. Campus Cartuja, s/n. 18071 Granada, Espana"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.23.057307",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.23.057307.pdf"
+    },
+    "abstract": "We present an analysis on the uptake of open access on COVID9 19 related literature as well as the social media attention they gather when compared with non OA papers. We use a dataset of publications curated by Dimensions and analyze articles and preprints. Our sample includes 11,686 publications of which 67.5% are openly accessible. OA publications tend to re13 ceive the largest share of social media attention as measured by the Altmetric 14 Attention Score. 37.6% of OA publications are bronze, which means toll jour15 nals are providing free access. MedRxiv contributes to 36.3% of documents in repositories but papers in BiorXiv exhibit on average higher AAS. We predict the growth of COVID-19 literature in the following 30 days estimating ARIMA models for the overall publications set, OA vs. non OA and by location of the document (repository vs. journal). We estimate that COVID-19 publications will double in the next days, but non OA publications will grow at a higher rate than OA publications. We conclude by discussing the implications of such findings on the dissemination and communication of research findings to mit23 igate the coronavirus outbreak.",
+    "hyperbole": [
+        "The gravity of the situation has led to an unprecedented scientific race to mitigate the effects of the pandemic (Torres-Salinas et al., 2020) which is has overflowed the scientific scholarly communication system (Larrivi\u00e8re et al., 2020).",
+        "have become almost instantly obsolete while journals are accelerating to an unprecedented rate their publication track for any COVID-related study. This has led scientists\u2019 attention to unexpected sources such as ad hoc compilations of scientific literature openly accessible and curated by the scientific community. Examples of such compilations are the CORD-19 dataset1 , a global community effort, the COVID-19 Database maintained by the WHO2 , or some publisher curated lists. These topic-specific databases are characterized by their daily update as well as including both, peer-reviewed and non-peer reviewed literature literature.",
+        "pandemic has confronted scientists to an unprecedented challenge in which time and efficiency are critical. The exponential growth of scientific literature on the coronavirus outbreak and the means by which new findings are disseminated, disregarding the traditional status of journals for the sake of speed and efficiency (Larrivi\u00e8re et al., 2020), confront scientists to additional obstacles. They need to keep up with new scientific literature, be more critical than ever with non-peer-reviewed literature and respond to the the expectations of society. As a consequence, scientific discussions and conflicts are more public than ever (Gulbrandsen et al., 2020), revealing an additional threat, as socially responsible attitudes are crucial to stop the spread of the outbreak (Thelwall and Thelwall, 2020). Examples such as a recent paper suggesting the virus was man-made (Delgado L\u00f3pez-C\u00f3zar et al., 2020) reveal that responsible communication to non-scientific audiences is essential to balance between open scientific debates and public outreach. In this new context, altmetrics gain more importance than ever, as they become the quickest vehicle to monitor social perception of science in an area where citations play a secondary role as they lack on speed to keep up the production and reception of new findings.",
+        "These papers have raised an unprecedented amount of social media attention according to their AAS. On average, these documents receive an AAS of",
+        "This is an unprecedented event which should not go unnoticed, and explains to a large extent the large shares of OA literature identified related with the coronavirus outbreak."
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Econom\u0131a y Competitividad",
+                    "award-id": [
+                        "TIN2017-85727-C4-2-P",
+                        "UGR-DeepBio"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is supported by the Ministerio espa\u00f1ol de Econom\u0131a y Competitividad under project TIN2017-85727-C4-2-P (UGR-DeepBio)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Nicolas RobinsonGarcia"
+                },
+                {
+                    "funding-source": "European Union\u2019s Horizon"
+                },
+                {
+                    "funding-source": "Marie Sklodowska-Curie",
+                    "award-id": [
+                        "707404"
+                    ]
+                }
+            ],
+            "funding-statement": "Nicolas RobinsonGarcia has received funding from the European Union\u2019s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 707404"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Daniel Torres-Salinas"
+                },
+                {
+                    "funding-source": "Plan Propio de Investigaci\u00f3n y Transferencia"
+                },
+                {
+                    "funding-source": "Reincorporaci\u00f3n de J\u00f3venes Doctores"
+                }
+            ],
+            "funding-statement": "Daniel Torres-Salinas has received funding from the University of Granada\u2019 Plan Propio de Investigaci\u00f3n y Transferencia under the Reincorporaci\u00f3n de J\u00f3venes Doctores grant"
+        }
+    ]
+}

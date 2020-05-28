@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Modelling and projections of COVID-19 using a single set of transmission parameters can be an elaborated because the application of different levels of containment measures at different stages of the worldwide COVID-19 outbreak. Methods: We developed a piecewise fitting SEIR methodology to fit the progress of the COVID-19 that can be applied on any of the 185 countries listed in John Hopkins Coronavirus Resource Center. The contagious contact rate, the rate of removal and the initially exposed population were obtained at three different stages of the pandemic for a set of 18 countries, and globally for the total number of cases worldwide. The active number of infections and the removed populations were fitted simultaneously to validate the SEIR model against the available time series reports on the number of confirmed infections, recoveries and deaths. We evaluate the effect of a reduction of contagious contact rate on the level of burden put on local healthcare infrastructure considering different levels of intervention. As a guideline for future public health interventions, we also estimated the maximum number of future cases and its potential peak date. Findings: We project that the peak in the number of infections worldwide will take place after the third quarter of 2020 with a decline rate that might extend beyond 2020. For 12 out of the 18 countries analyzed, we observe that, following the trend at the date of this study, the number of severe infections will surpass their healthcare capacity. For a 90% reduction scenario of the contagious contact rate, four out of the 18 countries analyzed will undergo a significant delay in the peak of infection, extending the course of the epidemic further than our simulation window (365 days). Interpretation: We identify three stages for the COVID-19 transmission dynamics, which suggest that it is highly heterogeneous between countries and its contagious contact rate, is currently affected by both local responses of the public health interventions and to the population's adherence to the measures. Funding: No funding received.\nCompeting Interest Statement",
+    "author": "J Jesus Naveja; Omar Yaxmehen Bello-Chavolla; Flavio Fernando Contreras-Torres; Erick R Martinez-Loran",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20064956",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20064956"
+    },
+    "title": "Multinational modeling of SARS-CoV-2 spreading dynamics: Insights on the heterogeneity of COVID-19 transmission and its potential healthcare burden",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Funding: No funding received"
+        }
+    ]
+}

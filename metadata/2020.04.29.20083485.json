@@ -1,0 +1,28 @@
+{
+    "abstract": "Summary: Estimation of infectiousness and fatality of the SARS-CoV-2 virus in the COVID-19 global pandemic is complicated by ascertainment bias resulting from incomplete and non-representative samples of infected individuals. We developed a strategy for overcoming this bias to obtain more plausible estimates of the true values of key epidemiological variables. We fit mechanistic Bayesian latent-variable SIR models to confirmed COVID-19 cases, deaths, and recoveries, for all regions (countries and US states) independently. Bayesian averaging over models, we find that the raw infection incidence rate underestimates the true rate by a factor, the case ascertainment ratio CARt that depends upon region, and show how CARt changes over time. At the regional onset of COVID-19, the predicted global median for each case confirmed was 13 infections unreported (CARt = 0.07 C.I. (0.02, 0.4)). As the infection spread, the median CARt rose to 9 unreported cases for every one diagnosed as of April 15, 2020 (CARt = 0.1 C.I. (0.02, 0.5)). We also estimate that the median global initial reproduction number R0 is 3.3 (C.I (1.5, 8.3)) and the total infection fatality rate near the onset is 0.17% (C.I. (0.05%, 0.9%)). However the time-dependent reproduction number Rt and infection fatality rate as of April 15 were 1.2 (C.I. (0.6, 2.5)) and 0.8% (C.I. (0.2%,4%)), respectively. We find that there is great variability between country- and state-level values. Our estimates are consistent with recent serological estimates of cumulative infections for the state of New York, but inconsistent with claims that very large fractions of the population have already been infected in most other regions. For most regions, our estimates imply a great deal of uncertainty about the current state and trajectory of the epidemic.",
+    "author": "Joshua C Chang; Carson C Chow; Richard C Gerkin; Shashaank Vattikuti",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20083485",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20083485"
+    },
+    "title": "Global prediction of unreported SARS-CoV2 infection from observed COVID-19 cases",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intramural Program of the NIH, NIDDK"
+                }
+            ],
+            "funding-statement": "CCC and SV were supported by the Intramural Program of the NIH, NIDDK"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF"
+                }
+            ],
+            "funding-statement": "RCG was supported by NIDCD, NINDS, and NSF"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "In this work, we assess the global impact of COVID-19 showing how demographic factors, testing policies and herd immunity are key for saving lives. We extend a standard epidemiological SEIR model in order to: (a) identify the role of demographics (population size and population age distribution) on COVID-19 fatality rates; (b) quantify the maximum number of lives that can be saved according to different testing strategies, different levels of herd immunity, and specific population characteristics; and (d) infer from the observed case fatality rates (CFR) what the true fatality rate might be. Different from previous SEIR model extensions, we implement a Bayesian Melding method in our calibration strategy which enables us to account for data limitation on the total number of deaths. We derive a distribution of the set of parameters that best replicate the observed evolution of deaths by using information from both the model and the data.",
+    "author": "Miguel Sanchez-Romero; Alexia Prskawetz; Vanessa di Lego; Bernardo L Queiroz",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20084400",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20084400"
+    },
+    "title": "How many lives can be saved? A global view on the impact of testing, herd immunity and demographics on COVID-19 fatality rates",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "All authors state that they have not received any funding for supporting this research"
+        }
+    ]
+}

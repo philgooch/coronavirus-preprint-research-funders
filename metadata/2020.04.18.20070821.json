@@ -1,0 +1,32 @@
+{
+    "abstract": "Effectively designing and evaluating public health responses to the ongoing COVID-19 pandemic requires accurate estimation of the week to week burden of COVID-19. Unfortunately, a lack of systematic testing across the United States (US) due to equipment shortages and varying testing strategies has hindered the usefulness of the available positive COVID-19 case counts. We introduce three complementary approaches aimed at estimating the prevalence of COVID-19 in each state in the US as well as in New York City. Instead of relying on an estimate from a single data source or method that may be biased, we provide multiple estimates, each relying on different assumptions and data sources. Across our three approaches, there is a consistent conclusion that state-level COVID-19 case counts usually vary from 10 to 100 times greater than the official positive test counts. Nationally, our lowest and highest estimates of COVID-19 cases in the US from March 1, 2020 to April 4, 2020 are 2.7 and 8.3 million (9 to 27 times greater). These estimates are to be compared to the cumulative confirmed cases of about 311,000 as of April 4th. Our approaches demonstrate the value of leveraging existing influenza-like-illness surveillance systems for measuring the burden of new diseases that share symptoms with influenza-like-illnesses. Our methods may prove useful in assessing the burden of COVID-19 in other countries with comparable influenza surveillance systems.",
+    "affiliations": [
+        "National Institute of General Medical Sciences of the National Institutes of Health under Award Number R01GM130668. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health"
+    ],
+    "author": "Nick Link; Andre T Nguyen; Mauricio Santillana; Fred S Lu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.18.20070821",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.18.20070821"
+    },
+    "title": "Estimating the Prevalence of COVID-19 in the United States: Three Complementary Approaches",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of General Medical Sciences of the National Institutes of Health",
+                    "award-id": [
+                        "R01GM130668"
+                    ]
+                },
+                {
+                    "funding-source": "Award Number",
+                    "award-id": [
+                        "R01GM130668"
+                    ]
+                }
+            ],
+            "funding-statement": "MS is partially supported by the National Institute of General Medical Sciences of the National Institutes of Health under Award Number R01GM130668"
+        }
+    ]
+}

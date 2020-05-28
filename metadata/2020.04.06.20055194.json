@@ -1,0 +1,44 @@
+{
+    "abstract": "Background: The kidney may be affected in coronavirus-2019 disease (COVID-19). This study assessed the predictors and outcomes of acute kidney injury (AKI) among individuals with COVID-19. Methods: This observational study, included data on all patients with clinically confirmed COVID-19 admitted to Hankou Hospital, Wuhan, China from January 5 to March 8, 2020. Data were extracted from clinical and laboratory records. Follow-up was censored on March 8, 2020. This is a single-center, retrospective, observational study. Patients clinically confirmed COVID-19 and admitted to Hankou Hospital, Wuhan, China from January 5 to March 8, 2020 were enrolled. We evaluated the association between changes in the incidence of AKI and COVID-19 disease and clinical outcomes by using logistic regression models. Results: A total of 287 patients, 55 with AKI and 232 without AKI, were included in the analysis. Compared to patients without AKI, AKI patients were older, predominantly male, and were more likely to present with hypoxia and have pre-existing hypertension and cerebrovascular disease. Moreover, AKI patients had higher levels of white blood cells, D-dimer, aspartate aminotransferase, total bilirubin, creatine kinase, lactate dehydrogenase, procalcitonin, C-reactive protein, a higher prevalence of hyperkalemia, lower lymphocyte counts, and higher chest computed tomographic scores. The incidence of stage 1 AKI was 14.3%, and the incidence of stage 2 or 3 AKI was 4.9%. Patients with AKI had substantially higher mortality. Conclusions: AKI is an important complication of COVID-19. Older age, male, multiple pre-existing comorbidities, lymphopenia, increased infection indicators, elevated D-dimer, and impaired heart and liver functions were the risk factors of AKI. AKI patients who progressed to stages 2 or 3 AKI had a higher mortality rate. Prevention of AKI and monitoring of kidney function is very important for COVID 19 patients.\nCompeting Interest Statement",
+    "affiliations": [
+        "AKI was 14.3%, and the incidence of stage 2 or",
+        "AKI had a higher mortality rate. Prevention of AKI and monitoring of kidney function is very important for COVID 19 patients",
+        "Scheme of Nanfang Hospital, Southern Medical University, Guangzhou, China, Grant 2016J011"
+    ],
+    "author": "Zhongqing Chen; Jiafa Han; Tong Sha; Wenhong Song; Feng Wu; Qiaobing Huang; Guanhua Xiao; Hongbin Hu; Zhenhua Zeng; Haijun Li",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20055194",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055194"
+    },
+    "title": "Acute kidney injury in patients hospitalized with COVID-19 in Wuhan, China: A single-center retrospective observational study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Natural Science Foundation of China Grant",
+                    "award-id": [
+                        "81871604"
+                    ]
+                },
+                {
+                    "funding-source": "Natural Science Foundation of Guangdong Province, China",
+                    "award-id": [
+                        "2016A030310389",
+                        "2017A030313590"
+                    ]
+                },
+                {
+                    "funding-source": "Outstanding Youths Development Scheme of Nanfang Hospital, Southern"
+                },
+                {
+                    "funding-source": "Medical University, Guangzhou",
+                    "award-id": [
+                        "2016J011"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Natural Science Foundation of China Grant 81871604; the Natural Science Foundation of Guangdong Province, China, Grants 2016A030310389 and 2017A030313590; the Outstanding Youths Development Scheme of Nanfang Hospital, Southern Medical University, Guangzhou, China, Grant 2016J011"
+        }
+    ]
+}

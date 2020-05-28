@@ -1,0 +1,16 @@
+{
+    "abstract": "A recent study from China suggests that high temperature and ultraviolet (UV) radiation cannot decrease the epidemics of Coronavirus disease 2019 (COVID-19). To determine whether COVID-19 prevalence is modulated by meteorological conditions, meta-regression of Japanese prefectural data was herein conducted. We extracted integrated number of patients testing positive for COVID-19 in each Japanese prefecture on 18 May 2020, population per 1-km2 inhabitable area in the prefecture in 2020, and monthly meteorological conditions at each prefectural capital city for 4 months (from January to April 2020). We averaged or cumulated the monthly data for the 4 months. To adjust for prefectural population density, we defined the COVID-19 prevalence as the integrated number of patients testing positive divided by the population per 100-km2 inhabitable area. Random-effects meta-regression was performed. A slope of the meta-regression line was significantly negative for mean air temperature (coefficient, -0.134; P = 0.019), mean sea level air pressure (-0.351; P = 0.001), and mean daily maximum UV index (-0.908; P = 0.012), which indicated that COVID-19 prevalence decreased significantly as air temperature, air pressure, and UV index increased. In conclusion, higher temperature, pressure, and UV may be associated with less COVID-19 prevalence, which should be confirmed by further epidemiological investigations taking other risk and protective factors of COVID-19 into account.",
+    "author": "Toshiki Kuno; Takuya Matsushiro; Hiroki Ueyama; Yujiro Yokoyama; Yosuke Hari; Hisato Takagi; Tomo Ando",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20096321",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20096321"
+    },
+    "title": "Higher Temperature, Pressure, and Ultraviolet Are Associated with Less COVID-19 Prevalence: Meta-Regression of Japanese Prefectural Data",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

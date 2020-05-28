@@ -1,0 +1,32 @@
+{
+    "abstract": "Re-use of filtering facepiece respirators (FFRs, commonly referred to as N95s) normally meant for single use only is becoming common in healthcare facilities due to shortages caused by the COVID19 pandemic. Here we report that mouse hepatitis virus (MHV) initially seeded on FFR filter material is inactivated (6 log reduction as measured by 50% tissue culture infective dose (TCID50)) after dry heating at 75 \u00b0C for 30 minutes. We also find that the quantitative fit of FFRs after heat treatment at this temperature, under dry conditions or at 90% relative humidity, is not affected by single or ten heating cycles. Previous studies have reported that the filtration efficiency of FFR filters is not negatively impacted by these heating conditions. These results suggest that thermal inactivation of coronaviruses is a potentially rapid and widely deployable method to re-use N95 FFRs in emergency situations where re-using FFRs is a necessity and broad-spectrum sterilization is unavailable. However, we also found that a heat source that emits radiation (e.g., an exposed heating element) results in rapid qualitative degradation of the FFR. Finally, we discuss differences in the results reported here and other recent studies investing heat as a means to recycle FFRs and suggest that overall wear time and donning/doffing cycles are important factors that need to be considered.",
+    "affiliations": [
+        "Lawrence Livermore National Laboratory internal fund. This work was performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344"
+    ],
+    "author": "Sam Paik; Razi Haque; Staci Kane; Kyle Fuhrer; Mihail Bora; SALMAAN H BAXAMUSA; Travis Massey; Monica Borucki",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20065755",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20065755"
+    },
+    "title": "Quantitative form and fit of N95 filtering facepiece respirators are retained and coronavirus surrogate is inactivated after heat treatments",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Lawrence Livermore National Laboratory"
+                },
+                {
+                    "funding-source": "U.S Department of Energy"
+                },
+                {
+                    "funding-source": "Lawrence Livermore National Laboratory",
+                    "award-id": [
+                        "DE-AC52-07NA27344"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was funded under a Lawrence Livermore National Laboratory internal fund. This work was performed under the auspices of the U.S Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344."
+        }
+    ]
+}

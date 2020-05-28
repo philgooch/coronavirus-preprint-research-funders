@@ -1,0 +1,57 @@
+{
+    "abstract": "Introduction Consistent guidelines on respiratory protection for healthcare professionals combined with improved global supply chains are critical to protect staff and patients from COVID-19. We summarized and compared the guidelines published by national and international societies/organizations on facemasks and respirators to prevent COVID-19 in healthcare settings. Methods From the 1st January to the 2nd April 2020, guidelines published in four countries (France, Germany, United States, United Kingdom), and two international organizations (US and European Center for Diseases Control, and World Health Organization) were reviewed to analyze the mask and respirators recommended as PPE for the care of patients during the COVID-19 outbreak. Guidelines were eligible for analysis if they (1) included specific guidelines, (2) were written for HCP protection, (3) targeting healthcare settings. The strategy recommended for optimizing supplies and overcoming shortages was collected. Observations The guidelines publication process on respiratory protections varied greatly across countries. Some referred to a unique guide whereas others saw the issue of multiple recommendations by various societies and organization. In term of chronology, most guidelines were published in March with either downgraded (US and European CDC), relatively stable (WHO, Germany, and UK), or a mixing of high and low level equipment (France). The recommendation of respirators was universally recommended for aerosol generating procedures (AGP) across countries, although the type of respirators and what constituted an AGP was variable. Some guidance maintained the use of N95/99 for all contact with confirmed COVID-19 cases (i.e. Germany) whereas others, recommended a surgical mask (i.e. WHO, UK, France). The strategies to overcome shortage of respiratory protection equipment were based on minimizing the need and rationalizing the use, but also prolonging their use, reusing them after cleaning/sterilization, or using cloth masks. Conclusions Stable and consistent guidelines inside and across countries, clearly detailing the respiratory protection type, and the circumstances in which they need to be used may prevent the confusion among frontline staff, and avoid shortage.",
+    "affiliations": [
+        "NIHR Fellowship in knowledge mobilisation. The support of ESRC as part of the Antimicrobial Cross Council initiative supported by the seven UK research councils, and also the support of the Global Challenges Research Fund, is gratefully acknowledged"
+    ],
+    "author": "Didier Lepelletier; Nico T. Mutters; Jean Christophe Lucet; Vanessa M. Eichel; Jonathan Otter; Daniel J. Morgan; Gabriel Birgand",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20077230",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20077230"
+    },
+    "title": "Analysis of national and international guidelines on respiratory protection equipment for COVID-19 in healthcare settings.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research Health Protection Research Unit",
+                    "award-id": [
+                        "NIHR HPRU"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR HPRU)"
+                },
+                {
+                    "funding-source": "Healthcare Associated Infection and Antimicrobial Resistance"
+                },
+                {
+                    "funding-source": "Imperial College London in"
+                },
+                {
+                    "funding-source": "Public Health England"
+                }
+            ],
+            "funding-statement": "The research was funded by the National Institute for Health Research Health Protection Research Unit (NIHR HPRU) in Healthcare Associated Infection and Antimicrobial Resistance at Imperial College London in partnership with Public Health England (PHE)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Early Career Research Fellowship from the Antimicrobial Research Collaborative"
+                },
+                {
+                    "funding-source": "Imperial College London,"
+                }
+            ],
+            "funding-statement": "GB has received an Early Career Research Fellowship from the Antimicrobial Research Collaborative at Imperial College London, and acknowledges the support of the Welcome trust"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Fellowship in"
+                }
+            ],
+            "funding-statement": "RA is supported by a NIHR Fellowship in knowledge mobilisation"
+        }
+    ]
+}

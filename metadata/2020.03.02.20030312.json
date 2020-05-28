@@ -1,0 +1,41 @@
+{
+    "abstract": "The novel coronavirus disease 2019 (COVID-19) outbreak and Italy has caused 6088 cases and 41 deaths in Republic of Korea and 3144 cases and 107 death in Italy by 5 March 2020. We modeled the transmission process in Republic of Korea and Italy with a stochastic model and estimated the basic reproduction number R0 as 2.6 (95% CI: 2.3-2.9) or 3.2 (95% CI: 2.9-3.5) in Republic of Korea, under the assumption that the exponential growth starting on 31 January or 5 February 2020, and 2.6 (95% CI: 2.3-2.9) or 3.3 (95% CI: 3.0-3.6) in Italy, under the assumption that the exponential growth starting on 5 February or 10 February 2020. Estimates of dispersion term (k) were 10 (95% CI: 5-56) or 22 (95% CI: 8-61) in Republic of Korea, and 13 (95% CI: 5-61) or 37 (95% CI: 13-61) in Italy, and all of which imply few super-spreading events.\nCompeting Interest Statement",
+    "affiliations": [
+        "Alibaba-Hong Kong Polytechnic University Collaborative Research project. Other authors declare no competing interests",
+        "Alibaba-Hong Kong Polytechnic University Collaborative Research project. The funding agencies had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; or decision to submit the manuscript for publication"
+    ],
+    "author": "Li Xiao; Qianying Lin; Daihai He; Zian Zhuang; Shu Yang; Yijun Lou; Lin Yang; Shi Zhao; Peihua Cao",
+    "date": 2020,
+    "doi": "10.1101/2020.03.02.20030312",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.02.20030312"
+    },
+    "title": "Preliminary estimating the reproduction number of the coronavirus disease (COVID-19) outbreak in Republic of Korea and Italy by 5 March 2020",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Alibaba-Hong Kong Polytechnic University Collaborative Research"
+                }
+            ],
+            "funding-statement": "DH was supported by an Alibaba-Hong Kong Polytechnic University Collaborative Research project"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "General Research Fund",
+                    "award-id": [
+                        "15205119"
+                    ]
+                },
+                {
+                    "funding-source": "Research Grants Council of Hong Kong and"
+                },
+                {
+                    "funding-source": "Alibaba-Hong Kong Polytechnic University Collaborative Research"
+                }
+            ],
+            "funding-statement": "DH was supported by General Research Fund (15205119) of Research Grants Council of Hong Kong and an Alibaba-Hong Kong Polytechnic University Collaborative Research project"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The diagnosis of COVID-19 based on clinical evaluation is difficult because symptoms often overlap with other respiratory diseases. A clinical score predictive of COVID-19 based on readily assessed variables may be useful in settings with restricted or no access to molecular diagnostic tests. Methods: A score based on demographics and symptoms was developed in a cross-sectional study including patients attended in a dedicated COVID-19 screening unit. A backward stepwise logistic regression model was constructed and values for each variable were assigned according to their \u03b2 coefficient values in the final model. Receiver operating characteristic (ROC) curve was constructed and its area under the curve (AUC) was calculated. Results: A total of 464 patients were included: 98 (21.1%) COVID-19 and 366 (78.9%) non-COVID-19 patients. The score included variables independently associated with COVID-19 in the final model: age equal or above 60 years (2 points), fever (2), dyspnea (1), fatigue (1 point) and coryza (-1). Score values were significantly higher in COVID-19 than non-COVID-19 patients: median (Interquartile Range), 3 (2-4), and 1 (0-2), respectively; P<0.001. The score had an AUC of 0.80 (95% Confidence Interval [CI], 0.76-0.86). The specificity of scores equal or greater than 4 and 5 points were 90.4 (95%CI, 87.0-93.3) and 96.2 (95%CI, 93.7-97.9), respectively. Conclusions: This preliminary score based on patients symptoms is a feasible tool that may be useful in setting with restricted or no access to molecular tests in a pandemic period, owing to the high specificity. Further studies are required to validate the score in other populations.\nCompeting Interest Statement",
+    "author": "Joao Pedro Bidart; Alexandre P Zavascki; Marcelo B Gazzana; Cristiane T Kawski; Aline Galiotto; Luiz A Nasi; Diego R Falci; Patricia S Fernandes",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20101931",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20101931"
+    },
+    "title": "Development of a Predictive Score for COVID-19 Diagnosis based on Demographics and Symptoms in Patients Attended at a Dedicated Screening Unit",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "We did not have any funding support for this study."
+        }
+    ]
+}

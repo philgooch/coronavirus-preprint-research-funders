@@ -1,0 +1,101 @@
+{
+    "title": "Cross-reactive antibody response between SARS-CoV-2 and SARS-CoV infections",
+    "date": 2020,
+    "author": "Huibin Lv, Nicholas C. Wu, Owen Tak-Yin Tsang, Meng Yuan, Ranawaka A. P",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.15.993097",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.15.993097.pdf"
+    },
+    "abstract": "27 The World Health Organization has recently declared the ongoing outbreak of COVID28 19, which is caused by a novel coronavirus SARS-CoV-2, as pandemic. There is currently a lack of knowledge in the antibody response elicited from SARS-CoV-2 infection. One major immunological question is concerning the antigenic differences between SARS-CoV-2 and SARS-CoV. We address this question by using plasma from patients infected by SARS-CoV-2 or SARS-CoV, and plasma obtained from infected or immunized mice. Our results show that while cross-reactivity in antibody binding to the spike protein is common, cross-neutralization of the live viruses is rare, indicating the presence of non-neutralizing antibody response to conserved epitopes in the spike. Whether these non-neutralizing antibody responses will lead to antibody-dependent disease enhancement needs to be addressed in the future. Overall, this study not only addresses a fundamental question regarding the antigenicity differences between SARS-CoV-2 and SARS-CoV, but also has important implications in vaccine development.",
+    "affiliations": [
+        "The University of Hong Kong, Hong Kong SAR, China",
+        "Institute, La Jolla, CA 92037, USA",
+        "Guangzhou Institute of Respiratory Health, the First Affiliated"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Calmette and Yersin"
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI139445"
+                    ]
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1170236"
+                    ]
+                },
+                {
+                    "funding-source": "Guangzhou Medical University High-level University Innovation Team Training Program"
+                },
+                {
+                    "funding-source": "Guangzhou Medical University"
+                },
+                {
+                    "funding-source": "J.S.M.P)"
+                },
+                {
+                    "funding-source": "US National Institutes of Health"
+                }
+            ],
+            "funding-statement": "This work was supported by Calmette and Yersin scholarship (H.L.), NIH K99 AI139445 (N.C.W.), Bill and Melinda Gates Foundation OPP1170236 (I.A.W.), Guangzhou Medical University High-level University Innovation Team Training Program (Guangzhou Medical University released [2017] No.159) (C.K.P.M. and J.S.M.P), the US National Institutes of Health (contract no"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "J.S.M.P)"
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China"
+                },
+                {
+                    "funding-source": "Research Grants Council",
+                    "award-id": [
+                        "N_HKU737"
+                    ]
+                },
+                {
+                    "funding-source": "Joint Research Scheme",
+                    "award-id": [
+                        "N_HKU737/18"
+                    ]
+                },
+                {
+                    "funding-source": "J.S.M.P)"
+                },
+                {
+                    "funding-source": "International Cooperation and Exchange of the National Natural Science Foundation of China",
+                    "award-id": [
+                        "8181101118"
+                    ]
+                }
+            ],
+            "funding-statement": "HHSN272201400006C) (J.S.M.P), National Natural Science Foundation of China (NSFC)/Research Grants Council (RGC) Joint Research Scheme (N_HKU737/18) (C.K.P.M. and J.S.M.P), and International Cooperation and Exchange of the National Natural Science Foundation of China (Grant No 8181101118) (J.Z.)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Drs John Yu Hong Chan, Daphne"
+                },
+                {
+                    "funding-source": "Pui-Lin Lau,"
+                },
+                {
+                    "funding-source": "Ying Man Ho and the"
+                },
+                {
+                    "funding-source": "C.K.P.M and O.T.Y.T"
+                }
+            ],
+            "funding-statement": "We acknowledge the support of the clinicians who facilitated this study including Drs John Yu Hong Chan, Daphne Pui-Lin Lau, and Ying Man Ho and the clinical team at Kong and the patients who consented to participate in this investigation. Author contributions H.L., N.C.W., J.S.M.P., I.A.W., C.K.P.M and O.T.Y.T conceived and designed the study. N.C.W. and M.Y. expressed and purified the proteins"
+        }
+    ]
+}

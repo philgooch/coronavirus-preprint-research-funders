@@ -1,0 +1,24 @@
+{
+    "abstract": "Background: Little is known about the natural history of asymptomatic SARS-CoV-2 infection or its contribution to infection transmission. Methods: We conducted a prospective study at a quarantine centre for COVID-19 in Ho Chi Minh City, Vietnam. We enrolled quarantined people with RT-PCR-confirmed SARS-CoV-2 infection, collecting clinical data, travel and contact history, and saliva at enrolment and daily nasopharyngeal throat swabs (NTS) for RT-PCR testing. We compared the natural history and transmission potential of asymptomatic and symptomatic individuals. Results: Between March 10th and April 4th, 2020, 14,000 quarantined people were tested for SARS-CoV-2; 49 were positive. Of these, 30 participated in the study: 13(43%) never had symptoms and 17(57%) were symptomatic. 17(57%) participants acquired their infection outside Vietnam. Compared with symptomatic individuals, asymptomatic people were less likely to have detectable SARS-CoV-2 in NTS samples collected at enrolment (8/13 (62%) vs. 17/17 (100%) P=0.02). SARS-CoV-2 RNA was detected in 20/27 (74%) available saliva; 7/11 (64%) in the asymptomatic and 13/16 (81%) in the symptomatic group (P=0.56). Analysis of the probability of RT-PCR positivity showed asymptomatic participants had faster viral clearance than symptomatic participants (P<0.001 for difference over first 19 days). This difference was most pronounced during the first week of follow-up. Two of the asymptomatic individuals appeared to transmit the infection to up to four contacts. Conclusions: Asymptomatic SARS-CoV-2 infection is common and can be detected by analysis of saliva or NTS. NTS viral loads fall faster in asymptomatic individuals, but they appear able to transmit the virus to others.\nCompeting Interest Statement",
+    "author": "Le Thanh Hoang Nhat; Nguyen Van Vinh Chau; Nguyen Tri Dung; Tran Tan Thanh; Le Van Tan; Lam Anh Nguyet; Tran Nguyen Hoang Tu; Le Nguyen Truc Nhu; Evelyne Kestelyn; Tang Chi Thuong; Nguyen Thi Phuong Dung; Nguyen Thi Thu Hong; Nguyen Thanh Phong; Nghiem My Ngoc; Nguyen Thanh Truong; Nguyen Thanh Dung; Ngo Ngoc Quang Minh; Lam Minh Yen; Guy Thwaites; Vo Thanh Lam; Tran Chan Xuan; Dinh Nguyen Huy Man; Tran Tinh Hien; Le Manh Hung; Ronald B. Geskus; Nguyen Tan Binh; Nguyen Thi Han Ny",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20082347",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20082347"
+    },
+    "title": "The natural history and transmission potential of asymptomatic SARS-CoV-2 infection",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "106680/B/14/Z",
+                        "204904/Z/16/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "Wellcome Trust grants: 106680/B/14/Z and 204904/Z/16/Z"
+        }
+    ]
+}

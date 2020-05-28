@@ -1,0 +1,26 @@
+{
+    "abstract": "The COVID-19 pandemic has placed a dramatic increase in demand on healthcare providers to provide respiratory support for patients with moderate to severe symptoms. In conjunction, the pandemic has challenged existing supply-chains to meet demands for medical equipment and resources. In response to these challenges, we report our work to repurpose two existing non-invasive ventilation (NIV) systems to provide solutions for the delivery of oxygen-enriched CPAP ventilation which are inherently resource and oxygen-efficient. We consider adaptation of CPAP systems typically used for sleep apnoea, together with a new Venturi-valve design which can be readily produced through 3D printing. Our aim in both cases was to support Positive end-expiratory pressure (PEEP) of \u226510cmH2O while achieving \u226540% FiO2. This supports a crucial part in the patient pathway for COVID-19 treatment, helping to provide early respiratory support prior to invasive ventilation options in the ICU.",
+    "affiliations": [
+        "National Institute for Health Research (NIHR) infrastructure at Leeds. The views expressed are those of the authors and not necessarily those of the NHS, the NIHR or the Department of Health and Social Care. The authors would like to thank the NIHR MedTech and In Vitro diagnostics Co-operatives (MICs)"
+    ],
+    "author": "Peter Culmer; William Davis Birch; Tom Lawton; Jiten Parmar; Martin Latham; Dominic Jones; Nikil Kapur; Ian Waters; Cecilie Osnes; Stuart Murdoch; David Brettle; Rory Hetherington; Andrew Keeling",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20055665",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055665"
+    },
+    "title": "Delivery of CPAP respiratory support for COVID-19 using repurposed technologies",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                }
+            ],
+            "funding-statement": "The research is supported by the National Institute for Health Research (NIHR) infrastructure at Leeds"
+        }
+    ]
+}

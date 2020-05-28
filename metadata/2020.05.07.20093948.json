@@ -1,0 +1,16 @@
+{
+    "abstract": "Motivation: Effective screening of SARS-CoV-2 enables quick and efficient diagnosis of COVID-19 and can mitigate the burden on healthcare systems. Prediction models that combine several features to estimate the risk of infection have been developed in hopes of assisting medical staff worldwide in triaging patients when allocating limited healthcare resources. Results: We established a machine learning approach that trained on records from 51,831 tested individuals (of whom 4,769 were confirmed COVID-19 cases) while the test set contained data from the following week (47,401 tested individuals of whom 3,624 were confirmed COVID-19 cases). Our model predicts COVID-19 test results with high accuracy using only eight features: gender, whether age is above 60, known contact with an infected individual, and five initial clinical symptoms. Summary: Overall, based on the nationwide data publicly reported by the Israeli Ministry of Health, we developed a model that detects COVID-19 cases by simple features accessed by asking basic questions. Our framework can be used, among other considerations, to prioritize testing for COVID-19 when allocating limited testing resources.",
+    "author": "Noam Shomron; Yazeed Zoabi",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20093948",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20093948"
+    },
+    "title": "COVID-19 diagnosis prediction by symptoms of tested individuals: a machine learning approach",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding for this project."
+        }
+    ]
+}

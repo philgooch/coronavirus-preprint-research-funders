@@ -1,0 +1,19 @@
+{
+    "abstract": "We model the time-evolution of the number N(t) of individuals reported to be infected in a given country with a specific virus, in terms of a Riccati equation. Although this equation is nonlinear and it contains time-dependent coefficients, it can be solved in closed form, yielding an expression for N(t) that depends on a function \u03b1(t). For the particular case that \u03b1(t) is constant, this expression reduces to the well-known logistic formula, giving rise to a sigmoidal curve suitable for modelling usual epidemics. However, for the case of the COVID-19 pandemic, the long series of available data shows that the use of this simple formula for predictions underestimates N(t); thus, the logistic formula only provides a lower bound of N(t). After experimenting with more than 50 different forms of \u03b1(t), we introduce two novel models that will be referred to as 'rational' and 'birational'. The parameters specifying these models (as well as those of the logistic model), are determined from the available data using an error-minimizing algorithm. The analysis of the applicability of the above models to the cases of China and South Korea suggest that they yield more accurate predictions, and importantly that they may provide an upper bound of the actual N(t). Results are presented for Italy, Spain, and France.",
+    "affiliations": [
+        "European Centre for Disease Prevention and Control"
+    ],
+    "author": "George A Kastis; Nikolaos Dikaios; Athanasios S Fokas",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20088591",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20088591"
+    },
+    "title": "Predictive mathematical models for the number of individuals infected with COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "abstract": "Besides severe respiratory distress, recent reports in Covid-19 patients have found a strong association between platelet counts and patient survival. Along with hemodynamic changes such as prolonged clotting time, high fibrin degradation products and D-dimers, increased levels of monocytes with disturbed morphology have also been identified. In this study, through an integrated analysis of bulk RNA-sequencing data from Covid-19 patients with data from single-cell sequencing studies on lung tissues, we found that most of the cell-types that contributed to the altered gene expression were of hematopoietic origin. We also found that differentially expressed genes in Covid-19 patients formed a significant pool of the expressing genes in phagocytic cells such as Monocytes and Platelets. Interestingly, while we observed a general enrichment for Monocytes in Covid-19 patients, we found that the signal for FCGRA3+ Monocytes was depleted. Further, we found evidence that age-associated gene expression changes in Monocytes and Platelets, associated with inflammation, mirror gene expression changes in Covid-19 patients suggesting that pro-inflammatory signalling during aging may worsen the infection in older patients. We identified more than 20 genes that change in the same direction between Covid-19 infection and aging cells that may act as potential therapeutic targets. Of particular interest were IL2RG, GNLY and GMZA expressed in Platelets, which facilitates cytokine signalling in Monocytes through an interaction with Platelets. To understand whether infection can directly manipulate the biology of Monocytes and Platelets, we hypothesize that these non-ACE2 expressing cells may be infected by the virus through the phagocytic route. We observed that phagocytic cells such as Monocytes, T-cells, and Platelets have a significantly higher expression of genes that are a part of the Covid-19 viral interactome. Hence these cell-types may have an active rather than a reactive role in viral pathogenesis to manifest clinical symptoms such as coagulopathy. Therefore, our results present molecular evidence for pursuing both anti-inflammatory and anticoagulation therapy for better patient management especially in older patients.",
+    "affiliations": [
+        "Indian Institute of Technology New Delhi. The authors acknowledge that the authors or their institutions at any time received payment or services from a third party for any aspect of the submitted work"
+    ],
+    "author": "Deepali Jain; Ishaan Gupta; Shreya Johri",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20081182",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20081182"
+    },
+    "title": "Integrated analysis of bulk multi omic and single-cell sequencing data confirms the molecular origin of hemodynamic changes in Covid-19 infection explaining coagulopathy and higher geriatric mortality",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Indian Institute of Technology New Delhi. The"
+                }
+            ],
+            "funding-statement": "The work presented here is supported by the High performance computing services and intramural funds of the Indian Institute of Technology New Delhi. The authors acknowledge that the authors or their institutions at any time received payment or services from a third party for any aspect of the submitted work."
+        }
+    ]
+}

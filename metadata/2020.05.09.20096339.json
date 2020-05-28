@@ -1,0 +1,58 @@
+{
+    "abstract": "Assessing the impact of mobility on epidemic spreading is of crucial importance for understanding the effect of policies like mass quarantines and selective re-openings. High mobility between areas contribute to the importation of cases, affecting the spread of the disease. While many factors influence local incidence and making it more or less homogeneous with respect to other areas, the importance of multi-seeding has often been overlooked. Multi-seeding occurs when several independent (non-clustered) infected individuals arrive at a susceptible population. This can give rise to autonomous outbreaks that impact separate areas of the contact (social) network. Such mechanism has the potential to boost local incidence and size, making control and tracing measures less effective. In Spain, the high heterogeneity in incidence between similar areas despite the uniform mobility control measures taken suggests that multi-seeding could have played an important role in shaping the spreading of the disease. In this work, we focus on the spreading of SARS-CoV-2 among the $52$ Spanish provinces, showing that local incidence strongly correlates with mobility occurred in the early-stage weeks from and to Madrid, the main mobility hub and where the initial local outbreak unfolded. These results clarify the higher order effects that mobility can have on the evolution of an epidemic and highlight the relevance of its control.",
+    "affiliations": [
+        "Innovation and Universities, the AEI and FEDER (EU) under the grant PACSS (RTI2018-093732-B-C22) and the Maria de Maeztu program for Units of Excellence in R&D (MDM-2017-0711)"
+    ],
+    "author": "Sandro Meloni; Jose Javier Ramasco; Alberto Hernando; Mattia Mazzoli; David Mateo",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20096339",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20096339"
+    },
+    "title": "Effects of mobility and multi-seeding on the propagation of the COVID-19 in Spain",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Turisme of the Government of the Balearic Islands and the European Social Fund",
+                    "award-id": [
+                        "FPI/2090/2018"
+                    ]
+                }
+            ],
+            "funding-statement": "M.M. is funded by the Conselleria d'Innovacio, Recerca i Turisme of the Government of the Balearic Islands and the European Social Fund with grant code FPI/2090/2018"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "COVID",
+                    "award-id": [
+                        "CSIC-COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Spanish Ministry of Science, Innovation"
+                },
+                {
+                    "funding-source": "AEI and FEDER"
+                },
+                {
+                    "funding-source": "PACSS",
+                    "award-id": [
+                        "RTI2018-093732-B-C22"
+                    ]
+                },
+                {
+                    "funding-source": "Maria de Maeztu"
+                },
+                {
+                    "funding-source": "Units of Excellence in R&D",
+                    "award-id": [
+                        "MDM-2017-0711"
+                    ]
+                }
+            ],
+            "funding-statement": "M.M., S.M. and J.J.R. also acknowledge funding from the project Distancia-COVID (CSIC-COVID-19) of the CSIC funded by a contribution of AENA, from the Spanish Ministry of Science, Innovation and Universities, the AEI and FEDER (EU) under the grant PACSS (RTI2018-093732-B-C22) and the Maria de Maeztu program for Units of Excellence in R&D (MDM-2017-0711)"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "abstract": "Our goal is to inform ongoing public health policy on the design and communication of COVID-19 social distancing measures to maximize compliance. We assessed the US publics early experience with the COVID-19 crisis during the period when shelter-in-place orders were widely implemented to understand non-compliance with those orders, sentiment about the crisis, and to compare across age categories associated with different levels of risk. We posted our survey on Twitter, Facebook, and NextDoor on March 14th to March 23rd that included 21 questions including demographics, impact on daily life, actions taken, and difficulties faced. We analyzed the free-text responses to the impact question using LIWC, a computational natural language processing tool, and performed a thematic content analysis of the reasons people gave for non-compliance with social distancing orders. Stanford Universitys IRB approved the study. In 9 days, we collected a total of 20,734 responses. 6,573 individuals provided a response (\u226530 words) to the question, Tell us how the coronavirus crisis is impacting your life. Our data (Figure 1) show that younger people (18-31) are more emotionally negative, self-centered, and less concerned with family, while middle-aged people are group-oriented (32-44) and focused on family (32-64) (all p values < .05 corrected for multiple comparisons). Unsurprisingly, the oldest and most at-risk group (65+) are more focused on biological terms (e.g., health-related topics), but were surprisingly low in anxiety and high in emotionally positive terms relative to those at lower risk. We also content-analyzed 7,355 responses (kappas > .75) to the question, What are the reasons you are not self-isolating more? Of these participants, 39.8% reported not being compliant, with the youngest group (18-31) having the lowest compliance rate (52.4%) compared to the other age groups (all > 60%; all p values < .01). Table 1 describes the seven primary themes for non-compliance. Non-essential work requirements, concerns about mental and physical health, and the belief that other precautions were sufficient were the most common reasons, although other rationales included wanting to continue everyday activities and beliefs that society is over-reacting. Childcare was an important concern for a subset of respondents. Overall, our findings suggest that public health messages should focus on young people and 1) address their negative affect, 2) refocus their self-orientation by emphasizing the importance of individual behavior to group-level health outcomes, and 3) target the specific rationales that different people have regarding the pandemic to maximize compliance with social distancing.",
+    "author": "Eleni Linos; Angela Lee; Meghan Halley; Ryan C Moore; Jeffrey T Hancock",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20057067",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20057067"
+    },
+    "title": "Experience with Social Distancing Early in the COVID-19 Pandemic in the United States: Implications for Public Health Messaging",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "NIH"
+                }
+            ],
+            "funding-statement": "EL (grants DP2CA225433 and K24AR075060) and MH (grant DP2CA225433-02) are supported by the NIH. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH."
+        }
+    ]
+}

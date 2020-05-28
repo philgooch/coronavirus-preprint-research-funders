@@ -1,0 +1,23 @@
+{
+    "abstract": "Introduction: Data on race and ethnic susceptibility to SARS-CoV-2 infection are limited. We analyzed socio-demographic factors associated with higher likelihood of SARS-CoV-2 infection and explore mediating pathways for race disparities in the SARS-CoV-2 pandemic. Methods: Cross sectional analysis of COVID-19 Surveillance and Outcomes Registry (CURATOR), which captures data for a large healthcare system comprising of one central tertiary care, seven large community hospitals, and an expansive ambulatory / emergency care network in the Greater Houston area. Nasopharyngeal samples for individuals inclusive of all ages, races, ethnicities and sex were tested for SARS-CoV-2. We analyzed, socio-demographic (age, sex, race, ethnicity, household income, residence population density) and comorbidity (hypertension, diabetes, obesity, cardiac disease) factors. Multivariable logistic regression models were fitted to provide adjusted Odds Ratios (aOR), 95% confidence intervals (CI) for likelihood of positive SARS-CoV-2 test. Structural Equation Modeling (SEM) framework was utilized to explore three mediation pathways (low income, high population density, high comorbidity burden) for association between African American race and SARS-CoV-2 infection. Results: Among 4,513 tested individuals, 754 (16.7%) tested positive. Overall mean (SD) age was 50.6 (18.9) years, 62% females and 26% were African American. African American race was associated with lower socio-economic status, higher comorbidity burden, and population density residence. In the fully adjusted model, African American race (vs. White; aOR, CI: 1.84, 1.49-2.27) and Hispanic ethnicity (vs. non-Hispanic; aOR, CI: 1.70, 1.35-2.14) had a higher likelihood of infection. Older individuals and males were also at a higher risk of SARS-CoV-2 infection. The SEM framework demonstrated a statistically significant (p = 0.008) indirect effect of African American race on SARS-CoV-2 infection mediated via a pathway that included residence in densely populated zip code. Conclusions: There is strong evidence of race and ethnic disparities in the SARS-CoV-2 pandemic potentially mediated through unique social determinants of health.",
+    "affiliations": [
+        "Houston Methodist Academic Institute"
+    ],
+    "author": "Osman Khan; Stephen L Jones; Bita A Kash; Jennifer R Meeks; Khurram Nasir; H Dirk Sostman; Juan Carlos Nicolas; Faisal Masud; Robert A Phillips; Farhaan S Vahidy; Julia D Andrieni",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20073148",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20073148"
+    },
+    "title": "Racial and Ethnic Disparities in SARS-CoV-2 Pandemic: Analysis of a COVID-19 Observational Registry for a Diverse U.S. Metropolitan Population",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Houston Methodist Academic Institute"
+                }
+            ],
+            "funding-statement": "This work was internally funded by the Houston Methodist Academic Institute"
+        }
+    ]
+}

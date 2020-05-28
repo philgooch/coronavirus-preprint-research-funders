@@ -1,0 +1,16 @@
+{
+    "abstract": "In the present work is used non-linear fitting of the \"Gompert\" and \"Logistic\" growth models to the number of total COVID-19 cases from the United States as a country and individually by states. The methodology allowed us to estimate that the maximum limit for the total number of cases of COVID-19 patients such as those registered with the World Health Organization will be approximately one million and one hundred thousand cases to the United States. Up to 04/19/20 the models indicate that United States reached 70% of this maximum number of \"total cases\" and the United States will reach 95% of this limit by 05/14/2020. The application of the nonlinear fitting of growth curves to the individual data of each American state showed that only 25% of them did not reach, on 04/19/20, the percentage of 59% of the maximum limit of \"total cases\" and that 17 of the 50 states still will not have reached 95% of that limit on 05/14/20.",
+    "author": "Carlos Maximiliano Dutra",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20074898",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20074898"
+    },
+    "title": "Non-Linear fitting of Sigmoidal Growth Curves to predict a maximum limit to the total number of COVID-19 cases in the United States.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement without funding</strong>"
+        }
+    ]
+}

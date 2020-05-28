@@ -1,0 +1,23 @@
+{
+    "abstract": "SARS-CoV-2 enters cells using its Spike protein, which is also the main target of neutralizing antibodies. Therefore, assays to measure how antibodies and sera affect Spike-mediated viral infection are important for studying immunity. Because SARS-CoV-2 is a biosafety-level-3 virus, one way to simplify such assays is to pseudotype biosafety-level-2 viral particles with Spike. Such pseudotyping has now been described for single-cycle lentiviral, retroviral and VSV particles, but the reagents and protocols are not widely available. Here we detail how to effectively pseudotype lentiviral particles with SARS-CoV-2 Spike and infect 293T cells engineered to express the SARS-CoV-2 receptor, ACE2. We also make all the key experimental reagents available in the BEI Resources repository of ATCC and the NIH. Furthermore, we demonstrate how these pseudotyped lentiviral particles can be used to measure the neutralizing activity of human sera or plasma against SARS-CoV-2 in convenient luciferase-based assays, thereby providing a valuable complement to ELISA-based methods that measure antibody binding rather than neutralization.",
+    "author": "Katharine H.D. Crawford; Michael Murphy; Caitlin R. Wolf; Deleah Pettie; M. Alejandra Tortorici; Jesse D. Bloom; David Veesler; Adam S. Dingens; Andrea N. Loes; Keara D. Malone; Helen Y. Chu; Neil P. King; Rachel Eguia; Alejandro B. Balazs",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.051219",
+    "identifiers": {
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.20.051219"
+    },
+    "title": "Protocol and reagents for pseudotyping lentiviral particles with SARS-CoV-2 Spike protein for neutralization assays",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Merck and Glaxo Smith Kline and"
+                },
+                {
+                    "funding-source": "Sanofi Pasteur"
+                }
+            ],
+            "funding-statement": "H.Y.C. is a consultant for Merck and Glaxo Smith Kline and receives research funding from Sanofi Pasteur"
+        }
+    ]
+}

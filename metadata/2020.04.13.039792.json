@@ -1,0 +1,23 @@
+{
+    "title": "Improving COVID-19 Testing Efficiency using Guided Agglomerative Sampling",
+    "author": "Fayyaz Minhas",
+    "date": 2020,
+    "affiliations": [
+        "Department of Computer Science, University of Warwick, Coventry, UK",
+        "Warwick Medical School, University of Warwick, Coventry, UK",
+        "Institute of Precision Diagnostics and Translational Medicine, Department of Pathology, University Hospitals Coventry & Warwickshire, Coventry, UK",
+        "National Institute of Biotechnology and Genetic Engineering, Faisalabad, Pakistan",
+        "Department of Computer Science, Colorado State University, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.13.039792",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.13.039792.pdf"
+    },
+    "abstract": "One of the challenges in the current COVID-19 crisis is the time and cost of performing tests especially for large-scale population surveillance. Since, the probability of testing positive in large population studies is expected to be small (<15%), therefore, most of the test outcomes will be negative. Here, we propose the use of agglomerative sampling which can prune out multiple negative cases in a single test by intelligently combining samples from different individuals. The proposed scheme builds on the assumption that samples from the population may not be independent of each other. Our simulation results show that the proposed sampling strategy can significantly increase testing capacity under resource constraints: on average, a saving of ~40% tests can be expected assuming a positive test probability of 10% across the given samples. The proposed scheme can also be used in conjunction with heuristic or Machine Learning guided clustering for improving the efficiency of large-scale testing further. The code for generating the simulation results for this work is available here: https://github.com/foxtrotmike/AS.",
+    "funding": [
+        {}
+    ]
+}

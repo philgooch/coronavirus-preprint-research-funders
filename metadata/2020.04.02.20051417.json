@@ -1,0 +1,50 @@
+{
+    "abstract": "Following its emergence in Wuhan, China, in late November or early December 2019, the SARS-CoV-2 virus has rapidly spread throughout the world. On March 11, 2020, the World Health Organization declared Coronavirus Disease 2019 (COVID-19) a pandemic. Genome sequencing of SARS-CoV-2 strains allows for the reconstruction of transmission history connecting these infections. Here, we analyze 346 SARS-CoV-2 genomes from samples collected between 20 February and 15 March 2020 from infected patients in Washington State, USA. We found that the large majority of SARS-CoV-2 infections sampled during this time frame appeared to have derived from a single introduction event into the state in late January or early February 2020 and subsequent local spread, strongly suggesting cryptic spread of COVID-19 during the months of January and February 2020, before active community surveillance was implemented. We estimate a common ancestor of this outbreak clade as occurring between 18 January and 9 February 2020. From genomic data, we estimate an exponential doubling between 2.4 and 5.1 days. These results highlight the need for large-scale community surveillance for SARS-CoV-2 introductions and spread and the power of pathogen genomics to inform epidemiological understanding.",
+    "affiliations": [
+        "Brotman Baty Institute for Precision Medicine and funded by Gates Ventures, the private office of Bill Gates. The funder was not involved in the design of the study and does not have any ownership over the management and conduct of the study, the data, or the rights to publish. JS is an Investigator of the Howard Hughes Medical Institute. TB is",
+        "Pew Biomedical Scholar and is supported by NIH R35 GM119774-01. EBH and RAN are supported by University of Basel core funding. Sequencing analyses of SARS-CoV-2 genomes from California was supported by an NIH grant R33-AI129455 and the Charles and Helen Schwab Foundation to CYC, and an NIH grant K08-CA230156 and the Burroughs-Wellcome CAMS Award to WG"
+    ],
+    "author": "the Seattle Flu Study Investigators; Amanda Adler; Shari Cho; Jay Shendure; Richard A Neher; Kairsten Fay; Suxiang Tong; Xianding Deng; Chris D Frazar; Helen Y Chu; Mark J Rieder; Kirsten Lacombe; Ying Tao; Hong Xie; Philip Dykema; Trevor Bedford; Emma B Hodcroft; Janet A Englund; Meei-Li Huang; Jeff Duchin; Geoffrey S Baird; Keith R Jerome; Misja Ilcisin; Geoff Melly; Anna Uehara; Alexander L. Greninger; Charles Chiu; Brian Hiatt; Lea M Starita; Peter D Han; Arun Nalla; Jover Lee; Michael Famulare; Elisabeth Brandstetter; Danielle Giroux; Lasata Shrestha; Matthew Richardson; Nicola F M\u00fcller; James Hadfield; John Huddleston; Louise H Moncla; Krista Queen; Melissa Truong; Thomas R Sibley; Duncan MacCannell; Pavitra Roychoudhury; Gregory L Armstrong; Scot Federman; Adam Reinhardt; Truong N Nguyen; Anahita Kiavand; Romesh Gautom; Scott Lindquist; Deborah A Nickerson; Gregory Pepper; Caitlin R Wolf; Wei Gu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.02.20051417",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20051417"
+    },
+    "title": "Cryptic transmission of SARS-CoV-2 in Washington State",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Basel"
+                }
+            ],
+            "funding-statement": "EBH and RAN are supported by University of Basel core funding"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R33-AI129455"
+                    ]
+                },
+                {
+                    "funding-source": "Charles and Helen Schwab Foundation",
+                    "award-id": [
+                        "K08-CA230156"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "K08-CA230156"
+                    ]
+                },
+                {
+                    "funding-source": "Burroughs-Wellcome CAMS Award"
+                }
+            ],
+            "funding-statement": "Sequencing analyses of SARS-CoV-2 genomes from California was supported by an NIH grant R33-AI129455 and the Charles and Helen Schwab Foundation to CYC, and an NIH grant K08-CA230156 and the Burroughs-Wellcome CAMS Award to WG"
+        }
+    ]
+}

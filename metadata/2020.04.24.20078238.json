@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 disease is a global pandemic and it appears as pandemic for each and every nation and territory in the earth.This paper focusses on analysing the global COVID-19 data by popular machine learning techniques to know which covariates are importantly associated with the cumulative number of confirmed cases, whether the countries are clustered with respect to the covariates considered, whether the variation in the covariates are explained by any latent factor. Regression tree, cluster analysis and principal component analysis are implemented to global COVID-19 data of 133 countries obtained from the Worldometer website as reported as on April 17, 2020. Our results suggest that there are four major clusters among the countries. First cluster consists of 8 countries where cumulative infected cases and deaths are highest. It is also revealed that there are two principal components. The countries which play vital role to explain the 60\\% variation of the total variations by the first component characterized by all variables except the rate variables include USA, Spain, Italy, France, Germany, UK, and Iran. Remaining countries contribute to explaining 20\\% variation of the total variations by the second component characterized by only three rate variables. We also found that the number of tests by the country variable among other variables country, number of active cases, number of deaths, number of recovered patients, number of serious cases, and number of new cases is an unimportant variable to predict cumulative number of confirmed cases. Hence, the number of tests might play vital role to individual country level who are in the primary level of virus spread but not to the global level.",
+    "author": "Hasinur Rahaman Khan; Ahmed Hossain",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078238",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078238"
+    },
+    "title": "Countries are Clustered but Number of Tests is not Vital to Predict Global COVID-19 Confirmed Cases: A Machine Learning Approach",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There is no funding for this study."
+        }
+    ]
+}

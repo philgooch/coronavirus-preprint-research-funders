@@ -1,0 +1,38 @@
+{
+    "abstract": "Background: While the recommended laboratory diagnosis of COVID-19 is a molecular based assay, population-based studies to determine the prevalence of COVID-19 usually use serological assays. Objective: To evaluate the sensitivity and specificity of a rapid diagnostic test for COVID-19 compared to quantitative reverse transcription polymerase chain reaction (qRT-PCR). Methods: We evaluated the sensitivity using a panel of finger prick blood samples from participants >18 years of age that had been tested for COVID-19 by qRT-PCR. For assessing specificity, we used serum samples from the 1982 Pelotas (Brazil) Birth Cohort participants collected in 2012 with no exposure to SARS-CoV-2. Results: The sensitivity of the test was 77.1% (95% CI 66.6 - 85.6), based upon 83 subjects who had tested positive for qRT-PCR at least 10 days before the rapid diagnostic test (RDT). Based upon 100 sera samples, specificity was 98.0% (95% CI 92.9 - 99.8). There was substantial agreement (Kappa score 0.76) between the qRT-PCR results and the RDT. Interpretation. The validation results are well in line with previous assessments of the test, and confirm that it is sufficiently precise for epidemiological studies aimed at monitoring levels and trends of the COVID-19 pandemic.\nCompeting Interest Statement",
+    "affiliations": [
+        "UNIMED Porto Alegre, Instituto Cultural Floresta and Instituto Serrapilheira. None of these funding sources took any part in study conceptualization, data collection, analysis or manuscript preparation, reviewing, or in the decision to submit the article for publication"
+    ],
+    "author": "Eliana M Wendland; Mariangela F Silveira; Luciana Tovo-Rodrigues; Pedro C Hallal; Marcos RA Ferreira; Odir A Dellagostin; Cesar G Victora; Lucia C Pellanda; Aluisio JD Barros; Alan JA McBride",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093476",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093476"
+    },
+    "title": "Sensitivity and specificity of a rapid test for assessment of exposure to SARS-CoV-2 in a community-based setting in Brazil",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Data Committee"
+                },
+                {
+                    "funding-source": "State of Rio Grande do Sul",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Brazilian Ministry of Health. Financial"
+                },
+                {
+                    "funding-source": "UNIMED Porto Alegre, Instituto"
+                },
+                {
+                    "funding-source": "Cultural Floresta and Instituto Serrapilheira. None"
+                }
+            ],
+            "funding-statement": "This work started through the Data Committee created by the State of Rio Grande do Sul government to fight the COVID-19 pandemics. The tests used in the study have been provided by the Brazilian Ministry of Health. Financial support for for data collection was provided by UNIMED Porto Alegre, Instituto Cultural Floresta and Instituto Serrapilheira. None of these funding sources took any part in study conceptualization, data collection, analysis or manuscript preparation, reviewing, or in the decision to submit the article for publication."
+        }
+    ]
+}

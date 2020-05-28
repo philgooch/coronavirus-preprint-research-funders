@@ -1,0 +1,118 @@
+{
+    "abstract": "Background Accurate risk prediction of clinical outcome would usefully inform clinical decisions and intervention targeting in COVID-19. The aim of this study was to derive and validate risk prediction models for poor outcome and death in adult inpatients with COVID-19. Methods Model derivation using data from Wuhan, China used logistic regression with death and poor outcome (death or severe disease) as outcomes. Predictors were demographic, comorbidity, symptom and laboratory test variables. The best performing models were externally validated in data from London, UK. Findings 4.3% of the derivation cohort (n=775) died and 9.7% had a poor outcome, compared to 34.1% and 42.9% of the validation cohort (n=226). In derivation, prediction models based on age, sex, neutrophil count, lymphocyte count, platelet count, C-reactive protein and creatinine had excellent discrimination (death c-index=0.91, poor outcome c-index=0.88), with good-to-excellent calibration. Using two cut-offs to define low, high and very-high risk groups, derivation patients were stratified in groups with observed death rates of 0.34%, 15.0% and 28.3% and poor outcome rates 0.63%, 8.9% and 58.5%. External validation discrimination was good (c-index death=0.74, poor outcome=0.72) as was calibration. However, observed rates of death were 16.5%, 42.9% and 58.4% and poor outcome 26.3%, 28.4% and 64.8% in predicted low, high and very-high risk groups. Interpretation Our prediction model using demography and routinely-available laboratory tests performed very well in internal validation in the lower-risk derivation population, but less well in the much higher-risk external validation population. Further external validation is needed. Collaboration to create larger derivation datasets, and to rapidly externally validate all proposed prediction models in a range of populations is needed, before routine implementation of any risk prediction tool in clinical care.",
+    "affiliations": [
+        "National Institute for Health Research (NIHR) Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King\u0092s College London. DMB is funded by"
+    ],
+    "author": "Jiaxing Sun; Chenghong Li; Xiaodong Wu; Ting Shi; Daniel Bean; Huayu Zhang; Kevin Dhaliwal; Pei Zhao; Qiang Li; James T Teo; Kun Wang; Richard Dobson; Bruce Guthrie; Xin Zhang; Honghan Wu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20082222",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20082222"
+    },
+    "title": "Risk prediction for poor outcome and death in hospital in-patients with COVID-19: derivation in Wuhan, China and external validation in London, UK",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council and Health Data Research UK Grant",
+                    "award-id": [
+                        "MR/S004149/1"
+                    ]
+                },
+                {
+                    "funding-source": "Industrial Strategy Challenge Grant",
+                    "award-id": [
+                        "MC_PC_18029"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Institutional Translation Partnership Award",
+                    "award-id": [
+                        "PIII054"
+                    ]
+                }
+            ],
+            "funding-statement": "HW and HZ are supported by Medical Research Council and Health Data Research UK Grant (MR/S004149/1), Industrial Strategy Challenge Grant (MC_PC_18029) and Wellcome Institutional Translation Partnership Award (PIII054)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "South London and Maudsley NHS Foundation Trust and"
+                },
+                {
+                    "funding-source": "College London"
+                }
+            ],
+            "funding-statement": "RD is supported by the National Institute for Health Research (NIHR) Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King\u0092s College London"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UKRI Innovation Fellowship",
+                    "award-id": [
+                        "MR/S0031"
+                    ]
+                },
+                {
+                    "funding-source": "Health Data Research UK",
+                    "award-id": [
+                        "MR/S00310X/1",
+                        "https://www.hdruk.ac.uk"
+                    ]
+                }
+            ],
+            "funding-statement": "DMB is funded by a UKRI Innovation Fellowship as part of Health Data Research UK MR/S00310X/1 (https://www.hdruk.ac.uk)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "LifeArc STOPCOVID"
+                }
+            ],
+            "funding-statement": "KD is supported by LifeArc STOPCOVID award"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81700006"
+                    ]
+                }
+            ],
+            "funding-statement": "XW is supported by National Natural Science Foundation of China (grant number:81700006)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D Program",
+                    "award-id": [
+                        "2018YFC1313700"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81870064"
+                    ]
+                },
+                {
+                    "funding-source": "Pudong Health and Family Planning Commission",
+                    "award-id": [
+                        "PWYgy2018-06"
+                    ]
+                }
+            ],
+            "funding-statement": "QL is supported by National Key R&D Program (2018YFC1313700), National Natural Science Foundation of China (grant number: 81870064) and the \u201cGaoyuan\u201d project of Pudong Health and Family Planning Commission (PWYgy2018-06)"
+        }
+    ]
+}

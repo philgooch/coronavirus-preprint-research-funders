@@ -1,0 +1,29 @@
+{
+    "abstract": "This study investigates the contribution of population age structure to mortality from Covid-19 in the UK by geographical units. We project death rates at various spatial scales by applying data on age-specific fatality rates to the area's population by age and sex. Our analysis shows a significant variation in the projected death rates between the constituent countries of the UK, between its regions and within regions. First, Scotland and Wales have higher projected fatality levels from Covid-19 than England, whereas Northern Ireland has lower rate. Second, the infection fatality rates are projected to be substantially higher in small towns and rural areas than those in large urban areas. Third, our analysis shows that within urban regions there are also 'pockets' of high projected death rates. Overall, the areas with high and low fatality rates tend to cluster because of the high residential separation of different population age-groups in the UK. Our analysis also reveals that the Welsh-, Gaelic- and Cornish-speaking communities with relatively old populations are likely to experience heavy population losses if the virus spreads widely across the UK.",
+    "affiliations": [
+        "ESRC Centre for Population Change (CPC)"
+    ],
+    "author": "Peter Dorey; Hill Kulu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067991",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067991"
+    },
+    "title": "The Contribution of Age Structure to the Number of Deaths from Covid-19 in the UK by Geographical Units",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Economic and Social Research Council",
+                    "award-id": [
+                        "ES/K007394/1"
+                    ]
+                },
+                {
+                    "funding-source": "ESRC Centre for Population Change"
+                }
+            ],
+            "funding-statement": "This research was supported by Economic and Social Research Council grant ES/K007394/1 and carried out in the ESRC Centre for Population Change (CPC)"
+        }
+    ]
+}

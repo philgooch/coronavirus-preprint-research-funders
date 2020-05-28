@@ -1,0 +1,29 @@
+{
+    "abstract": "Background: SARS-CoV-2 reverse transcriptase polymerase chain reaction (RT-PCR) testing remains the cornerstone of laboratory-based identification of patients with COVID-19. As the availability and speed of SARS-CoV-2 testing platforms improve, results are increasingly relied upon to inform critical decisions related to therapy, use of personal protective equipment, and workforce readiness. However, early reports of RT-PCR test performance have left clinicians and the public with concerns regarding the reliability of this predominant testing modality and the interpretation of negative results. In this work, two independent research teams report the frequency of discordant SARS-CoV-2 test results among initially negative, repeatedly tested patients in regions of the United States with early community transmission and access to testing. Methods: All patients at the University of Washington (UW) and Stanford Health Care undergoing initial testing by nasopharyngeal (NP) swab between March 2nd and April 7th, 2020 were included. SARS-CoV-2 RT-PCR was performed targeting the N, RdRp, S, and E genes and ORF1ab, using a combination of Emergency Use Authorization laboratory-developed tests and commercial assays. Results through April 14th were extracted to allow for a complete 7-day observation period and an additional day for reporting. Results: A total of 23,126 SARS-CoV-2 RT-PCR tests (10,583 UW, 12,543 Stanford) were performed in 20,912 eligible patients (8,977 UW, 11,935 Stanford) undergoing initial testing by NP swab; 626 initially test-negative patients were re-tested within 7 days. Among this group, repeat testing within 7 days yielded a positive result in 3.5% (4.3% UW, 2.8% Stanford) of cases, suggesting an initial false negative RT-PCR result; the majority (96.5%) of patients with an initial negative result who warranted reevaluation for any reason remained negative on all subsequent tests performed within this window. Conclusions: Two independent research teams report the similar finding that, among initially negative patients subjected to repeat SARS-CoV-2 RT-PCR testing, the occurrence of a newly positive result within 7 days is uncommon. These observations suggest that false negative results at the time of initial presentation do occur, but potentially at a lower frequency than is currently believed. Although it is not possible to infer the clinical sensitivity of NP SARS-CoV-2 RT-PCR testing using these data, they may be used in combination with other reports to guide the use and interpretation of this common testing modality.\nCompeting Interest Statement",
+    "author": "Nigam H Shah; Jacob Sunshine; Noel S Weiss; Alex L Greninger; Vikas OReilly Shah; Keith R Jerome; Bryan Stevens; Christina S Kong; Benjamin A Pinsky; Chloe Bryson-Cahn; Catherine A Hogan; James Zehnder; Saurabh Gombar; Arjun Rustagi; Dustin R Long",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089151",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089151"
+    },
+    "title": "Occurrence and Timing of Subsequent SARS-CoV-2 RT-PCR Positivity Among Initially Negative Patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "T32 GM086270-11"
+                    ]
+                },
+                {
+                    "funding-source": "NIGMS",
+                    "award-id": [
+                        "T32 GM086270-11"
+                    ]
+                }
+            ],
+            "funding-statement": "NIH/NIGMS (T32 GM086270-11, DRL)"
+        }
+    ]
+}

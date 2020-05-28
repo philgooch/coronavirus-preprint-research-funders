@@ -1,0 +1,32 @@
+{
+    "title": "Structural modeling of 2019-novel coronavirus (nCoV) spike protein reveals a proteolytically-sensitive activation loop as a distinguishing feature compared to SARS-CoV and related SARS-like coronaviruses",
+    "author": "Javier A Jaimes",
+    "date": 2020,
+    "affiliations": [
+        "Department of Microbiology and Immunology, College of Veterinary Medicine, Cornell University, Ithaca NY 14853 USA",
+        "Virologie et Immunologie Mol\u00e9culaires, INRAE, Universit\u00e9 Paris-Saclay, 78352 Jouy-en-Josas, France",
+        "Corresponding author:",
+        "Johns Hopkins University, 2019). Similar to SARS-CoV and MERS-CoV, 2019-nCoV infections were observed in family clusters and hospital personnel (Chan et al., 2020; Gralinski and Menachery, 2020; Lu et al., 2020; Phan et al., 2020). The outbreak occurring during the winter is another commonality between SARS-CoV and 2019-nCoV (Zhou et al., 2020a)"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.10.942185",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.10.942185.pdf"
+    },
+    "abstract": "The 2019 novel coronavirus (2019-nCoV) is currently causing a widespread outbreak centered on Hubei province, China and is a major public health concern. Taxonomically 2019-nCoV is closely related to SARS-CoV and SARS-related bat coronaviruses, and it appears to share a common receptor with SARS-CoV (ACE-2). Here, we perform structural modeling of the 2019-nCoV spike glycoprotein. Our data provide support for the similar receptor utilization between 2019-nCoV and SARS-CoV, despite a relatively low amino acid similarity in the receptor binding module. Compared to SARS-CoV, we identify an extended structural loop containing basic amino acids at the interface of the receptor binding (S1) and fusion (S2) domains, which we predict to be",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "research R01AI35270"
+                    ]
+                }
+            ],
+            "funding-statement": "Work in the author\u2019s laboratory is supported by the National Institutes of Health (research grant R01AI35270)"
+        }
+    ]
+}

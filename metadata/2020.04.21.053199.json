@@ -1,0 +1,27 @@
+{
+    "title": "Bioinformatics Study on Structural Proteins of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-COV-2) For Better Understanding the Vaccine Development",
+    "date": 2020,
+    "author": "Respiratory Syndrome Coronavirus 2 (SARS-COV-2) For Better",
+    "affiliations": [
+        "Department of Biotechnology and Bioinformatics International Islamic University Islamabad Pakistan",
+        "International Center for Chemical and Biological Sciences University of Karachi Pakistan"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.21.053199",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.21.053199.pdf"
+    },
+    "abstract": "Novel coronavirus 2019 (2019-nCoV), also known as SARS-CoV-2), leads high morbidity and mortality in global epidemics. Four structural proteins (surface glycoprotein (QIQ22760.1), envelop glycoprotein (QIQ22762.1), nucleocapsid phosphoprotein (QIQ22768.1) and membrane glycoprotein (QIQ22763.1)) of SARS-CoV-2 are extracted from the NCBI database and further analyzed with ExPASy ProtParam tool. Lucien is the highest in envelope, surface and membrane glycoprotein that is an optimal environment for rapid virus fixation on host cell's surface to the receptor molecule. Transmembrane region prediction was performed by SOSUI server. For all structural proteins, except nucleocapsid Phosphoprotein, the trans-membrane prediction indicates that the virus can enter the host easily. Domain analysis was done by SMART tool. Domain information helps in the function of the viral protein. Lastly, the 3D structure prediction was carried out by Swiss Model and the result validation was achieved by PROCHECK. Such models are the starting point of the community for structural drug and vaccine designs as well as virtual computational screening.",
+    "keywords": [
+        "SARS-Cov-2",
+        "Structural Protein",
+        "Transmembrane",
+        "SMART Tool",
+        "Swiss Model"
+    ],
+    "funding": [
+        {}
+    ]
+}

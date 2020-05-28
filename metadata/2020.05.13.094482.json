@@ -1,0 +1,38 @@
+{
+    "title": "Propagation, inactivation, and safety testing of SARS-CoV-2",
+    "date": 2020,
+    "author": "Alexander S. Jureka 1, Jesus A. Silvas 1,2 and Christopher F. Basler 1",
+    "affiliations": [
+        "Center for Microbial Pathogenesis, Institute for Biomedical Sciences, Georgia State University, Atlanta, GA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.13.094482",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.13.094482.pdf"
+    },
+    "abstract": "In late 2019, a novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS10 CoV-2) emerged in Wuhan, the capital of the Chinese province Hubei. Since then, SARS-CoV-2 has been responsible for a worldwide pandemic resulting in over 4 million infections and over 250,000 deaths. The pandemic has instigated widespread research related to SARS-CoV-2 and the disease that it causes, COVID-19. Research into this new virus will be facilitated by the availability of clearly described and effective procedures that enable the propagation and quantification of infectious virus. Because work with the virus is recommended to be performed at biosafety level 3, validated methods to effectively inactivate the virus to enable safe study of RNA, DNA and protein from infected cells are also needed. Here, we report methods used to grow SARS-CoV-2 in multiple cell lines and to measure virus infectivity by plaque assay using either agarose or microcrystalline cellulose as an overlay as well as a SARS-CoV-2 specific focus forming assay. We also demonstrate effective inactivation by TRIzol, 10% neutral buffered formalin, beta propiolactone, and heat.",
+    "keywords": [
+        "SARS-CoV-2",
+        "Coronavirus",
+        "Virus",
+        "Virology",
+        "Plaque Assay",
+        "Inactivation 22"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "P01AI120943",
+                        "R01AI143292"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was funded by NIH grants to CFB, including P01AI120943 and R01AI143292."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "abstract": "Coronavirus 2019 (COVID-19), caused by the SARS-CoV-2 virus, has become the deadliest pandemic in modern history, reaching nearly every country worldwide and overwhelming healthcare institutions. As of April 20, there have been more than 2.4 million confirmed cases with over 160,000 deaths. Extreme case surges coupled with challenges in forecasting the clinical course of affected patients have necessitated thoughtful resource allocation and early identification of high-risk patients. However, effective methods for achieving this are lacking. In this paper, we present a decision tree-based machine learning model trained on electronic health records from patients with confirmed COVID-19 at a single center within the Mount Sinai Health System in New York City. We then externally validate our model by predicting the likelihood of critical event or death within various time intervals for patients after hospitalization at four other hospitals and achieve strong performance, notably predicting mortality at 1 week with an AUC-ROC of 0.84. Finally, we establish model interpretability by calculating SHAP scores to identify decisive features, including age, inflammatory markers (procalcitonin and LDH), and coagulation parameters (PT, PTT, D-Dimer). To our knowledge, this is one of the first models with external validation to both predict outcomes in COVID-19 patients with strong validation performance and identification of key contributors in outcome prediction that may assist clinicians in making effective patient management decisions.",
+    "author": "Anuradha Lala; Kipp W Johnson; Eddye Golden; Eric E Schadt; Barbara Murphy; Riccardo Miotto; Emilia Bagiella; Patricia Glowe; Eric J Nestler; Matteo Danieletto; Samuel J Lee; Judith A Aberg; Jagat Narula; Andrew Kasarskis; Valentin Fuster; Joseph Finkelstein; Alexander W Charney; Adam J Russak; Laura H Huckins; Akhil Vaid; Edgar Argulian; Girish N Nadkarni; Ishan Paranjpe; Benjamin S Glicksberg; Fayzan F Chaudhry; Robert M Freeman; Paul F O'Reilly; Arash Kia; Allan Just; Carlos Cordon-Cardo; Nidhi Naik; Carol R Horowitz; Sulaiman Somani; Kodi Arfer; Prem Timsina; Matthew A Levin; Shan Zhao; Manish Paranjpe; Noam Beckmann; Dara Meyer; Patricia Kovatch; Bethany Percha; Judy H Cho; Erwin P Bottinger; Manbir Singh; David L Reich; Dennis S Charney; Jessica K De Freitas; Zahi A Fayad",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20073411",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20073411"
+    },
+    "title": "Machine Learning to Predict Mortality and Critical Events in COVID-19 Positive New York City Patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Author Declarations All"
+                },
+                {
+                    "funding-source": "Yes All",
+                    "award-id": [
+                        "note: if posting a prospective study registered retrospectively",
+                        "please provide a statement in the trial ID field explaining why the study was not registered in advance"
+                    ]
+                },
+                {
+                    "funding-source": "EQUATOR Network"
+                }
+            ],
+            "funding-statement": "Statement n/a Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript.  Yes All necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived. I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance). I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable."
+        }
+    ]
+}

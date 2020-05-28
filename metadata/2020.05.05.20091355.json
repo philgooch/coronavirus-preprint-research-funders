@@ -1,0 +1,33 @@
+{
+    "abstract": "COVID-19, caused by SARS-CoV-2, is an acute self-resolving disease in most of the patients, but some patients can develop a severe illness or even death. To characterize the host responses and identify potential biomarkers during disease progression, we performed a longitudinal transcriptome analysis for peripheral blood mononuclear cells (PBMCs) collected from 4 COVID-19 patients at 4 different time points from symptom onset to recovery. We found that PBMCs at different COVID-19 disease stages exhibited unique transcriptome characteristics. SARS-CoV-2 infection dysregulated innate immunity especially type I interferon response as well as the disturbed release of inflammatory cytokines and lipid mediators, and an aberrant increase of low-density neutrophils may cause tissue damage. Activation of cell death, exhaustion and migratory pathways may lead to the reduction of lymphocytes and dysfunction of adaptive immunity. COVID-19 induced hypoxia may exacerbate disorders in blood coagulation. Based on our analysis, we proposed a set of potential biomarkers for monitoring disease progression and predicting the risk of severity.",
+    "affiliations": [
+        "National Natural Science Foundation of China (82041014 and 81661148056), the Chinese Academy of Sciences Pilot Strategic Science and Technology Projects (XDB29050701)"
+    ],
+    "author": "Qihong Yan; Ying Feng; Ling Chen; Yudi Zhang; Kun Luo; Chunliang Lei; Qian Wang; Jia Luo; Zhilong Chen; Jianhua Wang; Xuefeng Niu; Bo Feng; Jinlin Wang; Fuchun Zhang; Fang Li; Tianxing Ji; Zhaoming Chen; Linbing QU; Xiaoneng Mo; Xianmiao Ye; Xiaohan Huang; Pingchao Li; Liqiang Feng; Feng Li",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091355",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091355"
+    },
+    "title": "Longitudinal peripheral blood transcriptional analysis of COVID-19 patients captures disease progression and reveals potential biomarkers",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "82041014",
+                        "81661148056"
+                    ]
+                },
+                {
+                    "funding-source": "Chinese Academy of Sciences Pilot Strategic Science and Technology Projects",
+                    "award-id": [
+                        "XDB29050701"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Natural Science Foundation of China (82041014 and 81661148056), the Chinese Academy of Sciences Pilot Strategic Science and Technology Projects (XDB29050701)"
+        }
+    ]
+}

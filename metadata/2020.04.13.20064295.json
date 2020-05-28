@@ -1,0 +1,23 @@
+{
+    "abstract": "Background and Objective: Recently, in the scramble to find drugs to treat COVID-19, chloroquine (CQ) and its derivative hydroxychloroquine (HCQ) have rapidly gained the public attention. In this study, we conducted a meta-analysis of randomized clinical trials (RCTs) to evaluate the efficacy and safety of CQ and HCQ in the treatment of viral diseases. Methods: We searched PubMed, EMBASE, Cochrane Central, Web of Science, Clinical Trials Registries, CNKI, Wanfang Data, CQVIP, and Preprint Servers through April 4, 2020, for randomized controlled trials (RCTs) that examined the efficacy and safety of CQ and HCQ against viral infection. We analyzed pooled data on the overall efficacy, the relative risks over the placebo, and the prevalence of adverse events. Trial sequential analysis (TSA) was also performed to evaluate the random errors in the meta-analysis. Potential moderators of drug-placebo efficacy differences were analyzed by meta-regression. Results: The analysis included 11 RCTs with 2613 adult patients. Both the plasma viral load (standard mean difference: 0.29, 95% CI: -1.19 - 1.76, P = 0.70) and the improvement of clinical symptoms (odds ratio: 2.36, 95% CI: 0.81 - 6.92, P = 0.11) were not different between the intervention and placebo arm. There was significant heterogeneity for the efficacy assessment, which was primarily explained by the age of patients and the sample size. Compared to the placebo, CQ and HCQ had increased risk of mild adverse events (risk ratio: 1.51, 95% CI: 1.35 - 1.70, P < 0.05, TSA adjusted 95% CI: 1.31 - 2.19), which were statistically significant in nervous, integumentary, and gastrointestinal systems. The most common adverse events were observed in the nervous system, with the pooled prevalence of 31.4% (95% CI: 10.5% - 56.7%). Conclusions: Insufficient data were available to support the antiviral efficacy of CQ and HCQ due to the high heterogeneity caused by the age of patients. Mild side effects are expected for the current antiviral dose regimens of CQ and HCQ. Treatment outcomes may be enhanced by better-selected patients based on age and well-controlled adverse events.",
+    "author": "Kefeng Li; Li Yu; Jing Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20064295",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20064295"
+    },
+    "title": "Benefits and Risks of Chloroquine and Hydroxychloroquine in The Treatment of Viral Diseases: A Meta-Analysis of Placebo Randomized Controlled Trials",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Shandong Provincial Natural Science Foundation",
+                    "award-id": [
+                        "ZR2017MH075"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was partially supported by the Shandong Provincial Natural Science Foundation (Grant No ZR2017MH075, J.W.)"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "abstract": "Objective This living systematic review aims to provide a timely, rigorous and continuously updated summary of the evidence available on the role of vitamin C in the treatment of patients with COVID-19. Data sources We will conduct searches in PubMed/Medline, Embase, Cochrane Central Register of Controlled Trials (CENTRAL), grey literature and in a centralised repository in L OVE (Living OVerview of Evidence). L OVE is a platform that maps PICO questions to evidence from Epistemonikos database. In response to the COVID-19 emergency, L OVE was adapted to expand the range of evidence it covers and customised to group all COVID-19 evidence in one place. The search will cover the period until the day before submission to a journal. Eligibility criteria for selecting studies and methods We adapted an already published common protocol for multiple parallel systematic reviews to the specificities of this question. We will include randomised trials evaluating the effect of vitamin C, as monotherapy or in combination with other drugs, versus placebo or no treatment in patients with COVID-19. Randomised trials evaluating vitamin C in infections caused by other coronaviruses, such as MERS-CoV and SARS-CoV, and non-randomised studies in COVID-19 will be searched in case no direct evidence from randomised trials is found, or if the direct evidence provides low- or very low-certainty for critical outcomes. Two reviewers will independently screen each study for eligibility, extract data, and assess the risk of bias. We will pool the results using meta-analysis and will apply the GRADE system to assess the certainty of the evidence for each outcome. A living, web-based version of this review will be openly available during the COVID-19 pandemic. We will resubmit it every time the conclusions change or whenever there are substantial updates. Ethics and dissemination No ethics approval is considered necessary. The results of this review will be widely disseminated via peer-reviewed publications, social networks and traditional media. PROSPERO Registration Submitted to PROSPERO (awaiting ID allocation). Keywords COVID-19, severe acute respiratory syndrome coronavirus 2, Coronavirus Infections, Systematic review, vitamin c, ascorbic acid.",
+    "author": "Eduard Baladia; Gabriel Rada; Ana Beatriz Pizarro",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083360",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083360"
+    },
+    "keywords": [
+        "COVID-19",
+        "Coronavirus Infections",
+        "Systematic review",
+        "vitamin c",
+        "ascorbic acid"
+    ],
+    "title": "Vitamin C for the treatment of COVID-19: A living systematic review",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Epistemonikos Foundation",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "OVE Working Group."
+                }
+            ],
+            "funding-statement": "This project was not commissioned by any organisation and did not receive external funding. Epistemonikos Foundation is providing training, support, and tools at no cost for all the members of the COVID-19 L\u00b7OVE Working Group."
+        }
+    ]
+}

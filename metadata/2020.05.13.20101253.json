@@ -1,0 +1,20 @@
+{
+    "abstract": "Objective To estimate the infection fatality rate of coronavirus disease 2019 (COVID-19) from data of seroprevalence studies. Methods Population studies with sample size of at least 500 and  were retrieved from PubMed, preprint servers, and communications with experts. Studies on blood donors were included, but studies on healthcare workers were excluded. The studies were assessed for design features and seroprevalence estimates. Infection fatality rate was estimated from each study dividing the number of COVID-19 deaths at a relevant time point by the number of estimated people infected in each relevant region. Correction was also attempted accounting for the types of antibodies assessed. Results Twelve studies were identified with usable data to enter into calculations. Seroprevalence estimates ranged from 0.113% to 25.9% and adjusted seroprevalence estimates ranged from 0.309% to 33%. Infection fatality rates ranged from 0.03% to 0.50% and corrected values ranged from 0.02% to 0.40%. Conclusions The infection fatality rate of COVID-19 can vary substantially across different locations and this may reflect differences in population age structure and case-mix of infected and deceased patients as well as multiple other factors. Estimates of infection fatality rates inferred from seroprevalence studies tend to be much lower than original speculations made in the early days of the pandemic.\nCompeting Interest Statement\nThe authors have declared no competing interest.\nFunding Statement\nMETRICS has been supported by a grant from the Laura and John Arnold Foundation\nAuthor Declarations\nAll relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript.\nYes\nAll necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived.\nYes\nI understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).",
+    "author": "John Ioannidis",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20101253",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20101253"
+    },
+    "title": "The infection fatality rate of COVID-19 inferred from seroprevalence data",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Laura and John Arnold Foundation"
+                }
+            ],
+            "funding-statement": "METRICS has been supported by a grant from the Laura and John Arnold Foundation"
+        }
+    ]
+}

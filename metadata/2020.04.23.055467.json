@@ -1,0 +1,31 @@
+{
+    "title": "Multi-epitope based peptide vaccine design against SARS-CoV-2 using its spike protein",
+    "author": "Windows User",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biochemistry, School of Life Sciences, Central University of Rajasthan, Ajmer, Rajasthan, India. 305817",
+        "Department of Microbiology, School of Life Sciences, Central University of Rajasthan, Ajmer, Rajasthan, India. 305817 3: Department of Biotechnology, School of Life Sciences, Central University of Rajasthan, Ajmer, Rajasthan, India. 305817",
+        "Shiv Swaroop Department of Biochemistry, School of Life Sciences Central University of Rajasthan Bandarsindri, NH-8, Kishangarh, Ajmer (305817) Rajasthan - INDIA",
+        "Current Address Department of Biosciences and Bioengineering, Indian Institute of Bombay, Powai, Mumbai, Maharashtra, India. 400076",
+        "Current Address Department of Pharmacology, Postgraduate Institute of Medical Education and Research, Chandigarh, India. 160012"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.23.055467",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.23.055467.pdf"
+    },
+    "abstract": "SARS CoV-2 has particularly been efficient in ensuring that entire countries are brought to a standstill. With repercussions ranging from rampant mortality, fear, paranoia and economic recession the virus has brought together countries in order to look at possible therapeutic countermeasures. With prophylactic interventions possibly months away from particularly being effective, a slew of measures and possibilities concerning design of vaccines are being worked upon. We attempt a structure based approach utilizing a combination of epitope prediction servers to develop a multi-epitope based subunit vaccine that involves the two major domains of the spike glycoprotein of SARS CoV-2 ( S1 and S2) coupled with a substantially effective chimeric adjuvant acting as a triagonist to substantially create stable vaccine constructs through MD simulations. The designed constructs are evaluated based on their docking with Toll Like Receptor (TLR) 4. Our findings provide epitope-based peptide fragment which can be potential candidates for development of vaccine against SARS-CoV-2.",
+    "keywords": [
+        "SARS-CoV-2",
+        "vaccine design",
+        "Spike protein",
+        "docking",
+        "MD simulations",
+        "Adjuvant"
+    ],
+    "funding": [
+        {}
+    ]
+}

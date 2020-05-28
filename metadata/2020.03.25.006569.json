@@ -1,0 +1,37 @@
+{
+    "title": "Codon usage and evolutionary rates of the 2019-nCoV genes",
+    "keywords": [
+        "genome",
+        "coronavirus",
+        "2019-nCoV",
+        "codon usage bias",
+        "evolutionary rates",
+        "Forsdyke plot"
+    ],
+    "author": "Firstname Lastname, Firstname Lastname and Firstname Lastname",
+    "date": 2019,
+    "affiliations": [
+        "Physics Department, Sapienza University of Rome, Rome, Italy",
+        "Liceo Scientifico Statale Augusto Righi, Rome, Italy",
+        "Izmir Biomedicine and Genome Center (IBG), 35340 Balcova, Izmir, Turkey",
+        "Izmir International Biomedicine and Genome Institute, Dokuz Eyl\u00fcl University, 35340 Balcova, Izmir, Turkey",
+        "DNA Damage Laboratory, Physics Department, School of Applied Mathematical and Physical Sciences",
+        "National Technical University of Athens (NTUA), Athens, Greece",
+        "INFN Roma1 unit, Rome, Italy",
+        "Correspondence:",
+        "These authors contributed equally to this work"
+    ],
+    "journal": "Version March",
+    "volume": "27",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.25.006569",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.25.006569.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (2019-nCoV), which first broke out in 2 Wuhan (China) in December of 2019, causes a severe acute respiratory illness with a mortality 3 ranging from 3% to 6%. To better understand the evolution of the newly emerging 2019-nCoV, in this 4 paper, we analyze the codon usage pattern of 2019-nCoV. For this purpose, we compare the codon 5 usage of 2019-nCoV with that of other 30 viruses belonging to the subfamily of orthocoronavirinae. 6 We found that 2019-nCoV shows a rich composition of AT nucleotides that strongly influences its 7 codon usage, which appears to be not optimized to human host. Then, we study the evolutionary 8 pressures influencing the codon usage and evolutionary rates of the sequences of five conserved 9 genes that encode the corresponding proteins (viral replicase, spike, envelope, membrane and nucleocapsid) characteristic of coronaviruses. We found different patterns of both mutational bias and nature selection that affect the codon usage of these genes at different extents. Moreover, we show that the two integral membrane proteins proteins (matrix and envelope) tend to evolve slowly by accumulating nucleotide mutations on their genes. Conversely, genes encoding nucleocapsid (N), viral replicase and spike proteins are important targets for the development of vaccines and antiviral drugs, tend to evolve faster as compared to other ones. Taken together, our results suggest that the higher evolutionary rate observed for these two genes could represent a major barrier in the development of antiviral therapeutics 2019-nCoV.",
+    "funding": [
+        {}
+    ]
+}

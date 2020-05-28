@@ -1,0 +1,16 @@
+{
+    "abstract": "By 29th April 2020, COVID-19 had caused more than 3 million cases across more than 200 countries. And most countries with significant outbreaks had introduced social distancing or \"lockdown\" measures to reduce viral transmission. So the key question now is when, how, and to what extent, these measures can be lifted. By fitting regression models to publically available data on daily numbers of newly-confirmed cases and mortality, trajectories, doubling times and reproduction number (R0) were estimated both before and under the control measures. These data ran up to 29th April 2020, and covered 73 countries that had provided sufficient data for modelling. The estimates of R0, before lockdown, based on these data were broadly consistent with those previously published at between 2.0 and 3.7 in the countries with the largest number of cases available for analysis (USA, Italy, Spain, France and UK). There was little evidence to suggest that the restrictions had reduced R far below 1 in many places, with France having the most rapid reductions - R0 0.77 (95%CI 0.68-0.87), based on cases and 0.78 (95%CI 0.68-0.88) based on mortality. Intermittent lockdown has been proposed as a means of controlling the outbreak while allowing periods of increase freedom and economic activity. These data suggest that few countries could have even one week per month unrestricted without seeing resurgence of the epidemic. Similarly, restoring 20% of the activity that has been prevented by the lockdowns looks difficult to reconcile with preventing the resurgence of the disease in most countries.",
+    "author": "James Chalmers; Mike Lonergan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20080994",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20080994"
+    },
+    "title": "Estimates of the ongoing need for social distancing and control measures post-",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There was no external funding."
+        }
+    ]
+}

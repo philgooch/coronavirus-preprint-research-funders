@@ -1,0 +1,23 @@
+{
+    "title": "Reverse Pneumatic Artificial Muscles for Application in Low-Cost Artificial Respirators",
+    "author": "Seyed M Mirvakili",
+    "date": 2020,
+    "affiliations": [
+        "Koch Institute, Massachusetts Institute of Technology, Cambridge, MA 02139, USA",
+        "Seron Electronics, Vancouver, BC, Canada",
+        "Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "Division of Health Science and Technology, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "Institute for Medical Engineering and Science, Massachusetts Institute of Technology, Cambridge, MA, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.20.107342",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.20.107342.pdf"
+    },
+    "abstract": "Dedicated to those who sacrificed their lives in the front line of the combat with COVID-19. Abstract One of the main challenges associated with mechanical ventilators is their limited availability in pandemics and other emergencies. Therefore, there is a great demand for mechanical ventilators to address this issue. In this work, we propose a low-cost, portable, yet high-performance design for a volume-controlled mechanical ventilator. We are employing pneumatic artificial muscles, such as air cylinders, in the reverse mode of operation to achieve mechanical ventilation. The current design of the device can operate in two modes: controlled mode and assisted mode. Unlike most ICU ventilators, our device does not need a high-pressure air pipeline to operate. With the current design, mechanical ventilation for respiration rate ranging from 10 b/min to 30 b/min with a tidal volume range of 150 mL to 1000 mL and I:E ratio of 1:1 to 1:5 can be performed. We achieved a total cost of less $400 USD to make one device. We estimate the device to cost less than $250 USD when produced in larger volumes.",
+    "funding": [
+        {}
+    ]
+}

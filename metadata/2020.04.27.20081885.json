@@ -1,0 +1,43 @@
+{
+    "abstract": "The adoption of containment measures to reduce the amplitude of the epidemic peak is a key aspect in tackling the rapid spread of an epidemic. Classical compartmental models must be modified and studied to correctly describe the effects of forced external actions to reduce the impact of the disease. In addition, data are often incomplete and heterogeneous, so a high degree of uncertainty must naturally be incorporated into the models. In this work we address both these aspects, through an optimal control formulation of the epidemiological model in presence of uncertain data. After the introduction of the optimal control problem, we formulate an instantaneous approximation of the control that allows us to derive new feedback controlled compartmental models capable of describing the epidemic peak reduction. The need for long-term interventions shows that alternative actions based on the social structure of the system can be as effective as the more expensive global strategy. The importance of the timing and intensity of interventions is particularly relevant in the case of uncertain parameters on the actual number of infected people. Simulations related to data from the recent COVID-19 outbreak in Italy are presented and discussed.",
+    "affiliations": [
+        "This research was partially supported by the Italian Ministry of Education, University and Research (MIUR) through the \"Dipartimenti di Eccellenza\" Programme (2018-2022) -- Department of Mathematics \"F. Casorati\", University of Pavia. M.Z. is member of GNFM (Gruppo Nazionale per la Fisica Matematica) of INdAM (Istituto Nazionale di Alta Matematica), Italy"
+    ],
+    "author": "Mattia Zanella; Giacomo Albi; Lorenzo Pareschi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20081885",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20081885"
+    },
+    "title": "Control with uncertain data of socially structured compartmental epidemic models",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "PRIN Project",
+                    "award-id": [
+                        "2017KKJP4X"
+                    ]
+                }
+            ],
+            "funding-statement": "P. acknowledge the support of PRIN Project 2017, No 2017KKJP4X \u0093Innovative numerical methods for evolutionary partial differential equations and applications\u0094"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Italian Ministry of Education, University"
+                },
+                {
+                    "funding-source": "Dipartimenti di Eccellenza\" Programme",
+                    "award-id": [
+                        "2018-2022"
+                    ]
+                },
+                {
+                    "funding-source": "Department of Mathematics"
+                }
+            ],
+            "funding-statement": "This research was partially supported by the Italian Ministry of Education, University and Research (MIUR) through the \"Dipartimenti di Eccellenza\" Programme (2018-2022) -- Department of Mathematics \"F"
+        }
+    ]
+}

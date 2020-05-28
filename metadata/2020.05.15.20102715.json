@@ -1,0 +1,19 @@
+{
+    "abstract": "Aims: to investigate the spatiotemporal distribution of COVID-19 cases in England; to provide spatial quantification of risk at a high resolution; to provide information for prospective antigen and serological testing. Approach: We fit a spatiotemporal Negative Binomial generalised linear model to Public Health England SARS-CoV-2 testing data at the Lower Tier Local Authority region level. We assume an order-1 autoregressive model for case progression within regions, coupling discrete spatial units via observed commuting data and time-varying measures of traffic flow. We fit the model via maximum likelihood estimation in order to calculate region-specific risk of ongoing transmission, as well as measuring regional uncertainty in incidence. Results: We detect marked heterogeneity across England in COVID-19 incidence, not only in raw estimated incidence, but in the characteristics of within-region and between-region dynamics of PHE testing data. There is evidence for a spatially diverse set of regions having a higher daily increase of cases than others, having accounted for current case numbers, population size, and human mobility. Uncertainty in model estimates is generally greater in rural regions. Conclusions: A wide range of spatial heterogeneity in COVID-19 epidemic distribution and infection rate exists in England currently. Future work should incorporate fine-scaled demographic and health covariates, with continued improvement in spatially-detailed case reporting data. The method described here may be used to measure heterogeneity in real-time as behavioural and social interventions are relaxed, serving to identify \"hotspots\" of resurgent cases occurring in diverse areas of the country, and triggering locally-intensive surveillance and interventions as needed. Caveats: There is general concern over the ability of PHE testing data to capture the true prevalence of infection within the population, though this approach is designed to provide measures of spatial prevalence based on testing that can be used to guide further future testing effort. Now-casts of epidemic characteristics are presented based on testing data alone (as opposed to \"true\" prevalence in any one area). The model used in this analysis is phenomenological for ease and speed of principled parameter inference; we choose the model which best fits the current spatial case timeseries, without attempting to enforce \"SIR\"-type epidemic dynamics.",
+    "affiliations": [
+        "UK Department for Transport on request"
+    ],
+    "author": "Peter J Diggle; Barry Rowlingson; Claudio Fronterre; Chris P Jewell; Jessica Bridgen; Jonathan M Read; Simon Alderton",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20102715",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20102715"
+    },
+    "title": "COVID-19 in England: spatial patterns and regional outbreaks",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for the work contained in this manuscript."
+        }
+    ]
+}

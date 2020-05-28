@@ -1,0 +1,16 @@
+{
+    "abstract": "I use the COVID-19 death rate in South Korea and a method relating the ratio of death rates in a U.S. state to its share of cumulative positive tests to estimate the total cases of COVID-19 in the U.S. and to estimate the extent of infection and the unidentified share of the infected population in each of the lower-48 states and in New York City in mid-April, 2020. I identify a logarithmic relationship between the cumulative death rate in a state and its cumulative positive share of tests. Using this relationship, I find that 4.3-5.4 million people, 1.4-1.7% of the U.S. population, were infected, with rates of infection that ranged from 0.1% in more rural states to 8-10% in New York state and 11-13% in New York City. Only 16-20% of these infected individuals were identified later through testing.",
+    "author": "Theodore R Breton",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083782",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083782"
+    },
+    "title": "A Method to Identify the Missing COVID-19 Cases in the U.S. and Results for mid-April 2020",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received to support this research."
+        }
+    ]
+}

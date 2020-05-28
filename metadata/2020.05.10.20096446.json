@@ -1,0 +1,23 @@
+{
+    "abstract": "The COVID-19 Pandemic has impacted the world's socio-economic system, resulting in a serious health crisis and lockdowns around the world. As the growth of infection slows, decisions regarding easing of lockdown restrictions are required, keeping in view the capacity of the health-care system. In this paper, we quantify the impact of a multi-phased release of the population from lockdown. Using the SIR model for epidemic spread, we design and implement a method to determine the earliest time of release from lockdown restrictions, constrained by a specified threshold on the subsequent peaks of infection. Trade-offs between the threshold and the earliest times of removing lockdown restrictions are illustrated. Additionally, we consider alternative policy decisions where the population is released gradually from lockdown restrictions and illustrate the trade-offs between the rate of release of population and number of active infections.",
+    "author": "Yi Zhang; Sanjiv Kapoor; Mohit Hota",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20096446",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20096446"
+    },
+    "title": "Strategic release of lockdowns in a COVID infection model",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "2028274"
+                    ]
+                }
+            ],
+            "funding-statement": "Partially supported by NSF grant No 2028274"
+        }
+    ]
+}

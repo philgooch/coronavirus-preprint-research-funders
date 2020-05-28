@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: SARS-CoV-2 infection continues to cause significant morbidity and mortality worldwide. Preliminary data on SARS-CoV-2 infection suggests that some immunocompromised hosts experience worse outcomes. We performed a retrospective matched cohort study to characterize outcomes in HIV-positive patients with SARS-CoV-2 infection. Methods: Leveraging data collected from electronic medical records for all patients hospitalized at NYU Langone Health with COVID-19 between March 2, 2020 and April 23, 2020, we matched 21 HIV-positive patients to 42 non-HIV patients using a greedy nearest neighbor algorithm. Admission characteristics, laboratory results, and hospital outcomes were recorded and compared between the two groups. Results: While there was a trend toward increased rates of ICU admission, mechanical ventilation, and mortality in HIV-positive patients, these differences were not statistically significant. Rates for these outcomes in our cohort are similar to those previously published for all patients hospitalized with COVID-19. HIV-positive patients had significantly higher admission and peak CRP values. Other inflammatory markers did not differ significantly between groups, though HIV-positive patients tended to have higher peak values during their clinical course. Three HIV-positive patients had superimposed bacterial pneumonia with positive sputum cultures, and all three patients expired during hospitalization. There was no difference in frequency of thrombotic events or myocardial infarction between these groups. Conclusion: This study provides evidence that HIV coinfection does not significantly impact presentation, hospital course, or outcomes of patients infected with SARS-CoV-2, when compared to matched non-HIV patients. A larger study is required to determine if the trends we observed apply to all HIV-positive patients.\nCompeting Interest Statement",
+    "author": "Jenna Reich; Fainareti N. Zervou; Joseph Rahimian; Gabriel Rebick; Philip M. Carlucci; Ioannis M. Zacharioudakis; Savannah Karmen-Tuohy; Elizabeth Klein; Simon Jones",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20094797",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20094797"
+    },
+    "title": "Outcomes among HIV-positive patients hospitalized with COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors have no funding sources to declare."
+        }
+    ]
+}

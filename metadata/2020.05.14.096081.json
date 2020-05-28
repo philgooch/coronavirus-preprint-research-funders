@@ -1,0 +1,55 @@
+{
+    "title": "Crystal structures of SARS-CoV-2 ADP-ribose phosphatase (ADRP): from the apo form to ligand complexes",
+    "keywords": [
+        "Nsp3b",
+        "Mac1",
+        "MacroD",
+        "ADRP",
+        "adenosine 5\u2019diphosphate ribose",
+        "SARS-CoV-2",
+        "crystal structure",
+        "COVID-19",
+        "ADP-ribosylation"
+    ],
+    "date": 2020,
+    "author": "Karolina Michalska, Youngchang Kim,* Robert Jedrzejczak, Natalia I. Maltseva, Lucy Stols, Michael Endres, and Andrzej Joachimiak,#\u00b6",
+    "affiliations": [
+        "Center for Structural Genomics of Infectious Diseases, Consortium for Advanced Science and Engineering, University of Chicago, Chicago, IL 60667, USA",
+        "Structural Biology Center, X-ray Science Division, Argonne National Laboratory, Argonne, IL 60439, USA",
+        "Department of Biochemistry and Molecular Biology, University of Chicago, Chicago, IL, 60367, USA",
+        "Structural Biology Center, X-ray Science Division Argonne National Laboratory, Argonne, Illinois 60439, USA Phone: 630-252-3926; fax: 630-252-6126"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.096081",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.096081.pdf"
+    },
+    "abstract": "Among 15 nonstructural proteins (Nsps), the newly emerging SARS-CoV-2 encodes a large, multidomain Nsp3. One of its units is ADP-ribose phosphatase domain (ADRP, also known as macrodomain) which is believed to interfere with the host immune response. Such a function appears to be linked to the protein\u2019s ability to remove ADP-ribose from ADP-ribosylated proteins and RNA, yet the precise role and molecular targets of the enzyme remains unknown. Here, we have determined five, high resolution (1.07 - 2.01 \u00c5) crystal structures corresponding to the apo form of the protein and complexes with 2-(N-morpholino)ethanesulfonic acid (MES), AMP and ADPr. We show that the protein undergoes conformational changes to adapt to the ligand in a manner previously observed before for in close homologs from other viruses. We also identify a conserved water molecule that may participate in hydrolysis. This work builds foundations for future structure-based research of the ADRP, including search for potential antiviral therapeutics.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Advanced Photon Source"
+                },
+                {
+                    "funding-source": "U.S Department of Energy"
+                },
+                {
+                    "funding-source": "Office of Science and"
+                },
+                {
+                    "funding-source": "DOE Office of Science"
+                },
+                {
+                    "funding-source": "Argonne National Laboratory",
+                    "award-id": [
+                        "DE-AC02-06CH11357"
+                    ]
+                }
+            ],
+            "funding-statement": "The use of SBC beamlines at the Advanced Photon Source is supported by the U.S Department of Energy (DOE) Office of Science and operated for the DOE Office of Science by Argonne National Laboratory under Contract No DE-AC02-06CH11357"
+        }
+    ]
+}

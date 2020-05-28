@@ -1,0 +1,30 @@
+{
+    "title": "ACE2 fragment as a decoy for novel SARS-Cov-2 virus",
+    "author": "Fabiana Renzi, and Dario Ghersi",
+    "date": 2020,
+    "affiliations": [
+        "Department of Physics, Universit\u00e1 di Roma \"La Sapienza\", Rome, Italy",
+        "School of Interdisciplinary Informatics, University of Nebraska at Omaha, Omaha, NE, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.06.028647",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.06.028647.pdf"
+    },
+    "abstract": "Novel SARS-Cov-2 enters human cells via interaction between the surface spike (S) glycoprotein and the cellular membrane receptor angiotensin-converting enzyme 2 (ACE2). Using a combination of comparative structural analyses of the binding surface of the S protein to ACE2, docking experiments, and molecular dynamics simulations we computationally identified a minimal, stable fragment of ACE2. This fragment binds to the S protein, is soluble, and appears not to bind to the physiological ligand angiotensinII. These results suggest a possible use of the ACE2 fragment as a decoy that could interfere with viral binding by competition.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Docking and Molecular Dynamics"
+                },
+                {
+                    "funding-source": "Nebraska EPSCoR"
+                }
+            ],
+            "funding-statement": "Docking and Molecular Dynamics simulations were performed on a GPUaccelerated high-performance computing machine partly funded by a Nebraska EPSCoR grant to DG"
+        }
+    ]
+}

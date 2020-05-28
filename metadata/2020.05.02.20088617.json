@@ -1,0 +1,27 @@
+{
+    "abstract": "Since the first confirmed case of SARS-CoV-2 coronavirus (COVID-19) in the 2nd day of March, Saudi Arabia has not report a quite rapid COVD-19 spread compared to America and many European countries. Possible causes include the spread of asymptomatic cases. To characterize the transmission of COVID-19 in Saudi Arabia, this paper applies a susceptible, exposed, symptomatic, asymptomatic, hospitalized, and recovered dynamical model, along with the official COVID-19 reported data by the Ministry of Health in Saudi Arabia. The basic reproduction number R0 is estimated to range from 2.87 to 4.9.",
+    "affiliations": [
+        "Ibn Saud Islamic University. No grant number is available at this moment"
+    ],
+    "author": "Fehaid Salem Alshammari",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20088617",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20088617"
+    },
+    "title": "A mathematical model to investigate the transmission of COVID-19 in the Kingdom of Saudi Arabia",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Deanship of Research in Al-Imam Mohammed Ibn Saud Islamic University"
+                }
+            ],
+            "funding-statement": "The publication of this work was financially supported by the Deanship of Research in Al-Imam Mohammed Ibn Saud Islamic University"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "No grant number is available at this moment"
+        }
+    ]
+}

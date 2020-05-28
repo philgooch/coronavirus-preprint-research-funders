@@ -1,0 +1,28 @@
+{
+    "title": "ACE2 polymorphisms and individual susceptibility to SARS-CoV-2 infection: insights from an in silico study",
+    "author": "Microsoft Office User",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biological and Environmental Sciences and Technologies, University of Salento, Lecce, Italy",
+        "INSERM UMR-S 1124 T3S, Eq",
+        "CELLULAR HOMEOSTASIS, CANCER and THERAPY, University of Paris, Campus Saint Germain, Paris, France",
+        "Digestive Disease Department, Archet",
+        "Hospital, Nice University Hospital, University of Nice C\u00f4te d\u2019Azur, Nice, France",
+        "INSERM,U1065, Team 8 \u201cHepatic complications of obesity\u201d, University Nice C\u00f4te d\u2019Azur, France",
+        "Thoracic Surgery Department, Cochin Hospital, APHP Centre, University of Paris, France",
+        "INSERM U1138 Team \u00abCancer, Immune Control, and Escape\u00bb, Cordeliers Research Center, University of Paris, France",
+        "Pietro Alifano Department of Biological and Environmental Sciences and Technologies, University of Salento, Lecce, Italy",
+        "Alifano Thoracic Surgery Department AP-HP, University of Paris, France"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.23.057042",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.23.057042.pdf"
+    },
+    "abstract": "The current SARS covid-19 epidemic spread appears to be influenced by ethnical, geographical and sex-related factors that may involve genetic susceptibility to diseases. Similar to SARS-CoV, SARS-CoV-2 exploits angiotensin-converting enzyme 2 (ACE2) as a receptor to invade cells, notably type II alveolar epithelial cells. Importantly, ACE2 gene is highly polymorphic. Here we have used in silico tools to analyze the possible impact of ACE2 single-nucleotide polymorphisms (SNPs) on the interaction with SARS-CoV-2 spike glycoprotein. We found that S19P (common in African people) and K26R (common in European people) were, among the most diffused SNPs worldwide, the only two SNPs that were able to potentially affect the interaction of ACE2 with SARS-CoV-2 spike. FireDock simulations demonstrated that while S19P may decrease, K26R might increase the ACE2 affinity for SARS-CoV-2 Spike. This finding suggests that the S19P may genetically protect, and K26R may predispose to more severe SARS-CoV-2 disease.",
+    "funding": [
+        {}
+    ]
+}

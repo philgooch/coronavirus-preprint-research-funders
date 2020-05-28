@@ -1,0 +1,19 @@
+{
+    "abstract": "The novel coronavirus' high rate of asymptomatic transmission combined with a lack of testing kits call for a different approach to monitor its spread and severity. We proposed the use of hospitalizations and hospital utilization data to monitor the spread and severity. A proposed threshold of a declining 7-day moving average over a 14-day period, \"7&14\" was set to communicate when a wave of the novel coronavirus may have passed. The state of Ohio was chosen to illustrate this threshold. While not the ideal solution for monitoring the spread of the epidemic, the proposed approach is an easy to implement framework accounting for limitations of the data inherent in the current epidemic. Hospital administrators and policy makers may benefit from incorporating this approach into their decision making.",
+    "affiliations": [
+        "Hospital administrators and policy makers may benefit from incorporating this approach into their decision making"
+    ],
+    "author": "Peter J Mallow; Michael Jones",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20098475",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20098475"
+    },
+    "title": "When Second Best Might be the Best: Using Hospitalization Data to Monitor the Novel Coronavirus Pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors did not receive any funding for this research nor have any conflicts of interest regarding this research to report."
+        }
+    ]
+}

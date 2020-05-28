@@ -1,0 +1,39 @@
+{
+    "abstract": "We report preliminary data from a cohort of adults admitted to COVID-designated intensive care units from March 6 through April 17, 2020 across an academic healthcare system. Among 217 critically ill patients, mortality for those who required mechanical ventilation was 29.7% (49/165), with 8.5% (14/165) of patients still on the ventilator at the time of this report. Overall mortality to date in this critically ill cohort is 25.8% (56/217), and 40.1% (87/217) patients have survived to hospital discharge. Despite multiple reports of mortality rates exceeding 50% among critically ill adults with COVID-19, particularly among those requiring mechanical ventilation, our early experience indicates that many patients survive their critical illness.",
+    "affiliations": [
+        "National Institutes of Health"
+    ],
+    "author": "Max W. Adelman; Colleen S. Kraft; James M. Blum; Craig S. Jabaley; David Carpenter; Gregory S. Martin; David J. Murphy; Craig M. Coopersmith; Emory COVID-19 Quality and Clinical Research Collaborative; Alfonso C. Hernandez; Jesse T. Jacob; Sara Auld; Roberta Kaplow; Mark Caridi-Scheible; Chad J. Robichaux",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076737",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076737"
+    },
+    "title": "ICU and ventilator mortality among critically ill adults with COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI134182",
+                        "NIH/CT"
+                    ]
+                },
+                {
+                    "funding-source": "NIAID",
+                    "award-id": [
+                        "AI134182"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "UL1TR002378"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the following grants: NIH/NIAID K23 AI134182 (SCA), NIH/CTSA UL1TR002378"
+        }
+    ]
+}

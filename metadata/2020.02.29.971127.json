@@ -1,0 +1,41 @@
+{
+    "title": "An ultrasensitive, rapid, and portable coronavirus SARS-CoV-2 sequence detection method based on CRISPR-Cas12",
+    "author": "Curti Lucia, Pereyra-Bonnet Federico, and Gimenez Carla Alejandra",
+    "date": 2020,
+    "affiliations": [
+        "-National Scientific and Technical Research Council (CONICET)- Argentina-",
+        "University of Buenos Aires, Argentina 7",
+        "CASPR Biotech, San Francisco California, USA"
+    ],
+    "journal": "Keywords",
+    "volume": "12",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.29.971127",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.29.971127.pdf"
+    },
+    "abstract": "20 21 Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has received global attention due to the recent outbreak in China. In this work, we report a CRISPR-Cas12 based diagnostic tool to detect synthetic SARS-CoV-2 RNA sequences in a proof-of-principle evaluation. The test proved to be sensitive, rapid, and potentially portable. These key traits of the CRISPR method are critical for virus detection in regions that lack resources to use the currently available methods. 28 Introduction 29 30 The rapid spread of the novel coronavirus is clearly a major concern for countries across the world. This virus is a single-stranded RNA virus with high sequence identity to SARS-CoV and has, therefore, been named SARS-CoV-2. This coronavirus variant is capable of transmission from person to person, which makes it a dangerous virus that can cause a pandemic. 36 Several SARS-CoV-2 detection assays have been reported to be currently under development. The WHO website provides information on several virus detection protocols that have been used in different countries such as China, Germany, Japan, and the US, among others (1). All these are real-time reverse transcription PCR (rRT-PCR) based assays, and despite their established efficiency, require highly specialized personnel and expensive equipment for implementation. In such a backdrop, any development toward ultrasensitive, cheaper, and portable diagnostic tests for the assessment of suspected cases, regardless of the",
+    "keywords": [
+        "CRISPR-Cas12",
+        "emerging virus",
+        "SARS-CoV2",
+        "COVID-19",
+        "2019-nCoV",
+        "diagnosis"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "CASPR Biotech"
+                },
+                {
+                    "funding-source": "National Scientific and Technical Research Council"
+                }
+            ],
+            "funding-statement": "CASPR Biotech is a privately funded company. CL, PBF are supported by the National Scientific and Technical Research Council (CONICET) of Argentina."
+        }
+    ]
+}

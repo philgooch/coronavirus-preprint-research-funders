@@ -1,0 +1,48 @@
+{
+    "title": "Coronavirus and PARP expression dysregulate the NAD Metabolome: a potentially actionable component of innate immunity",
+    "author": "Collin D. Heera,b, Daniel J. Sandersonc,&, Yousef M.O. Alhammadd,&, Mark S. Schmidtb,&, Samuel A.J. Trammellb, Stanley Perlmane, Michael S. Cohenc, Anthony R. Fehrd,#, Charles Brennerb,#",
+    "date": 2020,
+    "affiliations": [
+        "Free Radical and Radiation Biology Program, University of Iowa, United States",
+        "Department of Biochemistry, University of Iowa, United States",
+        "Department of Chemical Physiology & Biochemistry, Oregon Health Sciences University, United States",
+        "Department of Molecular Biosciences, University of Kansas, United States",
+        "Department of Microbiology & Immunology, University of Iowa, United States",
+        "Novo Nordisk Foundation, Center for Basic Metabolic Research, University of Copenhagen, Denmark"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.17.047480",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.17.047480.pdf"
+    },
+    "abstract": "SARS-CoV-2 is a coronavirus (CoV) and cause of COVID-19, which is much more lethal in older people and those with comorbid conditions for unknown reasons. Innate immune responses to CoVs are initiated by recognition of double-stranded RNA and induction of interferon, which turns on a gene expression program that inhibits viral replication. Here we show that SARS-CoV-2 infection of cells, ferrets and a person strikingly dysregulates the NAD gene set by inducing a set of PARP family members that includes enzymes required for the innate immune response to CoVs. CoV infection also induces a severe attack on host cell NAD. Overexpression of one induced enzyme, PARP10, is sufficient to depress host NAD. Gene expression and pharmacological data suggest that boosting NAD through the nicotinamide and nicotinamide riboside kinase pathways may restore antiviral PARP functions to support innate immunity to CoVs, whereas PARP1,2 inhibition does not restore PARP10 activity.",
+    "keywords": [
+        "SARS-CoV-2",
+        "interferon",
+        "innate immunity",
+        "PARP",
+        "ADP-ribosylhydrolase",
+        "COVID-19"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "HL147545",
+                        "GM113117",
+                        "AI134993",
+                        "AI060699",
+                        "AI091322",
+                        "CA245722",
+                        "1NS08862"
+                    ]
+                }
+            ],
+            "funding-statement": "Work was supported by NIH grants HL147545 (CB), GM113117 and AI134993 (ARF), AI060699 and AI091322 (SP), CA245722 (CDH), 1NS08862 (MSC), Roy J"
+        }
+    ]
+}

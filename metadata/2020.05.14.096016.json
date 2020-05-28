@@ -1,0 +1,65 @@
+{
+    "title": "Transcriptional profiling reveals TRPM5-expressing cells involved in viral infection in the olfactory epithelium",
+    "author": "Diego Restrepo",
+    "date": 2020,
+    "affiliations": [
+        "Neuroscience Graduate Program, University of Colorado Anschutz Medical Campus, Aurora",
+        "Department of Cell and Developmental Biology, University of Colorado Anschutz Medical",
+        "Department of Otolaryngology, University of Colorado Anschutz Medical Campus, Aurora, CO",
+        "Department of Biological Sciences, Hunter College, CUNY, New York, NY, 10065, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.096016",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.096016.pdf"
+    },
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Nicole Arevalo for"
+                },
+                {
+                    "funding-source": "Jerome Artus and Anna-Katerina Hadjantonakis for the",
+                    "award-id": [
+                        "OMP-H2B"
+                    ]
+                }
+            ],
+            "funding-statement": "We would like to acknowledge the support of Nicole Arevalo for laboratory support, Jerome Artus and Anna-Katerina Hadjantonakis for the construction of the targeting vector and production of OMP-H2B::Cherry mice"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIDCD",
+                    "award-id": [
+                        "DC014253"
+                    ]
+                },
+                {
+                    "funding-source": "RNA Bioscience Initiative of the University of Colorado Anschutz Medical Campus"
+                },
+                {
+                    "funding-source": "DS and DR)"
+                }
+            ],
+            "funding-statement": "This work was supported by NIDCD DC014253 (DR) and by the RNA Bioscience Initiative of the University of Colorado Anschutz Medical Campus (DS and DR)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Starr Stem Cell Grant"
+                },
+                {
+                    "funding-source": "AKH and PF)",
+                    "award-id": [
+                        "OMP-H2B"
+                    ]
+                }
+            ],
+            "funding-statement": "A Starr Stem Cell Grant (JA, AKH and PF) supported the production and characterization of the OMP-H2B::mCherry mouse strain"
+        }
+    ]
+}

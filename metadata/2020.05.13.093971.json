@@ -1,0 +1,47 @@
+{
+    "title": "Insights into molecular evolution recombination of pandemic SARS-CoV-2 using Saudi Arabian sequences",
+    "date": 2020,
+    "author": "AUTHOR SUMMARY",
+    "affiliations": [
+        "Botany and Microbiology Department, College of Science, King Saud University, Riyadh, Saudi",
+        "National Center for Biotechnology, King Abdulaziz City for Science and Technology, Riyadh",
+        "MRC-University of Glasgow Centre for Virus Research, Glasgow, G61 1QH, UK. 11",
+        "Corresponding Author: Saleh Eifan",
+        "KEYWORDS: SARS-CoV-2; Kingdom of Saudi Arabia; phylogenetic analysis; recombination; 16 selection. 17 18"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.13.093971",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.13.093971.pdf"
+    },
+    "abstract": "The recently emerged SARS-CoV-2 (Coronaviridae; Betacoronavirus) is the underlying cause of COVID-19 disease. Here we assessed SARS-CoV2 from the Kingdom of Saudi Arabia alongside sequences of SARS-CoV, bat SARS-like CoVs and MERS-CoV, the latter currently detected in this region. Phylogenetic analysis, natural selection investigation and genome recombination analysis were performed. Our analysis showed that all Saudi SARS-CoV-2 sequences are of the same origin and closer proximity to bat SARS-like CoVs, followed by SARS-CoVs, however quite distant to MERS-CoV. Moreover, genome recombination analysis revealed two recombination events between SARS-CoV-2 and bat SARS-like CoVs. This was further assessed by S gene recombination analysis. These recombination events may be relevant to the emergence of this novel virus. Moreover, positive selection pressure was detected between SARS-CoV-2, bat SL-CoV isolates and human SARS-CoV isolates. However, the highest positive selection occurred between SARS31 CoV-2 isolates and 2 bat-SL-CoV isolates (Bat-SL-RsSHC014 and Bat-SL-CoVZC45). This further indicates that SARS-CoV-2 isolates were adaptively evolved from bat SARS-like isolates, and that a virus with originating from bats triggered this pandemic. This study thuds sheds further light on the origin of this virus. 36 37 38 39 40 41 42 43",
+    "keywords": [
+        "SARS-CoV-2",
+        "Kingdom of Saudi Arabia",
+        "phylogenetic analysis",
+        "recombination",
+        "16 selection",
+        "17 18"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Medical Research Council",
+                    "award-id": [
+                        "MC_UU_12014/8"
+                    ]
+                },
+                {
+                    "funding-source": "KSU Scientific Research Deanship",
+                    "award-id": [
+                        "RGP-VPP-253"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding information AK is supported by the UK Medical Research Council (MC_UU_12014/8); SE is supported by KSU Scientific Research Deanship (RGP-VPP-253)."
+        }
+    ]
+}

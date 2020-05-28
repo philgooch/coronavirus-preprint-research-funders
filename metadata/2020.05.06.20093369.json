@@ -1,0 +1,54 @@
+{
+    "abstract": "Contact tracing is critical to limiting the spread of pandemics such as COVID-19, but most protocols only \"forward-trace\" to notify people who were recently exposed. Using a stochastic branching process model, we find that \"bidirectional\" tracing to identify infector individuals robustly outperforms forward-only approaches across a wide range of scenarios. The addition of rapid smartphone-based exposure notification offers few benefits over conventional manual tracing alone unless uptake of the digital system is near-universal. However, as long as exposure events can be detected by nearly all smartphones, the combination of manual and digital with bidirectional tracing more than doubles the probability of controlling outbreaks across three epidemiological scenarios. Implementing combined bidirectional tracing may be critical to controlling COVID-19 without more costly interventions.",
+    "affiliations": [
+        "NC State University)"
+    ],
+    "author": "Alun L Lloyd; Jonathan H Huggins; Kevin M Esvelt; Ethan C Alley; William J Bradshaw",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093369",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093369"
+    },
+    "title": "Bidirectional contact tracing is required for reliable COVID-19 control",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Reid Hoffman Foundation and the Open Philanthropy Project",
+                    "award-id": [
+                        "to K.M.E."
+                    ]
+                },
+                {
+                    "funding-source": "COVID-19 HPC-1",
+                    "award-id": [
+                        "MCB20071 to K.M.E."
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by gifts from the Reid Hoffman Foundation and the Open Philanthropy Project (to K.M.E.) and cluster time granted by the COVID-19 HPC-1 consortium (MCB20071 to K.M.E.)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Open Philanthropy Project"
+                }
+            ],
+            "funding-statement": "E.C.A. was supported by a fellowship from the Open Philanthropy Project"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Drexel Endowment",
+                    "award-id": [
+                        "NC State University"
+                    ]
+                },
+                {
+                    "funding-source": "NC State University)"
+                }
+            ],
+            "funding-statement": "A.L.L. is supported by the Drexel Endowment (NC State University)"
+        }
+    ]
+}

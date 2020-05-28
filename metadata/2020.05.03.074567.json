@@ -1,0 +1,42 @@
+{
+    "title": "Large scale genomic analysis of 3067 SARS-CoV-2 genomes reveals a clonal geo-distribution and a rich genetic variations of hotspots mutations",
+    "keywords": [
+        "SARS-CoV-2",
+        "Hotspots mutations",
+        "Dissemination",
+        "Genomic analysis"
+    ],
+    "date": 2020,
+    "author": "Meriem LAAMARTI,\u00b6, Tarek ALOUANE,\u00b6, Souad KARTTI, M.W. CHEMAO, ELFIHRI, Mohammed HAKMI, Abdelomunim ESSABBAR, Mohamed LAAMARTI, 7 Haitam HLALI, Loubna ALLAM, Naima EL HAFIDI, Rachid EL JAOUDI, Imane 8 ALLALI, Nabila MARCHOUDI, Jamal FEKKAK, Houda BENRAHMA, Chakib 9 NEJJARI, Saaid AMZAZI, Lahcen BELYAMANI6and Azeddine IBRAHIMI,* 10",
+    "affiliations": [
+        "Medical Biotechnology Laboratory (MedBiotech), Bioinova Research Center, Rabat",
+        "Medical & Pharmacy School, Mohammed Vth University in Rabat, Morocco",
+        "Laboratory of Human Pathologies Biology, Department of Biology, Faculty of Sciences, 16 and Genomic Center of Human Pathologies, Faculty of Medicine and Pharmacy",
+        "Mohammed V University in Rabat, Morocco",
+        "Anoual Laboratory of Radio-Immuno Analysis, Casablanca, Morocco"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.03.074567",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.03.074567.pdf"
+    },
+    "abstract": "In late December 2019, an emerging viral infection COVID-19 was identified in Wuhan, China, and became a global pandemic. Characterization of the genetic variants of SARS36 CoV-2 is crucial in following and evaluating it spread across countries. In this study, we 37 collected and analyzed 3,067 SARS-CoV-2 genomes isolated from 55 countries during the first three months after the onset of this virus. Using comparative genomics analysis, we traced the profiles of the whole-genome mutations and compared the frequency of each mutation in the studied population. The accumulation of mutations during the epidemic period with their geographic locations was also monitored. The results showed 782 variant 42 sites, of which 512 (65.47%) had a non-synonymous effect. Frequencies of mutated alleles 43 revealed the presence of 38 recurrent non-synonymous mutations, including ten hotspot mutations with a prevalence higher than 0.10 in this population and distributed in six SARS-CoV-2 genes. The distribution of these recurrent mutations on the world map revealed certain genotypes specific to the geographic location. We also found co-occurring mutations resulting in the presence of several haplotypes. Moreover, evolution over time has shown a mechanism of mutation co-accumulation which might affect the severity and spread of the SARS-CoV-2. On the other hand, analysis of the selective pressure revealed the presence of negatively selected residues that could be taken into considerations as therapeutic targets We have also created an inclusive unified database (http://genoma.ma/covid-19/) that lists all of the genetic variants of the SARS-CoV-2 genomes found in this study with phylogeographic analysis around the world. 56 Keywords: SARS-CoV-2, Hotspots mutations, Dissemination, Genomic analysis. 59 60 61 62 63",
+    "offensive": [
+        "PAKIS TAN"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "AI from Institute of Cancer Research of the"
+                },
+                {
+                    "funding-source": "Lalla Salma"
+                }
+            ],
+            "funding-statement": "This work was also supported, by a grant to AI from Institute of Cancer Research of the foundation Lalla Salma"
+        }
+    ]
+}

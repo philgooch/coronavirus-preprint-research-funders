@@ -1,0 +1,16 @@
+{
+    "abstract": "The fast spreading of the novel coronavirus COVID-19 has aroused worldwide interest and concern, and caused more than one million and a half confirmed cases to date. To combat this spread, medical imaging such as computed tomography (CT) images can be used for diagnostic. An automatic detection tools is necessary for helping screening COVID-19 pneumonia using chest CT imaging. In this work, we propose a multitask deep learning model to jointly identify COVID-19 patient and segment COVID-19 lesion from chest CT images. Our motivation is to leverage useful information contained in multiple related tasks to help improve both segmentation and classification performances. Our architecture is composed by an encoder and two decoders for reconstruction and segmentation, and a multi-layer perceptron for classification. The proposed model is evaluated and compared with other image segmentation and classification techniques using a dataset of 1044 patients including 449 patients with COVID-19, 100 normal ones, 98 with lung cancer and 397 of different kinds of pathology. The obtained results show very encouraging performance of our method with a dice coefficient higher than 0.78 for the segmentation and an area under the ROC curve higher than 93% for the classification.",
+    "author": "Romain Modzelewski; Amine Amyar; Su Ruan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20064709",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20064709"
+    },
+    "title": "Multi-task Deep Learning Based CT Imaging Analysis For COVID-19: Classification and Segmentation",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "abstract": "Background The COVID-19 pandemic presents unparalleled challenges for the delivery of safe and effective care. In response, many health systems have chosen to restrict access to surgery and reallocate resources; the impact on the provision of surgical services has been profound, with huge numbers of patient now awaiting surgery at the risk of avoidable harm. The challenge now is how do hospitals transition from the current pandemic mode of operation back to business as usual, and ensure that all patients receive equitable, timely and high-quality surgical care during all phases of the public health crisis. Aims and Methods This case study takes carotid endarterectomy as a time-sensitive surgical procedure and simulates 400 compartmental demand modelling scenarios for managing surgical capacity in the UK for two years following the pandemic. Results A total of 7,69 patients will require carotid endarterectomy. In the worst-case scenario, if no additional capacity is provided on resumption of normal service, the waiting list may never be cleared, and no patient will receive surgery within the 2-week target; potentially leading to >1000 avoidable strokes. If surgical capacity is doubled after 1-month of resuming normal service, it will still take more than 6-months to clear the backlog, and 30.8% of patients will not undergo surgery within 2-weeks, with an average wait of 20.3 days for the proceeding 2 years. Conclusions This case study for carotid endarterectomy has shown that every healthcare system is going to have to make difficult decisions for balancing human and capital resources against the needs of patients. It has demonstrated that the timing and size of this effort will critically influence the ability of these systems to return to their baseline and continue to provide the highest quality care for all. The failure to sustainably increase surgical capacity early in the post-COVID-19 period will have significant long-term negative impacts on patients and is likely to result in avoidable harm.",
+    "affiliations": [
+        "National Institute for Health Research (NIHR) Biomedical Research Centre based at Imperial College Healthcare NHS Trust and Imperial College London"
+    ],
+    "author": "Sheraz Markar; Guy Martin; Sam Mason; Jonathan Clarke; James Kinross; Ara Darzi; PanSurg Collaborative; Sanjay Purkayastha; Alexander W Carter",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20085183",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20085183"
+    },
+    "title": "How should hospitals manage the backlog of patients awaiting surgery following the COVID-19 pandemic? A demand modelling simulation case study for carotid endarterectomy",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "Imperial College Healthcare NHS Trust and Imperial College London"
+                }
+            ],
+            "funding-statement": "The research was supported by the National Institute for Health Research (NIHR) Biomedical Research Centre based at Imperial College Healthcare NHS Trust and Imperial College London"
+        }
+    ]
+}

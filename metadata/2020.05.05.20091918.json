@@ -1,0 +1,20 @@
+{
+    "abstract": "BACKGROUND Coronavirus disease 2019 (COVID-19) is a novel coronavirus strain disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The disease is highly transmissible and severe disease including viral sepsis has been reported in up to 16% of hospitalized cases. The admission characteristics associated with increased odds of hospital mortality among confirmed cases of COVID-19 include severe hypoxia, low platelet count, elevated bilirubin, hypoalbuminemia and reduced glomerular filtration rate. These symptoms correlate highly with severe sepsis cases. The diseases also share similar co-morbidity risks including dementia, type 2 diabetes mellitus, coronary heart disease, hypertension and chronic renal failure. Sepsis has been observed in up to 59% of hospitalized COVID-19 patients. It is highly desirable to identify risk factors and novel therapy/drug repurposing avenues for late-stage severe COVID-19 patients. This would enable better protection of at-risk populations and clinical stratification of COVID-19 patients according to their risk for developing life threatening disease. METHODS As there is currently insufficient data available for confirmed COVID-19 patients correlating their genomic profile, disease severity and outcome, co-morbidities and treatments as well as epidemiological risk factors (such as ethnicity, blood group, smoking, BMI etc.), a direct study of the impact of host genomics on disease severity and outcomes is not yet possible. We therefore ran a study on the UK Biobank sepsis cohort as a surrogate to identify sepsis associated signatures and genes, and correlated these with COVID-19 patients. Sepsis is itself a life-threatening inflammatory health condition with a mortality rate of approximately 20%. Like the initial studies for COVID-19 patients, standard genome wide association studies (GWAS) have previously failed to identify more than a handful of genetic variants that predispose individuals to developing sepsis. RESULTS We used a combinatorial association approach to analyze a sepsis population derived from UK Biobank. We identified 70 sepsis risk-associated genes, which provide insights into the disease mechanisms underlying sepsis pathogenesis. Many of these targets can be grouped by common mechanisms of action such as endothelial cell dysfunction, PI3K/mTOR pathway signaling, immune response regulation, aberrant GABA and neurogenic signaling. CONCLUSION This study has identified 70 sepsis related genes, many of them for the first time, that can reasonably be considered to be potentially relevant to severe COVID-19 patients. We have further identified 59 drug repurposing candidates for 13 of these targets that can be used for the development of novel therapeutic strategies to increase the survival rate of patients who develop sepsis and potentially severe COVID-19.",
+    "author": "Sayoni Das; Marcin Pawlowski; Gert Lykke M\u00f8ller; Claus Erik Jensen; Zbigniew Skowron; James Kozubek; Steve Gardner; Krystyna Taylor; Mark Strivens; Matthew Pearson",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091918",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091918"
+    },
+    "title": "Identification and Analysis of Shared Risk Factors in Sepsis and High Mortality Risk COVID-19 Patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "PrecisionLife Ltd"
+                }
+            ],
+            "funding-statement": "All work was funded by PrecisionLife Ltd"
+        }
+    ]
+}

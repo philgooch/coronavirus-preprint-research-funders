@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Prime Minister of Japan Abe declared an emergency to control the COVID\u221219 outbreak on April 7, 2020. He asked almost half of the population of Japan to reduce their personal contacts by 70\u221280%. Object: This study estimates the effectiveness of that emergency declaration. Method: We applied a simple susceptible\u2212infected\u2212recovery model to data of patients with symptoms in Tokyo, Japan for January 14 \u2212 April 21 as of April 22. We estimate the reproduction number in four periods: R0 before voluntary event cancellation and school closure (VECSC) which was introduced since February 27 to March 19, Rv during the VECSC, Ra after VECSC, and Re after the emergency declaration. Results: Results suggest that the value of R0 was estimated as 1.267; its range was [1.214, 1.341]. However, Rv was estimated as 2.360 [1.844, 2.623]. Ra was estimated as 2.307 [2.035, 2.794] and Re was 0.462 [0.347, 0.514]. Discussion and Concussion: One must be reminded that these results reflect only those at two weeks after the emergency declaration. The reproduction number probably changed thereafter continuously.\nCompeting Interest Statement",
+    "author": "Yasushi Ohkusa; Junko Kurita; Tamie Sugawara",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067447",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067447"
+    },
+    "title": "Effect of emergency declaration for the COVID \u221219 outbreak in Tokyo, Japan in the first two weeks",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The author(s) received no specific funding for this work."
+        }
+    ]
+}

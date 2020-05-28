@@ -1,0 +1,57 @@
+{
+    "abstract": "Background Current geographic spread of documented severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections shows heterogeneity. This study explores the role of age in potentially driving differentials in infection spread, epidemic potential, and rates of disease severity and mortality across countries. Methods An age-stratified deterministic mathematical model that describes SARS-CoV-2 transmission dynamics was applied to 159 countries and territories with a population \u22651 million. Results Assuming worst-case scenario for the pandemic, the results indicate that there could be stark regional differences in epidemic trajectories driven by differences in the distribution of the population by age. In the African Region (median age: 18.9 years), the median R0 was 1.05 versus 2.05 in the European Region (median age: 41.7 years), and the median (per 100 persons) for the infections rate was 22.5 (versus 69.0), for severe and/or critical disease cases rate was 3.3 (versus 13.0), and for death rate was 0.5 (versus 3.9). Conclusions Age could be a driver of variable SARS-CoV-2 epidemic trajectories worldwide. Countries with sizable adult and/or elderly populations and smaller children populations may experience large and rapid epidemics in absence of interventions. Meanwhile, countries with predominantly younger age cohorts may experience smaller and slower epidemics. These predictions, however, should not lead to complacency, as the pandemic could still have a heavy toll nearly everywhere.",
+    "affiliations": [
+        "Qatar National Research Fund (a member of Qatar Foundation). GM acknowledges support by UK Research and Innovation as part of the Global Challenges Research Fund, grant number ES/P010873/1. The statements made herein are solely the responsibility of the authors. The authors are also grateful for support provided by the Biomedical Research Program and the Biostatistics, Epidemiology, and Biomathematics Research Core, both at Weill Cornell Medicine-Qatar"
+    ],
+    "author": "Monia Makhoul; Hiam Chemaitelly; Shaheen Seedat; Ghina R. Mumtaz; Laith J Abu-Raddad; Houssein H. Ayoub",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20059253",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20059253"
+    },
+    "title": "Age could be driving variable SARS-CoV-2 epidemic trajectories worldwide",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Qatar National Research Fund",
+                    "award-id": [
+                        "a member of Qatar Foundation"
+                    ]
+                },
+                {
+                    "funding-source": "Qatar Foundation)"
+                }
+            ],
+            "funding-statement": "This publication was made possible by NPRP grant number 9-040-3-008 and NPRP grant number 12S-0216-190094 from the Qatar National Research Fund (a member of Qatar Foundation)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Research and Innovation"
+                },
+                {
+                    "funding-source": "Global Challenges Research Fund,",
+                    "award-id": [
+                        "ES/P010873/1"
+                    ]
+                }
+            ],
+            "funding-statement": "GM acknowledges support by UK Research and Innovation as part of the Global Challenges Research Fund, grant number ES/P010873/1"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Biomedical Research Program and the Biostatistics, Epidemiology"
+                },
+                {
+                    "funding-source": "Biomathematics Research Core,"
+                },
+                {
+                    "funding-source": "Weill Cornell Medicine-Qatar"
+                }
+            ],
+            "funding-statement": "The authors are also grateful for support provided by the Biomedical Research Program and the Biostatistics, Epidemiology, and Biomathematics Research Core, both at Weill Cornell Medicine-Qatar"
+        }
+    ]
+}

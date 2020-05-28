@@ -1,0 +1,29 @@
+{
+    "abstract": "The research team has utilized privacy-protected mobile device location data, integrated with COVID-19 case data and census population data, to produce a COVID-19 impact analysis platform that can inform users about the effects of COVID-19 spread and government orders on mobility and social distancing. The platform is being updated daily, to continuously inform decision-makers about the impacts of COVID-19 on their communities using an interactive analytical tool. The research team has processed anonymized mobile device location data to identify trips and produced a set of variables including social distancing index, percentage of people staying at home, visits to work and non-work locations, out-of-town trips, and trip distance. The results are aggregated to county and state levels to protect privacy and scaled to the entire population of each county and state. The research team are making their data and findings, which are updated daily and go back to January 1, 2020, for benchmarking, available to the public in order to help public officials make informed decisions. This paper presents a summary of the platform and describes the methodology used to process data and produce the platform metrics.",
+    "affiliations": [
+        "Department of Transportation\u0092s Bureau of Transportation Statistics and the National Science Foundation\u0092s RAPID Program"
+    ],
+    "author": "Chenfeng Xiong; Michael L Pack; Qianqian Sun; Lei Zhang; Sepehr Ghader; Aref Darzi; Songhua Hu; AliAkbar Kabiri; Mofeng Yang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20085472",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20085472"
+    },
+    "title": "AN INTERACTIVE COVID-19 MOBILITY IMPACT AND SOCIAL DISTANCING ANALYSIS PLATFORM",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "U.S Department of"
+                },
+                {
+                    "funding-source": "Bureau of Transportation Statistics and the National Science"
+                },
+                {
+                    "funding-source": "RAPID Program"
+                }
+            ],
+            "funding-statement": "This research received partial financial support from the U.S Department of Transportation\u0092s Bureau of Transportation Statistics and the National Science Foundation\u0092s RAPID Program"
+        }
+    ]
+}

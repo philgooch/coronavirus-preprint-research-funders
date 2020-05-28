@@ -1,0 +1,45 @@
+{
+    "title": "Computational Prediction of the Comprehensive SARS-CoV-2 vs. Human Interactome to Guide the Design of Therapeutics",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "Novel Corona Virus",
+        "Protein-Protein Interactions",
+        "Comprehensive Interactome",
+        "Sequence-Based PPI Prediction"
+    ],
+    "author": "DESIGN OF THERAPEUTICS",
+    "date": 2020,
+    "affiliations": [
+        "Kevin Dick Department of Systems & Computer Engineering",
+        "Carleton University Ottawa, Canada",
+        "Biggar Department of Biology",
+        "Green Department of Systems & Computer Engineering"
+    ],
+    "journal": "A PREPRINT",
+    "volume": "27",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.29.014381",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.29.014381.pdf"
+    },
+    "abstract": "Understanding the disease pathogenesis of the novel coronavirus, denoted SARS-CoV-2, is critical to the development of anti-SARS-CoV-2 therapeutics. The global propagation of the viral disease, denoted COVID-19 (\u201ccoronavirus disease 2019\"), has unified the scientific community in searching for possible inhibitory small molecules or polypeptides. Given the known interaction between the human ACE2 (\u201cAngiotensin-converting enzyme 2\") protein and the SARS-CoV virus (responsible for the coronavirus outbreak circa. 2003), considerable focus has been directed towards the putative interaction between the SARS-CoV-2 Spike protein and ACE2. However, a more holistic understanding of the SARS-CoV-2 vs. human inter-species interactome promises additional putative protein-protein interactions (PPI) that may be considered targets for the development of inhibitory therapeutics.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Canadian Natural Sciences and Engineering Research Council"
+                },
+                {
+                    "funding-source": "RGPIN/",
+                    "award-id": [
+                        "327498-2011"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded by a grant from the Canadian Natural Sciences and Engineering Research Council (NSERC) to JRG (RGPIN/327498-2011)"
+        }
+    ]
+}

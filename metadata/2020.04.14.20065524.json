@@ -1,0 +1,55 @@
+{
+    "abstract": "Background: Spain has been disproportionately affected by the COVID-19 pandemic with the second highest death toll in the world after Italy. Here we analyzed estimates of pandemic severity and investigated how different factors shaped the severity of the COVID-19 pandemic. Methods: We retrieved the daily cumulative numbers of laboratory-confirmed COVID-19 cases and deaths in Spain from February 20, 2020 to April 2, 2020. We used statistical methods to estimate the time-delay adjusted case fatality ratio (CFR) for 17 autonomous areas and 2 autonomous cities of Spain. We then assessed how transmission and sociodemographic variables were associated with the CFR across areas in Spain using multivariate regression analysis. Results: We estimated the highest time-delay-adjusted CFR for Madrid (38.4%) and the average adjusted CFR in Spain at 23.9%. Our multivariate regression analysis revealed a statistically significant three predictor variables: infant mortality rate, poverty risk rate and the cumulative morbidity rate. Conclusions: Our estimates of the time-delay adjusted CFR for 12 autonomous areas/cities in Spain are significantly higher than those previously estimated for other geographic regions including China and Korea. Our results call for urgent public health interventions focusing on low socioeconomic groups to ameliorate the burden of the COVID-19 pandemic in Spain.\nCompeting Interest Statement",
+    "author": "Richard Rothenberg; Sushma Dahal; Kenji Mizumoto; Gerardo Chowell",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065524",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065524"
+    },
+    "title": "Investigating spatial variability in COVID-19 pandemic severity across 19 geographic areas, Spain, 2020",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Japan Society for the Promotion of Science",
+                    "award-id": [
+                        "15K20936"
+                    ]
+                },
+                {
+                    "funding-source": "KAKENHI Grant Number",
+                    "award-id": [
+                        "15K20936"
+                    ]
+                },
+                {
+                    "funding-source": "Leading Initiative for Excellent Young Researchers from the Ministry of Education, Culture"
+                },
+                {
+                    "funding-source": "Science & Technology of Japan"
+                }
+            ],
+            "funding-statement": "KM acknowledges support from the Japan Society for the Promotion of Science (JSPS) KAKENHI Grant Number 15K20936, and from the Leading Initiative for Excellent Young Researchers from the Ministry of Education, Culture, Sport, Science & Technology of Japan"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "1414374"
+                    ]
+                },
+                {
+                    "funding-source": "NSF-NIH-USDA Ecology and Evolution of Infectious Diseases"
+                },
+                {
+                    "funding-source": "UK Biotechnology and Biological Sciences Research Council",
+                    "award-id": [
+                        "BB/M008894/1"
+                    ]
+                }
+            ],
+            "funding-statement": "GC acknowledges support from NSF grant 1414374 as part of the joint NSF-NIH-USDA Ecology and Evolution of Infectious Diseases program; UK Biotechnology and Biological Sciences Research Council grant BB/M008894/1"
+        }
+    ]
+}

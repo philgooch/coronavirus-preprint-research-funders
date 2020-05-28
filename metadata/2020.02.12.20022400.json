@@ -1,0 +1,23 @@
+{
+    "abstract": "Recently the novel coronavirus (2019-nCov) pneumonia outbreak in China then the world, and the Number of infections and death continues to increases. Search Query performs well in forecasting the epidemics. It is still a question whether search engine data can forecast the drift and the inflexion in 2019-nCov pneumonia. Based on the Baidu Search Index, we propose three prediction models: composite Index, composite Index with filtering and suspected NCP(Novel Coronavirus Pneumonia). The result demonstrates that the predictive model of composite index with filtering performs the best while the model of suspected NCP has the highest forecast error. We further predict the out-of-the-set NCP confirmed cases and monitor that the next peak of new diagnoses will occur on February 16th and 17th.",
+    "author": "Wu Qi; Lv Benfu; Li Xiaoxuan",
+    "date": 2020,
+    "doi": "10.1101/2020.02.12.20022400",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.12.20022400"
+    },
+    "title": "Can Search Query Forecast successfully in China's 2019-nCov pneumonia?",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Anhui Natural Science Foundation",
+                    "award-id": [
+                        "1908085QG305"
+                    ]
+                }
+            ],
+            "funding-statement": "This research is funded by Anhui Natural Science Foundation (No.1908085QG305)"
+        }
+    ]
+}

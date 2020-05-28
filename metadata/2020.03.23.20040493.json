@@ -1,0 +1,177 @@
+{
+    "title": "Modelling SARS-CoV-2 Dynamics: Implications for Therapy",
+    "author": "Kwang Su Kima, Keisuke Ejimab, Yusuke Itoa, Shoya Iwanamia, Hirofumi Ohashic, 6 Yoshiki Koizumid, Yusuke Asaid, Shinji Nakaokae,f, Koichi Watashi,h,i,j, Robin N. 7 Thompsonk,l, and Shingo Iwamia,h,i,m, 8 9 aDepartment of Biology, Faculty of Sciences, Kyushu University, Fukuoka, Japan 10 8190395. bDepartment of Epidemiology and Biostatistics, Indiana University School 11 of Public Health-Bloomington, IN, USA 47405. cDepartment of Virology II, National 12 Institute of Infectious Diseases, Tokyo, Japan 1628640. dNational Center for Global 13 Health and Medicine, Tokyo, Japan 1628655. eFaculty of Advanced Life Science, 14 Hokkaido University, Sapporo, Japan 060-0808. fPRESTO, JST, Saitama, Japan 15 3320012. gDepartment of Applied Biological Science, Tokyo University of Science, 16 Noda, Japan 2788510. hMIRAI, JST, Saitama, Japan 3320012. iCREST, JST, 17 Saitama, Japan 3320012. jInstitute for Frontier Life and Medical Sciences, Kyoto 18 University, Kyoto, Japan 6068507. kChrist Church, University of Oxford, Oxford OX, 19 1DP, UK. lMathematical Institute, University of Oxford, Oxford OX, 6GG, UK, 20 Fukuoka, UK. mScience Groove Inc., Fukuoka, Japan 8100041. 21 22 1To whom correspondence may be addressed. 23 Email: robin.thompson@chch.ox.ac.uk (R.N.T.) and siwami@kyushu-u.org (S.I.)",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biology, Faculty of Sciences, Kyushu University, Fukuoka, Japan 10 8190395",
+        "Department of Epidemiology and Biostatistics, Indiana University School 11 of Public Health-Bloomington, IN, USA 47405",
+        "Department of Virology II, National",
+        "Institute of Infectious Diseases, Tokyo, Japan 1628640",
+        "National Center for Global",
+        "Health and Medicine, Tokyo, Japan 1628655",
+        "Faculty of Advanced Life Science",
+        "Hokkaido University, Sapporo, Japan 060-0808",
+        "PRESTO, JST, Saitama, Japan 15 3320012",
+        "Department of Applied Biological Science, Tokyo University of Science",
+        "Noda, Japan 2788510",
+        "MIRAI, JST, Saitama, Japan 3320012",
+        "Saitama, Japan 3320012",
+        "Institute for Frontier Life and Medical Sciences, Kyoto",
+        "University, Kyoto, Japan 6068507",
+        "Christ Church, University of Oxford, Oxford OX1 19 1DP, UK",
+        "Mathematical Institute, University of Oxford, Oxford OX2 6GG, UK, 20 Fukuoka, UK",
+        "Science Groove Inc., Fukuoka, Japan 8100041. 21 22 1To whom correspondence may be addressed. 23"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.23.20040493",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.23.20040493.pdf"
+    },
+    "abstract": "This will be facilitated by improved understanding of viral dynamics within infected hosts. Here, using a mathematical model in combination with published viral load data collected from the same specimen (throat / nasal swabs or nasopharyngeal /",
+    "keywords": [
+        "SARS-CoV-2",
+        "MERS-CoV",
+        "SARS-CoV",
+        "mathematical model",
+        "antiviral therapy"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Basic Science Research Program"
+                },
+                {
+                    "funding-source": "National Research Foundation of Korea",
+                    "award-id": [
+                        "2019R1A6A3"
+                    ]
+                },
+                {
+                    "funding-source": "Ministry of Education",
+                    "award-id": [
+                        "2019R1A6A3A12031316",
+                        "to K.S.K."
+                    ]
+                },
+                {
+                    "funding-source": "Grants-in-Aid for JSPS Scientific Research"
+                },
+                {
+                    "funding-source": "Scientific Research",
+                    "award-id": [
+                        "17H04085",
+                        "to K.W.",
+                        "18KT0018",
+                        "to S.I.",
+                        "18H01139",
+                        "to S.I.",
+                        "16H04845",
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "Scientific Research",
+                    "award-id": [
+                        "15H05707",
+                        "to S.N."
+                    ]
+                },
+                {
+                    "funding-source": "Scientific Research in Innovative Areas",
+                    "award-id": [
+                        "19H04839",
+                        "to S.I.",
+                        "18H05103",
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "AMED CREST",
+                    "award-id": [
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "AMED J-PRIDE",
+                    "award-id": [
+                        "to K.W.",
+                        "to S.I.",
+                        "to S.I.",
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "AMED Research Program on",
+                    "award-id": [
+                        "HIV/AIDS",
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "Research Program on Emerging and Re-emerging Infectious Diseases",
+                    "award-id": [
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "Program for Basic and Clinical Research on Hepatitis",
+                    "award-id": [
+                        "to K.W.",
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "Program on the Innovative Development and the  Application",
+                    "award-id": [
+                        "to K.W.",
+                        "to K.W.",
+                        "to S.I."
+                    ]
+                },
+                {
+                    "funding-source": "JST PRESTO",
+                    "award-id": [
+                        "to S.N."
+                    ]
+                },
+                {
+                    "funding-source": "JST MIRAI",
+                    "award-id": [
+                        "to K.W."
+                    ]
+                },
+                {
+                    "funding-source": "JST CREST",
+                    "award-id": [
+                        "to K.W."
+                    ]
+                },
+                {
+                    "funding-source": "The Yasuda Medical Foundation",
+                    "award-id": [
+                        "to K.W."
+                    ]
+                },
+                {
+                    "funding-source": "Smoking Research Foundation",
+                    "award-id": [
+                        "to K.W."
+                    ]
+                },
+                {
+                    "funding-source": "Takeda Science Foundation",
+                    "award-id": [
+                        "to K.W."
+                    ]
+                },
+                {
+                    "funding-source": "Mochida Memorial Foundation for"
+                }
+            ],
+            "funding-statement": "This study was supported in part by Basic Science Research Program through the National Research Foundation of Korea funded by the Ministry of Education 2019R1A6A3A12031316 (to K.S.K.); Grants-in-Aid for JSPS Scientific Research (KAKENHI) Scientific Research B 17H04085 (to K.W.), 18KT0018 (to S.I.), 18H01139 (to S.I.), 16H04845 (to S.I.), Scientific Research S 15H05707 (to S.N.), Scientific Research in Innovative Areas 19H04839 (to S.I.), 18H05103 (to S.I.); AMED CREST 19gm1310002 (to S.I.); AMED J-PRIDE 19fm0208019j0003 (to K.W.), 19fm0208006s0103 (to S.I.), 19fm0208014h0003 (to S.I.), 19fm0208019h0103 (to S.I.); AMED Research Program on HIV/AIDS 19fk0410023s0101 (to S.I.); Research Program on Emerging and Re-emerging Infectious Diseases 19fk0108050h0003 (to S.I.); Program for Basic and Clinical Research on Hepatitis 19fk0210036j0002 (to K.W.), 19fk0210036h0502 (to S.I.); Program on the Innovative Development and the  Application 19fk0310101j1003 (to K.W.) , 19fk0310103j0203 (to K.W.), 19fk0310114h0103 (to S.I.); JST PRESTO (to S.N.); JST MIRAI (to K.W. and S.I.); JST CREST (to K.W. and S.I.); The Yasuda Medical Foundation (to K.W.); Smoking Research Foundation (to K.W.); Takeda Science Foundation (to K.W.); Mochida Memorial Foundation for"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "abstract": "As many federal and state governments are starting to ease restrictions on non-pharmaceutical interventions (NPIs) used to flatten the curve, we developed an agent-based simulation to model the incidence of COVID-19 in King County, WA under several scenarios. While NPIs were effective in flattening the curve, any relaxation of social distancing strategies yielded a second wave. Even if daily confirmed cases dropped to one digit, daily incidence can peak again to 874 cases without import cases. Therefore, policy makers should be very cautious in reopening society.",
+    "affiliations": [
+        "National Science Foundation grant CMMI-1935403, and the University of Washington Graduate School Fund for Excellence and Innovation (GSFEI) Top Scholar Award"
+    ],
+    "author": "Zelda B Zabinsky; Stephen M Kofsky; Serin Lee; Shan Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20080838",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20080838"
+    },
+    "title": "COVID-19 Pandemic Response Simulation: Impact of Non-pharmaceutical Interventions on Ending Lockdowns",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "CMMI-1935403"
+                    ]
+                },
+                {
+                    "funding-source": "University of Washington Graduate School Fund for Excellence and Innovation"
+                },
+                {
+                    "funding-source": "Top Scholar Award"
+                }
+            ],
+            "funding-statement": "This work has been supported in part by the National Science Foundation grant CMMI-1935403, and the University of Washington Graduate School Fund for Excellence and Innovation (GSFEI) Top Scholar Award"
+        }
+    ]
+}

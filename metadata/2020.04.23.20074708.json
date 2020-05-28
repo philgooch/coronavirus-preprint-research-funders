@@ -1,0 +1,73 @@
+{
+    "abstract": "The novel coronavirus (COVID-19) has spread to almost all countries in the world, claiming more than 160,000 lives and sickening more than 2,400,000 people by April 21, 2020. There has been research showing that on average, each infected person spreads the infection to more than two persons. Therefore the majority of the population is at risk of infection if no intervention measures were undertaken. The true size of the COVID-19 epidemic remains unknown, as a significant proportion of infected individuals only exhibit mild symptoms or are even asymptomatic. A timely assessment of the evolving epidemic size is crucial for resource allocation and triage decisions. In this article, we modify the back-calculation algorithm to obtain a lower bound estimate of the number of COVID-19 infected persons in China outside the Hubei province. We estimate the infection density among infected and show that the drastic control measures enforced throughout China following the lockdown of Wuhan City effectively slowed down the spread of the disease in two weeks. Our findings from China are expected to provide guidelines and enlightenment for surveillance and control activities of COVID-19 in other countries around the world.",
+    "author": "Yukun Liu; Yong Zhou; Jing Qin; Chiung-Yu Huang; Dean A. Follmann; Yan Fan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20074708",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20074708"
+    },
+    "title": "Infection Density and Epidemic Size of COVID-19 in China outside the Hubei province",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Yukun Liu"
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "11771144"
+                    ]
+                },
+                {
+                    "funding-source": "State Key Program of National Natural Science Foundation of China",
+                    "award-id": [
+                        "71931004",
+                        "B14019"
+                    ]
+                },
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities"
+                }
+            ],
+            "funding-statement": "Yukun Liu was supported by the National Natural Science Foundation of China (11771144), the State Key Program of National Natural Science Foundation of China (71931004), the development fund for Shanghai talents, the 111 project (B14019), and the Fundamental Research Funds for the Central Universities"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Yan Fan"
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "11971300"
+                    ]
+                },
+                {
+                    "funding-source": "Natural Science Foundation of Shanghai"
+                }
+            ],
+            "funding-statement": "Yan Fan was supported by the National Natural Science Foundation of China (11971300) and Natural Science Foundation of Shanghai"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Yong Zhou"
+                },
+                {
+                    "funding-source": "State Key Program of National Natural Science Foundation of China",
+                    "award-id": [
+                        "71931004"
+                    ]
+                },
+                {
+                    "funding-source": "State Key Program in the Major Research Plan of National Natural Science Foundation of China",
+                    "award-id": [
+                        "91546202"
+                    ]
+                }
+            ],
+            "funding-statement": "Yong Zhou research was supported by the State Key Program of National Natural Science Foundation of China (71931004), the State Key Program in the Major Research Plan of National Natural Science Foundation of China (91546202)"
+        }
+    ]
+}

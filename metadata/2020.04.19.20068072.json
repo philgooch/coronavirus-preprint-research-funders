@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: Mounting evidence suggests that there is an undetected pool of COVID-19 asymptomatic but infectious cases. Estimating the number of asymptomatic infections has been crucial to understand the virus and contain its spread, which is, however, hard to be accurately counted. Methods: We propose an approach of machine learning based fine-grained simulator (MLSim), which integrates multiple practical factors including disease progress in the incubation period, cross-region population movement, undetected asymptomatic patients, and prevention and containment strength. The interactions among these factors are modeled by virtual transmission dynamics with several undetermined parameters, which are determined from epidemic data by machine learning techniques. When MLSim learns to match the real data closely, it also models the number of asymptomatic patients. MLSim is learned from the open Chinese global epidemic data. Findings: MLSim showed better forecast accuracy than the SEIR and LSTM-based prediction models. The MLSim learned from the data of China's mainland reveals that there could have been 150,408 (142,178-157,417) asymptomatic and had self-healed patients, which is 65% (64% - 65%) of the inferred total infections including undetected ones. The numbers of asymptomatic but infectious patients on April 15, 2020, were inferred as, Italy: 41,387 (29,037 - 57,151), Germany: 21,118 (11,484 - 41,646), USA: 354,657 (277,641 - 495,128), France: 40,379 (10,807 - 186,878), and UK: 144,424 (127,215 - 171,930). To control the virus transmission, the containment measures taken by the government were crucial. The learned MLSim also reveals that if the date of containment measures in China's mainland was postponed for 1, 3, 5, and 7 days later than Jan. 23, there would be 109,039 (129%), 183,930 (218%), 313,342 (371%), 537,555 (637%) confirmed cases on June 12. Conclusions: Machine learning based fine-grained simulators can better model the complex real-world disease transmission process, and thus can help decision-making of balanced containment measures. The simulator also revealed the potential great number of undetected asymptomatic infections, which poses a great risk to the virus containment.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Natural Science Foundation of China"
+    ],
+    "author": "Yu-Ren Liu; Wei-Wei Tu; Yang Yu; Fan-Ming Luo; Zhi-Hua Zhou; De-Chuan Zhan; Guo Yu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20068072",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20068072"
+    },
+    "title": "COVID-19 Asymptomatic Infection Estimation",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China"
+                }
+            ],
+            "funding-statement": "National Natural Science Foundation of China"
+        }
+    ]
+}

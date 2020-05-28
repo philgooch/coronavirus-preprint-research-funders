@@ -1,0 +1,61 @@
+{
+    "title": "eCovSens-Ultrasensitive Novel In-House Built Printed Circuit Board Based Electrochemical Device for Rapid Detection of nCovid-19 antigen, a spike protein domain 1 of SARS-CoV-2",
+    "author": "Akanksha Roberts",
+    "date": 2020,
+    "affiliations": [
+        "DBT-National Institute of Animal Biotechnology (NIAB), Hyderabad-500032, Telangana, India"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.24.059204",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.24.059204.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2 or nCovid-19) outbreak has become a huge public health issue due to its rapid transmission and global pandemic. Currently, there are no vaccines or drugs available for nCovid-19, hence early detection is crucial to help and manage the outbreak. Here, we report an in-house built biosensor device (eCovSens) and compare it with a commercial potentiostat for the detection of nCovid-19 spike antigen (nCovid-19Ag) in spiked saliva samples. A potentiostat based sensor was fabricated using fluorine doped tin oxide electrode (FTO) with gold nanoparticle (AuNPs) and immobilized with nCovid-19 monoclonal antibody (nCovid-19Ab) to measure change in the electrical conductivity. Similarly, eCovSens was used to measure change in electrical conductivity by immobilizing nCovid-19 Ab on screen printed carbon electrode (SPCE). The performances of both sensors were recorded upon interaction of nCovid-19Ab with its specific nCovid-19Ag. Under optimum conditions, the FTO based immunosensor and eCovSens displayed high sensitivity for detection of nCovid-19Ag, ranging from 1 fM to 1 \u03bcM. Our in-house developed device can successfully detect nCovid-19Ag at 10 fM concentration in standard buffer that is in close agreement with FTO/AuNPs sensor. The limit of detection (LOD) was found to be 90 fM with eCovSens and 120 fM with potentiostst in case of spiked saliva samples. The proposed portable eCovSens device can be used as a diagnostic tool for the rapid (within 10-30 s) detection of nCovid-19Ag traces directly in patient saliva in a non-invasive manner.",
+    "keywords": [
+        "nCovid-19",
+        "electrochemical",
+        "antigen",
+        "antibody",
+        "screen printed carbon electrode",
+        "fluorine doped tin oxide"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Biotechnology",
+                    "award-id": [
+                        "BT/AAQ"
+                    ]
+                },
+                {
+                    "funding-source": "New Delhi,",
+                    "award-id": [
+                        "BT/AAQ/01/NIAB",
+                        "C0038"
+                    ]
+                },
+                {
+                    "funding-source": "DBTNational Institute of Animal Biotechnology",
+                    "award-id": [
+                        "DBT-NIAB"
+                    ]
+                }
+            ],
+            "funding-statement": "We acknowledge the Department of Biotechnology (DBT), New Delhi, for the grant BT/AAQ/01/NIAB-Flagship/2019 and C0038 as internal core research support from DBTNational Institute of Animal Biotechnology (DBT-NIAB), Hyderabad"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Science and Technology"
+                },
+                {
+                    "funding-source": "New Delhi"
+                }
+            ],
+            "funding-statement": "A.R. would like to acknowledge DST-INSPIRE fellowship (IF180729) sponsored by Department of Science and Technology (DST), New Delhi"
+        }
+    ]
+}

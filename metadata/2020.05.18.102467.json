@@ -1,0 +1,41 @@
+{
+    "title": "Structural basis for translational shutdown and immune evasion by the Nsp1 protein of SARS-CoV-2",
+    "author": "Matthias Thoms, Robert Buschauer, Michael Ameismeier, Lennart Koepke, Timo Denk, Maximilian Hirschenberger, Hanna Kratzat, Manuel Hayn, Timur Mackens-Kiani, Jingdong Cheng, Christina M. St\u00fcrzel, Thomas Fr\u00f6hlich, Otto Berninghausen, Thomas",
+    "date": 2020,
+    "affiliations": [
+        "Gene Center Munich, Department of Biochemistry, University of Munich, Munich, Germany",
+        "Institute of Molecular Virology, Ulm University Medical Center, Ulm, Germany",
+        "Laboratory of Functional Genome Analysis, University of Munich, Munich, Germany",
+        "Correspondence to:",
+        "These authors contributed equally"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.18.102467",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.18.102467.pdf"
+    },
+    "abstract": "SARS-CoV-2 is the causative agent of the current COVID-19 pandemic. A major virulence factor of SARS-CoVs is the nonstructural protein 1 (Nsp1) which suppresses host gene expression by ribosome association via an unknown mechanism. Here, we show that Nsp1 from SARS-CoV-2 binds to 40S and 80S ribosomes, resulting in shutdown of capped mRNA translation both in vitro and in cells. Structural analysis by cryo-electron microscopy (cryo-EM) of in vitro reconstituted Nsp1-40S and of native human Nsp1-ribosome complexes revealed that the Nsp1 C-terminus binds to and obstructs the mRNA entry tunnel. Thereby, Nsp1 effectively blocks RIG-Idependent innate immune responses that would otherwise facilitate clearance of the infection. Thus, the structural characterization of the inhibitory mechanism of Nsp1 may aid structure-based drug design against SARS-CoV-2.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Boehringer Ingelheim Fonds",
+                    "award-id": [
+                        "SFB/TRR-174",
+                        "BE1814/15-1",
+                        "BE1814/1-1",
+                        "CRC-1279",
+                        "SPP-1923",
+                        "SP1600/4-1"
+                    ]
+                },
+                {
+                    "funding-source": "University Ulm Medical Center"
+                }
+            ],
+            "funding-statement": "This study was supported by a Ph.D. fellowship by Boehringer Ingelheim Fonds to R.Bu., grants by the DFG to R.Be (SFB/TRR-174, BE1814/15-1, BE1814/1-1), grants by the DFG to F.K. and K.S. (CRC-1279, SPP-1923, SP1600/4-1) as well as intramural funding by University Ulm Medical Center (L.SBN.0150) to K.S. Author contributions: R.Be., K.S., M.T., R.Bu. and M.A. designed the study; O.B. collected cryo-EM data, M.T., R.Bu. and M.A. prepared cryo-EM samples and processed cryo-EM data; R.Bu., M.A. and J.C. built molecular models; T.D. performed in vitro translation assays with help from H.K.; M.T. generated plasmids and performed protein purifications and binding assays; T.MK. and H.K. performed co-sedimentation assays; T.F. performed mass spectrometry analysis; L.K., M.Hi. and M.Ha performed immune inhibition assays. C.S. contributed and designed codon-optimized plasmids. M.T., R.Bu., M.A., T.B., F.K., K.S. and R.Be. wrote the manuscript, with comments from all authors."
+        }
+    ]
+}

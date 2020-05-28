@@ -1,0 +1,65 @@
+{
+    "title": "Mapping the Immunodominance Landscape of SARS-CoV-2 Spike Protein for 2 the Design of Vaccines against COVID-19 3 Bao-zhong Zhang2,$, Ye-fan Hu1,4,$, Lin-lei Chen3,$, Yi-gang Tong5,$, Jing-chu Hu2, 4 Jian-piao Cai3, Kwok-Hung Chan3, Ying Dou1, Jian Deng1, Hua-rui Gong1, 5 Chaiyaporn Kuwentrai1, Wenjun Li2,Xiao-lei Wang1, Hin Chu3, Cai-hui Su1, Ivan 6 Fan-Ngai Hung4, Thomas Chung Cheung Yau4,*, Kelvin Kai-Wang To3,*, Kwok Yung 7 Yuen3,*, Jian-Dong Huang1,2,* 8 9 1 School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, University of 10 Hong Kong, 3/F, Laboratory Block, 21 Sassoon Road, Hong Kong, China 11 2 Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, 12 Chinese Academy of Sciences, 1068 Xueyuan Avenue, University Town, Nanshan, 13 Shenzhen, 518055, China 14 3 Department of Microbiology, University of Hong Kong, 19/F T Block, Queen Mary 15 Hospital, 102 Pokfulam Road, Hong Kong, China 16 4 Department of Medicine, University of Hong Kong, 4/F Professional Block, Queen 17 Mary Hospital, 102 Pokfulam Road, Hong Kong, China 18 5 Beijing Advanced Innovation Centre for Soft Matter Science and Engineering 19 (BAIC-SM), College of Life Science and Technology, Beijing University of Chemical 20 Technology 21 $ Equal contribution. 22 * Corresponding authors. 23",
+    "date": 2020,
+    "affiliations": [
+        "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, University of",
+        "Hong Kong, 3/F, Laboratory Block, 21 Sassoon Road, Hong Kong, China 11",
+        "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology",
+        "Chinese Academy of Sciences, 1068 Xueyuan Avenue, University Town, Nanshan",
+        "Shenzhen, 518055, China 14",
+        "Department of Microbiology, University of Hong Kong, 19/F T Block, Queen Mary",
+        "Hospital, 102 Pokfulam Road, Hong Kong, China 16",
+        "Department of Medicine, University of Hong Kong, 4/F Professional Block, Queen",
+        "Mary Hospital, 102 Pokfulam Road, Hong Kong, China 18",
+        "Beijing Advanced Innovation Centre for Soft Matter Science and Engineering 19 (BAIC-SM), College of Life Science and Technology, Beijing University of Chemical 20 Technology 21 $ Equal contribution. 22",
+        "Corresponding authors. 23"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.23.056853",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.23.056853.pdf"
+    },
+    "abstract": "The ongoing coronavirus disease 2019 (COVID-19) pandemic is a serious threat to global public health, and imposes severe burdens on the entire human society. The severe acute respiratory syndrome (SARS) coronavirus-2 (SARS-CoV-2) can cause severe respiratory illness and death. Currently, there are no specific antiviral drugs that can treat COVID-19. Several vaccines against SARS-CoV-2 are being actively developed by research groups around the world. The surface S (spike) protein and the highly expressed internal N (nucleocapsid) protein of SARS-CoV-2 are widely considered as promising candidates for vaccines. In order to guide the design of an effective vaccine, we need experimental data on these potential epitope candidates. In this study, we mapped the immunodominant (ID) sites of S protein using sera samples collected from recently discharged COVID-19 patients. The SARS-CoV-2 S protein36 specific antibody levels in the sera of recovered COVID-19 patients were strongly correlated with the neutralising antibody titres. We used epitope mapping to determine the landscape of ID sites of S protein, which identified nine linearized B cell ID sites. Four out of the nine ID sites were found in the receptor-binding domain (RBD). Further analysis showed that these ID sites are potential high-affinity SARS41 CoV-2 antibody binding sites. Peptides containing two out of the nine sites were tested as vaccine candidates against SARS-CoV-2 in a mouse model. We detected epitope-specific antibodies and SARS-CoV-2-neutralising activity in the immunised mice. This study for the first time provides human serological data for the design of vaccines against COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Health and Medical Research",
+                    "award-id": [
+                        "KQTD2015033117210153"
+                    ]
+                },
+                {
+                    "funding-source": "Committee Basic Science Research Grant",
+                    "award-id": [
+                        "JCYJ20170413154523577"
+                    ]
+                },
+                {
+                    "funding-source": "China Postdoctoral Science Foundation",
+                    "award-id": [
+                        "2019M663167"
+                    ]
+                },
+                {
+                    "funding-source": "Author Contributions BZ Zhang, YF"
+                },
+                {
+                    "funding-source": "LL Chen, YG"
+                },
+                {
+                    "funding-source": "TCC Yau, KKW"
+                },
+                {
+                    "funding-source": "KY Yuen,"
+                },
+                {
+                    "funding-source": "JD Huang"
+                }
+            ],
+            "funding-statement": "This work was supported by Health and Medical Research (KQTD2015033117210153), Committee Basic Science Research Grant (JCYJ20170413154523577) and China Postdoctoral Science Foundation (2019M663167). Author Contributions BZ Zhang, YF Hu, LL Chen, YG Tong, TCC Yau, KKW To, KY Yuen, and JD Huang designed the study"
+        }
+    ]
+}

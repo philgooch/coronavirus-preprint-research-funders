@@ -1,0 +1,16 @@
+{
+    "abstract": "Mathematical models are useful tools to predict the course of an epidemic. A heuristic global Gaussian-function-based algorithm for predicting the COVID-19 pandemic trend is proposed for estimating how the temporal evolution of the pandemic develops by predicting daily COVID-19 deaths, for up to 10 days, starting with the day the prediction is made. The validity of the proposed heuristic global algorithm was tested in the case of China (at different temporal stages of the pandemic). The algorithm was used to obtain predictions in six different locations: California, New York, Iran, Sweden, the United Kingdom, and the entire United States, and in all cases the prediction was confirmed. Our findings show that this algorithm offers a robust and reliable method for revealing the temporal dynamics and disease trends of SARS-CoV-2, and could be a useful tool for the relevant authorities in settings worldwide.",
+    "author": "Liborio Cavaleri; Christina Karamani; Maria Douvika; Theoklis E. Zaoutis; Katerina Chlichlia; Tryfon Daras; Athanasia Skentou; Panagiotis G. Asteris; Danial Jahed Armaghani",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20068445",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20068445"
+    },
+    "title": "A Novel Heuristic Global Algorithm to Predict the COVID-19 Pandemic Trend",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors received no funding for this work."
+        }
+    ]
+}

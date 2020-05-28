@@ -1,0 +1,34 @@
+{
+    "title": "Catalytic cleavage of HEAT and subsequent covalent binding of the tetralone moiety by the SARS-CoV-2 main protease",
+    "date": 2020,
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.02.043554",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.02.043554.pdf"
+    },
+    "abstract": "Here we present the crystal structure of SARS-CoV-2 main protease (Mpro) covalently bound to 2-methyl-1-tetralone. This complex was obtained by co-crystallization of Mpro with HEAT (2-(((4hydroxyphenethyl)amino)methyl)-3,4-dihydronaphthalen-1(2H)-one) in the framework of a large X-ray crystallographic screening project of Mpro against a drug repurposing library, consisting of 5632 approved drugs or compounds in clinical phase trials. Further investigations showed that HEAT is cleaved by Mpro in an E1cB-like reaction mechanism into 2-methylene-1-tetralone and tyramine. The catalytic Cys145 subsequently binds covalently in a Michael addition to the methylene carbon atom of 2-methylene-1-tetralone. According to this postulated model HEAT is acting in a pro-drug-like fashion. It is metabolized by Mpro, followed by covalent binding of one metabolite to the active site. The structure of the covalent adduct elucidated in this study opens up a new path for developing non-peptidic inhibitors.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Deutsches Elektronen-Synchrotron"
+                },
+                {
+                    "funding-source": "Max Planck Society,"
+                },
+                {
+                    "funding-source": "Joachim Herz Foundation",
+                    "award-id": [
+                        "Biomedical Physics of Infection"
+                    ]
+                },
+                {
+                    "funding-source": "Biomedical Physics of Infection)"
+                }
+            ],
+            "funding-statement": "This research was supported in part through the Maxwell computational resources operated at Deutsches Elektronen-Synchrotron (DESY), Hamburg, Germany, and by the Max Planck Society, the Center for ultrafast imaging and the Joachim Herz Foundation (Biomedical Physics of Infection)"
+        }
+    ]
+}

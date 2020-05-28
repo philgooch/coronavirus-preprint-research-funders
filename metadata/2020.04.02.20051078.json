@@ -1,0 +1,23 @@
+{
+    "abstract": "We present a stochastic optimization model for allocating and sharing a critical resource in the case of a pandemic. The demand for different entities peaks at different times, and an initial inventory for a central agency is to be allocated. The entities (states) may share the critical resource with a different state under a risk-averse condition. The model is applied to study the allocation of ventilator inventory in the COVID-19 pandemic by FEMA to different US states. Findings suggest that if less than 60\\% of the ventilator inventory is available for non-COVID-19 patients, FEMA's stockpile of 20,000 ventilators (as of 03/23/2020) would be nearly adequate to meet the projected needs in slightly above average demand scenarios. However, when more than 75\\% of the available ventilator inventory must be reserved for non-COVID-19 patients, various degrees of shortfall are expected. In a severe case, where the demand is concentrated in the top-most quartile of the forecast confidence interval and states are not willing to share their stockpile of ventilators, the total shortfall over the planning horizon (till 05/31/20) is about 232,000 ventilator days, with a peak shortfall of 17,200 ventilators on 04/19/2020.",
+    "author": "Fengqiao Luo; Sanjay Mehrotra; Masoud Barah; Karolina Schantz; Hamed Rahimian",
+    "date": 2020,
+    "doi": "10.1101/2020.04.02.20051078",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20051078"
+    },
+    "title": "A Model for Supply-Chain Decisions for Resource Sharing with an Application to Ventilator Allocation to Combat COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "CMMI-1763035"
+                    ]
+                }
+            ],
+            "funding-statement": "The research reported in this paper was partially funded by the NSF grant CMMI-1763035"
+        }
+    ]
+}

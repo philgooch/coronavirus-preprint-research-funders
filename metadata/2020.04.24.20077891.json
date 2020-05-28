@@ -1,0 +1,42 @@
+{
+    "abstract": "In Africa, while most countries report some COVID-19 cases, the fraction of reported patients is low, with about 20,000 cases compared to the more than 2.3 million cases reported globally as of April 18, 2020. Few African countries have reported case numbers above one thousand, with South Africa reporting 3,034 cases being hit hardest in Sub-Saharan Africa. Several African countries, especially South Africa, have already taken strong non-pharmaceutical interventions that include physical distancing, restricted economic, educational and leisure activities and reduced human mobility options. The required strengths and overall effectiveness of such interventions, however, are debated because of simultaneous but opposing interests in most African countries: strongly limited health care capacities and testing capabilities largely conflict with pressured national economies and socio-economic hardships on the individual level, limiting compliance to intervention targets. Here we investigate implications of interventions on the COVID-19 outbreak dynamics, focusing on South Africa before and after the national lockdown enacted on March 27, 2020. Our analysis shows that initial exponential growth of existing case numbers is consistent with doubling times of about 2.5 days. After lockdown, the growth remains exponential, now with doubling times of 18 days, but still in contrast to subexponential growth reported for Hubei/China after lockdown. Moreover, a scenario analysis of a computational data-driven agent based mobility model for the Nelson Mandela Bay Municipality (with 1.14 million inhabitants) hints that keeping current levels of intervention measures and compliance until the end of April is of insufficient length and still too weak, too unspecific or too inconsistently complied with to not overload local intensive care capacity. Yet, enduring, slightly stronger, more specific interventions combined with sufficient compliance may constitute a viable option for interventions for regions in South Africa and potentially for large parts of the African continent and the Global South.",
+    "affiliations": [
+        "German National Science Foundation (Deutsche Forschungsgemeinschaft, DFG) and the Saxonian State Ministry for Higher Education, Research and the Arts under Germany's Excellence Strategy \u0096 EXC-2068 \u0096 390729961 \u0096 Cluster of Excellence Physics of Life (PoL) and the Center for Advancing Electronics Dresden (cfaed)"
+    ],
+    "author": "Marc Timme; Justin Coetzee; Moritz Kersting; Malte Schr\u00f6der; Jan Schl\u00fcter; Andreas Bossert; Sebastian Aeffner",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20077891",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20077891"
+    },
+    "title": "COVID-19 in Africa -- outbreak despite interventions?",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "German National Science Foundation"
+                },
+                {
+                    "funding-source": "Deutsche Forschungsgemeinschaft, DFG"
+                },
+                {
+                    "funding-source": "Saxonian State Ministry for Higher Education, Research"
+                },
+                {
+                    "funding-source": "Germany's Excellence Strategy",
+                    "award-id": [
+                        "EXC-2068",
+                        "390729961"
+                    ]
+                },
+                {
+                    "funding-source": "Cluster of Excellence Physics of Life"
+                },
+                {
+                    "funding-source": "Center for Advancing Electronics Dresden"
+                }
+            ],
+            "funding-statement": "Supported by the German National Science Foundation (Deutsche Forschungsgemeinschaft, DFG) and the Saxonian State Ministry for Higher Education, Research and the Arts under Germany's Excellence Strategy \u0096 EXC-2068 \u0096 390729961 \u0096 Cluster of Excellence Physics of Life (PoL) and the Center for Advancing Electronics Dresden (cfaed)."
+        }
+    ]
+}

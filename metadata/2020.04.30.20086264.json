@@ -1,0 +1,16 @@
+{
+    "abstract": "Most European countries have responded to the COVID-19 threat by nationwide implementation of barrier measures and lockdown. However, assuming that population immunity will build up through the epidemic, it is likely to rebound once these measures are relaxed, possibly leading to a second or multiple repeated lockdowns. In this report, we present results of epidemiological modelling that has helped inform policy making in France. We used a stochastic agent-based microsimulation model of the COVID-19 epidemic in France, and examined the potential impact of post-quarantine measures, including social distancing, mask-wearing, and shielding of the population the most vulnerable to severe COVID-19 infection, on the disease's cumulative incidence and mortality, and on ICU-bed occupancy. The model calibrated well and variation of model parameter values had little impact on outcome estimates. While quarantine is effective in containing the viral spread, it would be unlikely to prevent a rebound of the epidemic once lifted, regardless of its duration. Both social distancing and mask-wearing, although effective in slowing the epidemic and in reducing mortality, would also be ineffective in ultimately preventing the overwhelming of ICUs and a second lockdown. However, these measures coupled with shielding of vulnerable people would be associated with better outcomes, including lower cumulative incidence, mortality, and maintaining an adequate number of ICU beds to prevent a second lockdown. Benefits would nonetheless be markedly reduced if these measures were not applied by most people or not maintained for a sufficiently long period, as herd immunity progressively establishes in the less vulnerable population.",
+    "author": "Martin Blachier; Mark Olfson; Carlos Blanco; Marina Sanchez Rico; Marc Massetti; Henri Leleu; Frederic Limosin; Nicolas Hoertel",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20086264",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20086264"
+    },
+    "title": "Lockdown exit strategies and risk of a second epidemic peak: a stochastic agent-based model of SARS-CoV-2 epidemic in France",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work did not receive any external funding."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "title": "Antiviral activity of Glucosylceramide synthase inhibitors against SARS-CoV-2 and other RNA virus infections",
+    "author": "Einat. B. Vitner, Roy Avraham, Hagit Achdout, Hadas Tamir, Avi Agami, Lilach Cherry",
+    "date": 2020,
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.18.103283",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.18.103283.pdf"
+    },
+    "abstract": "The need for antiviral drugs is real and relevant. Broad spectrum antiviral drugs have a particular advantage when dealing with rapid disease outbreaks, such as the current COVID-19 pandemic. Since viruses are completely dependent on internal cell mechanisms, they must cross cell membranes during their lifecycle, creating a dependence on processes involving membrane dynamics. Thus, in this study we examined whether the synthesis of glycosphingolipids, biologically active components of cell membranes, can serve as an antiviral therapeutic target. We examined the antiviral effect of two specific inhibitors of GlucosylCeramide synthase (GCS); (i) Genz-123346, an analogue of the FDA-approved drug Cerdelga\u00ae, (ii) GENZ-667161, an analogue of venglustat which is currently under phase III clinical trials. We found that both GCS inhibitors inhibit the replication of four different enveloped RNA viruses of different genus, organ-target and transmission route: (i) Neuroinvasive Sindbis virus (SVNI), (ii) West Nile virus (WNV), (iii) Influenza A virus, and (iv) SARS-CoV-2. Moreover, GCS inhibitors significantly increase the survival rate of SVNI-infected mice. Our data suggest that GCS inhibitors can potentially serve as a broad-spectrum antiviral therapy and should be further examined in preclinical and clinical trial. Analogues of the specific compounds tested have already been studied clinically, implying they can be fast-tracked for public use. With the current COVID-19 pandemic, this may be particularly relevant to SARS-CoV-2 infection.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Israel Science Foundation",
+                    "award-id": [
+                        "521/18"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding: R.A. is supported by the Israel Science Foundation (grant 521/18)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Katzir Foundation"
+                }
+            ],
+            "funding-statement": "E.B.V is supported by the Katzir Foundation"
+        }
+    ]
+}

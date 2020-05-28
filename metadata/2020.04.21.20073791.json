@@ -1,0 +1,16 @@
+{
+    "abstract": "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections are rising rapidly every day in the world, causing the disease COVID-19 with around 2 million people infected and more than 100,000 people died so far, in more than 200 countries. One of the baffling aspects of this pandemic is the asymmetric increase in cases and case fatality rate (CFR) among countries. We analyze the time series of the infection and fatality numbers and found two interesting aspects. Firstly, the rate of spread in a region is directly connected to the population density of the region where the virus is spreading. For example, the high rate of increase in cases in the United States of America (USA) is related to the high population density of New York City. This is shown by scaling the cumulative number of cases with a measure of the population density of the affected region in countries such as Italy, Spain, Germany, and the USA and we see that the curves are coinciding. Secondly, we analyzed the CFR number as a function of the number of days, since the first death, and we found that there are two clear categories among countries: one category with high CFR numbers (around 10%) and the other category with low CFR numbers (2% to 4%). When we analyzed the results, we see that countries with lower CFR numbers more or less tend to have implemented active control measures such as aggressive testing, tracking down possible infections, effective quarantine measures, etc. Moreover, we did not see any convincing correlation between mortality rates and the median age of the population.",
+    "author": "Sadhya Gulati; Eldhose Iype",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20073791",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20073791"
+    },
+    "title": "Understanding the asymmetric spread and case fatality rate (CFR) for COVID-19 among countries",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding has been received"
+        }
+    ]
+}

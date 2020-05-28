@@ -1,0 +1,20 @@
+{
+    "title": "A Rapid COVID-19 RT-PCR Detection Assay for Low Resource Settings",
+    "author": "Season Wong",
+    "date": 2020,
+    "affiliations": [
+        "College Station, Texas 77845-5816, United States of America",
+        "The Medical College Of Wisconsin, Milwaukee WI, 53226, United States of America"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.29.069591",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.29.069591.pdf"
+    },
+    "abstract": "Quantitative reverse transcription polymerase chain reaction (RT-qPCR) assay is the gold standard recommended to test for acute SARS-CoV-2 infection. It has been used by the Centers for Disease Control and Prevention (CDC) and several other companies in their Emergency Use Authorization (EUA) assays. RT-qPCR requires expensive equipment such as RNA isolation instruments and real-time PCR thermal cyclers, which are not available in many low resource settings and developing countries. As a pandemic, COVID-19 has quickly spread to the rest of the world. Many underdeveloped and developing counties do not have the means for fast and accurate COVID-19 detection to control this outbreak. Using COVID-19 positive clinical specimens, we demonstrated that RT-PCR assays can be performed in as little as 12 minutes using untreated samples, heat-inactivated samples, or extracted RNA templates. Rapid RT-PCR was achieved using thin-walled PCR tubes and a setup including sous vide immersion heaters/circulators. Our data suggest that rapid RT-PCR can be implemented for sensitive and specific molecular diagnosis of COVID-19 in situations where sophisticated laboratory instruments are not available.",
+    "funding": [
+        {}
+    ]
+}

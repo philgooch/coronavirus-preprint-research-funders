@@ -1,0 +1,19 @@
+{
+    "abstract": "If the knowledge of the incubation time is helpful in designing non-pharmaceutical interventions such as quarantine measures, can one use the number of cases arising after a lockdown to check (a) if our assumptions of the incubation time were correct and (b) if the quarantine measures were as successful as they could theoretically be. These are the two questions we raise by studying the number of new cases arising after lockdowns in a few European countries. The analysis which purely relies on the publicly available data of the numbers of new infections, rather than extensive contact tracing of individual patients, suggests a memory of the infections in the community with a median of 13.3 days. This distribution of the memory of infections which may even be considered as a surrogate of the incubation time in a perfect lockdown, suggests that even a perfect quarantine of 30 days is only 90% complete.",
+    "affiliations": [
+        "Johns Hopkins University. All the scripts and data used in this work will be made available upon request"
+    ],
+    "author": "Meher K Prakash",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20067058",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20067058"
+    },
+    "title": "Community Memory of COVID-19 Infections Post Lockdown as a Surrogate for Incubation Time",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

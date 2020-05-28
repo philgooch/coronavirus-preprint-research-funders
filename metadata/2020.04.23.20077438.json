@@ -1,0 +1,16 @@
+{
+    "abstract": "Early 2020 and the world experiences its very first pandemic of globalized era. A novel coronavirus, SARS-Cov-2, is the causative agent of severe pneumonia and rapidly spread through many nations, crashing health systems. In Brazil, the emergence of local epidemics in major metropolitan areas is a concern. In a huge and heterogeneous country, with regional disparities and climate diversity, several factors can modulate the dynamics of COVID-19. What should be the scenario for an inner Brazil and what can we do to control infection transmission in each one of these locations? In this paper, a mathematical model was developed to simulate disease transmission among individuals in several scenarios, differing by the intensity and type of control measures. Mitigation strategies rely on social distancing of all individuals, and detection and isolation of infected ones. The model shows that control effort varies among cities. The social distancing is the most efficient method to control disease transmission but improving detection and isolation of infected individuals can help loosening this mitigation strategy.",
+    "author": "Thomas Vilches; Carlos Magno Castelo Branco Fortaleza; Gabriel Berg de Almeida; Claudia Ferreira",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20077438",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20077438"
+    },
+    "title": "Several countries in one: a mathematical modeling analysis for COVID-19 in inner Brazil",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "NO external funding was received for this work"
+        }
+    ]
+}

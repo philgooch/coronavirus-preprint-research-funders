@@ -1,0 +1,62 @@
+{
+    "abstract": "Background. The pandemic of the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) is causing great loss. Detecting viral RNAs is standard approach for SARS-CoV-2 diagnosis with variable success. Currently, studies describing the serological diagnostic methods are emerging, while most of them just involve the detection of SARS-CoV-2-specific IgM and IgG by ELISA or flow immunoassay with limited accuracy. Methods. Diagnostic approach depends on chemiluminescence immunoanalysis (CLIA) for detecting IgA, IgM and IgG specific to SARS-CoV-2 nucleocapsid protein (NP) and receptor-binding domain (RBD) was developed. The approach was tested with 216 sera from 87 COVID-19 patients and 483 sera from SARS-CoV-2 negative individuals. The diagnostic accuracy was evaluated by receiver operating characteristic (ROC) analysis. Concentration kinetics of RBD-specific serum antibodies were characterized. The relationship of serum RBD-specific antibodies and disease severity was analyzed. Results. The diagnostic accuracy based on RBD outperformed those based on NP. Adding IgA to a conventional serological test containing IgM and IgG improves sensitivity of SARS-CoV-2 diagnosis at early stage. CLIA for detecting RBD-specific IgA, IgM and IgG showed diagnostic sensitivities of 98.6%, 96.8% and 96.8%, and specificities of 98.1%, 92.3% and 99.8%, respectively. Median concentration of IgA and IgM peaked during 16-20 days after illness onset at 8.84 \u03bcg/mL and 7.25 \u03bcg/mL, respectively, while IgG peaked during 21-25 days after illness onset at 16.47 \u03bcg/mL. Furthermore, the serum IgA level positively correlates with COVID-19 severity. Conclusion. CLIA for detecting SARS-CoV-2 RBD-specific IgA, IgM and IgG in blood provides additional values for diagnosing and monitoring of COVID-19.",
+    "affiliations": [
+        "Chinese Academy of Sciences (XDB29030104), National Natural Science Fund (Grant No.: 31870731 and U1732109), the Fundamental Research Funds for the Central Universities (WK2070000108). TJ and XLM is supported by",
+        "COVID-19 special task grant supported by Chinese Academy of Science Clinical Research Hospital (Hefei) with Grant No. YD2070002017 and YD2070002001, respectively. M.H. is supported by the new medical science fund of USTC (WK2070000130)"
+    ],
+    "author": "Changcheng Zhao; Huan Ma; Chengchao Ding; Ruting Yi; Jiajia Xie; Yong Gao; Yun Yang; Weihong Zeng; Bo Wang; Yingjie Qi; Dehua Jiang; Yuanhong Xu; Yajuan Li; Hongliang He; Tengchuan Jin; Weihuang He; Yunru Yang; Arnaud John Kombe Kombe; Xiaoling Ma; Linzhao Cheng; Dan Zhao; Peigen Zhou; Xiaofang Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20064907",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20064907"
+    },
+    "title": "COVID-19 diagnosis and study of serum SARS-CoV-2 specific IgA, IgM and IgG by chemiluminescence immunoanalysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Strategic Priority Research Program of the Chinese Academy of Sciences",
+                    "award-id": [
+                        "XDB29030104"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Fund",
+                    "award-id": [
+                        "31870731",
+                        "U1732109"
+                    ]
+                },
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities",
+                    "award-id": [
+                        "WK2070000108"
+                    ]
+                }
+            ],
+            "funding-statement": "T.J. is supported by the Strategic Priority Research Program of the Chinese Academy of Sciences (XDB29030104), National Natural Science Fund (Grant No.: 31870731 and U1732109), the Fundamental Research Funds for the Central Universities (WK2070000108)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chinese Academy of Science Clinical Research Hospital",
+                    "award-id": [
+                        "YD2070002017",
+                        "YD2070002001"
+                    ]
+                }
+            ],
+            "funding-statement": "TJ and XLM is supported by a COVID-19 special task grant supported by Chinese Academy of Science Clinical Research Hospital (Hefei) with Grant No YD2070002017 and YD2070002001, respectively"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "WK2070000130"
+                    ]
+                }
+            ],
+            "funding-statement": "M.H. is supported by the new medical science fund of USTC (WK2070000130)"
+        }
+    ]
+}

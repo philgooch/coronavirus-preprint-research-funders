@@ -1,0 +1,23 @@
+{
+    "abstract": "Here we adapt and evaluate a full-face snorkel mask for use as personal protective equipment (PPE) for health care workers, who lack appropriate alternatives during the COVID-19 crisis in the spring of 2020. The design (referred to as Pneumask) consists of a custom snorkel-specific adapter that couples the snorkel-port of the mask to a rated filter (either a medical-grade ventilator inline filter or an industrial filter). This design has been tested for the sealing capability of the mask, filter performance, CO2 buildup and clinical usability. These tests found the Pneumask capable of forming a seal that exceeds the standards required for half-face respirators or N95 respirators. Filter testing indicates a range of options with varying performance depending on the quality of filter selected, but with typical filter performance exceeding or comparable to the N95 standard. CO2 buildup was found to be roughly equivalent to levels found in half-face elastomeric respirators in literature. Clinical usability tests indicate sufficient visibility and, while speaking is somewhat muffled, this can be addressed via amplification (Bluetooth voice relay to cell phone speakers through an app) in noisy environments. We present guidance on the assembly, usage (donning and doffing) and decontamination protocols. The benefit of the Pneumask as PPE is that it is reusable for longer periods than typical disposable N95 respirators, as the snorkel mask can withstand rigorous decontamination protocols (that are standard to regular elastomeric respirators). With the dire worldwide shortage of PPE for medical personnel, our conclusions on the performance and efficacy of Pneumask as an N95-alternative technology are cautiously optimistic.",
+    "author": "John Pearson MD; Patrick Kolbay; James Dale; Simon Ellgas; Jocelyne Kohn MD; Hazel Soto-Montoya; Gerry Ayala; Rebecca Konte; George Herring; Filip Kober; Grace Zhong; Kyle Combes; Luca Borroni; Philip Wagner MD; Noah Jacobs; Cristian Muniz Herrera MD; Hongquan Li; Peter Baek MD; Kelly Yen; Roberto Miki MD; Amit Jain; Anesta Kothari; Quentin Allinne; Thibaut Pollina; Ray Chang MD; Melanie Hannebelle; Laurel Kroo; Emma Pan; Dave Kasper; Manu Prakash; Samhita P. Banavar; Nicholas Cucinelli; Ross Venook; Rozhin Hajian; Nitin Arora M.D.; Khang Vu; David Kohn Bitran MD; Patrick Gerber; Elliot Flaum",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078907",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078907"
+    },
+    "title": "Pneumask: Modified Full-Face Snorkel Masks as Reusable Personal Protective Equipment for Hospital Personnel",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Schmidt Futures, Moore"
+                },
+                {
+                    "funding-source": "Autodesk and CZ BioHub for"
+                }
+            ],
+            "funding-statement": "We thank Schmidt Futures, Moore Foundation, Autodesk and CZ BioHub for financial support of the project"
+        }
+    ]
+}

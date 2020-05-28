@@ -1,0 +1,42 @@
+{
+    "title": "Multi-epitope vaccine design using an immunoinformatics approach for 2019 novel coronavirus in China (SARS-CoV-2)",
+    "author": "Ye Feng, Min Qiu, Shengmei Zou, Yun Li, Kai Luo, Rongchang Chen, Yingqiang Sun, 4 Kui Wang, Xinlei Zhuang, Shanshan Zhang, Shuqing Chen, Fan Mo",
+    "date": 2020,
+    "affiliations": [
+        "Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China; 2",
+        "Institute for Translational Medicine, Zhejiang University School of Medicine, Hangzhou, China; 3",
+        "Hangzhou Neoantigen Therapeutics Co., Ltd., Hangzhou, China; 4",
+        "Zhejiang Forest Resources Monitoring Center, Hangzhou, China",
+        "College of Pharmaceutical",
+        "Sciences, Zhejiang University, Hangzhou, China",
+        "Zhejiang California International Nanosystems",
+        "Institute, Zhejiang University, Hangzhou, China",
+        "Vancouver Prostate Centre, University of",
+        "British Columbia, Vancouver, BC, Canada"
+    ],
+    "journal": "Multi",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.03.962332",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.03.962332.pdf"
+    },
+    "abstract": "A new coronavirus SARS-CoV-2, recently discovered in Wuhan, China, has caused over 74000 infection cases and 2000 deaths. Due to the rapidly growing cases and the unavailability of specific therapy, there is a desperate need for vaccines to combat the epidemic of SARS-CoV-2. In the present study, we performed an in silico approach based on the available virus genome to identify the antigenic B-cell epitopes and human-leukocyte-antigen (HLA) restricted T-cell epitopes. A total of 61 B-cell epitopes were initially identified, 19 of which with higher potential 27 immunogenicity were used for vaccine design. 499 T-cell epitopes were predicted that showed 28 affinity with the 34 most popular HLA alleles in Chinese population. Based on these epitopes, 30 29 vaccine candidates were designed and inspected against safety risks, including potential toxicity, human homologous, pharmaceutical peptides and bioactive peptides. Majority of vaccine peptides contained both B-cell and T-cell epitopes, which may interact with the most prevalent HLA alleles accounting for ~99% of Chinese population. Docking analysis showed stable hydrogen bonds of epitopes with their corresponding HLA alleles. In conclusion, these putative antigenic peptides may elicit the resistance response to the viral infection. In vitro and in vivo experiments are required to validate the effectiveness of these peptide vaccine.",
+    "keywords": [
+        "SARS-CoV-2",
+        "epitope",
+        "immunoinformatics",
+        "vaccine"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Zhejiang Provincial Natural Science Foundation of China. Author"
+                }
+            ],
+            "funding-statement": "This work was supported by Zhejiang Provincial Natural Science Foundation of China. Author contributions SC and FM conceived and designed the project"
+        }
+    ]
+}

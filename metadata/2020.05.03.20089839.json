@@ -1,0 +1,33 @@
+{
+    "abstract": "Background: The spread of coronavirus in the United States with nearly one million confirmed cases and over 53,000 deaths has strained public health and health care systems. While many have focused on clinical outcomes, less attention has been paid to vulnerability and risk of infection. In this study, we developed a planning tool that examines factors that affect vulnerability to COVID-19. Methods: Across 46 variables, we defined five broad categories: 1) access to medical, 2) underlying health conditions, 3) environmental exposures, 4) vulnerability to natural disasters, and 5) sociodemographic, behavioral, and lifestyle factors. We also used reported rates for morbidity, hospitalization, and mortality in other regions to estimate risk at the county (Harris County) and census tract levels. Analysis: A principal component analysis was undertaken to reduce the dimensions. Then, to identify vulnerable census tracts, we conducted rank-based exceedance and K-means cluster analyses. Results: Our study showed a total of 722,357 (~17% of the County population) people, including 171,403 between the ages of 45-65 (~4% of County population), and 76,719 seniors (~2% of County population), are at a higher risk based on the aforementioned categories. The exceedance and K-means cluster analysis demonstrated that census tracts in the northeastern, eastern, southeastern and northwestern regions of the County are at highest risk. The results of age-based estimations of hospitalization rates showed the western part of the County might be in greater need of hospital beds. However, cross-referencing the vulnerability model with the estimation of potential hospitalized patients showed that part of the County has the least access to medical facilities. Conclusion: Policy makers can use this planning tool to identify neighborhoods at high risk for becoming hot spots; efficiently match community resources with needs, and ensure that the most vulnerable have access to equipment, personnel, and medical interventions.\nCompeting Interest Statement",
+    "affiliations": [
+        "Funding provided by National Science Foundation grant #1759440 and grant # 1840607 and from the Hurricane Resilience Research Institute at the University of Houston"
+    ],
+    "author": "Amin Kiaghadi; Winston Liaw; Hanadi S Rifai",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089839",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089839"
+    },
+    "title": "Assessing COVID-19 Risk, Vulnerability and Infection Prevalence in Communities",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "1759440",
+                        "1840607"
+                    ]
+                },
+                {
+                    "funding-source": "Hurricane Resilience Research Institute"
+                },
+                {
+                    "funding-source": "University of Houston."
+                }
+            ],
+            "funding-statement": "Funding provided by National Science Foundation grant #1759440 and grant # 1840607 and from the Hurricane Resilience Research Institute at the University of Houston."
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Crystal structure of Nsp15 endoribonuclease NendoU from SARS-CoV-2",
+    "keywords": [
+        "Nsp15",
+        "endoribonuclease",
+        "EndoU family",
+        "NendoU",
+        "SARS-CoV-2",
+        "crystal structure",
+        "COVID-19"
+    ],
+    "date": 2020,
+    "author": "Youngchang Kim, Robert Jedrzejczak, Natalia I. Maltseva, Michael Endres, Adam Godzik, Karolina Michalska, and Andrzej Joachimiak,#\u00b6",
+    "affiliations": [
+        "Center for Structural Genomics of Infectious Diseases, Consortium for Advanced Science and Engineering, University of Chicago, Chicago, IL 60667, USA",
+        "Structural Biology Center, X-ray Science Division, Argonne National Laboratory, Argonne, IL 60439, USA",
+        "Biomedical Sciences, University of California Riverside, Riverside, CA",
+        "Department of Biochemistry and Molecular Biology, University of Chicago, Chicago, IL",
+        "Structural Biology Center, X-ray Science Division, Argonne National Laboratory, Argonne, Illinois 60439, USA Phone: 630-252-3926; fax: 630-252-6126"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.02.968388",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.02.968388.pdf"
+    },
+    "abstract": "Severe Acute Respiratory Syndrome Coronavirus 2 is rapidly spreading around the world. There is no existing vaccine or proven drug to prevent infections and stop virus proliferation. Although this virus is similar to human and animal SARS- and MERS-CoVs the detailed information about SARSCoV-2 proteins structures and functions is urgently needed to rapidly develop effective vaccines, antibodies and antivirals. We applied high-throughput protein production and structure determination pipeline at the Center for Structural Genomics of Infectious Diseases to produce SARS-CoV-2 proteins and structures. Here we report the high-resolution crystal structure of endoribonuclease Nsp15/NendoU from SARS-CoV-2 \u2013 a virus causing current world-wide epidemics. We compare this structure with previously reported models of Nsp15 from SARS and MERS coronaviruses.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Advanced Photon Source"
+                },
+                {
+                    "funding-source": "U.S Department of Energy"
+                },
+                {
+                    "funding-source": "Office of Science and"
+                },
+                {
+                    "funding-source": "DOE Office of Science"
+                },
+                {
+                    "funding-source": "Argonne National Laboratory",
+                    "award-id": [
+                        "DE-AC02-06CH11357"
+                    ]
+                }
+            ],
+            "funding-statement": "The use of SBC beamlines at the Advanced Photon Source is supported by the U.S Department of Energy (DOE) Office of Science and operated for the DOE Office of Science by Argonne National Laboratory under Contract No DE-AC02-06CH11357"
+        }
+    ]
+}

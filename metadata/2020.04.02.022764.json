@@ -1,0 +1,53 @@
+{
+    "title": "Potent Antiviral Activities of Type I Interferons to SARS-CoV-2 Infection",
+    "author": "3 4 Emily Mantlo, Natalya Bukreyeva, Junki Maruyama, Slobodan Paessler 1, 2 and Cheng Huang 1, 2",
+    "date": 2020,
+    "affiliations": [
+        "Department of Pathology and",
+        "Institute for Human Infections and Immunity, University of Texas Medical",
+        "Branch, Galveston, Texas, United States of America",
+        "The University of Texas Medical Branch at Galveston 11 301 University Boulevard",
+        "Galveston, TX 77555-0609",
+        "",
+        "TCID50 assay on Vero cells. 82 Virus sensitivity to IFN treatment (infectious virus reduction assay):"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.02.022764",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.02.022764.pdf"
+    },
+    "abstract": "The ongoing historic outbreak of COVID-19 not only constitutes a global public health crisis, but also carries a devastating social and economic impact. The disease is caused by a newly identified coronavirus, Severe Acute Respiratory Syndrome coronavirus 2 (SARS-CoV-2). There is an urgent need to identify antivirals to curtail the COVID-19 pandemic. Herein, we report the remarkable sensitivity of SARS-CoV-2 to recombinant human interferons \u03b1 and \u03b2 (IFN\u03b1/\u03b2). Treatment with IFN-\u03b1 at a concentration of 50 international units (IU) per milliliter drastically reduces viral titers by 3.4 log or over 4 log, respectively, in Vero cells. The EC50 of IFN-\u03b1 and IFN-\u03b2 treatment is 1.35 IU/ml and 0.76 IU/ml, respectively, in Vero cells. These results suggest that SARS40 CoV-2 is more sensitive than many other human pathogenic viruses, including SARS-CoV. Overall, our results demonstrate the potent efficacy of human Type I IFN in suppressing SARS-CoV-2 infection, a finding which could inform future treatment options for COVID-19. 44 Introduction",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "Interferon",
+        "antiviral therapy"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Work in the Paessler"
+                },
+                {
+                    "funding-source": "Public Health Service",
+                    "award-id": [
+                        "R01AI093445",
+                        "R01AI129198"
+                    ]
+                }
+            ],
+            "funding-statement": "Work in the Paessler laboratory was supported in parts by Public Health Service grants R01AI093445 and R01AI129198 and the John"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UTMB Commitment"
+                }
+            ],
+            "funding-statement": "C.H. was supported by UTMB Commitment"
+        }
+    ]
+}

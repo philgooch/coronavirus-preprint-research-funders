@@ -1,0 +1,23 @@
+{
+    "abstract": "Understanding the trends in causes of death for different diseases during the current COVID-19 pandemic is important to determine whether there are excess deaths beyond what is normally expected. Using the most recent report from National Records Scotland (NRS) on 29 April 2020, we examined the percentage difference in crude numbers of deaths in 2020 compared to the average for 2015-2019 by week of death within calendar year. To determine if trends were similar, suggesting underreporting/underdiagnosed COVID-19 related deaths, we also looked at the trends in % differences for cardiovascular disease deaths. From the first 17 weeks' of data, we found a peak in excess deaths between weeks 14 of 2020, about four weeks after the first case in Scotland was detected on 1 March 2020-- but by week 17 these excesses had diminished around the time lockdown in the UK began. Similar observations were seen for cardiovascular disease-related deaths. These observations suggest that the short-term increase in excess cancer and cardiovascular deaths might be associated with undetected/unconfirmed deaths related to COVID-19. Both of these conditions make patients more susceptible to infection and lack of widespread access to testing for COVID-19 are likely to have resulted in under-estimation of COVID-19 mortality. These data further suggest that the cumulative toll of COVID-19 on mortality is likely undercounted. More detailed analysis is needed to determine if these excesses were directly or indirectly related to COVID-19. Disease specific mortality will need constant monitoring for the foreseeable future as changes occur in increasing capacity and access to testing, reporting criteria, changes to health services and different measures are implemented to control the spread of the COVID-19. Multidisciplinary, multi-institutional, national and international collaborations for complementary and population specific data analysis is required to respond and mitigate adverse effects of the COVID-19 pandemic and to inform planning for future pandemics.",
+    "author": "Malcolm G Dunlop; Peter S Hall; Cathie  LM Sudlow; Kai Jin; Farhat Din; Karin Purshouse; Paul Brennan; Ines Mesa-Eguiagaray; Jonine Figueroa; Sarah Wild; David Cameron; Evropi Theodoratou; Michael Poon",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20086231",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20086231"
+    },
+    "title": "Trends in excess cancer and cardiovascular deaths in Scotland during the COVID-19 pandemic 30 December 2019 to 20 April 2020",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "207800/Z/17/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding in part by Wellcome Trust grant 207800/Z/17/Z"
+        }
+    ]
+}

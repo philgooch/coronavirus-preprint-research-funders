@@ -1,0 +1,42 @@
+{
+    "title": "Designing of a next generation multiepitope based vaccine (MEV) against SARS-COV-2: Immunoinformatics and in silico approaches",
+    "author": "Muhammad Tahir ul Qamara, Abdur Rehmanb, Usman Ali Ashfaqb, Muhammad 5 Qasim Awanb, Israr Fatimab, Farah Shahidb, Ling-Ling Chena",
+    "date": 2020,
+    "affiliations": [
+        "College of Life Science and Technology, Guangxi University, Nanning, P. R. China 8",
+        "Department of Bioinformatics and Biotechnology, Government College University Faisalabad",
+        "Correspondence authors:",
+        "Prof. Ling-Ling Chen",
+        "These authors contributed equally in this study 15"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.28.970343",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.28.970343.pdf"
+    },
+    "abstract": "Coronavirus disease 2019 (COVID-19) associated pneumonia caused by severe acute respiratory 3 coronavirus 2 (SARS-COV-2) was first reported in Wuhan, China in December 2019. Till date, 4 no vaccine or completely effective drug is available to cure COVID-19. Therefore, an effective 5 vaccine against SARS-COV-2 is crucially needed. This study was conducted to design an 6 effective multiepitope based vaccine (MEV) against SARS-COV-2. Seven antigenic proteins 7 were taken as targets and different epitopes (B-cell, T-cell and IFN-\u03b3 inducing) were predicted. 8 Highly antigenic and overlapping epitopes were shortlisted. Selected epitopes indicated 9 significant interactions with the HLA-binding alleles and 99.29% coverage of the world\u2019s 10 population. Finally, 505 amino acids long MEV was designed by connecting sixteen MHC class I and eleven MHC class II epitopes with suitable linkers and adjuvant. Linkers and adjuvant were added to enhance the immunogenicity response of the MEV. The antigenicity, allergenicity, physiochemical properties and structural details of MEV were analyzed in order to ensure safety and immunogenicity. MEV construct was non-allergenic, antigenic, stable and flexible. Molecular docking followed by molecular dynamics (MD) simulation analysis, demonstrated a stable and strong binding affinity of MEV with human pathogenic toll-like receptors (TLR), TLR3 and TLR8. Codon optimization and in silico cloning of MEV ensured increased expression in the Escherichia coli K-12 system. Designed MEV in present study could be a potential candidate for further vaccine production process against COVID-19. However, to ensure its safety and immunogenic profile, the proposed MEV needs to be experimentally validated.",
+    "keywords": [
+        "SARS-COV-2",
+        "COVID-19",
+        "Pneumonia",
+        "Epitopes",
+        "Vaccine",
+        "Linkers",
+        "Adjuvant"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Starting Research Grant for High-level Talents from Guangxi University and Postdoctoral"
+                },
+                {
+                    "funding-source": "Guangxi University. Authors"
+                }
+            ],
+            "funding-statement": "This work was supported by the Starting Research Grant for High-level Talents from Guangxi University and Postdoctoral research platform grant of Guangxi University. Authors' contributions MTQ, LLC and UAA conceived and designed this study; MTQ and AR performed the experiments; MQA, IF and FS analyse the results; MTQ and AR wrote the manuscript; UAA and LLC improved and revised the manuscript, and all the authors approved the final version"
+        }
+    ]
+}

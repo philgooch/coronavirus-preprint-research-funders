@@ -1,0 +1,29 @@
+{
+    "abstract": "With the global coronavirus disease 2019 (COVID-19) pandemic, there is an urgent need for risk stratification tools to support prevention and treatment decisions. The Centers for Disease Control and Prevention (CDC) listed several criteria that define high-risk individuals, but multivariable prediction models may allow for a more accurate and granular risk evaluation. In the early days of the pandemic, when individual level data required for training prediction models was not available, a large healthcare organization developed a prediction model for supporting its COVID-19 policy using a hybrid strategy. The model was constructed on a baseline predictor to rank patients according to their risk for severe respiratory infection or sepsis (trained using over one-million patient records) and was then post-processed to calibrate the predictions to reported COVID-19 case fatality rates. Since its deployment in mid-March, this predictor was integrated into many decision-processes in the organization that involved allocating limited resources. With the accumulation of enough COVID-19 patients, the predictor was validated for its accuracy in predicting COVID-19 mortality among all COVID-19 cases in the organization (3,176, 3.1% death rate). The predictor was found to have good discrimination, with an area under the receiver-operating characteristics curve of 0.942. Calibration was also good, with a marked improvement compared to the calibration of the baseline model when evaluated for the COVID-19 mortality outcome. While the CDC criteria identify 41% of the population as high-risk with a resulting sensitivity of 97%, a 5% absolute risk cutoff by the model tags only 14% to be at high-risk while still achieving a sensitivity of 90%. To summarize, we found that even in the midst of a pandemic, shrouded in epidemiologic \"fog of war\" and with no individual level data, it was possible to provide a useful predictor with good discrimination and calibration.",
+    "author": "Uriah Finkel; Guy N Rothblum; Jonathan Somer; Shimon Sheiba; Noam Barda; Ran Balicer; Daniel Greenfeld; Joseph Levi; Noa Dagan; Uri Shalit; Doron Netzer; Dan Riesel; Eitan Bachmat; Amichay Akriv; Gal Yona",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076976",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076976"
+    },
+    "title": "Performing risk stratification for COVID-19 when individual level data is not available, the experience of a large healthcare organization",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Israel Science Foundation,"
+                },
+                {
+                    "funding-source": "Israel-US Binational Science Foundation,"
+                },
+                {
+                    "funding-source": "European Research Council,"
+                },
+                {
+                    "funding-source": "Amazon Research Award"
+                }
+            ],
+            "funding-statement": "G.N.R. reports grants from Israel Science Foundation, grants from Israel-US Binational Science Foundation, grants from European Research Council, grants from Amazon Research Award during the conduct of the study. U.S reports personal fees from K-health, outside the submitted work."
+        }
+    ]
+}

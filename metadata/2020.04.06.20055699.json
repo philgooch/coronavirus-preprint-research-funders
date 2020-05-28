@@ -1,0 +1,16 @@
+{
+    "abstract": "The COVID-19 pandemic of 2020 prompted stringent mitigation measures to \"flatten the curve\" quickly leading to an asphyxiated US economy as a national side effect. There are severe drawbacks to this strategy. The resulting flattened curve remains exponential and always under utilizes available healthcare capacity with a chance of still overburdening it. Moreover, while a mitigation strategy involving isolation and containment can scale down infections, it not only prolongs the outbreak significantly, but also leaves a susceptible population in its wake that's ripe for a secondary outbreak. Since economic activity is inversely proportional to mitigation, curtailing the outbreak with sustained mitigation can stifle the economy severely with disastrous repercussions. Full mitigation for the duration of an outbreak is therefore unsustainable and, overall, a poor solution with potentially catastrophic consequences that could've been avoided. A new strategy, coined a \"Method for Active Pandemic Curve Management\", abbreviated MAPCM, presented herein can shape the outbreak curve in a controlled manner for optimal utilization of healthcare resources during the pandemic, while drastically shortening the outbreak duration compared to mitigation by itself without trading off lives. This method allows mitigation measures to be relaxed gradually from day one, which enables economic activity to resume gradually from the onset of a pandemic. Since outbreak curves (such as hospitalizations) can be programmed using this method, they can also be shaped to accommodate changing needs during the outbreak; and to build herd immunity without the damaging side effects. The method can also be used to ease out of containment. MAPCM is a method and not a model. It is compatible with any appropriate outbreak model; and herein it is illustrated in examples using a hybrid logistic model.",
+    "author": "Willem G Odendaal",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20055699",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055699"
+    },
+    "title": "Method for Active Pandemic Curve Management (MAPCM)",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was not funded"
+        }
+    ]
+}

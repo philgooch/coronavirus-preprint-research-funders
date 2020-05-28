@@ -1,0 +1,50 @@
+{
+    "title": "Repurposing of Miglustat to inhibit the coronavirus Severe Acquired Respiratory Syndrome SARS-CoV-2",
+    "author": "Alessandro Marcello",
+    "date": 2020,
+    "affiliations": [
+        "Laboratory of Molecular Virology, International Centre for Genetic Engineering and",
+        "Biotechnology (ICGEB) Padriciano, 99 - 34149 Trieste, ITALY 10 11",
+        "Biotechnology Development, International Centre for Genetic Engineering and",
+        "Biotechnology (ICGEB) Padriciano, 99 - 34149 Trieste, ITALY 13 14 15 16 17 18 \u266fThese authors contributed equally to this work 19 20 21 Corresponding author:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.18.101691",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.18.101691.pdf"
+    },
+    "abstract": "2 Repurposing clinically available drugs to treat the new coronavirus disease COVID-19 is 3 an urgent need in these early stages of the SARS-CoV-2 pandemic, when very few 4 treatment options are available. The iminosugar Miglustat is a well-characterized drug for 5 the treatment of rare genetic lysosome storage diseases such as Gaucher and Niemann6 Pick type C, and has also been described to be active against a variety of enveloped 7 viruses. The activity of Miglustat is here demonstrated for SARS-CoV-2 at concentrations 8 achievable in the plasma by current clinical regimens without cytotoxicity. The drug acts at 9 the post-entry level and leads to a marked decrease of viral proteins and release of infectious virus. The mechanism resides in the inhibitory activity towards \u03b1-glucosidases that are involved in early stages of glycoprotein N-linked oligosaccharide processing in the endoplasmic reticulum, leading to a marked decrease of the viral Spike protein. The wealth of available data on the clinical use of Miglustat for the treatment of lysosomal storage disorders and the antiviral properties against SARS-CoV-2 make it an ideal candidate for drug repurposing. 17 Keywords: COVID-19, SARS-CoV-2, coronavirus, inhibitor, antiviral, Miglustat, iminosugar, Zavesca, NB-DNJ, Spike.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "coronavirus",
+        "inhibitor",
+        "antiviral",
+        "Miglustat",
+        "19 iminosugar",
+        "Zavesca",
+        "NB-DNJ",
+        "Spike"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Work on SARS-CoV-2"
+                },
+                {
+                    "funding-source": "ICGEB"
+                },
+                {
+                    "funding-source": "Beneficientia Stiftung and"
+                },
+                {
+                    "funding-source": "SNAM Foundation"
+                }
+            ],
+            "funding-statement": "Work on SARS-CoV-2 in AM\u2019s laboratory is supported by ICGEB intramural funds, by the Beneficientia Stiftung and by the SNAM Foundation"
+        }
+    ]
+}

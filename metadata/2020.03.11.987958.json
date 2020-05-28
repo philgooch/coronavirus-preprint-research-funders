@@ -1,0 +1,53 @@
+{
+    "title": "A human monoclonal antibody blocking SARS-CoV-2 infection 2 Running Head: A cross-neutralizing human antibody targeting SARS-CoV and SARS3 CoV-2 4 Chunyan Wanga,**, Wentao Lia,**, Dubravka Drabekb,c,**, Nisreen M.A. Okbad, Rien van 5 Haperenb,c, Albert D.M.E. Osterhause, Frank J.M. van Kuppevelda, Bart L. Haagmansd, 6 Frank Grosveldb,c,$ and Berend-Jan Boscha,*,$ 7 Virology Division, Department of Biomolecular Health Sciences, Faculty of Veterinary 8 Medicine, Utrecht University, Utrecht, the Netherlandsa; Department of Cell Biology, 9 Erasmus MC, Rotterdam, the Netherlandsb; Harbour Antibodies B.V., Rotterdam, 10 Netherlandsc; Department of Molecular and Cell Biology, Department of Viroscience, 11 Erasmus Medical Center, Rotterdam, the Netherlandsd. University of Veterinary 12 Medicine, Hannover, Germanye 13 * Address correspondence to Berend-Jan Bosch, b.j.bosch@uu.nl. 14 ** These authors are joint first authors. $ These authors are joint senior authors.",
+    "date": 2020,
+    "affiliations": [
+        "Virology Division, Department of Biomolecular Health Sciences, Faculty of Veterinary",
+        "Medicine, Utrecht University, Utrecht, the Netherlandsa; Department of Cell Biology",
+        "Erasmus MC, Rotterdam, the Netherlandsb; Harbour Antibodies B.V., Rotterdam",
+        "Netherlandsc; Department of Molecular and Cell Biology, Department of Viroscience",
+        "Erasmus Medical Center, Rotterdam, the Netherlandsd. University of Veterinary",
+        "Medicine, Hannover, Germanye 13",
+        "Address correspondence to Berend-Jan Bosch"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.11.987958",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.11.987958.pdf"
+    },
+    "abstract": "The emergence of the novel human coronavirus SARS-CoV-2 in Wuhan, China has caused a worldwide epidemic of respiratory disease (COVID-19). Vaccines and targeted therapeutics for treatment of this disease are currently lacking. Here we report a human monoclonal antibody that neutralizes SARS-CoV-2 (and SARS-CoV). This cross-neutralizing antibody targets a communal epitope on these viruses and offers potential for prevention and treatment of COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Christian Drosten"
+                },
+                {
+                    "funding-source": "Charit\u00e9 Universit\u00e4tsmedizin Berlin, Germany"
+                },
+                {
+                    "funding-source": "National Centre for One Health"
+                },
+                {
+                    "funding-source": "Innovative Medicines Initiative"
+                },
+                {
+                    "funding-source": "Zoonotic Anticipation and Preparedness Initiative"
+                },
+                {
+                    "funding-source": "ZAPI project",
+                    "award-id": [
+                        "115760"
+                    ]
+                }
+            ],
+            "funding-statement": "We thank Christian Drosten (Charit\u00e9 Universit\u00e4tsmedizin Berlin, Germany) for provision of the SARS-CoV-2 virus. This study was done within the framework of National Centre for One Health (NCOH) and the Innovative Medicines Initiative (IMI) Zoonotic Anticipation and Preparedness Initiative [ZAPI project; grant agreement no. 115760]"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "Wang was supported by a grant from the Chinese"
+        }
+    ]
+}

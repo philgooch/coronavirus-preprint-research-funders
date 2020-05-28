@@ -1,0 +1,87 @@
+{
+    "title": "Remdesivir potently inhibits SARS-CoV-2 in human lung cells and chimeric SARS-CoV expressing the SARS-CoV-2 RNA polymerase in mice",
+    "author": "Andrea Pruijssers",
+    "date": 2020,
+    "affiliations": [
+        "Department of Pediatrics, Vanderbilt University Medical Center, Nashville, TN, 37232, USA",
+        "Vanderbilt Institute for Infection, Immunology, and Inflammation, Nashville, TN, 37232, USA",
+        "Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA",
+        "Department of Microbiology and Immunology, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA",
+        "Gilead Sciences, Inc, Foster City, CA, 94404, USA",
+        "Department of Pathology, Microbiology, and Immunology, Vanderbilt University Medical Center, Nashville, TN, 37232, USA",
+        "Corresponding Authors: Andrea J. Pruijssers"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.27.064279",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.27.064279.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in 2019 as the causative agent 3 of the novel pandemic viral disease COVID-19. With no approved therapies, this pandemic illustrates the 4 urgent need for safe, broad-spectrum antiviral countermeasures against SARS-CoV-2 and future emerging 5 CoVs. We report that remdesivir (RDV), a monophosphoramidate prodrug of an adenosine analog, 6 potently inhibits SARS-CoV-2 replication in human lung cells and primary human airway epithelial 7 cultures (EC50 = 0.01 \u03bcM). Weaker activity was observed in Vero E6 cells (EC50 = 1.65 \u03bcM) due to their 8 low capacity to metabolize RDV. To rapidly evaluate in vivo efficacy, we engineered a chimeric SARS9 CoV encoding the viral target of RDV, the RNA-dependent RNA polymerase, of SARS-CoV-2. In mice 10 infected with chimeric virus, therapeutic RDV administration diminished lung viral load and improved 11 pulmonary function as compared to vehicle treated animals. These data provide evidence that RDV is",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "coronavirus",
+        "antivirals",
+        "remdesivir",
+        "RdRp",
+        "RNA-dependent RNA 16 polymerase",
+        "therapeutic",
+        "mouse"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases, National"
+                },
+                {
+                    "funding-source": "Institutes of Health, Department"
+                },
+                {
+                    "funding-source": "Health and Human Service",
+                    "award-id": [
+                        "1U19AI142759"
+                    ]
+                },
+                {
+                    "funding-source": "Antiviral Drug Discovery and Development Center",
+                    "award-id": [
+                        "5R01AI132178",
+                        "5R01AI108197"
+                    ]
+                }
+            ],
+            "funding-statement": "This project was funded in part by the National Institute of Allergy and Infectious Diseases, National Institutes of Health, Department of Health and Human Service awards: 1U19AI142759 (Antiviral Drug Discovery and Development Center awarded to M.R.D. and R.S.B); 5R01AI132178 awarded to T.P.S. and R.S.B.; and 5R01AI108197 awarded to M.R.D. and R.S.B"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Burroughs Wellcome Fund Postdoctoral Enrichment Program Award"
+                }
+            ],
+            "funding-statement": "D.R.M was funded by T32 AI007151 and a Burroughs Wellcome Fund Postdoctoral Enrichment Program Award"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Marsico Lung Institute Tissue Procurement and Cell Culture Core"
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "DK065988"
+                    ]
+                },
+                {
+                    "funding-source": "Cystic Fibrosis Foundation",
+                    "award-id": [
+                        "BOUCHE15RO"
+                    ]
+                }
+            ],
+            "funding-statement": "The Marsico Lung Institute Tissue Procurement and Cell Culture Core is supported by NIH grant DK065988 and Cystic Fibrosis Foundation grant BOUCHE15RO"
+        }
+    ]
+}

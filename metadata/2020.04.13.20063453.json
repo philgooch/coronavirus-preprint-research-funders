@@ -1,0 +1,16 @@
+{
+    "abstract": "While the novel covid19 disease caused by sar-cov-2 corona virus has proved a serious threat to mankind it being a pandemic, the rate at which technology in low resource income countries like Uganda has been used to predict the spread and impact of the disease in their economies has not been strongly employed. This paper presents a an excel model and desktop application software developed using open source python programming tools for carrying out risk analysis and prediction of demographics for covid19 disease. Prediction results for both models clearly stated using epidemiological curve, these results can vary based on the force of infection which varies based on government measures and actions. With a certain degree of certainty of the potential impact of the disease on low resource countries, it will foster proper planning and strategical methods to properly manage the pandemic",
+    "author": "Ali Kyagulanyi; Oscar Dembe; Sheba Kirabo; Joel Tibabwetiza Muhanguzi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063453",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063453"
+    },
+    "title": "RISK ANALYSIS AND PREDICTION FOR COVID19 DEMOGRAPHICS IN LOW RESOURCE SETTINGS USING A PYTHON DESKTOP APP AND EXCEL MODELS.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "We did not receive any funding"
+        }
+    ]
+}

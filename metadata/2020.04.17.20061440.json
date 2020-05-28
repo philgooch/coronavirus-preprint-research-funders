@@ -1,0 +1,35 @@
+{
+    "abstract": "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused a rapidly unfolding pandemic, overwhelming health care systems worldwide1. Clinical manifestations of Corona-virus-disease 2019 (COVID-19) vary broadly, ranging from asymptomatic infection to acute respiratory failure and death2, yet the underlying physiological conditions and mechanisms for this high variability are still unknown. Also, the role of host immune responses in viral clearance and its involvement in pathogenesis remains unresolved. For SARS-CoV (2002/03), however, CD4+ T cell responses are generally associated with positive outcomes3,4, while cellular immune responses to SARS-CoV-2 have not yet been investigated. Here we describe an assay that allows direct detection and characterization of SARS-CoV-2 spike glycoprotein (S)-reactive CD4+ T cells in peripheral blood. We demonstrate the presence of S-reactive CD4+ T cells in 83% of COVID-19 patients, as well as in 34% of SARS-CoV-2 seronegative healthy donors, albeit at lower frequencies. Strikingly, in COVID-19 patients S-reactive CD4+ T cells equally targeted both N-terminal and C-terminal parts of S whereas in healthy donors S-reactive CD4+ T cells reacted almost exclusively to the Cterminal part that is a) characterized by higher homology to spike glycoprotein of human endemic \"common cold\" coronaviruses, and b) contains the S2 subunit of S with the cytoplasmic peptide (CP), the fusion peptide (FP), and the transmembrane domain (TM) but not the receptor-binding domain (RBD). S-reactive CD4+ T cells from COVID-19 patients were further distinct to those from healthy donors as they co-expressed higher levels of CD38 and HLA-DR, indicating their recent in vivo activation. Our study is the first to directly measure SARS-CoV-2-reactive T cell responses providing critical tools for large scale testing, in depth epitope mapping and characterization of potential cross-reactive cellular immunity to SARS-CoV-2. The presence of pre-existing SARS-CoV-2-reactive T cells in healthy donors is of high interest but larger scale prospective cohort studies are needed to assess whether their presence is a correlate of protection or pathology. Results of such studies will be key for a mechanistic understanding of the SARS-CoV-2 pandemic, adaptation of containment methods and to support vaccine development.",
+    "affiliations": [
+        "German Federal Ministry of Education and Research (BMBF-RAPID to S.H., C.D., and CAPSyS to M.W., N.S.)"
+    ],
+    "author": "Andreas Thiel; Daniel Wendisch; Larissa Henze; Beate Kruse; Marcus Mall; Kirsten Beyer; Stefan Hippenstiel; Martin Witzenrath; Stefan Miltenyi; Roland Lauster; Marco Frentsch; Maike Mangold; Christian Drosten; Holger Wenschuh; Lucie Loyal; Victor M Corman; Florent Fauchere; Claudia Giesecke-Thiel; Leif-Erik Sander; Emre Baysal; Ulf Reimer; Norbert Suttorp; Florian Kurth; Jobst Roehmel; Manuela Dingeldey; Julian Braun; Florian Kern; Marcel A Mueller; Juergen Schmitz; Philipp Georg",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20061440",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20061440"
+    },
+    "title": "Presence of SARS-CoV-2 reactive T cells in COVID-19 patients and healthy donors",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "German Research Foundation",
+                    "award-id": [
+                        "SFB-TR84"
+                    ]
+                },
+                {
+                    "funding-source": "German Federal Ministry of Education and Research",
+                    "award-id": [
+                        "BMBF-R"
+                    ]
+                },
+                {
+                    "funding-source": "RAPID"
+                }
+            ],
+            "funding-statement": "This work was supported by the German Research Foundation (KFO339 to J.B and F.F., SFB-TR84 projects A4, B6 to S.H., B8 to M.M., C6 to M.W., C8, C10 to L.E.S., C9 to M.W, N.S., and by the German Federal Ministry of Education and Research (BMBF-RAPID to S.H., C.D., and CAPSyS to M.W., N.S.)"
+        }
+    ]
+}

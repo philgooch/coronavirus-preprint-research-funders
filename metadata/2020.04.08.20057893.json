@@ -1,0 +1,20 @@
+{
+    "abstract": "Background. Recent studies suggest that hydroxychloroquine (HCQ) could be effective against COVID-19. It is reasonable to expect that if HCQ can prevent or reduce the adverse effects of influenza, it may also reduce the effects of COVID-19 in humans. The objective of this study was to test whether HCQ can prevent or reduce the risk and severity of influenza. Methods. This is an observational cohort study using medico-administrative data from Quebec. Patients included had at least one emergency department (ED) visit in 2012 or 2013, with a prior diagnosis of chronic conditions, and were admissible to the public drug insurance plan. Two sub-cohorts were considered depending on reasons for ED visit: other than influenza or pneumonia (primary prevention) and influenza or pneumonia (secondary prevention). Results. In the primary prevention analysis (n=417,353), patients taking HCQ (n=3,659) had an increased risk of hospitalization for pneumonia in the following year compared to those who did not (5.2% vs. 2.9%; adjusted OR=1.25, p=0.0079). In the secondary prevention analysis (n=27,152), patients taking HCQ (n=392), compared to those who did not had a modest and non-significant increased risk of hospitalization for pneumonia after 30 days (25.8% vs. 22.6%; adjusted OR=1.14, p=0.3177). Interpretation: Based on the assumption that HCQ has similar effects on the COVID-19 as those observed on influenza, we can infer that it will not have positive effects on COVID-19. We should therefore act cautiously before initiating prospective interventional studies on the use of HCQ to reduce adverse effects of COVID-19.",
+    "author": "Richard Leduc; Yohann Chiu; Alain Vanasse; Andre Cantin; Josiane Courteau",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20057893",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20057893"
+    },
+    "title": "Hydroxychloroquine (HCQ): an observational cohort study in primary and secondary prevention of pneumonia in an at-risk population",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Canadian Institutes of Health Research"
+                }
+            ],
+            "funding-statement": "Dr Leduc received funding from the Canadian Institutes of Health Research related to SARS-CoV-2 research but has no relevant personal financial or nonfinancial relationships to disclose"
+        }
+    ]
+}

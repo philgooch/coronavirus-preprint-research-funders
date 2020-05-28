@@ -1,0 +1,68 @@
+{
+    "title": "On the interactions of the receptor-binding domain of SARS-CoV-1 and SARS-CoV-2 spike proteins with monoclonal antibodies and the receptor ACE2",
+    "author": "Fernando Lu\u00eds Barroso da Silva",
+    "date": 2020,
+    "affiliations": [
+        "Universidade Federal do Tri\u00e2ngulo Mineiro, Departamento de Sa\u00fade Coletiva, Rua Vig\u00e1rio Carlos, 38025-350 \u2013 Uberaba \u2013 MG, Brazil",
+        "Universidade de S\u00e3o Paulo, Departamento de Ci\u00eancias Biomoleculares, Faculdade de Ci\u00eancias Farmac\u00eauticas de Ribeir\u00e3o Preto, Av. caf\u00e9, s/no \u2013 campus da USP, BR-14040-903 \u2013 Ribeir\u00e3o Preto \u2013 SP, Brazil",
+        "Department of Materials and Environmental Chemistry, Arrhenius Laboratory, Stockholm University, SE-106 91 Stockholm, Sweden",
+        "State Key Laboratory of Materials-Oriented and Chemical Engineering, Nanjing Tech University, Nanjing, 210009, P. R. China",
+        "Centre of Advanced Research in Bionanoconjugates and Biopolymers, Petru Poni Institute of Macromolecular Chemistry Aleea Grigore Ghica-Voda, 41A, 700487 Iasi, Romania",
+        "Department of Engineering Sciences and Mathematics, Division of Energy Science, Lule\u00e5 University of Technology, SE-97187 Lule\u00e5, Sweden",
+        "Department of Chemical and Biomolecular Engineering, North Carolina State University, Raleigh, North Carolina 27695, United States",
+        "Corresponding author"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.05.026377",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.05.026377.pdf"
+    },
+    "abstract": "A new betacoronavirus named SARS-CoV-2 has emerged as a new threat to global health and economy. A promising target for both diagnosis and therapeutics treatments of the new disease named COVID-19 is the coronavirus (CoV) spike (S) glycoprotein. By constant-pH Monte Carlo simulations and the PROCEEDpKa method, we have mapped the electrostatic epitopes for four monoclonal antibodies and the angiotensin-converting enzyme 2 (ACE2) on both SARS-CoV-1 and the new SARS-CoV-2 S receptor binding domain (RBD) proteins. We also calculated free energy of interactions and shown that the S RBD proteins from both SARS viruses binds to ACE2 with similar affinities. However, the affinity between the S RBD protein from the new SARS-CoV-2 and ACE2 is higher than for any studied antibody previously found complexed with SARS-CoV-1. Based on physical chemical analysis and free energies estimates, we can shed some light on the involved molecular recognition processes, their clinical aspects, the implications for drug developments, and suggest structural modifications on the CR3022 antibody that would improve its binding affinities for SARS-CoV-2 and contribute to address the ongoing international health crisis.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funda\u00e7\u00e3o de Amparo"
+                },
+                {
+                    "funding-source": "Pesquisa do Estado de S\u00e3o Paulo\u201d",
+                    "award-id": [
+                        "2015/16116-3"
+                    ]
+                },
+                {
+                    "funding-source": "F.L.B.d."
+                },
+                {
+                    "funding-source": "Conselho Nacional de Desenvolvimento Cient\u00edfico"
+                },
+                {
+                    "funding-source": "F.L.B.d."
+                }
+            ],
+            "funding-statement": "This work has been supported in part by the \u201cFunda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado de S\u00e3o Paulo\u201d [Fapesp 2015/16116-3 (F.L.B.d.S.)] and the Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico (CNPq) [(F.L.B.d.S.)]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Swedish Science Council for"
+                },
+                {
+                    "funding-source": "Ministry of Research and Innovation of Romania"
+                },
+                {
+                    "funding-source": "CNCS UEFISCDI,",
+                    "award-id": [
+                        "PN-III-P4-ID-PCCF-2016-0050"
+                    ]
+                },
+                {
+                    "funding-source": "PNCDI III)"
+                }
+            ],
+            "funding-statement": "Laaksonen acknowledges Swedish Science Council for financial support, and partial support from a grant from Ministry of Research and Innovation of Romania (CNCS UEFISCDI, project number PN-III-P4-ID-PCCF-2016-0050, within PNCDI III)"
+        }
+    ]
+}

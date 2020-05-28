@@ -1,0 +1,38 @@
+{
+    "title": "Cross-reactive neutralization of SARS-CoV-2 by serum antibodies from recovered SARS patients and immunized animals",
+    "author": "Yuanmei Zhu, Danwei Yu, Yang Han, Hongxia Yan, Huihui Chong, Lili Ren, Jianwei",
+    "date": 2020,
+    "affiliations": [
+        "NHC Key Laboratory of Systems Biology of Pathogens, Institute of Pathogen Biology",
+        "Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China",
+        "Department of Infectious Diseases, Peking Union Medical College Hospital, Chinese"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.20.052126",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.20.052126.pdf"
+    },
+    "abstract": "The current COVID-19 pandemic, caused by a novel coronavirus SARS-CoV-2, poses serious threats to public health and social stability, calling for urgent need for vaccines and therapeutics. SARS-CoV-2 is genetically close to SARS-CoV, thus it is important to define the between antigenic cross-reactivity and neutralization. In this study, we firstly analyzed 20 21 convalescent serum samples collected from SARS-CoV infected individuals during the 2003 SARS outbreak. All patient sera reacted strongly with the S1 subunit and receptor-binding domain (RBD) of SARS-CoV, cross-reacted with the S ectodomain, S1, RBD, and S2 proteins of SARS-CoV-2, and neutralized both SARS-CoV and SARS-CoV-2 S protein-driven infections. Multiple panels of antisera from mice and rabbits immunized with a full-length S and RBD immunogens of SARS-CoV were also characterized, verifying the cross-reactive neutralization against SARS-CoV-2. Interestingly, we found that a palm civet SARS-CoV-derived RBD elicited more potent cross-neutralizing responses in immunized animals than the RBD from a human SARS-CoV strain, informing a strategy to develop a universe vaccine against emerging CoVs.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81630061",
+                        "82041006"
+                    ]
+                },
+                {
+                    "funding-source": "CAMS Innovation Fund for Medical Sciences",
+                    "award-id": [
+                        "2017-I2M-1-014"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding: This work was supported by grants from the National Natural Science Foundation of China (81630061, 82041006) and the CAMS Innovation Fund for Medical Sciences (2017-I2M-1-014)"
+        }
+    ]
+}

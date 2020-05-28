@@ -1,0 +1,34 @@
+{
+    "abstract": "The outbreak of COVID-19 since Dec. 2019 has caused severe life and economic damage worldwide, many countries are trapped by medical resource constraints or absence of targeted therapeutics, and therefore the implement of systemic policies to block this pandemic should be prioritized. Based on the transmission mechanisms and physicochemical properties of betacoronaviruses, we construct a fine-grained transmission dynamics model (ICRD) to forecast the crucial information of public concern, therein using dynamical coefficients to quantify the impact of the implement time and intensity of containment policies on the spread of epidemic. We find that the comprehensive investigation policy for susceptible population and the quarantine for suspected cases eminently contribute to reduce casualties during the phase of the dramatic increase of diagnosed cases. Statistic evidences strongly suggest that society should take such forceful public health interventions to cut the infection channels in the initial stage until the pandemic is interrupted.",
+    "affiliations": [
+        "National Science Foundation of China (61473183, U1509211, 61627810), National Key R&D Program of China (SQ2017YFGH001005). No conflicts of interest, financial or otherwise, are declared by the authors"
+    ],
+    "author": "Yubo Huang; Weidong Zhang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20077933",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20077933"
+    },
+    "title": "Comprehensive Investigation and Isolation have Effectively Suppressed the Spread of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation of China",
+                    "award-id": [
+                        "61473183",
+                        "U1509211",
+                        "61627810"
+                    ]
+                },
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "SQ2017YFGH001005"
+                    ]
+                }
+            ],
+            "funding-statement": "This paper is partly supported by the National Science Foundation of China (61473183, U1509211, 61627810), National Key R&D Program of China (SQ2017YFGH001005). No conflicts of interest, financial or otherwise, are declared by the authors."
+        }
+    ]
+}

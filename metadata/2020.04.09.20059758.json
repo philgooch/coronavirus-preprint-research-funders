@@ -1,0 +1,26 @@
+{
+    "abstract": "A lack of N95 respirators during the COVID-19 crisis has placed healthcare workers at risk. It is important for any N95 reuse strategy to determine the effects that proposed protocols would have on the physical functioning of the mask, as well as the practical aspects of implementation. Here we propose and implement a method of heating N95 respirators with moisture (85\u00b0C, 60-85% humidity). We test both mask filtration efficiency and fit to validate this process. Our tests focus on the 3M 1860, 3M 1870, and 3M 8210 Plus N95 models. After five cycles of the heating procedure, all three respirators pass both quantitative fit testing (score of >100) and show no degradation of mask filtration efficiency. We also test the Chen Heng V9501 KN95 and HKYQ N95 finding no degradation of mask filtration efficiency, however even for unheated masks these scored <50 for every fit test. The heating method presented here is scalable from individual masks to over a thousand a day with a single industrial convection oven, making this method practical for local application inside health-care facilities.",
+    "author": "Lei Liao; John M Doyle; Yi Cui; Lo\u00efc Anderegg; Chiu Oan Ngooi; Wang Xiao; Cole Meisenhelder; Steven Chu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059758",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059758"
+    },
+    "title": "A Scalable Method of Applying Heat and Humidity for Decontamination of N95 Respirators During the COVID-19 Crisis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Steven Chu and Yi Cui"
+                },
+                {
+                    "funding-source": "Steven Chu and Yi Cui",
+                    "award-id": [
+                        "US2015/065608"
+                    ]
+                }
+            ],
+            "funding-statement": "Steven Chu and Yi Cui reports non-financial support from 4C Air; In addition, Steven Chu and Yi Cui has a patent PCT /US2015/065608 licensed to 4C Air. 4C Air tested face masks from several manufacturers that include 4C Air's masks and those of other manufacturers"
+        }
+    ]
+}

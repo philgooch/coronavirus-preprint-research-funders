@@ -1,0 +1,55 @@
+{
+    "title": "Static All-Atom Energetic Mappings of the SARS-Cov-2 Spike Protein with Potential Latch Identification of the Down State Protomer",
+    "date": 2020,
+    "author": "Michael H. Peters, Virginia Commonwealth University, Department of Chemical and Life Science Engineering, 601 West Main St, Richmond, Virginia, United States of America",
+    "affiliations": [
+        "Virginia Commonwealth University, Department of Chemical and Life Science Engineering, 601 West Main St, Richmond, Virginia, United States of America",
+        "Oscar Bastidas University of Minnesota, College of Biological Sciences, University of Minnesota, Minneapolis, Minnesota, United States of America"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.091090",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.091090.pdf"
+    },
+    "abstract": "The SARS-Cov-2 virion responsible for the current world-wide pandemic Covid-19 has a characteristic Spike protein (S) on its surface that embellishes both a prefusion state and fusion state. The prefusion Spike protein (S) is a large trimeric protein where each protomer may be in a so-called Up state or Down state, depending on the configuration of its receptor binding domain (RBD). The Up state is believed to allow binding of the virion to ACE-2 receptors on human epithelial cells, whereas the Down state is believed to be relatively inactive or reduced in its binding behavior. We have performed detailed all-atom, dominant energy landscape mappings for noncovalent interactions (charge, partial charge, and van der Waals) of the SARS-Cov-2 Spike protein in its static prefusion state based on recent structural information. We included both interchain interactions and intrachain (domain) interactions in our mappings in order to determine any telling differences (different so-called \u201dglue\u201d points or \u201dhot spots\u201d) between residues in the Up and Down state protomers. In general, the S2 or fusion machinery domain of S is relatively rigid with strong noncovalent interactions facilitated by helical secondary structures, whereas the S1 domain, which contains the RBD and N-terminal domain (NTD), is relatively more flexible and characterized by beta strand structural motifs. The S2 domain demonstrated no appreciable energetic differences between Up and Down protomers, including interchain as well as each protomer\u2019s intrachain, S1-S2 interactions. However, the S1 domain interactions across neighboring protomers, which include the RBD-NTD cross chain interactions, showed energetic differences between Up-Down and Down-Down neighboring protomers. Surprisingly, the Up-Down, RBDNTD interactions were overall stronger and more numerous than the Down-Down cross chain interactions, including the appearance of the three residue sequence ALA520-PRO521-ALA522 associated with a turn structure in the RBD of the Up state. Additionally, our intrachain dominant energy mappings within each protomer, identified a significant \u201dglue\u201d point or possible latch for the Down state protomer between the S1 subdomain, SD1 and the RBD domain of the same protomer that was completely missing in the Up state protomer analysis. Ironically, this dominant energetic interaction in the Down state protomer involved the backbone atoms of the same three residue sequence ALA520-PRO521-ALA522 of the RBD with the R-group of GLN564 in the SD1 domain. Thus, this same three residue sequence acts as a stabilizer of the RBD in the Up conformation through its interactions with its neighboring NTD chain and a kind",
+    "keywords": [
+        "SARS-Cov-2",
+        "spike protein",
+        "energetic mappings",
+        "contact plot",
+        "latch",
+        "COVID-19"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health Institutional Research and Academic Career Development Award",
+                    "award-id": [
+                        "K12GM119955"
+                    ]
+                }
+            ],
+            "funding-statement": "O.B. was supported by the National Institutes of Health Institutional Research and Academic Career Development Award K12GM119955"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NASA High-End Computing"
+                },
+                {
+                    "funding-source": "NASA Advanced Supercomputing"
+                },
+                {
+                    "funding-source": "Ames Research Center. Open"
+                },
+                {
+                    "funding-source": "Source Software"
+                }
+            ],
+            "funding-statement": "Specifically, resources supporting this continued work are provided by the NASA High-End Computing (HEC) Program through the NASA Advanced Supercomputing (NAS) Division at Ames Research Center. Open Source Software"
+        }
+    ]
+}

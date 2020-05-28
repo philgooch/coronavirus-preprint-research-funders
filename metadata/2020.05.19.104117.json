@@ -1,0 +1,59 @@
+{
+    "title": "Human IgG cell neutralizing monoclonal antibodies block SARS-CoV-2 infection",
+    "author": "Jinkai Wan,#, Shenghui Xing,#, Longfei Ding,#, Yongheng Wang,#, Dandan Zhu, Bowen Rong, Siqing Wang, Kun Chen, Chenxi He, Songhua Yuan, Chengli Qiu, Chen Zhao, Xiaoyan Zhang, Xiangxi Wang, Yanan Lu, Jianqing Xu, Fei Lan",
+    "date": 2020,
+    "affiliations": [
+        "Shanghai Key Laboratory of Medical Epigenetics, International Co-laboratory of Medical Epigenetics and Metabolism, Ministry of Science and Technology, Institutes of Biomedical Sciences, Fudan University, and Key Laboratory of Carcinogenesis and Cancer Invasion, Ministry of Education, Liver Cancer Institute, Zhongshan Hospital, Fudan University, Shanghai 200032, China",
+        "Shanghai Public Health Clinical Center, Fudan University, Shanghai 201508, China",
+        "Shanghai Public Health Clinical Center & Institutes of Biomedical Sciences, Fudan University, Shanghai, 201508, China",
+        "Active Motif China Shanghai, 201315, China",
+        "National Laboratory of Macromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing, 100101, China; #These authors contributed equally",
+        "Correspondence: Fei Lan"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.19.104117",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.19.104117.pdf"
+    },
+    "abstract": "The coronavirus induced disease 19 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has become a worldwide threat to human lives, and neutralization antibodies present a great therapeutic potential in curing affected patients. We purified more than one thousand memory B cells specific to SARS-CoV-2 recombinant S1 or RBD antigens from 11 convalescent COVID-19 patients, and a total of 729 naturally paired heavy and light chain fragments were obtained by single B cell cloning technology. Among these, 178 recombinant monoclonal antibodies were tested positive for antigen binding, and 17 strong binders to S1 or RBD were identified with Kd (EC50) below 1 nM. Importantly, 12 antibodies could block pseudoviral entry into HEK293T cells overexpressing ACE2, with the best",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Zhejiang University",
+                    "award-id": [
+                        "COVID-19",
+                        "2020XGZX023"
+                    ]
+                },
+                {
+                    "funding-source": "National Major Science and Technology Projects of China",
+                    "award-id": [
+                        "2018ZX10301403"
+                    ]
+                },
+                {
+                    "funding-source": "National Key Research and Development",
+                    "award-id": [
+                        "2016YFA0101800"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Municipal Science and Technology Major Project",
+                    "award-id": [
+                        "2017SHZDZX01"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81773014"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by Zhejiang University special scientific research fund for COVID-19 prevention and control (2020XGZX023), the National Major Science and Technology Projects of China (2018ZX10301403), National Key Research and Development program of China (2016YFA0101800), the Shanghai Municipal Science and Technology Major Project (2017SHZDZX01) and the National Natural Science Foundation of China (81773014). Author contributions: F.L., J.X., Y.L. and X.W. conceived the project. J.W., S.X., L.D. and, Y.W. S.Y., C.Z. and C.Q. did the experiments. All authors contributed to data analysis. F.L., J.W., S.X., L.D. wrote the manuscript."
+        }
+    ]
+}

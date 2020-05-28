@@ -1,0 +1,55 @@
+{
+    "title": "Tracing two causative SNPs reveals SARS-CoV-2 transmission in North America population",
+    "author": "Xumin Ou,#, Zhishuang Yang,#, Dekang Zhu, Sai Mao, Mingshu Wang, Renyong 4 Jia, Shun Chen, Mafeng Liu, Qiao Yang, Ying Wu, Xinxin Zhao, Shaqiu 5 Zhang, Juan huang, Qun Gao, Yunya Liu, Ling Zhang, Maikel 6 Peopplenbosch, Qiuwei Pan, Anchun Cheng",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Preventive Veterinary Medicine, Sichuan Agricultural University, Wenjiang",
+        "Chengdu, Sichuan, China 10",
+        "Department of Gastroenterology and Hepatology, Erasmus MC - University Medical Center",
+        "Rotterdam, PO Box 2040, NL-3000 CA Rotterdam, The Netherlands 12",
+        "Key Laboratory of Animal Disease and Human Health of Sichuan Province, Sichuan",
+        "Agricultural University, Wenjiang, Chengdu, Sichuan, China 14",
+        "Research Center of Avian Disease, College of Veterinary Medicine, Sichuan Agricultural",
+        "University, Wenjiang, Chengdu, Sichuan, China 16 17 #These authors contribute equally to this work. 18 19",
+        "Correspondence Author: 20 Anchun Cheng; Institute of Preventive Veterinary Medicine, Sichuan Agricultural 21 University, 611130 Chengdu, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.092056",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.092056.pdf"
+    },
+    "abstract": "During the COVID-19 pandemic, precisely tracing the route of the SARS-CoV-2 transmission in human population remains challenging. Because this RNA virus can mutate massively without a specifically tracing maker. Herein, using a geographic stratified genome-wide association study (GWAS) of 2599 full-genome sequences, we identified that two SNPs (i.e., 1059.C>T and 25563.G>T) of linkage disequilibrium were presented in approximately half of North America SARS-CoV-2 population (p = 2.44 x 10-212 and p = 2.98 x 10-261), resulting two missense mutations (i.e., Thr 265 Ile and Gln 57 31 His) in ORF1ab and ORF3a, respectively. Interestingly, these two SNPs exclusively occurred in the North America dominated clade 1, accumulated during mid to late March, 2020. We did not find any of these two SNPs by retrospectively tracing the two SNPs in bat and pangolin related SARS-CoV-2 and human SARS-CoV-2 from the first epicenter Wuhan or other regions of China mainland. This suggested that the SARS-CoV-2 population of Chinese mainland were different from the prevalent strains of North America. Time-dependently, we found that these two SNPs first occurred in Europe SARS-CoV-2 (26-Feb-2020) which was 3 days early than the occurring date of North America isolates and 17 days early for Asia isolates (Taiwan China dominated). Collectively, this population genetic analysis highlights a well-confidential transmission route of the North America isolates and the two SNPs we newly identified are possibly novel diagnosable or druggable targets for surveillance and treatment.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "China Agricultural Research System",
+                    "award-id": [
+                        "CARS-42-17"
+                    ]
+                },
+                {
+                    "funding-source": "Sichuan Veterinary Medicine and Drug Innovation Group of China Agricultural Research System",
+                    "award-id": [
+                        "SCCXTD-2020-18"
+                    ]
+                },
+                {
+                    "funding-source": "Science and Technology Program of Sichuan Province",
+                    "award-id": [
+                        "20YYJC4428"
+                    ]
+                },
+                {
+                    "funding-source": "Integration and Demonstration of Key Technologies for Goose Industrial Chain in Sichuan Province",
+                    "award-id": [
+                        "2018NZ0005"
+                    ]
+                }
+            ],
+            "funding-statement": "Findings: This work was supported by grants from China Agricultural Research System (CARS-42-17), Sichuan Veterinary Medicine and Drug Innovation Group of China Agricultural Research System (SCCXTD-2020-18), Science and Technology Program of Sichuan Province (20YYJC4428) and Integration and Demonstration of Key Technologies for Goose Industrial Chain in Sichuan Province (2018NZ0005)"
+        }
+    ]
+}

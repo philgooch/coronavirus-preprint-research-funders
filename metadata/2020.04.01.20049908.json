@@ -1,0 +1,79 @@
+{
+    "title": "The effect of non-pharmaceutical interventions on COVID-19 cases, deaths and demand for hospital services in the UK: a modelling study",
+    "date": 2020,
+    "author": "Nicholas G. Davies, Adam J. Kucharski^1, Rosalind M. Eggo^1, Amy Gimma, CMMID COVID-19 working group, W. John Edmunds",
+    "affiliations": [
+        "Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, Keppel Street, London, WC1E 7HT, UK"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.01.20049908",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.01.20049908.pdf"
+    },
+    "abstract": "Background Non-pharmaceutical interventions have been implemented to reduce transmission of SARS-CoV-2 in the UK. Projecting the size of an unmitigated epidemic and the potential effect of different control measures has been critical to support evidence-based policymaking during the early stages of the epidemic. Methods We used a stochastic age-structured transmission model to explore a range of intervention scenarios, including the introduction of school closures, social distancing, shielding of elderly groups, self-isolation of symptomatic cases, and extreme \u201clockdown\u201d-type restrictions. We simulated different durations of interventions and triggers for introduction, as well as combinations of interventions. For each scenario, we projected estimated new cases over time, patients requiring inpatient and critical care (intensive care unit, ICU) treatment, and deaths. Findings We found that mitigation measures aimed at reducing transmission would likely have decreased the reproduction number, but not sufficiently to prevent ICU demand from exceeding NHS availability. To keep ICU bed demand below capacity in the model, more extreme restrictions were necessary. In a scenario where \u201clockdown\u201d-type interventions were put in place to reduce transmission, these interventions would need to be in place for a large proportion of the coming year in order to prevent healthcare demand exceeding availability. Interpretation The characteristics of SARS-CoV-2 mean that extreme measures are likely required to bring the epidemic under control and to prevent very large numbers of deaths and an excess of demand on hospital beds, especially those in ICUs.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research Health Protection Research Unit in Immunisation",
+                    "award-id": [
+                        "HPRU-2012-10096"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "HPRU-2012-10096"
+                    ]
+                }
+            ],
+            "funding-statement": "NGD was funded by the National Institute for Health Research Health Protection Research Unit in Immunisation (NIHR; HPRU-2012-10096)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "206250/Z/17/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "AJK was funded by the Wellcome Trust (WT; 206250/Z/17/Z)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Health Data Research UK",
+                    "award-id": [
+                        "MR/S003975/1"
+                    ]
+                }
+            ],
+            "funding-statement": "RME was funded by Health Data Research UK (MR/S003975/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Global Challenges Research Fund",
+                    "award-id": [
+                        "ES/P010873/1"
+                    ]
+                }
+            ],
+            "funding-statement": "AG was funded by the Global Challenges Research Fund (GCRF; ES/P010873/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union's Horizon",
+                    "award-id": [
+                        "101003688"
+                    ]
+                }
+            ],
+            "funding-statement": "WJE was funded by the European Union's Horizon 2020 research and innovation programme - project EpiPose (No 101003688)"
+        }
+    ]
+}

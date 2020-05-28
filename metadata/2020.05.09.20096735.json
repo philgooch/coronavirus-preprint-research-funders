@@ -1,0 +1,23 @@
+{
+    "abstract": "A previously developed mechanistic model of COVID-19 transmission has been adapted and applied here to study the evolution of the disease and the effect of intervention measures in some European countries and territories where the disease had major impact. A clear impact of the major intervention measures on the reproduction number (Rt) has been found in all studied countries and territories, as already suggested by the drop in the number of deaths over time. Interestingly, the impact of such major intervention measures seems to be the same in most of these countries. The model has also provided realistic estimates of the total number of infections, active cases and future outcome. While the predictive capabilities of the model are much more uncertain before the peak of the outbreak, we could still reliably predict the evolution of the disease after a major intervention by assuming the afterwards reproduction number from current study. More challenging is to foresee the long-term impact of softer intervention measures, but this model can estimate the outcome of different scenarios and help planning changes in the implementation of control measures in a given country or region.",
+    "author": "Juan Fernandez-Recio",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20096735",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20096735"
+    },
+    "title": "Modelling the evolution of COVID-19 in high-incidence European countries and regions: estimated number of infections and impact of past and future intervention measures",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Programa Estatal",
+                    "award-id": [
+                        "2019AEP095"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants BIO2016-79930-R from the Spanish \u201cPrograma Estatal I+D+i\u201d, and 2019AEP095 from CSIC"
+        }
+    ]
+}

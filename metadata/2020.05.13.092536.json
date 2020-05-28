@@ -1,0 +1,40 @@
+{
+    "title": "Network Analysis and Transcriptome Profiling Identify Autophagic and Mitochondrial Dysfunctions in SARS-CoV-2 Infection",
+    "date": 2020,
+    "author": "Komudi Singh, Yun-Ching Chen, Jennifer T Judy, Fayaz Seifuddin, Ilker Tunc, and Mehdi Pirooznia",
+    "affiliations": [
+        "Bioinformatics and Computational Biology Laboratory, National Heart Lung and Blood Institute, National Institutes of Health, Bethesda, MD 20892, USA",
+        "Correspondence: Mehdi Pirooznia"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.13.092536",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.13.092536.pdf"
+    },
+    "abstract": "Lack of effective treatment strategy and vaccine makes SARS-CoV-2 infection a big threat to mankind. Analyzing the host transcriptional changes in response to virus infection will help delineate the biological processes impacted by the virus and will potentially facilitate drug development. Using RNA seq datasets of virus infected lung cell lines A549 (infected with either SARS-CoV-2 or Influenza A virus (IAV)) and Calu3 (infected with either SARS-CoV-2 or MERS-CoV), we present a detailed analysis of genes expression changes in response to each of these viral infections. Upregulation of the antiviral interferon signaling was observed with all three viral infections. However, upregulation of the cytokine/inflammatory processes, downregulation of mitochondrial organization and respiration processes, and perturbation in the autophagic processes were specifically observed in SARS-CoV-2 infected cells, which were absent in IAV infected cells. Upregulation of the inflammatory processes was concordant with the gene expression signature of COVID-19 lungs and with inflammatory symptoms observed in severe cases of COVID-19 patients. Coexpression networks analysis also facilitated the identification of protein-protein interaction (PPI) subnetworks of genes in the inflammation and mitochondrial processes that were either coordinately up or downregulated in SARS-CoV-2 infected cells, respectively. Comparing the expression of marker genes of lung cell types from single cell RNA seq data with expression profile of A549 cells revealed that they likely represent the lung epithelial lineage cells. The cellular processes uniquely perturbed in infected cells that were identified in this analysis likely delineates lung epithelial cells response to the SARS-CoV2 infection.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "transcriptomics",
+        "co-expression network analysis",
+        "inflammation"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intramural Research Programs"
+                },
+                {
+                    "funding-source": "National Heart, Lung"
+                },
+                {
+                    "funding-source": "Blood Institute"
+                }
+            ],
+            "funding-statement": "This work was supported by the Intramural Research Programs (IRPs) of the National Heart, Lung, and Blood Institute (NHLBI). Figure legends overlapping with the BP"
+        }
+    ]
+}

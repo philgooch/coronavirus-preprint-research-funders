@@ -1,0 +1,44 @@
+{
+    "title": "Missense variants in ACE2 are predicted to encourage and inhibit interaction with SARS-CoV-2 Spike and contribute to genetic risk in COVID-19",
+    "date": 2020,
+    "author": "Stuart A. MacGowan and Geoffrey J. Barton",
+    "affiliations": [
+        "Division of Computational Biology, School of Life Sciences, University of Dundee, Dow Street, Dundee, DD1 5EH, Scotland, UK"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.03.074781",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.03.074781.pdf"
+    },
+    "abstract": "SARS-CoV-2 invades host cells via an endocytic pathway that begins with the interaction of the SARS-CoV-2 Spike glycoprotein (S-protein) and human Angiotensin-converting enzyme 2 (ACE2). Genetic variability in ACE2 may be one factor that mediates the broad-spectrum severity of SARS-CoV-2 infection and COVID-19 outcomes. We investigated the capacity of ACE2 variation to influence SARS-CoV-2 infection with a focus on predicting the effect of missense variants on the ACE2 SARS-CoV-2 S-protein interaction. We validated the mCSMPPI2 variant effect prediction algorithm with 26 published ACE2 mutant SARS-CoV S-protein binding assays and found it performed well in this closely related system (True Positive Rate = 0.7, True Negative Rate = 1). Application of mCSM-PPI2 to ACE2 missense variants from the Genome Aggregation Consortium Database (gnomAD) identified three that are predicted to strongly inhibit or abolish the S-protein ACE2 interaction altogether (p.Glu37Lys, p.Gly352Val and p.Asp355Asn) and one that is predicted to promote the interaction (p.Gly326Glu). The S-protein ACE2 inhibitory variants are expected to confer a",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Dundee Research Computing"
+                }
+            ],
+            "funding-statement": "We thank the Dundee Research Computing team for supporting our IT infrastructure and remote working"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Biotechnology and Biological Sciences Research Council Grants",
+                    "award-id": [
+                        "BB/J019364/1",
+                        "BB/R014752/1"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust Biomedical Resources Grant",
+                    "award-id": [
+                        "101651/Z/13/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by Biotechnology and Biological Sciences Research Council Grants (BB/J019364/1 and BB/R014752/1) and Wellcome Trust Biomedical Resources Grant (101651/Z/13/Z). Author contributions S.A.M performed the research, compiled and analysed data, and drafted the manuscript"
+        }
+    ]
+}

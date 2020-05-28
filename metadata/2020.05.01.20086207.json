@@ -1,0 +1,32 @@
+{
+    "abstract": "Background - Decision scores and ethically mindful algorithms are being established to adjudicate mechanical ventilation in the context of potential resources shortage due to the current onslaught of COVID-19 cases. There is a need for a reproducible and objective method to provide quantitative information for those scores. Purpose - Towards this goal, we present a retrospective study testing the ability of a deep learning algorithm at extracting features from chest x-rays (CXR) to track and predict radiological evolution. Materials and Methods - We trained a repurposed deep learning algorithm on the CheXnet open dataset (224,316 chest X-ray images of 65,240 unique patients) to extract features that mapped to radiological labels. We collected CXRs of COVID-19-positive patients from two open-source datasets (last accessed on April 9, 2020)(Italian Society for Medical and Interventional Radiology and MILA). Data collected form 60 pairs of sequential CXRs from 40 COVID patients (mean age +/- standard deviation: 56 +/- 13 years; 23 men, 10 women, seven not reported) and were categorized in three categories: Worse, Stable, or Improved on the basis of radiological evolution ascertained from images and reports. Receiver operating characteristic analyses, Mann-Whitney tests were performed. Results - On patients from the CheXnet dataset, the area under ROC curves ranged from 0.71 to 0.93 for seven imaging features and one diagnosis. Deep learning features between Worse and Improved outcome categories were significantly different for three radiological signs and one diagnostic (Consolidation, Lung Lesion, Pleural Effusion and Pneumonia; all P < 0.05). Features from the first CXR of each pair could correctly predict the outcome category between Worse and Improved cases with 82.7% accuracy. Conclusion - CXR deep learning features show promise for classifying the disease trajectory. Once validated in studies incorporating clinical data and with larger sample sizes, this information may be considered to inform triage decisions.",
+    "affiliations": [
+        "National Science and Engineering Research Council of Canada"
+    ],
+    "author": "Marie-Helene Levesque; Nathalie Duchesne; David Hornstein; Diego Martin; Lorne Rosenbloom; Daniel Gourdeau; Alexandre Hains; Simon Lemieux; Christian Gagne; An Tang; Huy Le; Fabrizio Vecchio; Carl Chartrand-Lefebvre; Louis Dieumegarde; Patrick Archambault; Reza Forghani; Simon Duchesne",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20086207",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20086207"
+    },
+    "title": "TRACKING AND PREDICTING COVID-19 RADIOLOGICAL TRAJECTORY USING DEEP LEARNING ON CHEST X-RAYS: INITIAL ACCURACY TESTING",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "COVID-19 Pilot Project"
+                },
+                {
+                    "funding-source": "Quebec Bio-Imaging Network"
+                },
+                {
+                    "funding-source": "Discovery Award"
+                },
+                {
+                    "funding-source": "National Science and Engineering Research Council of Canada"
+                }
+            ],
+            "funding-statement": "This study has been financed by a COVID-19 Pilot Project grant from the Quebec Bio-Imaging Network as well as concurrent funding from a Discovery Award to the primary investigator (S.D.) from the National Science and Engineering Research Council of Canada"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 pandemic has posed significant challenges globally. Countries have adopted different strategies with varying degrees of success. Epidemiologists are studying the impact of government actions using scenario analysis. However, the interactions between the government policy and the disease dynamics are not formally captured. We, for the first time, formally study the interaction between the disease dynamics, which is modeled as a physical process, and the government policy, which is modeled as the adjoining controller. Our approach enables compositionality, where either the plant or the controller could be replaced by an alternative model. Our work is inspired by the engineering approach for the design of Cyber-Physical Systems (CPSs). Consequently, we term the new framework Compositional Cyber-Physical Epidemiology (CCPE). We created different classes of controllers and applied these to control the disease in New Zealand and Italy. Our controllers closely follow government decisions based on their published data. We not only reproduce the pandemic progression faithfully in New Zealand and Italy but also show the tradeoffs produced by differing control actions.",
+    "author": "Jin Woo Ro; Debi Prasad; Nathan Allen; Partha S. Roop; Weiwei Ai",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20081125",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20081125"
+    },
+    "title": "Compositional Cyber-Physical Epidemiology of COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There has been no financial support for this work that could have influenced its outcome."
+        }
+    ]
+}

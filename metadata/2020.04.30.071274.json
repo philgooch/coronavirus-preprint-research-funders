@@ -1,0 +1,52 @@
+{
+    "title": "Comparative transcriptome analysis reveals the intensive early-stage responses of host cells to SARS-CoV-2 infection",
+    "author": "Jiya Sun, Fei Ye, Aiping Wu, Ren Yang, Mei Pan, Jie Sheng, Wenjie Zhu, Longfei Mao, Ming Wang, Baoying Huang, Wenjie Tan, Taijiao Jiang, 1Center for Systems Medicine, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences & Peking Union Medical College, 100005 Beijing, China; 2Key Laboratory of Medical Virology, National Health and Family Planning Commission, National Institute for Viral Disease Control and Prevention, China CDC, Beijing 102206, China; 3Suzhou Institute of Systems Medicine, Suzhou, 215123 Jiangsu, China; 4Department of Otolaryngology, Head and Neck Surgery, Beijing TongRen Hospital, Capital Medical University, Beijing 100730, China",
+    "date": 2020,
+    "affiliations": [
+        "Center for Systems Medicine, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences & Peking Union Medical College, 100005 Beijing, China",
+        "Key Laboratory of Medical Virology, National Health and Family Planning Commission, National Institute for Viral Disease Control and Prevention, China CDC, Beijing 102206, China",
+        "Suzhou Institute of Systems Medicine, Suzhou, 215123 Jiangsu, China",
+        "Department of Otolaryngology, Head and Neck Surgery, Beijing TongRen Hospital, Capital Medical University, Beijing 100730, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.30.071274",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.30.071274.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused a widespread outbreak of highly pathogenic COVID-19. It is therefore important and timely to characterize interactions between the virus and host cell at the molecular level to understand its disease pathogenesis. To gain insights, we performed high-throughput sequencing that generated time-series data simultaneously for bioinformatics analysis of virus genomes and host transcriptomes implicated in SARS-CoV-2 infection. Our analysis results showed that the rapid growth of the virus was accompanied by an early intensive response of host genes. We also systematically compared the molecular footprints of the host cells in response to SARS-CoV-2, SARS-CoV and MERS-CoV. Upon infection, SARS-CoV-2 induced hundreds of up-regulated host genes hallmarked by a significant cytokine production followed by virus-specific host antiviral responses. While the cytokine and antiviral responses triggered by SARS-CoV and MERS-CoV were only observed during the late stage of infection, the host antiviral responses during the SARS-CoV-2 infection were gradually enhanced lagging behind the production of cytokine. The early rapid host responses were potentially attributed to the high efficiency of SARS-CoV-2 entry into host cells, underscored by evidence of a remarkably up-regulated gene expression of TPRMSS2 soon after infection. Taken together, our findings provide novel molecular insights into the mechanisms underlying the infectivity and pathogenicity of SARS-CoV-2.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2016YFD0500301"
+                    ]
+                },
+                {
+                    "funding-source": "CAMS Initiative for Innovative Medicine",
+                    "award-id": [
+                        "2016-I2M-1-005"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31671371",
+                        "31601082"
+                    ]
+                },
+                {
+                    "funding-source": "Central Public-Interest Scientific Institution Basal Research Fund",
+                    "award-id": [
+                        "2017PT31026",
+                        "2018PT31016"
+                    ]
+                }
+            ],
+            "funding-statement": "This work has been supported by the National Key Research and Development Program of China (2016YFD0500301) and the CAMS Initiative for Innovative Medicine (grant 2016-I2M-1-005), and by the National Natural Science Foundation of China (grants 31671371 and 31601082), and by the Central Public-Interest Scientific Institution Basal Research Fund (2017PT31026, 2018PT31016)"
+        }
+    ]
+}

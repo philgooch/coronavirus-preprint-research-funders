@@ -1,0 +1,16 @@
+{
+    "abstract": "In this work, we simulate the COVID-19 pandemic dynamics in a population modeled as a network of groups wherein infection can propagate both via intra-group and via inter-group interactions. Our results emphasize the importance of diminishing the inter-group infections in the effort of substantial flattening and delaying of the epi(demiologic) curve with concomitant mitigation of disastrous economy and social consequences. To exemplify with a limiting case, splitting a population into m (say, 5 or 10) noninteracting groups while keeping intra-group interaction unchanged yields a stretched epidemiologic curve having the maximum number of daily infections reduced and postponed in time by the same factor m (5 or 10). More generally, our study suggests a practical approach to fight against SARS-CoV-2 virus spread based on population splitting into groups and minimizing intermingling between them. This strategy can be pursued by large-scale infrastructure reorganization of activity at different levels in big logistic units (e.g., large productive networks, factories, enterprises, warehouses, schools, (seasonal) harvest work). Importantly, unlike total lockdwon strategy, the proposed approach prevents economic ruin and keeps social life at a more bearable level than distancing everyone from anyone.",
+    "author": "Ioan Baldea",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093310",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093310"
+    },
+    "title": "Suppression of Groups Intermingling as Appealing Option For Flattening and Delaying the Epidemiologic Curve While Allowing Economic and Social Life at Bearable Level During COVID-19 Pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The author received no funding for this work."
+        }
+    ]
+}

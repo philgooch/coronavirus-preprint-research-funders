@@ -1,0 +1,100 @@
+{
+    "title": "Structural Basis of RNA Cap Modification by SARS-CoV-2 Coronavirus",
+    "author": "Yogesh Gupta",
+    "date": 2020,
+    "affiliations": [
+        "Cancer Research Institute",
+        "Department of Biochemistry and Structural Biology",
+        "Division of Hematology and Oncology, Department of Medicine",
+        "University of Texas Health San Antonio"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.26.061705",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.26.061705.pdf"
+    },
+    "abstract": "The novel severe acute respiratory syndrome coronoavirus-2 (SARS-CoV-2), the causative agent of COVID-19 illness, has caused over 2 million infections worldwide in four months. In SARS coronaviruses, the non-structural protein 16 (nsp16) methylates the 5\u2019-end of virally encoded",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Max and Minnie Tomerlin Voelcker Foundation, San"
+                },
+                {
+                    "funding-source": "Antonio Area Foundation,"
+                },
+                {
+                    "funding-source": "Rising STARs"
+                },
+                {
+                    "funding-source": "UT System,"
+                },
+                {
+                    "funding-source": "UT Health San Antonio"
+                },
+                {
+                    "funding-source": "Greehey Children\u2019s Cancer Research Institute"
+                },
+                {
+                    "funding-source": "UTHSA"
+                }
+            ],
+            "funding-statement": "This work was supported by funding from the Max and Minnie Tomerlin Voelcker Foundation, San Antonio Area Foundation, a Rising STARs award from the UT System, a Pilot award from the UT Health San Antonio (UTHSA), and 268 laboratory startup funds from the Greehey Children\u2019s Cancer Research Institute (GCCRI) of UTHSA"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "GCCRI"
+                }
+            ],
+            "funding-statement": "S.Q. is supported by the GCCRI"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Training Award",
+                    "award-id": [
+                        "RP170345"
+                    ]
+                },
+                {
+                    "funding-source": "Cancer Prevention Research Institute of Texas"
+                }
+            ],
+            "funding-statement": "T.V. is supported by a Research Training Award (RP170345) from the Cancer Prevention Research Institute of Texas (CPRIT)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "CA205224"
+                    ]
+                }
+            ],
+            "funding-statement": "R.A.H. is supported by NIH CA205224"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Northeastern Collaborative Access Team"
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "P30GM124165"
+                    ]
+                },
+                {
+                    "funding-source": "U.S Department of Energy",
+                    "award-id": [
+                        "DE-AC02-06CH11357"
+                    ]
+                }
+            ],
+            "funding-statement": "This work 272 is based on research conducted at the Northeastern Collaborative Access Team beamlines, which are funded by NIH grant P30GM124165, and U.S Department of Energy (DOE) Contract DE-AC02-06CH11357"
+        }
+    ]
+}

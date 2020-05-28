@@ -1,0 +1,48 @@
+{
+    "abstract": "Background: Older COVID-19 hospitalized patients frequently have hypertension, diabetes or coronary heart disease (CHD), but whether these are more common than in the population is unclear. During the initial epidemic in England, virus testing for older adults was restricted to symptomatic hospitalized patients. We aimed to estimate associations between pre-existing diagnoses and COVID-19 status, in a large community cohort. Methods: UK Biobank (England) participants assessed 2006 to 2010, followed in hospital discharge records to 2017. Demographic and pre-existing common diagnoses association tested with COVID-19 status (16th March to 14th April 2020) in logistic models, adjusted for demographics, study site and other diagnoses. Results: There were 274,356 participants aged 65+, including 448 (0.16%) hospitalized COVID-19 patients. Common co-morbidities in patients were hypertension (58.5%), coronary heart disease (CHD, 21.1%), history of fall or fragility fractures (30.6%), and type 2 diabetes (19.6%). However, in adjusted models, COVID-19 patients were more likely than other participants to have pre-existing dementia (OR=3.07 95% CI 1.71 to 5.50), COPD (OR= 1.82 CI 1.33 to 2.49), depression (OR=1.81 CI 1.36 to 2.40), type 2 diabetes (OR=1.70 CI 1.30 to 2.21), chronic kidney disease and atrial fibrillation. Hypertension was modestly associated (OR=1.29 CI 1.04 to 1.59), but CHD (OR=0.92 CI 0.71 to 1.20) prevalence was similar in COVID-19 patients and other participants. Conclusion: Specific co-morbidities are disproportionally common in older adults who develop severe COVID-19. Tailored interventions may be needed, as these results do not support simple age-based targeting to prevent severe COVID-19 infection.\nCompeting Interest Statement",
+    "affiliations": [
+        "University of Exeter Medical School, and in part by the University of Connecticut School of Medicine. JAHM is supported by NIHR Doctoral Research Fellowship DRF-2014-07-177. Input from CLK was supported by the University of Connecticut. The views expressed in this publication are those of the author(s) and not necessarily those of the NHS, the National Institute for Health Research or the Department of Health"
+    ],
+    "author": "Jane AH Masoli; Joao Delgado; David Melzer; Janice L Atkins; Luke C Pilling; George Kuchel; Chia-Ling C Kuo",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20092700",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20092700"
+    },
+    "title": "PREEXISTING COMORBIDITIES PREDICTING SEVERE COVID-19 IN OLDER ADULTS IN THE UK BIOBANK COMMUNITY COHORT",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Exeter Medical School,"
+                },
+                {
+                    "funding-source": "University of Connecticut School of Medicine"
+                }
+            ],
+            "funding-statement": "DM and LCP are supported by the University of Exeter Medical School, and in part by the University of Connecticut School of Medicine"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Doctoral Research Fellowship",
+                    "award-id": [
+                        "DRF-2014-07-177"
+                    ]
+                }
+            ],
+            "funding-statement": "JAHM is supported by NIHR Doctoral Research Fellowship DRF-2014-07-177"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Input from CLK"
+                },
+                {
+                    "funding-source": "University of Connecticut"
+                }
+            ],
+            "funding-statement": "Input from CLK was supported by the University of Connecticut"
+        }
+    ]
+}

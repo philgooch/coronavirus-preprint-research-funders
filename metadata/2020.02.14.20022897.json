@@ -1,0 +1,47 @@
+{
+    "abstract": "The impact of the drastic reduction in travel volume within mainland China in January and February 2020 was quantified with respect to reports of novel coronavirus (COVID-19) infections outside China. Data on confirmed cases diagnosed outside China were analyzed using statistical models to estimate the impact of travel reduction on three epidemiological outcome measures: (i) the number of exported cases, (ii) the probability of a major epidemic, and (iii) the time delay to a major epidemic. From 28 January to 7 February 2020, we estimated that 226 exported cases (95% confidence interval: 86, 449) were prevented, corresponding to a 70.4% reduction in incidence compared to the counterfactual scenario. The reduced probability of a major epidemic ranged from 7% to 20% in Japan, which resulted in a median time delay to a major epidemic of two days. Depending on the scenario, the estimated delay may be less than one day. As the delay is small, the decision to control travel volume through restrictions on freedom of movement should be balanced between the resulting estimated epidemiological impact and predicted economic fallout.",
+    "author": "Natalie M. Linton; Sungmok Jung; Hiroshi Nishiura; Katsuma Hayashi; Tetsuro Kobayashi; Asami Anzai; Ayako Suzuki; Ryo Kinoshita; Andrei R. Akhmetzhanov; Takeshi Miyama; Yichi Yang",
+    "date": 2020,
+    "doi": "10.1101/2020.02.14.20022897",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.14.20022897"
+    },
+    "title": "Assessing the impact of reduced travel on exportation dynamics of novel coronavirus infection (COVID-19)",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Japan Agency for Medical Research and Development",
+                    "award-id": [
+                        "JP18fk0108050"
+                    ]
+                },
+                {
+                    "funding-source": "Japan Society for the Promotion of Science",
+                    "award-id": [
+                        "",
+                        "H.N.: 17H04701",
+                        "17H05808",
+                        "18H04895",
+                        "19H01074",
+                        "R.K.: 18J21587",
+                        "AS.: 19K24159"
+                    ]
+                },
+                {
+                    "funding-source": "Inamori Foundation,"
+                },
+                {
+                    "funding-source": "Japan Science and Technology Agency"
+                },
+                {
+                    "funding-source": "CREST",
+                    "award-id": [
+                        "JPMJCR1413"
+                    ]
+                }
+            ],
+            "funding-statement": "H.N. received funding from the Japan Agency for Medical Research and Development (AMED) [grant number: JP18fk0108050]; the Japan Society for the Promotion of Science (JSPS) KAKENHI [grant numbers, H.N.: 17H04701, 17H05808, 18H04895 and 19H01074; R.K.: 18J21587; AS.: 19K24159], the Inamori Foundation, and the Japan Science and Technology Agency (JST) CREST program [grant number: JPMJCR1413]"
+        }
+    ]
+}

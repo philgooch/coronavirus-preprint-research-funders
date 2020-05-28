@@ -1,0 +1,26 @@
+{
+    "abstract": "Although there are some recent studies which intent to address the spread of respiratory droplets through the air, these correspond to indoor conditions or outdoor situations which not take into account realistic scenario. Less attention has been paid to the spread of respiratory droplets in outdoor environments under microclimatologic turbulent wind and which is of growing importance given the current COVID19 epidemic. We implement a computational model describing a sneezing person in an urban scenario under a medium intensity climatological wind. Turbulence was described with a wall-modeled Large Eddy Simulation model and the spread of respiratory droplets by using a lagrangian approach. Results show the spread of respiratory droplets is characterized by the dynamics of two groups of droplets of different sizes: larger droplets (400 \u2013 900 \u03bcm) are spread between 2\u20135 m during 2.3 s while smaller (100 \u2013 200 \u03bcm) droplets are transported a larger range between 8\u201311 m by the action of the turbulent wind in 14.1 s average. Given the uncertainty of potential contagion over this way and with this reach, these efforts are an intent to contribute to shine a light on the possibility of adopting stricter self-care and distancing measures.",
+    "author": "Pablo Cornejo; Jose Brito; Nicolas Guerrero",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20064394",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20064394"
+    },
+    "title": "COVID-19. Transport of respiratory droplets in a microclimatologic urban scenario",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "INCAR FONDAP Project",
+                    "award-id": [
+                        "15110027"
+                    ]
+                },
+                {
+                    "funding-source": "CONICYT and MSET Chile SpA."
+                }
+            ],
+            "funding-statement": "This work was founded by INCAR FONDAP Project N\u00b015110027;CONICYT and MSET Chile SpA."
+        }
+    ]
+}

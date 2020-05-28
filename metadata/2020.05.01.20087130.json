@@ -1,0 +1,65 @@
+{
+    "abstract": "Background: Severe acute respiratory syndrome coronavirus 2 (SARS\u2212CoV\u22122) has been declared a global pandemic by the World Health Organisation and urgent treatment and prevention strategies are needed. Many clinical trials have been initiated with existing medications, but assessments of the expected plasma and lung exposures at the selected doses have not featured in the prioritisation process. Although no antiviral data is currently available for the major phenolic circulating metabolite of nitazoxanide (known as tizoxanide), the parent ester drug has been shown to exhibit in vitro activity against SARS\u2212CoV\u22122. Nitazoxanide is an anthelmintic drug and its metabolite tizoxanide has been described to have broad antiviral activity against influenza and other coronaviruses. The present study used physiologically\u2212based pharmacokinetic (PBPK) modelling to inform optimal doses of nitazoxanide capable of maintaining plasma and lung tizoxanide exposures above the reported nitazoxanide 90% effective concentration (EC90) against SARS\u2212CoV\u22122. Methods: A whole\u2212body PBPK model was constructed for oral administration of nitazoxanide and validated against available tizoxanide pharmacokinetic data for healthy individuals receiving single doses between 500 mg SARS\u2212CoV\u22122 4000 mg with and without food. Additional validation against multiple\u2212dose pharmacokinetic data when given with food was conducted. The validated model was then used to predict alternative doses expected to maintain tizoxanide plasma and lung concentrations over the reported nitazoxanide EC90 in >90% of the simulated population. Optimal design software PopDes was used to estimate an optimal sparse sampling strategy for future clinical trials. Results: The PBPK model was validated with AAFE values between 1.01 SARS\u2212CoV\u22122 1.58 and a difference less than 2-fold between observed and simulated values for all the reported clinical doses. The model predicted optimal doses of 1200 mg QID, 1600 mg TID, 2900 mg BID in the fasted state and 700 mg QID, 900 mg TID and 1400 mg BID when given with food, to provide tizoxanide plasma and lung concentrations over the reported in vitro EC90 of nitazoxanide against SARS\u2212CoV\u22122. For BID regimens an optimal sparse sampling strategy of 0.25, 1, 3 and 12h post dose was estimated. Conclusion: The PBPK model predicted that it was possible to achieve plasma and lung tizoxanide concentrations, using proven safe doses of nitazoxanide, that exceed the EC90 for SARS\u2212CoV\u22122. The PBPK model describing tizoxanide plasma pharmacokinetics after oral administration of nitazoxanide was successfully validated against clinical data. This dose prediction assumes that the tizoxanide metabolite has activity against SARS\u2212CoV\u22122 similar to that reported for nitazoxanide, as has been reported for other viruses. The model and the reported dosing strategies provide a rational basis for the design (optimising plasma and lung exposures) of future clinical trials of nitazoxanide in the treatment or prevention of SARS\u2212CoV\u22122 infection.\nCompeting Interest Statement",
+    "author": "Saye H Khoo; Paul Curley; Helen Box; Andrew Owen; Steve P Rannard; Henry Pertinez; Marta Boffito; W. Dave Hong; Usman Arshad; Ghaith Aljayyoussi; Giancarlo Biagini; Christopher David; Joanne Sharp; Neill J Liptrott; Lee Tatham; Andrew Hill; Shaun H Pennington; Megan Neary; Anthony Valentijn; Patrick G Bray; Stephen A Ward; Rajith KR Rajoli; Paul M. O'Neill",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087130",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087130"
+    },
+    "title": "Dose prediction for repurposing nitazoxanide in SARS-CoV-2 treatment or chemoprophylaxis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ViiV and Merck"
+                }
+            ],
+            "funding-statement": "AO has received research funding from ViiV, Merck, Janssen and consultancy from Gilead, ViiV and Merck not related to the current paper"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "EPSRC",
+                    "award-id": [
+                        "EP/R024804/1",
+                        "EP/S012265/1"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R01AI134091",
+                        "R24AI118397"
+                    ]
+                },
+                {
+                    "funding-source": "European Commission",
+                    "award-id": [
+                        "761104",
+                        "project LONGEVITY"
+                    ]
+                }
+            ],
+            "funding-statement": "AO acknowledges research funding from EPSRC (EP/R024804/1; EP/S012265/1), NIH (R01AI134091; R24AI118397), European Commission (761104) and Unitaid (project LONGEVITY)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "MR/S00467X/1"
+                    ]
+                }
+            ],
+            "funding-statement": "GAB acknowledges support from the Medical Research Council (MR/S00467X/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "MRC Skills Development Fellowship"
+                }
+            ],
+            "funding-statement": "GA acknowledges funding from the MRC Skills Development Fellowship"
+        }
+    ]
+}

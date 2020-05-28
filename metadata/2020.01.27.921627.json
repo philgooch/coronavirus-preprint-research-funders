@@ -1,0 +1,29 @@
+{
+    "title": "Nelfinavir was predicted to be a potential inhibitor of 2019-nCov main protease by an integrative approach combining homology modelling, molecular docking and binding free energy calculation",
+    "author": "Zhijian Xu,* Cheng Peng, Yulong Shi, Zhengdan Zhu, Kaijie Mu, Xiaoyu Wang, Weiliang Zhu",
+    "date": 2020,
+    "affiliations": [
+        "CAS Key Laboratory of Receptor Research; Drug Discovery and Design Center, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, 201203, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.01.27.921627",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.01.27.921627.pdf"
+    },
+    "abstract": "2019-nCov has caused more than 80 deaths as of 27 January 2020 in China, and infection cases have been reported in more than 10 countries. However, there is no approved drug to treat the disease. 2019-nCov Mpro is a potential drug target to combat the virus. We built homology models based on SARS Mpro structures, and docked 1903 small molecule drugs to the models. Based on the docking score and the 3D similarity of the binding mode to the known Mpro ligands, 4 drugs were selected for binding free energy calculations. Both MM/GBSA and SIE methods voted for nelfinavir, with the binding free energy of -24.69\u00b10.52 kcal/mol and -9.42\u00b10.04 kcal/mol, respectively. Therefore, we suggested that nelfinavir might be a potential inhibitor against 2019nCov Mpro.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2017YFB0202601"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Key R&D Program of China (2017YFB0202601)"
+        }
+    ]
+}

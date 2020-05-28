@@ -1,0 +1,16 @@
+{
+    "abstract": "In recent weeks, several seroprevalence studies have appeared which attempt to determine the prevalence of antibodies against SARS-CoV-2 in the population of certain European and American locations. Many of these studies find an antibody prevalence comparable to the false positive rate of their respective serology tests and the relatively low statistical power associated with each study has invited criticism. To determine the strength of the signal, we perform a meta-analysis on the publicly available seroprevalence data based on Bayesian hierarchical modelling with Markov Chain Monte Carlo and Generalized Linear Mixed Modelling with prediction sampling. We examine studies with results from Santa Clara County (CA), Los Angeles County (CA), San Miguel County (CO), Chelsea (MA), the comte de Geneve (Switzerland), and Gangelt (Germany). Our results are in broad agreement with the conclusions of the studies; we find that there is evidence for non-trivial levels of antibody prevalence across all study locations. However, we also find that a significant probability mass exists for antibody prevalence at levels lower than the reported figures. The results of our meta-analysis on the recent seroprevalence studies point to an important and strongly suggestive signal.",
+    "author": "David W. Maybury; J\u00e9r\u00f4me Levesque",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089201",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089201"
+    },
+    "title": "A note on COVID-19 seroprevalence studies: a meta-analysis using hierarchical modelling",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding."
+        }
+    ]
+}

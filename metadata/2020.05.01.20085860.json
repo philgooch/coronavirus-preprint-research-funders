@@ -1,0 +1,23 @@
+{
+    "abstract": "There is wide individual variation in response to infection with SARS-CoV-2 and this may be influenced by ethnicity. It is plausible that coding variants in the ACE2 and TMPRSS2 genes might contribute to this variation. Exome sequence data was obtained for 49,953 UK Biobank subjects of whom 74 had tested positive for SARS-CoV-2 and could be presumed to have severe disease because mildly affected subjects were not tested in the relevant period. A weighted burden analysis was carried out using SCOREASSOC to determine whether there were differences between these cases and the other sequenced subjects in the overall burden of rare, damaging variants in ACE2 or TMPRSS2. There were no significant differences in weighted burden scores between cases and controls for either gene. There were no individual DNA sequence variants with a markedly different frequency between cases and controls. Genetic variants affecting the structure and function of the ACE2 and TMPRSS2 proteins are not a major determinant of whether infection with SARS-CoV-2 results in severe symptoms. This research has been conducted using the UK Biobank Resource.",
+    "author": "David Curtis",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20085860",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20085860"
+    },
+    "title": "Coding variants in ACE2 and TMPRSS2 are not major drivers of COVID-19 severity in UK Biobank subjects.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "BBSRC",
+                    "award-id": [
+                        "BB/R01356X/1"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was carried out in part using resources provided by BBSRC equipment grant BB/R01356X/1."
+        }
+    ]
+}

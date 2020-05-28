@@ -1,0 +1,16 @@
+{
+    "abstract": "Introduction: As of early December 2019, COVID-19, a disease induced by SARS-COV-2, has started spreading, originated in Wuhan, China, and now on, have infected more than 2 million individuals throughout the world. Purpose: This study aimed to nowcast the COVID-19 outbreak throughout Iran and to forecast the trends of the disease spreading in the upcoming month. Methods: The cumulative incidence and fatality data were extracted from official reports of the National Ministry of Health and Medical Educations of Iran. To formulate the outbreak dynamics, six phenomenological models, as well as a modified mechanistic Susciptible-Exposed-Infectious-Recovered (SEIR) model, were implemented. The models were calibrated with the integrated data, and trends of the epidemic in Iran was then forecasted for the next month. Results: The final outbreak size calculated by the best fitted phenomenological models was estimated to be in the range of 68,486 to 118,923 cases; however, the calibrated SEIR model estimated that the outbreak would rage again, starting from April 26. Moreover, projected by the mechanistic model, approximately half of the infections have undergone undetected. Conclusion: Although the advanced phenomenological models perfectly fitted the data, they are incapable of applying behavioral aspects of the outbreak and hence, are not reliable enough for authorities' decision adoptions. In contrast, the mechanistic SEIR model alarms that the COVID-19 outbreak in Iran may peak for the second time, consequent to lifting the control measures. This implies that the government may implement a more granular decision making to control the outbreak.",
+    "author": "Mohammad Hosein Zare; Fatemeh Bahranizadd; Hamidreza Masjedi; Jomar Fajardo Rabajante",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20076281",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20076281"
+    },
+    "title": "Nowcasting and Forecasting the Spread of COVID-19 in Iran",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding received."
+        }
+    ]
+}

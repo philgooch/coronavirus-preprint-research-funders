@@ -1,0 +1,22 @@
+{
+    "title": "The real time effective reproductive number for COVID-19 in the United States Yue Zhang1,2, * \u2020, Lindsay T. Keegan2, \u2020, Yuqing Qiu1, Matthew H. Samore2,3",
+    "author": "Target Journal: Lancet Infectious Diseases Correspondence: 400 words Word count: 392",
+    "date": 2020,
+    "affiliations": [
+        "University of Utah, Study Design and Biostatistics Center, Salt Lake City, Utah",
+        "University of Utah, Department of Internal Medicine, Division of Epidemiology, Salt Lake City, Utah",
+        "Department of Veterans Affairs Salt Lake City Health Care System, Salt Lake City, Utah, USA",
+        "Division of Epidemiology Department of Internal Medicine University of Utah 295 Chipeta Way Salt Lake City, UT, 84018"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.08.20095703",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095703.pdf"
+    },
+    "abstract": "Severe-acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus responsible for COVID-19, has spread rapidly causing significant global morbidity and mortality 1. The United States has now emerged as the global epicenter. As states move to lift intervention measures, it becomes more important to estimate the rate at which the epidemic is growing using the realtime effective reproductive number, Rt. Using a collated time series of daily state-wise positive case counts from the COVID Tracking Project 2, we estimate Rt to provide a baseline estimate of the impact of all combined non-pharmaceutical interventions (NPIs) at the state level and for the entire country. We present the results for each state and the whole country in a user-friendly web interface updated daily at https://covid19-realtimereproductionnumber.shinyapps.io/ShinyAPP/. We calculate Rt using two complementary methods, the Wallinga and Teunis (WT) method 3 which is forward-looking and the Cori method 4 which is backward-looking. We also present two daily test metrics: test utilization per capita and the positive tests per capita 2 alongside Rt for each state (See Figure 1 with Utah and the U.S. as examples). The results for all 50 states and the U.S. are provided as supplementary materials.",
+    "funding": [
+        {}
+    ]
+}

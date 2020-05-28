@@ -1,0 +1,40 @@
+{
+    "abstract": "Background: As of April 2, 2020, the global reported number of COVID-19 cases has crossed over 1 million with more than 55,000 deaths. The household transmissibility of SARS-CoV-2, the causative pathogen, remains elusive. Methods: Based on a comprehensive contact-tracing dataset from Guangzhou, we estimated both the population-level effective reproductive number and individual-level secondary attack rate (SAR) in the household setting. We assessed age effects on transmissibility and the infectivity of COVID-19 cases during their incubation period. Results: A total of 195 unrelated clusters with 212 primary cases, 137 nonprimary (secondary or tertiary) cases and 1938 uninfected close contacts were traced. We estimated the household SAR to be 13.8% (95% CI: 11.1-17.0%) if household contacts are defined as all close relatives and 19.3% (95% CI: 15.5-23.9%) if household contacts only include those at the same residential address as the cases, assuming a mean incubation period of 4 days and a maximum infectious period of 13 days. The odds of infection among children (<20 years old) was only 0.26 (95% CI: 0.13-0.54) times of that among the elderly (\u226560 years old). There was no gender difference in the risk of infection. COVID-19 cases were at least as infectious during their incubation period as during their illness. On average, a COVID-19 case infected 0.48 (95% CI: 0.39-0.58) close contacts. Had isolation not been implemented, this number increases to 0.62 (95% CI: 0.51-0.75). The effective reproductive number in Guangzhou dropped from above 1 to below 0.5 in about 1 week. Conclusion: SARS-CoV-2 is more transmissible in households than SARS-CoV and MERS-CoV, and the elderly \u226560 years old are the most vulnerable to household transmission. Case finding and isolation alone may be inadequate to contain the pandemic and need to be used in conjunction with heightened restriction of human movement as implemented in Guangzhou.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Institute of Health (R01 AI139761 and R01 AI116770), the Science and Technology Plan Project of Guangzhou (201804010121), the Project for Key Medicine Discipline Construction of Guangzhou Municipality (2017-2019-04), and the Key research and development program of China (2019YFC1200604)"
+    ],
+    "author": "Qin-Long Jing; Zhou-Bin Zhang; Zhi-Cong Yang; An-Ran Zhang; Ying Lu; Meng-Meng Ma; Ming-Jin Liu; Natalie E Dean; Yang Yang; Yu Ma; Li-Qun Fang; Jun Yuan; Lei Luo; Neda Jalali; Ira Longini; Eben Kenah",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20056010",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20056010"
+    },
+    "title": "Household Secondary Attack Rate of COVID-19 and Associated Determinants",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "U.S National Institute of Health",
+                    "award-id": [
+                        "R01 AI139761",
+                        "R01 AI116770"
+                    ]
+                },
+                {
+                    "funding-source": "Science and Technology Plan Project of Guangzhou",
+                    "award-id": [
+                        "201804010121"
+                    ]
+                },
+                {
+                    "funding-source": "Project for Key Medicine Discipline Construction of Guangzhou Municipality",
+                    "award-id": [
+                        "2017-2019-04",
+                        "2019YFC1200604"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants from the U.S National Institute of Health (R01 AI139761 and R01 AI116770), the Science and Technology Plan Project of Guangzhou (201804010121), the Project for Key Medicine Discipline Construction of Guangzhou Municipality (2017-2019-04), and the Key research and development program of China (2019YFC1200604)"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: In early May 2020, following social distancing measures due to COVID-19, governments consider relaxing lock-down. We combined individual clinical risk predictions with epidemic modelling to examine simulations of risk based differential isolation and exit policies. Methods: We extended a standard susceptible-exposed-infected-removed (SEIR) model to account for personalised predictions of severity, defined by the risk of an individual needing intensive care if infected, and simulated differential isolation policies using COVID-19 data and estimates in France as of early May 2020. We also performed sensitivity analyses. The framework may be used with other epidemic models, with other risk predictions, and for other epidemic outbreaks. Findings: Simulations indicated that, assuming everything else the same, an exit policy considering clinical risk predictions starting on May 11, as planned by the French government, could enable to immediately relax restrictions for an extra 10% (6 700 000 people) or more of the lowest-risk population, and consequently relax the restrictions on the remaining population significantly faster -- while abiding to the current ICU capacity. Similar exit policies without risk predictions would exceed the ICU capacity by a multiple. Sensitivity analyses showed that when the assumed percentage of severe patients among the population decreased, or the prediction model discrimination improved, or the ICU capacity increased, policies based on risk models had a greater impact on the results of epidemic simulations. At the same time, sensitivity analyses also showed that differential isolation policies require the higher risk individuals to comply with recommended restrictions. In general, our simulations demonstrated that risk prediction models could improve policy effectiveness, keeping everything else constant. Interpretation: Clinical risk prediction models can inform new personalised isolation and exit policies, which may lead to both safer and faster outcomes than what can be achieved without such prediction models.\nCompeting Interest Statement",
+    "author": "Mathilde Fekom; Theodoros Evgeniou; Nicolas Vayatis; Anton Ovchinnikov; Camille Pouchol; Raphael Porcher",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20084707",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20084707"
+    },
+    "title": "Epidemic Models for Personalised COVID-19 Isolation and Exit Policies Using Clinical Risk Predictions",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was used for this research."
+        }
+    ]
+}

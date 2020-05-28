@@ -1,0 +1,27 @@
+{
+    "abstract": "Importance: Filtering facepiece respirators, including N95 masks, are a critical component of infection prevention in hospitals. Due to unprecedented shortages in N95 respirators, many healthcare systems have explored reprocessing of N95 respirators. Data supporting these approaches are lacking in real hospital settings. In particular, published studies have not yet reported an evaluation of multiple viruses, bacteria, and fungi along with respirator filtration and fit in a single, full-scale study. Objective: We initiated a full-scale study to evaluate different N95 FFR decontamination strategies and their impact on respirator integrity and inactivating multiple microorganisms, with experimental conditions informed by the needs and constraints of the hospital. Methods: We explored several reprocessing methods using new 3MTM 1860 N95 respirators, including dry (<10% relative humidity) and moist (62-66% relative humidity) heat (80-82 oC) in the drying cycle of industrial instrument washers, ethylene oxide (EtO), pulsed xenon UV (UV-PX), hydrogen peroxide gas plasma (HPGP), and vaporous hydrogen peroxide (VHP). Respirator samples were treated and analyzed for biological indicator inactivation using four viruses (MS2, phi6, influenza A virus, murine hepatitis virus), three bacteria (Escherichia coli, Staphylococcus aureus, Geobacillus stearothermophilus), and the fungus Aspergillus niger. The impact of different application media was also evaluated. In parallel, decontaminated respirators were evaluated for filtration integrity and fit. Results: VHP resulted in >2 log10 inactivation of all tested biological indicators. The combination of UV-PX + moist heat resulted in >2 log10 inactivation of all biological indicators except G. stearothermohphilus. Greater than 95% filtration efficiency was maintained following 2 (UV-PX + <10% relative humidity heat) or 10 (VHP) cycles of treatment, and proper fit was also preserved. UV-PX + dry heat was insufficient to inactivate all biological indicators. Although very effective at virus decontamination, HPGP resulted in decreased filtration efficiency after 3 cycles, and EtO treatment raised potential toxicity concerns. The observed inactivation of viruses with UV-PX, heat, and hydrogen peroxide treatments varied as a function of which culture media (PBS buffer or DMEM) they were deposited in. Conclusions and Relevance: High levels of biological indicator inactivation were achieved following treatment with either moist heat or VHP. These same treatments did not significantly impact mask filtration or fit. Hospitals have a variety of scalable options to safely reprocess N95 masks. Beyond value in the current Covid-19 pandemic, the broad group of microorganisms and conditions tested make these results relevant in potential future pandemic scenarios.",
+    "affiliations": [
+        "University of Michigan for this study. Co-authors from Harvard University were supported by funds from the Heising-Simons Foundation",
+        "University of Michigan"
+    ],
+    "author": "Cole O. Meisenhelder; Herek Clack; Katherine R. Harrison; Lo\u00efc C. Anderegg; Krista R. Wigginton; Adam S. Lauring; Lucinda Li; William J Fitzsimmons; Nicole Rockey; William LeBar; Carol Young; Jania Torreblanca; Lutgarde Raskin; Peter J. Arts; Keith S. Kaye; Amy Cohn; John M. Doyle; Nancy G Love; William W. Roberts; Mirko Gamba",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20084038",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20084038"
+    },
+    "title": "Validation of N95 filtering facepiece respirator decontamination methods available at a large university hospital",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Co-authors from Harvard University"
+                },
+                {
+                    "funding-source": "Heising-Simons Foundation"
+                }
+            ],
+            "funding-statement": "Co-authors from Harvard University were supported by funds from the Heising-Simons Foundation"
+        }
+    ]
+}

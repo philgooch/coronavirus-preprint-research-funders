@@ -1,0 +1,30 @@
+{
+    "abstract": "The global spread of Coronavirus Disease 2019 (COVID-19) is overwhelming many health-care systems. As a result, epidemiological models are being used to inform policy on how to effectively deal with this pandemic. We note that the majority of existing models do not take into account differences in the amount of interactions between individuals (i.e. the underlying human interaction network). Using network science we demonstrate how this network of interactions can be used to predict the spread of the virus and to inform policy on the most successful mitigation and suppression strategies. Although applicable to disease modelling in general, our results emphasize how network science can improve the predictive power of current COVID-19 epidemiological models. We provide commented source code for all our analyses so that they can easily be integrated into current and future epidemiological models.",
+    "author": "Jean-Marc Schwartz; Helena A Herrmann",
+    "date": 2020,
+    "doi": "10.1101/2020.04.02.20050468",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.5281/zenodo.3736466",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20050468"
+    },
+    "title": "Using network science to propose strategies for effectively dealing with pandemics: The COVID-19 example",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Biotechnology and Biological Sciences Research Council"
+                },
+                {
+                    "funding-source": "Doctoral Training Partnership",
+                    "award-id": [
+                        "BB/M011208/1"
+                    ]
+                }
+            ],
+            "funding-statement": "HAH is supported by a Biotechnology and Biological Sciences Research Council (BBSRC) Doctoral Training Partnership stipend (BB/M011208/1)"
+        }
+    ]
+}

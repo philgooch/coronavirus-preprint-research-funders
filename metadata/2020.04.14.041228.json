@@ -1,0 +1,42 @@
+{
+    "title": "The FDA- approved gold drug Auranofin inhibits novel coronavirus (SARS-COV-2) replication and attenuates inflammation in human cells",
+    "keywords": [
+        "SARS-COV-2: COVID-19",
+        "Auranofin",
+        "Anti-viral",
+        "Gold particles"
+    ],
+    "author": "Mukesh Kumar",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biology, College of Arts and Sciences, Georgia State University, Atlanta, Georgia 30303",
+        "Rothan and Mukesh Kumar Department of Biology, College of Arts and Sciences, Georgia State University, 145 Piedmont Ave SE, Atlanta, GA 30303"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.14.041228",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.14.041228.pdf"
+    },
+    "abstract": "SARS-COV-2 has recently emerged as a new public health threat. Herein, we report that the FDA-approved gold drug, auranofin, inhibits SARS-COV-2 replication in human cells at low micro molar concentration. Treatment of cells with auranofin resulted in a 95% reduction in the viral RNA at 48 hours after infection. Auranofin treatment dramatically reduced the expression of SARS-COV-2-induced cytokines in human cells. These data indicate that auranofin could be a useful drug to limit SARS-CoV-2 infection and associated lung injury due to its anti-viral, antiinflammatory and anti-ROS properties. Auranofin has a well-known toxicity profile and is considered safe for human use.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Neurological Disorders and Stroke,",
+                    "award-id": [
+                        "R21OD024896"
+                    ]
+                },
+                {
+                    "funding-source": "Office of the Director, National"
+                },
+                {
+                    "funding-source": "Institutes of Health,"
+                }
+            ],
+            "funding-statement": "This work was supported by a grant (R21NS099838) from National Institute of Neurological Disorders and Stroke, grant (R21OD024896) from the Office of the Director, National Institutes of Health, and Institutional funds"
+        }
+    ]
+}

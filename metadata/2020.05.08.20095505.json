@@ -1,0 +1,26 @@
+{
+    "abstract": "Severe acute respiratory syndrome-coronavirus 2 (SARS CoV 2) is the most significant global health crisis of the 21st century. The aim of this study was to develop a model to estimate the effect of undocumented infections, seasonal infectivity, immunity, and non-pharmaceutical interventions (NPIs), such as social distancing, on the transmission, morbidity, and mortality of SARS-CoV-2 in New York State (NYS). Simulations revealed dramatic infectivity driven by undocumented infections, and a peak basic reproductive number in NYS of 5.7. NPIs have been effective, and relaxation >50% will result in tens-of-thousands more deaths. Endemic infection is likely to occur in the absence of profound sustained immunity. As a result, until an effective vaccine or other effective pharmaceutical intervention is developed, it will be critical to not reduce NPIs >50% below current levels. This study establishes fundamental characteristics of SARS CoV 2 transmission, which can help policymakers navigate combating this virus in the coming years.",
+    "author": "Benjamin U. Hoffman",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095505",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095505"
+    },
+    "title": "Significant Relaxation of SARS-CoV-2-Targeted Non-Pharmaceutical Interventions Will Result in Profound Mortality: A New York State Modelling Study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH MSTP"
+                },
+                {
+                    "funding-source": "NIGMS",
+                    "award-id": [
+                        "T32GM007367"
+                    ]
+                }
+            ],
+            "funding-statement": "The author was funded by a NIH MSTP training grant (NIGMS T32GM007367)"
+        }
+    ]
+}

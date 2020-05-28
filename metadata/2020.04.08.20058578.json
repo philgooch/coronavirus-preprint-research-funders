@@ -1,0 +1,34 @@
+{
+    "abstract": "Objectives To investigate the possible role of Vitamin D (Vit D) deficiency via unregulated inflammation in COVID-19 complications and associated mortality. Design The time-adjusted case mortality ratio (T-CMR) was estimated as the number of deceased patients on day N divided by the number of confirmed cases on day N-8. The adaptive average of T-CMR (A-CMR) was further calculated as a metric of COVID-19 associated mortality in different countries. A model based on positivity change (PC) and an estimated prevalence of COVID-19 was developed to determine countries with similar screening strategies. Mean concentration of 25-hydroxyvitamin D (25(OH)D) in elderly individuals in countries with similar screening strategies were compared to investigate the potential impact of Vit D on A-CMR. We analyzed data showing a possible association between high C-Reactive Protein (CRP) concentration (CRP greater than or equal to 1 mg/dL) and severe COVID-19. We estimated a link between Vit D status and high CRP in healthy subjects (CRP greater than or equal to 0.2 mg/dL) with an adjustment for age and income to explore the possible role of Vit D in reducing complications attributed to unregulated inflammation and cytokine production. Data Sources Daily admission, recovery, and deceased rate data for patients with COVID-19 were collected from Kaggle as of April 20, 2020. Screening data were collected from Our World in Data and official statements from public authorities. The mean concentration of 25(OH)D among the elderly for comparison with A-CMR was collected from previously published studies from different countries. Chronic factor data used in regression analysis was obtained from published articles. The correlation between Vit D and CRP was calculated based on 9,212 subject-level data from NHANES, 2009-2010. Results A link between 25(OH)D and A-CMR in the US, France, Iran and the UK (countries with similar screening status) may exist. We observed an inverse correlation (correlation coefficient ranging from -0.84 to -1) between high CRP and 25(OH)D. Age and the family income status also correlated to high CRP and subjects with higher age and lower family income presented more incidences of high CRP. Our analysis determined a possible link between high CRP and Vit D deficiency and calculated an OR of 1.8 with 95%CI (1.2 to 2.6) among the elderly (age greater than or equal to 60 yo) in low-income families and an OR of 1.9 with 95%CI (1.4 to 2.7) among the elderly (age greater than or equal to 60 yo) in high-income families. COVID-19 patient-level data shows a notable OR of 3.4 with 95%CI (2.15 to 5.4) for high CRP in severe COVID-19 patients. Conclusion Given that CRP is a surrogate marker for cytokine storm and is associated with Vit D deficiency, based on retrospective data and indirect evidence we see a possible role of Vit D in reducing complications attributed to unregulated inflammation and cytokine storm. Further research is needed to account for other factors through direct measurement of Vit D levels in COVID-19 patients.",
+    "author": "Hariharan Subramanian; Adam Eshein; Vasundhara Agrawal; Ali Daneshkhah; Hemant Kumar Roy; Vadim Backman",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20058578",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.1056/NEJMoa2002032",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20058578"
+    },
+    "journal": "NHANES",
+    "title": "The Possible Role of Vitamin D in Suppressing Cytokine Storm and Associated Mortality in COVID-19 Patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Carinato Charitable Foundation, Mark"
+                },
+                {
+                    "funding-source": "Ingeborg Holliday, Kristin"
+                },
+                {
+                    "funding-source": "Hudson & Rob Goldman,"
+                },
+                {
+                    "funding-source": "Ms Susan Brice & Mr Jordi Esteve"
+                }
+            ],
+            "funding-statement": "The authors would also like to acknowledge generous support from the Carinato Charitable Foundation, Mark and Ingeborg Holliday, Kristin Hudson & Rob Goldman, and Ms Susan Brice & Mr Jordi Esteve"
+        }
+    ]
+}

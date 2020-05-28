@@ -1,0 +1,16 @@
+{
+    "abstract": "We model further development of the COVID-19 epidemic in the UK given the current data and assuming different scenarios of handling the epidemic. In this research, we further extend the stochastic model suggested in [1] and incorporate in it all available to us knowledge about parameters characterising the behaviour of the virus and the illness induced by it. The models we use are flexible, comprehensive, fast to run and allow us to incorporate the following: - time-dependent strategies of handling the epidemic; - spatial heterogeneity of the population and heterogeneity of development of epidemic in different areas; - special characteristics of particular groups of people, especially people with specific medical pre-histories and elderly. Standard epidemiological models such as SIR and many of its modifications are not flexible enough and hence are not precise enough in the studies that requires the use of the features above. Decision-makers get serious benefits from using better and more flexible models as they can avoid of nuanced lock-downs, better plan the exit strategy based on local population data, different stages of the epidemic in different areas, making specific recommendations to specific groups of people; all this resulting in a lesser impact on economy, improved forecasts of regional demand upon NHS allowing for intelligent resource allocation.",
+    "author": "Ivan Fesenko; Yakov Kremnitzer; Anatoly Zhigljavsky; Roger Whitaker; Jack Noonan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059451",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059451"
+    },
+    "title": "Comparison of different exit scenarios from the lock-down for COVID-19 epidemic in the UK and assessing uncertainty of the predictions",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding received."
+        }
+    ]
+}

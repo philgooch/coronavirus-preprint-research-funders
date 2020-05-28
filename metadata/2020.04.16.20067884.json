@@ -1,0 +1,38 @@
+{
+    "abstract": "Testing is viewed as a critical aspect of any strategy to tackle the COVID-19 pandemic. Much of the dialogue around testing has concentrated on how countries can scale up capacity, but the uncertainty in testing has not received nearly as much attention beyond asking if a test is accurate enough to be used. Even for highly accurate tests, false positives and false negatives will accumulate as mass testing strategies are employed under pressure, and these misdiagnoses could have major implications on the ability of governments to suppress the virus. The present analysis uses a modified SIR model to understand the implication and magnitude of misdiagnosis in the context of ending lock-down measures. The results indicate that increased testing capacity alone will not provide a solution to lock-down measures in the UK. The progression of the epidemic and peak infections is shown to depend heavily on test characteristics, test targeting, and prevalence of the infection. Antibody based immunity passports are rejected as a solution to ending lockdown, as they can put the population at risk if poorly targeted. Similarly, mass screening for active viral infection may only be beneficial if it can be sufficiently well targeted, otherwise reliance on this approach for protection of the population can again put them at risk. A well targeted active viral test combined with a slow release rate is a viable strategy for continuous suppression of the virus.",
+    "affiliations": [
+        "EPSRC and ESRC Centre for Doctoral Training in Quantification and Management of Risk and Uncertainty in Complex Systems and Environments, EP/L015927/1"
+    ],
+    "author": "Nicholas Gray; Marco De-Angelis; Scott Ferson; Enrique Miralles-Dolz; Dominic Calleja; Vladimir Stepanov; Alexander Wimbush; Elfride Derrer-Merk; Bright Uchenna Oparaji; Ander Gray; Louis Clearkin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067884",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067884"
+    },
+    "title": "\"No test is better than a bad test\": Impact of diagnostic uncertainty in mass testing on the spread of Covid-19 | medRxiv",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "EPSRC IAA",
+                    "award-id": [
+                        "EP/R511729/1"
+                    ]
+                },
+                {
+                    "funding-source": "EPSRC",
+                    "award-id": [
+                        "EP/R006768/1"
+                    ]
+                },
+                {
+                    "funding-source": "EPSRC and ESRC Centre for Doctoral Training in Quantification and Management of Risk and Uncertainty in Complex Systems and Environments, EP",
+                    "award-id": [
+                        "L015927/1"
+                    ]
+                }
+            ],
+            "funding-statement": "This work has been partially funded by the EPSRC IAA exploration award with grant number EP/R511729/1, EPSRC programme grant \"Digital twins for improved dynamic design\", EP/R006768/1, and the EPSRC and ESRC Centre for Doctoral Training in Quantification and Management of Risk and Uncertainty in Complex Systems and Environments, EP/L015927/1"
+        }
+    ]
+}

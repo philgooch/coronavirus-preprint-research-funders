@@ -1,0 +1,97 @@
+{
+    "title": "Estimating the infection and case fatality ratio for COVID-19 using age-adjusted data from the outbreak on the Diamond Princess cruise ship",
+    "author": "Timothy W Russell, Joel Hellewell, Christopher I Jarvis, Kevin Van Zandvoort, Sam Abbott, Ruwan Ratnayake, CMMID COVID-19 working group, Stefan Flasche, Rosalind",
+    "date": 2020,
+    "affiliations": [
+        "Centre for the Mathematical Modelling of Infectious Diseases, Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine, London, United Kingdom",
+        "Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine, London, United Kingdom",
+        "Centre for the Mathematical Modelling of Infectious Diseases (CMMID) COVID-19 working group are listed at the end of the article"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.05.20031773",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.05.20031773.pdf"
+    },
+    "abstract": "Adjusting for delay from confirmation-to-death, we estimated case and infection fatality ratios (CFR, IFR) for COVID-19 on the Diamond Princess ship as 2.3% (0.75%\u20135.3%) and 1.2% (0.38\u20132.7%). Comparing deaths onboard with expected deaths based on naive CFR estimates using China data, we estimate IFR and CFR in China to be 0.5% (95% CI: 0.2\u2013 1.2%) and 1.1% (95% CI: 0.3\u20132.4%) respectively.\nMain text\nIn real-time, estimates of the case fatality ratio (CFR) and infection fatality ratio (IFR) can be biased upwards by under-reporting of cases and downwards by failure to account for the delay from confirmation-to-death. Collecting detailed epidemiological information from a closed population such as the quarantined Diamond Princess can produce a more comprehensive description of asymptomatic and symptomatic cases and their subsequent outcomes. Using data from the Diamond Princess, and adjusting for delay from confirmation-to-outcome and agestructure of the ship\u2019s occupants, we estimated the IFR and CFR for the outbreak in China. As of 3rd March 2020, there have been 92,809 confirmed cases of coronavirus disease 2019 (COVID-19), with 3,164 deaths [1]. On 1st February 2020, a patient tested positive for COVID-19 in Hong Kong; they disembarked from the Diamond Princess cruise ship on the 25th January [2,3]. This patient had onset of symptoms on the 19th January, one day before boarding the ship",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "JH SA, SF"
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "206250/Z/17/Z",
+                        "210758/Z/18/Z",
+                        "210758/Z/18/Z",
+                        "210758/Z/18/Z",
+                        "208812/Z/17/Z",
+                        "206250/Z/17/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "TWR, JH SA, SF and AJK are supported by the Wellcome Trust (grant numbers: 206250/Z/17/Z, 210758/Z/18/Z, 210758/Z/18/Z, 210758/Z/18/Z, 208812/Z/17/Z, 206250/Z/17/Z)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Global Challenges Research Fund"
+                },
+                {
+                    "funding-source": "RCUK and ESRC",
+                    "award-id": [
+                        "ES/P010873/1"
+                    ]
+                }
+            ],
+            "funding-statement": "CIJ is supported by Global Challenges Research Fund (GCRF) project \u2018RECAP\u2019 managed through RCUK and ESRC (ES/P010873/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Elrha\u2019s Research for Health in Humanitarian Crises"
+                }
+            ],
+            "funding-statement": "KvZ is supported by Elrha\u2019s Research for Health in Humanitarian Crises (R2HC) Programme, which aims to improve health outcomes by strengthening the evidence base for public health interventions in humanitarian crises"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Government"
+                },
+                {
+                    "funding-source": "Wellcome Trust,"
+                },
+                {
+                    "funding-source": "UK National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                }
+            ],
+            "funding-statement": "The R2HC programme is funded by the UK Government (DFID), the Wellcome Trust, and the UK National Institute for Health Research (NIHR)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Canadian Institutes of Health Research"
+                }
+            ],
+            "funding-statement": "RR is supported by Canadian Institutes of Health Research (Award no"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "HDR UK",
+                    "award-id": [
+                        "MR/S003975/1"
+                    ]
+                }
+            ],
+            "funding-statement": "RME is supported by HDR UK (grant: MR/S003975/1)"
+        }
+    ]
+}

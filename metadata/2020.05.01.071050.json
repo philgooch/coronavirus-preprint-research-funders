@@ -1,0 +1,20 @@
+{
+    "title": "CoV-Seq: SARS-CoV-2 Genome Analysis and Visualization",
+    "date": 2020,
+    "author": "Genome Analysis",
+    "affiliations": [
+        "School of Electrical Engineering & Computer Science, Oregon State University, Corvallis, OR 97330, USA"
+    ],
+    "journal": "The Authors",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.01.071050",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.01.071050.pdf"
+    },
+    "abstract": "Summary: COVID-19 has become a global pandemic not long after its inception in late 2019. SARS-CoV2 genomes are being sequenced and shared on public repositories at a fast pace. To keep up with these updates, scientists need to frequently refresh and reclean datasets, which is ad hoc and labor-intensive. Further, scientists with limited bioinformatics or programming knowledge may find it difficult to analyze SARS-CoV-2 genomes. In order to address these challenges, we developed CoV-Seq, a webserver to enable simple and rapid analysis of SARS-CoV-2 genomes. Given a new sequence, CoV-Seq automatically predicts gene boundaries and identifies genetic variants, which are presented in an interactive genome visualizer and are downloadable for further analysis. A command-line interface is also available for highthroughput processing. Availability and Implementation: CoV-Seq is implemented in Python and Javascript. The webserver is available at http://covseq.baidu.com/ and the source code is available from https://github. com/boxiangliu/covseq. Contact: jollier.liu@gmail.com Supplementary information: Supplementary information are available at bioRxiv online.",
+    "funding": [
+        {}
+    ]
+}

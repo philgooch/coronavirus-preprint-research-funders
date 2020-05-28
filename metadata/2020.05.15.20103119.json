@@ -1,0 +1,16 @@
+{
+    "abstract": "Background COVID19 case fatality rate in hospitalized patients varies across countries and studies, but reliable estimates specific for age, sex, and comorbidities are needed to design trials for COVID19 interventions. Aim of this study is to provide population-based survival curves of hospitalized COVID19 patients. Methods A cohort study was conducted in Lombardy, Veneto, and Reggio Emilia using COVID19 registries linked to hospital discharge databases containing patient clinical histories. All patients with positive SARS CoV 2 RTPCR test on oral/nasopharyngeal swabs hospitalized from 21st February to 21st April 2020 were identified. Kaplan Meier survival estimates were calculated at 14 and 30 days for death in any setting, stratifying by age, sex and Charlson Index. Findings Overall 42,926 hospitalized COVID19 patients were identified. Patients' median age was 69 years (IQR: 57; 79), 62.6% were males, 69.4% had a Charlson Index of 0. In total, 11,205 (26.1%) patients died over a median follow-up of 24 days (IQR: 10; 35). Survival curves showed that 22.0% of patients died within 14 days and 27.6% within 30 days of hospitalization. Survival was higher in younger patients and in females. Younger patients with comorbidities had a lower survival than older ones with comorbidities. Interpretation Over 27% of hospitalized COVID19 patients died within one month in three areas of Northern Italy that were heavily affected by SARS CoV 2 infection. Such a high fatality rate suggests that trials should focus on survival and have follow-up of at least one month.",
+    "author": "Olivia Leoni; Danilo Cereda; Janet Sultana; Gianluca Trifiro'; Stefania Spila Alegiani; Marco Massari; Eliana Ferroni; Massimiliano Marino; Gisella Pitter; Michele Pellizzari; Paolo Giorgi Rossi",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103119",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103119"
+    },
+    "title": "Survival of hospitalized COVID-19 patients in Northern Italy: a population-based cohort study by the ITA-COVID19 Network",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The study did not receive any external funding."
+        }
+    ]
+}

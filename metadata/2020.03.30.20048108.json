@@ -1,0 +1,34 @@
+{
+    "abstract": "The recent spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) exemplifies the critical need for accurate and rapid diagnostic assays to prompt clinical and public health interventions. Currently, several quantitative reverse-transcription polymerase chain reaction (qRT-PCR) assays are being used by clinical, research, and public health laboratories. However, it is currently unclear if results from different tests are comparable. Our goal was to evaluate the primer-probe sets used in four common diagnostic assays available on the World Health Organization (WHO) website. To facilitate this effort, we generated RNA transcripts to be used as assay standards and distributed them to other laboratories for internal validation. We then used (1) RNA transcript standards, (2) full-length SARS-CoV-2 RNA, (3) pre-COVID-19 nasopharyngeal swabs, and (4) clinical samples from COVID-19 patients to determine analytical efficiency and sensitivity of the qRT-PCR primer-probe sets. We show that all primer-probe sets can be used to detect SARS-CoV-2 at 500 virus copies per reaction, except for the RdRp-SARSr (Charite) confirmatory primer-probe set which has low sensitivity. Our findings characterize the limitations of currently used primer-probe sets and can assist other laboratories in selecting appropriate assays for the detection of SARS-CoV-2.",
+    "affiliations": [
+        "Yale Institute for Global Health and the Yale School of Public Health start-up package provided to NDG. CBFV is supported by NWO Rubicon 019.181EN.004"
+    ],
+    "author": "Orr-El Weizman; Pavithra Vijayakumar; Peiwen Lu; Ji Eun Oh; Isabel M. Ott; Yexin Yang; Sarah Lapidus; Takehiro Takehashi; Bertie Geng; Anne Louise Wyllie; Ellen F. Foxman; Santos Bermejo; Mary E. Petrone; Camila Odio; John Fournier; Anderson F. Brito; M. Catherine Muenker; Jonathan Klein; Elizabeth White; Daniel J. Kim; Maria Tokuyama; Alice Lu-Culligan; Akiko Iwasaki; Joseph R Fauver; Nagarjuna R. Cheemarla; Miyu Moriyama; Manabu Taura; Albert I. Ko; Charles Dela Cruz; Rebecca Earnest; Nathan D. Grubaugh; Julio Silva; Eriko Kudo; Chaney C. Kalinich; Tianyang Mao; Annsea Park; Adam J. Moore; Chantal B.F. Vogels; Arnau Casanovas-Massana; Arvind Venkataraman; Eric Song; Patrick Wong; Xiaodong Jiang; Marie-Louise Landry; Shelli Farhadian",
+    "date": 2020,
+    "doi": "10.1101/2020.03.30.20048108",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.30.20048108"
+    },
+    "title": "Analytical sensitivity and efficiency comparisons of SARS-COV-2 qRT-PCR primer-probe sets",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Yale Institute for Global Health and the Yale School of Public Health"
+                }
+            ],
+            "funding-statement": "This research was funded by the generous support from the Yale Institute for Global Health and the Yale School of Public Health start-up package provided to NDG"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NWO Rubicon",
+                    "award-id": [
+                        "181EN"
+                    ]
+                }
+            ],
+            "funding-statement": "CBFV is supported by NWO Rubicon 019.181EN.004"
+        }
+    ]
+}

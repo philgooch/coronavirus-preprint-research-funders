@@ -1,0 +1,16 @@
+{
+    "abstract": "Introduction Early differentiation between emergency department (ED) patients with and without corona virus disease (COVID-19) is very important. Chest CT scan may be helpful in early diagnosing of COVID-19. We investigated the diagnostic accuracy of CT using RT-PCR for SARS-CoV-2 as reference standard and investigated reasons for discordant results between the two tests. Methods In this prospective single centre study in the Netherlands, all adult symptomatic ED patients had both a CT scan and a PCR upon arrival at the ED. CT results were compared with PCR test(s). Diagnostic accuracy was calculated. Discordant results were investigated using discharge diagnoses. Results Between March 13th and March 24th 2020, 193 symptomatic ED patients were included. In total, 43.0% of patients had a positive PCR and 56.5% a positive CT, resulting in a sensitivity of 89.2%, specificity 68.2%, likelihoodratio (LR) + 2.81 and LR- 0.16. Sensitivity was higher in patients with high risk pneumonia (CURB-65 score \u22653; n=17, 100%) and with sepsis (SOFA score \u22652; n=137, 95.5%). Of the 35 patients (31.8%) with a suspicious CT and a negative PCR, 9 had another respiratory viral pathogen, and in 7 patients, COVID-19 was considered likely. One of nine patients with a non-suspicious CT and a positive PCR had developed symptoms within 48 hours before scanning. Discussion The accuracy of chest CT in symptomatic ED patients is high, but used as a single diagnostic test, CT can not safely diagnose or exclude COVID-19. However, CT can be used as a quick first screening tool.",
+    "author": "Lieke B van Alphen; Lars J.G. Lambriks; Astrid M.L. Oude Lashof; Irene C Nelissen; Patricia M Stassen; Noortje Zelis; Joachim E Wildberger; J. Martijn Nobel; Hester A Gietema",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20070441",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20070441"
+    },
+    "title": "CT in relation to RT-PCR in diagnosing COVID-19 in the Netherlands: a prospective study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no funding applicable</strong>"
+        }
+    ]
+}

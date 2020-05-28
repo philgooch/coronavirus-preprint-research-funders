@@ -1,0 +1,22 @@
+{
+    "abstract": "Background The reported crude case-fatality rates (CFRs) vary widely between countries. The serious limitations of using crude COVID-19 CFRs for comparisons between countries have been addressed in the literature but are still either overlooked or misunderstood. In this paper we examined the extent to which age distribution of the cases is responsible for the differences in CFRs between countries. Methods Data on COVID-19 were extracted from the reports of individual countries. Overall and age-specific CFRs were available for six countries. The CFRs by country were adjusted for age using the direct method, using the combined age-specific number of cases of all six countries as the standard population. Findings The age distribution of the cases varied widely between countries. The crude CFRs varied between 1.6% and 11%. The differences in the age-specific CFRs were much smaller and the age-adjusted rates were much closer than the crude rates. The ratio of the crude CFR for the country with the highest to that with the lowest, was reduced substantially from 7.4 to 2.3 for the age-adjusted rates. Conclusions The age structure of the cases dramatically impacts on the differences in the crude CFRs between countries. Adjusting for age substantially reduces this variation. Other factors such as the differences in the definition of the denominators, the definition of a case and the standard of healthcare are likely to account for much of the residual variation. It is misleading to compare the crude COVID-19 CFRs between countries and should be avoided. At the very least, comparisons should be based on age-specific and age-adjusted rates. Key words: COVID-19, case-fatality rates, age-specific rates, age-adjusted rates, confounding No funding was provided for this study. The authors declare no conflict of interests",
+    "author": "Manfred S Green; Victoria Peer; Dorit Nitzan",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20096503",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20096503"
+    },
+    "keywords": [
+        "COVID-19",
+        "case-fatality rates",
+        "age-specific rates",
+        "age-adjusted rates"
+    ],
+    "title": "The confounded crude case-fatality rates for COVID-19 hide more than they reveal - a comparison of age-specific and age-adjusted rates between six countries",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for this study"
+        }
+    ]
+}

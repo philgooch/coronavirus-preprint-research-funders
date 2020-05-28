@@ -1,0 +1,16 @@
+{
+    "abstract": "We present a robust data-driven machine learning analysis of the COVID-19 pandemic from its early infection dynamics, specifically infection counts over time. The goal is to extract actionable public health insights. These insights include the infectious force, the rate of a mild infection becoming serious, estimates for asymtomatic infections and predictions of new infections over time. We focus on USA data starting from the first confirmed infection on January 20 2020. Our methods reveal significant asymptomatic (hidden) infection, a lag of about 10 days, and we quantitatively confirm that the infectious force is strong with about a 0.14% transition from mild to serious infection. Our methods are efficient, robust and general, being agnostic to the specific virus and applicable to different populations or cohorts.",
+    "author": "Malik Magdon-Ismail",
+    "date": 2020,
+    "doi": "10.1101/2020.03.17.20037309",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.17.20037309"
+    },
+    "title": "Machine Learning the Phenomenology of COVID-19 From Early Infection Dynamics",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

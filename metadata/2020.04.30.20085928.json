@@ -1,0 +1,48 @@
+{
+    "title": "COVID-19 in breast cancer patients: a cohort at the Institut Curie hospitals in the Paris area",
+    "author": "FC Bidard",
+    "date": 2020,
+    "affiliations": [
+        "Institut Curie hospitals in the Paris area Perrine Vuagnat1,2, Maxime Frelaut3, Toulsie Ramtohul4, Cl\u00e9mence Basse2, Sarah Diakite2, Aur\u00e9lien Noret2, Audrey Bellesoeur2, Vincent Servois4, Delphine Hequet5, Enora Laas5, Youlia Kirova6, Luc Cabel2, Jean-Yves Pierga2,7, Institut Curie Breast Cancer and COVID Group, Laurence Bozec2*, Xavier Paoletti1,8*, Paul Cottu2*, Fran\u00e7ois-Cl\u00e9ment Bidard1,2*",
+        "UVSQ, Universit\u00e9 Paris-Saclay, Saint Cloud, France",
+        "Department of Medical Oncology, Institut Curie, Paris & Saint Cloud, France",
+        "Department of Drug Development and Innovation, Institut Curie, Paris, France",
+        "Department of Radiology, Institut Curie, Paris, France",
+        "Department of Surgical Oncology, Institut Curie, Paris, France",
+        "Department of Radiation Oncology, Institut Curie, Paris, France",
+        "Universit\u00e9 de Paris, Paris, France",
+        "INSERM U900 STAMPM team, Saint Cloud, France * equal contribution",
+        "Institut Curie hospitals (ICH) in the Paris area, France"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.30.20085928",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20085928.pdf"
+    },
+    "abstract": "Background: Cancer patients have been reported to be at higher risk of COVID-19 complications and deaths. We report the characteristics and outcome of patients diagnosed with COVID-19 during breast cancer treatment at Institut Curie hospitals (ICH, Paris area, France). Methods: An IRB-approved prospective registry was set up at ICH on March 13th, 2020 for all breast cancer patients with COVID-19 symptoms or radiologic signs. Registered data included patient history, tumor characteristics and treatments, COVID-19 symptoms, radiological features and outcome. Data extraction was done on April 25th, 2020. COVID-19 patients were defined as those with either a positive RNA test or typical, newly appeared lung CT-scan abnormalities.\nResults: Among 15,600 patients actively treated for early or metastatic breast cancer during the last 4 months at ICH, 76 patients with suspected COVID-19 infection were included in the registry and followed. Fifty-nine of these patients were diagnosed with COVID-19 based on viral RNA testing (N=41) or typical radiologic signs: 37/59 (63%) COVID-19 patients were treated for metastatic breast cancer, and 13/59 (22%) of them were taking corticosteroids daily. Common clinical features mostly consisted of fever and/or cough, while ground-glass opacities were the most common radiologic sign at diagnosis. We found no association between prior radiation therapy fields or extent of radiation therapy sequelae and extent of COVID-19 lung lesions. Twenty-eight of these 59 patients (47%) were hospitalized and 6 (10%) were transferred to an intensive care unit. At the time of analysis, 45/59 (76%) patients were recovering or had been cured, 10/59 (17%) were still followed and 4/59 (7%) had died from COVID-19. All 4 patients who died had significant non-cancer comorbidities. In univariate analysis, hypertension and age (>70) were the two factors associated with a higher risk of intensive care unit admission and/or death.\nConclusions: This prospective registry analysis suggests that the COVID-19 mortality rate in breast cancer patients depends more on comorbidities than prior radiation therapy or current anti-cancer treatment. Special attention must be paid to comorbidities when estimating the risk of severe COVID-19 in breast cancer patients.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "breast cancer",
+        "outcome",
+        "survival"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding Institut Curie, Universit\u00e9"
+                },
+                {
+                    "funding-source": "Versailles Saint Quentin and Universit\u00e9 Paris-Saclay",
+                    "award-id": [
+                        "applicable"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding Institut Curie, Universit\u00e9 de Versailles Saint Quentin and Universit\u00e9 Paris-Saclay (no grant number applicable)"
+        }
+    ]
+}

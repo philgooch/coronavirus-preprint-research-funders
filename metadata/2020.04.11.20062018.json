@@ -1,0 +1,64 @@
+{
+    "abstract": "The unprecedented pandemic of SARS-CoV-2 has created worldwide shortages of personal protective equipment, in particular respiratory protection such as N95 respirators. SARS-CoV-2 transmission is frequently occurring in hospital settings, with numerous reported cases of nosocomial transmission highlighting the vulnerability of healthcare workers. In general, N95 respirators are designed for single use prior to disposal. Here, we have analyzed four readily available and often used decontamination methods: UV, 70% ethanol, 70C heat and vaporized hydrogen peroxide for inactivation of SARS-CoV-2 on N95 respirators. Equally important we assessed the function of the N95 respirators after multiple wear and decontamination sessions.",
+    "affiliations": [
+        "Program of the National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH). JOL-S and AG were supported by the Defense Advanced Research Projects Agency DARPA PREEMPT # D18AC00031 and the UCLA AIDS Institute and Charity Treks, and JOL-S was supported by the U.S. National Science Foundation (DEB-1557022), the Strategic Environmental Research and Development Program (SERDP, RC-2635) of the U.S. Department of Defense. no payment was received from third parties"
+    ],
+    "author": "Dylan H Morris; Claude Kwe Yinda; Seth Judson; Trenton Bushmaker; Emmie de Wit; Shanda Sarchette; Neeltje van Doremalen; Brandi Williamson; Vincent Munster; Stephanie Seifert; Amandine Gamble; Robert Fischer; Jeremiah Matson; Jamie Lloyd-Smith",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20062018",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20062018"
+    },
+    "title": "Assessment of N95 respirator decontamination and re-use for SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intramural Research Program of the National Institute of Allergy and Infectious Diseases"
+                },
+                {
+                    "funding-source": "National Institutes of Health"
+                },
+                {
+                    "funding-source": "NIH"
+                }
+            ],
+            "funding-statement": "This research was supported by the Intramural Research Program of the National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "JOL-S and AG"
+                },
+                {
+                    "funding-source": "Defense Advanced Research Projects Agency DARPA PREEMPT",
+                    "award-id": [
+                        "D18AC00031"
+                    ]
+                },
+                {
+                    "funding-source": "UCLA AIDS Institute and Charity Treks,",
+                    "award-id": [
+                        "JOL-S"
+                    ]
+                },
+                {
+                    "funding-source": "U.S National Science Foundation",
+                    "award-id": [
+                        "DEB-1557022"
+                    ]
+                },
+                {
+                    "funding-source": "Strategic Environmental Research and Development Program",
+                    "award-id": [
+                        "RC-2635"
+                    ]
+                },
+                {
+                    "funding-source": "U.S Department of Defense."
+                }
+            ],
+            "funding-statement": "JOL-S and AG were supported by the Defense Advanced Research Projects Agency DARPA PREEMPT # D18AC00031 and the UCLA AIDS Institute and Charity Treks, and JOL-S was supported by the U.S National Science Foundation (DEB-1557022), the Strategic Environmental Research and Development Program (SERDP, RC-2635) of the U.S Department of Defense. no payment was received from third parties"
+        }
+    ]
+}

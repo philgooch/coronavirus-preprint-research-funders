@@ -1,0 +1,68 @@
+{
+    "title": "Controlling the SARS-CoV-2 outbreak, insights from large scale whole genome sequences generated across the world",
+    "author": "Jody Phelan , Wouter Deelder , Daniel Ward , Susana Campino , Martin L. Hibberd , Taane G",
+    "date": 2020,
+    "affiliations": [
+        "Faculty of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine, London, United Kingdom",
+        "Faculty of Epidemiology and Population Health, London School of Hygiene & Tropical Medicine, Keppel Street, London, WC1E 7HT, United Kingdom",
+        "Dalberg Advisors",
+        "Rue de Chantepoulet, CH-1201 Geneva, Switzerland",
+        "Martin Hibberd Department of Infection Biology London School of Hygiene and Tropical Medicine Keppel Street, London WC1E 7HT"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.28.066977",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.28.066977.pdf"
+    },
+    "abstract": "Background: SARS-CoV-2 most likely evolved from a bat beta-coronavirus and started infecting humans in December 2019. Since then it has rapidly infected people around the world, with more than 4.5 million confirmed cases by the middle of May 2020. Early genome sequencing of the virus has enabled the development of molecular diagnostics and the commencement of therapy and vaccine development. The analysis of the early sequences showed relatively few evolutionary selection pressures. However, with the rapid worldwide expansion into diverse human populations, significant genetic variations are becoming increasingly likely. The current limitations on social movement between countries also offers the opportunity for these viral variants to become distinct strains with potential implications for diagnostics, therapies and vaccines.\nMethods: We used the current sequencing archives (NCBI and GISAID) to investigate 15,487 whole genomes, looking for evidence of strain diversification and selective pressure.\nResults: We used 6,294 SNPs to build a phylogenetic tree of SARS-CoV-2 diversity and noted strong evidence for the existence of two major clades and six sub-clades, unevenly distributed across the world. We also noted that convergent evolution has potentially occurred across several locations in the genome, showing selection pressures, including on the spike glycoprotein where we noted a potentially critical mutation that could affect its binding to the ACE2 receptor. We also report on mutations that could prevent current molecular diagnostics from detecting some of the sub-clades.\nConclusions: The worldwide whole genome sequencing effort is revealing the challenge of developing",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "phylogeny",
+        "selection"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bloomsbury SET"
+                },
+                {
+                    "funding-source": "Bloomsbury Research PhD"
+                },
+                {
+                    "funding-source": "Medical Research Council UK",
+                    "award-id": [
+                        "MR/M01360X/1",
+                        "MR/R025576/1",
+                        "MR/R020973/1"
+                    ]
+                },
+                {
+                    "funding-source": "BBSRC",
+                    "award-id": [
+                        "BB/R013063/1"
+                    ]
+                },
+                {
+                    "funding-source": "Medical Research Council UK",
+                    "award-id": [
+                        "MR/M01360X/1",
+                        "MR/N010469/1",
+                        "MR/R025576/1",
+                        "MR/R020973/1"
+                    ]
+                },
+                {
+                    "funding-source": "BBSRC",
+                    "award-id": [
+                        "BB/R013063/1"
+                    ]
+                }
+            ],
+            "funding-statement": "JP is funded by Bloomsbury SET funding. DW is funded by a Bloomsbury Research PhD studentship. SC is funded by Medical Research Council UK grants (MR/M01360X/1, MR/R025576/1, and MR/R020973/1) and BBSRC (Grant no. BB/R013063/1). TGC is funded by the Medical Research Council UK (Grant no. MR/M01360X/1, MR/N010469/1, MR/R025576/1, and MR/R020973/1) and BBSRC (Grant no. BB/R013063/1)."
+        }
+    ]
+}

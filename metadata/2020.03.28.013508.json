@@ -1,0 +1,61 @@
+{
+    "title": "SARS-CoV-2 detection from nasopharyngeal swab samples without RNA extraction",
+    "keywords": [
+        "SARS-CoV-2",
+        "2019-nCoV",
+        "COVID-19",
+        "RNA extraction",
+        "RT-qPCR"
+    ],
+    "author": "Ricardo Soto Rifo",
+    "date": 2020,
+    "affiliations": [
+        "Laboratory of Molecular and Cellular Virology, Virology Program, Institute of Biomedical Sciences, Faculty of Medicine, Universidad de Chile",
+        "Servicio de Laboratorio Cl\u00ednico, Hospital Cl\u00ednico de la Universidad de Chile \"Dr. Jos\u00e9 Joaqu\u00edn Aguirre\", Santiago, Chile",
+        "Laboratory of Environmental Virology, Virology Program, Institute of Biomedical Sciences, Faculty of Medicine, Universidad de Chile",
+        "Laboratory of Emerging Viruses, Virology Program, Institute of Biomedical Sciences, Faculty of Medicine, Universidad de Chile",
+        "HIV/AIDS Work Group, Faculty of Medicine, Universidad de Chile",
+        "Committee of the Faculty of Medicine at Universidad de Chile in order to improve SARS-CoV-2 detection strategies using a larger number of Human samples",
+        "Instituto Nacional Ant\u00e1rtico de Chile RT_35-19 (GB-P); Proyecto de Internacionalizaci\u00f3n UCH-1566 (CB-P). Authors wish also thanks to Thermo Fisher Scientific Chile for providing technical support and the Chilean Science, Technology, Knowledge and Innovation Ministry for articulating and coordinating support from the scientific community"
+    ],
+    "journal": "Keywords",
+    "volume": "2",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.28.013508",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.28.013508.pdf"
+    },
+    "abstract": "The ongoing COVID-19 pandemic has reached more than 200 countries and territories worldwide. Given the large requirement of SARS-CoV-2 diagnosis and considering that RNA extraction kits are in short supply, we investigated whether two commercial RT-qPCR kits were compatible with direct SARSCoV-2 detection from nasopharyngeal swab samples. We show that one of the tested kits is fully compatible with direct SARS-CoV-2 detection suggesting that omission of an RNA extraction step should be considered in SARS-CoV-2 diagnosis.\nOverview Two coronaviruses, SARS-CoV (severe acute respiratory syndrome coronavirus) and MERS-CoV (Middle East respiratory syndrome coronavirus) caused large-scale severe respiratory syndromes in humans in 2002 and 2013, respectively 1, 2. A recent outbreak of pneumonia in Wuhan, China declared in December 12th 2019 led to the isolation and identification of a new human coronavirus, 2019-nCoV (SARS-CoV-2), as the responsible agent of this new acute respiratory syndrome 3. Since, SARS-CoV2 and the Coronavirus disease 19 (COVID-19) have spread to more than 200 countries and territories worldwide affecting more than 600,000 people (laboratory-confirmed cases) from which around 28,000 have died by COVID-19 4. As such, the WHO declared COVID-19 outbreak as a pandemic on March 11th 2020 5. Given the rapid spread of the SARS-CoV-2 virus and that an important fraction of the infected individuals remains asymptomatic but still spread the virus 6, rapid and extensive diagnosis together with the isolation of infected individuals remains as one of the most powerful ways to avoid the spread of new COVID-19 cases. There are several RT-qPCR protocols from different countries that are currently approved by the WHO in order to detect SARS-CoV-2 7. However, one of the limiting steps of such protocols is RNA extraction from clinical samples, which is currently performed by the use of a limited quantity of approved RNA extraction kits. Since the current demand for those kits largely exceeds their offer, it is necessary to develop alternative strategies allowing a rapid detection of the virus. This becomes more important in middle- and low-income countries, which will not have massive access to kit-based diagnosis 8, 9. In this sense, it was recently reported that the detection of SARSCoV-2 by RT-qPCR from a mixed sample could be achieved with non-approved kits but also in the absence of an RNA extraction process 10. Here, we have extended these preliminary observations by using an RNA extraction-free SARS-CoV-2 detection protocol from nasopharyngeal swab samples from two COVID-19 diagnosed individuals using two commercially available and broadly used RT-qPCR kits. Our data indicate that RNA extraction can be omitted from the protocol at least with one of the tested kits allowing the rapid and reliable detection of SARS-CoV-2 directly from nasopharyngeal swabs samples.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ANID Chile",
+                    "award-id": [
+                        "1181656",
+                        "1190156",
+                        "RS-R",
+                        "FV-E",
+                        "3200556"
+                    ]
+                },
+                {
+                    "funding-source": "Instituto Nacional Ant\u00e1rtico de Chile",
+                    "award-id": [
+                        "RT_35-19",
+                        "GB-P"
+                    ]
+                },
+                {
+                    "funding-source": "Proyecto de Internacionalizaci\u00f3n UCH-1566",
+                    "award-id": [
+                        "CB-P"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors are supported by ANID Chile through Fondecyt grants No 1181656 (AG), 1190156 (RS-R), (FV-E), 3200556 (CLM); Instituto Nacional Ant\u00e1rtico de Chile RT_35-19 (GB-P); Proyecto de Internacionalizaci\u00f3n UCH-1566 (CB-P)"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "abstract": "Background: COVID-19 has been deeply affecting people's lives all over the world. It is significant for prevention and control to model the evolution effectively and efficiently . Methods: We first propose the multi-chain Fudan-CCDC model which is based on the original single-chain model to describe the revival of COVID-19 in some countries. Multi-chains are considered as the superposition of distinctive single chains. Parameter identification is carried out by minimizing the penalty function. Results: From results of numerical simulations, the multi-chain model performs well on data fitting and reasonably interprets the revival phenomena. The band of 25% fluctuation of simulation results could contain most seemly unsteady increments. Conclusion: The multi-chain model has better performance on data fitting in revival situations compared with the single-chain model. It is predicted by the three-chain model with data by Apr 21 that the epidemic curve of Iran would level off on round May 10, and the final cumulative confirmed cases would be around 88820. The upper bound of the 95% confidence interval would be around 96000.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Science Foundation of China (11671098, 91630309). Jin Cheng is supported in part by the National Science Foundation of China (11971121)"
+    ],
+    "author": "Yasin Fadaei; Yue Yan; Nian Shao; Jin Cheng; Wenbin Chen; Ali Ahmadi; Hanshuang Pan; Xinyue Luo",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075630",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075630"
+    },
+    "title": "Multi-chain Fudan-CCDC model for COVID-19 in Iran",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wenbin Chen"
+                },
+                {
+                    "funding-source": "National Science Foundation of China",
+                    "award-id": [
+                        "11671098",
+                        "91630309"
+                    ]
+                }
+            ],
+            "funding-statement": "Wenbin Chen is supported by the National Science Foundation of China (11671098, 91630309)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Jin Cheng"
+                },
+                {
+                    "funding-source": "National Science Foundation of China",
+                    "award-id": [
+                        "11971121"
+                    ]
+                }
+            ],
+            "funding-statement": "Jin Cheng is supported in part by the National Science Foundation of China (11971121)"
+        }
+    ]
+}

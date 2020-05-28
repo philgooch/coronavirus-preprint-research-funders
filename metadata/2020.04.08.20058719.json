@@ -1,0 +1,33 @@
+{
+    "abstract": "Background: There is uncertainty about the role of different age groups in propagating the SARS-CoV-2 epidemics in different countries, particularly under current social distancing practices. Methods: We used the Robert Koch Institute data on weekly COVID-19 cases in different age groups in Germany. To minimize the effect of changes in healthcare seeking behavior (e.g. for older adults) and testing practices, we included the following eight 5-year age groups in the analyses: 10-14y through 45-49y. For each age group g, we considered the proportion PL(g) of individuals in age group g among all detected cases aged 10-49y during weeks 13-14, 2020 (later period), as well as corresponding proportion PE(g) for weeks 10-11, 2020 (early period), and defined the relative risk RR(g) for the age group g to be the ratio RR(g)=PL(g)/PE(g). For each pair of age groups g1,g2, a higher value of RR(g1) compared to RR(g2), or, alternatively, a value above 1 for the odds ratio OR(g1,g2)=RR(g1)/RR(g2) for a COVID-19 case to be in group g1 vs. g2 for the later vs. early periods is interpreted as the relative increase in the population incidence of SARS-Cov-2 in the age group g1 compared to g2 for the later vs. early period. Results: The relative risk RR(g) was highest for individuals aged 20-24y (RR=1.4(95% CI (1.27,1.55))), followed by individuals aged 15-19y (RR=1.14(0.99,1.32)), aged 30-34y (RR= 1.07(0.99,1.16)), aged 25-29y (RR= 1.06(0.98,1.15)), aged 35-39y (RR=0.95(0.87,1.03)), aged 40-44y (RR=0.9(0.83,0.98)), aged 45-49y (RR=0.83(0.77,0.89)) and aged 10-14y (RR=0.78(0.64,0.95)). For the age group 20-24y, the odds ratio relative to any other age group for a case to be during the later vs. early period was significantly above 1. For the age group 15-19y, the odds ratio relative to any other age group either above 35y or 10-14y for a case to be during the later vs. early period was significantly above 1. Conclusions: The observed relative increase with time in the prevalence of individuals aged 15-34y (particularly those aged 20-24y) among detected COVID-19 cases in Germany is unlikely to be explained by increases in the likelihood of seeking medical care or the likelihood of being tested for individuals in those age groups compared to individuals aged 35-49y or 10-14y, and should be indicative of the actual increase in the prevalence of individuals aged 15-34y among SARS-CoV-2 infections in the German population. That increase likely reflects elevated mixing among individuals aged 15-34y (particularly those aged 20-24y) compared to other age groups, possibly due to lesser adherence to social distancing practices.\nCompeting Interest Statement",
+    "affiliations": [
+        "For the age group 15-19y, the odds ratio relative to any other age group either above 35y or 10-14y for a case to be during the later vs. early period was significantly above",
+        "National Institute of General Medical Sciences (ML, EG), and the Morris-Singer Fund for the Center for Communicable Disease Dynamics (ML). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institute Of General Medical Sciences"
+    ],
+    "author": "Marc Lipsitch; Edward Goldstein",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20058719",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20058719"
+    },
+    "title": "Temporal rise in the proportion of both younger adults and older adolescents among COVID-19 cases in Germany: evidence of lesser adherence to social distancing practices?",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Award Number",
+                    "award-id": [
+                        "U54GM088558"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of General Medical Sciences"
+                },
+                {
+                    "funding-source": "Morris-Singer Fund for the Center for Communicable Disease Dynamics"
+                }
+            ],
+            "funding-statement": "This work was supported by Award Number U54GM088558 from the National Institute of General Medical Sciences (ML, EG), and the Morris-Singer Fund for the Center for Communicable Disease Dynamics (ML)"
+        }
+    ]
+}

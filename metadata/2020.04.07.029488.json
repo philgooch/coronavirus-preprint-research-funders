@@ -1,0 +1,42 @@
+{
+    "title": "Vulnerabilities of the SARS-CoV-2 virus to proteotoxicity \u2013 opportunity for repurposed chemotherapy of COVID-19 infection",
+    "author": "Maryam Al-Motawa, Hafsa Abbas, Patrick Wijten, Alberto de la Fuente, Mingzhan Xue, Naila Rabbani,* and Paul J. Thornalley",
+    "date": 2020,
+    "affiliations": [
+        "Diabetes Research Center, Qatar Biomedical Research Institute, Hamad Bin Khalifa University, Qatar Foundation, P.O. Box 34110, Doha, Qatar",
+        "College of Health and Life Sciences, Hamad Bin Khalifa University, Qatar Foundation, P.O. Box 34110, Doha, Qatar",
+        "Clinical Sciences Research Laboratories, Warwick Medical School, University of Warwick, University Hospital, Coventry CV2 2DX, U.K., and",
+        "Department of Basic Medical Science, College of Medicine, QU Health, Qatar University, P.O. Box 2713, Doha, Qatar. Correspondence should be addressed to Paul J. Thornalley",
+        "Joint corresponding authors. Word count: abstract 150; main text 3266"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.07.029488",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.029488.pdf"
+    },
+    "abstract": "There is an urgent requirement for improved treatments of COVID-19 disease. A strategy for chemotherapy is to increase levels of endogenous reactive metabolites - such as reactive oxygen species and arginine-directed glycating agent, methylglyoxal - for selective toxicity to SARS-CoV-2. Sequence analysis of functional domains in the SARS-CoV-2 proteome showed 0.8-fold depletion of cysteine residues and 4.9-fold enrichment of arginine residues, suggesting methylglyoxal modification may inactivate the virus. We discovered the peptide motif for MG modification: 3 \u2013 5-fold enrichment of cationic residues preceding the target arginine. There was 5-fold enrichment of methylglyoxal modification sites in the SARSCoV-2 proteome, compared to the human host - indicating selective toxicity of methylglyoxal to the virus. We found antitumor drugs, doxorubicin and paclitaxel, increase cellular methylglyoxal to virucidal levels. Taken together, these findings reveal a proteomic vulnerability of SARS-CoV-2 to methylglyoxal modification and provide a rationale for repurposing doxorubicin and paclitaxel for COVID-19 treatment.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Qatar Foundation for"
+                }
+            ],
+            "funding-statement": "PJT thanks the Qatar Foundation for a funding his research program"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Qatar University for"
+                }
+            ],
+            "funding-statement": "NR thanks Qatar University for funding her research program"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "NR and PJT acquired the funding, designed and supervised the studies, contributed to the data analysis and wrote the manuscript"
+        }
+    ]
+}

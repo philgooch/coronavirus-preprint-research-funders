@@ -1,0 +1,16 @@
+{
+    "abstract": "Governments issue \"stay at home\" orders to reduce the spread of contagious diseases, but the magnitude of such orders' effectiveness is uncertain. In the United States these orders were not coordinated at the national level during the coronavirus disease 2019 (COVID-19) pandemic, which creates an opportunity to use spatial and temporal variation to measure the policies' effect with greater accuracy. Here, we combine data on the timing of stay-at-home orders with daily confirmed COVID-19 cases and fatalities at the county level in the United States. We estimate the effect of stay-at-home orders using a difference-in-differences design that accounts for unmeasured local variation in factors like health systems and demographics and for unmeasured temporal variation in factors like national mitigation actions and access to tests. Compared to counties that did not implement stay-at-home orders, the results show that the orders are associated with a 30.2 percent (11.0 to 45.2) reduction in weekly cases after one week, a 40.0 percent (23.4 to 53.0) reduction after two weeks, and a 48.6 percent (31.1 to 61.7) reduction after three weeks. Stay-at-home orders are also associated with a 59.8 percent (18.3 to 80.2) reduction in weekly fatalities after three weeks. These results suggest that stay-at-home orders reduced confirmed cases by 390,000 (170,000 to 680,000) and fatalities by 41,000 (27,000 to 59,000) within the first three weeks in localities where they were implemented.",
+    "author": "James H. Fowler; Seth J. Hill; Nick Obradovich; Remy Levin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063628",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063628"
+    },
+    "title": "The Effect of Stay-at-Home Orders on COVID-19 Cases and Fatalities in the United States",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None."
+        }
+    ]
+}

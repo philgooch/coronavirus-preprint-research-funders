@@ -1,0 +1,24 @@
+{
+    "abstract": "Background: Chest CT (CT) is the reference for assessing pulmonary injury in suspected or diagnosed COVID-19 with signs of clinical severity. We explored the role of lung ultrasonography (LU) in quickly assessing lung status in these patients. Methods: eChoVid is a multicentric study based on routinely collected data, conducted in 3 emergency units of Assistance Publique des Hopitaux de Paris (APHP); 107 patients were included between March 19, 2020 and April 01, 2020 and underwent LU, a short clinical assessment by 2 emergency physicians blinded to each other's and a CT. LU consisted of scoring lesions in 8 chest zones from 0 to 3, defining a severity global score (GS) ranging from 0 to 24. CT severity score ranged from 0 to 3 according to the extent of interstitial pneumonia signs. 48 patients underwent LU by both an expert and a newly trained physician. Findings: The GS showed good performance to predict CT severity assessment of COVID-19 as normal versus pathologic: AUC=0.93, maximal Youden index 1 with 95% sensitivity, and 83% specificity. Similar performance was found for CT assessment as normal or minimal versus moderate or severe (n=90): AUC 0.89, maximal Youden index 7 with 86% sensitivity, and 78% specificity. Good agreement was found for zone scoring assessed by new trainee (30mn theory + 30mn practice) and expert (n=14,14*8 checkpoints), weighted kappa 0.85-1; moderate agreement was found for new trainee (n=48, 30mn theory) and expert, kappa 0.62-0.81. Interpretation: GS score is a simple tool to assess lung damage severity in patients with suspected or diagnosed COVID-19. Comparing the performance of new trainees and expert physicians opens a path for adoption beyond the scope of experts. LU is a good candidate for patients triage, especially in case of CT availability issues.\nCompeting Interest Statement",
+    "author": "Nathalie Kahn; Anthony Anthony Chauvin; Mathieu Oberlin; Pierre Bourrier; Delphine Cantin; Marie-Laure Baranne; Thomas d Humieres; Sylvain Benenati; Elisabeth Dion; Mikael Martinez; Maxime Gautier; Abdourahmane Diallo; Mehdi Benchoufi; Jerome Bokobza; Cedric Gil-Jardine; Eric Vicaut; Fabien Levan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20069633",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20069633"
+    },
+    "title": "Lung injury in patients with or suspected COVID-19 : a comparison between lung ultrasound and chest CT-scanner severity assessments, an observational study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Dr Sylvain Benenati",
+                    "award-id": [
+                        "SONOSITE-FUJIFILM",
+                        "SONOSITE-FUJIFILM"
+                    ]
+                }
+            ],
+            "funding-statement": "Dr Sylvain Benenati reports non-financial support from SONOSITE-FUJIFILM, other from SONOSITE-FUJIFILM, outside the submitted work"
+        }
+    ]
+}

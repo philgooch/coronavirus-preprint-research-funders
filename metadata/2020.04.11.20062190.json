@@ -1,0 +1,16 @@
+{
+    "abstract": "Importance: The case fatality rate (CFR) estimation during the early stage of a disease outbreak is important, but the current estimation methods are heavily biased. Objective: We proposed using a Poisson mixtures model that utilized requires data of deaths, recoveries, and total confirmed cases recorded in each day since the outbreak of a population. Design: We collected data of deaths, recoveries, and total confirmed cases of COVID-19 in Hubei Province, China, and other parts of China up to 10th April 2020. Main Outcome(s) and Measure(s): The CFR of COVID-19 was estimated by minimizing the chi-square goodness-of-fit statistic. Results: Our proposed CRF estimates for Hubei Province became stable on 5th February in the range of 4.5% to 7.0% at which the simple CFR estimators overestimated the actual CFR by more than five folds, and that for the other parts of China (1.5% to 1.6%) were all very close to the actual CFR on the first day of CFR estimation (25th January) at which the simple CFRs were in the range between 15% and 35%. Conclusions and Relevance: Our CFR estimates for Hubei Province and other parts of China were superior to the simple CFR estimators.",
+    "author": "Paul Hong Lee",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20062190",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20062190"
+    },
+    "title": "Estimating the real-time case fatality rate of COVID-19 using Poisson mixtures model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

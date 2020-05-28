@@ -1,0 +1,16 @@
+{
+    "abstract": "The current emergence of coronavirus (2019-nCoV or COVID-19) puts the world in threat. 2019-nCoV remains the outbreak of SARS-CoV 2002-2003. The structural research on the receptor recognition by SARS-CoV has identified the key interactions between SARS-CoV spike protein and its host receptor, also known as angiotensin converting enzyme 2 (ACE2). It controls both the cross-species and human-to-human transmissions of SARS-CoV. In this article, we have considered the infection dynamics of SARS-CoV-2 infection in the acute stage. Our aim is to propose and analyse a mathematical model for investigating the effect of CTL responses over the viral mutation to control the viral infection when a post-infection vaccine is administered at regular intervals. Dynamics of the system with and without impulses have been analysed using qualitative theory. Main findings are supported through numerical simulations.",
+    "author": "Fahad Al Basir; Amar Nath Chatterjee",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20077958",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20077958"
+    },
+    "title": "A model for 2019-nCoV infection with treatment",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There is no funding for this research."
+        }
+    ]
+}

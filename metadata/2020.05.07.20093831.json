@@ -1,0 +1,28 @@
+{
+    "abstract": "Backgrounds. Since COVID-19 outbreak, various agents have been tested but no proven effective therapies have been identified. This has led to a lot of controversies among associated researches. Hence, in order to address the issue of using hydroxychloroquine (HCQ) in treating COVID-19 patients, we conducted a systematic review and meta-analysis. Methods. A thorough search was carried out to find relevant studies in MEDLINE, medRxiv, PubMed, Cochrane Database, China Academic Journals Full-text Database and Web of Science. Two investigators independently reviewed 274 abstracts and 23 articles. The trials which evaluated HCQ for treatment of COVID-19 were included for this systematic review. Two investigators assessed quality of the studies and data extraction was done by one reviewer and cross checked by the other. Results. Five trials involving 677 patients were included while conducting the meta-analysis. Compared with the control group, HCQ with or without azithromycin (AZI) showed benefits in viral clearance of SARS-CoV-2 (odds ratio (OR) 1.95, 95% CI 0.19-19.73) and a reduction in progression rate (OR 0.89, 95% CI 0.58-1.37), but without demonstrating any statistical significance. This systematic review has also suggested a possible synergistic effect of the combination therapy which included HCQ and AZI. However, the use of HCQ was associated with increased mortality in COVID-19 patients. Conclusions. The use of HCQ with or without AZI for treatment of COVID-19 patients, seems to be effective. The combination of HCQ and AZI has shown synergistic effects. However, mortality rate was increased when the treatment was conducted with HCQ.",
+    "affiliations": [
+        "Taipei Veterans General Hospital (V109EA-014, VGH-2017/2020 C and E project)"
+    ],
+    "author": "Chian-Ying Chou; Chian-Shiu Chien; Tzu-Han Yang; Shih-Hwa Chiou; Tzu-Ying Yang; Yuh-Lih Chang; Aliaksandr A. Yarmishyn; Yi-Fan Yang; Yi-Ping Yang",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20093831",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20093831"
+    },
+    "title": "Systematic Review and Meta-analysis of the Effectiveness and Safety of Hydroxychloroquine in COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Taipei Veterans General Hospital",
+                    "award-id": [
+                        "V109EA-014",
+                        "VGH-2017/2020 C",
+                        "E project"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This study was supported partly by Taipei Veterans General Hospital (V109EA-014, VGH-2017/2020 C and E project)."
+        }
+    ]
+}

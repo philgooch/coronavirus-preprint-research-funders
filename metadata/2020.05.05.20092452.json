@@ -1,0 +1,34 @@
+{
+    "abstract": "Understanding the pathophysiology of SARS-CoV-2 infection is critical for therapeutics and public health intervention strategies. Viral-host interactions can guide discovery of regulators of disease outcomes, and protein structure function analysis points to several immune pathways, including complement and coagulation, as targets of the coronavirus proteome. To determine if conditions associated with dysregulation of the complement or coagulation systems impact adverse clinical outcomes associated with SARS-CoV-2 infection, we performed a retrospective observational study of 11,116 patients suspected of SARS-CoV-2 infection. We found that history of macular degeneration (a proxy for complement activation disorders) and history of coagulation disorders (thrombocytopenia, thrombosis, and hemorrhage) are risk factors for morbidity and mortality in SARS-CoV-2 infected patients - effects that could not be explained by age or sex. In addition, using data from the UK Biobank, we implemented a candidate driven approach to evaluate linkage between severe SARS-CoV-2 disease and genetic variation associated with complement and coagulation pathways. Among our findings, our scan identified previously reported eQTLs for CD55 (a negative regulator of complement activation) and SNPs in Complement Factor H (CFH) and Complement Component 4 Binding Protein Alpha (C4BPA), which play central roles in complement activation and innate immunity and were previously linked to Age Related Macular Degeneration (AMD) in a Genome-Wide Association Study (GWAS). In addition to providing evidence that complement function modulates SARS-CoV-2 infection outcome, the data point to several putative genetic markers of susceptibility. The results highlight the value of using a multi-modal analytical approach, combining molecular information from virus protein structure-function analysis with clinical informatics and genomics to reveal determinants and predictors of immunity, susceptibility, and clinical outcome associated with infection.",
+    "affiliations": [
+        "Columbia University Department of Systems Biology"
+    ],
+    "author": "Nicholas P Tatonetti; Sagi D Shapira; Phyllis Thangaraj; Vijendra Ramlall",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20092452",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092452"
+    },
+    "title": "Identification of Immune complement function as a determinant of adverse SARS-CoV-2 infection outcome",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "5R01GM109018",
+                        "5U54CA209997",
+                        "R35GM131905",
+                        "F30HL140946",
+                        "S10OD012351",
+                        "S10OD021764"
+                    ]
+                },
+                {
+                    "funding-source": "Columbia University Department of Systems Biology"
+                }
+            ],
+            "funding-statement": "This work was funded by NIH grants 5R01GM109018 and 5U54CA209997 to SS, R35GM131905 to NPT, F30HL140946 to PT, and equipment grants S10OD012351 and S10OD021764 to the Columbia University Department of Systems Biology"
+        }
+    ]
+}

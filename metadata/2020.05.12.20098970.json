@@ -1,0 +1,16 @@
+{
+    "abstract": "The decline of active COVID-19 cases in many countries in the world has proved that lockdown policies are indeed a very effective measure to stop the exponential spread of the virus. Still, the danger of a second wave of infections is omnipresent and it is clear, that every policy of the lockdown has to be carefully evaluated and possibly replaced by a different, less restrictive policy, before it can be lifted. Tracing of contacts and consequential tracing and breaking of infection-chains is a promising and comparably straightforward strategy to help containing the disease, although its precise impact on the epidemic is unknown. In order to quantify the benefits of tracing and similar policies we developed an agent-based model that not only validly depicts the spread of the disease, but allows for exploratory analysis of containment policies. We will describe our model and perform case studies in which we use the model to quantify impact of contact tracing in different characteristics and draw valuable conclusions about contact tracing policies in general.",
+    "author": "Christoph Urach; Martin Richard Bicher; Dominik Brunmeir; Claire Rippinger; Niki Popper",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20098970",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20098970"
+    },
+    "title": "Agent-Based Simulation for Evaluation of Contact-Tracing Policies Against the Spread of SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

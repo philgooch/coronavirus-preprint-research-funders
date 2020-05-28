@@ -1,0 +1,33 @@
+{
+    "abstract": "An excessive immune response contributes to SARS-CoV, MERS-CoV and SARS-CoV-2 pathogenesis and lethality, but the mechanism remains unclear. In this study, the N proteins of SARS-CoV, MERS-CoV and SARS-CoV-2 were found to bind to MASP-2, the key serine protease in the lectin pathway of complement activation, resulting in aberrant complement activation and aggravated inflammatory lung injury. Either blocking the N protein:MASP-2 interaction or suppressing complement activation can significantly alleviate N protein-induced complement hyper-activation and lung injury in vitro and in vivo. Complement hyper-activation was also observed in COVID-19 patients, and a promising suppressive effect was observed when the deteriorating patients were treated with anti-C5a monoclonal antibody. Complement suppression may represent a common therapeutic approach for pneumonia induced by these highly pathogenic coronaviruses.",
+    "affiliations": [
+        "National Science and Technology Major Projects (2018ZX09711003-005-005 and 2018ZX09201017-007), National Basic Research Program of China (2012CB518902)"
+    ],
+    "author": "Lin Zhu; Yue Liu; Weihong Yang; Zhang Zhang; Lufeng Li; Xuan Liu; Jibo Song; Hongzhen Li; Xiaoyu Chen; Qing Mao; Yangbo Fu; Yaoning Liu; Mingdong Hu; Shuping Luo; Xiuwu Bian; Huailong Zhao; Wei Chen; Qingjun Ma; Kaitong Li; Ting Gao; Jing Peng; Cheng Cao; Yong Hu; Lingfang Zhao; Yonghong Xie; Qincai Dong; Junli Liu; Lu Zhang; Xiaopeng Zhang; Zhongyi Wang; Yanwen Jin; Yongjiu Xiao; Ping Li; Songtao Zhao; Hainan Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.03.29.20041962",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.29.20041962"
+    },
+    "title": "Highly pathogenic coronavirus N protein aggravates lung injury by MASP-2-mediated complement over-activation",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science and Technology Major Projects",
+                    "award-id": [
+                        "2018ZX09711003-005-005",
+                        "2018ZX09201017-007"
+                    ]
+                },
+                {
+                    "funding-source": "National Basic Research Program of China",
+                    "award-id": [
+                        "2012CB518902"
+                    ]
+                }
+            ],
+            "funding-statement": "National Science and Technology Major Projects (2018ZX09711003-005-005 and 2018ZX09201017-007), National Basic Research Program of China (2012CB518902)"
+        }
+    ]
+}

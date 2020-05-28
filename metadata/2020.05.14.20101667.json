@@ -1,0 +1,16 @@
+{
+    "abstract": "Since the emerging of the \"novel coronavirus\" SARS-CoV-2 and the corresponding respiratory disease COVID-19, the virus has spread all over the world. In Europe, Germany is currently one of the most affected countries. In March 2020, a \"lockdown\" was established to contain the virus spread, including the closure of schools and child day care facilities as well as forced social distancing and bans of any public gathering. The present study attempts to analyze whether these governmental interventions had an impact on the declared aim of \"flattening the curve\", referring to the epidemic curve of new infections. This analysis is conducted from a regional perspective. On the level of the 412 German counties, logistic growth models were estimated based on reported cases of infections, aiming at determining the regional growth rate of infections and the point of inflection where infection rates begin to decrease and the curve flattens. All German counties exceeded the peak of new infections between the beginning of March and the middle of April. In a large majority of German counties, the epidemic curve has flattened before the social ban was established (March 23). In a minority of counties, the peak was already exceeded before school closures. The growth rates of infections vary spatially depending on the time the virus emerged. Counties belonging to states which established an additional curfew show no significant improvement with respect to growth rates and mortality. On the contrary, growth rates and mortality are significantly higher in Bavaria compared to whole Germany. The results raise the question whether social ban measures and curfews really contributed to the curve flattening. Furthermore, mortality varies strongly across German counties, which can be attributed to infections of people belonging to the \u201crisk group\u201d, especially residents of retirement homes.",
+    "author": "Thomas Wieland",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20101667",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20101667"
+    },
+    "title": "Flatten the Curve! Modeling SARS-CoV-2/COVID-19 Growth in Germany on the County Level",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

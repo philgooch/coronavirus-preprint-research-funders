@@ -1,0 +1,51 @@
+{
+    "abstract": "The coronavirus disease 2019 (COVID-19) pandemic caused by the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) has infected millions and killed hundreds of thousands of people worldwide as of May 2020. Healthcare providers are at increased risks of infection when caring for patients with COVID-19. The mechanism of transmission of SARS-CoV-2 is still not fully understood. However, there is growing evidence for airborne transmission of SARS-CoV-2, in addition to direct droplet spread and indirect contact. Here, we report on the design, construction, and testing of the BADGER (Box for Aerosol and Droplet Guarding and Evacuation in Respiratory Infection), an affordable, scalable device that can contain droplets and aerosol particles. The BADGER has multiple hand-ports for healthcare providers to perform essential tasks on a patient's airway and head. A semi-sealed environment is created inside the BADGER, which maintains at least twelve-air changes per hour using in-wall vacuum suction. Qualitative testing demonstrates that under conditions typical of non-invasive supplemental oxygen treatment, the BADGER can contain nebulized denatonium benzoate and smoke. Quantitative aerosol testing shows more than 90% containment of sub-micrometer aerosolized particles. Overall, the BADGER has the potential to contain large droplets and small airborne particles, and to provide an additional layer of protection for healthcare providers treating COVID-19 patients.",
+    "affiliations": [
+        "Research Foundation and Department of Surgery \u0096 University of Wisconsin School of Medicine and Public Health. JK was supported by GAN and THB were supported by the National Science Foundation, Division of Atmospheric and Geospace Sciences (grant no. 1829667). KCJ is supported by the National Institute of Health T32 Training Grant NIAID (grant no. AI125231)"
+    ],
+    "author": "Jesse Wang; Adam Weinstein; Khang N Huynh; Timothy Bertram; Chris Meyer; Erick Oberstar; Kevin C Janek; Jim Rasmussen; Gordon A Novak; Hau D. Le",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20096032",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20096032"
+    },
+    "title": "A Novel Box for Aerosol and Droplet Guarding and Evacuation in Respiratory Infection (BADGER): A Potential Mitigating Strategy for the COVID-19 Pandemic and Future Outbreaks",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wisconsin Alumni Research Foundation and Department of Surgery"
+                },
+                {
+                    "funding-source": "University of Wisconsin School of Medicine and Public Health"
+                }
+            ],
+            "funding-statement": "HDL was supported by the Wisconsin Alumni Research Foundation and Department of Surgery \u0096 University of Wisconsin School of Medicine and Public Health"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation, Division"
+                },
+                {
+                    "funding-source": "Atmospheric and Geospace Sciences",
+                    "award-id": [
+                        "1829667"
+                    ]
+                }
+            ],
+            "funding-statement": "JK was supported by GAN and THB were supported by the National Science Foundation, Division of Atmospheric and Geospace Sciences (grant no. 1829667)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Health"
+                },
+                {
+                    "funding-source": "Training Grant NIAID"
+                }
+            ],
+            "funding-statement": "KCJ is supported by the National Institute of Health T32 Training Grant NIAID (grant no"
+        }
+    ]
+}

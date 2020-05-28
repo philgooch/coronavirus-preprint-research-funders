@@ -1,0 +1,36 @@
+{
+    "title": "Pre-treatment of the clinical sample with Proteinase K allows detection of SARS-CoV-2 in the absence of RNA extraction",
+    "author": "World Health Organization, on March 11, 2020. Viral detection using RT-qPCR has been among the most important factors helping to control local spread of SARS-CoV-2 and it is considered the \u201cgold standard\u201d for diagnosis. Nevertheless, the RNA extraction step is both laborious and expensive, thus hampering the diagnosis in many places where there are not laboratory staff of funds enough to contribute for diagnosis efforts. Thus, the need to simplify procedures, reduce costs of the techniques used, and expand the capacity of the number of diagnostics of COVID-19 is imperative. In this study, detection of SARS-CoV-2 in the absence of RNA extraction has been successfully achieved through pre-treatment of the clinical sample with Proteinase K. The results show that only the use of proteinase K, without the need to perform the whole standard protocol for sample extraction and purification, can be an efficient technique for the diagnosis of COVID-19, since 91% of the samples matched the results with the standard procedure, with an average increase of 5.64 CT in the RTqPCR",
+    "date": 2020,
+    "affiliations": [
+        "Molecular Microbiology Laboratory, Feevale University, Brazil Corresponding author: Larissa Mallmann Corresponding author",
+        "Molecular Microbiology Laboratory (Feevale University, Novo Hamburgo, Brazil) eluted in 2 mL of saline solution, following CDC (USA) guidelines for sampling of respiratory specimens. Personal data from the patients was not accessed in the present study, following standard ethical regulatory guidelines",
+        "Molecular Microbiology Laboratory at Feevale University"
+    ],
+    "journal": "Abstract COVID",
+    "volume": "19",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.07.083139",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.07.083139.pdf"
+    },
+    "abstract": "COVID-19 (Coronavirus Disease 2019) outbreak was declared a pandemic, by\nWorld Health Organization, on March 11, 2020. Viral detection using RT-qPCR has been among the most important factors helping to control local spread of SARS-CoV-2 and it is considered the \u201cgold standard\u201d for diagnosis. Nevertheless, the RNA extraction step is both laborious and expensive, thus hampering the diagnosis in many places where there are not laboratory staff of funds enough to contribute for diagnosis efforts. Thus, the need to simplify procedures, reduce costs of the techniques used, and expand the capacity of the number of diagnostics of COVID-19 is imperative. In this study, detection of SARS-CoV-2 in the absence of RNA extraction has been successfully achieved through pre-treatment of the clinical sample with Proteinase K. The results show that only the use of proteinase K, without the need to perform the whole standard protocol for sample extraction and purification, can be an efficient technique for the diagnosis of COVID-19, since 91% of the samples matched the results with the standard procedure, with an average increase of 5.64 CT in the RTqPCR.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding This"
+                },
+                {
+                    "funding-source": "Rede-Virus MCTIC; CAPES"
+                },
+                {
+                    "funding-source": "FINEP"
+                }
+            ],
+            "funding-statement": "Funding This study was funded by Rede-Virus MCTIC; CAPES; FINEP"
+        }
+    ]
+}

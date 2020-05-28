@@ -1,0 +1,39 @@
+{
+    "title": "COVID-19: Viral-host interactome analyzed by network based-approach model to study pathogenesis of SARS-CoV-2 infection",
+    "author": "Francesco Messina,\u00b0, Emanuela Giombini,\u00b0, Chiara Agrati, Francesco Vairo, Tommaso Ascoli",
+    "date": 2020,
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.07.082487",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.07.082487.pdf"
+    },
+    "abstract": "Background. Epidemiological, virological and pathogenetic characteristics of SARS-CoV-2 infection are under evaluation. A better understanding of the pathophysiology associated with COVID-19 is crucial to improve treatment modalities and to develop effective prevention strategies. Transcriptomic and proteomic data on the host response against SARS-CoV-2 still have anecdotic character; currently available data from other coronavirus infections are therefore a key source of information.",
+    "keywords": [
+        "Coronavirus infection",
+        "Virus-host interactome",
+        "Spike glycoprotein 51 52 53"
+    ],
+    "affiliations": [
+        "National Institute for Infectious Diseases \"Lazzaro Spallanzani\" IRCCS, Rome, Italy",
+        "Department of Biology, University of Rome \"Tor Vergata,\" Rome, Italy",
+        "Department of Pediatric Hematology and Oncology, IRCCS Ospedale Pediatrico Bambino Ges\u00f9, Piazza"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Italian Ministry of Health",
+                    "award-id": [
+                        "Ricerca Corrente Linea 1"
+                    ]
+                },
+                {
+                    "funding-source": "Ricerca Corrente Linea"
+                }
+            ],
+            "funding-statement": "INMI authors are supported by the Italian Ministry of Health (Ricerca Corrente Linea 1)"
+        }
+    ]
+}

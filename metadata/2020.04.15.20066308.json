@@ -1,0 +1,29 @@
+{
+    "abstract": "In this article, a mathematical model for the transmission of COVID-19 disease is formulated and analysed. It is shown that the model exhibits a backward bifurcation at R0 = 1 when recovered individuals do not develop a permanent immunity for the disease. In the absence of reinfection, it is proved that the model is without backward bifurcation and the disease free equilibrium is globally asymptotically stable for R0 < 1. By using available data, the model is validated and parameter values are estimated. The sensitivity of the value of R0 to changes in any of the parameter values involved in its formula is analysed. Moreover, various mitigation strategies are investigated using the proposed model and it is observed that the asymptomatic infectious group of individuals may play a major role in the re-emergence of the disease in the future. Therefore, it is recommended that in the absence of vaccination, countries need to develop capacities to detect and isolate at least 30% of the asymptomatic infectious group of individuals while treating in isolation at least 50% of symptomatic patients to control the disease.",
+    "affiliations": [
+        "Botswana International University of Science and Technology (BIUST) that supported their research through the project entitled \u0091Research initiation grant of the office of the DVCRI of BIUST, with grant number DVC/RDI/2/1/161(34)"
+    ],
+    "author": "Semu Kassa; Hatson John Boscoh Njagarah; Yibeltal Adane Terefe",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20066308",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20066308"
+    },
+    "title": "Analysis of the mitigation strategies for COVID-19: from mathematical modelling perspective",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Botswana International University of Science and Technology"
+                },
+                {
+                    "funding-source": "DVCRI of BIUST,",
+                    "award-id": [
+                        "DVC/RDI/2/1/161"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors S.M.K. and H.J.B.N. gratefully acknowledge Botswana International University of Science and Technology (BIUST) that supported their research through the project entitled \u0091Research initiation grant of the office of the DVCRI of BIUST, with grant number DVC/RDI/2/1/161(34)"
+        }
+    ]
+}

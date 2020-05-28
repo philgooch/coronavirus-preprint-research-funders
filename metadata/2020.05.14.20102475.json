@@ -1,0 +1,40 @@
+{
+    "abstract": "Background: SARS-CoV-2, the viral agent responsible for coronavirus disease 2019 (COVID-19) was identified in Wuhan, China at the end of December 2019. It rapidly spread to the rest of the world, and was declared a Public Health Emergency of International Concern on the 30th of January 2020. Our understanding of the virus, it is clinical manifestations and treatment options continues to evolve at an unparalleled pace. Objective: This review sought to summarise the key literature regarding transmission, case definitions, clinical management and trials, and performed a systematic review of reported clinical data on COVID-19. Synthesis methods: Two reviewers selected all the literature independently, and extracted information according to pre-defined topics. Results: COVID-19 is pandemic with ~4 million cases and 270,000 deaths in 210 countries as of 8 May 2020. Our review of reports showed that SARS-CoV-2 was mainly transmitted via inhalation of respiratory droplets containing the virus and had an incubation period of four to six days. The commonly reported symptoms were fever (80%) and cough (60%) across the spectrum of clinical disease - mild, moderate, severe and critical. Categorization of these cases for home care or hospital management need to be well defined considering the age of the patient and the presence of underlying co-morbidities. The case definitions we reviewed varied among affected countries, which could have contributed to the differences observed in the mean case fatality rates among continents: Oceania (1%), Asia (3%), Africa (4%), South America (5%), North America (6%) and Europe (10%). Asymptomatic cases, which constituted an estimated 80% of COVID-19 cases are a huge threat to control efforts. Conclusion: The presence of fever and cough may be sufficient to warrant a COVID-19 testing but using these symptoms in isolation will miss a proportion of cases. A clear definition of a COVID-19 case is important for managing, treating and tracking clinical illness. While several treatments are in development or in clinical trials for COVID-19, home care of mild/moderate cases and hospital care for severe and critical cases remain the recommended management for the disease. Quarantine measures and social distancing can help control the spread of SARS-CoV-2.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Health and Medical Research Council (NHMRC) of Australia [APP1161076 to J.S.R.]. Burnet Institute received funding from the NHMRC Independent Research Institutes Infrastructure Support Scheme, and the Victorian State Government Operational Infrastructure Support Scheme. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript"
+    ],
+    "author": "Charles A Narh; Jack S Richards; Ricardo Ataide; DhanaSekaran Sakthivel; Laura McArthur; Felicia Chan",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20102475",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20102475"
+    },
+    "title": "COVID-19; Systematic and literature review of transmission, case definitions, clinical management and clinical trials.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Health and Medical Research Council",
+                    "award-id": [
+                        "APP1161076 to J.S.R."
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Health and Medical Research Council (NHMRC) of Australia [APP1161076 to J.S.R.]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Burnet Institute"
+                },
+                {
+                    "funding-source": "NHMRC Independent Research Institutes Infrastructure Support Scheme,"
+                },
+                {
+                    "funding-source": "Victorian State Government Operational Infrastructure Support Scheme"
+                }
+            ],
+            "funding-statement": "Burnet Institute received funding from the NHMRC Independent Research Institutes Infrastructure Support Scheme, and the Victorian State Government Operational Infrastructure Support Scheme"
+        }
+    ]
+}

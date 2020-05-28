@@ -1,0 +1,32 @@
+{
+    "title": "Emerging phylogenetic structure of the SARS-CoV-2 pandemic",
+    "author": "Nick FJ",
+    "date": 2020,
+    "affiliations": [
+        "School of Natural Sciences, University of Tasmania, Hobart, Australia",
+        "School of Life Sciences and Department of Statistics, University of Warwick, Coventry, UK",
+        "MRC Centre for Global Infectious Disease Analysis and Department of Infectious Disease",
+        "Imperial College London, UK"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.19.103846",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.19.103846.pdf"
+    },
+    "abstract": "Since spilling over into humans, SARS-CoV-2 has rapidly spread across the globe, accumulating significant genetic diversity. The structure of this genetic diversity, and whether it reveals epidemiological insights, are fundamental questions for understanding the evolutionary trajectory of this virus. Here we use a recently developed phylodynamic approach to uncover phylogenetic structures underlying the SARS-CoV-2 pandemic. We find support for three SARS-CoV-2 lineages co-circulating, each with significantly different demographic dynamics concordant with known epidemiological factors. For example, Lineage C emerged in Europe with a high growth rate in late February, just prior to the exponential increase in cases in several European countries. Mutations that characterize Lineage C in particular are non-synonymous and occur in functionally important gene regions responsible for viral replication and cell entry. Even though Lineages A and B had distinct demographic patterns, they were much more difficult to distinguish. Continuous application of phylogenetic approaches to track the evolutionary epidemiology of SARS-CoV-2 lineages will be increasingly important to validate the efficacy of control efforts and monitor significant evolutionary events in the future.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Australian Research Council Discovery Project Grant",
+                    "award-id": [
+                        "DP190102020"
+                    ]
+                }
+            ],
+            "funding-statement": "This project was supported by an Australian Research Council Discovery Project Grant (DP190102020)"
+        }
+    ]
+}

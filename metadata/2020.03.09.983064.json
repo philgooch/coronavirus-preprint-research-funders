@@ -1,0 +1,41 @@
+{
+    "title": "Development of Reverse Transcription Loop-mediated Isothermal Amplification (RT-LAMP) Assays Targeting SARS-CoV-2",
+    "author": "Gun-Soo Park, Keunbon Ku, Seung-Hwa Baek, Seong Jun Kim, Seung Il Kim, Bum-Tae Kim, Jin-Soo Maeng, 2",
+    "date": 2020,
+    "affiliations": [
+        "Center for Convergent Research of Emerging Virus Infection, Korea Research Institute of Chemical Technology, Daejeon 34114, Republic of Korea",
+        "Research Group of Food Processing, Korea Food Research Institute, Wanju-gun, Jeollabuk-do 55365, Republic of Korea",
+        "Department of Predictive Toxicology, Korea Institute of Toxicology, Daejeon 34114, Republic of Korea",
+        "Research Center for Bioconvergence Analysis, Korea Basic Science Institute, Cheongju 28119, Republic of Korea"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.09.983064",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.09.983064.pdf"
+    },
+    "abstract": "Epidemics of Coronavirus Disease 2019 (COVID-19) now have more than 100,000 confirmed cases worldwide. Diagnosis of COVID-19 is currently performed by RT-qPCR methods, but the capacity of RT-qPCR methods is limited by its requirement of high-level facilities and instruments. Here, we developed and evaluated RT-LAMP assays to detect genomic RNA of SARS-CoV-2, the causative virus of COVID-19. RT-LAMP assays in this study can detect as low as 100 copies of SARS-CoV-2 RNA. Cross-reactivity of RT-LAMP assays to other human Coronaviruses was not observed. We also adapted a colorimetric detection method for our RT-LAMP assay so that the tests potentially performed in higher throughput.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "LAMP",
+        "RT-LAMP"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Research Council of Science and Technology"
+                },
+                {
+                    "funding-source": "Ministry of Science and ICT",
+                    "award-id": [
+                        "CRC-16-01-KRICT"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Research Council of Science and Technology (NST) grant by the Ministry of Science and ICT (Grant No CRC-16-01-KRICT)"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "abstract": "Objective: Establishing a social contact data sharing initiative and an interactive tool to assess mitigation strategies for COVID-19. Results: We organized data sharing of published social contact surveys via online repositories and formatting guidelines. We analyzed this social contact data in terms of weighted social contact matrices, next generation matrices, relative incidence and R0. We incorporated location-specific isolation measures (e.g. school closure or telework) and capture their effect on transmission dynamics. All methods have been implemented in an online application based on R Shiny and applied to COVID-19 with age-specific susceptibility and infectiousness. Using our online tool with the available social contact data, we illustrate that social distancing could have a considerable impact on reducing transmission for COVID-19. The effect itself depends on assumptions made about disease-specific characteristics and the choice of intervention(s). Keywords: social contact data, user interface, transmission dynamics, infectious diseases, epidemics, social distancing, behavioral changes, data sharing initiative, open-source, COVID-19",
+    "affiliations": [
+        "Centre for Health Economic Research and Modelling Infectious Diseases,University of Antwerp, Antwerp, Belgium; (2) School of Public health and Community Medicine,University of New South Wales, Sydney, Australia"
+    ],
+    "author": "Philippe Beutels; Thang Van Hoang; Pietro Coletti; Lander Willem; Niel Hens; Sebastian Funk",
+    "date": 2020,
+    "doi": "10.1101/2020.03.03.20030627",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.5281/zenodo.3706788",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.03.20030627"
+    },
+    "keywords": [
+        "social contact data",
+        "user interface",
+        "transmission dynamics",
+        "infectious diseases",
+        "epidemics",
+        "social distancing",
+        "behavioral changes",
+        "data sharing initiative",
+        "open-source",
+        "COVID-19"
+    ],
+    "title": "SOCRATES: An online tool leveraging a social contact data sharing initiative to assess mitigation strategies for COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Foundation Flanders",
+                    "award-id": [
+                        "1234620N"
+                    ]
+                }
+            ],
+            "funding-statement": "LW gratefully acknowledges funding from the Research Foundation Flanders (Grant number 1234620N)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Research Council"
+                },
+                {
+                    "funding-source": "European Union's Horizon",
+                    "award-id": [
+                        "682540-TransMID"
+                    ]
+                },
+                {
+                    "funding-source": "PC and NH)"
+                }
+            ],
+            "funding-statement": "This work is part of a project that has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement 682540-TransMID)(TVH, PC and NH)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Epipose project",
+                    "award-id": [
+                        "SC1-PHE-CORONAV"
+                    ]
+                },
+                {
+                    "funding-source": "European Union's",
+                    "award-id": [
+                        "SC1-PHE-CORONAVIRUS-2020",
+                        "101003688"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is partially funded by the Epipose project from the European Union's SC1-PHE-CORONAVIRUS-2020 programme (101003688)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust Senior Research Fellowship",
+                    "award-id": [
+                        "210758/Z/18/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "SF was funded by a Wellcome Trust Senior Research Fellowship (210758/Z/18/Z)"
+        }
+    ]
+}

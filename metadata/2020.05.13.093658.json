@@ -1,0 +1,57 @@
+{
+    "title": "Evolutionary arms race between virus and host drives genetic diversity in bat SARS related coronavirus spike genes",
+    "author": "Hua Guo, Bing-Jie Hua, Xing-Lou Yanga, Lei-Ping Zenga, Bei Lia, Song-Ying 5 Ouyangc, Zheng-Li Shi a,#",
+    "date": 2020,
+    "affiliations": [
+        "CAS Key Laboratory of Special Pathogens and Biosafety, Wuhan Institute of",
+        "Virology, Chinese Academy of Sciences, Wuhan, China 9",
+        "University of Chinese Academy of Sciences, Beijing, China 10",
+        "The Key Laboratory of Innate Immune Biology of Fujian Province, Provincial",
+        "University Key Laboratory of Cellular Stress Response and Metabolic Regulation",
+        "Biomedical Research Center of South China, Key Laboratory of OptoElectronic",
+        "Science and Technology for Medicine of the Ministry of Education, College of Life",
+        "Sciences, Fujian Normal University, Fuzhou, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.13.093658",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.13.093658.pdf"
+    },
+    "abstract": "The Chinese horseshoe bat (Rhinolophus sinicus), reservoir host of severe acute respiratory syndrome coronavirus (SARS-CoV), carries many bat SARS-related CoVs (SARSr-CoVs) with high genetic diversity, particularly in the spike gene. Despite these variations, some bat SARSr-CoVs can utilize the orthologs of human SARS-CoV receptor, angiotensin-converting enzyme 2 (ACE2), for entry. It is speculated that the interaction between bat ACE2 and SARSr-CoV spike proteins drives diversity. Here, we have identified a series of R. sinicus ACE2 variants with some polymorphic sites involved in the interaction with the SARS-CoV spike protein. Pseudoviruses or SARSr-CoVs carrying different spike proteins showed different infection efficiency in cells transiently expressing bat ACE2 variants. Consistent results were observed by binding affinity assays between SARS- and SARSr-CoV spike proteins and receptor molecules from bats and humans. All tested bat SARSr-CoV spike proteins had a higher binding affinity to human ACE2 than to bat ACE2, although they showed a 10-fold lower binding affinity to human ACE2 compared with their SARS-CoV counterpart. Structure modeling revealed that the difference in binding affinity between spike and ACE2 might be caused by the alteration of some key residues in the interface of these two molecules. Molecular evolution analysis indicates that these residues were under strong positive selection. These results suggest that the SARSr-CoV spike protein and R. sinicus ACE2 may have coevolved over time and experienced selection pressure from each other,",
+    "keywords": [
+        "SARS related coronavirus",
+        "spike gene",
+        "receptor",
+        "ACE2",
+        "Chinese horseshoe bat",
+        "genetic diversity"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chinese Academy of Sciences",
+                    "award-id": [
+                        "XDB29010101"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31770175",
+                        "31621061"
+                    ]
+                },
+                {
+                    "funding-source": "Dr Bing Yan for"
+                },
+                {
+                    "funding-source": "S-tag Agarose"
+                }
+            ],
+            "funding-statement": "This work was jointly funded by the strategic priority research program of the Chinese Academy of Sciences (XDB29010101), National Natural Science Foundation of China (31770175 and 31621061) to Z.L.S. We would like to thank Dr Bing Yan for providing S-tag Agarose beads and mouse anti-S-tag monoclonal antibodies"
+        }
+    ]
+}

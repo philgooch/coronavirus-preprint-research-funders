@@ -1,0 +1,25 @@
+{
+    "abstract": "COVID-19 pandemic has spread worldwide rapidly from its first outbreak in China, with different impacts depending on the age and social structure of the populations, and the measures taken by each government. Within Europe, the first countries to be strongly affected have been Italy and Spain. In Spain, infection has expanded in highly populated areas, resulting in one of the largest nationwide bursts so far by early April. We analyze the evolution of the growth curve of the epidemic in both the whole of Spain, Madrid Autonomous Region (the second largest conurbation in Europe), and Catalonia (which includes Spain's second largest city), based on the cumulative numbers of reported cases and deaths. We conducted segmented, poisson regressions on log-transformed data to identify changes in the slope of these curves and/or sudden shifts in the number of cases (i.e. changes in the intercept) at fitted breaking points, and compared their results with a timeline including both key events of the epidemic and containment measures taken by the national and regional governments. Results were largely consistent in the six curves analyzed (reported infections and deaths for Spain, Madrid and Catalonia, respectively), showing three major clusters of shifts in slopes (growth rates) on March 13-19, March 23-29 and April 1-5 that resulted in 33-71% reductions of slope, and originated in infections on March 3-9, 13-19 and 22-26; as well as a decrease in the infection rate following the strengthened lockdown of 29-30 April, only for Madrid and Catalonia. Small upward shifts in the progress of the disease in Madrid were not associated with significant increases in the intercept of the curve, and seem related with unevenness in case reporting; but they did so in Spain and Catalonia, where they were probably associated to specific events of group infection in Vitoria and to the onset of the outbreak in Catalonia. These results evidence an early deceleration in the spread of COVID-19 coinciding with personal hygiene and social distancing recommendations, as well as the general awareness of the population; and a second, stronger decrease when harder isolation measures were enforced. The combination of these two inflection points seemingly led to the start of the contention of the disease outbreak by early April, the limit of our time series. This highlights the importance of adopting public health strategies that include disseminating basic knowledge on personal hygiene and reduced social contact at the onset of the epidemic, and the importance of early enforcement of hard confinement measures for its subsequent contention.",
+    "author": "Luis Santamaria; Joaquin Hortal",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059345",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059345"
+    },
+    "title": "Chasing the ghost of infection past: identifying thresholds of change during the COVID-19 infection in Spain",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "government",
+                        "commercial",
+                        "private foundation",
+                        "etc."
+                    ]
+                }
+            ],
+            "funding-statement": "The authors and their institutions did not receive at any time payment or services from a third party (government, commercial, private foundation, etc.) for any aspect of the submitted work."
+        }
+    ]
+}

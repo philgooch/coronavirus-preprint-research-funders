@@ -1,0 +1,83 @@
+{
+    "abstract": "Background. More than one million infections with the severe acute respiratory syndrome corona virus 2 (SARS-CoV-2) have been confirmed. While PCR-based assays are used for diagnosis, high through-put serologic methods are needed to detect antibodies for seroserveillance and for identification of seroconversion, potential plasma donors, and the nature of the immune response to this pathogen. Methods. A Luminex binding assay was used to assess the presence of antibodies in human sera from COVID-19-infected and -uninfected individuals specific for two recombinant proteins of SARS-CoV-2. Findings. Fluorochrome-labeled beads were coated with a recombinant soluble stabilized trimeric SARS-CoV-2 S protein ectodomain or its central portion, the receptor binding domain (RBD). Coated beads were incubated with sera, followed by incubation with biotinylated anti-human total Ig antibodies and phycoerythrin (PE)-labeled streptavidin. Readout using a Luminex analyzer clearly differentiated between sera of the infected and uninfected subject, delineating a wide range of serum antibody levels in infected subjects. Interpretation. Antibody assays of sera can identify individuals who are infected with SARS-CoV-2 and have seroconverted, as well as subjects who have been infected and recovered. The use of the Luminex binding Ab assay has the advantage that it can be run in approximately 2.5 hours, uses very little antigen, and permits a high through-put of samples/day. Funding. NIAID contracts and grants, Department of Veterans Affairs grants, the Microbiology Laboratory Clinical Services, Translational Science Hub, and Personalized Virology Initiative, and Department of Medicine of Mount Sinai Health System and Icahn School of Medicine at Mount Sinai.",
+    "affiliations": [
+        "NIAID contracts and grants, Department of Veterans Affairs grants, the Microbiology Laboratory Clinical Services, Translational Science Hub, and Personalized Virology Initiative, and Department of Medicine of Mount Sinai Health System and Icahn School of Medicine at Mount Sinai"
+    ],
+    "author": "Erna Milunka Kojic; Denise Jurczyszak; Viviana Simon; Susan Zolla-Pazner; Fatima Amanat; Sean Liu; Jonathan Stoever; Jeromine Klingler; Florian Krammer; Svenja Weiss; Maria Bermudez-Gonzalez; Catarina Hioe; Ian Baine",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20059501",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20059501"
+    },
+    "title": "A High Through-put Assay for Circulating Antibodies Directed against the S Protein of Severe Acute Respiratory Syndrome Corona virus 2",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Microbiology Laboratory Clinical Services"
+                },
+                {
+                    "funding-source": "Mount Sinai Health System and the Mount Sinai Health System Translational Science Hub",
+                    "award-id": [
+                        "NIH U54TR001433"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "U54TR001433"
+                    ]
+                },
+                {
+                    "funding-source": "Personalized Virology Initiative,"
+                },
+                {
+                    "funding-source": "Dr Viviana Simon,"
+                },
+                {
+                    "funding-source": "Department of Medicine of the Icahn School of Medicine"
+                },
+                {
+                    "funding-source": "Mount Sinai Department of Medicine"
+                },
+                {
+                    "funding-source": "NIAID Centers of Excellence for Influenza Research and Surveillance",
+                    "award-id": [
+                        "HHSN272201400008C"
+                    ]
+                },
+                {
+                    "funding-source": "Department of Veterans Affairs",
+                    "award-id": [
+                        "I01BX003860"
+                    ]
+                },
+                {
+                    "funding-source": "Merit Review Grant",
+                    "award-id": [
+                        "I01BX003860"
+                    ]
+                },
+                {
+                    "funding-source": "Research Career Scientist",
+                    "award-id": [
+                        "1IK6BX004607"
+                    ]
+                },
+                {
+                    "funding-source": "U.S National Institute of Allergy and Infectious Diseases Investigator Initiated",
+                    "award-id": [
+                        "AI139290 [CEH"
+                    ]
+                },
+                {
+                    "funding-source": "NIAID",
+                    "award-id": [
+                        "AI136916"
+                    ]
+                }
+            ],
+            "funding-statement": "Support for these studies came from the Microbiology Laboratory Clinical Services at the Mount Sinai Health System and the Mount Sinai Health System Translational Science Hub (NIH grant U54TR001433); the Personalized Virology Initiative, directed by Dr Viviana Simon, is supported by institutional funds and philanthropic donations, the Department of Medicine of the Icahn School of Medicine at Mount Sinai Department of Medicine (SZP), the NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS) contract HHSN272201400008C (VS, FK), the Department of Veterans Affairs (Merit Review Grant I01BX003860 [CEH, SZP, SW] and Research Career Scientist award 1IK6BX004607 [CEH]), the U.S National Institute of Allergy and Infectious Diseases Investigator Initiated grant (AI139290 [CEH, SZP]) and NIAID grant R01 AI136916 (VS)."
+        }
+    ]
+}

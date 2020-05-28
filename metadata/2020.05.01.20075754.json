@@ -1,0 +1,16 @@
+{
+    "abstract": "Pandemic containment is essential to prevent overloading of the medical care system. Limitation of the pandemic is mainly facilitated by reducing infections. An effective strategy is social distancing. However, this strategy draws more and more criticism, in Germany as elsewhere, because of its economic and psychological consequences for society. How can the number of infected person be held below the medical care capacity while restrictions affecting the general public are minimized? Various approaches exist to retarding the infection rate during the current coronavirus (COVID-19) outbreak until vaccine has been developed, without overloading medical capacity. Options being discussed include large-scale testing, contact tracing and social distancing. A study published by the Imperial College contains a model calculation of the effects of alternating school closings and openings in the United States and the United Kingdom. However, no satisfactory solution was developed. Variables which describe the medical care resources in Germany and the age and occupational structure of its population contrast sharply with American and British conditions. This study attempts to apply the Imperial College approach of alternating quarantine and normal episodes for the entire population. Mathematically, an oscillation in hospitalization can be imposed. The difficulty lies in determining the non-controllable parameters related to the virus. Varying the ambiguously quantified input variables is investigated in an attempt to devise a strategy for all combinations that does not overload the clinical system.",
+    "author": "Carolin Knoch",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20075754",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20075754"
+    },
+    "title": "RSI model: COVID-19 in Germany Alternating quarantine episodes and normal episodes",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There were no payments or services from a third party."
+        }
+    ]
+}

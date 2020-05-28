@@ -1,0 +1,29 @@
+{
+    "abstract": "Background: High rates of concurrent gastrointestinal manifestations have been noted in patients with COVID- 19, however the association between these digestive manifestations and need for hospitalization has not been established. Methods: Following expedited approval from our Institutional Review Board, we analyzed retrospectively collected data from consecutive patients with confirmed COVID-19 based on a positive polymerase chain reaction testing at our institution from March 03, 2020 to April 7, 2020. Baseline demographic, clinical, laboratory and patient-reported symptom data were collected at presentation in the emergency room. Multivariable logistic regression analyses were performed to evaluate the association between hospitalization and presence of gastrointestinal symptoms. Results: During this study period, we identified 207 consecutive patients with confirmed COVID-19. 34.5% noted concurrent gastrointestinal symptoms; of which 90% of gastrointestinal symptoms were mild. In a multivariate regression model controlled for demographics and disease severity, an increased risk for hospitalization was noted in patients with any gastrointestinal symptom (adjusted OR 4.84 95% CI: 1.68-13.94]. Diarrhea was associated with a seven-fold higher likelihood for hospitalization (adjusted OR=7.58, 95% CI: 2.49-20.02, P <0.001) and nausea or vomiting had a four times higher odds (adjusted OR 4.39, 95% CI: 1.61-11.4, P = 0.005). Conclusion: We demonstrate that a significant portion of COVID19 patients have concurrent mild gastrointestinal symptoms and that the presence of these digestive symptoms is associated with a need for hospitalization. With the current focus on streamlining triaging efforts, first responders and frontline providers should consider assessing for digestive symptoms in their initial clinical evaluation and decision-making.\nCompeting Interest Statement",
+    "author": "Alexander Podboy; Donghee Kim; Aijaz Ahmed; Sean Spencer; Ann Hsing; George Cholankeril; Edward A Pham; Vickie Aivaliotas; Branden Tarlow",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076935",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076935"
+    },
+    "title": "Association of Digestive Symptoms and Hospitalization in Patients with SARS-CoV-2 Infection",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Dr Cholankeril, Dr"
+                },
+                {
+                    "funding-source": "Dr Tarlow and Dr Spencer"
+                },
+                {
+                    "funding-source": "NIH Training Grant",
+                    "award-id": [
+                        "T32DK007056"
+                    ]
+                }
+            ],
+            "funding-statement": "Dr Cholankeril, Dr Pham, Dr Tarlow and Dr Spencer are supported in part by the NIH Training Grant T32DK007056"
+        }
+    ]
+}

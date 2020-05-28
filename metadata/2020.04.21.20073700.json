@@ -1,0 +1,45 @@
+{
+    "abstract": "High risk of severe disease of COVID-19 has been associated with patients with chronic obstructive pulmonary disease, cardiovascular disease or hypertension, and long-term exposure to PM2.5 has been associated with COVID-19 mortality. We collate individual level data of confirmed COVID-19 cases during the first wave of the epidemic in mainland China by March 6, 2020. We pair these data with a mobile phone dataset, covering human movements from Wuhan before the travel ban and inner-city movements during the time of emergency response from 324 cities in China. Adjusting for socio-economic factors, an increase of 10 \u03bcg/m3 in NO2 or PM2.5 was found to be associated with a 22.41% (95%CI: 7.28%-39.89%) or 15.35% (95%CI: 5.60%-25.98%) increase in the number of COVID-19 cases, and a 19.20% (95%CI: 4.03%-36.59%) or 9.61% (95%CI: 0.12%-20.01%) increase in severe infection, respectively. Our results highlight the importance of air quality improvements to health benefits.",
+    "author": "Bingying Li; Xing Yan; Huaiyu Tian; Yuxin Zheng; Nils Chr. Stenseth; Hongbin Song; Yonghong Liu; Guang Jia; Pai Zheng; Chieh-Hsi Wu; Moritz  U. G. Kraemer; Christopher Dye",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20073700",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20073700"
+    },
+    "title": "Risk of COVID-19 is associated with long-term exposure to air pollution",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "91643203",
+                        "81673234"
+                    ]
+                },
+                {
+                    "funding-source": "Beijing Natural Science Foundation",
+                    "award-id": [
+                        "JQ18025"
+                    ]
+                },
+                {
+                    "funding-source": "Beijing Advanced Innovation Program for Land Surface Science; Young"
+                },
+                {
+                    "funding-source": "Elite Scientist Sponsorship Program",
+                    "award-id": [
+                        "2018QNRC001"
+                    ]
+                },
+                {
+                    "funding-source": "Oxford Martin School; HT"
+                },
+                {
+                    "funding-source": "Military Logistics Research Program"
+                }
+            ],
+            "funding-statement": "Funding for this study was provided by the National Natural Science Foundation of China (91643203, 81673234); Beijing Natural Science Foundation (JQ18025); Beijing Advanced Innovation Program for Land Surface Science; Young Elite Scientist Sponsorship Program by CAST (YESS)(2018QNRC001); H.T., M.U.G.K., and C.D. acknowledge support from the Oxford Martin School; HT acknowledges support from the Military Logistics Research Program"
+        }
+    ]
+}

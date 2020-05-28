@@ -1,0 +1,23 @@
+{
+    "abstract": "Importance: Cases of the coronavirus disease 2019 (COVID-19) with no or mild symptoms were reported to frequently transmit the disease even without direct contact. The severe acute respiratory syndrome virus (SARS-COV-2) was found at very high concentrations in swab and sputum of such cases. Objective: We aimed to estimate virus release from such cases into different aerosol sizes by normal breathing and coughing, and what exposure can result from this in a room shared with such as case. Data Sources and Model: We combined the size-distribution of exhaled breath aerosols for coughing and normal breathing with viral sputum concentrations as approximation for lung lining liquid to obtain an estimate of emitted virus levels. The resulting emission data fed a single-compartment model of airborne concentrations in a room of 50m\u00b3, the size of a small office or medical exam room. Results: The estimated viral load in aerosols emitted by patients while breathing normally was on average 0.34 copies/cm\u00b3 and could go up to 11.5 copies/cm\u00b3. The corresponding numbers for coughing patients were 10,900 copies/cm\u00b3 and 366,000 copies/cm\u00b3, respectively, per cough. The resulting concentrations in a room with a coughing emitter were always very high, up to 2.02*10^9 copies/m\u00b3. However, also regular breathing aerosol from high emitters was predicted to lead to several thousand copies/m\u00b3. Conclusions and Relevance: These very high predicted virus concentrations may provide an explanation why for COVID-19, frequent community transmissions from non-symptomatic cases and also high infection rates in medical staff in hospital settings were reported. Our findings suggest that strict respiratory protection is needed when there is a chance to be in the same room with a patient - whether symptomatic or not - especially if this was for a prolonged time.",
+    "affiliations": [
+        "Swiss Centre for Occupational and Environmental Health (SCOEH)"
+    ],
+    "author": "Michael Riediker; Dai-Hua Tsai",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20081398",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20081398"
+    },
+    "title": "Estimation of SARS-CoV-2 emissions from non-symptomatic cases",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Swiss Centre for Occupational and Environmental Health"
+                }
+            ],
+            "funding-statement": "This modelling was entirely funded by the Swiss Centre for Occupational and Environmental Health (SCOEH)."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "abstract": "Objective: The coronavirus disease 2019 (COVID-19) - a novel and highly infectious pneumonia - has now spread across China and beyond for over four months. However, its psychological impact on patients is unclear. We aim to examine the prevalence and associated risk factors for psychological morbidities and fatigue in patients with confirmed COVID-19 infection. Methods: Amidst the disease outbreak, 41 out of 105 COVID-19 patients in a local designated hospital in China were successfully assessed using a constellation of psychometric questionnaires to determine their psychological morbidities and fatigue. Several potential biopsychosocial risk factors (including pre-existing disabilities, CT severity score of pneumonia, social support, coping strategies) were assessed through multivariable logistic regression analyses to clarify their association with mental health in patients. Results: 43.9% of 41 patients presented with impaired general mental health, 12.2% had post-traumatic stress disorder (PTSD) symptoms, 26.8% had anxiety and/or depression symptoms, and 53.6% had fatigue. We did not find any association between pneumonia severity and psychological morbidities or fatigue in COVID-19 patients. However, high perceived stigmatization was associated with an increased risk of impaired general mental health and high perceived social support was associated with decreased risk. Besides, negative coping inclination was associated with an increased risk of PTSD symptoms; high perceived social support was associated with a decreased risk of anxiety and/or depression symptoms. Conclusions: Psychological morbidities and chronic fatigue are common among COVID-19 patients. Negative coping inclination and being stigmatized are primary risk factors while perceived social support is the main protective factor.",
+    "author": "Guang Ming Lu; Wei Chen; Paul M Thompson; Rongfeng Qi; Wesley Surento; Ailing Hong; Saiduo Liu; Fei Xia; Song Luo; Fang Cheng; Lingjiang Li; Xiangao Jiang; Chang Sheng Zhou; Long Jiang Zhang; Zhi Yuan Sun",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20031666",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20031666"
+    },
+    "title": "Psychological morbidities and fatigue in patients with confirmed COVID-19 during disease outbreak: prevalence and associated biopsychosocial risk factors",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Nature Science Foundation of China",
+                    "award-id": [
+                        "81671672",
+                        "81301209 to R.Q."
+                    ]
+                },
+                {
+                    "funding-source": "Jiangsu Provincial Medical Youth Talent"
+                }
+            ],
+            "funding-statement": "This work was funded by the grants from the National Nature Science Foundation of China [Nos. 81671672, 81301209 to R.Q.]; the Jiangsu Provincial Medical Youth Talent [Nos"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "Boston"
+                    ]
+                }
+            ],
+            "funding-statement": "PMT received a research grant from Biogen, Inc., (Boston, USA), for research unrelated to this manuscript"
+        }
+    ]
+}

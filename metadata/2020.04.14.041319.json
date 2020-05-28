@@ -1,0 +1,67 @@
+{
+    "title": "A blueprint for the implementation of a validated approach for the detection of SARS-Cov2 in clinical samples in academic facilities",
+    "keywords": [
+        "COVID-19",
+        "SARS-Cov2",
+        "diagnostic PCR",
+        "qPCR",
+        "sample workflow",
+        "validation"
+    ],
+    "date": 2020,
+    "author": "Sushmita Sridhar 1, 2\u00a7, Sally Forrest 1\u00a7, Iain Kean 1, Jamie Young 3, Josefin Bartholdson Scott 1, Mailis Maes 1, Joana Pereira-Dias 1, Surendra Parmar 4, Matthew Routledge 5, Lucy Rivett 5, Gordon Dougan 1, Michael Weekes 5, Martin Curran 4, Ian Goodfellow 6, and Stephen Baker 1",
+    "affiliations": [
+        "Cambridge Institute of Therapeutic Immunology & Infectious Disease (CITIID) Department of Medicine, University of Cambridge, Cambridge, UK",
+        "Wellcome Sanger Institute, Hinxton, UK",
+        "Academic department of Medical genetics, University of Cambridge, Cambridge, UK",
+        "Public Health England Diagnostic Laboratory, Addenbrookes Hospital, Cambridge, UK",
+        "Infectious Diseases, Addenbrookes Hospital, Cambridge, UK",
+        "Division of Virology, Department of Pathology, University of Cambridge, Cambridge, UK",
+        "Contributed equally to this work",
+        "Cambridge Institute of Therapeutic Immunology & Infectious Disease (CITIID), Cambridge Biomedical Campus, University of Cambridge, Cambridge, United Kingdom CB2 0AW"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.14.041319",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.14.041319.pdf"
+    },
+    "abstract": "The COVID-19 pandemic is expanding at an unprecedented rate. As a result, diagnostic services are stretched to their limit, and there is a clear need for the provision of additional diagnostic capacity. Academic laboratories, many of which are closed due to governmental lockdowns, may be in a position to support local screening capacity by adapting their current laboratory practices. Here, we describe the process of developing a SARS-Cov2 diagnostic workflow in a conventional academic Containment Level 2 (CL2) laboratory. Our outline includes simple SARS-Cov2 deactivation upon contact, the methods for a quantitative real-time reverse transcriptase PCR (qRT-PCR) detecting SARS-Cov2, a description of process establishment and validation, and some considerations for establishing a similar workflow elsewhere. This was achieved under challenging circumstances through the collaborative efforts of scientists, clinical staff, and diagnostic staff to mitigate to the ongoing crisis. Within 14 days, we created a validated COVID-19 diagnostics service for healthcare workers in our local hospital. The described methods are not exhaustive, but we hope may offer support to other academic groups aiming to set up something comparable in a short time frame.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding Stephen Baker and Ian Goodfellow"
+                },
+                {
+                    "funding-source": "Senior Research Fellowships from Wellcome UK",
+                    "award-id": [
+                        "215515/Z/19/Z",
+                        "207498/Z/17/Z",
+                        "respectively"
+                    ]
+                },
+                {
+                    "funding-source": "COVID-19 Genomics UK Consortium and Addenbrookes Charitable Trust; Gordon"
+                },
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "Cambridge Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "Cambridge University Hospitals NHS Foundation"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Department of Health and Social Care."
+                }
+            ],
+            "funding-statement": "Funding Stephen Baker and Ian Goodfellow are supported by Senior Research Fellowships from Wellcome UK (215515/Z/19/Z and 207498/Z/17/Z, respectively). Components of this work was supported by the COVID-19 Genomics UK Consortium and Addenbrookes Charitable Trust; Gordon Dougan receives funding from the National Institute for Health Research [Cambridge Biomedical Research Centre at the Cambridge University Hospitals NHS Foundation Trust]. The views expressed are those of the authors and not necessarily those of the NHS, the NIHR or the Department of Health and Social Care."
+        }
+    ]
+}

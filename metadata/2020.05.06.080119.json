@@ -1,0 +1,61 @@
+{
+    "title": "Multiple SARS-CoV-2 introductions shaped the early outbreak in Central Eastern Europe: comparing Hungarian data to a worldwide sequence data-matrix",
+    "author": "1 Virological Research Group BSL-4 Laboratory, Szent\u00e1gothai Research Centre, University of P\u00e9cs, P\u00e9cs, Hungary 2 Institute of Biology, Faculty of Sciences, University of P\u00e9cs, P\u00e9cs, Hungary 3 National Coronavirus Research Centre, University of P\u00e9cs, P\u00e9cs, Hungary 4 Institute for Veterinary Medical Research, Centre for Agricultural Research, Budapest, Hungary 5 University of Veterinary Medicine Budapest, Centre for Bioinformatics, Budapest, Hungary 6 Translational Discovery, Stromal Biology, Bristol-Myers Squibb, Princeton, NJ, USA 7 National Food Safety Office, Budapest, Hungary 8 Szent\u00e1gothai Research Centre, Bioinformatics Research Group, Genomics and Bioinformatics Core Facility, University of P\u00e9cs, P\u00e9cs, Hungary. 9 Clinical Research Centre, Medical University of Bialystok, Bialystok, Poland 10 Hungarian Defense Forces, Military Medical Centre, Budapest, Hungary 11 Institute of Clinical Microbiology, University of Szeged, Faculty of Medicine, Szeged, Hungary 12 Independent researcher, Vantaa, Finland 13 Institute for Computer Science and Control, Hungarian Academy of Sciences 14 Central Hospital of Southern Pest, Budapest \u0111 These authors contributed equally",
+    "date": 2020,
+    "affiliations": [
+        "Laboratory, Szent\u00e1gothai Research Centre, University of P\u00e9cs, P\u00e9cs, Hungary",
+        "Institute of Biology, Faculty of Sciences, University of P\u00e9cs, P\u00e9cs, Hungary",
+        "National Coronavirus Research Centre, University of P\u00e9cs, P\u00e9cs, Hungary",
+        "Institute for Veterinary Medical Research, Centre for Agricultural Research, Budapest, Hungary",
+        "University of Veterinary Medicine Budapest, Centre for Bioinformatics, Budapest, Hungary",
+        "Translational Discovery, Stromal Biology, Bristol-Myers Squibb, Princeton, NJ, USA",
+        "National Food Safety Office, Budapest, Hungary",
+        "Szent\u00e1gothai Research Centre, Bioinformatics Research Group, Genomics and Bioinformatics Core Facility, University of P\u00e9cs, P\u00e9cs, Hungary",
+        "Clinical Research Centre, Medical University of Bialystok, Bialystok, Poland",
+        "Hungarian Defense Forces, Military Medical Centre, Budapest, Hungary",
+        "Institute of Clinical Microbiology, University of Szeged, Faculty of Medicine, Szeged, Hungary",
+        "Independent researcher, Vantaa, Finland",
+        "Institute for Computer Science and Control, Hungarian Academy of Sciences",
+        "Central Hospital of Southern Pest, Budapest \u0111 These authors contributed equally"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.06.080119",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.06.080119.pdf"
+    },
+    "abstract": "Severe Acute Respiratory Syndrome Coronavirus 2 is the third highly pathogenic human coronavirus in history. Since the emergence in Hubei province, China, during late 2019 the situation evolved to pandemic level. Following China, Europe was the second epicenter of the pandemic. To better comprehend the detailed founder mechanisms of the epidemic evolution in Central-Eastern Europe, particularly in Hungary, we determined the full-length SARSCoV-2 genomes from 32 clinical samples collected from laboratory confirmed COVID-19 patients over the first month of disease in Hungary. We applied a haplotype network analysis on all available complete genomic sequences of SARS-CoV-2 from GISAID database as of the 21th of April, 2020. We performed additional phylogenetic and phylogeographic analyses to achieve the recognition of multiple and parallel introductory events into our region. Here we present a publicly available network imaging of the worldwide haplotype relations of SARS-CoV-2 sequences and conclude the founder mechanisms of the outbreak in CentralEastern Europe.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Gabor Kemenesi"
+                },
+                {
+                    "funding-source": "Janos Bolyai Research Scholarship of the Hungarian Academy of Sciences"
+                }
+            ],
+            "funding-statement": "Gabor Kemenesi was supported by the Janos Bolyai Research Scholarship of the Hungarian Academy of Sciences"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "New National Excellence Program of the Ministry For Innovation and Technology"
+                }
+            ],
+            "funding-statement": "Balazs A Somogyi was supported by the \u00daNKP-19-3 New National Excellence Program of the Ministry For Innovation and Technology"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "ELIXIR Hungary",
+                    "award-id": [
+                        "http://elixir-hungary.org/"
+                    ]
+                }
+            ],
+            "funding-statement": "Bioinformatics infrastructure was supported by ELIXIR Hungary (http://elixir-hungary.org/)"
+        }
+    ]
+}

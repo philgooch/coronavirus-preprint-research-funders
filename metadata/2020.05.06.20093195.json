@@ -1,0 +1,16 @@
+{
+    "abstract": "Introduction With the pandemic of COVID-19, the number of confirmed cases and related deaths are increasing in the US. We aimed to understand the potential impact of health and demographic factors on the infection and mortality rates of COVID-19 at the population level. Methods We collected total number of confirmed cases and deaths related to COVID-19 at the county level in the US from January 21, 2020 to April 23, 2020. We extracted health and demographic measures for each US county. Multivariable linear mixed effects models were used to investigate potential correlations of health and demographic characteristics with the infection and mortality rates of COVID-19 in US counties. Results Our models showed that several health and demographic factors were positively correlated with the infection rate of COVID-19, such as low education level and percentage of Black. In contrast, several factors, including percentage of smokers and percentage of food insecure, were negatively correlated with the infection rate of COVID-19. While the number of days since first confirmed case and the infection rate of COVID-19 were negatively correlated with the mortality rate of COVID-19, percentage of elders (65 and above) and percentage of rural were positively correlated with the mortality rate of COVID-19. Conclusions At the population level, health and demographic factors could impact the infection and mortality rates of COVID-19 in US counties.",
+    "author": "Zidian Xie; Dongmei Li",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093195",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093195"
+    },
+    "title": "Health and Demographic Impact on COVID-19 Infection and Mortality in US Counties",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

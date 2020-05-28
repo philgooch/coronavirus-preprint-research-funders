@@ -1,0 +1,16 @@
+{
+    "abstract": "Background. COVID-19 pandemic poses a burden on hospital resources and intensive care unit (ICU) occupation. The study aimed to derive a scoring system that, assessed upon patient first-contact evaluation, predicts the need for admission to ICU. Methods. All consecutive patients admitted to a COVID-19 reference center were prospectively assessed. Patients were segregated into a group that required admission to ICU during their hospitalization and a group that never required ICU admission and was already discharged from hospitalization. Three models including clinical, laboratory and imaging findings were derived by logistic regression analysis and internally validated. A score, defined as the ABC-GOALS score was created by assigning values based on the variables weighted odd ratios. Results. The study comprised 329 patients, 115 (35%) required ICU admission and 214 (65%) were hospitalized and discharged from general wards. The clinical prediction model (ABC-GOALSc) included sex, obesity, the Charlson comorbidity index, dyspnea, arterial pressure and respiratory rate at triage evaluation. The clinical plus laboratory model (ABC-GOALScl) added serum albumin, glucose, lactate dehydrogenase and S/F ratio to the clinical model. The model that included imaging (ABC-GOALSclx) added the CT scan finding of >50% lung involvement. All three models outperformed other pneumonia-specific scores with area under the curve of 0.79 (0.74-0.83), 0.86 (0.82-0.90) and 0.88 (0.84-0.92) for the clinical, laboratory and imaging model, respectively. Conclusion. The ABC-GOALS score is a tool to evaluate patients with COVID-19 at admission to the emergency department that allows to timely predict their risk of admission to an ICU and may help optimize healthcare capacities.",
+    "author": "Luis Eduardo Morales-Buenrostro; R. Angelica Mendez-Perez; Dheni Fernandez-Camargo; Thierry Hernandez-Gilsoul; Bertha M. Cordova-Sanchez; Juan M. Mejia-Vilet",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099416",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099416"
+    },
+    "title": "DERIVATION OF A SCORE TO PREDICT ADMISSION TO INTENSIVE CARE UNIT IN PATIENTS WITH COVID-19: THE ABC-GOALS SCORE",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None."
+        }
+    ]
+}

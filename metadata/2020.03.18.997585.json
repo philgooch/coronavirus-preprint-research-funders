@@ -1,0 +1,39 @@
+{
+    "title": "Nucleotide Analogues as Inhibitors of SARS-CoV-2 Polymerase",
+    "author": "Minchen Chien, Thomas K. Anderson, Steffen Jockusch, Chuanjuan Tao, Shiv Kumar, Xiaoxu Li, James J. Russo, Robert N. Kirchdoerfer, Jingyue Ju",
+    "date": 2020,
+    "affiliations": [
+        "Center for Genome Technology and Biomolecular Engineering, Columbia University, New York, NY 10027; Departments of",
+        "Chemical Engineering",
+        "Pharmacology, and",
+        "Chemistry, Columbia University, New",
+        "Institute of Molecular Virology, University of Wisconsin-Madison, Madison, WI 53706"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.18.997585",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.18.997585.pdf"
+    },
+    "abstract": "SARS-CoV-2, a member of the coronavirus family, is responsible for the current COVID-19 pandemic. Based on our analysis of hepatitis C virus and coronavirus replication, and the molecular structures and activities of viral inhibitors, we previously demonstrated that three nucleotide analogues inhibit the SARSCoV RNA-dependent RNA polymerase (RdRp). Here, using polymerase extension experiments, we have demonstrated that the active triphosphate form of Sofosbuvir (a key component of the FDA approved hepatitis C drug EPCLUSA), is incorporated by SARS-CoV-2 RdRp, and blocks further incorporation. Using the same molecular insight, we selected the active triphosphate forms of three other anti-viral agents, Alovudine, AZT (an FDA approved HIV/AIDS drug) and Tenofovir alafenamide (TAF, an FDA approved drug for HIV and hepatitis B) for evaluation as inhibitors of SARS-CoV-2 RdRp. We demonstrated the ability of these three viral polymerase inhibitors, 3\u2019-fluoro-3\u2019-deoxythymidine triphosphate, 3\u2019-azido-3\u2019deoxythymidine triphosphate and Tenofovir diphosphate (the active triphosphate forms of Alovudine, AZT and TAF, respectively) to be incorporated by SARS-CoV-2 RdRp, where they also terminate further polymerase extension. These results offer a strong molecular basis for these nucleotide analogues to be evaluated as potential therapeutics for COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Columbia University and"
+                },
+                {
+                    "funding-source": "Jack Ma Foundation"
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Disease",
+                    "award-id": [
+                        "AI123498"
+                    ]
+                }
+            ],
+            "funding-statement": "This research is supported by Columbia University and a grant from the Jack Ma Foundation to J.J. and the National Institute of Allergy and Infectious Disease AI123498 to R.N.K"
+        }
+    ]
+}

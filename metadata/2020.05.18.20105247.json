@@ -1,0 +1,41 @@
+{
+    "abstract": "It was necessary to carry out methodologies evaluations of real-time fluorescent reverse-transcription PCR (RT-PCR) targeting severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Considering biosafety issues and lack of positive specimens in some special locations in China, the routine specimens from healthy individuals were used to perform methodologies evaluations, in which the indexes were the differences of quantification cycle values (\u0394Cq) between human derived internal reference control (IRC) genes of a specimen and quality control (QC). Serial experiments were carried out to evaluate various factors that might affect aforementioned methodologies, such as types of virus transport mediums, methods of specimen pretreatment and template preparation, specimen vortex strength, specimen storage temperature and duration. The results showed that using \u0394Cq values as indexes, among various factors that might affect analytical performance, it was better to store specimens in the normal saline transport mediums, inactivate pathogens using water or metal bath, release more virus particles from swabs by vortex mixing, extract nucleic acids with centrifuge methods, and perform amplification assays timely. Aforementioned opinions and optimum conditions were further confirmed by SRAS-CoV-2 pseudovirus and clinical positive specimens. Altogether, the results of this study indicated that the routine specimens from healthy individuals could be used to evaluate the analytical performance of real-time fluorescent RT-PCR targeting SRAS-CoV-2, of which the indexes were the \u0394Cq values between IRC genes of a specimen and QC. This acceptable method was extremely valuable in both theoretical and practical significance under current pandemic of coronavirus disease 2019 (COVID-19).",
+    "affiliations": [
+        "University Outstanding Talent Support Program"
+    ],
+    "author": "Shao-Li Deng; Qi-Mei Tang; Ning Su; Kun Wei; Xian-Ge Sun; Wei-Ping Lu; Xiao-dong Ren; Qian Huang; Heng-Liu Huang; Min Chen; Liu Wang; Qing Huang",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20105247",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20105247"
+    },
+    "title": "An acceptable method to evaluate the analytical performance of real-time fluorescent RT-PCR targeting SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Emergency Research Project",
+                    "award-id": [
+                        "CWS20C008"
+                    ]
+                },
+                {
+                    "funding-source": "Military Logistics Scientific Research Project",
+                    "award-id": [
+                        "2019HQZX06"
+                    ]
+                },
+                {
+                    "funding-source": "Military Medical Frontier Innovation Ability Training Program",
+                    "award-id": [
+                        "2019CXJSB005"
+                    ]
+                },
+                {
+                    "funding-source": "University Outstanding Talent Support Program"
+                }
+            ],
+            "funding-statement": "This study was partly supported by the 2019-nCoV Emergency Research Project (No CWS20C008), the Military Logistics Scientific Research Project (No 2019HQZX06), the Military Medical Frontier Innovation Ability Training Program (No 2019CXJSB005) and University Outstanding Talent Support Program"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Robust neutralization assay based on SARS-CoV-2 S-bearing vesicular stomatitis virus (VSV) pseudovirus and ACE2-overexpressed BHK21 cells",
+    "author": "4 Department of Hematology, Fujian Medical University Union Hospital, Fujian Provincial Key Laboratory on Hematology, Fujian Institute of Hematology, Fuzhou 350000, China. * These authors contributed equally to this work",
+    "date": 2020,
+    "affiliations": [
+        "State Key Laboratory of Molecular Vaccinology and Molecular Diagnostics, National Institute of Diagnostics and Vaccine Development in Infectious Diseases, School of Public Health and School of Life Sciences, Xiamen University, Xiamen 361102, China",
+        "NHC Key Laboratory of Biosafety, National Institute for Viral Disease Control and Prevention, China CDC, Beijing 102206, China",
+        "The First Hospital of Xiamen University, Xiamen 361003, China",
+        "Department of Hematology, Fujian Medical University Union Hospital, Fujian Provincial Key Laboratory on Hematology, Fujian Institute of Hematology, Fuzhou 350000, China",
+        "These authors contributed equally to this work"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.08.026948",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.08.026948.pdf"
+    },
+    "abstract": "The global pandemic of Coronavirus disease 2019 (COVID-19) is a disaster for human society. A convenient and reliable in vitro neutralization assay is very important for the development of neutralizing antibodies, vaccines and other inhibitors. In this study, G protein-deficient vesicular stomatitis virus (VSVdG) bearing full-length and truncated spike (S) protein of SARS-CoV-2 were evaluated. The virus packaging efficiency of VSV-SARS-CoV-2-Sdel18 (S with C-terminal 18 amino acid truncation) is much higher than VSV-SARS-CoV-2-S. A neutralization assay for antibody screening and serum neutralizing titer quantification was established based on VSV-SARS-CoV-2-Sdel18 pseudovirus and human angiotensin-converting enzyme 2 (ACE2) overexpressed BHK21 cell (BHK21hACE2). The experimental results can be obtained by automatically counting EGFP positive cell number at 12 hours after infection, making the assay convenient and high-throughput. The serum neutralizing titer of COVID-19 convalescent patients measured by VSV-SARS-CoV-2-Sdel18 pseudovirus assay has a good correlation with live SARS-CoV-2 assay. Seven neutralizing monoclonal antibodies targeting receptor binding domain (RBD) of SARS-CoV-2-S were obtained. This efficient and reliable pseudovirus assay model could facilitate the development of new drugs and vaccines.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "Major Program: 81993149041"
+                    ]
+                },
+                {
+                    "funding-source": "Science and Technology Major Project of the Fujian Province",
+                    "award-id": [
+                        "2020YZ014001"
+                    ]
+                },
+                {
+                    "funding-source": "Xiamen Science and Technology Major Project",
+                    "award-id": [
+                        "3502Z2020YJ02"
+                    ]
+                },
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2016YFD0500301"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Natural Science Foundation of China (Major Program: 81993149041), Science and Technology Major Project of the Fujian Province (2020YZ014001), Xiamen Science and Technology Major Project (3502Z2020YJ02) and National Key Research and Development Program of China (2016YFD0500301). Reference [1] Phelan A L, Katz R, Gostin L O"
+        }
+    ]
+}

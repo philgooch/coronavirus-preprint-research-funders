@@ -1,0 +1,59 @@
+{
+    "abstract": "PKS is a member of the SAB or Board of Directors of Applied Biomath, Glencoe Software and RareCyte Inc and has equity in these companies. In the last five years the Sorger lab has received research funding from Novartis and Merck. Sorger declares that none of these relationships are directly or indirectly related to the content of this manuscript. NRB is a consultant for or has received honoraria from the following companies: Seattle Genetics, Sanofi, and Bayer. The authors have no affiliation with and received no compensation from TOMI Environmental Solutions, Inc and TOMI played no role in the design of the study. The authors corresponded with members of TOMI Corporation concerning the technical specifications of the SteraMist system.",
+    "affiliations": [
+        "Harvard-MIT Center for Regulatory Science and by NIH/NCI grants P30-CA006516, U54-CA225088 (to PKS, NL and DP) and by T32-GM007753 (to DP) and by the Harvard Ludwig Center. AKC is supported by the Hugh Hampton Young Fellowship of MIT"
+    ],
+    "author": "Helen L Yang; David Krikorian; Heather Manning; Mary Carmack; Jinhan Mo; Michael S Sinha; Peter Sorger; Florence T. Bourgeois; Rajiv Gupta; Avilash Cramer; Enze Tian; Ju Li; Nicole R. LeBoeuf; Deborah Plana; David Turner; Sherry H Yu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20069997",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20069997"
+    },
+    "title": "Analysis of SteraMist ionized hydrogen peroxide technology in the sterilization of N95 respirators and other PPE: a quality improvement study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Novartis and Merck"
+                }
+            ],
+            "funding-statement": "In the last five years the Sorger lab has received research funding from Novartis and Merck"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Harvard-MIT Center for Regulatory Science and",
+                    "award-id": [
+                        "NIH/NCI",
+                        "P30-CA006516"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "P30-CA006516",
+                        "U54-CA225088"
+                    ]
+                },
+                {
+                    "funding-source": "NL and DP)",
+                    "award-id": [
+                        "T32-GM007753"
+                    ]
+                },
+                {
+                    "funding-source": "Harvard Ludwig Center"
+                }
+            ],
+            "funding-statement": "This work was supported by the Harvard-MIT Center for Regulatory Science and by NIH/NCI grants P30-CA006516, U54-CA225088 (to PKS, NL and DP) and by T32-GM007753 (to DP) and by the Harvard Ludwig Center"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Hugh Hampton Young Fellowship of MIT"
+                }
+            ],
+            "funding-statement": "AKC is supported by the Hugh Hampton Young Fellowship of MIT"
+        }
+    ]
+}

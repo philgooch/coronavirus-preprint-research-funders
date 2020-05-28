@@ -1,0 +1,32 @@
+{
+    "title": "Computational Electrostatics Predict Variations in SARS-CoV-2 Spike and Human ACE2 Interactions",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "CoV-2",
+        "pandemic",
+        "Wuhan",
+        "electrostatics",
+        "binding",
+        "pH",
+        "mucosa"
+    ],
+    "author": "Scott P. Morton and Joshua L. Phillips",
+    "date": 2020,
+    "affiliations": [
+        "Middle Tennessee State University Murfreesboro, Tennessee",
+        "Center for Computational Science",
+        "Department of Computer Science"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.30.071175",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.30.071175.pdf"
+    },
+    "abstract": "SARS-CoV-2 is a novel virus that is presumed to have emerged from bats to crossover into humans in late 2019. As the global pandemic ensues, scientist are working to evaluate the virus and develop a vaccine to counteract the deadly disease that has impacted lives across the entire globe. We perform computational electrostatic simulations on multiple variants of SARS-CoV-2 in complex with human angiotensin-converting enzyme 2 (ACE2) variants to examine differences in electrostatic interactions across the various complexes. Calculations are performed across the physiological pH range to also examine the impact of pH on these interactions. Two of six SARS-CoV-2 variations having greater electric forces at pH levels consistent with nasal secretions and significant variations in force across all five variants of ACE2. Five out of six SARS-CoV-2 variations have relatively consistent forces at pH levels of the lung, and one SARS-CoV-2 variant that has low potential across a wide range of pH. These predictions indicate that variants of SARS-CoV2 and human ACE2 in certain combinations could potentially play a role in increased binding efficacy of SARS-CoV-2 in vivo.",
+    "funding": [
+        {}
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Covid-19 deaths and positive cases show a remarkable heterogeneity across countries which cannot be easily explained on the basis of similarities or differences in the quality of healthcare, access to healthcare, testing facilities, or preventive measures such as lockdowns. Here we show that there is a distinct correlation between the mortality level and the infection level across countries, which can explain the mortality levels for a wide spectrum of countries. This implies that the number of deaths per 100 infected individuals is approximately the same across diverse countries and can be estimated from the slope of the mortality level-infection level plot. The correlation presented here can potentially be combined with estimates of infection spread to forecast future mortality levels and therefore future needs in terms of healthcare and other resources. Tracking of an individual locations temporal path on this plot can potentially serve as a visual assessment of the nature of the epidemic. Methods presented here are not specific to the current epidemic. This is a preliminary report and uses data from a single source at a single time-point to demonstrate the capability of such an analysis.",
+    "author": "Chetan Gadgil; Mugdha Gadgil",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087320",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087320"
+    },
+    "title": "Correlating Covid-19 mortality and infection levels",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding related to this project was received."
+        }
+    ]
+}

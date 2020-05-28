@@ -1,0 +1,37 @@
+{
+    "title": "Computational simulations reveal the binding dynamics between human ACE2 and the receptor binding domain of SARS-CoV-2 spike protein",
+    "author": "Cecylia S. Lupalaa, Xuanxuan Lib,a, Jian Leic, Hong Chene, Jianxun Qif, Haiguang Liua,d, Xiao-dong Sue",
+    "date": 2020,
+    "affiliations": [
+        "Computational Science Research Center, Haidian, Beijing 100193, People\u2019s Republic of China",
+        "Engingeering Physics Department, Tsinghua University, Haidian, Beijing 100084, People\u2019s Republic of China",
+        "State Key Laboratory of Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, People\u2019s Republic of China",
+        "Physics Department, Beijing Normal University, Haidian, Beijing 100875, People's Republic of China",
+        "School of Life Sciences, State Key Laboratory of Protein and Plant Gene Research and Biomedical Pioneering Innovation Center (BIOPIC), Peking University, Beijing 100871, People's Republic of China",
+        "CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, 100101, People's Republic of China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.24.005561",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.24.005561.pdf"
+    },
+    "abstract": "A novel coronavirus (the SARS-CoV-2) has been identified in January 2020 as the causal pathogen for COVID-19 pneumonia, an outbreak started near the end of 2019 in Wuhan, China. The SARS-CoV-2 was found to be closely related to the SARS-CoV, based on the genomic analysis. The Angiotensin converting enzyme 2 protein (ACE2) utilized by the SARS-CoV as a receptor was found to facilitate the infection of SARS-CoV-2, initiated by the binding of the spike protein to the human ACE2. Using homology modeling and molecular dynamics (MD) simulation methods, we report here the detailed structure of the ACE2 in complex with the receptor binding domain (RBD) of the SARS-CoV-2 spike protein. The predicted model is highly consistent with the experimentally determined complex structures. Besides the binding interface reported in the crystal structures, new plausible binding poses were revealed from all-atom MD simulations. The simulation data helped identify critical residues at the complex interface and provided more details about the interactions between the SARS-CoV-2 RBD and human ACE2. Two mutants mimicking rat ACE2 were modeled to study the mutation effects on RBD binding to ACE2. The simulations showed that the N-terminal helix and the K353 are very important for the tight binding of the complex, the mutants were found to alter the binding modes of the CoV2-RBD to ACE2.",
+    "keywords": [
+        "SARS-CoV-2",
+        "Spike protein",
+        "ACE2",
+        "Molecular Dynamics"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Beijing Computational Science Research Center"
+                }
+            ],
+            "funding-statement": "The work is supported by Beijing Computational Science Research Center (CSRC) via a director discretionary grant"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "The novel coronavirus disease 2019 (COVID-19) has recently been upgraded to a pandemic by the World Health Organization due to the alarming levels of spread and severity. Since several lines of evidence also attest that Lombardy region has an extraordinarily high level of environmental pollution, we aimed to explore the potential epidemiological association between the number of cases of COVID-19 and environmental pollution in Italy. Data on environmental pollution in Italy were retrieved from the 2019 annual report of the organization Legambiente (League for the Ambient). The adjusted correlation between the number of days in which environmental pollutants exceeded established limits and the overall number of COVID-19 cases reveals the existence of a highly significant positive association (r=0.66; 95% CI, 0.48-0.79; p<0.001). The association remained statistically significant even when the number of days above pollutant limits was correlated with the number of COVID-19 cases per 1000 inhabitants (r=0.43; 95% CI, 0.18-0.62; p=0.001). Living in a province with over 100 days per year in which environmental pollutants were exceeded was found to be associated with a nearly 3-fold higher risk of being positive for COVID-19 (0.014 vs. 0.005 COVID-19 cases per 1000 inhabitants; OR, 2.96; 95% 2.12-4.13; p<0.001). Reinforced restrictive measures shall be considered in areas with higher air pollution, where the virus is more likely to find a fertile biological or environmental setting.",
+    "author": "Brandon Michael Henry; Giuseppe Lippi; Fabian Sanchis-Gomar",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075986",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075986"
+    },
+    "title": "Association between environmental pollution and prevalence of coronavirus disease 2019 (COVID-19) in Italy",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors declare no relevant conflicts of interest to the content of the manuscript."
+        }
+    ]
+}

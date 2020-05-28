@@ -1,0 +1,20 @@
+{
+    "abstract": "A model to predict hospital bed requirements six weeks in advance to treat Covid-19 patients in California is presented. The model also gives prediction for number of cases and deaths during the same period. The model is versatile and can be applied to other countries and regions as well.\nCompeting Interest Statement",
+    "author": "Santanu Basu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.17.20104919",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.17.20104919"
+    },
+    "title": "Modelling to Predict Hospital Bed Requirements for Covid-19 Patients in California",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Sparkle Optics"
+                }
+            ],
+            "funding-statement": "This work was funded by Sparkle Optics"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "abstract": "Treatments are desperately needed to lower the hospitalization and case fatality rates of SARS CoV-2 infection. In order to meaningfully impact the COVID-19 pandemic, promising antiviral therapies must be identified within the next several months. However, the number of clinical trials that can be performed in this timeframe is limited. We therefore developed a mathematical model which allows projection of all possible therapeutic approaches. Our model recapitulates off-treatment viral dynamics and predicts a three-phase immune response. Addition of treatment with remdesivir, hydroxychloroquine, neutralizing antibodies or cellular immunotherapy demonstrates that if in vivo drug potency is high, then rapid elimination of virus is possible. Potent therapies dosed soon after peak viral load when infected people typically develop symptoms, are predicted to decrease shedding duration and intensity of the effector immune response, but to have little effect on viral area under the curve, which is driven by high levels of early SARS CoV-2 replication. Potent therapy dosed prior to peak viral load, when infection is usually pre-symptomatic, is predicted to be the only option to lower viral area under the curve. We also identify that clinically meaningful drug resistance is less likely to emerge with a highly potent agent that is dosed after peak viral load. Our results support an early test and treat approach for COVID-19, but also demonstrate the need to identify early viral shedding kinetic features that are the most predictive surrogates of clinical severity and transmission risk.",
+    "affiliations": [
+        "Hutchinson Cancer Research Center faculty discretionary funds"
+    ],
+    "author": "Joshua T Schiffer; E. Fabian Cardozo-Ojeda; Ashish Goyal",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20061325",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20061325"
+    },
+    "title": "Potency and timing of antiviral therapy as determinants of duration of SARS CoV-2 shedding and intensity of inflammatory response",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fred Hutchinson Cancer Research Center"
+                }
+            ],
+            "funding-statement": "This study was supported by Fred Hutchinson Cancer Research Center faculty discretionary funds"
+        }
+    ]
+}

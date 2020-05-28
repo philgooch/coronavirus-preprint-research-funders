@@ -1,0 +1,16 @@
+{
+    "abstract": "Mathematical modeling of non-pharmaceutical interventions (NPIs) of COVID-19 in Kenya is presented. An SEIR compartment model is considered with additional compartments of hospitalized population whose condition is severe or critical and also the fatalities compartment. The basic reproduction number (R_0) is computed by next generation matrix approach and later expressed as a time-dependent function so as to incorporate the NPIs into the model. The resulting system of ordinary differential equations (ODEs) are solved using fourth-order and fifth-order Runge-Kutta methods. Different intervention scenarios are considered and results show that, implementation of closure of education insitutions, curfew and partial lockdown yield predicted delayed peaks of the overall infections, severe cases and fatalities and subsequently containement of the pandemic in the country.",
+    "author": "Mark E. M. Kimathi; Samuel M. Mwalili; Viona N. Ojiambo; Duncan K. Gathungu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20102087",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20102087"
+    },
+    "title": "Modeling the Effects of Non-Pharmaceutical Interventions on COVID-19 Spread in Kenya",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

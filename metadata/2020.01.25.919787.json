@@ -1,0 +1,23 @@
+{
+    "title": "Time-varying transmission dynamics of Novel Coronavirus Pneumonia in China",
+    "author": "Tao Liu, Jianxiong Hu, Jianpeng Xiao, Guanhao He, Min Kang, Zuhua Rong, Lifeng Lin, Haojie Zhong, Qiong Huang, Aiping Deng, Weilin Zeng, Xiaohua Tan, Siqing Zeng, Zhihua Zhu, Jiansen Li, Dexin Gong, Donghua Wan, Shaowei Chen, Lingchuan Guo, Yan Li, Limei Sun, Wenjia Liang, Tie Song, Jianfeng He, Wenjun Ma",
+    "date": 2020,
+    "affiliations": [
+        "Guangdong Provincial Institute of Public Health, Guangdong Provincial Center for Disease Control and Prevention, Guangzhou, China",
+        "Guangdong Provincial Center for Disease Control and Prevention, Guangzhou, China",
+        "Joint first author",
+        "Equal corresponding author Correspondence to: Dr. Jianfeng He, Guangdong Provincial Center for Disease Control and Prevention, Guangzhou 511430, China",
+        "National Key Research and Development Program of China (2018YFA0606200, 2018YFA0606202), the Science and Technology Program of Guangdong Province (2018B020207006, 2019B020208005, 2019B111103001), Guangzhou Science and technology Plan Project (201804010383). Running-head: Transmission dynamics of NCP Subject category number: 10.14 Pneumonia: Viral Infections Total word count: 2895"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.01.25.919787",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.01.25.919787.pdf"
+    },
+    "abstract": "Rationale: Several studies have estimated basic production number of novel coronavirus pneumonia (NCP). However, the time-varying transmission dynamics of NCP during the outbreak remain unclear. Objectives: We aimed to estimate the basic and time-varying transmission dynamics of NCP across China, and compared them with SARS. Methods: Data on NCP cases by February 7, 2020 were collected from epidemiological investigations or official websites. Data on severe acute respiratory syndrome (SARS) cases in Guangdong Province, Beijing and Hong Kong during 2002-2003 were also obtained. We estimated the doubling time, basic reproduction number (R0) and time-varying reproduction number (Rt) of NCP and SARS. Measurements and main results: As of February 7, 2020, 34,598 NCP cases were identified in China, and daily confirmed cases decreased after February 4. The doubling time of NCP nationwide was 2.4 days which was shorter than that of SARS in Guangdong (14.3 days), Hong Kong (5.7 days) and Beijing (12.4 days). The R0 of NCP cases nationwide and in Wuhan were 4.5 and 4.4 respectively, which were higher than R0 of SARS in Guangdong (R0=2.3), Hongkong (R0=2.3), and Beijing (R0=2.6). The Rt for NCP continuously decreased especially after January 16 nationwide and in Wuhan. The R0 for secondary NCP cases in Guangdong was 0.6, and the Rt values were less than 1 during the epidemic. Conclusions: NCP may have a higher transmissibility than SARS, and the efforts of containing the outbreak are effective. However, the efforts are needed to persist in for reducing time-varying reproduction number below one. Key word: 2019-nCoV; transmissibility; Wuhan; basic reproduction number; time-varying reproduction number Word count of abstract: 249",
+    "funding": [
+        {}
+    ]
+}

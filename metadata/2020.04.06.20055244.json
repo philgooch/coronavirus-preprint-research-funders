@@ -1,0 +1,16 @@
+{
+    "abstract": "Coronavirus disease 2019 (COVID19) has spread to 181 countries and regions and leaving behind 1,133,788 confirmed cases and 62784 deaths worldwide. Countries with lower health services and facilities like Pakistan are on great risk. Pakistan so far has 3,277 confirmed cases and 50 reported deaths due to COVID19. Various mathematical models had presented to predict the global and regional size of pandemic. However, all those models have certain limitation due to their dependence on different variables and analyses are subject to potential bias. As each country has its own dimension therefore country specific model are required to develop accurate estimate. Here we present a data model to predict the size of COVID19 in Pakistan. In this mathematical data model, we used the time sequence mean weighting (TSMW) to estimate the expected future number of COVID19 cases in Pakistan until 29th April 2020. For future expected numbers of cases for long terms the data collection have to be maintained in real time.",
+    "author": "Muhammad Yasir; Muhammad Qasim; Shenghuan Zhang; Waqas Ahmad; Muhammad Azhar",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20055244",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055244"
+    },
+    "title": "Data model to predict prevalence of COVID-19 in Pakistan",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Since the outbreak of the COVID-19 pandemic, multiple efforts of modelling of the geo-temporal transmissibility of the virus have been undertaken, but none describes the pandemic spread at the global level. The aim of this research is to provide a high-resolution global model of the pandemic that overcomes the problem of biased country-level data on the number of infected cases. To achieve this we propose a novel SIR-type metapopulation transmission model and a set of analytically derived model parameters. We used them to perform a simulation of the disease spread with help of the Global Epidemic and Mobility (GLEAM) framework embedding actual population densities, commute patterns and long-range travel networks. The simulation starts on Nov 17th, 2019 with just a single pre-symptomatic, yet infectious, case in Wuhan, China, and results in an accurate prediction of the number of diagnosed cases after 154 days in multiple countries across five continents. In addition, the model outcome shows high compliance with the results of a random screening test conducted on pregnant women in the New York area. Method: We have built a modified SIR metapopulation transmission model and parameterized it analytically either by setting the values of the parameters based on the literature, or by assuming their plausible values. We compared our results with the number of diagnosed cases in twenty selected countries which provide reliable statistics but differ substantially in terms of strength and speed of undertaken Non-Drug Interventions. The obtained 95% confidence intervals for the predictions are in agreement with the empirical data. Results: The parameters that successfully model the pandemic are: the basic reproduction number R0, 4.4; a latent non-infectious period of 1.1. days followed by 4.6 days of the presymptomatic infectious period; the probability of developing severe symptoms, 0.01; the probability of being diagnosed when presenting severe symptoms of 0.6; the probability of diagnosis for cases with mild symptoms or asymptomatic, 0.001. Discussion: Parameters that successfully reproduce the observed number of cases indicate that both R0 and the prevalence of the virus might be underestimated. This is in concordance with the newest research on undocumented COVID-19 cases. Consequently, the actual mortality rate is putatively lower than estimated. Confirmation of the pandemic characteristic by further refinement of the model and screening tests is crucial for developing an effective strategy for the global epidemiological crisis.\nCompeting Interest Statement",
+    "author": "Marlena M Siwiak; Marian P Siwiak; Pawel Szczesny",
+    "date": 2020,
+    "doi": "10.1101/2020.03.21.20040444",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.21.20040444"
+    },
+    "title": "From a single host to global spread. The global mobility based modelling of the COVID-19 pandemic implies higher infection and lower detection rates than current estimates.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was involved in the research. All work was voluntarily donated by researchers."
+        }
+    ]
+}

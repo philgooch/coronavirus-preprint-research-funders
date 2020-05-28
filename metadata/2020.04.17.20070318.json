@@ -1,0 +1,41 @@
+{
+    "abstract": "The COVID-19 pandemic is complex and is developing in different ways according to the country involved. To identify the key parameters or processes that have the greatest effects on the pandemic and reveal the different progressions of epidemics in different countries, we quantified enhanced control measures and the dynamics of the production and provision of medical resources. We then nested these within a COVID-19 epidemic transmission model, which is parameterized by multi-source data. We obtained rate functions related to the intensity of mitigation measures, the effective reproduction numbers and the timings and durations of runs on medical resources, given differing control measures implemented in various countries. Increased detection rates may induce runs on medical resources and prolong their durations, depending on resource availability. Nevertheless, improving the detection rate can effectively and rapidly reduce the mortality rate, even after runs on medical resources. Combinations of multiple prevention and control strategies and timely improvement of abilities to supplement medical resources are key to effective control of the COVID-19 epidemic. A 50% reduction in comprehensive control measures would have led to the cumulative numbers of confirmed cases and deaths exceeding 590000 and 60000, respectively, by 27 March 2020 in mainland China. The proposed model can assist health authorities to predict when they will be most in need of hospital beds and equipment such as ventilators, personal protection equipment, drugs and staff.",
+    "affiliations": [
+        "National Natural Science Foundation of 353 China (NSFCs: 11631012, 61772017), and by the Fundamental Research Funds for 354 the Central Universities (GK202007001, GK202003005, xzy032020028)"
+    ],
+    "author": "Robert A. Cheke; Fan Xia; Qian Li; Yanni Xiao; Xia Wang; Pengfei Song; Sanyi Tang; Sha He; Jianhong Wu; Yiming Shao; Xiaodan Sun",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20070318",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20070318"
+    },
+    "title": "Effects of medical resource capacities and intensities of public mitigation measures on outcomes of COVID-19 outbreaks",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of",
+                    "award-id": [
+                        "NSFCs: 11631012",
+                        "61772017"
+                    ]
+                },
+                {
+                    "funding-source": "Fundamental Research Funds for",
+                    "award-id": [
+                        "GK20200700"
+                    ]
+                },
+                {
+                    "funding-source": "Central Universities",
+                    "award-id": [
+                        "GK202007001",
+                        "GK202003005",
+                        "xzy032020028"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was partially supported by the National Natural Science Foundation of 353 China (NSFCs: 11631012, 61772017), and by the Fundamental Research Funds for 354 the Central Universities (GK202007001, GK202003005, xzy032020028)"
+        }
+    ]
+}

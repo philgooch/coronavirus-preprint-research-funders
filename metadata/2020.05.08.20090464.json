@@ -1,0 +1,23 @@
+{
+    "abstract": "A study with a societal objective was carried out on people exchanging on social networks and more particularly on Twitter to observe their feelings on the COVID-19. A dataset of more than 600,000 tweets with hashtags like COVID and coronavirus posted between February 27, 2020 and March 25, 2020 was built. An exploratory treatment of the number of tweets posted by country, by language and other parameters revealed an overview of the apprehension of the pandemic around the world. A sentiment analysis was elaborated on the basis of the tweets posted in English because these constitute the great majority. On the other hand, the FP-Growth algorithm was adapted to the tweets in order to discover the most frequent patterns and its derived association rules, in order to highlight the tweeters insights relatively to COVID-19.",
+    "author": "Yassine Drias; Habiba H. Drias",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20090464",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20090464"
+    },
+    "title": "Mining Twitter Data on COVID-19 for Sentiment analysis and frequent patterns Discovery",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Directorate General for Scientific Research and Technological Development",
+                    "award-id": [
+                        "C0662300"
+                    ]
+                }
+            ],
+            "funding-statement": "We would like to express our special thanks of gratitude to the Directorate General for Scientific Research and Technological Development (DGRSDT), for the support of this work under the grant number C0662300"
+        }
+    ]
+}

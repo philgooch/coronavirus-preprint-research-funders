@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: In response to the coronavirus pandemic, social distancing became a widely deployed countermeasure in March 2020. We examined whether healthier and wealthier places more successfully implemented social distancing. Methods: Mobile device location data were used to quantify declines in movement by county (n=2,633) in the United States of America, comparing April 15-17 (n=65,544,268 traces) to baseline of February 17 - March 7. Negative binomial regression was used to estimate gradients of privilege across eleven healthcare and economic indicators, adjusting for rurality and stay-at-home mandates. External validation used separate venue-specific data from Google Location Services. Findings: Counties without stay-at-home orders showed a mobility decline of -52.3% (95% CI: -50.3%, -54.3%), slightly less than the decline in mandated areas (-60.8%; 95% CI: -60.0%, -61.6%). Strong linear gradients in privilege were observed. After adjusting for rurality and stay-at-home orders, counties in the highest quintile of social distancing mobility restriction had: 52% less uninsured, 47% more primary care providers, 29% more exercise space, 27% less food insecurity, 26% less child poverty, 17% higher incomes, 14% less overcrowding, 9.6% more racial segregation, 8.2% less youth, 7.4% more elderly, and 6.2% less influenza vaccination, compared to least social distancing areas. Interpretation: Healthier and wealthier counties displayed a social distancing privilege gap, measured via smartphone mobility change. Structural inequities in this key countermeasure will influence immunity, and disease incidence and mortality.\nCompeting Interest Statement",
+    "author": "Michele Jonsson Funk; Benjamin Eugene White; Allison Lazard; Nabarun Dasgupta; Stephen W. Marshall",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20084624",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20084624"
+    },
+    "title": "Quantifying the social distancing privilege gap: a longitudinal study of smartphone movement",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None."
+        }
+    ]
+}

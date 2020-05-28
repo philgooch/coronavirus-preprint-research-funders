@@ -1,0 +1,16 @@
+{
+    "abstract": "A simple two-cohort SIR like model can explain the qualitative behaviour of the logarithmic derivative estimations of the covid-19 epidemic evolution as observed in several countries. The model consists of a general population in which the R_0 value is slightly below 1, but in which a super-spreading small subgroup with high R_0, coupled to the general population, is contaminating a significant fraction of the population. The epidemic starts to slow down when herd immunity is reached in this subgroup. The dynamics of this system is quite robust against non-pharmaceutical measures.",
+    "author": "Patrick Van Esch",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103184",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103184"
+    },
+    "title": "Super spreader cohorts and covid-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There has been no funding for this research"
+        }
+    ]
+}

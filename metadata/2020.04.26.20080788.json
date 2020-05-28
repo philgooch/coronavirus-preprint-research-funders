@@ -1,0 +1,26 @@
+{
+    "abstract": "Transmission of infectious diseases is characterized by the basic reproduction number R0, a metric used to assess the threat posed by an outbreak and inform proportionate preventive decision-making. Based on individual case reports from the initial stage of the coronavirus disease 2019 epidemic, R0 is often estimated to range between 2 and 4. In this report, we show that a SEIR model that properly accounts for the distribution of the incubation period suggests that R0 lie in the range 4.4 - 11.7. This estimate is based on the doubling time observed in the near-exponential phases of the epidemic spread in China, United States, and six European countries. To support our empirical estimation, we analyze stochastic trajectories of the SEIR model showing that in the presence of super-spreaders the calculations based on individual cases reported during the initial phase of the outbreak systematically overestimate the doubling time and thus underestimate the actual value of R0.",
+    "affiliations": [
+        "National Science Centre (Poland) grant 2018/29/B/NZ2/00668"
+    ],
+    "author": "Tomasz Lipniacki; Frederic Grabowski; Marek Kochanczyk",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20080788",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20080788"
+    },
+    "title": "Accounting for super-spreading gives the basic reproduction number R0 of COVID-19 that is higher than initially estimated",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Centre",
+                    "award-id": [
+                        "2018/29/B/NZ2/00668"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by the National Science Centre (Poland) grant 2018/29/B/NZ2/00668"
+        }
+    ]
+}

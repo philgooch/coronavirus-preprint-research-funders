@@ -1,0 +1,79 @@
+{
+    "title": "Molecular Architecture of Early Dissemination and Evolution of the SARS-CoV-2 Virus in Metropolitan Houston, Texas",
+    "author": "S. Wesley Lon, Randall J. Olsen,a,b, Paul A. Christensen,a, David W. Bernar,b James R. Davis,c,d Maulik Shukl,d Marcus Nguyen,c,d Matthew Ojeda Saavedra,a Concepcion C. Cantu,a Prasanti Yerramilli,a Layne Pruitt,a Sishir Subedi,a Heather Hendrickson,a Ghazaleh Eskandari,a Muthiah Kumaraswami,a Jason S. McLellan,e and James M. Mussera,b",
+    "date": 2020,
+    "affiliations": [
+        "Center for Molecular and Translational Human Infectious Diseases Research, Department of Pathology and Genomic Medicine, Houston Methodist Research Institute and Houston Methodist Hospital, 6565 Fannin Street, Houston, Texas 77030",
+        "Departments of Pathology and Laboratory Medicine, and Microbiology and Immunology, Weill Cornell Medical College, 1300 York Avenue, New York, New York 10065",
+        "Consortium for Advanced Science and Engineering, University of Chicago, 5801 South Ellis Avenue, Chicago, Illinois, 60637",
+        "Computing, Environment and Life Sciences, Argonne National Laboratory, 9700 South Cass Avenue, Lemont, Illinois 60439"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.01.072652",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.01.072652.pdf"
+    },
+    "abstract": "[Abstract] We sequenced the genomes of 320 SARS-CoV-2 strains from COVID-19 patients in metropolitan Houston, Texas, an ethnically diverse region with seven million residents. These genomes were from the viruses causing infections in the earliest recognized phase of the pandemic affecting Houston. Substantial viral genomic diversity was identified, which we interpret to mean that the virus was introduced into Houston many times independently by individuals who had traveled from different parts of the country and the world. The majority of viruses are apparent progeny of strains derived from Europe and Asia. We found no significant evidence of more virulent viral types, stressing the linkage between severe disease, underlying medical conditions, and perhaps host genetics. We discovered a signal of selection acting on the spike protein, the primary target of massive vaccine efforts worldwide. The data provide a critical resource for assessing virus evolution, the origin of new outbreaks, and the effect of host immune response.",
+    "keywords": [
+        "] SARS-CoV-2",
+        "COVID-19",
+        "genome sequencing",
+        "remdesivir",
+        "molecular evolution"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "AI146771-01",
+                        "AI139369-01"
+                    ]
+                },
+                {
+                    "funding-source": "Fondren Foundation, Houston"
+                },
+                {
+                    "funding-source": "Methodist Hospital and Research Institute",
+                    "award-id": [
+                        "AI127521",
+                        "to J.S.M."
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI127521",
+                        "to J.S.M."
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by the National Institutes of Health grants AI146771-01 and AI139369-01, and the Fondren Foundation, Houston Methodist Hospital and Research Institute (to JMM), and NIH grant AI127521 (to J.S.M.)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIAID Bacterial and Viral Bioinformatics",
+                    "award-id": [
+                        "75N93019C00076"
+                    ]
+                }
+            ],
+            "funding-statement": "J.J.D, M.S., and M.N. are supported by the NIAID Bacterial and Viral Bioinformatics resource center award (contract number 75N93019C00076)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "United States Defense Advanced Research Projects Agency Award",
+                    "award-id": [
+                        "HR0011937807"
+                    ]
+                }
+            ],
+            "funding-statement": "JJD and MN are also funded by the United States Defense Advanced Research Projects Agency Award iSENTRY Friend or Foe program award (contract number HR0011937807)"
+        }
+    ]
+}

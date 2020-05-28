@@ -1,0 +1,32 @@
+{
+    "abstract": "Background: The recent outbreak of infections by the 2019 novel coronavirus (2019-nCoV), the third zoonotic CoV has raised great public health concern. The demand for rapid and accurate diagnosis of this novel pathogen brought significant clinical and technological challenges. Currently, metagenomic next-generation sequencing (mNGS) and reverse-transcription PCR (RT-PCR) are the most widely used molecular diagnostics. Methods: 2019-nCoV infections were confirmed in 52 specimens by mNGS. Genomic information was analyzed and used for the design and development of an isothermal, CRISPR-based diagnostic for this novel virus. The diagnostic performance of CRISPR-nCoV was assessed and compared across three technology platforms (mNGS, RT-PCR and CRISPR). Results: 2019-nCoVs sequenced in our study were conserved with the Wuhan strain, and shared certain genetic similarity with SARS-CoV. A high degree of variation in the level of viral RNA was observed in clinical specimens. CRISPR-nCoV demonstrated a near single-copy sensitivity and great clinical sensitivity with a shorter turn-around time than RT-PCR. Conclusion: CRISPR-nCoV presents as a promising diagnostic option for the emerging pathogen.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Major Science & Technology Project for Control and Prevention of Major Infectious Diseases in China; Guangdong Science and Technology Department ;Guangzhou Science, Technology and Innovation Commission"
+    ],
+    "author": "Xiaorui Wang; Tieying Hou; Yongjun Li; Hang Su; Yalong Liao; Weiqi Zeng; Bing Gu; Jingwen Ai; Teng Xu; Minling Yang; Jianwei Wang; Ji Wu; Wenjing Chen; Lili Ren; Xuejing Gou",
+    "date": 2020,
+    "doi": "10.1101/2020.02.22.20025460",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.22.20025460"
+    },
+    "title": "Development and Evaluation of A CRISPR-based Diagnostic For 2019-novel Coronavirus",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Major Science & Technology Project for Control and Prevention of Major Infectious Diseases in China; Guangdong"
+                },
+                {
+                    "funding-source": "Science and Technology Department"
+                },
+                {
+                    "funding-source": "Guangzhou Science, Technology"
+                },
+                {
+                    "funding-source": "Innovation Commission"
+                }
+            ],
+            "funding-statement": "National Major Science & Technology Project for Control and Prevention of Major Infectious Diseases in China; Guangdong Science and Technology Department ;Guangzhou Science, Technology and Innovation Commission"
+        }
+    ]
+}

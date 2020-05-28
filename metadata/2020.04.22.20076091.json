@@ -1,0 +1,57 @@
+{
+    "abstract": "The COVID-19 pandemic is spreading globally with high disparity in the susceptibility of the disease severity. Identification of the key underlying factors for this disparity is highly warranted. Here we describe constructing a proteomic risk score based on 20 blood proteomic biomarkers which predict the progression to severe COVID-19. We demonstrate that in our own cohort of 990 individuals without infection, this proteomic risk score is positively associated with proinflammatory cytokines mainly among older, but not younger, individuals. We further discovered that a core set of gut microbiota could accurately predict the above proteomic biomarkers among 301 individuals using a machine learning model, and that these gut microbiota features are highly correlated with proinflammatory cytokines in another set of 366 individuals. Fecal metabolomic analysis suggested potential amino acid-related pathways linking gut microbiota to inflammation. This study suggests that gut microbiota may underlie the predisposition of normal individuals to severe COVID-19.",
+    "author": "Menglei Shuai; Xue Cai; Tiannan Guo; Xiaomai Wu; Geng-dong Chen; Zelei Miao; Jun Wang; Yu-ming Chen; Mian-li Xiao; Yuanqing Fu; Bo Shen; Fengzhe Xu; Wanglong Gou; Liang Yue; Wenhua Ling; Zengliang Jiang; Hao Chen; Yi Judy Zhu; Xiao Yi; Haihong Zhao; Congmei Xiao; Ju-Sheng Zheng",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20076091",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20076091"
+    },
+    "title": "Gut microbiota may underlie the predisposition of healthy individuals to COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81903316",
+                        "81773416",
+                        "81972492",
+                        "21904107",
+                        "81672086"
+                    ]
+                },
+                {
+                    "funding-source": "Zhejiang Ten-thousand Talents Program",
+                    "award-id": [
+                        "101396522001"
+                    ]
+                },
+                {
+                    "funding-source": "Zhejiang Provincial Natural Science Foundation for Distinguished Young Scholars",
+                    "award-id": [
+                        "LR19C050001"
+                    ]
+                },
+                {
+                    "funding-source": "Program for Clinical Researches",
+                    "award-id": [
+                        "2007032"
+                    ]
+                },
+                {
+                    "funding-source": "Sun Yat-sen University, Hangzhou"
+                },
+                {
+                    "funding-source": "Agriculture and Society Advancement Program",
+                    "award-id": [
+                        "20190101A04"
+                    ]
+                },
+                {
+                    "funding-source": "Tencent foundation"
+                }
+            ],
+            "funding-statement": "This study was funded by the National Natural Science Foundation of China (81903316, 81773416, 81972492, 21904107, 81672086), Zhejiang Ten-thousand Talents Program (101396522001), Zhejiang Provincial Natural Science Foundation for Distinguished Young Scholars (LR19C050001), the 5010 Program for Clinical Researches (2007032) of the Sun Yat-sen University, Hangzhou Agriculture and Society Advancement Program (20190101A04), and Tencent foundation (2020)"
+        }
+    ]
+}

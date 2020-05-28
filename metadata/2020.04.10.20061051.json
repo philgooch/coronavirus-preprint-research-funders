@@ -1,0 +1,16 @@
+{
+    "abstract": "In this paper we study the statistical evolution in time of the Covid-19 pandemic in Spain, Italy, Germany, Belgium, The Netherlands, Austria and Portugal, i.e., the countries of the European Union (EU) that have a number of positive cases higher than 12 thousand at April 7, 2020. France is the third country of the EU for number of cases but a jump in the data on April 3, 2020 does not allow, at least for the moment, to have a reliable prediction curve. The analysis is based on the use of a function of the type of a Gauss Error Function, with four parameters, as a Cumulative Distribution Function (CDF). A Monte Carlo analysis is used to estimate the uncertainty. The approach used in this paper is mathematical and statistical and thus does not explicitly consider a number of relevant issues, including number of nasopharyngeal swabs, mitigation measures, social distancing, virologic, epidemiological and models of contamination diffusion.",
+    "author": "Ignazio Ciufolini; Antonio Paolozzi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20061051",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20061051"
+    },
+    "title": "A Mathematical prediction of the time evolution of the Covid-19 pandemic in some countries of the European Union using Monte Carlo simulations",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this work"
+        }
+    ]
+}

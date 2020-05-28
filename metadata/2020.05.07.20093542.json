@@ -1,0 +1,37 @@
+{
+    "abstract": "Rapid, reliable, and widespread testing is required to curtail the ongoing COVID-19 pandemic. Current gold standard diagnostic assays are hampered by supply shortages in critical reagents including nasal swabs, RNA extraction kits, personal protective equipment (PPE), instrumentation, and labor. Here we present an approach to overcome these challenges with the development of a rapid colorimetric assay using reverse-transcription loop-mediated isothermal amplification (RT-LAMP) optimized on human saliva samples without an RNA purification step. We describe our optimizations of the LAMP reaction and saliva pre-treatment protocols that enabled rapid and sensitive detection of < 10^2 viral genomes per reaction in contrived saliva controls. We also observed high performance of this assay on a limited number of clinical saliva samples. While thorough validation on additional clinical samples are needed before such an assay can be widely used, these preliminary results demonstrate a promising approach to overcome the current bottlenecks limiting widespread testing.",
+    "affiliations": [
+        "Washington University in St. Louis has filed patent applications regarding this technology on behalf of the inventors",
+        "Department of Genetics and the McDonnell Genome Institute, and NIH grants P30 CA91842 and UL1 TR000448"
+    ],
+    "author": "Richard D Head; Michael Heinz; William J Buchser; Robert S Fulton; Lauren C Burcea; Catrina C Fronick; Christopher S Sawyer; Xuhua Chen; S Joshua Langmade; Robi D Mitra; Matthew A Lalli; Jeffrey Milbrandt",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20093542",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20093542"
+    },
+    "title": "Rapid and extraction-free detection of SARS-CoV-2 from saliva with colorimetric LAMP",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "WUSM COVID Research"
+                },
+                {
+                    "funding-source": "Department of Genetics and the McDonnell Genome Institute,",
+                    "award-id": [
+                        "CA91842"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "CA91842",
+                        "TR000448"
+                    ]
+                }
+            ],
+            "funding-statement": "These studies were supported by donations to the WUSM COVID Research fund, the Department of Genetics and the McDonnell Genome Institute, and NIH grants P30 CA91842 and UL1 TR000448."
+        }
+    ]
+}

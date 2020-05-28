@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The ongoing Coronavirus disease 2019 (COVID-19) pandemic is unprecedented in scope. High income countries (HIC) seemingly account for the majority of the mortalities considering that these countries have screened more persons. Low middle income countries (LMIC) countries may experience far worse mortalities considering the existence of a weaker health care system and the several underlying population level morbidities. As a result, it becomes imperative to understand the ecological correlation between critical underlying population level morbidities and COVID-19 case fatality rates (CFR). Method: This is an ecological study using data on COVID-19 cases, prevalence of COPD, prevalence of tobacco use, adult HIV prevalence, quality of air and life expectancy. We plotted a histogram, performed the Shapiro-Wilk normality test and used spearman correlation to assess the degree of correlation between COVID-19 case fatality rate (CFR) and other covariates mentioned above. Result: As at the 31st of March 2020, there were a total of 846,281 cases of COVID-19 from 204 countries and a global case fatality rate of 5% (range 0% to 29%). Angola and Sudan both had the highest CFR of 29%, while Italy had the highest number of deaths (i.e. 12,428) as at 31st of March 2020. Adult HIV prevalence has a significant but weak negative correlation with CFR (correlation coefficient = - 0.24, p value =0.01) while all the other variables have positive correlation with CFR due to COVID-19 though not statistically significant. Of the 204 countries analyzed, only 11 countries (i.e. 5%) had complete datasets across all 5 population level morbidities (i.e. prevalence of COPD, prevalence of tobacco use, life expectancy, quality of air, and adult HIV prevalence variables). Correlations of CFR from these 11 countries were similar to that from the 204 countries except for the correlation with quality of air and prevalence of tobacco use. Conclusion: While we interpret our data with caution given the fact that this is an ecological study, our findings suggest that population level factors such as prevalence of COPD, prevalence of tobacco use, life expectancy and quality of air are positively correlated with CFR from COVID-19 but, adult HIV prevalence has a weak and negative correlation with COVID-19 CFR and would require extensive research.\nCompeting Interest Statement",
+    "author": "ALASH'LE ABIMIKU; EVAEZI OKPOKORO; ELIMA JEDY-AGBA; VICTORIA IGBINOMWANHIA; EZENWA ONYEMATA; GBENGA KAYODE",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20082370",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20082370"
+    },
+    "title": "Ecologic correlation between underlying population level morbidities and COVID-19 case fatality rate among countries infected with SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received"
+        }
+    ]
+}

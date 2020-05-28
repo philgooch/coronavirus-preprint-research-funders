@@ -1,0 +1,63 @@
+{
+    "abstract": "Objective: To assess the impact of describing an antibody-positive test result using the terms Immunity and Passport or Certificate, alone or in combination, on perceived risk of becoming infected with SARS-CoV-2 and intention to continue protective behaviours. Design: 2 by 3 experimental design. Setting: Online with data collected between 28th April and 1st May 2020. Participants: 1,204 adults registered with a UK research panel. Intervention: Participants were randomised to receive one of six descriptions of an antibody test and results showing SARS-CoV-2 antibodies, differing in the terms used to describe the type of test (Immunity vs Antibody) and the test result (Passport vs Certificate vs Test). Main outcome measures: The primary outcome was the proportion of participants perceiving no risk of becoming infected with SARS-CoV-2 given an antibody positive test result. Other outcomes include intended changes to frequency of hand washing and physical distancing. Results: When using the term Immunity (vs Antibody), 19.1% of participants [95% CI: 16.1 to 22.5] (vs 9.8% [95% CI: 7.5 to 12.4]) perceived no risk of catching coronavirus at some point in the future given an antibody-positive test result (AOR: 2.91 [95% CI: 1.52 to 5.55]). Using the terms Passport or Certificate, as opposed to Test, had no significant effect (AOR: 1.24 [95% CI: 0.62 to 2.48] and AOR: 0.96 [95% CI: 0.47 to 1.99] respectively). There was no significant interaction between the effects of the test and result terminology. Across groups, perceiving no risk of infection was associated with an intention to wash hands less frequently (AOR: 2.32 [95% CI: 1.25 to 4.28]) but there was no significant association with intended avoidance of physical contact with others outside of the home (AOR: 1.37 [95% CI: 0.93 to 2.03]). Conclusions: Using the term Immunity (vs Antibody) to describe antibody tests for SARS-CoV-2 increases the proportion of people believing that an antibody-positive result means they have no risk of catching coronavirus in the future, a perception that may be associated with less frequent hand washing. The way antibody testing is described may have implications for the likely impact of testing on transmission rates.",
+    "affiliations": [
+        "National Institute for Health Research Health Protection Research Unit (NIHR HPRU) in Emergency Preparedness and Response at King\u0092s College London in partnership with Public Health England (PHE), in collaboration with the University of East Anglia. The views expressed in this paper are those of the authors and not necessarily those of UK government, Cancer Research UK, NIHR or Public Health England"
+    ],
+    "author": "Henry W W Potts; G James Rubin; Theresa M Marteau; Jo Waller; Abigail Mottershaw",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093401",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093401"
+    },
+    "title": "Immunity Passports for SARS-CoV-2: an online experimental study of the impact of antibody test terminology on perceived risk and behaviour",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK government"
+                },
+                {
+                    "funding-source": "Behavioural Insights Team"
+                }
+            ],
+            "funding-statement": "Data collection for this study was funded by a block UK government grant to the Behavioural Insights Team"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Cancer Research UK",
+                    "award-id": [
+                        "ref C7492/A17219"
+                    ]
+                }
+            ],
+            "funding-statement": "JW is funded by a career development fellowship from Cancer Research UK (ref C7492/A17219)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research Health Protection Research Unit",
+                    "award-id": [
+                        "NIHR HPRU"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR HPRU)"
+                },
+                {
+                    "funding-source": "Emergency Preparedness and Response"
+                },
+                {
+                    "funding-source": "College London in"
+                },
+                {
+                    "funding-source": "Public Health England"
+                },
+                {
+                    "funding-source": "University of East Anglia"
+                }
+            ],
+            "funding-statement": "GJR is funded by the National Institute for Health Research Health Protection Research Unit (NIHR HPRU) in Emergency Preparedness and Response at King\u0092s College London in partnership with Public Health England (PHE), in collaboration with the University of East Anglia"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "abstract": "Objective: This study is focused on the analysis of the spread of Covid19 in Nigeria, applying statistical models and available data from the NCDC. We present an insight into the spread of Covid19 in Nigeria in order to establish a suitable prediction model, which can be applied as a decisionsupportive tool for assigning health interventions and mitigating the spread of the Covid19 infection. Methodology: Daily spread data from February 27 to April 26, 2020, were collected to construct the autoregressive integrated moving average (ARIMA) model using the R software. Stability analysis and stationarity test, parameter test, and model diagnostic were also carried out. Finally, the fitting, selection and prediction accuracy of the ARIMA model was evaluated using the AICc model selection criteria. Results: The ARIMA (1,1,0) model was finally selected among ARIMA models based upon the parameter test and Box Ljung test. A ten day forecast was also made from the model, which shows a steep upward trend of the spread of the COVID19 in Nigeria within the selected time frame. Conclusion: Federal Government of Nigeria through the presidential task force can apply the forecasted trend of much more spread to make more informed decisions on the additional measures in place to curb the spread of the virus. Application of the model can also assist in studying the effectiveness of the lockdown on the on the spread of Covid19 in Nigeria.",
+    "affiliations": [
+        "Federal Government of Nigeria through the presidential task force can apply the forecasted trend of much more spread to make more informed decisions on the additional measures in place to curb the spread of the virus. Application of the model can also assist in studying the effectiveness of the lockdown on the on the spread of Covid19 in Nigeria"
+    ],
+    "author": "Rauf Rauf Ibrahim; OLUWAKEMI HANNAH OLADIPO",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091686",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091686"
+    },
+    "title": "Forecasting the spread of COVID-19 in Nigeria using Box-Jenkins Modeling Procedure",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

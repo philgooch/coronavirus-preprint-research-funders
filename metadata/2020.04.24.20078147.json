@@ -1,0 +1,16 @@
+{
+    "abstract": "Rapid testing of appropriate specimens from patients suspected for a disease during an epidemic, such as the current Coronavirus outbreak, is of a great importance for the disease management and control. We propose a method to enhance processing large amounts of collected samples. The method is based on mixing samples in testing tubes in a specific configuration, as opposed to testing single samples in each tube, and ac- counting for natural virus amounts in infected patients from variation of positiveness in test tubes. To illustrate the efficiency of the suggested method we carry out numerical tests for actual scenarios under various tests. Applying the proposed method enhances the number of tests by order of magnitudes, where all positives are identified with no false negatives, and the effective testing time can be reduced drastically even when the uncertainty in the test is relatively high.",
+    "author": "Usama Kadri",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078147",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078147"
+    },
+    "title": "Variation of positiveness to enhance testing of specimens during an epidemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There are no external funding."
+        }
+    ]
+}

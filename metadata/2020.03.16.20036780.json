@@ -1,0 +1,63 @@
+{
+    "abstract": "Background: Since December 2019, when coronavirus disease 2019 (COVID 19) emerged in Wuhan and rapidly spread throughout the world, critically ill patients have a high mortality rate. We aimed to assess the effect of continuous renal replacement therapy (CRRT) on all cause mortality in patients with COVID 19 undergoing invasive mechanical ventilation. Methods: In this retrospective cohort study, we included all patients with COVID 19 undergoing invasive mechanical ventilation at Optical Valley Branch of Tongji Hospital Affiliated with Tongji Medical College, Huazhong University of Science and Technology, Wuhan from February 12th to March 2nd, 2020. Demographic, clinical, laboratory, and treatment data were collected and analyzed. All patients were followed until death or end of follow up (March 9th), and all survivors were followed for at least one week. Findings: Of 36 hospitalized COVID-19 patients with invasive mechanical ventilation, the mean age was 69.4 (SD 1.8) years and 30 (83.3%) were men. 22 (61.1%) patients received CRRT (CRRT group) and 14 cases (38.9%) were managed in conventional strategy (non CRRT group). There was no difference in age, sex, comorbidities, complications, treatments and most of the laboratory findings, except for patients in the CRRT group with higher levels of aspartate aminotransferase and serum creatinine. During the average follow-up period of 10.4 days, 12 of 22 (54.5%) patients in CRRT group and 11 of 14 (78.6%) patients in non CRRT group died. Kaplan Meier analysis demonstrated a prolonged survival in patients in CRRT group than non CRRT group (P=0.032). The association between CRRT treatment and a reduced risk of mortality remained significant after adjusting for confounding factors in seven different models, with an adjusted hazard ratio (aHR) varying between 0.283 and 0.424. Older age, higher levels of IL1b, IL2 receptor, hs cTnI and NT proBNP were independently associated with increased risk of mortality in patients with CRRT treatment. Interpretation: CRRT may be beneficial for the treatment of COVID 19 patients with invasive mechanical ventilation. Further prospective multicenter studies with larger sample sizes are required.\nCompeting Interest Statement",
+    "affiliations": [
+        "TnI and NT proBNP were independently associated with increased risk of mortality in patients with CRRT treatment. Interpretation: CRRT may be beneficial for the treatment of COVID 19 patients with invasive mechanical ventilation. Further prospective multicenter studies with larger sample sizes are required"
+    ],
+    "author": "Fan He; Xue Xing; Yong Ning; Qingquan Liu; Yi Yang; Jia Shi; Shuwang Ge; Yanan Wang; Gang Xu; Shuiming Guo; Junhua Li; Anying Cheng",
+    "date": 2020,
+    "doi": "10.1101/2020.03.16.20036780",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.16.20036780"
+    },
+    "title": "Effect of continuous renal replacement therapy on all-cause mortality in COVID-19 patients undergoing invasive mechanical ventilation: a retrospective cohort study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "NSFC 81974089",
+                        "81470994",
+                        "81873556",
+                        "81470948",
+                        "81670633",
+                        "81570667",
+                        "regional",
+                        "NSFC-DFG",
+                        "81761138041"
+                    ]
+                },
+                {
+                    "funding-source": "Major Research"
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "91742204"
+                    ]
+                },
+                {
+                    "funding-source": "National Key Research and Development Program",
+                    "award-id": [
+                        "2016YFC0906103",
+                        "2018YFC1314000"
+                    ]
+                },
+                {
+                    "funding-source": "National Key Technology R&D Program",
+                    "award-id": [
+                        "2013BAI09B06",
+                        "2015BAI12B07"
+                    ]
+                },
+                {
+                    "funding-source": "Science Foundation of Hubei Province",
+                    "award-id": [
+                        "2018CFB554"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded by National Natural Science Foundation of China (NSFC 81974089, 81470994, 81873556, 81470948, 81670633, 81570667), international (regional) cooperation and exchange projects, (NSFC-DFG, Grant No 81761138041), the Major Research plan of the National Natural Science Foundation of China (Grant No 91742204), the National Key Research and Development Program (Grants 2016YFC0906103, 2018YFC1314000) and the National Key Technology R&D Program (Grant 2013BAI09B06, 2015BAI12B07) and Science Foundation of Hubei Province (2018CFB554)"
+        }
+    ]
+}

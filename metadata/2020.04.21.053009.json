@@ -1,0 +1,38 @@
+{
+    "title": "Elucidating the differences in the molecular mechanism of receptor binding between 2019-nCoV and the SARS-CoV viruses using computational tools",
+    "author": "Hien T. T. Lai,\u2021 Ly H. Nguyen,\u00a7 Agata Kranjc, Toan T. Nguyen,\u2021 and Duc Nguyen-Manh\u22a5",
+    "date": 2020,
+    "affiliations": [
+        "Key Laboratory for Multiscale simulation of Complex Systems, University of Science, Vietnam National University, Hanoi, 334 Nguyen Trai street, Thanh Xuan district, Hanoi",
+        "Vietnam Japan University, Vietnam National University, Hanoi, Luu Huu Phuoc road, Nam Tu Liem district, Hanoi, Vietnam Institute for Advanced Simulations (IAS)-5/Institute for Neuroscience and Medicine"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.21.053009",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.21.053009.pdf"
+    },
+    "abstract": "The outbreak of the 2019-nCoV coronavirus causing severe acute respiratory syndrome which can be fatal, especially in elderly population, has been declared a pandemic by the World Health Organization. Many biotechnology laboratories are rushing to develop therapeutic antibodies and antiviral drugs for treatment of this viral disease. The viral CoV spike (S) glycoprotein is one of the main targets for pharmacological intervention. Its receptor-binding domain (RBD) interacts with the human ACE2 receptor ensuring the entry of the viral genomes into the host cell. In this work, we report on the differences in the binding of the RBD of the previous coronavirus SARS-CoV and of the newer 2019-nCoV coronavirus to the human ACE2 receptor using atomistic molecular dynamics techniques. Our results show major mutations in the 2019-nCoV RBD with respect to the SARS-CoV RBD occurring at the interface of RBD-ACE2 complex. These mutations make the 2019-nCoV RBD protein backbone much more flexible, hydrophobic interactions are reduced and additional polar/charged residues appear at the interface. We observe that higher flexibility of the 2019-nCoV RBD with respect to the SARS-CoV RBD leads to a bigger binding interface between the 2019-nCoV RBD and ACE2 and to about 20% more contacts between them in comparison with SARS-CoV. Taken together, the 2019-nCoV RBD shows more stable binding interface and higher binding affinity for the ACE2 receptor. The mutations not only stabilize the binding interface, they also lead to overall more stable 2019-nCoV RBD protein structure, even far from the binding interface. Our results on the molecular differences in the binding between the two viruses can provide important inputs for development of appropriate antiviral treatments of the new viruses, addressing the necessity of ongoing pandemics.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Vietnam National Foundation for Science and Technology NAFOSTED",
+                    "award-id": [
+                        "99-2016"
+                    ]
+                }
+            ],
+            "funding-statement": "TTN acknowledges partial financial support of the Vietnam National Foundation for Science and Technology NAFOSTED grant number 104.99-2016.39"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Dr Paolo Carloni and Linh"
+                }
+            ],
+            "funding-statement": "DNM wishes to thank support from the Euratom research and training programme 2019-2020 under grant No.633053 and the RCUK programme under grant No.EP/T012250/1. We thank Dr Paolo Carloni and Linh G"
+        }
+    ]
+}

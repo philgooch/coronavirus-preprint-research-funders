@@ -1,0 +1,60 @@
+{
+    "title": "A. Vandelli et al. Structure and interactions of SARS-CoV-2",
+    "author": "Andrea Vandelli, Michele Monti, Edoardo Milanetti",
+    "date": 2020,
+    "affiliations": [
+        "Centre for Genomic Regulation (CRG), The Barcelona Institute for Science and Technology, Dr. Aiguader 88, 08003",
+        "Spain and Universitat Pompeu Fabra (UPF), 08003 Barcelona, Spain",
+        "Systems Biology of Infection Lab, Department of Biochemistry and Molecular Biology, Biosciences Faculty",
+        "Universitat Aut\u00f2noma de Barcelona, 08193 Cerdanyola del Vall\u00e8s, Spain"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.28.013789",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.28.013789.pdf"
+    },
+    "abstract": "Specific elements of viral genomes regulate interactions within host cells. Here, we calculated the secondary structure content of >2500 coronaviruses and computed >100000 human protein interactions with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). We found that the 3\u2019 and 5\u2019 are the most structured elements in the viral genome and the 5\u2019 has the strongest propensity to associate with human proteins. The domain encompassing nucleotides 23000 \u2013 24000 is highly conserved both at the sequence and structural level, while the region upstream varies significantly. These two sequences code for a domain of the viral protein Spike S that interacts with the human receptor angiotensin-converting enzyme 2 (ACE2) and has the potential to bind sialic acids. Our predictions indicate that the first 1000 nucleotides in the 5\u2019 can interact with proteins",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Annalisa Pastore for"
+                },
+                {
+                    "funding-source": "Dr Gilles Mirambeau for the RT"
+                },
+                {
+                    "funding-source": "Dr Andrea Cerase for the"
+                },
+                {
+                    "funding-source": "Dr Roberto Giambruno for"
+                },
+                {
+                    "funding-source": "HNRNPQ"
+                },
+                {
+                    "funding-source": "European Research Council",
+                    "award-id": [
+                        "RIBOMYLOME_309545",
+                        "ASTRA_855923",
+                        "H2020",
+                        "IASIS_727658",
+                        "INFORE_825080"
+                    ]
+                },
+                {
+                    "funding-source": "Spanish Ministry of Economy and Competitiveness",
+                    "award-id": [
+                        "BFU2017-86970-P"
+                    ]
+                },
+                {
+                    "funding-source": "Peter St"
+                }
+            ],
+            "funding-statement": "Annalisa Pastore for critical reading, Dr Gilles Mirambeau for the RT vs RdRP analysis, Dr Andrea Cerase for the discussing on stress granules and Dr Roberto Giambruno for pointing to PTBP1 and HNRNPQ experiments. The research leading to these results has been supported by European Research Council (RIBOMYLOME_309545 and ASTRA_855923), the H2020 projects IASIS_727658 and INFORE_825080, the Spanish Ministry of Economy and Competitiveness BFU2017-86970-P as well as the collaboration with Peter St"
+        }
+    ]
+}

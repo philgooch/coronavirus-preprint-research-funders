@@ -1,0 +1,16 @@
+{
+    "abstract": "The pandemic of COVID-19 has caused severe public health consequences around the world. Many interventions of COVID-19 have been implemented. It is of great public health and societal importance to evaluate the effects of interventions in the pandemic of COVID-19. In this paper, with help of synthetic control method, regression discontinuity and a Susceptible-Infected and infectious without isolation-Hospitalized in isolation-Removed (SIHR) model, we evaluate the horizontal and longitudinal effects of stringent interventions implemented in Wenzhou, a representative urban city of China, where stringent interventions were enforced to curb its own epidemic situation with rapidly increasing newly confirmed cases. We found that there were statistically significant treatment effects of those stringent interventions which reduced the cumulative confirmed cases of COVID-19. Those reduction effects would increase over time. Also, if the stringent interventions were delayed by 2 days or mild interventions were implemented instead, the expected number of cumulative confirmed cases would have been nearly 2 times or 5 times of the actual number. The effects of stringent interventions are significant in mitigating the epidemic situation of COVID-19. The slower the interventions were implemented, the more severe the epidemic would have been, and the stronger the interventions would have been required.",
+    "author": "Ting Tian; Xueqin Wang; Canhong Wen; Wenxiang Luo; Wenliang Pan; Minqiong Chen; Yukang Jiang",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20103879",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20103879"
+    },
+    "title": "The Effects of Stringent Interventions for Coronavirus Pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for this article."
+        }
+    ]
+}

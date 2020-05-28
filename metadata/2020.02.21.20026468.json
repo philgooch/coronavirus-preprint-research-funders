@@ -1,0 +1,33 @@
+{
+    "abstract": "Background The 2019 coronavirus disease (COVID-19) represents a sig- nificant p ublic h ealth t hreat g lobally. H ere w e d escribe e fforts to compare epidemic growth, size and peaking time for countries in Asia, Europe, North America, South America and Australia in the early epidemic phase. Methods Using the time series of cases reported from January 20, 2020 to February 13, 2020 and transportation data from December 1, 2019 to January 23, 2020 we have built a novel time-varying growth model to predict the epidemic trend in China. We extended our method, using cases reported from January 26, 2020 - or the date of the earliest case reported, to April 9, 2020 to predict future epidemic trend and size in 41 countries. We estimated the impact of control measures on the epidemic trend. Results Our time-varying growth model yielded high concordance in the predicted epidemic size and trend with the observed figures in C hina. Among the other 41 countries, the peak time has been observed in 28 countries before or around April 9, 2020; the peak date and epidemic size were highly consistent with our estimates. We predicted the remaining countries would peak in April or May 2020, except India in July and Pakistan in August. The epidemic trajectory would reach the plateau in May or June for the majority of countries in the current wave. Countries that could emerge to be new epidemic centers are India, Pakistan, Brazil, Mexico, and Russia with a prediction of 105 cases for these countries. The effective reproduction number Rt displayed a downward trend with time across countries, revealing the impact of the intervention remeasures i.e. social distancing. Rt remained the highest in the UK (median 2.62) and the US (median 2.19) in the fourth week after the epidemic onset. Conclusions New epidemic centers are expected to continue to emerge across the whole world. Greater challenges such as those in the healthcare system would be faced by developing countries in hotspots. A domestic approach to curb the pandemic must align with joint international efforts to effectively control the spread of COVID-19. Our model promotes a reliable transmissibility characterization and epidemic forecasting using the incidence of cases in the early epidemic phase.",
+    "affiliations": [
+        "National Natural Science Foundation of China (Nos. 11931014 and 11829101) and Fundamental Research Funds for the Central Universities (No. JBK1806002) of China"
+    ],
+    "author": "Wei Liu; Qiao Fan; Jinyu Nie; Huazhen Lin; Hong Gao",
+    "date": 2020,
+    "doi": "10.1101/2020.02.21.20026468",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.21.20026468"
+    },
+    "title": "Comparative Analysis of Early Dynamic Trends in Novel Coronavirus Outbreak: A Modeling Framework",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "11931014",
+                        "11829101"
+                    ]
+                },
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities",
+                    "award-id": [
+                        "JBK1806002"
+                    ]
+                }
+            ],
+            "funding-statement": "The research were partially supported by National Natural Science Foundation of China (Nos. 11931014 and 11829101) and Fundamental Research Funds for the Central Universities (No JBK1806002) of China"
+        }
+    ]
+}

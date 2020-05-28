@@ -1,0 +1,16 @@
+{
+    "abstract": "Objectives: The study aimed to estimate the disease burden due to COVID-19 in the scenarios of unchecked spread and with various public health interventions in New Delhi. Methods: We adopted Susceptible, Exposed, Infected and Recovered (SEIR) model to estimate the course of COVID-19 outbreak in Delhi population and effect of public health intervention on the pandemic. We first estimated the basic reproductive rate (R0) based on the evidence from Wuhan, then ran the model considering no intervention implemented, followed by case isolation, social distancing, and lockdown, each implemented in isolation and in combinations to estimate the number of cases. Markov model was used to estimate the number of cases in various clinical scenarios of the disease. Sensitivity analysis conducted to estimate the effect of asymptomatic cases on case based interventions. Results: Estimated R0 in Delhi population was 6.18 (range 4.15 to 12.2). Effective reproductive rate (Rt) was least for case isolation (3.5). Lockdown showed highest reduction (28%) in number of prevalent cases on peak day and 22% reduction in patients in need of intensive care unit (ICU). Case isolation and lockdown together resulted in 50% reduction in number of prevalent cases and 42% reduction in patients in need of ICU care. Sensitivity analysis showed that the effect of case isolation was inversely proportionate to the proportion of asymptomatic (hidden) cases. Conclusions: Interventions should be implemented in combinations of individual and community level interventions to gain better outcome. Identifying and isolation of all cases as early as possible is important to flatten the pandemic curve.",
+    "author": "Bharathnag Nagappa; Yamini Marimuthu; Shiv K Sarin; Archana Ramalingam; Manikandanesan Sakthivel; Aayushi Rastogi",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087783",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087783"
+    },
+    "title": "Now casting and Forecasting of COVID-19 outbreak in the National Capital Region of Delhi",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Nil"
+        }
+    ]
+}

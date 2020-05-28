@@ -1,0 +1,16 @@
+{
+    "abstract": "Reliably identifying patients at increased risk for COVID-19 complications could guide clinical decisions, public health policies, and preparedness efforts. To date, the most globally accepted definitions of at-risk patients rely, primarily, on epidemiological characterization of hospitalized COVID-19 patients. However, such characterization overlooks, and fails to correct for, the prevalence of existing conditions in the wider SARS-CoV-2 positive population. Here, we analyze the complete medical records of all SARS-CoV-2 infected individuals (N=4,353) in a large Israeli health organization (representing a population of 2.3 million people), of whom 173 experienced moderate or severe symptoms of COVID-19, to identify the conditions that increase the risk of disease complications, in various age and sex strata. Our analysis suggests that cardiovascular and kidney diseases, obesity, and hypertension are significant risk factors for COVID-19 complications, as previously reported. Interestingly, it also indicates that depression (e.g., odds ratio, OR, for males 65 years or older: 2.94, 95% confidence intervals [1.55, 5.58]; P-value = 0.014) as well cognitive and neurological disorder (e.g., OR for individuals \u2265 65 year old: 2.65 [1.69, 4.17]; P-value < 0.001) are significant risk factors; and that smoking and background of respiratory diseases do not significantly increase the risk of complications. Adjusting existing risk definitions following these observations may improve their accuracy and impact the global pandemic containment efforts.",
+    "author": "Gabriel Chodick; Karni Marcus; Pinchas Akiva; Nir Kalkstein; Varda Shalev; Chen Yanover; Barak Mizrahi; Yael Barer",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20091652",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20091652"
+    },
+    "title": "What factors increase the risk of complications in SARS-CoV-2 positive patients? A cohort study in a nationwide Israeli health organization",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

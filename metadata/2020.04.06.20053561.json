@@ -1,0 +1,23 @@
+{
+    "abstract": "For each US county, we calculated the probability of an ongoing COVID-19 epidemic that may not yet be apparent. Based on confirmed cases as of April 15, 2020, COVID-19 is likely spreading in 86% of counties containing 97% of US population. Proactive measures before two cases are confirmed are prudent.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Institutes of Health (grant no. U01 GM087719 and project no. 5T32LMO012414)"
+    ],
+    "author": "Spencer J. Fox; Lauren Ancel Meyers; Emily Javan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20053561",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20053561"
+    },
+    "title": "The unseen and pervasive threat of COVID-19 throughout the US",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health"
+                }
+            ],
+            "funding-statement": "We acknowledge the financial support from National Institutes of Health (grant no"
+        }
+    ]
+}

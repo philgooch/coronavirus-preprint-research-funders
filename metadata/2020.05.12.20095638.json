@@ -1,0 +1,23 @@
+{
+    "abstract": "Amid the enduring COVID-19 pandemic, there is an urgent need for expanded access to rapid and sensitive SARS-CoV-2 testing worldwide. Here we present a simple clinical workflow that uses a sensitive and highly specific colorimetric reverse-transcription loop-mediated isothermal amplification (RT-LAMP) to detect SARS-CoV-2 and takes forty minutes from sample collection to result. This test requires no specialized equipment and costs a few dollars per sample. Nasopharyngeal samples collected in saline were added either directly (unprocessed) to RT-LAMP reactions or first inactivated by a combined chemical and heat treatment step to inhibit RNases and lyse virions and human cells. The specimens were then amplified with two SARS-CoV-2-specific primer sets and an internal specimen control; the resulting color change was visually interpreted. While direct addition of unprocessed specimens to RT-LAMP reactions could reliably detect samples with abundant SARS-CoV-2, the assay sensitivity markedly increased after the addition of an inactivation step. In 62 clinical samples with a wide range of SARS-CoV-2 nucleic acid concentrations, the assay had 87.5% sensitivity and 100% specificity with a limit of detection at least 25 copies/\u03bcL, making it an ideal test to rule in infection. To increase sensitivity, samples that tested negative for SARS-CoV-2 by direct sample addition could be reflexed to a purification step, to increase the effective per-reaction sample input volume. In 40 purified samples, the assay yielded a 90% sensitivity and 100% specificity, with a limit of detection comparable to commercially available real-time PCR-based diagnostics that have received Emergency Use Authorization (EUA) from the FDA. This test for SARS-CoV-2 can be performed in a range of settings for a fraction of the price of other available tests, with limited equipment, and without relying on over-burdened supply chains to increase overall testing capacity.",
+    "affiliations": [
+        "Howard Hughes Medical Institute. N.A.T. is an employee of New England Biolabs, manufacturer of enzymes and reagent described in this manuscript"
+    ],
+    "author": "Constance L. Cepko; Graham EG McGrath; John A. Branda; Brian A Rabe; Jochen K.M. Lennerz; Benjamin A White; Eric S Rosenberg; Nathan A Tanner; Melis N Anahtar",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20095638",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20095638"
+    },
+    "title": "Clinical assessment and validation of a rapid and sensitive SARS-CoV-2 test using reverse-transcription loop-mediated isothermal amplification",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Howard Hughes Medical Institute"
+                }
+            ],
+            "funding-statement": "B.A.R. and C.L.C. are supported by the Howard Hughes Medical Institute"
+        }
+    ]
+}

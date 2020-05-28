@@ -1,0 +1,55 @@
+{
+    "title": "The origin and underlying driving forces of the SARS-CoV-2 outbreak",
+    "date": 2020,
+    "author": "Shu-Miaw Chaw,\u00b6, Jui-Hung Tai, Shi-Lun Chen, Chia-Hung Hsieh, Sui-Yuan Chang, 3 Shiou\u2010Hwei Yeh, Wei-Shiung Yang, Pei-Jer Chen, and Hurng-Yi Wang, \u00b6",
+    "affiliations": [
+        "Biodiversity Research Center, Academia Sinica, Taipei, Taiwan 6",
+        "Graduate Institute of Clinical Medicine, College of Medicine, National Taiwan University, Taipei",
+        "Department of Life Science, National Taiwan Normal University, Taipei, Taiwan 9",
+        "Department of Forestry and Nature Conservation, Chinese Culture University",
+        "Taipei, Taiwan 11",
+        "Department of Microbiology, College of Medicine, National Taiwan University, Taipei, Taiwan 12",
+        "Department of Clinical Laboratory Sciences and Medical Biotechnology, College of Medicine",
+        "National Taiwan University, Taipei, Taiwan 14",
+        "Institute of Ecology and Evolutionary Biology, National Taiwan University, Taipei, Taiwan 15"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.12.038554",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.12.038554.pdf"
+    },
+    "abstract": "In contrast to adaptive evolution previously reported for SARS-CoV in its brief epidemic, our analysis of SARS-CoV-2 genomes shows signs of relaxation of selection. The sequence similarity of the spike receptor binding domain between SARS-CoV-2 and a sequence from pangolin is probably due to an ancient intergenomic introgression. Therefore,",
+    "keywords": [
+        "positive selection",
+        "population genetics",
+        "coronavirus",
+        "mutational bias"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Science and Technology, National"
+                },
+                {
+                    "funding-source": "Taiwan University,"
+                },
+                {
+                    "funding-source": "National Taiwan University, College",
+                    "award-id": [
+                        "105\u20102628\u2010B\u2010002\u2010015\u2010MY3",
+                        "107-2321-B-002-004-",
+                        "NTU-109L7806",
+                        "NSC-131-5"
+                    ]
+                },
+                {
+                    "funding-source": "Biodiversity Research Center, Academia"
+                }
+            ],
+            "funding-statement": "This work was supported by Ministry of Science and Technology, National Taiwan University, and National Taiwan University, College of Medicine, Taipei, Taiwan to HYW (105\u20102628\u2010B\u2010002\u2010015\u2010MY3, 107-2321-B-002-004-, NTU-109L7806, NSC-131-5), and partially by a grant form Biodiversity Research Center, Academia Sinica to SMC"
+        }
+    ]
+}

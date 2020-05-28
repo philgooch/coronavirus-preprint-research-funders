@@ -1,0 +1,44 @@
+{
+    "abstract": "Background. Administration of convalescent plasma may be of clinical benefit for treatment of severe acute viral respiratory infections. However, no clear evidence exists to support or oppose convalescent plasma use in clinical practice. We conducted a systematic review and meta-analysis to assess the evidence of randomized controlled trials (RCTs) in the convalescent plasma for the treatment of severe influenza. Methods. Healthcare databases were searched in February 2020. All records were screened against the eligibility criteria. Data extraction and risk of bias assessments were undertaken. The primary outcome was case fatality rates by influenza. Results. We identified 5 RCTs of severe influenza. The pooled analyses showed no evidence for a reduction in mortality (Odds Ratio (OR) 1.06; p = 0.87; I2 = 35%). We also found non significant reductions in days in ICU and hospital, and days on mechanical ventilation. There seemed to have a biological benefit of increasing HAI titer levels and decreasing influenza B virus loads and cytokines after convalescent plasma treatment. No serious adverse events was reported between two groups. Studies were commonly of low risk of bias with high quality. Conclusions. Convalescent plasma appears safe but may not reduce mortality in severe influenza. This therapy should be studied within the context of a well designed clinical trial for treatment of SARS Cov 2 infection.",
+    "affiliations": [
+        "National Science and Technology Major Project (No. 2017ZX10204401); National Natural Science Foundation of China (81970071); the Special Project for Emergency of the Ministry of Science and Technology (2020YFC0841300); the Special Project of Guangdong Science and Technology Department (2020B111105001)"
+    ],
+    "author": "Yongbo Huang; Dongdong Liu; Jianmeng Zhou; Xuesong Liu; Yimin Li; Xiaoqing Liu; Sibei Chen; Zhiheng Xu; Zhimin Lin; Yonghao Xu",
+    "date": 2020,
+    "doi": "10.1101/2020.02.20.20025593",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.20.20025593"
+    },
+    "title": "The efficacy of convalescent plasma for the treatment of severe influenza",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science and Technology Major Project",
+                    "award-id": [
+                        "2017ZX10204401"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81970071"
+                    ]
+                },
+                {
+                    "funding-source": "Special Project for Emergency of the Ministry of Science and Technology",
+                    "award-id": [
+                        "2020YFC0841300"
+                    ]
+                },
+                {
+                    "funding-source": "Special Project of Guangdong Science and Technology Department",
+                    "award-id": [
+                        "2020B111105001"
+                    ]
+                }
+            ],
+            "funding-statement": "National Science and Technology Major Project (No 2017ZX10204401); National Natural Science Foundation of China (81970071); the Special Project for Emergency of the Ministry of Science and Technology (2020YFC0841300); the Special Project of Guangdong Science and Technology Department (2020B111105001)."
+        }
+    ]
+}

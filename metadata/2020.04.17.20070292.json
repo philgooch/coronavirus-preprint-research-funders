@@ -1,0 +1,16 @@
+{
+    "abstract": "India reported its first COVID19 case on 30 January 2020. Since then the epidemic has taken different trajectories across different geographical locations in the country. This study explores the population aggregated trajectories of COVID19 susceptible, infected and recovered or dead cases in the south Indian state of Telangana with a population of approximately 40 million. Information on cases reported from March 2 to April 4 was collated from government records. The susceptible-infected-removed (SIR) model for the spread of an infectious disease was used. Transmission parameters were extracted from existing literature that has emerged over past weeks from other regions with similar population densities as Telangana. Optimisation algorithms were used to get basic reproduction rate for different phases of nonpharmaceutical interventions rolled by the government. Peak accumulation is projected towards end of July with 36% of the population being infected by August 2020 if the population lockdown or social distancing mechanism is not continued. The number of deaths assuming no intervention is projected to be 488000 (95% CI: (329400, 646600)). A draconian enforcement of population lockdown combined with hand and face hygiene adherence would reduce the transmission by at least 99.7% whereas partial social distancing and hygiene would reduce it by 51.2%. Transmission parameters reported should be interpreted with caution as they are population aggregated and do not consider unique characteristics of susceptibility among micro-clusters and vulnerable individuals. More data will need to be collected to optimize transmission parameters and evaluate the full complexity, to simulate real world scenarios in the models.",
+    "author": "Jammy Guru Rajesh; Lincoln Priyadarshi Choudhry; Rashmi Pant; Vijay V Yeldandi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20070292",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20070292"
+    },
+    "title": "COVID-19 Epidemic Dynamics and Population Projections from Early Days of Case Reporting in a 40 million population from Southern India",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding received."
+        }
+    ]
+}

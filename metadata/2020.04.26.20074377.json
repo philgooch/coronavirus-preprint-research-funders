@@ -1,0 +1,20 @@
+{
+    "abstract": "OBJECTIVE: To forecast the death toll of COVID-19 in the whole world by fitting the time series of reported deaths with a parametric equation (integrated Gaussian equation) related to Farr s law. DATA: The time series of cumulative deaths due to COVID-19 produced by John Hopkins University and stored in a github repository. RESULTS: The projected total death toll will be 261680 (392520 to 183176) which represents the 0.003 % of world population. This number amounts to 0.054 deaths per 1000, while the mean in the world (all causes) is 7.7. The daily peak of deaths (7270 (+/-500)) happened the 15 (+/- 3) of April, meaning that we are in descending curve of the pandemic. The outbreak will end completely the 23th (+/-3) of June. However, already on 9th (+/- 3) of May, 2 sigma; (95.45%) of the deaths will have be occured. The projected death toll is much lower (5-10 times) than those forecasted by the Imperial College Group (ICG) even considering the best scenario of total suppression of virus transmission. Using actual mortality rates it is possible to back calculate which number of infected individuals would produce such mortality. The death toll arises from a number of infected individuals between 53 (worst case) and 3.3 million. The calculated number of infected individuals is significantly lower than that calculated by ICG (227.5 millions) with suppression.",
+    "author": "cesar| a barbero",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20074377",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20074377"
+    },
+    "title": "A statistical forecast of LOW mortality (&lt; 400,000 deaths) due to COVID-19, for the whole WORLD.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UNRC CONICET"
+                }
+            ],
+            "funding-statement": "UNRC CONICET"
+        }
+    ]
+}

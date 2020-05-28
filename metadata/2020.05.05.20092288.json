@@ -1,0 +1,23 @@
+{
+    "abstract": "The SARS-CoV-2 (COVID-19) pandemic poses a significant public-health problem. In order to control the pandemic, rapid tests for detecting existing infections and assessing virus spread are critical. Approaches to detect viral RNA based on reverse transcription loop-mediated isothermal amplification (RT-LAMP) hold outstanding promise towards greatly simplified and broadly applicable testing methods. RT-LAMP assays appear more robust than qPCR-based methods and only require incubation at a constant temperature, thus eliminating the need for sophisticated instrumentation. Here, we tested a two-color RT-LAMP protocol using clinical SARS-CoV-2 samples and also established a protocol that does not require prior RNA isolation (\"swab-to-RT-LAMP\"). Our study is based on several hundred clinical patient samples with a wide range of viral loads, thus allowing, for the first time, to accurately determine the sensitivity and specificity of the RT-LAMP assay for the detection of SARS-CoV-2 in patients. We found that RT-LAMP can reliably detect SARS-CoV-2 samples with a qPCR threshold cycle number (CT value) of up to 30 in the standard RT-qPCR assay. We used both, either purified RNA or direct pharyngeal swab specimens and showed that RT-LAMP assays have, despite a decreased sensitivity compared to RT-qPCR, excellent specificity. We also developed a multiplexed LAMP-sequencing protocol as a validation and backup procedure to double-check the results of visual RT-LAMP assays. LAMP-sequencing is fully scalable and can assess the results of thousands of LAMP reactions in parallel. We propose decentralised COVID-19 testing as a routine to allow facilities and institutions to return to near-to-full functionality.",
+    "author": "Konrad Herbst; Michael Knop; Dimitrios Papagiannidis; Isabel Barreto Miranda; Daniel Kirrmaier; Petr Chandla; Dina Khalid; Andrew Freistaedter; Carla Galmozzi; Paul Schnitzler; Hans-Georg Kraeusslich; Steffen Klein; Lukas P M Kremer; Simon Anders; Kathleen Boerner; Viet Loan Dao Thi; Matthias Meurer",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20092288",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092288"
+    },
+    "title": "Screening for SARS-CoV-2 infections with colorimetric RT-LAMP and LAMP sequencing",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "VLDT and AF"
+                },
+                {
+                    "funding-source": "Chica and Heinz Schaller"
+                }
+            ],
+            "funding-statement": "VLDT and AF were supported by the Chica and Heinz Schaller foundation"
+        }
+    ]
+}

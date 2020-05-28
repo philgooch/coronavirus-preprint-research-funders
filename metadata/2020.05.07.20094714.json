@@ -1,0 +1,19 @@
+{
+    "abstract": "The novel corona virus SARS-CoV-2 appeared at the end of 2019, spreading rapidly and causing a severe respiratory syndrome (COVID-19) with high mortality (2-5%). Until a vaccine or therapy is found, the most effective method of prophylaxis has been to minimize transmission via rigorous social distancing and seclusion of all but essential workers. Such measures, implemented at different times and to varying degrees worldwide, have reduced the rate of transmission compared with early phases of the pandemic, resulting in flattening of the curve followed by a gradual reduction in mortality after >6 weeks of rigorous social distancing measures. The cost of rigorous social distancing has been seen in radically reduced economic activity, job losses, disruption of schooling and social institutions. A key question facing policy makers and individuals is when to resume normal economic and social activity in the face of persistent community transmission of SARS-CoV-2 . To help address this question, we have developed a model that accurately describes the entire transmission and mortality curves in Italy and Spain, two hard-hit countries that have maintained severe social distancing measures for over 2 months. Our model quantitatively describes the rapid rise and slow decay of new cases and deaths observed under stringent social distancing (the long tail effect). We predict that even when social distancing is rigorously maintained, the number of COVID-19 deaths after peak mortality may be 2-3 times larger than the total number of deaths up to the peak. Our model has important policy implications for countries currently debating how to ease social distancing measures.",
+    "affiliations": [
+        "Hopkins Coronavirus Resource Center and compiled on https://www.worldometers.info/coronavirus/"
+    ],
+    "author": "Lev Z. Osherovich; Vladimir A. Osherovich; Joseph Fainberg",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20094714",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20094714"
+    },
+    "title": "DOUBLE POWER LAW FOR COVID-19: PREDICTION OF NEW CASES AND DEATH RATES IN ITALY AND SPAIN",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received to support this work."
+        }
+    ]
+}

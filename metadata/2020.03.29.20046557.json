@@ -1,0 +1,74 @@
+{
+    "abstract": "Understanding the particle size distribution in the air and patterns of environmental contamination of SARS-CoV-2 is essential for infection prevention policies. We aimed to detect SARS-CoV-2 surface and air contamination and study associated patient-level factors. 245 surface samples were collected from 30 airborne infection isolation rooms of COVID-19 patients, and air sampling was conducted in 3 rooms. Air sampling detected SARS-CoV-2 PCR-positive particles of sizes >4 \u03bcm and 1-4 \u03bcm in two rooms, which warrants further study of the airborne transmission potential of SARS-CoV-2. 56.7% of rooms had at least one environmental surface contaminated. High touch surface contamination was shown in ten (66.7%) out of 15 patients in the first week of illness, and three (20%) beyond the first week of illness (p = 0.01).",
+    "affiliations": [
+        "DSO National Laboratories. Ng OT is supported by NMRC Clinician Scientist Award (MOH-000276). K Marimuthu is supported by NMRC CS-IRG (CIRG18Nov-0034). Chia PY is supported by NMRC Research Training Fellowship (NMRC/Fellowship/0056/2018)"
+    ],
+    "author": "Barnaby E. Young; Stephan Schuster; Timothy Barkham; Sok Kiang Lau; Kristen K Coleman; Po Ying Chia; Shawn Vasoo; Donald K. Milton; Yee Sin Leo; Partha Prathim De; Marcus Gum; Brenda Sze Peng Ang; Monica Chan; Stephanie Sutjipto; Gregory C. Gray; Pei Hua Lee; Sean Wei Xiang Ong; Yian Kim Tan; Boon Huan Tan; Oon-Tek Ng; Michelle Su Yen Wong; Kalisvar Marimuthu; Than The Son",
+    "date": 2020,
+    "doi": "10.1101/2020.03.29.20046557",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.29.20046557"
+    },
+    "title": "Detection of Air and Surface Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in Hospital Rooms of Infected Patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NMRC Seed Funding Program",
+                    "award-id": [
+                        "TR19NMR119SD"
+                    ]
+                },
+                {
+                    "funding-source": "NMRC COVID-19 Research Fund",
+                    "award-id": [
+                        "COVID19RF-001"
+                    ]
+                },
+                {
+                    "funding-source": "DSO National Laboratories"
+                }
+            ],
+            "funding-statement": "This study is funded by NMRC Seed Funding Program (TR19NMR119SD), NMRC COVID-19 Research Fund (COVID19RF-001) and internal funds from DSO National Laboratories"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ng OT"
+                },
+                {
+                    "funding-source": "NMRC Clinician Scientist Award",
+                    "award-id": [
+                        "MOH-000276"
+                    ]
+                }
+            ],
+            "funding-statement": "Ng OT is supported by NMRC Clinician Scientist Award (MOH-000276)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NMRC CS-IRG",
+                    "award-id": [
+                        "CIRG18Nov-0034"
+                    ]
+                }
+            ],
+            "funding-statement": "K Marimuthu is supported by NMRC CS-IRG (CIRG18Nov-0034)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chia PY"
+                },
+                {
+                    "funding-source": "NMRC Research Training Fellowship",
+                    "award-id": [
+                        "NMRC/Fellowship/0056/2018"
+                    ]
+                }
+            ],
+            "funding-statement": "Chia PY is supported by NMRC Research Training Fellowship (NMRC/Fellowship/0056/2018)"
+        }
+    ]
+}

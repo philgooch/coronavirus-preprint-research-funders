@@ -1,0 +1,16 @@
+{
+    "abstract": "We analyze risk factors correlated with the initial transmission growth rate of the recent COVID-19 pandemic in different countries. The number of cases follows in its early stages an almost exponential expansion; we chose as a starting point in each country the first day with 30 cases and we used 12 days, capturing thus the early exponential growth. We looked then for linear correlations of the exponents with other variables, for a sample of 126 countries. We find a positive correlation, faster spread of COVID-19 , with high confidence level with the following variables, with respective p-value: low Temperature (4\u00d710 -7), high ratio of old vs. working-age people (3\u00d710 -6), life expectancy (8\u00d710 -6), number of international tourists (1\u00d710 -5), earlier epidemic starting date (2\u00d710 -5), high level of physical contact in greeting habits (6\u00d710 -5), lung cancer prevalence (6\u00d710 -5), obesity in males (1\u00d710 -4), share of population in urban areas (2\u00d710 -4), cancer prevalence (3\u00d710 -4), alcohol consumption (0.0019), daily smoking prevalence (0.0036), UV index (0.004, smaller sample, 73 countries), low Vitamin D serum levels (0.002-0.006, smaller sample, 50 countries). There is highly significant correlation also with blood type: positive correlation with types RH- (2\u00d710 -5) and A+ (2\u00d710 -3), negative correlation with B+ (2\u00d710 -4). We also find positive correlation with moderate confidence level (p-value of 0.02-0.03) with: CO2/SO emissions, type-1 diabetes in children, low vaccination coverage for Tuberculosis (BCG). Several of the above variables are correlated with each other and so they are likely to have common interpretations. Other variables are found to have a counterintuitive negative correlation, which may be explained due their strong negative correlation with life expectancy: slower spread of COVID-19 is correlated with high death-rate due to pollution, prevalence of anemia and hepatitis B, high blood pressure in females. We also analyzed the possible existence of a bias: countries with low GDP-per capita, typically located in warm regions, might have less intense testing and we discuss correlation with the above variables.",
+    "author": "Alessio Notari; Giorgio Torrieri",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095083",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095083"
+    },
+    "title": "COVID-19 transmission risk factors",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

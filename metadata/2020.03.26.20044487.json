@@ -1,0 +1,26 @@
+{
+    "abstract": "COVID-19 pandemic has underlined the impact of emergent pathogens as a major threat for human health. The development of quantitative approaches to advance comprehension of the current outbreak is urgently needed to tackle this severe disease. In this work, several mathematical models are proposed to represent SARS-CoV-2 dynamics in infected patients. Considering different starting times of infection, parameters sets that represent infectivity of SARS-CoV-2 are computed and compared with other viral infections that can also cause pandemics. Based on the target cell model, SARS-CoV-2 infecting time between susceptible cells (mean of 30 days approximately) is much slower than those reported for Ebola (about 3 times slower) and influenza (60 times slower). The within-host reproductive number for SARS-CoV-2 is consistent to the values of influenza infection (1.7-5.35). The best model to fit the data was including immune responses, which suggest a slow cell response peaking between 5 to 10 days post onset of symptoms. The model with eclipse phase, time in a latent phase before becoming productively infected cells, was not supported. Interestingly, both, the target cell model and the model with immune responses, predict that virus may replicate very slowly in the first days after infection, and it could be below detection levels during the first 4 days post infection. A quantitative comprehension of SARS-CoV-2 dynamics and the estimation of standard parameters of viral infections is the key contribution of this pioneering work.",
+    "affiliations": [
+        "Universidad Nacional Autonoma de Mexico (UNAM), CONACYT, and the Alfons und Gertrud Kassel-Stiftung"
+    ],
+    "author": "Esteban Abelardo Hernandez Vargas; Jorge X. Velasco-Hernandez",
+    "date": 2020,
+    "doi": "10.1101/2020.03.26.20044487",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.26.20044487"
+    },
+    "title": "In-host Modelling of COVID-19 Kinetics in Humans",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Universidad Nacional Autonoma de Mexico"
+                },
+                {
+                    "funding-source": "Gertrud Kassel-Stiftung"
+                }
+            ],
+            "funding-statement": "This research was funded by the Universidad Nacional Autonoma de Mexico (UNAM), CONACYT, and the Alfons und Gertrud Kassel-Stiftung"
+        }
+    ]
+}

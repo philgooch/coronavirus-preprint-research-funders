@@ -1,0 +1,24 @@
+{
+    "abstract": "Background: Multiple reports have pointed towards involvement of community and socioeconomic characteristics of people in the United States may be associated with COVID-19 cases and deaths. Methods: In this study, zip-code level data from 5 major metropolitan areas, was utilized to study the effect of multiple demographic & socio-economic factors including race, age, income, chronic disease comorbidity, population density, number of people per household on number of positive cases and ensuing death. Adjusted linear regression analysis using 13 to 16 such variables was performed. Results: Overall, 442 zip codes reporting 93,170 positive COVID-19 cases and 138 zip codes reporting mortality ranging from 0 to 25 were included in this study. A multivariable linear regression model noted that 1% increase in the proportion of residents above the age of 65 years, proportion of African American residents, proportion of females, persons per household and population density of the zip code increased the proportion of positive cases by 0.77%, 0.23%, 1.64%, 1.83% and 0.46% respectively (P<0.01) with only population density remaining significant in zip codes with greater than median number of cases. In zips with greater than median number of deaths, no community/socio-economic factor contributed significantly to death. Conclusion: This study gives early signals of gender, and racial inequalities while providing overwhelming evidence of how population density may contribute to an increase in the number of positive cases of COVID-19.\nCompeting Interest Statement",
+    "author": "Amit Dey; Daniel Addison; Janice Bonsu; Avirup Guha",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071944",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071944"
+    },
+    "title": "Community and Socioeconomic Factors Associated with COVID-19 in the United States: Zip code level cross sectional analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "CA016058",
+                        "K12-CA133250"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported in part by NIH grant P30 CA016058, and K12-CA133250 (DA) grants"
+        }
+    ]
+}

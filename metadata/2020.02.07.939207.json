@@ -1,0 +1,40 @@
+{
+    "title": "Evidence of recombination in coronaviruses implicating pangolin origins of nCoV-2019",
+    "author": "Petrosino, Joseph",
+    "date": 2020,
+    "affiliations": [
+        "Alkek Center for Metagenomics and Microbiome Research, Department of Molecular Virology and Microbiology, Baylor College of Medicine, Houston, TX 77030 USA",
+        "Program for Innovative Microbiome and Translational Research, Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, Texas 77030 USA #These authors contributed equally",
+        "Corresponding author contact Joseph F. Petrosino",
+        "CoV-2019 determined a 96% resemblance with a coronavirus isolated from a bat in 2013 (RaTG13); however, the receptor binding motif (RBM) of these two genomes share low sequence similarity. This divergence suggests a possible alternative source for the RBM coding sequence in",
+        "CoV-2019. We identified high sequence similarity in the RBM between",
+        "CoV-2019 and a coronavirus genome reconstructed from a viral metagenomic dataset from pangolins possibly indicating a more complex origin for"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.07.939207",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.07.939207.pdf"
+    },
+    "abstract": "An outbreak of respiratory illness caused by a novel coronavirus (nCoV-2019)1, first identified in Wuhan China, has resulted in over twenty thousand confirmed cases worldwide (WHO Situation Report, February 5 2020). Data available to date has led to the hypothesis that the outbreak strain originated from bats. The nCoV-2019 has been reported to share 96% sequence identity to the RaTG13 genome, a coronavirus isolated from an intermediate horseshoe bat (Rhinolophus affinis)2. RaTG13 is the most closely related coronavirus genome to nCoV-2019, however other viral strains may have contributed to its genomic content. To explore this hypothesis, we examined several viral metagenomic datasets for potential coronaviruses that could harbor RBMs closer to nCoV-2019. We report evidence of a coronavirus recovered from a Malayan pangolin (Manis javanica) viral metagenomic dataset3 that shares a higher sequence identity at a crucial segment of the genome involved in host infection (Figure 1). This result indicates a potential recombination event and a more complex origin for the nCoV-2019 strain. The coronavirus spike protein is a trimeric protein that mediates virus entry into the host cell. It is composed of two domains: S1 and S2. The S1 domain contains two subdomains: S1-NTD and S1-CTD, also known as the receptor binding domain (RBD). The S2 domain encodes the stalk of the spike protein and is highly conserved across the SARS-like coronaviruses4. In order to infect a host cell, the RBD must first bind to a surface protein on the host cell. In the case of SARS-CoV and nCoV-2019, this is the angiotensin converting enzyme 2 (ACE2) receptor, expressed in human airway epithelia as well as lung parenchyma among other tissues. Following RBD binding, the S1/S2 junction must be cleaved by a surface protease4. Zhou et al. (2020)2 have reported noticeable decreased amino acid homology between the RBD of the spike protein in RaTG13 and nCoV-2019. A further analysis of the RBD in RaTG13 showed the majority of the divergence was restricted to amino acid residues 435 to 510 (75% nucleotide identity and 78% amino acid identity). This region corresponds to the receptor binding motif (RBM), which is responsible for",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute Of Allergy And Infectious Diseases of the National Institutes of Health",
+                    "award-id": [
+                        "U19AI144297"
+                    ]
+                },
+                {
+                    "funding-source": "Award Number",
+                    "award-id": [
+                        "U19AI144297"
+                    ]
+                }
+            ],
+            "funding-statement": "Research reported in this publication was supported by the National Institute Of Allergy And Infectious Diseases of the National Institutes of Health under Award Number U19AI144297"
+        }
+    ]
+}

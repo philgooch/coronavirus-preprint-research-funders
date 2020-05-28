@@ -1,0 +1,23 @@
+{
+    "abstract": "Summary Background With confirmed cases of COVID-19 declining in many countries, lockdown measures are gradually being lifted. However, even if most social distancing measures are continued, other public health measures will be needed to control the epidemic. Contact tracing either via conventional methods or via mobile app technology is central to control strategies during de-escalation of social distancing. It is therefore essential to identify key factors for a contact tracing strategy (CTS) to be successful. Methods We evaluated the impact of timeliness and completeness in various steps of a CTS using a stochastic mathematical model with explicit time delays between time of infection, symptom onset, diagnosis by testing, and isolation. The model also includes tracing of close contacts (e.g. household members) and casual contacts with different delays and coverages. We computed effective reproduction numbers of a CTS (Rcts) for a population with social distancing measures and various scenarios for isolation of index cases and tracing and quarantine of its contacts. Findings In the best-case scenario (testing and tracing delays of 0 days and tracing coverage of 100%) the effective reproduction number will be reduced with 50% from 1.2 (with social distancing only) to 0.6 (Rcts) by contact tracing. A testing delay of 3 days requires tracing delay or coverage to be at most 1 day or at least 80% to keep Rcts below 1, with the Rcts reduction being 15% and 17%, respectively. With a testing delay of 4 days, even the most efficient CTS cannot reach Rcts values below 1. The effect of minimizing tracing delay (e.g., with app-based technology) declines with declining coverage of app use, but app-based tracing remains more effective than conventional contact tracing even with 20% coverage. The proportion of transmissions per index case that can be prevented depending on testing and tracing delay and isolation of index cases ranges from above 80% in the best-case scenario (testing and tracing delays of 0 days) to 40% and 17% with testing delays of 3 and 5 days, respectively. Interpretation Minimizing testing delay is of key importance for the effectiveness of CTS. Optimizing testing and tracing coverage and minimizing tracing delays, for instance with app-based technology further enhances effectiveness of CTS, with a potential to prevent up to 80% of all transmissions. The process of conventional contact tracing should be reviewed and streamlined, while mobile app technology may offer a tool for gaining speed in the process.",
+    "author": "Mirjam E Kretzschmar; Janneke van de Wijgert; Marc Bonten; Michiel E van Boven; Martin Bootsma; Ganna Rozhnova",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20096289",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20096289"
+    },
+    "title": "Time is of the essence: impact of delays on effectiveness of contact tracing for COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ZonMw project",
+                    "award-id": [
+                        "91216062"
+                    ]
+                }
+            ],
+            "funding-statement": "The work was partly funded by ZonMw project number 91216062"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 has led to the most widespread public health crisis in recent history. The first case of the disease was detected in India on 31 January 2019, and confirmed cases stand at 74,281 as of 13 May 2020. Mathematical modeling can be utilized to forecast the final numbers as well as the endpoint of the disease in India and its states, as well as assess the impact of social distancing measures. In the present work, the Susceptible-Infected-Recovered (SIR) model and the Logistic Growth model have been implemented to predict the endpoint of COVID-19 in India as well as three states accounting for over 55% of the total cases - Maharashtra, Gujarat and Delhi. The results using the SIR model indicate that the disease will reach an endpoint in India on 12 September, while Maharashtra, Gujarat and Delhi will reach endpoints on 20 August, 30 July and 9 September respectively. Using the Logistic Regression model, the endpoint for India is predicted on 23 July, while that for Maharashtra, Gujarat and Delhi is 5 July, 23 June and 10 August respectively. It is also observed that the case numbers predicted by the SIR model are greater than those for the Logistic Growth model in each case. The results suggest that the lockdown enacted by the Government of India has had only a moderate impact on the spread of COVID-19, and emphasize the need for firm implementation of social distancing guidelines.",
+    "author": "Bhoomika Malhotra; Vishesh Kashyap",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103028",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103028"
+    },
+    "title": "Progression of COVID-19 in Indian States - Forecasting Endpoints Using SIR and Logistic Growth Models",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding sources were used."
+        }
+    ]
+}

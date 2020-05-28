@@ -1,0 +1,26 @@
+{
+    "abstract": "Background: In March 2020, England showed a rapid increase in Covid-19 cases. Susceptibility for infectious diseases like Covid-19 is likely to be partly genetic. Mapping the genetic susceptibility for Covid-19 outcomes may reveal biological mechanisms that could potentially aid in drug or vaccine developments. However, as the disease spreads unevenly across the country, regional allele frequency differences could become spuriously associated with disease prevalence. Methods: A regional genome-wide association study (RGWAS) was conducted in 396,042 individuals from England to investigate the association between 1.2 million genetic variants and regional differences in daily reported Covid-19 cases from March 1st to April 18th 2020. Results: The polygenic signal increases during the first weeks of March, peaking at March 13th with the measured genetic variants explaining ~3% of the variance, including two genome-wide significant loci. The explained variance starts to drop at the end of March and reaches almost zero on April 18th. The majority of this temporary polygenic signal is due to genes associated with higher educational attainment and better health. Conclusions: The temporary positive relationship between Covid-19 cases and regional socio-economic status (SES) at the beginning of the Covid-19 outbreak may reflect 1) a higher degree of international travelers, 2) more social contacts, and/or 3) better testing capacities in higher SES regions. These signals are in the opposite direction of expected disease risk increasing effects, which has the potential to cancel out signals of interest. Genetic association studies should be aware of the timing and location of cases as this can introduce interfering polygenic signals that reflect regional differences in genes associated with behavior.\nCompeting Interest Statement",
+    "author": "Abdel Abdellaoui",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20075333",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20075333"
+    },
+    "title": "Regional differences in reported Covid-19 cases show genetic correlations with higher socio-economic status and better health, potentially confounding studies on the genetics of disease susceptibility",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Foundation Volksbond Rotterdam and",
+                    "award-id": [
+                        "849200011"
+                    ]
+                },
+                {
+                    "funding-source": "The Netherlands Organisation for Health Research and Development"
+                }
+            ],
+            "funding-statement": "A.A. is supported by the Foundation Volksbond Rotterdam and by ZonMw grant 849200011 from The Netherlands Organisation for Health Research and Development"
+        }
+    ]
+}

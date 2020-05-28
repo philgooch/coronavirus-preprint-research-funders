@@ -1,0 +1,43 @@
+{
+    "title": "A comprehensive germline variant and expression analyses of ACE2, TMPRSS2 and SARS-CoV-2 activator FURIN genes from the Middle East: Combating SARS-CoV-2 with precision medicine",
+    "author": "Dr. Eaaswar Muthukrishna",
+    "date": 2020,
+    "affiliations": [
+        "Department of Genetics and Bioinformatics, Dasman Diabetes Institute, Kuwait",
+        "Department of Biochemistry and Molecular Biology, Dasman Diabetes Institute, Kuwait",
+        "Department of Animal and Imaging Core Facilities, Dasman Diabetes Institute, Kuwait",
+        "Department of Special Services Facilities, Dasman Diabetes Institute, Kuwait",
+        "Department of Immunology & Microbiology, Dasman Diabetes Institute, Kuwait",
+        "Dasman Diabetes Institute, P.O. Box 1180, Dasman 15462, Kuwait, Phone: +965 2224 2999 Ext. 2211, Fax: +965 2249 2436"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.16.099176",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.16.099176.pdf"
+    },
+    "abstract": "The severity of the new COVID-19 pandemic caused by the SARS-CoV-2 virus is strikingly variable in different global populations. SARS-CoV-2 uses ACE2 as a cell receptor, TMPRSS2 protease, and FURIN peptidase to invade human cells. Here, we investigated 1,378 whole-exome sequences of individuals from the Middle Eastern populations (Kuwait, Qatar, and Iran) to explore natural variations in the ACE2, TMPRSS2, and FURIN genes. We identified two activating variants (K26R and N720D) in the ACE2 gene that are more common in Europeans than in the Middle Eastern, East Asian, and African populations. We postulate that K26R can activate ACE2 and facilitate binding to S-protein RBD while N720D enhances TMPRSS2 cutting and, ultimately, viral entry. We also detected deleterious variants in FURIN that are frequent in the Middle Eastern but not in the European populations. This study highlights specific genetic variations in the ACE2 and FURIN genes that may explain SARS-CoV-2 clinical disparity. We showed structural evidence of the functionality of these activating variants that increase the SARS-CoV-2 aggressiveness. Finally, our data illustrate a significant correlation between ACE2 variants identified in people from Middle Eastern origins that can be further explored to explain the variation in COVID-19 infection and mortality rates globally.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "ACE2",
+        "TMPRSS2",
+        "FURIN",
+        "Variants",
+        "eQTLs",
+        "Middle Eastern populations",
+        "precision medicine",
+        "Genomic Medicine"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Kuwait Foundation for the Advancement of Sciences"
+                }
+            ],
+            "funding-statement": "This work was supported by Coronavirus emergency resilience grant from Kuwait Foundation for the Advancement of Sciences"
+        }
+    ]
+}

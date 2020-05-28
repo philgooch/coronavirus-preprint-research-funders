@@ -1,0 +1,31 @@
+{
+    "abstract": "Objective: To describe a national cohort of pregnant women hospitalised with SARS-CoV-2 infection in the UK, identify factors associated with infection and describe outcomes, including transmission of infection, for mother and infant. Design: Prospective national population-based cohort study using the UK Obstetric Surveillance System (UKOSS). Setting: All 194 obstetric units in the UK Participants: 427 pregnant women admitted to hospital with confirmed Sars-CoV-2 infection between 01/03/2020 and 14/04/2020. 694 comparison women who gave birth between 01/11/2017 and 31/10/2018. Main outcome measures: Incidence of maternal hospitalisation, infant infection. Rates of maternal death, level 3 critical care unit admission, preterm birth, stillbirth, early neonatal death, perinatal death; odds ratios for infected versus comparison women. Results: Estimated incidence of hospitalisation with confirmed SARS-CoV-2 in pregnancy 4.9 per 1000 maternities (95%CI 4.5-5.4). The median gestation at symptom onset was 34 weeks (IQR 29-38). Black or other minority ethnicity (aOR 4.49, 95%CI 3.37-6.00), older maternal age (aOR 1.35, 95%CI 1.01-1.81 comparing women aged 35+ with those aged 30-34), overweight and obesity (aORs 1.91, 95%CI 1.37-2.68 and 2.20, 95%CI 1.56-3.10 respectively compared to women with a BMI<25kg/m2) and pre-existing comorbidities (aOR 1.52, 95%CI 1.12-2.06) were associated with admission with SARS-CoV-2 during pregnancy. 247 women (58%) gave birth or had a pregnancy loss; 180 (73%) gave birth at term. 40 (9%) hospitalised women required respiratory support. Twelve infants (5%) tested positive for SARS-CoV-2 RNA, six of these infants within the first 12 hours after birth. Conclusions: The majority of pregnant women hospitalised with SARS-CoV-2 were in the late second or third trimester, supporting guidance for continued social distancing measures in later pregnancy. Most had good outcomes and transmission of SARS-CoV-2 to infants was uncommon. The strong association between admission with infection and black or minority ethnicity requires urgent investigation and explanation. Study Registration: ISRCTN 40092247",
+    "author": "Nigel Simpson; Maria Quigley; Marian Knight; Nicola Vousden; Peter Brocklehurst; Christopher Gale; Patrick O'Brien; Jennifer J Kurinczuk; Edward Morris; Kathryn Bunch",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20089268",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20089268"
+    },
+    "title": "Characteristics and outcomes of pregnant women hospitalised with confirmed SARS-CoV-2 infection in the UK: a national cohort study using the UK Obstetric Surveillance System (UKOSS)",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR"
+                }
+            ],
+            "funding-statement": "MK, MQ, PB, PO\u0092B, JJK received grants from the NIHR in relation to the submitted work"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research HTA Programme",
+                    "award-id": [
+                        "project 11/46/12"
+                    ]
+                }
+            ],
+            "funding-statement": "The study was funded by the National Institute for Health Research HTA Programme (project number 11/46/12)"
+        }
+    ]
+}

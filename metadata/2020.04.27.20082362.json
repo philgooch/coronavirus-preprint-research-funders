@@ -1,0 +1,26 @@
+{
+    "abstract": "Coronavirus disease-19 (COVID19), the novel respiratory illness caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is associated with severe morbidity and mortality. The rollout of diagnostic testing in the United States was slow, leading to numerous cases that were not tested for SARS-CoV-2 in February and March 2020, necessitating the use of serological testing to determine past infections. Here, we evaluated the Abbott SARS-CoV-2 IgG test for detection of anti-SARS-CoV-2 IgG antibodies by testing 3 distinct patient populations. We tested 1,020 serum specimens collected prior to SARS-CoV-2 circulation in the United States and found one false positive, indicating a specificity of 99.90%. We tested 125 patients who tested RT-PCR positive for SARS-CoV-2 for which 689 excess serum specimens were available and found sensitivity reached 100% at day 17 after symptom onset and day 13 after PCR positivity. Alternative index value thresholds for positivity resulted in 100% sensitivity and 100% specificity. We then tested 4,856 individuals from Boise, Idaho collected over one week in April 2020 as part of the Crush the Curve initiative and detected 87 positives for a positivity rate of 1.79%. These data demonstrate excellent analytical performance of the Abbott SARS-CoV-2 IgG test as well as the limited circulation of the virus on the West Coast. We expect the availability of high-quality serological testing will be a key tool in the fight against SARS-CoV-2.",
+    "affiliations": [
+        "Department of Laboratory Medicine at the University of Washington Medical Center"
+    ],
+    "author": "Mark H. Wener; Chihiro Morishima; Alex Greninger; Susan L Fink; Andrew Bryan; Patrick C Mathias; Gregory Pepper; Keith Jerome; Anu Chaudhary",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20082362",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20082362"
+    },
+    "title": "Performance Characteristics of the Abbott Architect SARS-CoV-2 IgG Assay and Seroprevalence Testing in Idaho",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Laboratory Medicine"
+                },
+                {
+                    "funding-source": "University of Washington Medical Center"
+                }
+            ],
+            "funding-statement": "This work was funded by the Department of Laboratory Medicine at the University of Washington Medical Center"
+        }
+    ]
+}

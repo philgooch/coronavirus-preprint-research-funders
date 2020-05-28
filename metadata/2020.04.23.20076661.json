@@ -1,0 +1,16 @@
+{
+    "abstract": "Aims and Methods: Effect of angiotensin converting enzyme inhibitors (ACEi) and angiotensin receptor blockers (ARB) on outcomes in patients with coronavirus disease 2019 (COVID-19) is uncertain. Available evidence is limited to a few retrospective observational studies with small number of patients. We did a meta-analysis to assess the effect of ACEi/ARB in patients with COVID-19 on severity of disease, risk for hospitalisation, and death compared to those not on ACEi/ARB. We searched the Cochrane library, PubMed, Embase, ClinicalTrial.gov and medRxiv for studies published until 25.04.2020. Inclusion criteria included all studies with patients with confirmed COVID-19 either taking, or not taking, ACEi/ARB. Depending on degree of heterogeneity, fixed or random effect model was selected to calculate effect size (Odds ratio). Results: Six studies were eligible for this meta-analysis. These included 423 patients on ACEi/ARB, and 1419 not on ACEi/ARB. Compared to patients with COVID-19 not on ACEi/ARB, there was a statistically significant 43% reduction (OR 0.57, CI: 0.37-0.88, I2: 0.000) in the odds of death in those on ACEi/ARB. There was a statistically non-significant 38% reduction (OR: 0.62, 95% CI: 0.31-1.23, I2=70.36) in the odds of developing severe disease and 19% reduction (OR 0.81; 95% CI: 0.42-1.55, I2: 0.000) in the odds of hospitalisation among those on ACEi/ARB. Discussion: It is safe to use ACEi/ARB in patients with COVID-19 requiring these medications for associated comorbidities. Although limited by confounding factors typical of a meta-analysis of retrospective observational studies, our data suggests that use of these medications may reduce the odds of death. Conclusion: Our meta-analysis of the updated studies on SARS-CoV-2 reassures the medical fraternity on the use of and continuation of ACEi/ARB, supporting all recent recommendations .",
+    "author": "Jagat Jyoti Mukherjee; Binayak Sinha; SAMIT GHOSAL; Kalyan Kumar Gangopadhyay",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076661",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076661"
+    },
+    "title": "The effect of angiotensin converting enzyme inhibitors and angiotensin receptor blockers on death and severity of disease in patients with coronavirus disease 2019 (COVID-19): A meta-analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding received for this manuscript."
+        }
+    ]
+}

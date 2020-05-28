@@ -1,0 +1,37 @@
+{
+    "abstract": "The COVID-19 outbreak has clear clinical and economic impacts, but also affects behaviors e.g. through social distancing, and may increase stress and anxiety. However, while case numbers are tracked daily, we know little about the psychological effects of the outbreak on individuals in the moment. Here we examine the psychological and behavioral shifts over the initial stages of the outbreak in the United States in an observational longitudinal study. Through GPS phone data we find that homestay is increasing, while being at work dropped precipitously. Using regular real-time experiential surveys we observe an overall increase in stress and mood levels which is similar in size to the weekend vs. weekday differences. As there is a significant difference between weekday and weekend mood and stress levels, this is an important decrease in wellbeing. For some, especially those affected by job loss, the mental health impact is severe.",
+    "affiliations": [
+        "National Institute of Mental Health (R01 MH111610). JM is supported by a grant from the National Institute of Mental Health (T32 MH115882)"
+    ],
+    "author": "Konrad P Kording; Lyle H Ungar; Jonah Meyerhoff; Tony Liu; David C Mohr",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20098228",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20098228"
+    },
+    "title": "COVID-19 pandemic: every day feels like a weekday to most",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Mental Health",
+                    "award-id": [
+                        "R01 MH111610"
+                    ]
+                }
+            ],
+            "funding-statement": "This research is supported by a grant from the National Institute of Mental Health (R01 MH111610)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Mental Health",
+                    "award-id": [
+                        "T32 MH115882"
+                    ]
+                }
+            ],
+            "funding-statement": "JM is supported by a grant from the National Institute of Mental Health (T32 MH115882)"
+        }
+    ]
+}

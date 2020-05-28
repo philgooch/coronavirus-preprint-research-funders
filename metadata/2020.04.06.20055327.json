@@ -1,0 +1,31 @@
+{
+    "title": "Analysing and comparing  the COVID-19 data: The closed cases of Hubei and South Korea, the dark March in Europe, the beginning of the outbreak in South America",
+    "date": 2020,
+    "author": "Funding. CNPq (grant number 2018/303911) and Fapesp (grant numebr 2019/06382-9)",
+    "affiliations": [
+        "Campinas State University, Brazil",
+        "Institute for Industrial and Scientific Research, Osaka University, Ibaraki, Japan",
+        "Salento University, Lecce, Italy"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.06.20055327",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055327.pdf"
+    },
+    "abstract": "Methods. By dividing the TCCpM curves in multiple sections spanning short time frames we were able to fit each section to a linear model. By pairing then the angular coefficient (\u03b1 factor) of each section to the total number of confirmed infections at the center of the corresponding time interval, we have analysed how the spreading rate of Covid-19 changes as more people are infected. Also, by modelling the TCCpM curves with an asymmetrical time integral of a Normal Distribution, we were able to study, by fitting progressively larger data ensembles, how the fitting parameters change as more data becomes available.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "2018/303911",
+                        "numebr 2019/06382-9"
+                    ]
+                }
+            ],
+            "funding-statement": "CNPq (grant number 2018/303911) and Fapesp (grant numebr 2019/06382-9)."
+        }
+    ]
+}

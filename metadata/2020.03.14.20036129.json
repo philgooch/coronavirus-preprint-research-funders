@@ -1,0 +1,30 @@
+{
+    "abstract": "BACKGROUND: The outbreak of COVID-19 caused by a novel Coronavirus (termed SARS-CoV-2) has spread to over 140 countries around the world. Currently, reverse transcription quantitative qPCR (RT-qPCR) is used as the gold standard for diagnostics of SARS-CoV-2. However, the positive rate of RT-qPCR assay of pharyngeal swab samples are reported to vary from 30~60%. More accurate and sensitive methods are urgently needed to support the quality assurance of the RT-qPCR or as an alternative diagnostic approach. METHODS\uff1aWe established a reverse transcription digital PCR (RT-dPCR) protocol to detect SARS-CoV-2 on 194 clinical pharyngeal swab samples, including 103 suspected patients, 75 close contacts and 16 supposed convalescents. RESULTS: The limit of blanks (LoBs) of the RT-dPCR assays were ~1.6, ~1.6 and ~0.8 copies/reaction for ORF 1ab, N and E genes, respectively. The limit of detection (LoD) was 2 copies/reaction. For the 103 fever suspected patients, the sensitivity of SARS-CoV-2 detection was significantly improved from 28.2% by RT-qPCR to 87.4% by RT-dPCR. For close contacts, the suspect rate was greatly decreased from 21% down to 1%. The overall sensitivity, specificity and diagnostic accuracy of RT-dPCR were 90%, 100% and 93 %, respectively. In addition, quantification of the viral load for convalescents by RT-dPCR showed that a longer observation period was needed in the hospital for elderly patients. CONCLUSION: RT-dPCR could be a confirmatory method for suspected patients diagnosed by RT-qPCR. Furthermore, RT-dPCR was more sensitive and suitable for low viral load specimens from the both patients under isolation and those under observation who may not be exhibiting clinical symptoms.",
+    "affiliations": [
+        "National Health Commission of the People\u0092s Republic of China to be part of a continuing public health outbreak investigation and were thus considered exempt from institutional review board approval. The analysis was performed on existing samples collected during standard diagnostic tests, posing no extra burden to patients",
+        "Institutes sponsored by National Institute of Metrology, P.R. China (31-ZYZJ2001/AKYYJ2009)"
+    ],
+    "author": "Yongzhuo Zhang; Yang Pan; Yun Zhao; Jiayi Yang; Quanyi Wang; Tao Zhu; Xiang Fang; Xia Wang; Di Wang; Xinhua Dai; Lianhua Dong; Chunyan Niu; Manqing Liu; Junbo Zhou; Yang Zhao; Xiaoying Zhang; Tao Peng; Yunhua Gao; Sitong Sheng; Jie Xie",
+    "date": 2020,
+    "doi": "10.1101/2020.03.14.20036129",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.14.20036129"
+    },
+    "title": "Highly accurate and sensitive diagnostic detection of SARS-CoV-2 by digital PCR",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fundamental Research Funds for Central Public"
+                },
+                {
+                    "funding-source": "National Institute of Metrology,",
+                    "award-id": [
+                        "31-ZYZJ2001/AKYYJ2009"
+                    ]
+                }
+            ],
+            "funding-statement": "Fundamental Research Funds for Central Public welfare Scientific research Institutes sponsored by National Institute of Metrology, P.R. China (31-ZYZJ2001/AKYYJ2009)"
+        }
+    ]
+}

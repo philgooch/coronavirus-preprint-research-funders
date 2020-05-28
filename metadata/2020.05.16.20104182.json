@@ -1,0 +1,16 @@
+{
+    "abstract": "Since December 2019 coronavirus disease (COVID-19) is outbreak from China and infected more than 4,666,000 people and caused thousands of deaths. Unfortunately, the infection numbers and deaths are still increasing rapidly which has put the world on the catastrophic abyss edge. Application of artificial intelligence and spatiotemporal distribution techniques can play a key role to infection forecasting in national and province levels in many countries. As methodology, the presented study employs long short-term memory-based deep for time series forecasting, the confirmed cases in both national and province levels, in Iran. The data were collected from February 19, to March 22, 2020 in provincial level and from February 19, to May 13, 2020 in national level by nationally recognised sources. For justification, we use the recurrent neural network, seasonal autoregressive integrated moving average, Holt winter's exponential smoothing, and moving averages approaches. Furthermore, the mean absolute error, mean squared error, and mean absolute percentage error metrics are used as evaluation factors with associate the trend analysis. The results of our experiments show that the LSTM model is performed better than the other methods on the collected COVID-19 dataset in Iran",
+    "author": "Mohammad Azarafza; Mehdi Azarafza; Jafar Tanha",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20104182",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20104182"
+    },
+    "title": "COVID-19 Infection Forecasting based on Deep Learning in Iran",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This research did not receive any specific grant from funding agenciesin the public, commercial, or not-for-profit sectors"
+        }
+    ]
+}

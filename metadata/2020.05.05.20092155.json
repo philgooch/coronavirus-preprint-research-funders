@@ -1,0 +1,16 @@
+{
+    "abstract": "The concern about (socio-)economic consequences of collective lockdowns in the Covid-19 pandemic calls for alternative strategies. We consider a divide and conquer strategy in which a high risk group (HRG) is put on strict isolation, whereas the remainder of the population is exposed to the virus, building up immunity against Covid-19. The question is whether this strategy may suppress the effective reproduction number below the critical value of R_eff < 1 without further lockdown once the HRG is released from isolation. While this proposal appears already rather academic, we show that R_eff < 1 can only be obtained provided that the HRG is less than ~20-30% of the total population. Hence, this strategy is likely to fail in countries with a HRG larger than the given upper bound. In addition, we argue that the maximum infection rate occurring in this strategy is likely to exceed realistic capacities of most health care systems. While the conclusion is rather negative in this regard, we emphasise that the strategy of stopping the curve at an early stage of the Covid-19 pandemic has a chance to work out. The required duration of the lockdown is estimated to be \u03c4 ~ 14 days/(1-R_eff) (up to some order one factor) for R_eff < 1, provided a systematic tracing strategy of new infections exists for the subsequent relaxation phase. In this context we also argue why R_eff remains the crucial parameter which needs to be accurately monitored and controlled.",
+    "author": "Patrick S. Mangat",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20092155",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092155"
+    },
+    "title": "A Divide and Conquer Strategy against the Covid-19 Pandemic?!",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This preprint has been written out of private interest in the topic of epidemiology. Hence, no funding is to be reported."
+        }
+    ]
+}

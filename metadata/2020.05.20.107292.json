@@ -1,0 +1,104 @@
+{
+    "title": "CD8+ T cell cross-reactivity against SARS-CoV-2 conferred by other coronavirus strains and influenza virus",
+    "date": 2020,
+    "author": "Chloe H. Lee,+, Mariana Pereira Pinho, Paul Buckley, Isaac Woodhouse, Graham Ogg, Alison Simmons, Giorgio Napolitani, Hashem Koohy",
+    "affiliations": [
+        "MRC Weatherall Institute of Molecular Medicine (WIMM), John Radcliffe Hospital, University of Oxford, Oxford, UK",
+        "MRC WIMM Centre For Computational Biology, MRC Weatherall Institute of Molecular Medicine, John Radcliffe Hospital, University of Oxford, Oxford, UK",
+        "Translational Gastroenterology Unit, John Radcliffe Hospital, Oxford, UK +First author",
+        "Correspondence:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.20.107292",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.20.107292.pdf"
+    },
+    "abstract": "While individuals infected with coronavirus disease 2019 (COVID-19) manifested a broad range in susceptibility and severity to the disease, the pre-existing immune memory of related pathogens can influence the disease outcome. Here, we investigated the potential extent of T cell cross-reactivity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) that can be conferred by other coronaviruses and influenza virus, and generated a map of public and private predicted CD8+ T cell epitopes between coronaviruses. Moreover, to assess the potential risk of self-reactivity and/or diminished T cell response for peptides identical or highly similar to the host, we identified predicted epitopes with high sequence similarity with human proteome. Lastly, we compared predicted epitopes from coronaviruses with epitopes from influenza virus deposited in IEDB to support vaccine development against different virus strains. We believe the comprehensive in silico profile of private and public predicted epitopes across coronaviruses and influenza viruses will facilitate design of vaccines capable of protecting against various viral infections.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council"
+                }
+            ],
+            "funding-statement": "This work has been supported by Medical Research Council"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "MRC HIU",
+                    "award-id": [
+                        "MC_UU_00008"
+                    ]
+                }
+            ],
+            "funding-statement": "H.K. is funded by MRC HIU core funding and MC_UU_00008"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK National Institute of Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                }
+            ],
+            "funding-statement": "C.H.L is funded by UK National Institute of Health Research (NIHR)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Investigator Award",
+                    "award-id": [
+                        "219523/Z/19/Z"
+                    ]
+                },
+                {
+                    "funding-source": "UK Medical Research Council, NIHR"
+                },
+                {
+                    "funding-source": "Bristol-Myers Squibb and UCB"
+                }
+            ],
+            "funding-statement": "A.S. is funded by a Wellcome Investigator Award (219523/Z/19/Z), the UK Medical Research Council, NIHR, awards from Bristol-Myers Squibb and UCB"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Senior Investigator and"
+                },
+                {
+                    "funding-source": "Oxford NIHR Biomedical Research Centre"
+                }
+            ],
+            "funding-statement": "A.S. is an NIHR Senior Investigator and acknowledges support from the Oxford NIHR Biomedical Research Centre"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "MC_UU_00008",
+                        "A93261"
+                    ]
+                }
+            ],
+            "funding-statement": "PB and IW are funded by MRC grants MC_UU_00008 and A93261 respectively"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Health and Social Care",
+                    "award-id": [
+                        "project 16/107/01"
+                    ]
+                },
+                {
+                    "funding-source": "UK Vaccine Network"
+                }
+            ],
+            "funding-statement": "M.P.P. and G.N. are funded by the department of Health and Social Care (project number:16/107/01) as part of the UK Vaccine Network"
+        }
+    ]
+}

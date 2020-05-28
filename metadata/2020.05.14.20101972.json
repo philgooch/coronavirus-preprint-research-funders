@@ -1,0 +1,16 @@
+{
+    "abstract": "With 15% of severe cases among hospitalized patients1, the SARS-COV-2 pandemic has put tremendous pressure on Intensive Care Units, and made the identification of early predictors of severity a public health priority. We collected clinical and biological data, as well as CT scan images and radiology reports from 1,003 coronavirus-infected patients from two French hospitals. Radiologists' manual CT annotations were also available. We first identified 11 clinical variables and 3 types of radiologist-reported features significantly associated with prognosis. Next, focusing on the CT images, we trained deep learning models to automatically segment the scans and reproduce radiologists' annotations. We also built CT image-based deep learning models that predicted severity better than models based on the radiologists' scan reports. Finally, we showed that including CT scan features alongside the clinical and biological data yielded more accurate predictions than using clinical and biological data only. These findings show that CT scans provide insightful early predictors of severity.",
+    "author": "Paul Jehanno; Annabelle Stoclin; Samer Soliman; Olivier Meyrignac; Frank Chemouni; Jocelyn Dachary; Remy Dubois; Franck Griscelli; Gilles Wainrib; Nicolas Loiseau; Tasnim Dardouri; Samy Ammari; Jean-Baptiste Schiratti; Hugues Talbot; Jean-Christophe Pesquet; Elodie Pronier; Marie-Pauline Talabard; Simon Jegou; Jean-Philippe Lamarque; Nathalie Lassau; Corinne Balleyguier; Marie-France Bellin; Imad Bousaid; Paul Trichelair; Olivier Dehaene; Mansouria Merad; Emilie Chouzenoux; Hugo Gortais; Kavya Gupta; Gabriel Garcia; Emmanuel Planchet; Fabrice Barlesi; Thomas Clozel; Mikael Azoulay; Yannick Boursin; Fabien Brulport; Nicolas Tetelboum; Matthieu Terris; Michael G. B. Blum; Sagar Verma; Meriem Sefta; Adrian Gonzalez; Paul Herent; Etienne Bendjebbar; Ana Neacsu; Matthieu Devilder; Yingping Li; Kathryn Schutte",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20101972",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20101972"
+    },
+    "title": "AI-based multi-modal integration of clinical characteristics, lab tests and chest CTs improves COVID-19 outcome prediction of hospitalized patients",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

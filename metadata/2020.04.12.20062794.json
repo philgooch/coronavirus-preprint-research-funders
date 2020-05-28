@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 epidemic is declared as the public health emergency of international concern by the World Health Organisation in the second week of March 2020. This disease originated from China in December 2019 has already caused havoc around the world, including India. The first case in India was reported on 30th January 2020, with the cases crossing 6000 on the day paper was written. Complete lockdown of the nation for 21 days and immediate isolation of infected cases are the proactive steps taken by the authorities. For a better understanding of the evolution of COVID-19 in the country, Susceptible-Infectious-Quarantined-Recovered (SIQR) model is used in this paper. It is predicted that actual infectious population is ten times the reported positive case (quarantined) in the country. Also, a single case can infect 1.5 more individuals of the population. Epidemic doubling time is estimated to be around 4.1 days. All indicators are compared with Brazil and Italy as well. SIQR model has also predicted that India will see the peak with 22,000 active cases during the last week of April followed by reduction in active cases. It may take complete July for India to get over with COVID-19.",
+    "author": "ALOK TIWARI",
+    "date": 2020,
+    "doi": "10.1101/2020.04.12.20062794",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.12.20062794"
+    },
+    "title": "Modelling and analysis of COVID-19 epidemic in India.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this study"
+        }
+    ]
+}

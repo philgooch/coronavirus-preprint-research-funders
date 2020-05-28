@@ -1,0 +1,16 @@
+{
+    "abstract": "Introduction Diagnosis of COVID-19 is based on clinical manifestation, history of exposure, positive findings on chest CT and laboratory tests. It has been shown that inflammation plays a role in pathogenesis of COVID-19. Method We used the necessary transformations to convert the median and IQR to mean and SD Random-effect model using Der Simonian, and Laird methods was used if heterogeneity between studies was significant, the homogeneity among studies was assessed with I2 Statistic, values above 50%, and for the chi-square test, P-values <0.1 was supposed statistically significant Results Twelve studies were included in the analysis that all of which were conducted in China in the year 2020. The result of combining 12 articles with 772 participants showed that the pooled estimate of the mean of lymphocyte with 95% CI was (Mean: 1.01; 95% CI (0.76-1.26); p-value<0.001). About WBC the pooled result of 9 studies with 402 participants was (Mean: 5.11; 95% CI (3.90-6.32); p-value<0.001) Also the pooled mean estimate of 9 studies with 513 patients for the ratio of Neutrophil/lymphocyte was (Mean: 3.62; 95% CI (1.48-5.77); p-value=0.001). The pooled mean from the combination of 7 studies with 521 patients on CRP was (Mean: 28.75; 95% CI (8.04-49.46). Conclusion Inflammatory Markers increase in patients with Covid-19, which can be a good indicator to find patients.",
+    "author": "kIYAN Heshmat-Ghahdarijani; Shaghayegh Haghjoo Javanmard; Marjan Mansourian; Paria Rouhi; Mahfam Shariati; Raheleh Karimi; Golnaz Vaseghi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20084863",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20084863"
+    },
+    "title": "Inflammatory markers in Covid-19 Patients: a systematic review and meta-analysis.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors had no support from any person or institution."
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "abstract": "Background: Supportive treatment is an important and effective part of the management for patients with life-threatening diseases. This study aims to identify and evaluate the forms of supportive care for patients with respiratory diseases. Methods: An umbrella review of supportive care for patient respiratory diseases was undertaken. We comprehensively searched the following databases: Medline, EMBASE, Web of Science, CNKI (China National Knowledge Infrastructure), Wanfang Data and CBM (SinoMed) from their inception to 31 March 2020, and other sources to identify systematic reviews and meta-analyses related to supportive treatments for patient with respiratory diseases including COVID-19, SARS, MERS and influenza. We assessed the methodological quality using the AMSTAR score and the quality of the evidence for the primary outcomes of each included systematic review and meta-analysis. Results: We included 18 systematic reviews and meta-analyses in this study. Most studies focused on the respiratory and circulatory support. Ten studies were of high methodological quality, five studies of medium quality, and three studies of low quality. According to four studies extracorporeal membrane oxygenation did not reduce mortality in adults (OR/RR ranging from 0.71 to 1.28), but two studies reported significantly lower mortality in patients receiving venovenous extracorporeal membrane oxygenation than in the control group (OR/RR ranging from 0.38 to 0.73). Besides, monitoring of vital signs and increasing the number of medical staff may also reduce the mortality in patients with respiratory diseases. Conclusions: Our overview suggests that supportive care may reduce the mortality of patients with respiratory diseases to some extent. However, the quality of evidence for the primary outcomes in the included studies was low to moderate. Further systematic reviews and meta-analyses are needed to address the evidence gap regarding the supportive care for SARS, MERS and COVID-19.\nCompeting Interest Statement",
+    "author": "Yanfang Ma; Myeong Soo Lee; Xin Long; Zhengxiu Luo; Yaolong Chen; Yunlan Liu; Hyeong Sik Ahn; Meng Lv; Weiguo Li; Enmei Liu; Xufei Luo; Mengjuan Ren; Qi Zhou; Toshio Fukuoka; Xiaohui Wang; Xianzhuo Zhang; Xiaoqing Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20064360",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20064360"
+    },
+    "title": "Supportive Care for Patient with Respiratory Diseases: An Umbrella Review",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Clinical Research Center for Child Health and Disorders"
+                },
+                {
+                    "funding-source": "Children's Hospital of Chongqing Medical University, Chongqing",
+                    "award-id": [
+                        "NCRCCHD-2020-EP-01",
+                        "Enmei Liu"
+                    ]
+                },
+                {
+                    "funding-source": "Special Fund for Key Research and Development Projects in Gansu Province in",
+                    "award-id": [
+                        "Yaolong Chen"
+                    ]
+                },
+                {
+                    "funding-source": "Special Project of Science and Technology for Emergency Response",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Chongqing Science and Technology Bureau,",
+                    "award-id": [
+                        "Enmei Liu",
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Key Laboratory of Evidence Based Medicine and Knowledge Translation of Gansu Province",
+                    "award-id": [
+                        "GSEBMKT-2020YJ01",
+                        "Yaolong Chen"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants from National Clinical Research Center for Child Health and Disorders (Children's Hospital of Chongqing Medical University, Chongqing, China) (grant number NCRCCHD-2020-EP-01) to [Enmei Liu]; Special Fund for Key Research and Development Projects in Gansu Province in 2020, to [Yaolong Chen]; The fourth batch of \"Special Project of Science and Technology for Emergency Response to COVID-19\" of Chongqing Science and Technology Bureau, to [Enmei Liu]; Special funding for prevention and control of emergency of COVID-19 from Key Laboratory of Evidence Based Medicine and Knowledge Translation of Gansu Province (grant number No GSEBMKT-2020YJ01), to [Yaolong Chen]"
+        }
+    ]
+}

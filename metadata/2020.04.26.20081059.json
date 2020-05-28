@@ -1,0 +1,47 @@
+{
+    "abstract": "Background Effective therapies are urgently needed for the SARS-CoV-2 pandemic. Chloroquine has been proved to have antiviral effect against coronavirus in vitro. In this study, we aimed to assess the efficacy and safety of chloroquine with different doses in COVID-19. Method In this multicenter prospective observational study, we enrolled patients older than 18 years old with confirmed SARS-CoV-2 infection excluding critical cases from 12 hospitals in Guangdong and Hubei Provinces. Eligible patients received chloroquine phosphate 500mg, orally, once (half dose) or twice (full dose) daily. Patients treated with non-chloroquine therapy were included as historical controls. The primary endpoint is the time to undetectable viral RNA. Secondary outcomes include the proportion of patients with undetectable viral RNA by day 10 and 14, hospitalization time, duration of fever, and adverse events. Results A total of 197 patients completed chloroquine treatment, and 176 patients were included as historical controls. The median time to achieve an undetectable viral RNA was shorter in chloroquine than in non-chloroquine (absolute difference in medians -6.0 days; 95% CI -6.0 to -4.0). The duration of fever is shorter in chloroquine (geometric mean ratio 0.6; 95% CI 0.5 to 0.8). No serious adverse events were observed in the chloroquine group. Patients treated with half dose experienced lower rate of adverse events than with full dose. Conclusions Although randomised trials are needed for further evaluation, this study provides evidence for safety and efficacy of chloroquine in COVID-19 and suggests that chloroquine can be a cost-effective therapy for combating the COVID-19 pandemic.",
+    "author": "Zhaoqin Wang; Songmei He; Yinong Ye; Shanping Jiang; Jinyu Xia; Yingying You; Man Li; Shaoxuan Liu; Wenxin Hong; Zhongsi Hong; Ruilin Sun; Xiaohua Wang; Jiabi Liang; Duanqing Pei; Yaocai Li; Huili Chen; Zhilong Wu; Mingxing Huang; Pengfei Pang; Jianhua Feng; Bei Zhong; Lin Tian; Guanmin Jiang; Changqing Lin; Yang Li; Jingxian Shu; Fei Xiao; Jianhui Zhou; Jing Liu; Hong Shan; Tiantian Tang; Nanshan Zhong; Jingfen Xiang; Binghui Chen; Meiwen Tang; Zhonghe Li",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20081059",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20081059"
+    },
+    "title": "Preliminary evidence from a multicenter prospective observational study of the safety and efficacy of chloroquine for the treatment of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research and Development",
+                    "award-id": [
+                        "2020YFC082400"
+                    ]
+                },
+                {
+                    "funding-source": "Guangdong Research and Development"
+                },
+                {
+                    "funding-source": "Program in Key"
+                },
+                {
+                    "funding-source": "Guangdong Scientific and Technological Research Special"
+                },
+                {
+                    "funding-source": "Prevention and Treatment of COVID-19, Special"
+                },
+                {
+                    "funding-source": "Guangzhou Regenerative Medicine and Health Guangdong Laboratory, Cultivation"
+                },
+                {
+                    "funding-source": "Three Major Scientific Research Projects\u201d"
+                },
+                {
+                    "funding-source": "Sun Yat-sen University in"
+                },
+                {
+                    "funding-source": "Emergency Project of New Coronavirus Prevention and Control Science and Technology of Sun Yat-sen University,"
+                }
+            ],
+            "funding-statement": "This work was supported in part by National key Research and Development (R&D plan \u201cpublic security risk prevention and control and emergency technical equipment\u201d: Novel coronavirus infection pneumonia diagnosis and control key technology research (2020YFC082400), Guangdong Research and Development (R&D) Program in Key Areas: Guangdong Scientific and Technological Research Special fund for Prevention and Treatment of COVID-19, Special fund for emergency research on SARS-CoV-2 from the Guangzhou Regenerative Medicine and Health Guangdong Laboratory, Cultivation Project of \u201cThree Major Scientific Research Projects\u201d of Sun Yat-sen University in 2020, Emergency Project of New Coronavirus Prevention and Control Science and Technology of Sun Yat-sen University, and Zhuhai 2020 \u201cnovel coronavirus infection control\u201d emergency technology tackling key issues"
+        }
+    ]
+}

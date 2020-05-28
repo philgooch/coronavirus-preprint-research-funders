@@ -1,0 +1,28 @@
+{
+    "title": "Nanopore target sequencing for accurate and comprehensive detection of SARS-CoV-2 and other respiratory viruses",
+    "date": 2020,
+    "affiliations": [
+        "Department of Clinical Laboratory, Renmin Hospital of Wuhan University, Wuhan, 430060",
+        "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education and",
+        "Wuhan University School of Pharmaceutical Sciences, Wuhan, 430071, China 11",
+        "Wuhan Dgensee Clinical Laboratory Co., Ltd., Wuhan, 430075, China 12",
+        "Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, Hubei Province, P.R. China 13",
+        "State Key Laboratory of Microbial Metabolism, Joint International Research Laboratory of",
+        "Metabolic & Developmental Sciences, and School of Life Sciences and Biotechnology, Shanghai",
+        "Jiao Tong University, Shanghai, 200030, China 16",
+        "Hubei Engineering Laboratory for Synthetic Microbiology, Wuhan Institute of Biotechnology",
+        "Wuhan, 430075, China 18",
+        "Department of Internal Medicine, Renmin Hospital of Wuhan University. Wuhan, 430060, China 19 # These authors contributed equally to this work. 20 Corresponding author: 21 Tiangang Liu"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.04.20029538",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.04.20029538.pdf"
+    },
+    "abstract": "The ongoing novel coronavirus pneumonia COVID-19 outbreak in Wuhan, China, has engendered numerous cases of infection and death. COVID-19 diagnosis relies upon nucleic acid detection; however, current recommended methods exhibit high false-negative rates, low sensitivity, and cannot identify other respiratory virus infections, thereby resulting patient misdiagnosis and impeding epidemic containment. Combining the advantages of target amplification and long-read, real-time nanopore sequencing, we developed nanopore target sequencing (NTS) to detect SARS31 CoV-2 and other respiratory viruses simultaneously within 6\u201310 h. Parallel testing with approved 32 qPCR kits of SARS-CoV-2 and NTS using 61 nucleic acid samples from suspected COVID-19 cases confirmed that NTS identified more infected patients as positive, and could also monitor for mutated nucleic acid sequence or other respiratory virus infection in the test sample. NTS is thus suitable for contemporary COVID-19 diagnosis; moreover, this platform can be further extended for diagnosing other viruses or pathogens.",
+    "funding": [
+        {}
+    ]
+}

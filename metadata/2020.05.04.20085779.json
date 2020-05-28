@@ -1,0 +1,35 @@
+{
+    "abstract": "We report here on antigens from the SARS-CoV-2 virus spike protein, that when presented by Class I MHC, can lead to cytotoxic CD8+ T cell anti-viral responses in COVID-19 patients. We present a method in which the SARS-CoV-2 spike protein is converted into a library of peptide antigen-Major Histocompatibility Complexes (pMHCs) as single chain trimers that contain the peptide antigen, the MHC HLA allele, and the \u03b2-2 microglobulin sub-unit. That library is used to detect the evolution of virus-specific T cell populations from two COVID-19 patients, at two time points over the course of infection. Both patients exhibit similar virus-specific T cell populations, but very different time-trajectories of those populations. These results can be used to track those virus-specific T cell populations over the course of an infection, thus providing deep insight into the variations in immune system trajectories observed in different COVID-19 patients.",
+    "affiliations": [
+        "Parker Institute for Cancer Immunotherapy, the WA State Andy Hill CARE Foundation, the Wilke Foundation, the M.J. Murdock Charitable Trust, and the Swedish Foundation for generous support of this work"
+    ],
+    "author": "William R. Berrington; Alex M Xu; Rick Edmark; William Chour; Venkata Duvvuri; Kim Murray; D. Shane O'Mahoney; Heather A. Algren; John K. Lee; Jingyi Xie; Jongchan Choi; Julie Wallick; Dan Yuan; Jason D. Goldman; Mary E. Chaffee; James R Heath; Philip D. Greenberg; Alphonsus H.C. Ng; Lesley Jones; Thomas M. Schmitt; Diane C. Delucia",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20085779",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20085779"
+    },
+    "title": "Shared Antigen-specific CD8+ T cell Responses Against the SARS-COV-2 Spike Protein in HLA A*02:01 COVID-19 Participants",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Parker Institute for Cancer Immunotherapy,"
+                },
+                {
+                    "funding-source": "WA State Andy Hill CARE Foundation,"
+                },
+                {
+                    "funding-source": "Wilke Foundation,"
+                },
+                {
+                    "funding-source": "Murdock Charitable Trust,"
+                },
+                {
+                    "funding-source": "Swedish Foundation for"
+                }
+            ],
+            "funding-statement": "We acknowledge the Parker Institute for Cancer Immunotherapy, the WA State Andy Hill CARE Foundation, the Wilke Foundation, the M.J. Murdock Charitable Trust, and the Swedish Foundation for generous support of this work."
+        }
+    ]
+}

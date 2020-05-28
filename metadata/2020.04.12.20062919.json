@@ -1,0 +1,16 @@
+{
+    "abstract": "BACKGROUND We described the epidemiological features of the codiv-19 outbreak, and evaluated the impact of interventions measures on the epidemic in the Lombardy region, Italy. METHODS Laboratory-confirmed covid-19 cases reported through the beginning of April were extracted from the Italian Civil Protection database. Based on key events and interventions, we divided the epidemic into three periods: before February 21, from February 22 to early March, after early March. We compared epidemiological characteristics across periods and developed a modified susceptible-exposed-infectious-recovered model to study the epidemic and evaluate the impact of interventions. We explicitly took into account for unascertained cases (positive cases with no symptoms or mild symptoms that have not been accounted for in official statistics). RESULTS Currently, the number of positive active cases has increased to around 30,000 in the Lombardy region. Due to restriction measures, the effective reproduction number dropped from 3.33 (95% CI: 2.03-3.69) during the first period, to 2.36 (95% CI: 2.21-2.70) during the second period. In the third period, the effective reproduction number is estimated to have dropped to 1.49 (95% CI: 1.35-1.62). The model estimates a great proportion of unascertained cases, about 90% of infected people has not been accounted for in official statistics. CONCLUSIONS Considerable countermeasures have slowed down the covid-19 outbreak in the Lombardy region. However, notwithstanding the long-lasting lockdown period, the epidemic is still not under control. The effective reproduction number, according to the model used in this work, is still greater than 1.0. Estimation of unascertained cases has important implications on continuing surveillance and interventions.",
+    "author": "Angelo Riccio",
+    "date": 2020,
+    "doi": "10.1101/2020.04.12.20062919",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.12.20062919"
+    },
+    "title": "Analysis of the SARS-Cov-2 epidemic in Lombardy (Italy) in its early phase. Are we going in the right direction?",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "We declare that no funding has been received to support the analysis presented in this manuscript."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "title": "Analytical Validation of a COVID-19 qRT-PCR Detection Assay Using a 384-well Format and Three Extraction Methods",
+    "author": "Andrew C Nelson",
+    "date": 2020,
+    "affiliations": [
+        "Department of Laboratory Medicine & Pathology, Division of Molecular Pathology and Genomics",
+        "University of Minnesota Genomics Center; 3M Health Fairview Molecular Diagnostics Laboratory",
+        "Department of Genetics, Cell Biology, and Development",
+        "Department of Microbiology and Immunology and Center for Immunology",
+        "Biochemistry, Molecular Biology and Biophysics Graduate Program; &",
+        "Department of Medicine, Division of Infectious Diseases and International Medicine, University of Minnesota, Minneapolis. 55455",
+        "Hopkins Coronavirus Resource Center). The need for widespread testing, not just among individuals with symptoms, but health care workers and individuals who have had contact with infected individuals is needed to curb the spread of SARS-CoV-2",
+        "Minnesota Department of Health (MDH) for use under Common Rule exemption",
+        "Laboratory Information Management System (LIMS) throughout the process from accessioning through to data release. Container barcodes used for tracing did not include any PHI. At initial scanning into the LIMS, each unique sample swab barcode was associated with a unique 0.5-ml 2D-barcoded tube (Micronic), into which the extracted RNA was eluted at completion of extraction. Racks of these 2D barcoded tubes from extraction"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.02.022186",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.02.022186.pdf"
+    },
+    "abstract": "The COVID-19 global pandemic is an unprecedented health emergency. Insufficient access to testing has hampered effective public health interventions and patient care management in a number of countries. Furthermore, the availability of regulatory-cleared reagents has challenged widespread implementation of testing. We rapidly developed a qRT-PCR SARS-CoV-2 detection assay using a 384-well format and tested its analytic performance across multiple nucleic acid extraction kits. Our data shows robust analytic accuracy on residual clinical biospecimens. Limit of detection sensitivity and specificity was confirmed with currently available commercial reagents. Our methods and results provide valuable information for other high-complexity laboratories seeking to develop effective, local, laboratory-developed procedures with high-throughput capability to detect SARS-CoV-2.",
+    "funding": [
+        {}
+    ]
+}

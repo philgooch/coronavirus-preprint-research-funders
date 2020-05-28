@@ -1,0 +1,48 @@
+{
+    "abstract": "Background: Current evidence suggests that older people and people with underlying comorbidities are at increased risk of severe disease and death following hospitalisation with COVID-19. As comorbidity increases with age, it is necessary to understand the age-adjusted relationship between comorbidity and COVID-19 outcomes, in order to enhance planning capabilities and our understanding of COVID-19. Methods: We conducted a rapid, comprehensive review of the literature up to 10 April 2020, to assess the international empirical evidence on the association between comorbidities and severe or critical care outcomes of COVID-19, after accounting for age, among hospitalised patients with COVID-19. Results: After screening 579 studies, we identified seven studies eligible for inclusion and these were synthesised narratively. All were from China. The emerging evidence base mostly indicates that after adjustment for age (and in some cases other potential confounders), obesity, hypertension, diabetes mellitus, chronic obstructive airways disease (COPD), and cancer are all associated with worse outcomes. The largest study, using a large nationwide sample of COVID-19 patients in China, found that those with multiple comorbidities had more than twice the risk of a severe outcome or death compared with patients with no comorbidities, after adjusting for age and smoking (HR=2.59, 95% CI 1.61, 4.17). Conclusions: This review summarises for clinicians, policymakers, and academics the most robust evidence to date on this topic, to inform the management of patients and control measures for tackling the pandemic. Given the intersection of comorbidity with ethnicity and social disadvantage, these findings also have important implications for health inequalities. As the pandemic develops, further research should confirm these trends in other settings outside China and explore mechanisms by which various underlying health conditions increase risk of severe COVID-19.\nCompeting Interest Statement",
+    "author": "Andy Pennington; Jennifer Day; Ben Barr; Kate E Mason; Philip McHale; Gillian Maudsley",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093351",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093351"
+    },
+    "title": "Age-adjusted associations between comorbidity and outcomes of COVID-19: a review of the evidence",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR School for Public Health Research"
+                }
+            ],
+            "funding-statement": "BB and KM are supported by the NIHR School for Public Health Research"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Applied Research Collaboration North West Coast",
+                    "award-id": [
+                        "ARC NWC"
+                    ]
+                },
+                {
+                    "funding-source": "ARC NWC)"
+                }
+            ],
+            "funding-statement": "BB is supported by the National Institute for Health Research (NIHR) Applied Research Collaboration North West Coast (ARC NWC)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR ARC NWC and NIHR SPHR"
+                }
+            ],
+            "funding-statement": "This report is independent research funded by the NIHR ARC NWC and NIHR SPHR"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "abstract": "Background: COVID-19 patients with comorbidities such as hypertension or heart failure (HF) are associated with poor clinical outcomes. Angiotensin-converting enzyme 2 (ACE2), the critical enzyme for SARS-CoV-2 infection, is broadly expressed in many organs including heart. However, the cellular distribution of ACE2 in the human heart, particularly the failing heart is unknown. Methods: We analyzed single-cell RNA sequencing (scRNA-seq) data in both normal and failing hearts, and characterized the ACE2 gene expression profile in various cell subsets, especially in cardiomyocyte subsets, as well as its interaction with gene networks relating to various defense and immune responses at the single cell level. Results: The results demonstrated that ACE2 is present in cardiomyocytes (CMs), endothelial cells, fibroblasts and smooth muscle cells in the heart, while the number of ACE2-postive (ACE2+) CMs and ACE2 gene expression in these CMs are significantly increased in the failing hearts. Interestingly, both brain natriuretic peptides (BNP) and atrial natriuretic peptide (ANP) are significantly up-regulated in the ACE2+ CMs. Further analysis shows that ANP, BNP and ACE2 may form a negative feedback loop with a group of genes associated with the development of heart failure. To our surprise, we found that genes related to virus entry, virus replication and suppression of interferon-gamma signaling are all up-regulated in CMs in failing hearts, and the increases were significantly higher in ACE2+ CMs as compared with ACE2 negative (ACE2-) CMs, suggesting that these ACE2+ CMs may be more vulnerable to virus infection. Since ACE2 expression is correlated with BNP expression, we further performed retrospective analysis of the plasma BNP levels and clinic outcome of 91 COVID-19 patients from a single-center. Patients with higher plasma BNP were associated with significantly higher mortality rate and expression levels of inflammatory and infective markers such as procalcitonin and C-reactive protein. Conclusion: In the failing heart, the upregulation of ACE2 and virus infection associated genes, as well as the increased expression of ANP and BNP could facilitate SARS-CoV-2 virus entry and replication in these vulnerable cardiomyocyte subsets. These findings may advance our understanding of the underlying molecular mechanisms of myocarditis associated with COVID-19.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Natural Science Foundation of China (No. 81770391 to Dachun Xu)"
+    ],
+    "author": "Yang Su; Dachun Xu; Mengqiu Ma; Yingjie Chen; Hong Li; Xiaojiang Xu; Sang-Bing Ong; Min Cai; Yanhua Xu; Maojun Zhao; Xindong Hu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20081257",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20081257"
+    },
+    "title": "Single-cell Transcriptome Analysis Indicates New Potential Regulation Mechanism of ACE2 and NPs signaling among heart failure patients infected with SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81770391"
+                    ]
+                },
+                {
+                    "funding-source": "Dachun Xu)"
+                }
+            ],
+            "funding-statement": "This study was supported by grants from National Natural Science Foundation of China (No 81770391 to Dachun Xu)"
+        }
+    ]
+}

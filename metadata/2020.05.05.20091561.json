@@ -1,0 +1,16 @@
+{
+    "abstract": "Chest Imaging in COVID-19 patient management is becoming an essential tool for controlling the pandemic that is gripping the international community. It is already indicated in patients with COVID-19 and worsening respiratory status. The rapid spread of the pandemic to all continents, albeit with a nonuniform community transmission, necessitates chest imaging for medical triage of patients presenting moderate-severe clinical COVID-19 features. This paper reports the development of innovative machine learning schemes for the analysis of Chest X-Ray (CXR) scan images of COVID-19 patients in almost real-time, demonstrating significantly high accuracy in identifying COVID-19 infection. The performance testing was conducted on a combined dataset comprising CXRs of positive COVID-19 patients, patients with various viral and bacterial infections, as well as persons with a clear chest. The test resulted in successfully distinguishing CXR COVID-19 infection from the other cases with an average accuracy of 94.43%, sensitivity 95% and specificity 93.86%.",
+    "author": "Dhurgham Al-karawi; Sabah Jassim; Shakir Al-Zaidi; Nisreen Polus",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091561",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091561"
+    },
+    "title": "AI based Chest X-Ray (CXR) Scan Texture Analysis Algorithm for Digital Test of COVID-19 Patients",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement non</strong>"
+        }
+    ]
+}

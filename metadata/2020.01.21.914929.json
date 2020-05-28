@@ -1,0 +1,51 @@
+{
+    "title": "Novel ionophores active against La Crosse virus identified through rapid antiviral screening",
+    "date": 2020,
+    "author": "Zachary J. Sandler, Michelle N. Vu, Vineet D. Menachery, and Bryan C. Mounce",
+    "affiliations": [
+        "University Chicago, Maywood, Illinois, USA",
+        "Stritch School of Medicine, Loyola University",
+        "Immunology Research Institute, Stritch School of Medicine, Loyola"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.01.21.914929",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.01.21.914929.pdf"
+    },
+    "abstract": "Bunyaviruses are significant human pathogens, causing diseases ranging from hemorrhagic fevers to encephalitis. Among these viruses, La Crosse virus (LACV), a member of the California serogroup, circulates in the eastern and midwestern United States. While LACV infection is often asymptomatic, dozens of cases of encephalitis are reported yearly. Unfortunately, no antivirals have been approved to treat LACV infection. Here, we developed a method to rapidly test potential antivirals against LACV infection. From this screen, we identified several potential antiviral molecules, including known antivirals. Additionally, we identified many novel antivirals that exhibited antiviral activity without affecting cellular viability. Valinomycin, a potassium ionophore, was among our top targets. We found that valinomycin exhibited potent anti-LACV activity in multiple cell types in a dose-dependent manner. Valinomycin did not affect particle stability or infectivity, suggesting that it may preclude virus replication by altering cellular potassium ions, a known determinant of LACV entry. We extended these results to other ionophores and found that the antiviral activity of valinomycin extended to other viral families including bunyaviruses (Rift",
+    "keywords": [
+        "bunyaviruses",
+        "La Crosse virus",
+        "antivirals",
+        "ionophores"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIAID of the NIH",
+                    "award-id": [
+                        "U19AI100625 to VDM"
+                    ]
+                }
+            ],
+            "funding-statement": "Research was supported by grant from NIAID of the NIH (U19AI100625 to VDM)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "STARs Award"
+                },
+                {
+                    "funding-source": "University of Texas System"
+                },
+                {
+                    "funding-source": "Graduate School of Biomedical Sciences"
+                }
+            ],
+            "funding-statement": "Research was also supported by STARs Award provided by the University of Texas System to VDM and trainee funding provided by the Graduate School of Biomedical Sciences at UTMB"
+        }
+    ]
+}

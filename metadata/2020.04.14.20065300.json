@@ -1,0 +1,16 @@
+{
+    "abstract": "and Executive Summary - When it comes to pandemics such as the currently present COVID-19 [1], various issues and problems arise for infrastructures and institutions. Due to possible extreme effects, such as hospitals potentially running out of beds or medical equipment, it is essential to lower the infection rate to create enough space to attend to the affected people and allow enough time for a vaccine to be developed. Unfortunately, this requires that measures put into place are upheld long enough to reduce the infection rate sufficiently. In this paper, we describe research simulating the influences of the contact rate on the spread of the pandemic using New York City as an example (Section IV) and especially already observed effects of contact rate increases during holidays [2-4] (Section V). In multiple simulations scenarios for Passover and Easter holidays, we evaluated 25%, 50%, 75%, and 100% temporary increases in contact rates using a scenario close to the currently reported numbers as reference and contact rates based on bioterrorism research as a 'normal' baseline for NYC. The first general finding from the simulations is that singular events of increased visits/contacts amplify each other disproportionately if they are happening in close proximity (time intervals) together. The second general observation was that contact rate spikes leave a permanently increased and devastating infection rate behind, even after the contact rate returns to the reduced one. In case of a temporary sustained increase of contact rate for just three days in a row, the aftermath results in an increase of infection rate up to 40%, which causes double the fatalities in the long run. In numbers, given that increases of 25% and 50% seem to be most likely given the data seen in Germany for the Easter weekend for example [2, 3], our simulations show the following increases (compared to the realistic reference run): for a temporary 25% surge in contact rate, the total cases grew by 215,880, the maximum of required hospitalizations over time increased to 63,063, and the total fatalities climbed by 8,844 accumulated over 90 days. As for the 50% surge, we saw the total number of cases rise by 461,090, the maximum number of required hospitalizations increase to 79,733, and the total number of fatalities climb by 19,125 over 90 days in NYC. All in all, we conclude that even very short, temporary increases in contact rates can have disproportionate effects and result in unrecoverable phenomena that can hardly be reversed or managed later. The numbers show possible phenomena before they might develop effects in reality. This is important because phenomena such as the described blip can impact the hospitals in reality. Therefore, we warn that a wave of infections due to increased contact rates during Passover/Easter might come as a result!",
+    "author": "Maximilian Vierlboeck; Christine M Edwards; Roshanak R Nilchiani",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065300",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065300"
+    },
+    "title": "The Easter and Passover Blip in New York City",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for the work presented."
+        }
+    ]
+}

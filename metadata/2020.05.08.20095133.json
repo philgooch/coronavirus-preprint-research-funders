@@ -1,0 +1,26 @@
+{
+    "abstract": "The emergence of the coronavirus SARS-CoV-2 has raised a global issue and a pandemic disease outbreak, COVID-19, was declared by the World Health Organization on March 12th, 2020. The new virus is rapidly spreading in humans and cases of severe acute respiratory syndromes are being reported worldwide. Health authority advisors and governments from small towns to large countries need to quickly manage and deal with growing epidemiological data on a daily basis. In this work, current available data from reported cases and deaths over time were analyzed and treated. Lethality has been calculated by finding linearization of death cases against reported ones, using a time-delayed data transposition. A two-wave statistical model, 2WM, based on the superposition of normal distributions was used to fit current data and to estimate the evolution of infections and deaths, using Microsoft Excel\u00ae. The model showed good agreement even for apparent single wave behavior in some countries and can easily be extended to any number of waves. A gamma distribution was used as a risk function to estimate death probability from patient admission to reported death. Evolution of fatality cases over time can then be estimated from the model with reasonable accuracy. Data from South Korea, China, Australia, Germany, Italy and Spain were used to validate the model. Data from The United States, United Kingdom and Brazil were used to study the epidemiology as the pandemic progresses. Additionally, the 2WM was applied to world data and to the Brazilian state of Santa Catarina. The model was implemented in MS-Excel, a popular and easy to use analytical tool. A template spreadsheet is provided as supplementary material. Constant lethality can be determined from the initial stage of the pandemic wave. Values ranged from 1.7% to 15.3%, depending on the degree of possible sub notification cases. Even for places with low testing, a linear relationship can be found. The two-wave model can be fine-tuned to properly adjust the data. The second wave pattern was estimated according to the first wave parameter. The accuracy for estimating COVID-19 evolution was compared to the classic SIR model with good agreement. According to the model, based on current trends, health protocols and policies, approximately 10,000,000 cases and 860,000 deaths will be recorded worldwide. Approximately 99% of that number would be reached by the end of July 2020 given constant conditions.",
+    "affiliations": [
+        "National Council for Scientific and Technological Development (CNPq) for their continuous support"
+    ],
+    "author": "Agenor De Noni; Bernando Araldi da Silva; Felipe Dal-Pizzol; Luismar Marques Porto",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095133",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095133"
+    },
+    "title": "A two-wave epidemiological model of COVID-19 outbreaks using MS-Excel\u00ae",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Higher Education Personnel"
+                },
+                {
+                    "funding-source": "National Council for Scientific and Technological Development"
+                }
+            ],
+            "funding-statement": "The authors acknowledge the Brazilian agencies Coordination for the improvement of Higher Education Personnel (CAPES) and the National Council for Scientific and Technological Development (CNPq) for their continuous support."
+        }
+    ]
+}

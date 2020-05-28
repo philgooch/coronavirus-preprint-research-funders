@@ -1,0 +1,16 @@
+{
+    "abstract": "The article describe modelling efforts for evaluating the current level of COVID-19 infections in India, using exponential model. The Data from 15 march 2020 to 30 April 2020 are used for validating the model, where intrinsic rise rate is kept constant. It is observed that some states of India, like Maharastra, Gujarat and Delhi have a much higher daily infection cases. This is modelled by assuming an initial higher infections, keeping rise rate same. The sudden outbursts are captured using offset of values for these three states. Data from other states like Madhya Pradesh, Uttar Pradesh and Rajasthan are also analysed and they are found to be following the same constants as India is following. Worldwide, many attempts are made to predict outburst of COVID-19 and in the model, described in this paper, turning point is not predicted, as cases in India are still rising. The developed model is based on daily confirmed infections and not on cumulative infections and rationalization is carried out for the population of various regions, while predicting infections for various states. Assigning a decay constant at this stage will be a premature exercise and keeping that in mind, exponential model predicts that India will attain 1 lakh case by 15 May 2020. The figure of 2 lakh and 3 lakh will be attained on 22 May 2020 and 26 May 2020, respectively.",
+    "author": "Himanshu Shekhar",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087460",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087460"
+    },
+    "title": "Prediction of Spreads of COVID-19 in India from Current Trend",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding is received for conducting this research"
+        }
+    ]
+}

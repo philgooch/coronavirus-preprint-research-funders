@@ -1,0 +1,70 @@
+{
+    "title": "Assessment of Hydroxychloroquine and Chloroquine Safety Profiles: A Systematic Review and Meta-Analysis",
+    "date": 2020,
+    "author": "Lu Ren, MD, Wilson Xu, BS, James L Overton, MS, Shandong Yu, MD, PhD, Nipavan Chiamvimonvat, MD, and Phung N. Thai, PhD",
+    "affiliations": [
+        "Department of Internal Medicine, Cardiology, UC Davis",
+        "Department of Veteran Affairs",
+        "Department of Cardiology, Cardiovascular Center, Beijing Friendship Hospital, Capital Medical",
+        "University, Beijing",
+        "Cardiovascular Medicine University of California, Davis 451 Health Science Drive, GBSF 6315 Davis, CA 95616 Department of Veterans Affairs, Northern California Health Care System 10535 Hospital Way Mather, CA 95655"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.02.20088872",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20088872.pdf"
+    },
+    "abstract": "Background: Recently, chloroquine (CQ) and its derivative hydroxychloroquine (HCQ) have emerged as potential antiviral and immunomodulatory options for the treatment of 2019 coronavirus disease (COVID-19). To examine the safety profiles of these medications, we systematically evaluated the adverse events (AEs) of these medications from . The random-effects or fixed-effects models were used to pool the risk estimates relative ratio (RR) with 95% confidence interval (CI) for the outcomes. Results: The literature search yielded 23 and 17 studies for CQ and HCQ, respectively, that satisfied our inclusion criteria. Of these studies, we performed meta-analysis on the ones that were placebo-controlled, which included 6 studies for CQ and 14 studies for HCQ. We did not limit our analysis to published reports involving viral treatment alone; data also included the usage of either CQ or HCQ for the treatment of other diseases. The trials for the CQ consisted of a total of 2,137 participants (n=1,077 CQ, n=1,060 placebo), while the trials for HCQ involved 1,096 participants (n=558 HCQ and n=538 placebo). The overall mild or total AEs were statistically higher comparing CQ or HCQ to placebo. The AEs were further categorized into four groups and analyses revealed that neurologic, gastrointestinal, dermatologic, and ophthalmic AEs were higher in participants taking CQ compared to placebo. Although this was not evident in HCQ treated groups, further analyses suggested that there were more AEs attributed to other organ system that were not included in the categorized meta-analyses. Additionally, meta-regression analyses revealed that total AEs was affected by dosage for the CQ group. Conclusions: Taken together, we found that participants taking either CQ or HCQ have more AEs than participants taking placebo. Precautionary measures should be taken when using these drugs to treat COVID-19.",
+    "keywords": [
+        "chloroquine",
+        "hydroxychloroquine",
+        "safety profiles",
+        "meta-analysis"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "American Heart Association Predoctoral Award",
+                    "award-id": [
+                        "18PRE34030199"
+                    ]
+                },
+                {
+                    "funding-source": "Postdoctoral Fellowship from NIH",
+                    "award-id": [
+                        "HL149288"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "HL085727",
+                        "HL085844",
+                        "HL137228",
+                        "RR033106"
+                    ]
+                },
+                {
+                    "funding-source": "Research Award from the Rosenfeld Foundation, VA",
+                    "award-id": [
+                        "BX000576"
+                    ]
+                },
+                {
+                    "funding-source": "Merit Review Grant",
+                    "award-id": [
+                        "BX000576",
+                        "CX001490"
+                    ]
+                },
+                {
+                    "funding-source": "Contributions LR and PNT"
+                }
+            ],
+            "funding-statement": "This work was supported by American Heart Association Predoctoral Award 18PRE34030199 (LR); Postdoctoral Fellowship from NIH F32 HL149288 (PNT); NIH R01 HL085727, HL085844, HL137228, and S10 RR033106, Research Award from the Rosenfeld Foundation, VA Merit Review Grant I01 BX000576 and I01 CX001490 (NC). Authors\u2019 Contributions LR and PNT designed the study"
+        }
+    ]
+}

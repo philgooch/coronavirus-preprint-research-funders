@@ -1,0 +1,295 @@
+{
+    "title": "Estimating number of cases and spread of Coronavirus disease 2019 (COVID-19) in the United Kingdom using critical care admissions, February to March 2020",
+    "author": "Mark Jit, Thibaut Jombart, Emily S Nightingale, Akira Endo, Sam Abbott, LSHTM Centre for Mathematical Modelling of Infectious Diseases COVID-19 Working Group, W John Edmunds",
+    "date": 2020,
+    "affiliations": [
+        "LSHTM Centre for Mathematical Modelling of Infectious Diseases COVID-19 Working Group*, W John Edmunds1",
+        "Centre for Mathematical Modelling of Infectious Diseases, Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, Keppel Street, London. WC1E 7HT",
+        "School of Public Health, Li Ka Shing Faculty of Medicine, University of Hong Kong, Hong Kong SAR, China 3 UK Public Health Rapid Support Team, London, United Kingdom",
+        "MRC Centre for Global Infectious Disease Analysis, Department of Infectious Disease Epidemiology, School of Public Health, Imperial College London, United Kingdom",
+        "Department of Infectious Disease Epidemiology, Faculty of Epidemiology and Population Health, London School of Hygiene & Tropical Medicine, Keppel Street, London WC1E 7HT"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.05.20054528",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.05.20054528.pdf"
+    },
+    "abstract": "An exponential growth model was fitted to critical care admissions from multiple surveillance databases to determine likely COVID-19 case numbers and growth in the United Kingdom from 16 February \u2013 23 March 2020, after which a national lockdown occurred. We estimate that on 23 March, there were 102,000 (median; 95% credible interval 54,000 155,000) new cases and 320 (211 - 412) new critical care reports, with 464,000 (266,000 \u2013 628,000) cumulative cases since 16 February. Keywords coronavirus disease 2019, intensive care unit, surveillance, reproduction number, mathematical model",
+    "keywords": [
+        "coronavirus disease 2019",
+        "intensive care unit",
+        "surveillance",
+        "reproduction number",
+        "mathematical model"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "Health Protection Research Unit in Immunisation"
+                },
+                {
+                    "funding-source": "Modelling Methodology"
+                },
+                {
+                    "funding-source": "Economic and Social Research Council RCUK",
+                    "award-id": [
+                        "ES/P010873/1"
+                    ]
+                },
+                {
+                    "funding-source": "UK Public Health Rapid Support Team"
+                },
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1183986"
+                    ]
+                },
+                {
+                    "funding-source": "Nakajima Foundation"
+                },
+                {
+                    "funding-source": "Alan Turing Institute",
+                    "award-id": [
+                        "210758/Z/18"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "210758/Z/18/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was funded by the National Institute for Health Research - Health Protection Research Unit in Immunisation (MJ) and for Modelling Methodology (MJ, TJ, JE), the Economic and Social Research Council RCUK grant ES/P010873/1 (TJ), the UK Public Health Rapid Support Team (TJ), the Bill & Melinda Gates Foundation grant OPP1183986 (ESN) the Nakajima Foundation (AE), the Alan Turing Institute (AE) and the Wellcome Trust grant 210758/Z/18/Z (SA)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Hamish Gibbs",
+                    "award-id": [
+                        "NIHR ITCRZ 03010"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR ITCRZ",
+                    "award-id": [
+                        "03010",
+                        "BMGF OPP1191821"
+                    ]
+                },
+                {
+                    "funding-source": "Joel Hellewell",
+                    "award-id": [
+                        "Wellcome Trust 210758/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "210758/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Alicia Rosello",
+                    "award-id": [
+                        "NIHR PR-OD1017-20002"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "PR-OD1017-20002"
+                    ]
+                },
+                {
+                    "funding-source": "Billy Quilty",
+                    "award-id": [
+                        "NIHR 16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "Charlie Diamond",
+                    "award-id": [
+                        "NIHR 16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "Petra Klepac",
+                    "award-id": [
+                        "BMGF INV-003174"
+                    ]
+                },
+                {
+                    "funding-source": "BMGF INV-003174)",
+                    "award-id": [
+                        "RCUK/ESRC",
+                        "ES/P010873"
+                    ]
+                },
+                {
+                    "funding-source": "Amy Gimma",
+                    "award-id": [
+                        "RCUK/ESRC ES/P010873/1"
+                    ]
+                },
+                {
+                    "funding-source": "HDR UK",
+                    "award-id": [
+                        "MR/S003975/1"
+                    ]
+                },
+                {
+                    "funding-source": "Megan Auzenbergs",
+                    "award-id": [
+                        "BMGF OPP1191821"
+                    ]
+                },
+                {
+                    "funding-source": "Samuel Clifford",
+                    "award-id": [
+                        "Wellcome Trust 208812/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "208812/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Gwen Knight",
+                    "award-id": [
+                        "MRC MR/P014658/1"
+                    ]
+                },
+                {
+                    "funding-source": "Sebastian Funk",
+                    "award-id": [
+                        "Wellcome Trust 210758/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "210758/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Fiona Sun",
+                    "award-id": [
+                        "NIHR 16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109",
+                        "ERC #757699"
+                    ]
+                },
+                {
+                    "funding-source": "Kiesha Prem",
+                    "award-id": [
+                        "BMGF INV-003174"
+                    ]
+                },
+                {
+                    "funding-source": "BMGF INV-003174)",
+                    "award-id": [
+                        "INV-003174"
+                    ]
+                },
+                {
+                    "funding-source": "Yang Liu",
+                    "award-id": [
+                        "INV-003174",
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "BMGF INV-003174, NIHR",
+                    "award-id": [
+                        "16/137/109",
+                        "GCRF ES/P010873/1"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "210758/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "206250/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Pearson Gates",
+                    "award-id": [
+                        "BMGF OPP1184344"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "206250/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "210758/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Stefan Flasche",
+                    "award-id": [
+                        "Wellcome Trust 208812/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "208812/Z/17/Z",
+                        "ERC #757699",
+                        "BMGF OPP1180644"
+                    ]
+                },
+                {
+                    "funding-source": "Nicholas Davies",
+                    "award-id": [
+                        "NIHR HPRU-2012-10096"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "HPRU-2012-10096"
+                    ]
+                }
+            ],
+            "funding-statement": "Their funding sources are as follows: Hamish Gibbs (NIHR ITCRZ 03010), Kathleen O'Reilly (BMGF OPP1191821), Joel Hellewell (Wellcome Trust 210758/Z/18/Z), Alicia Rosello (NIHR PR-OD1017-20002), Billy Quilty (NIHR 16/137/109), Charlie Diamond (NIHR 16/137/109), Petra Klepac (BMGF INV-003174), Amy Gimma (RCUK/ESRC ES/P010873/1), Rosalind M Eggo (HDR UK MR/S003975/1), Megan Auzenbergs (BMGF OPP1191821), Samuel Clifford (Wellcome Trust 208812/Z/17/Z), Gwen Knight (MRC MR/P014658/1), Sebastian Funk (Wellcome Trust 210758/Z/18/Z), Fiona Sun (NIHR 16/137/109), Jon C Emery (ERC #757699), Kiesha Prem (BMGF INV-003174), Yang Liu (BMGF INV-003174, NIHR 16/137/109), Kevin van Zandvoort (R2HC), Christopher I Jarvis (GCRF ES/P010873/1), James D Munday (Wellcome Trust 210758/Z/18/Z), Adam J Kucharski (Wellcome Trust 206250/Z/17/Z), Carl A B Pearson Gates (BMGF OPP1184344), Timothy W Russell (Wellcome Trust 206250/Z/17/Z), Nikos I Bosse (Wellcome Trust 210758/Z/18/Z), Stefan Flasche (Wellcome Trust 208812/Z/17/Z), Rein M G J Houben (ERC #757699), Simon R Procter (BMGF OPP1180644), Nicholas Davies (NIHR HPRU-2012-10096)"
+        }
+    ]
+}

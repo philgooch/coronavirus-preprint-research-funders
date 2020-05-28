@@ -1,0 +1,31 @@
+{
+    "title": "Design of multi epitope-based peptide vaccine against E protein of human COVID-19: An immunoinformatics approach",
+    "author": "Miyssa I. Abdelmageed, Abdelrahman H. Abdelmoneim, Mujahed I. Mustafa, Nafisa M. Elfadol, Naseem S. Murshed, Shaza W. Shantier, and Abdelrafie M. Makhawi",
+    "date": 2020,
+    "affiliations": [
+        "Faculty of Pharmacy, University of Khartoum, Khartoum, Sudan",
+        "Faculty of Medicine, Alneelain University, Khartoum, Sudan",
+        "Department of Biotechnology, University of Bahri, Khartoum, Sudan",
+        "Department of Molecular biology, National University Biomedical Research Institute, National University",
+        "Department of Microbiology, International University of Africa, Khartoum, Sudan",
+        "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, University of Khartoum, Khartoum, Sudan"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.04.934232",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.04.934232.pdf"
+    },
+    "abstract": "Background: New endemic disease has been spread across Wuhan City, China on December 2019. Within few weeks, the World Health Organization (WHO) announced a novel coronavirus designated as coronavirus disease 2019 (COVID-19). In late January 2020, WHO declared the outbreak of a \u201cpublic-health emergency of international concern\u201d due to the rapid and increasing spread of the disease worldwide. Currently, there is no vaccine or approved treatment for this emerging infection; thus the objective of this study is to design a multi epitope peptide vaccine against COVID-19 using immunoinformatics approach. Method: Several techniques facilitating the combination of immunoinformatics approach and comparative genomic approach were used in order to determine the potential peptides for designing the T cell epitopes-based peptide vaccine using the envelope protein of 2019-nCoV as a target. Results: Extensive mutations, insertion and deletion were discovered with comparative sequencing in COVID-19 strain. Additionally, ten peptides binding to MHC class I and MHC class II were found to be promising candidates for vaccine design with adequate world population coverage of 88.5% and 99.99%, respectively. Conclusion: T cell epitopes-based peptide vaccine was designed for COVID-19 using envelope protein as an immunogenic target. Nevertheless, the proposed vaccine is rapidly needed to be validated clinically in order to ensure its safety, immunogenic profile and to help on stopping this epidemic before it leads to devastating global outbreaks.",
+    "keywords": [
+        "Novel coronavirus (COVID-19)",
+        "Envelope protein",
+        "Emerging infection",
+        "Epitopebased vaccine",
+        "Immunoinformatics approach"
+    ],
+    "funding": [
+        {}
+    ]
+}

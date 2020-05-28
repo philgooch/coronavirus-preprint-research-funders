@@ -1,0 +1,16 @@
+{
+    "abstract": "Background In response to the SARS-CoV2 pandemic, governments have adopted a variety of public health measures. There are variations in how much testing has been done across countries. South Korea, Germany, and Iceland take the bet of massive testing of their population. Whereas tests were not performed widely in southern European countries. As the former undergo a lower case-fatality rate due to the COVID-19 than the latter, the impact of the testing strategy must be investigated. In this study, we aimed to evaluate the impact of testing on the case fatality rate. Methods We use data on inpatients across French geographic areas and propose a novel methodology that exploits policy discontinuities at region borders to estimate the effect of COVID-19 tests on the case-fatality rate. In France, testing policies are determined locally. We compare all contiguous department pairs located on the opposite sides of a region border. The heterogeneity in testing rate between department pairs together with the similarities in other dimensions allow us to mimic the existence of treatment and control groups and to identify the impact of testing on mortality. Results The increase of one percentage point in the test rate is associated with a decrease of 0.001 percentage point in the death rate. In other words, for each additional 1000 tests, one person would have remained alive. Conclusion Massive population testing could have a significant effect on mortality in different ways. Mass testing may help decision-makers to implement healthcare measures to limit the spread of the disease.",
+    "author": "Anthony Terriau; Quentin LE BASTARD; Julien Albertini; Arthur Poirier",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20080531",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20080531"
+    },
+    "title": "Impact of virus testing on COVID-19 case fatality rate: estimate using a fixed-effects model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

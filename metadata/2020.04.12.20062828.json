@@ -1,0 +1,16 @@
+{
+    "abstract": "Airborne transmission is a pathway of contagion that is still not sufficiently investigated despite the evidence in the scientific literature of the role it can play in the context of an epidemic. While the medical research area dedicates efforts to find cures and remedies to counteract the effects of a virus, the engineering area is involved in providing risk assessments in indoor environments by simulating the airborne transmission of the virus during an epidemic. To this end, virus air emission data are needed. Unfortunately, this information is usually available only after the outbreak, based on specific reverse engineering cases. In this work, a novel approach to estimate the viral load emitted by a contagious subject on the basis of the viral load in the mouth, the type of respiratory activity (e.g. breathing, speaking), respiratory physiological parameters (e.g. inhalation rate), and activity level (e.g. resting, standing, light exercise) is proposed. The estimates of the proposed approach are in good agreement with values of viral loads of well-known diseases from the literature. The quanta emission rates of an asymptomatic SARS-CoV-2 infected subject, with a viral load in the mouth of 108 copies mL-1, were 10.5 quanta h-1 and 320 quanta h-1 for breathing and speaking respiratory activities, respectively, at rest. In the case of light activity, the values would increase to 33.9 quanta h-1 and 1.03\u00d7103 quanta h-1, respectively. The findings in terms of quanta emission rates were then adopted in infection risk models to demonstrate its application by evaluating the number of people infected by an asymptomatic SARS-CoV-2 subject in Italian indoor microenvironments before and after the introduction of virus containment measures. The results obtained from the simulations clearly highlight that a key role is played by proper ventilation in containment of the virus in indoor environments.",
+    "author": "Giorgio Buonanno; Luca Stabile; Lidia Morawska",
+    "date": 2020,
+    "doi": "10.1101/2020.04.12.20062828",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.12.20062828"
+    },
+    "title": "Estimation of airborne viral emission: quanta emission rate of SARS-CoV-2 for infection risk assessment",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no external funding was received</strong>"
+        }
+    ]
+}

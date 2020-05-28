@@ -1,0 +1,16 @@
+{
+    "abstract": "Testing is crucial for early detection, isolation, and treatment of coronavirus disease (COVID-19)-infected individuals. However, in resource-constrained countries such as the Philippines, test kits have limited availability. As of 12 April 2020, there are 11 testing centers in the country that have been accredited by the Department of Health (DOH) to conduct testing. In this paper, we determine the optimal percentage allocation of COVID-19 test kits among accredited testing centers in the Philippines that gives an equitable chance to all infected individuals to be tested. Heterogeneity in testing accessibility, population density of municipalities, and the capacity of testing facilities are included in the model. Our results showed that the range of optimal allocation per testing center are: Research Institute for Tropical Medicine (4.17%-6.34%), San Lazaro Hospital (14.65%-24.03%), University of the Philippines-National Institutes of Health (16.25%-44.80%), Lung Center of the Philippines (15.8%-26.40%), Baguio General Hospital Medical Center (0.58%-0.76%), The Medical City, Pasig City (5.96%-25.51%), St. Luke's Medical Center, Quezon City (1.09%-6.70%), Bicol Public Health Laboratory (0.06%-0.08%), Western Visayas Medical Center (0.71%-4.52%), Vicente Sotto Memorial Medical Center (1.02%-2.61%), and Southern Philippines Medical Center (approx 0.01%). If there will be changes in the number of testing centers, our model can still be used to modify the test kit allocation. Our results can serve as a guide to the authorities in distributing the COVID-19 test kits. These can also be used to determine the capacity of testing centers and the effects of increasing its number. The model can also be used for proposing additional number and location of new testing centers.",
+    "author": "Jomar Fajardo Rabajante; Jessa Camille C Duero; Edd Francis O Felix; Christian Alvin H Buhat; Jonathan B Mamplata",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065201",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065201"
+    },
+    "title": "Optimal Allocation of COVID-19 Test Kits Among Accredited Testing Centers in the Philippines",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No specific funding was used for this work."
+        }
+    ]
+}

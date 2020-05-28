@@ -1,0 +1,128 @@
+{
+    "title": "LY6E impairs coronavirus fusion and confers immune control of viral disease",
+    "date": 2020,
+    "author": "Stephanie Pfaender,#, Katrina B. Mar,#, Eleftherios Michailidis, Annika Kratzel, Dagny Hirt, Philip Vkovski, Wenchun Fan, Nadine Ebert, Hanspeter Stalder, Hannah Kleine-Weber, Markus Hoffmann, H. Heinrich Hoffmann, Mohsan Saeed, Ronald Dijkman, Eike Steinmann, Mary Wight-Carter, Natasha W. Hanners10, Stefan P\u00f6hlmann, Tom Gallagher, Daniel Todt, Gert Zimmer, Charles M. Rice, John W. Schoggins, and Volker Thiel",
+    "affiliations": [
+        "Institute of Virology and Immunology, Bern and Mittelh\u00e4usern, Switzerland",
+        "Department of Infectious Diseases and Pathobiology, Vetsuisse Faculty, University of Bern, Bern, Switzerland",
+        "Department for Molecular & Medical Virology, Ruhr-Universit\u00e4t Bochum, Germany",
+        "Department of Microbiology, University of Texas Southwestern Medical Center, Dallas, TX, USA",
+        "Laboratory of Virology and Infectious Disease, The Rockefeller University, New York, NY, USA",
+        "Deutsches Primatenzentrum GmbH, Leibniz-Institut f\u00fcr Primatenforschung, G\u00f6ttingen, Germany",
+        "Faculty of Biology and Psychology, University G\u00f6ttingen, G\u00f6ttingen, Germany",
+        "Department of Biochemistry, Boston University School of Medicine, Boston, MA, USA; National Emerging Infectious Diseases Laboratories, Boston University, Boston, MA, USA",
+        "Animal Resource Center, University of Texas Southwestern Medical Center, Dallas, TX, USA",
+        "Department of Pediatrics, University of Texas Southwestern Medical Center, Dallas, TX, USA",
+        "Department of Microbiology and Immunology, Loyola University Chicago, Chicago, USA",
+        "European Virus Bioinformatics Center (EVBC), Jena, Germany"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.05.979260",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.05.979260.pdf"
+    },
+    "abstract": "Zoonotic coronaviruses (CoVs) are significant threats to global health, as exemplified by the recent emergence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)1. Host immune responses to CoV are complex and regulated in part through antiviral interferons. However, the interferon-stimulated gene products that inhibit CoV are not well characterized2. Here, we show that interferon-inducible lymphocyte antigen 6 complex, locus E (LY6E) potently restricts cellular infection by multiple CoVs, including SARS-CoV, SARS-CoV-2, and Middle East respiratory syndrome coronavirus (MERS-CoV). Mechanistic studies revealed that LY6E inhibits CoV entry into cells by interfering with spike protein-mediated membrane fusion. Importantly, mice lacking Ly6e in hematopoietic cells were highly susceptible to murine CoV infection. Exacerbated viral pathogenesis in Ly6e knockout mice was accompanied by loss of hepatic and splenic immune cells and reduction in global antiviral gene pathways. Accordingly, we found that Ly6e directly protects primary B cells and dendritic cells from murine CoV infection. Our results demonstrate that LY6E is a critical antiviral immune effector that controls CoV infection and pathogenesis. These findings advance our understanding of immune-mediated control of CoV in vitro and in vivo, knowledge that could help inform strategies to combat infection by emerging CoV.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Commission\u2019s Horizon"
+                },
+                {
+                    "funding-source": "Research and Innovation Program"
+                },
+                {
+                    "funding-source": "Marie Sk\u0142odowska-Curie",
+                    "award-id": [
+                        "748627"
+                    ]
+                },
+                {
+                    "funding-source": "RAPID Consortium,",
+                    "award-id": [
+                        "01KI1723D"
+                    ]
+                }
+            ],
+            "funding-statement": "S.P. was supported by the European Commission\u2019s Horizon 2020 Research and Innovation Program under the Marie Sk\u0142odowska-Curie grant agreement 748627 and BMBF, RAPID Consortium, grant 01KI1723D"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Clayton Foundation and The American Lung Association"
+                }
+            ],
+            "funding-statement": "K.B.M. and J.W.S. were supported in part by The Clayton Foundation and The American Lung Association"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI117922"
+                    ]
+                },
+                {
+                    "funding-source": "Burroughs Wellcome Fund"
+                },
+                {
+                    "funding-source": "Investigators in the Pathogenesis of Infectious"
+                }
+            ],
+            "funding-statement": "J.W.S. was additionally supported by NIH grant AI117922 and a Burroughs Wellcome Fund 'Investigators in the Pathogenesis of Infectious Diseases' Award"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI132751"
+                    ]
+                }
+            ],
+            "funding-statement": "NH was supported by NIH grant AI132751"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI091707"
+                    ]
+                }
+            ],
+            "funding-statement": "E.M., H.H.H., M.S. and C.M.R. were supported in part by NIH grant AI091707"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Swiss National Science Foundation",
+                    "award-id": [
+                        "166265"
+                    ]
+                }
+            ],
+            "funding-statement": "G.Z. was supported by a grant from the Swiss National Science Foundation grant 166265"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Swiss National Science Foundation",
+                    "award-id": [
+                        "310030_173085",
+                        "CRSII3_160780"
+                    ]
+                },
+                {
+                    "funding-source": "Federal Ministry of Education and Research",
+                    "award-id": [
+                        "#01KI1723A"
+                    ]
+                }
+            ],
+            "funding-statement": "VT was supported by the Swiss National Science Foundation (SNF; grants: 310030_173085; CRSII3_160780), and the Federal Ministry of Education and Research (BMBF; grant RAPID, #01KI1723A)"
+        }
+    ]
+}

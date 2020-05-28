@@ -1,0 +1,26 @@
+{
+    "abstract": "OBJECTIVE: To determine the impact of mesenchymal stromal cells outcomes important to patients with COVID-19. DESIGN: This is the protocol of a living systematic review. DATA SOURCES: We will conduct searches in PubMed/Medline, Embase, Cochrane Central Register of Controlled Trials (CENTRAL), grey literature and in a centralised repository in L-OVE (Living OVerview of Evidence). L-OVE is a platform that maps PICO questions to evidence from Epistemonikos database. In response to the COVID-19 emergency, L-OVE was adapted to expand the range of evidence it covers and customised to group all COVID-19 evidence in one place. The search will cover the period until the day before submission to a journal. ELIGIBILITY CRITERIA FOR SELECTING STUDIES AND METHODS: We adapted an already published common protocol for multiple parallel systematic reviews to the specificities of this question. We will include randomised trials evaluating the effect of mesenchymal stromal cells versus placebo or no treatment in patients with COVID-19. Randomised trials evaluating other coronavirus infections, such as MERS-CoV and SARS-CoV, and non-randomised studies in COVID-19 will be searched in case we find no direct evidence from randomised trials, or if the direct evidence provides low- or very low-certainty for critical outcomes. Two reviewers will independently screen each study for eligibility, extract data, and assess the risk of bias. We will pool the results using meta-analysis and will apply the GRADE system to assess the certainty of the evidence for each outcome. A living, web-based version of this review will be openly available during the COVID-19 pandemic. We will resubmit it every time the conclusions change or whenever there are substantial updates. ETHICS AND DISSEMINATION: No ethics approval is considered necessary. The results of this review will be widely disseminated via peer-reviewed publications, social networks and traditional media. PROSPERO Registration Submitted to PROSPERO (awaiting ID allocation).",
+    "author": "Javiera Corbalan; Gabriel Rada; Patricio Rojas",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20064162",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20064162"
+    },
+    "title": "Mesenchymal stromal cells for COVID-19: A living systematic review protocol",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Epistemonikos Foundation",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "OVE Working Group."
+                }
+            ],
+            "funding-statement": "This project was not commissioned by any organisation and did not receive external funding. Epistemonikos Foundation is providing training, support and tools at no cost for all the members of the COVID-19 L\u00b7OVE Working Group."
+        }
+    ]
+}

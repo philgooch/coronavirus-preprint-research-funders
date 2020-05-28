@@ -1,0 +1,16 @@
+{
+    "abstract": "Objectives Since February 2020, COVID-19 has spread rapidly to more than 200 countries in the world. During the pandemic, local governments in China implemented different interventions to efficiently control the spread of the epidemic. Characterizing transmission of COVID-19 under some typical interventions is to help countries develop appropriate interventions. Methods We established compartmental model that allowed the number of infected and infectious to be unknown and the effective reproduction number to change over time, thus the effects of policies could be reasonably reflected and estimated. By using the epidemic data of three representative cities of China (Wuhan, Wenzhou and Shenzhen), we migrated the estimated policy modes to other countries. Results The smallest expected cumulative confirmed cases under different interventions would be 5936 with 95% CI (5012,6966) for South Korea, 146012 with 95% CI (140504, 154264) for Italy, and 400642 with 95% CI (390331,409431) for the United States until May 31, 2020, respectively. Conclusions Based on the simulation of epidemic in South Korea, Italy and the United States, it is reasonable that South Korea and Italy continue to maintain their current policies, while the implementation of interventions of Wenzhou may significantly decrease the magnitude of the outbreak of COVID-19 for the United States.",
+    "author": "Zhongfei Li; Ting Tian; Xueqin Wang; Jianbin Tan; Jingwen Zhang; Yukang Jiang; Shiyun Lin",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103051",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103051"
+    },
+    "title": "Data-driven analysis on the simulations of the spread of COVID-19 under different interventions of China",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for this article."
+        }
+    ]
+}

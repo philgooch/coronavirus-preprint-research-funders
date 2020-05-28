@@ -1,0 +1,87 @@
+{
+    "abstract": "Repurposed drugs that are immediately available and have a good safety profile constitute a first line of defense against new viral infections. Despite a limited antiviral activity against SARS-CoV-2, several drugs serve as candidates for application, not only in infected individuals but also as prophylaxis to prevent infection establishment. Here we use a stochastic model to describe the early phase of a viral infection. We find that the critical efficacy needed to block viral establishment is typically above 80%. This value can be improved by combination therapy. Below the critical efficacy, establishment can still sometimes be prevented; for that purpose, drugs blocking viral entry into target cells (or equivalently enhancing viral clearance) are more effective than drugs reducing viral production or enhancing infected cell death. When a viral infection cannot be prevented because of high exposure or low drug efficacy, antivirals can still delay the time to reach detectable viral loads from 4 days when untreated to up to 30 days. This delay flattens the within-host epidemic curve, and possibly reduces transmission and symptom severity. These results suggest that antiviral prophylaxis, even with reduced efficacy, could be efficiently used to prevent or alleviate infection in people at high risk. It could thus be an important component of the strategy to combat the SARS-CoV-2 pandemic in the months or years to come.",
+    "author": "Florence D\u00e9barre; Peter Czuppon; Olivier Tenaillon; Fran\u00e7ois Blanquart; J\u00e9r\u00e9mie Guedj; Alan S Perelson; Antonio Gon\u00e7alves",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20092965",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.15454/1.5572390655343293E12",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20092965"
+    },
+    "title": "Predicted success of prophylactic antiviral therapy to block or delay SARS-CoV-2 infection depends on the targeted mechanism",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union's Horizon"
+                },
+                {
+                    "funding-source": "Marie Sklodowska-Curie",
+                    "award-id": [
+                        "844369"
+                    ]
+                }
+            ],
+            "funding-statement": "P.C. has received funding from the European Union's Horizon 2020 research and innovation program under the Marie Sklodowska-Curie grant agreement PolyPath 844369"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "COVID-19",
+                        "TheraCoV ANR-20-COVI-0018"
+                    ]
+                }
+            ],
+            "funding-statement": "The study received financial support of the national research agency (ANR) through the ANR-Flash calls for COVID-19 (TheraCoV ANR-20-COVI-0018)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Grant Equipe Fondation",
+                    "award-id": [
+                        "EQU2019030078"
+                    ]
+                },
+                {
+                    "funding-source": "Recherche M\u00e9dicale",
+                    "award-id": [
+                        "EQU201903007848"
+                    ]
+                }
+            ],
+            "funding-statement": "O.T. and F.B. received funding from Grant Equipe Fondation pour la Recherche M\u00e9dicale EQU201903007848"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Centre National de la Recherche Scientifique",
+                    "award-id": [
+                        "Momentum"
+                    ]
+                }
+            ],
+            "funding-statement": "F.B. received funding from the Centre National de la Recherche Scientifique (Momentum grant)"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "ANR-19-CE45-0009-01"
+                    ]
+                }
+            ],
+            "funding-statement": "F.D. received funding from the national research agency (ANR) through the grant ANR-19-CE45-0009-01"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Los Alamos National Laboratory LDRD"
+                }
+            ],
+            "funding-statement": "This work was also supported by the Los Alamos National Laboratory LDRD program (A.S.P.)"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "The rapid outbreak of the new Coronavirus (COVID-19) pandemic and the spread of the virus worldwide, especially in the Northern Hemisphere, have prompted various investigations about the impact of environmental factors on the rate of development of this epidemic. Different studies have called the attention to various parameters that may have influenced the spread of the virus, and in particular, the impact of climatic parameters has been emphasized. The main purpose of this study is to investigate the correlation between the average daily temperature and the rate of coronavirus epidemic growth in the infected regions. The main hypothesis object of our research is that between regions exhibiting a significant difference in the mean daily temperature, a significant difference is also observed in the average cumulative daily rate of confirmed cases, and that this does not happen if there is no significant difference in mean daily temperature. To test this research hypothesis, we carried on the case study of three regions in each of five countries and analyzed the correlation through F-test, and Independent-Samples T-Test. In all five selected countries, we found that when there is a significant difference in the daily mean temperature between two regions of a country, a significant difference exists also in the average cumulative daily rate of confirmed cases. Conversely, if there are no significant differences in the mean daily temperature of two regions in the same country, no significant difference is observed in the average cumulative daily rate of confirmed cases for these regions.",
+    "author": "Behzad Pirouz; Hasti Saeidpour Masouleh; Galileo Violini; Amirsina Golmohammadi; Behrouz Pirouz",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20059337",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20059337"
+    },
+    "title": "Relationship between Average Daily Temperature and Average Cumulative Daily Rate of Confirmed Cases of COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This research received no external funding."
+        }
+    ]
+}

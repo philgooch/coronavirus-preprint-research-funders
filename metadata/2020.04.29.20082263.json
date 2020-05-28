@@ -1,0 +1,16 @@
+{
+    "abstract": "In this article, we investigate the problem of modelling the trend of the current Coronavirus disease 2019 pandemic in Lebanon along time. Two different models were developed using Bayesian Markov chain Monte Carlo simulation methods. The models fitted included Poisson autoregressive as a function of a short-term dependence only and Poisson autoregressive as a function of both a short-term dependence and a long-term dependence. The two models are compared in terms of their predictive ability using root mean squared error and deviance information criterion. The Poisson autoregressive model that allows to capture both short and long term memory effects performs best under all criterions. The use of such a model can greatly improve the estimation of number of new infections, and can indicate whether disease has an upward/downward trend, and where about every country is on that trend, so that containment measures can be applied and/or relaxed.",
+    "author": "Samer Kharroubi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20082263",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20082263"
+    },
+    "title": "Modeling and predicting the spread of COVID-19 in Lebanon: A Bayesian perspective",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

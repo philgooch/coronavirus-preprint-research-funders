@@ -1,0 +1,29 @@
+{
+    "title": "Breaking down of healthcare system: Mathematical modelling for controlling the novel coronavirus (2019-nCoV) outbreak in Wuhan, China",
+    "author": "Wai-Kit Ming,#*, MD, PhD, MPH, MMSc, EMBA Jian Huang,#, PhD, MPH Casper J. P. Zhang,#, PhD, MPH",
+    "date": 2020,
+    "affiliations": [
+        "Department of Public Health and Preventive Medicine, School of Medicine, Jinan University, Guangzhou, CHINA",
+        "MRC-PHE Centre for Environment and Health, Department of Epidemiology and Biostatistics, School of Public Health, St Mary\u2019s Campus, Imperial College London, Norfolk Place, London W2 1PG, UNITED KINGDOM",
+        "School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong, CHINA",
+        "EMBA Associate Professor, Department of Public Health and Preventive Medicine, School of Medicine, Jinan University, Guangzhou, China Assistant Dean, International School, Jinan University, Guangzhou, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.01.27.922443",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.01.27.922443.pdf"
+    },
+    "abstract": "Background A novel coronavirus pneumonia initially identified in Wuhan, China and provisionally named 2019-nCoV has surged in the public. In anticipation of substantial burdens on healthcare system following this human-to-human spread, we aim to scrutinise the currently available information and evaluate the burden of healthcare systems during this outbreak in Wuhan.\nMethods and Findings We applied a modified SIR model to project the actual number of infected cases and the specific burdens on isolation wards and intensive care units (ICU), given the scenarios of different diagnosis rates as well as different public health intervention efficacy. Our estimates suggest, assuming 50% diagnosis rate if no public health interventions were implemented, that the actual number of infected cases could be much higher than the reported, with estimated 88,075 cases (as of 31st January, 2020), and projected burdens on isolation wards and ICU would be 34,786 and 9,346 respectively The estimated burdens on healthcare system could be largely reduced if at least 70% efficacy of public health intervention is achieved.",
+    "keywords": [
+        "2019-nCoV",
+        "novel coronavirus",
+        "Wuhan pneumonia",
+        "healthcare system",
+        "mathematical modelling"
+    ],
+    "funding": [
+        {}
+    ]
+}

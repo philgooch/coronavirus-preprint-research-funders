@@ -1,0 +1,19 @@
+{
+    "abstract": "The pandemic state of COVID-19 caused by the SARS CoV-2 put the world in quarantine, led to hundreds of thousands of deaths and is causing an unprecedented economic crisis. However, COVID-19 is spreading in different rates at different countries. Here, we tested the effect of three classes of predictors, i.e., socioeconomic, climatic and transport, on the rate of daily increase of COVID-19. We found that global connections, represented by countries importance in the global air transportation network, is the main explanation for the growth rate of COVID-19 in different countries. Climate, geographic distance and socioeconomics had a milder effect in this big picture analysis. Geographic distance and climate were significant barriers in the past but were surpassed by the human engine that allowed us to colonize most of our planet land surface. Our results indicate that the current claims that the growth rate of COVID-19 may be lower in warmer and humid tropical countries should be taken very carefully, at risk to disturb well-established and effective policy of social isolation that may help to avoid higher mortality rates due to the collapse of national health systems.",
+    "affiliations": [
+        "National Institute of Science and Technology (INCT) in Ecology, Evolution and Biodiversity Conservation, supported by CNPq and FAPEG. JAFDF, RD, LCT are also supported by CNPq productivity scholarships"
+    ],
+    "author": "Joao Fabricio Mota Rodrigues; Levi Carina Terribile; Bruno Vilela; Jose Alexandre Felizola Diniz-Filho; Marco Tulio Pacheco Coelho; Paulo Scalco; Anderson Matos Medina; Ricardo Dobrovolski",
+    "date": 2020,
+    "doi": "10.1101/2020.04.02.20050773",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20050773"
+    },
+    "title": "Exponential phase of covid19 expansion is driven by airport connections",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "JAFDF, RD, LCT are also supported by CNPq productivity scholarships"
+        }
+    ]
+}

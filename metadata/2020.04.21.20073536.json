@@ -1,0 +1,20 @@
+{
+    "abstract": "We propose a population approach to model the beginning of the French COVID-19 epidemic at the regional level. We rely on an extended Susceptible-Exposed-Infectious-Recovered (SEIR) mechanistic model, a simplified representation of the average epidemic process. Combining several French public datasets on the early dynamics of the epidemic, we estimate region-specific key parameters conditionally on this mechanistic model through Stochastic Approximation Expectation Maximization (SAEM) optimization using Monolix software. We thus estimate basic reproductive numbers by region before isolation (between 2.4 and 3.1), the percentage of infected people over time (between 2.0 and 5.9% as of May 11th, 2020) and the impact of nationwide household confinement on the infection rate (decreasing the transmission rate by 72% toward a Re ranging from 0.7 to 0.9). We conclude that a lifting of the lockdown should be accompanied by further interventions to avoid an epidemic rebound.",
+    "author": "Boris Pierre Hejblum; Dan Dutartre; Quentin Clairon; Melanie Prague; Linda Wittkop; Rodolphe Thiebaut",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20073536",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20073536"
+    },
+    "title": "Population modeling of early COVID-19 epidemic dynamics in French regions and estimation of the lockdown impact on infection rate",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "GESTEPID Inria Mission"
+                }
+            ],
+            "funding-statement": "This work is supported in part by the GESTEPID Inria Mission COVID19"
+        }
+    ]
+}

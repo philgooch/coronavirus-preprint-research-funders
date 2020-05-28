@@ -1,0 +1,33 @@
+{
+    "title": "CoV3D: A database of high resolution coronavirus protein structures",
+    "author": "Ragul Gowthaman, Johnathan D. Guest, Rui Yin, and Brian G. Pierce,* 1University of Maryland Institute for Bioscience and Biotechnology Research, Rockville, MD 20850, USA 2Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, MD 20742, USA *To whom correspondence should be addressed. Email: pierce@umd.edu",
+    "date": 2020,
+    "affiliations": [
+        "University of Maryland Institute for Bioscience and Biotechnology Research, Rockville, MD 20850, USA",
+        "Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, MD 20742, USA *To whom correspondence should be addressed"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.091983",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.091983.pdf"
+    },
+    "abstract": "Coronaviruses represent a major global threat as emerging pathogens, most recently SARS-CoV-2, the etiologic agent behind COVID-19, which is currently causing a global pandemic. The urgent need for effective vaccines and therapies is leading to a rapid rise in the number of high resolution structures of SARS-CoV-2 proteins that collectively reveal critical targets on the virus and a map of vulnerabilities. To enable structure-based design of vaccines and therapeutics, as well as insights into structural and molecular features of coronaviruses, we have developed the CoV3D database, which provides a view of SARS-CoV-2 and other coronavirus protein structures, updated on a weekly basis. This database includes and annotates structures of coronavirus proteins and their complexes with antibodies, receptors, and small molecules. Additionally, CoV3D provides information on spike glycoprotein sequence variability and polymorphisms, mapping these features onto the spike structure, and includes spike structures with modeled glycosylation. CoV3D is available at: https://cov3d.ibbr.umd.edu.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "FUNDING INFORMATION This"
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "GM126299"
+                    ]
+                }
+            ],
+            "funding-statement": "FUNDING INFORMATION This work was supported in part by NIH R01 GM126299 (to BGP)"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Immunoglobulin fragment F(ab\u2019)2 against RBD potently neutralizes SARS-CoV-2 in vitro",
+    "author": "Xiaoyan Pan, Pengfei Zhou, Tiejiong Fan, Yan Wu, Jing Zhang, Xiaoyue Shi, Weijuan Shang, Lijuan Fang, Xiaming Jiang, Jian Shi, Yuan Sun, Shaojuan Zhao, Rui Gong, Ze Chen, Gengfu Xiao,* 1State Key Laboratory of Virology, Wuhan Institute of Virology, Center for Biosafety MegaScience, Chinese Academy of Sciences, Wuhan 430071, China 2Wuhan YZY Biopharma Co., Ltd, Wuhan 430075, China 3Shanghai Serum Bio-technology Co., Ltd, Shanghai 201701, China 4University of the Chinese Academy of Sciences, Beijing 100039, China 5CAS Key Laboratory of Special Pathogens and Biosafety, Wuhan Institute of Virology, Center for Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan 430071, China *Correspondence: Gengfu Xiao, xiaogf@wh.iov.cn; Ze Chen, chenze2005@hotmail.com",
+    "date": 2020,
+    "affiliations": [
+        "State Key Laboratory of Virology, Wuhan Institute of Virology, Center for Biosafety MegaScience, Chinese Academy of Sciences, Wuhan 430071, China",
+        "Wuhan YZY Biopharma Co., Ltd, Wuhan 430075, China",
+        "Shanghai Serum Bio-technology Co., Ltd, Shanghai 201701, China",
+        "University of the Chinese Academy of Sciences, Beijing 100039, China",
+        "CAS Key Laboratory of Special Pathogens and Biosafety, Wuhan Institute of Virology, Center for Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan 430071, China",
+        "Correspondence: Gengfu Xiao"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.07.029884",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.029884.pdf"
+    },
+    "abstract": "COVID-19 caused by the emerging human coronavirus, SARS-CoV-2, has become a global pandemic, leading a serious threat to human health. So far, there is none vaccines or specific antiviral drugs approved for that. Therapeutic antibodies for SARS-CoV-2, was obtained from hyper immune equine plasma in this study. Herein, SARS-CoV-2 RBD with gram level were obtained through Chinese hamster ovary cells high-density fermentation. The binding of RBD to SARS-CoV-2 receptor, human ACE2, was verified and the efficacy of RBD in vivo was tested on mice and then on horses. As a result, RBD triggered high-titer neutralizing antibodies in vivo, and immunoglobulin fragment F(ab\u2019)2 was prepared from horse antisera through removing Fc. Neutralization test demonstrated that RBD-specific F(ab\u2019)2 inhibited SARS-CoV-2 with EC50 at 0.07 \u03bcg/ml, showing a potent inhibitory effect on SARS-CoV-2. These results highlights as RBD-specific F(ab\u2019)2 as therapeutic candidate for SARS-CoV-2. Keywords SARS-CoV-2; neutralizing antibody; receptor binding domain; immunoglobulin fragment; COVID-19",
+    "keywords": [
+        "SARS-CoV-2",
+        "neutralizing antibody",
+        "receptor binding domain",
+        "immunoglobulin fragment",
+        "COVID-19"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "2020YFC0841400",
+                        "2020FCA003"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was financially supported by grants from the National ministry of science and technology emergency project (2020YFC0841400) and the Hubei provincial department of science and technology emergency project (2020FCA003)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wuhan National Biosafety Laboratory of the Chinese Academy of Sciences"
+                }
+            ],
+            "funding-statement": "This study was also supported by the Wuhan National Biosafety Laboratory of the Chinese Academy of Sciences"
+        }
+    ]
+}

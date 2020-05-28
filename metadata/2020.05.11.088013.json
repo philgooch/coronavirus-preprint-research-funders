@@ -1,0 +1,36 @@
+{
+    "title": "Local computational methods to improve the interpretability and analysis of cryo-EM maps",
+    "author": "Javier Vargas Balbuena",
+    "date": 2020,
+    "affiliations": [
+        "Departament of Anatomy and Cell Biology, McGill University 3640 Rue University, Montr\u00e9al, QC H3A 0C7, Canada",
+        "Department of Molecular Biosciences, The University of Texas at Austin Austin, TX 78712, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.11.088013",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.11.088013.pdf"
+    },
+    "abstract": "Cryo-electron microscopy (cryo-EM) maps usually show heterogeneous distributions of B-factors and electron density occupancies and are typically B-factor sharpened to improve their contrast and interpretability at high-resolutions. However, \u2018over-sharpening\u2019 due to the application of a single global B-factor can distort processed maps causing connected densities to appear broken and disconnected. This issue limits the interpretability of cryo-EM maps, i.e. ab initio modelling. In this work, we propose 1) approaches to enhance high-resolution features of cryo-EM maps, while preventing map distortions and 2) methods to obtain local B-factors and electron density occupancy maps. These algorithms have as common link the use of the spiral phase transformation and are called LocSpiral, LocBSharpen, LocBFactor and LocOccupancy. Our results, which",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSERC Discovery Grant",
+                    "award-id": [
+                        "RGPIN-2018-04813"
+                    ]
+                },
+                {
+                    "funding-source": "FRQNT New University Researchers Start-Up",
+                    "award-id": [
+                        "NC-253837"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants from NSERC Discovery Grant (RGPIN-2018-04813), FRQNT New University Researchers Start-Up (NC-253837) and McGill start-up funds"
+        }
+    ]
+}

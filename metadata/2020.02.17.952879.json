@@ -1,0 +1,35 @@
+{
+    "title": "X-ray Structure of Main Protease of the Novel Coronavirus SARS-CoV-2 Enables Design of \u03b1-Ketoamide Inhibitors",
+    "date": 2020,
+    "author": "Linlin Zhang, Daizong Lin, Xinyuanyuan Sun, Katharina Rox, Rolf Hilgenfeld,* 1Institute of Biochemistry, Center for Structural and Cell Biology in Medicine, University of L\u00fcbeck, Ratzeburger Allee 160, 23562 L\u00fcbeck, Germany. 2German Center for Infection Research (DZIF), Hamburg - L\u00fcbeck - Borstel - Riems Site, University of L\u00fcbeck, 23562 L\u00fcbeck, Germany. 3Changchun Discovery Sciences, 789 Shunda Rd., Changchun, Jilin 130012, China. 4Department of Chemical Biology, Helmholtz Center for Infection Research (HZI), Inhoffenstra\u00dfe 7, 38124 Braunschweig, Germany. 5German Center for Infection Research (DZIF), Hannover \u2013 Braunschweig Site, Helmholtz Center for Infection Research, 38124 Braunschweig, Germany. * Correspondence to: rolf.hilgenfeld@uni-luebeck.de",
+    "affiliations": [
+        "Institute of Biochemistry, Center for Structural and Cell Biology in Medicine, University of L\u00fcbeck, Ratzeburger Allee 160, 23562 L\u00fcbeck, Germany",
+        "German Center for Infection Research (DZIF), Hamburg - L\u00fcbeck - Borstel - Riems Site, University of L\u00fcbeck, 23562 L\u00fcbeck, Germany",
+        "Changchun Discovery Sciences, 789 Shunda Rd., Changchun, Jilin 130012, China",
+        "Department of Chemical Biology, Helmholtz Center for Infection Research (HZI), Inhoffenstra\u00dfe 7, 38124 Braunschweig, Germany",
+        "German Center for Infection Research (DZIF), Hannover \u2013 Braunschweig Site, Helmholtz Center for Infection Research, 38124 Braunschweig, Germany",
+        "Correspondence to:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.17.952879",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.17.952879.pdf"
+    },
+    "abstract": "A novel coronavirus has been identified as the causative agent of a massive outbreak of atypical pneumonia originating at Wuhan, Hubei province, China. Involved in the formation of the coronavirus replication complex, the viral main protease (Mpro, also called 3CLpro) represents an attractive target for therapy. We determined the crystal structure of the unliganded Mpro at 1.75 \u00c5 resolution and used this structure to guide optimization of a series of alpha-ketoamide inhibitors. The main goal of the optimization efforts was improvement of the pharmacokinetic properties of the compounds. We further describe 1.95- and 2.20-\u00c5 crystal structures of the complex between the enzyme and the most potent alpha-ketoamide optimized this way. These structures will form the basis for further development of these compounds to antiviral drugs.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "German Center for Infection Research",
+                    "award-id": [
+                        "projects TTU01.806",
+                        "TTU09.710"
+                    ]
+                }
+            ],
+            "funding-statement": "We thank the German Center for Infection Research (DZIF) for financial support (projects TTU01.806 and TTU09.710)"
+        }
+    ]
+}

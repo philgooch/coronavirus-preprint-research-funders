@@ -1,0 +1,45 @@
+{
+    "abstract": "Objectives Public health interventions designed to interrupt COVID-19 transmission could have deleterious impacts on primary healthcare access. We sought to identify whether implementation of the nationwide lockdown (shelter-in-place) order in South Africa affected ambulatory clinic visitation in rural Kwa-Zulu Natal (KZN). Design Prospective, longitudinal cohort study Setting Data were analyzed from the Africa Health Research Institute Health and Demographic Surveillance System, which includes prospective data capture of clinic visits at eleven primary healthcare clinics in northern KwaZulu-Natal Participants A total of 36,291 individuals made 55,545 clinic visits during the observation period. Exposure of Interest We conducted an interrupted time series analysis with regression discontinuity methods to estimate changes in outpatient clinic visitation from 60 days before through 35 days after the lockdown period. Outcome Measures Daily clinic visitation at ambulatory clinics. In stratified analyses we assessed visitation for the following sub-categories: child health, perinatal care and family planning, HIV services, non-communicable diseases, and by age and sex strata. Results We found no change in total clinic visits/clinic/day from prior to and during the lockdown (-6.9 visits/clinic/day, 95%CI -17.4, 3.7) or trends in clinic visitation over time during the lockdown period (-0.2, 95%CI -3.4, 3.1). We did detect a reduction in child healthcare visits at the lockdown (-7.2 visits/clinic/day, 95%CI -9.2, -5.3), which was seen in both children <1 and children 1-5. In contrast, we found a significant increase in HIV visits immediately after the lockdown (8.4 visits/clinic/day, 95%CI 2.4, 14.4). No other differences in clinic visitation were found for perinatal care and family planning, non-communicable diseases, or among adult men and women. Conclusions In rural KZN, the ambulatory healthcare system was largely resilient during the national-wide lockdown order. A major exception was child healthcare visitation, which declined immediately after the lockdown but began to normalize in the weeks thereafter. Future work should explore efforts to decentralize chronic care for high-risk populations and whether catch-up vaccination programs might be required in the wake of these findings.",
+    "author": "Kobus Herbst; Mark J Meyer; Guy Harling; Patrick Gabela; Nomathamsanqa Majozi; Maryam Shahmanesh; Thobeka Mngomezulu; Emily Wong; Dickman Gareta; Willem Hanekom; Janet Seeley; Collins Iwuji; Siphephelo Dlamini; Nothando Ngwenya; John D. Kraemer; Zahra Reynolds; Mark J Siedner",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103226",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103226"
+    },
+    "title": "Access to primary healthcare during lockdown measures for COVID-19 in rural South Africa: a longitudinal cohort study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Guy Harling Shahmanesh"
+                },
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "5R01MH114560-03"
+                    ]
+                },
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation, Grant",
+                    "award-id": [
+                        "OPP1136774",
+                        "OPP1171600"
+                    ]
+                }
+            ],
+            "funding-statement": "Guy Harling Shahmanesh is supported by National Institutes of Health under award number 5R01MH114560-03, Bill & Melinda Gates Foundation, Grant Number OPP1136774 and OPP1171600"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "R01 AI124718",
+                        "R01 AG059504"
+                    ]
+                }
+            ],
+            "funding-statement": "Siedner is supported by the National Institutes of Health (R01 AI124718, R01 AG059504)"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused more than 200,000 reported COVID-19 cases in Spain resulting in more than 20,800 deaths as of April 21, 2020. Faecal shedding of SARS-CoV-2 RNA from COVID-19 patients has extensively been reported. Therefore, we investigated the occurrence of SARS-CoV-2 RNA in six wastewater treatments plants (WWTPs) serving the major municipalities within the Region of Murcia (Spain), the area with the lowest COVID-19 prevalence within Iberian Peninsula. Firstly, an aluminum hydroxide adsorption-precipitation concentration method was tested using a porcine coronavirus (Porcine Epidemic Diarrhea Virus, PEDV) and mengovirus (MgV). The procedure resulted in average recoveries of 10.90 and 10.85% in influent water and 3.29 and 6.19 in effluent water samples for PEDV and MgV, respectively. Then, the method was used to monitor the occurrence of SARS-CoV-2 from March 12 to April 14, 2020 in influent, secondary and tertiary effluent water samples. By using the real-time RT-PCR (RT-qPCR) Diagnostic Panel validated by US CDC that targets three regions of the virus nucleocapsid (N) gene, we estimated quantification of SARS-CoV-2 RNA titers in untreated wastewater waters of 5.38 log genomic copies/L on average. Two secondary water samples resulted positive (2 out of 18) and all tertiary water samples tested as negative (0 out 12). This environmental surveillance data were compared to declared COVID-19 cases at municipality level, revealing that SARS-CoV-2 was circulating among the population even before the first cases were reported by local or national authorities in many of the cities where wastewaters have been sampled. The detection of SARS-CoV-2 in wastewater in early stages of the spread of COVID-19 highlights the relevance of this strategy as an early indicator of the infection within a specific population. At this point, this environmental surveillance could be implemented by municipalities right away as a tool, designed to help authorities to coordinate the exit strategy to gradually lift its coronavirus lockdown.",
+    "author": "Gloria Sanchez; Pilar Truchado; Pedro Simon; Enric Cuevas Ferrando; Walter Randazzo; Ana Allende",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075200",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075200"
+    },
+    "title": "SARS-CoV-2 RNA titers in wastewater anticipated COVID-19 occurrence in a low prevalence area",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ESAMUR",
+                    "award-id": [
+                        "202070E101"
+                    ]
+                }
+            ],
+            "funding-statement": "The study was funded by the projects 20180705 of ESAMUR and 202070E101 of CSIC"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Generalitat Valenciana"
+                }
+            ],
+            "funding-statement": "WR is supported by APOSTD/2018/150 postdoctoral fellowship and EC-F by APOTIP/2018/007 PhD student grant, both funded by the Generalitat Valenciana"
+        }
+    ]
+}

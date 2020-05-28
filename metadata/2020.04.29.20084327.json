@@ -1,0 +1,58 @@
+{
+    "abstract": "The clinical course of COVID-19 is highly variable, however, underlying host factors and determinants of severe disease are still unknown. Based on single-cell transcriptomes of nasopharyngeal and bronchial samples from clinically well-characterized patients presenting with moderate and critical severities, we reveal the different types and states of airway epithelial cells that are vulnerable for SARS-CoV-2 infection. In COVID-19 patients, we observed a two- to threefold increase of cells expressing the SARS-CoV-2 entry receptor ACE2 within the airway epithelial cell compartment. ACE2 is upregulated in epithelial cells through Interferon signals by immune cells suggesting that the viral defense system may increase the number of potentially susceptible cells in the respiratory epithelium. Infected epithelial cells recruit and activate immune cells by chemokine signaling. Recruited T lymphocytes and inflammatory macrophages were hyperactivated and showed a strong interaction with epithelial cells. In critical patients, increased expression of CCL2, CCL3, CCL5, CXCL9, CXCL10, IL8, IL1B and TNF in macrophages was identified as a likely cause of a hyperinflammatory lung pathology. Moreover, we observed exacerbated epithelial cell death, likely leading to lung injury and respiratory failure in fatal cases. Our study provides novel insights into the pathophysiology of COVID-19 and suggests an immunomodulatory therapy along the CCL2, CCL3/CCR1 axis as promising option to prevent and treat critical course of COVID-19.",
+    "affiliations": [
+        "Berlin Institute of Health, the German Research Foundation through SFB-TR84 \"Innate Immunity of The Lung\", the German Ministry of Education and Research in the framework of the CAPSyS project (Grant 01ZX1304B and 01ZX1604B), the Berlin-University Alliance (BUA), the European Commission (ESPACE, 874710, Horizon 2020), Illumina GmbH, and Intel Germany GmbH"
+    ],
+    "author": "Felix Balzer; Robert Lorenz Chua; Saskia Trump; Bernd Timmermann; Daniel Wendisch; Jennifer Loske; Andreas Hocke; Julia Kazmierski; Martin Witzenrath; Alexander Krannich; J\u00fcrgen Eils; Felix Machleidt; Christian Drosten; Roland Eils; Stefan Schneider; Fabian Pott; Sven Laudi; Christian Conrad; Olivia Debnath; Loreen Th\u00fcrmann; Leif-Erik Sander; Holger M\u00fcller-Redetzky; Naveed Ishaque; Sven Twardziok; Soeren Lukassen; Christine Goffinet; Florian Kurth; Irina Lehmann; Christof von Kalle; Johannes Liebig; Sein Schmidt; Bianca P Hennig",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20084327",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20084327"
+    },
+    "title": "Cross-talk between the airway epithelium and activated immune cells defines severity in COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Berlin Institute of Health,"
+                },
+                {
+                    "funding-source": "German Research Foundation",
+                    "award-id": [
+                        "SFB-TR84"
+                    ]
+                },
+                {
+                    "funding-source": "Innate Immunity of The Lung\""
+                },
+                {
+                    "funding-source": "German Ministry of Education and Research in the"
+                },
+                {
+                    "funding-source": "CAPSyS project",
+                    "award-id": [
+                        "01ZX1304B",
+                        "01ZX1604B"
+                    ]
+                },
+                {
+                    "funding-source": "Berlin-University Alliance"
+                },
+                {
+                    "funding-source": "European Commission",
+                    "award-id": [
+                        "874710",
+                        "Horizon 2020"
+                    ]
+                },
+                {
+                    "funding-source": "Illumina GmbH,"
+                },
+                {
+                    "funding-source": "Intel Germany GmbH"
+                }
+            ],
+            "funding-statement": "This study was supported by the COVID-19 research program of the Berlin Institute of Health, the German Research Foundation through SFB-TR84 \"Innate Immunity of The Lung\", the German Ministry of Education and Research in the framework of the CAPSyS project (Grant 01ZX1304B and 01ZX1604B), the Berlin-University Alliance (BUA), the European Commission (ESPACE, 874710, Horizon 2020), Illumina GmbH, and Intel Germany GmbH"
+        }
+    ]
+}

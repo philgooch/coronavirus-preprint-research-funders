@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: A key impact measure of COVID-19 pandemic is the case fatality rate (CFR), but estimating it during an epidemic is challenging as the true number of cases may remain elusive. Objective: To estimate the CFR applying a delay-adjusted method across countries, exploring differences to simple methods and potential correlation to country level variables. Methods: Secondary analysis of publicly available data from countries with \u2265500 cases by April 30th. We calculated CFR adjusting for delay time from diagnosis to death and using simple methods for comparison. We performed a random effects meta-analysis to pooling CFRs for all countries and for those with high testing coverage and low positivity rate. We explored correlation of adjusted CFR with age structure and health care resources at country level. Results: We included 107 countries and the Diamond Princess cruise-ship. The overall delay adjusted CFR was 2.8% (95%CI: 2.1 to 3.1) while naive CFR was 5.1% (95%CI: 4.1 to 6.2). In countries with high testing coverage/low positivity rate the pooled adjusted CFR was 2.1% (95%CI: 1.5 to 3.0), there was a correlation with age over 65 years (\u03b2 = 0.12; 95%CI: 0.06 to 0.18), but not with number of physician or critical care beds. Naive method underestimated the CFR of the CFR with a median of 1.3% across countries. Conclusion: Our best estimation of CFR across countries is 2% and varies according to the aged population size. Modelers and policy makers may consider these results to assess the impact of lockdowns or other mitigation policies.\nCompeting Interest Statement",
+    "author": "Carlos Canelo-Aybar; Jessica Beltran; Marilina Santero; Pablo Alonso-Coello",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20099796",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20099796"
+    },
+    "title": "Adjusted fatality rates of COVID19 pandemic: a comparison across countries",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "abstract": "The coronavirus disease 2019 (COVID-19) is spreading throughout the world and all healthcare systems are loaded beyond its capacity. The virus is named as SARS-CoV-2. In this situation, rational decisions need to be made on how the care is provided for patients with COVID-19. The Incidence report, general symptoms and readily available testing kits, different control strategies, the basic compartmental model, and some of the current research on the epidemiology of the disease are discussed and previously published models are reviewed. Modeling this disease helps in understanding the spread, and predict its future to evaluate different control strategies (Social Distancing, Contact Tracing and Hospitalization). Compartmental modeling framework is used in this work. The non-linear equations are formulated and fitted to the cumulative case and mortality data. Analytical analysis along with uncertainty analysis and sensitivity analysis is performed, and the conditions to achieve disease free equilibrium is evaluated. Finally, Different control strategies are simulated to show their importance. This paper aims to shows the advantage of mathematical modeling and their simulations in times like now, during which the COVID-19 spreading like wildfire. It also includes Pre-symptomatic and asymptomatic individuals in the modeling. The simulations are performed for the model fit to Cumulative Case and Mortality data in the United States of America. The Reproduction number is found to be 2.71914.",
+    "affiliations": [
+        "Center for Systems Science and Engineering at Johns Hopkins University, from March 1, 2020, through April 27, 2020, is used to calibrate the model parameters and initial condition"
+    ],
+    "author": "Harishankar Prabhakaran",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20098418",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20098418"
+    },
+    "title": "Spread of the Novel Coronavirus (SARS-CoV-2): Modeling and Simulation of Control Strategies",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

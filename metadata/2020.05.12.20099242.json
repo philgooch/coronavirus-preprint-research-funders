@@ -1,0 +1,20 @@
+{
+    "abstract": "Background: One hundred days after SARS-CoV-2 was first reported in Vietnam on January 23rd, 270 cases have been confirmed, with no deaths. We describe the control measures used and their relationship with imported and domestically-acquired case numbers. Methods: Data on the first 270 SARS-CoV-2 infected cases and the timing and nature of control measures were captured by Vietnam's National Steering Committee for COVID-19 response. Apple and Google mobility data provided population movement proxies. Serial intervals were calculated from 33 infector-infectee pairs and used to estimate the proportion of pre-symptomatic transmission events and time-varying reproduction numbers. Results: After the first confirmed case on January 23rd, the Vietnamese Government initiated mass communications measures, contact tracing, mandatory 14-day quarantine, school and university closures, and progressive flight restrictions. A national lockdown was implemented between April 1st and 22nd. Around 200,000 people were quarantined and 266,122 RT-PCR tests conducted. Population mobility decreased progressively before lockdown. 60% (163/270) of cases were imported; 43% (89/208) of resolved infections were asymptomatic. 21 developed severe disease, with no deaths. The serial interval was 3.24 days, and 27.5% (95% confidence interval, 15.7%-40.0%) of transmissions occurred pre-symptomatically. Limited transmission amounted to a maximum reproduction number of 1.15 (95% confidence interval, 0.37-2.36). No community transmission has been detected since April 15th. Conclusions: Vietnam has controlled SARS-CoV-2 spread through the early introduction of communication, contact-tracing, quarantine, and international travel restrictions. The value of these interventions is supported by the high proportion of asymptomatic cases and imported cases, and evidence for substantial pre-symptomatic transmission.\nCompeting Interest Statement",
+    "author": "Nghia Duy Ngu; H Rogier van Doorn; Luong Huy Duong; Dinh Cong Phung; Quang Dai Tran; My Phuc Tran; Ngoc Quang La; Khanh Cong Nguyen; Duong Nhu Tran; Guy E Thwaites; OUCRU COVID-19 Research Group; Marc Choisy; Ngoc Anh Hoang; Thai Quang Pham; Tan Quang Dang; Chau Vinh; Duc Anh Dang; Ha Linh Quach; Maia Rabaa; Anh Tu Tran",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099242",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099242"
+    },
+    "title": "The first 100 days of SARS-CoV-2 control in Vietnam",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust"
+                }
+            ],
+            "funding-statement": "Research supported by the Wellcome Trust"
+        }
+    ]
+}

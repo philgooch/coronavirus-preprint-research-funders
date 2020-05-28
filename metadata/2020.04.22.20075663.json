@@ -1,0 +1,51 @@
+{
+    "abstract": "Background Understanding of the role of ethnicity and socioeconomic position in the risk of developing SARS-CoV-2 infection is limited. We investigated this in the UK Biobank study. Methods The UK Biobank study recruited 40-70 year olds in 2006-2010 from the general population, collecting information about self-defined ethnicity and socioeconomic variables (including area-level socioeconomic deprivation and educational attainment). SARS-CoV-2 test results from Public Health England were linked to baseline UK Biobank data. Poisson regression with robust standard errors was used to assess risk ratios (RRs) between the exposures and dichotomous variables for: being tested, having a positive test and testing positive in hospital. We also investigated whether ethnicity and socioeconomic position were associated with having a positive test amongst those tested. We adjusted for covariates including age, sex, social variables (including healthcare work and household size), behavioural risk factors and baseline health. Results Among 428,225 participants in England, 1,474 had been tested and 669 tested positive between 16 March and 13 April 2020. Black, south Asian and white Irish people were more likely to have confirmed infection (RR 4.01 (95%CI 2.92-5.12); RR 2.11 (95%CI 1.43-3.10); and RR 1.60 (95% CI 1.08-2.38) respectively) and were more likely to be hospital cases compared to the White British. While they were more likely to be tested, they were also more likely to test positive. Adjustment for baseline health and behavioural risk factors led to little change, with only modest attenuation when accounting for socioeconomic variables. Socioeconomic deprivation and having no qualifications were consistently associated with a higher risk of confirmed infection (RR 2.26 (95%CI 1.76-2.90); and RR 1.91 (95%CI 1.53-2.38) respectively). Conclusions Some minority ethnic groups have a higher risk of confirmed SARS-CoV-2 infection in the UK Biobank study which was not accounted for by differences in socioeconomic conditions, measured baseline health or behavioural risk factors. An urgent response to addressing these elevated risks is required.",
+    "author": "Frederick K Ho; Jill Pell; Catherine A O'Donnell; Claire L Niedzwiedz; Bhautesh D Jani; Frances Mair; Naveed Sattar; Barbara I Nicholl; Srinivasa Vittal Katikireddi; Evangelia Demou; Carlos Celis-Morales; Paul Welsh",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075663",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075663"
+    },
+    "title": "Ethnic and socioeconomic differences in SARS-CoV-2 infection: prospective cohort study using UK Biobank",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council Fellowship",
+                    "award-id": [
+                        "MR/R024774/1"
+                    ]
+                }
+            ],
+            "funding-statement": "CLN acknowledges funding from a Medical Research Council Fellowship (MR/R024774/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "MC_UU_12017/13"
+                    ]
+                },
+                {
+                    "funding-source": "Scottish Government Chief Scientist Office",
+                    "award-id": [
+                        "SPHSU13"
+                    ]
+                }
+            ],
+            "funding-statement": "ED and SVK acknowledge funding from the Medical Research Council (MC_UU_12017/13) and Scottish Government Chief Scientist Office (SPHSU13)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NRS Senior Clinical Fellowship",
+                    "award-id": [
+                        "SCAF/15/02"
+                    ]
+                }
+            ],
+            "funding-statement": "SVK also acknowledges funding from a NRS Senior Clinical Fellowship (SCAF/15/02)"
+        }
+    ]
+}

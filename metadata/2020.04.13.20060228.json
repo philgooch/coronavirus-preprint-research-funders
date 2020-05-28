@@ -1,0 +1,42 @@
+{
+    "abstract": "Objective: The aim of the study is to analyze the latent class of basic reproduction number (R0) trend of 2019 novel coronavirus disease (COVID\u221219) in major endemic areas of China. Methods The provinces that reported more than 500 cases of COVID\u221219 till February 18, 2020 were selected as the major endemic area. The Verhulst model was used to fit the growth rate of cumulative confirmed cases. The R0 of COVID\u221219 was calculated using the parameters of severe acute respiratory syndrome (SARS) and COVID\u221219, respectively. The latent class of R0 was analyzed using a latent profile analysis model. Results The median R0 calculated from SARS and COVID\u221219 parameters were 1.84 \u2212 3.18 and 1.74 \u2212 2.91, respectively. The R0 calculated from the SARS parameters was greater than that of calculated from the COVID\u221219 parameters (Z = \u22124.782 \u2212 \u22124.623, P < 0.01). Both R0 can be divided into three latent classes. The initial value of R0 in class 1 (Shandong Province, Sichuan Province and Chongqing Municipality) was relatively low and decreases slowly. The initial value of R0 in class 2 (Anhui Province, Hunan Province, Jiangxi Province, Henan Province, Zhejiang Province, Guangdong Province and Jiangsu Province) was relatively high and decreases rapidly. Moreover, the initial value of R0 of class 3 (Hubei Province) was between that of class 1 and class 2, but the higher level of R0 lasts longer and decreases slowly. Conclusion The results indicated that overall trend of R0 has been falling with the strengthening of China's comprehensive prevention and control measures for COVID\u221219, however, presents regional differences.",
+    "affiliations": [
+        "Anhui Medical University Emergency Key Research Project for Novel Coronavirus Pneumonia (YJGG202001) and Emergency Research Project, Anhui Provincial Department of Science and Technology, Anhui Provincial Health Commission (202004a07020002)"
+    ],
+    "author": "Yi Zhang; Honglv Xu; Hong Gan; Fangbiao Tao; Liya Ma; Wenwen Liu; Min Yuan; Meng Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20060228",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.17632/48j3z3fxw6.2",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20060228"
+    },
+    "title": "Basic reproduction number of 2019 Novel Coronavirus Disease in Major Endemic Areas of China: A latent profile analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Anhui Medical University Emergency Key Research Project for Novel Coronavirus Pneumonia",
+                    "award-id": [
+                        "YJGG202001"
+                    ]
+                },
+                {
+                    "funding-source": "Emergency Research Project, Anhui"
+                },
+                {
+                    "funding-source": "Provincial Department of Science and Technology, Anhui"
+                },
+                {
+                    "funding-source": "Provincial Health Commission",
+                    "award-id": [
+                        "202004a07020002"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Anhui Medical University Emergency Key Research Project for Novel Coronavirus Pneumonia (YJGG202001) and Emergency Research Project, Anhui Provincial Department of Science and Technology, Anhui Provincial Health Commission (202004a07020002)"
+        }
+    ]
+}

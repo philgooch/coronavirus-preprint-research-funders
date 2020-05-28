@@ -1,0 +1,16 @@
+{
+    "abstract": "Background We report the transmission dynamics of SARS-CoV-2 across different settings from the first COVID-19 cluster in Brunei arising from a super-spreading event (SSE): the Tablighi Jama'at religious gathering in Malaysia. Methods Epidemiological and clinical information of all cases and close contacts were collected. All suspected cases and their close contacts were tested with RT-PCR, regardless of symptom presentation. Incubation period and serial interval (SI) were calculated. Attack rates (AR) and mean reproductive numbers were calculated for five different settings, and risk factors of infection were identified using log-binomial regression. Findings Nineteen out of 75 identified Talbighi attendees in Brunei tested positive for SARS-CoV-2. They infected 52 other individuals, bringing the cluster size to 71. Among them, only 40 (56.3%) reported symptoms from diagnosis to discharge. Median incubation period is 4.5 days (IQR= 2.75) and mean SI is 4.26 days (SD= 4.27). Contact tracing identified 1755 contacts. The highest non-primary AR were observed at a local religious gathering (14.8% [95% CI: 7.1, 27.7]) and in the household (10.6% [95% CI: 7.3, 15.1]. Household ARs of symptomatic cases were higher (14.4% [95% CI: 8.8, 19.9]) than asymptomatic or presymptomatic cases (5.4% [95% CI: 1.2, 9.6]). Low ARs (< 1%) were observed for workplace and social settings. Interpretation Our analysis highlights that SARS-CoV-2 transmission varies depending on environmental, behavioural, and host factors. We identify 'red flags' of potential SSE development, and propose differentiated testing strategies that account for transmission risk.",
+    "author": "Liling Chaw; Wee Chian Koh; Justin Wong; Sirajul Adli Jamaludin; Mohammad Fathi Alikhan; Lin Naing",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090043",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090043"
+    },
+    "title": "SARS-CoV-2 transmission in different settings: Analysis of cases and close contacts from the Tablighi cluster in Brunei Darussalam",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This study does not receive any form of financial support."
+        }
+    ]
+}

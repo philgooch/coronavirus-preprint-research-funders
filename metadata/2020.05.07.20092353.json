@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 is present in every state and over 90 percent of all counties in the United States. Decentralized government efforts to reduce spread, combined with the complex dynamics of human mobility and the variable intensity of local outbreaks makes assessing the effect of large-scale social distancing on COVID-19 transmission in the U.S. is a challenge. We generate a novel metric to represent social distancing behavior derived from mobile phone data, and examine its relationship with COVID-19 case reports at the county level. Our analysis reveals that social distancing is strongly correlated with decreased COVID-19 case growth rates for the 25 most affected counties in the United States, with a lag period consistent with the incubation time of SARS-CoV-2. We also demonstrate evidence that social distancing was already under way in many U.S. counties before county and state-level policies were implemented. This study strongly supports social distancing as an effective way to mitigate COVID-19 transmission in the United States.",
+    "author": "Lauren Marie Gardner; Hamada Badr; Max Marshall; Hongru Du; Ensheng Dong; Marietta Squire",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20092353",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20092353"
+    },
+    "title": "Social Distancing is Effective at Mitigating COVID-19 Transmission in the United States",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "N/A"
+        }
+    ]
+}

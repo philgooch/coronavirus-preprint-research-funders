@@ -1,0 +1,41 @@
+{
+    "abstract": "As of 1 March 2020, Iran has reported 987 COVID-19 cases and including 54 associated deaths. At least six neighboring countries (Bahrain, Iraq, Kuwait, Oman, Afghanistan and Pakistan) have reported imported COVID-19 cases from Iran. We used air travel data and the cases from Iran to other Middle East countries and estimated 16533 (95% CI: 5925, 35538) COVID-19 cases in Iran by 25 February, before UAE and other Gulf Cooperation Council countries suspended inbound and outbound flights from Iran.\nCompeting Interest Statement",
+    "affiliations": [
+        "Hong Kong Polytechnic University Collaborative Research project. Other authors declare no competing interests",
+        "Alibaba-Hong Kong Polytechnic University Collaborative Research project. The funding agencies had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; or decision to submit the manuscript for publication"
+    ],
+    "author": "Qianying Lin; Daihai He; Zian Zhuang; Yijun Lou; Lin Yang; Shi Zhao; Peihua Cao",
+    "date": 2020,
+    "doi": "10.1101/2020.03.02.20030320",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.02.20030320"
+    },
+    "title": "Preliminary estimation of the novel coronavirus disease (COVID-19) cases in Iran: a modelling analysis based on overseas cases and air travel data",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Hong Kong Polytechnic University Collaborative Research"
+                }
+            ],
+            "funding-statement": "DH was supported by an Alibaba (China) - Hong Kong Polytechnic University Collaborative Research project"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "General Research Fund",
+                    "award-id": [
+                        "15205119"
+                    ]
+                },
+                {
+                    "funding-source": "Research Grants Council of Hong Kong and"
+                },
+                {
+                    "funding-source": "Alibaba-Hong Kong Polytechnic University Collaborative Research"
+                }
+            ],
+            "funding-statement": "DH was supported by General Research Fund (15205119) of Research Grants Council of Hong Kong and an Alibaba-Hong Kong Polytechnic University Collaborative Research project"
+        }
+    ]
+}

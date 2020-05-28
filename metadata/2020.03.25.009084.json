@@ -1,0 +1,137 @@
+{
+    "title": "Non-neuronal expression of SARS-CoV-2 entry genes in the olfactory system suggests mechanisms underlying COVID-19-associated anosmia",
+    "date": 2020,
+    "author": "David H. Brann, Tatsuya Tsukahara, Caleb Weinreb, Marcela Lipovsek, Koen Van den Berge, Boying Gong, Rebecca Chance, Iain C. Macaulay, Hsin-jung Chou, Russell Fletcher, Diya Das,10, Kelly Street, Hector Roux de Bezieux, Yoon-Gi Choi, Davide Risso, Sandrine Dudoit, Elizabeth Purdom, Jonathan S. Mill, Ralph Abi Hachem, Hiroaki Matsunami, Darren W. Logan, Bradley J. Goldstein, Matthew S. Grubb, John Ngai,20, Sandeep Robert Datta",
+    "affiliations": [
+        "Harvard Medical School Department of Neurobiology, Boston MA 02115 USA",
+        "Centre for Developmental Neurobiology, Institute of Psychiatry, Psychology and Neuroscience (IoPPN), King\u2019s College London, London SE1 1UL, UK",
+        "Department of Statistics, University of California, Berkeley, CA 94720",
+        "Department of Applied Mathematics, Computer Science and Statistics, Ghent University, Ghent, Belgium",
+        "Division of Biostatistics, School of Public Health, University of California, Berkeley, CA 94720",
+        "Department of Molecular and Cell Biology, University of California, Berkeley, CA 94720",
+        "Earlham Institute, Norwich Research Park, Norwich, NR4 7UZ, UK",
+        "Present address: Surrozen, Inc., South San Francisco, CA 94080",
+        "Present address: Genentech, Inc., South San Francisco, CA 94080",
+        "Present address: Berkeley Institute for Data Science, University of California, Berkeley",
+        "Department of Data Sciences, Dana-Farber Cancer Institute, Boston, MA",
+        "Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA",
+        "Center for Computational Biology, University of California, Berkeley, CA 94720 14QB3 Functional Genomics Laboratory, University of California, Berkeley, CA 94720",
+        "Department of Statistical Sciences, University of Padova, Padova, Italy",
+        "University of Exeter Medical School, College of Medicine & Health, University of Exeter, Exeter EX2 5DW, UK16",
+        "Duke University School of Medicine Department of Head and Neck Surgery & Communication Sciences, Durham, NC 27717 USA",
+        "Duke University School of Medicine Department of Molecular Genetics and Microbiology, Department of Neurobiology, Duke Institute for Brain Sciences, Durham, NC 27717 US",
+        "Waltham Petcare Science Institute, Leicestershire LE14 4RT, UK",
+        "Helen Wills Neuroscience Institute, University of California, Berkeley, CA 94720"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.25.009084",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.25.009084.pdf"
+    },
+    "abstract": "Altered olfactory function is a common symptom of COVID-19, but its etiology is unknown. A key question is whether SARS-CoV-2 (CoV-2) \u2013 the causal agent in COVID19 \u2013 affects olfaction directly by infecting olfactory sensory neurons or their targets in the olfactory bulb, or indirectly, through perturbation of supporting cells. Here we identify cell types in the olfactory epithelium and olfactory bulb that express SARS-CoV-2 cell entry molecules. Bulk sequencing revealed that mouse, non-human primate and human olfactory mucosa expresses two key genes involved in CoV-2 entry, ACE2 and TMPRSS2. However, single cell sequencing and immunostaining demonstrated ACE2 expression in support cells, stem cells, and perivascular cells; in contrast, neurons in both the olfactory epithelium and bulb did not express ACE2 message or protein. These findings suggest that CoV-2 infection of non-neuronal cell types leads to anosmia and related disturbances in odor perception in COVID-19 patients.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health and"
+                },
+                {
+                    "funding-source": "Simons Collaboration on the Global Brain,"
+                },
+                {
+                    "funding-source": "HMS Neurobiology Imaging Facility"
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "P30NS072030"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "RO1DC007235"
+                    ]
+                },
+                {
+                    "funding-source": "Giovani Ricercatori Rita Levi Montalcini"
+                },
+                {
+                    "funding-source": "Italian Ministry of Education, University"
+                },
+                {
+                    "funding-source": "Belgian American Educational Foundation"
+                },
+                {
+                    "funding-source": "Research Foundation Flanders",
+                    "award-id": [
+                        "1246220N"
+                    ]
+                },
+                {
+                    "funding-source": "Berkeley Institute for Data Science,"
+                },
+                {
+                    "funding-source": "Gordon and Betty Moore Foundation",
+                    "award-id": [
+                        "GBMF3834"
+                    ]
+                },
+                {
+                    "funding-source": "Sloan Foundation",
+                    "award-id": [
+                        "2013-10-27"
+                    ]
+                },
+                {
+                    "funding-source": "Leverhulme Trust Research Grant",
+                    "award-id": [
+                        "RPG-2016-095"
+                    ]
+                },
+                {
+                    "funding-source": "Consolidator Grant from the European Research Council",
+                    "award-id": [
+                        "725729"
+                    ]
+                },
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "K013807"
+                    ]
+                },
+                {
+                    "funding-source": "Medical Research Council Clinical Infrastructure Award",
+                    "award-id": [
+                        "M008924"
+                    ]
+                },
+                {
+                    "funding-source": "BBSRC New Investigator Grant",
+                    "award-id": [
+                        "BB/P022073/1"
+                    ]
+                },
+                {
+                    "funding-source": "BBSRC National Capability in Genomics and Single Cell Analysis",
+                    "award-id": [
+                        "BB/CCG1720/1"
+                    ]
+                },
+                {
+                    "funding-source": "Earlham Institute",
+                    "award-id": [
+                        "BB/CCG1720/1",
+                        "R01DC016859",
+                        "R01DC014423",
+                        "R01DC016224"
+                    ]
+                }
+            ],
+            "funding-statement": "SRD is supported by grants RO11DC016222 and U19 NS112953 from the National Institutes of Health and by the Simons Collaboration on the Global Brain, and the HMS Neurobiology Imaging Facility is supported by NIH grant P30NS072030. JN was supported by NIH grant RO1DC007235. DR was supported by Programma per Giovani Ricercatori Rita Levi Montalcini granted by the Italian Ministry of Education, University, and Research. KVdB is a postdoctoral fellow of the Belgian American Educational Foundation (BAEF) and is supported by the Research Foundation Flanders (FWO), grant 1246220N. D.D. was a fellow of the Berkeley Institute for Data Science, funded in part by the Gordon and Betty Moore Foundation (grant GBMF3834) and the Alfred P. Sloan Foundation (grant 2013-10-27). ML and MG were supported by a Leverhulme Trust Research Grant (RPG-2016-095) and a Consolidator Grant from the European Research Council (725729; FUNCOPLAN). JM is supported by a Medical Research Council grant (K013807) and a Medical Research Council Clinical Infrastructure Award (M008924). ICM is supported by a BBSRC New Investigator Grant (BB/P022073/1) and the BBSRC National Capability in Genomics and Single Cell Analysis at Earlham Institute (BB/CCG1720/1). BJG is supported by grant R01DC016859. HM is supported by grant R01DC014423 and R01DC016224"
+        }
+    ]
+}

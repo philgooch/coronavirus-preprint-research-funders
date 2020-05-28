@@ -1,0 +1,73 @@
+{
+    "abstract": "The SARS-CoV-2 is responsible for the pandemic COVID-19 in infected individuals, who can either exhibit mild symptoms or progress towards a life-threatening acute respiratory distress syndrome (ARDS). It is known that exacerbated inflammation and dysregulated immune responses involving T and myeloid cells occur in COVID-19 patients with severe clinical progression. However, the differential contribution of specific subsets of dendritic cells and monocytes to ARDS is still poorly understood. In addition, the role of CD8+ T cells present in the lung of COVID-19 patients and relevant for viral control has not been characterized. With the aim to improve the knowledge in this area, we developed a cross-sectional study, in which we have studied the frequencies and activation profiles of dendritic cells and monocytes present in the blood of COVID-19 patients with different clinical severity in comparison with healthy control individuals. Furthermore, these subpopulations and their association with antiviral effector CD8+ T cell subsets were also characterized in lung infiltrates from critical COVID-19 patients. Collectively, our results suggest that inflammatory transitional and non-classical monocytes preferentially migrate from blood to lungs in patients with severe COVID-19. CD1c+ conventional dendritic cells also followed this pattern, whereas CD141+ conventional and CD123hi plasmacytoid dendritic cells were depleted from blood but were absent in the lungs. Thus, this study increases the knowledge on the pathogenesis of COVID-19 disease and could be useful for the design of therapeutic strategies to fight SARS-CoV-2 infection.",
+    "author": "Ana Alcaraz-Serna; Luciana del Campo Guerola; Ildefonso Sanchez-Cerrillo; Ana Marcos-Jimenez; Pedro Martinez-Fleta; Santiago Sanchez-Alonso; Maria Jose Calzada; Celia Lopez-Sanz; Enrique Martin-Gayo; Julio Ancochea; Joan B Soriano; Cecilia Munoz-Calleja; Ana Sanchez-Azofra; Arantzazu Alfranca; Elena Avalos; Beatriz Aldave; Isidoro Gonzalez-Alvaro; Pedro Landete; Ignacio de los Santos; Tamara Mateu-Albero; Francisco Sanchez-Madrid; Ligia Gabrie; Laura Esparcia",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20100925",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20100925"
+    },
+    "title": "Differential Redistribution of Activated Monocyte and Dendritic Cell Subsets to the Lung Associates with Severity of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Comunidad de Madrid Talento Program",
+                    "award-id": [
+                        "2017-T1/BMD-5396"
+                    ]
+                },
+                {
+                    "funding-source": "Ram\u00f3n y Cajal Program",
+                    "award-id": [
+                        "RYC2018-024374-I"
+                    ]
+                },
+                {
+                    "funding-source": "MINECO RETOS",
+                    "award-id": [
+                        "RTI2018-097485-A-I00"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R21AI140930"
+                    ]
+                }
+            ],
+            "funding-statement": "EMG was supported by Comunidad de Madrid Talento Program (2017-T1/BMD-5396), Ram\u00f3n y Cajal Program (RYC2018-024374-I), the MINECO RETOS program (RTI2018-097485-A-I00) and the NIH R21 program (R21AI140930)"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                }
+            ],
+            "funding-statement": "EMG and JBS have applied for funding for the EDEPIMIC study of COVID-19 pandemic"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fondo de Investigaciones Sanitarias",
+                    "award-id": [
+                        "PI19/00549"
+                    ]
+                }
+            ],
+            "funding-statement": "AA was supported by Fondo de Investigaciones Sanitarias (FIS) PI19/00549"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fondo de Investigaciones Sanitarias",
+                    "award-id": [
+                        "PI18/01163"
+                    ]
+                }
+            ],
+            "funding-statement": "CMC was supported by Fondo de Investigaciones Sanitarias (FIS) PI18/01163"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "To reconstruct the evolutionary dynamics of the 2019 novel coronavirus, 52 2019\u2212nCOV genomes available on 04 February 2020 at GISAID were analysed. The two models used to estimate the reproduction number (coalescent\u2212based exponential growth and a birth\u2212death skyline method) indicated an estimated mean evolutionary rate of 7.8 x 10\u22124 subs/site/year (range 1.1x10\u22124\u221215x10\u22124). The estimated R value was 2.6 (range 2.1\u22125.1), and increased from 0.8 to 2.4 in December 2019. The estimated mean doubling time of the epidemic was between 3.6 and 4.1 days. This study proves the usefulness of phylogeny in supporting the surveillance of emerging new infections even as the epidemic is growing.",
+    "author": "Carla Acciarri; Annalisa Bergna; Gianguglielmo Zehender; Massimo Galli; Alessia Lai",
+    "date": 2020,
+    "doi": "10.1101/2020.02.19.20024851",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.19.20024851"
+    },
+    "title": "Early Phylogenetic Estimate Of The Effective Reproduction Number Of 2019-nCoV",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for this work"
+        }
+    ]
+}

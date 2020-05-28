@@ -1,0 +1,39 @@
+{
+    "title": "The inhaled corticosteroid ciclesonide blocks coronavirus RNA replication by targeting viral NSP15",
+    "author": "Shutoku Matsuyama, Miyuki Kawase, Naganori Nao, Kazuya Shirato, Makoto Ujike, Wataru Kamitani, Masayuki Shimojima, and Shuetsu Fukushi",
+    "date": 2020,
+    "affiliations": [
+        "Department of Virology III, National Institute of Infectious Diseases, Tokyo, Japan",
+        "Faculty of Veterinary Medicine, Nippon Veterinary and Life Science University, Tokyo, Japan",
+        "Department of Infectious Diseases and Host Defense, Gunma University Graduate School of Medicine",
+        "Department of Virology I, National Institute of Infectious Diseases, Tokyo, Japan",
+        "Department of Virology III, National Institute of Infectious Diseases 4-7-1 Gakuen Musashi-Murayama, Tokyo 208-0011, Japan tel 81-42-848-7065 ext3367, fax 81-42-567-5631"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.11.987016",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.11.987016.pdf"
+    },
+    "abstract": "Steroid compounds, which are expected to have dual functions in blocking host inflammation and MERS-CoV replication, were screened from a chemical library. Within this library, ciclesonide, an inhaled corticosteroid, suppressed human coronavirus replication in cultured cells, but did not suppress replication of respiratory syncytial virus or influenza virus. The effective concentration of ciclesonide to block SARS-CoV-2 (the cause of COVID-19)\n\u03bc replication (EC90) was 6.3 M. After the eleventh consecutive MERS-CoV passage in the presence of ciclesonide, a resistant mutation was generated, which resulted in an amino acid substitution (A25V) in nonstructural protein (NSP) 15, as identified using reverse genetics. A recombinant virus with the mutation was also resistant to ciclesonide suppression of viral replication. These observations suggest that the effect of ciclesonide was specific to coronavirus, suggesting this is a candidate drug for treatment of patients suffering MERS or COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Grants-in Aid from the Japan Agency for Medical Research and Development",
+                    "award-id": [
+                        "JP19fk0108058j0802"
+                    ]
+                },
+                {
+                    "funding-source": "Japan Society for the Promotion of Science",
+                    "award-id": [
+                        "17K08868"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by Grants-in Aid from the Japan Agency for Medical Research and Development (AMED) (Grant Number JP19fk0108058j0802), and from the Japan Society for the Promotion of Science (JSPS) (Grant Number 17K08868)"
+        }
+    ]
+}

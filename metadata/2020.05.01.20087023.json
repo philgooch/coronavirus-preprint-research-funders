@@ -1,0 +1,70 @@
+{
+    "abstract": "Policymakers need a clear and fast assessment of the real spread of the epidemic of COVID-19 in each of their respective countries. Standard measures of the situation provided by the governments include reported positive cases and total deaths. While total deaths immediately indicate that countries like Italy and Spain have the worst situation as of mid April 2020, on its own, reported cases do not provide a correct picture of the situation. The reason is that different countries diagnose diversely and present very distinctive reported case fatality rate (CFR). The same levels of reported incidence and mortality might hide a very different underlying picture. Here we present a straightforward and robust estimation of the diagnostic rate in each European country. From that estimation we obtain an uniform unbiased incidence of the epidemic. The method to obtain the diagnostic rate is transparent and empiric. The key assumption of the method is that the real CFR in Europe of COVID-19 is not strongly country-dependent. We show that this number is not expected to be biased due to demography nor the way total deaths are reported. The estimation protocol has a dynamic nature, and it has been giving converging numbers for diagnostic rates in all European countries as of mid April 2020. From this diagnostic rate, policy makers can obtain an Effective Potential Growth (EPG) updated everyday providing an unbiased assessment of the countries with more potential to have an uncontrolled situation. The method developed will be used to track possible improvements on the diagnostic rate in European countries as the epidemic evolves.",
+    "author": "Pere-Joan Cardona; Clara Prats; Daniel Lopez-Codina; Tomas Urdiales; Sergio Alonso; Pablo Palacios; Marti Catala; Miquel Marchena; David Pino; Enrique Alvarez Lacalle",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087023",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087023"
+    },
+    "title": "Robust estimation of diagnostic rate and real incidence of COVID-19 for European policymakers",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "La Caixa Foundation",
+                    "award-id": [
+                        "ID 100010434",
+                        "LCF/PR/GN17/50300003"
+                    ]
+                },
+                {
+                    "funding-source": "Agencia de Gestio"
+                },
+                {
+                    "funding-source": "Ajuts Universitaris"
+                },
+                {
+                    "funding-source": "Grup Unitat de Tuberculosi Experimental,",
+                    "award-id": [
+                        "2017-SGR-500"
+                    ]
+                },
+                {
+                    "funding-source": "Ministerio de Ciencia, Innovacion"
+                },
+                {
+                    "funding-source": "Universidades and FEDER,",
+                    "award-id": [
+                        "PGC2018-095456-B-I00"
+                    ]
+                }
+            ],
+            "funding-statement": "CP, PJC and MC received funding from La Caixa Foundation (ID 100010434), under agreement LCF/PR/GN17/50300003; PJC received funding from Agencia de Gestio d'Ajuts Universitaris i de Recerca (AGAUR), Grup Unitat de Tuberculosi Experimental, 2017-SGR-500; CP, DL, SA, MC received funding from Ministerio de Ciencia, Innovacion y Universidades and FEDER, with the project PGC2018-095456-B-I00"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Spanish Ministerio de Economia, Industria",
+                    "award-id": [
+                        "SAF2017-88019-C3-2-R"
+                    ]
+                }
+            ],
+            "funding-statement": "EA-L received funding from Spanish Ministerio de Economia, Industria y Competitividad under grant number SAF2017-88019-C3-2-R"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Comission"
+                },
+                {
+                    "funding-source": "DG Communications Networks, Content",
+                    "award-id": [
+                        "LC-01485746"
+                    ]
+                }
+            ],
+            "funding-statement": "This project has been partially funded by the European Comission - DG Communications Networks, Content and Technology through the contract LC-01485746"
+        }
+    ]
+}

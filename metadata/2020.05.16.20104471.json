@@ -1,0 +1,16 @@
+{
+    "abstract": "Following the importation of Covid-19 into Nigeria on the 27 February 2020 and then the outbreak, the question is: how do we anticipate the progression of the ongoing epidemics following all the intervention measures put in place? This kind of question is appropriate for public health responses and it will depend on the early estimates of the key epidemiological parameters of the virus in a defined population. In this study, we combined a likelihood-based method using a Bayesian framework and compartmental model of the epidemic of Covid-19 in Nigeria to estimate the effective reproduction number (R(t)) and basic reproduction number (R_0). This also enables us to estimate the daily transmission rate (\u03b2) that determines the effect of social distancing. We further estimate the reported fraction of symptomatic cases. The models are applied to the NCDC data on Covid-19 symptomatic and death cases from 27 February 2020 and 7 May 2020. In this period, the effective reproduction number is estimated with a minimum value of 0.18 and a maximum value of 1.78. Most importantly, the R(t) is strictly greater than one from April 13 till 7 May 2020. The R_0 is estimated to be 2.42 with credible interval: (2.37, 2.47). Comparing this with the R(t) shows that control measures are working but not effective enough to keep R(t) below one. Also, the estimated fractional reported symptomatic cases are between 10 to 50%. Our analysis has shown evidence that the existing control measures are not enough to end the epidemic and more stringent measures are needed.",
+    "author": "Adeshina Israel Adekunle; Oyelola Adegboye; Emma McBryde; Ezra Gayawan",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20104471",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20104471"
+    },
+    "title": "Is Nigeria really on top of COVID-19? Message from effective reproduction number",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "We receive no funding"
+        }
+    ]
+}

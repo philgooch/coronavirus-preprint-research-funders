@@ -1,0 +1,16 @@
+{
+    "abstract": "Introduction and Aims: Retarding the spread of SARS-CoV-2 infection by preventive strategies is the first line of management. Several countries have declared a stringent lock-down in order to enforce social distancing and prevent the spread of infection. This analysis was conducted in an attempt to understand the impact of lock-down on infection and death rates over a period of time. Material and Methods: A validated database was used to generate data related to countries with declared lock-down. Simple regression analysis was conducted to assess the rate of change in infection and death rates. Subsequently, a k-means and hierarchical cluster analysis was done to identify the countries that performed similarly. Sweden and South Korea were included as counties without lock-down in a second-phase cluster analysis. Results: There was a significant 61% and 43% reduction in infection rates 1-week post lock-down in the overall and India cohorts, respectively, supporting its effectiveness. Countries with higher baseline infections and deaths fared poorly compared to those who declared lock-down early on. Sweden and South Korea fared equally well, as most lock-down countries stemmed the growth of infection and death. Conclusion: Lock-down has proven to be an effective strategy is slowing down the SARS-CoV-2 disease progression exponentially. However, lessons need to be learned from Sweden and South Korea on arresting the disease progression without imposing such stringent measures.",
+    "author": "SAMIT GHOSAL; Rahul Bhattacharyya; Milan Majumder",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089649",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089649"
+    },
+    "title": "Impact of complete lock-down on total infection and death rates: A hierarchical cluster analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

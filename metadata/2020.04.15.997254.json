@@ -1,0 +1,35 @@
+{
+    "title": "Analysis of SARS-CoV-2-controlled autophagy reveals spermidine, MK-2206, and niclosamide as 2 putative antiviral therapeutics 3 4 Authors/Affiliation 5 Nils C. Gassen1$, Jan Papies2,3, Thomas Bajaj1, Frederik Dethloff4, Jackson Emanuel2,3, Katja Weckmann1, 6 Daniel E. Heinz1, Nicolas Heinemann2,3, Martina Lennarz1, Anja Richter2,3, Daniela Niemeyer2,3, Victor 7 M. Corman2,3, Patrick Giavalisco4, Christian Drosten2,3, Marcel A. M\u00fcller2,3,5$ 8 9 1Department of Psychiatry and Psychotherapy, University of Bonn, 53127 Bonn, Germany 10 2Institute of Virology, Charit\u00e9-Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t 11 Berlin, Humboldt-Universit\u00e4t zu Berlin, and Berlin Institute of Health, 10117 Berlin, Germany 12 3German Centre for Infection Research (DZIF), partner site Charit\u00e9, 10117 Berlin, Germany 13 4Max Planck Institute for Aging, 50931 Cologne, Germany 14 5Martsinovsky Institute of Medical Parasitology, Tropical and Vector Borne Diseases, Sechenov 15 University, 119991 Moscow, Russia 16 17 Contact: $Correspondence should be addressed to Nils C. Gassen (nils.gassen@ukbonn.de) or Marcel 18 A. M\u00fcller (marcel.mueller@charite.de) 19 20",
+    "date": 2020,
+    "affiliations": [
+        "Department of Psychiatry and Psychotherapy, University of Bonn, 53127 Bonn, Germany 10",
+        "Institute of Virology, Charit\u00e9-Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t",
+        "Berlin, Humboldt-Universit\u00e4t zu Berlin, and Berlin Institute of Health, 10117 Berlin, Germany 12",
+        "German Centre for Infection Research (DZIF), partner site Charit\u00e9, 10117 Berlin, Germany 13",
+        "Max Planck Institute for Aging, 50931 Cologne, Germany 14",
+        "Martsinovsky Institute of Medical Parasitology, Tropical and Vector Borne Diseases, Sechenov",
+        "University, 119991 Moscow, Russia 16",
+        "Contact: $Correspondence should be addressed to Nils C. Gassen"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.15.997254",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.15.997254.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) poses an acute threat to public health and the world economy, especially because no approved specific drugs or vaccines are available. Pharmacological modulation of metabolism-dependent cellular pathways such as autophagy reduced propagation of highly pathogenic Middle East respiratory syndrome (MERS)-CoV. Here we show that SARS-CoV-2 infection limits autophagy by interfering with multiple metabolic pathways and that compound-driven interventions aimed at autophagy induction reduce SARS-CoV-2 propagation in vitro. In-depth analyses of autophagy signaling and metabolomics indicate that SARS29 CoV-2 reduces glycolysis and protein translation by limiting activation of AMP-protein activated kinase (AMPK) and mammalian target of rapamycin complex 1 (mTORC1). Infection also downregulates autophagy-inducing spermidine, and facilitates AKT1/SKP2-dependent degradation of autophagy32 initiating Beclin-1 (BECN1). Targeting of these pathways by exogenous administration of spermidine, 33 AKT inhibitor MK-2206, and the Beclin-1 stabilizing, antihelminthic drug niclosamide inhibited SARS34 CoV-2 propagation by 85, 88, and >99%, respectively. In sum, SARS-CoV-2 infection causally diminishes autophagy. A clinically approved and well-tolerated autophagy-inducing compound shows potential for evaluation as a treatment against SARS-CoV-2. 38",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "RAPID",
+                    "award-id": [
+                        "01KI1723A"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding: CD was supported by BMBF-RAPID 01KI1723A"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "title": "A modular framework for multiscale multicellular spatial modeling of viral infection, immune response and drug therapy timing and efficacy in epithelial tissues",
+    "date": 2020,
+    "author": "T.J. Sego\u200b1, Josua O. Aponte-Serrano,\u200b , Juliano Ferrari Gianlupi,\u200b ,2\u200b, Samuel R. Heaps,\u200b , Kira Breithaupt,\u200b ,3\u200b, Lutz Brusch\u200b4\u200b, James M. Osborne\u200b5\u200b, Ellen M. Quardokus,\u200b , James A. Glazier\u200b1,2",
+    "affiliations": [
+        "Department of Intelligent Systems Engineering, Indiana University, Bloomington, IN, USA",
+        "Biocomplexity Institute, Indiana University, Bloomington, IN, USA",
+        "Cognitive Science Program, Indiana University, Bloomington, IN, USA",
+        "Center for Information Services and High Performance Computing (ZIH), Technische Universit\u00e4t Dresden, Germany",
+        "School of Mathematics and Statistics, University of Melbourne, Melbourne, 3010, Australia *Co-first authors"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.27.064139",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.27.064139.pdf"
+    },
+    "abstract": "Development of predictive quantitative models of all aspects of COVID-19 is essential for rapidly understanding the causes of differing disease outcomes and vulnerabilities, suggesting drug and therapeutic targets, and designing optimized personalized interventions. Easy to implement, predictive multiscale modeling frameworks to integrate the wide variety of clinical and research datasets into actionable insights, which could inform therapeutic regime strategies are lacking. We present a multiscale, multicellular, spatiotemporal model of the infection of epithelial tissue by a generic virus, a simplified cellular immune response and viral and immune-induced tissue damage. Our initial model is built of modular components to allow it to be easily extended and adapted in a collaborative fashion to describe specific viral infections, tissue types and immune responses. The model allows us to define three parameter regimes: where viral infection coincides with a massive cytopathic effect, where the immune system rapidly controls the virus and where the immune system controls the virus but extensive tissue damage occurs. We use the model in a proof-of-concept application to evaluate a number of drug therapy concepts. Inhibition of viral internalization and faster immune-cell recruitment lead to containment of",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "EB028887",
+                        "GM122424"
+                    ]
+                },
+                {
+                    "funding-source": "National Science Foundation, NSF",
+                    "award-id": [
+                        "1720625"
+                    ]
+                }
+            ],
+            "funding-statement": "We acknowledge funding from National Institutes of Health grants U24 EB028887 and R01 GM122424 and National Science Foundation, NSF 1720625"
+        }
+    ]
+}

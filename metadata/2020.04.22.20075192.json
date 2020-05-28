@@ -1,0 +1,16 @@
+{
+    "abstract": "The new coronavirus disease, officially known as COVID-19, originated in China in 2019 and has since spread around the globe. We presented a modified Susceptible-Latent-Infected-Removed (SLIR) compartmental model of COVID-19 disease transmission with nonlinear incidence during the epidemic period. We provided the model calibration to estimate parameters with day wise corona virus (COVID-19) data i.e. reported cases by worldometer from the period of 15th February to 30th March, 2020 in six high burden countries including Australia, Italy, Spain, USA, UK and Canada. We estimate transmission rates for each countries and found that the highest transmission rate country in Spain, which may be increase the new cases and deaths in Spain than the other countries. Sensitivity analysis was used to identify the most important parameters through the partial rank correlation coefficient method. We found that the transmission rate of COVID-19 had the largest influence on the prevalence. We also provides the prediction of new cases in COVID-19 until May 18, 2020 using the developed model and recommends, control strategies of COVID-19. The information that we generated from this study would be useful to the decision makers of various organizations across the world including the Ministry of Health in Australia, Italy, Spain, USA, UK and Canada to control COVID-19.",
+    "author": "Md Abdul Kuddus; Azizur Rahman",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075192",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075192"
+    },
+    "title": "Modelling the transmission dynamics of COVID-19 in six high burden countries",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was not funded and did not receive any specific grant from funding agencies in the public, commercial, or not-for profit sectors."
+        }
+    ]
+}

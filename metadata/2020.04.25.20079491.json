@@ -1,0 +1,82 @@
+{
+    "abstract": "Background: Initial reports suggest that ethnic minorities may be experiencing more severe coronavirus disease 2019 (COVID19) outcomes. We therefore assessed the association between ethnic composition, income deprivation and COVID19 mortality rates in England. Methods: We performed a cross-sectional ecological analysis across England's upper-tier local authorities. We assessed the association between the proportion of the population from Black, Asian and Minority Ethnic (BAME) backgrounds, income deprivation and COVID19 mortality rates using multivariable negative binomial regression, adjusting for population density, proportion of the population aged 50-79 and 80+ years, and the duration of the epidemic in each area. Findings: Local authorities with a greater proportion of residents from ethnic minority backgrounds had statistically significantly higher COVID19 mortality rates, as did local authorities with a greater proportion of residents experiencing deprivation relating to low income. After adjusting for income deprivation and other covariates, each percentage point increase in the proportion of the population from BAME backgrounds was associated with a 1% increase in the COVID19 mortality rate [IRR=1.01, 95%CI 1.01-1.02]. Each percentage point increase in the proportion of the population experiencing income deprivation was associated with a 2% increase in the COVID19 mortality rate [IRR=1.02, 95%CI 1.01-1.04]. Interpretation: This study provides evidence that both income deprivation and ethnicity are associated with greater COVID19 mortality. To reduce these inequalities, Government needs to target effective control and recovery measures at these disadvantaged communities, proportionate to their greater needs and vulnerabilities, during and following the pandemic. Funding: National Institute of Health Research; Medical Research Council\nCompeting Interest Statement",
+    "affiliations": [
+        "National Institute of Health Research; Medical Research Council",
+        "Clinician Scientist Fellowship (MR/P008577/1)"
+    ],
+    "author": "Tanith C Rose; Andy Pennington; Ben Barr; Philip McHale; David C Taylor-Robinson; Iain Buchan; Kate Mason",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20079491",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20079491"
+    },
+    "title": "Inequalities in COVID19 mortality related to ethnicity and socioeconomic deprivation",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Health Research; Medical"
+                },
+                {
+                    "funding-source": "Research Council"
+                }
+            ],
+            "funding-statement": "Funding: National Institute of Health Research; Medical Research Council"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Applied Research Collaboration North West Coast",
+                    "award-id": [
+                        "ARC NWC"
+                    ]
+                },
+                {
+                    "funding-source": "ARC NWC)"
+                }
+            ],
+            "funding-statement": "BB and TR are supported by the National Institute for Health Research (NIHR) Applied Research Collaboration North West Coast (ARC NWC)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR School for Public Health Research"
+                }
+            ],
+            "funding-statement": "BB, KM and DTR are supported by the NIHR School for Public Health Research"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Senior Investigator"
+                }
+            ],
+            "funding-statement": "IB is supported by NIHR Senior Investigator award"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR ARC NWC"
+                }
+            ],
+            "funding-statement": "This report is independent research funded by the NIHR ARC NWC"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Clinician Scientist Fellowship",
+                    "award-id": [
+                        "MR/P008577/1"
+                    ]
+                }
+            ],
+            "funding-statement": "DTR is funded by the MRC on a Clinician Scientist Fellowship (MR/P008577/1)"
+        }
+    ]
+}

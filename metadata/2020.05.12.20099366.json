@@ -1,0 +1,19 @@
+{
+    "abstract": "The effective reproductive number Rt of COVID-19 is determined indirectly from data that are only incompletely known. Approaches based on reconstructing these data by sampling time lags from suitable distributions introduce noise effects that can result in distorted estimates of Rt. This, in turn, may lead to misleading interpretations of the efficacy of the various measures taken to limit COVID-19 in some detail a study used for real time number in Switzerland. We argue that the method used to derive the time variation of the reproductive numer is systematically flawed and leads to an underestimation of the efficacy of the lock- down. The method adopted by the Robert Koch Institute suffers from similar deficiencies, their impact is however smaller.",
+    "affiliations": [
+        "Robert Koch Institute suffers from similar deficiencies, their impact is however smaller"
+    ],
+    "author": "daniel wyler; markus petermann",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099366",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099366"
+    },
+    "title": "A pitfall in estimating the effective reproductive number Rt for COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors have no financial support nor any other conflict of interest relevant to this article."
+        }
+    ]
+}

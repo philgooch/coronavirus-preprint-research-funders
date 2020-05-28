@@ -1,0 +1,45 @@
+{
+    "abstract": "OBJECTIVE: To examine the effectiveness of eye protection, face masks, or person distancing on interrupting or reducing the spread of respiratory viruses. DESIGN: Update of a Cochrane review that included a meta-analysis of observational studies during the SARS outbreak of 2003. DATA SOURCES: Eligible trials from the previous review; search of Cochrane Central Register of Controlled Trials, PubMed, Embase and CINAHL from October 2010 up to 1 April 2020; and forward and backward citation analysis. DATA SELECTION: Randomised and cluster-randomised trials of people of any age, testing the use of eye protection, face masks, or person distancing against standard practice, or a similar physical barrier. Outcomes included any acute respiratory illness and its related consequences. DATA EXTRACTION AND ANALYSIS: Six authors independently assessed risk of bias using the Cochrane tool and extracted data. We used a generalised inverse variance method for pooling using a random-effects model and reported results with risk ratios and 95% Confidence Intervals (CI). RESULTS: We included 15 randomised trials investigating the effect of masks (14 trials) in healthcare workers and the general population and of quarantine (1 trial). We found no trials testing eye protection. Compared to no masks there was no reduction of influenza-like illness (ILI) cases (Risk Ratio 0.93, 95%CI 0.83 to 1.05) or influenza (Risk Ratio 0.84, 95%CI 0.61-1.17) for masks in the general population, nor in healthcare workers (Risk Ratio 0.37, 95%CI 0.05 to 2.50). There was no difference between surgical masks and N95 respirators: for ILI (Risk Ratio 0.83, 95%CI 0.63 to 1.08), for influenza (Risk Ratio 1.02, 95%CI 0.73 to 1.43). Harms were poorly reported and limited to discomfort with lower compliance. The only trial testing quarantining workers with household ILI contacts found a reduction in ILI cases, but increased risk of quarantined workers contracting influenza. All trials were conducted during seasonal ILI activity. CONCLUSIONS: Most included trials had poor design, reporting and sparse events. There was insufficient evidence to provide a recommendation on the use of facial barriers without other measures. We found insufficient evidence for a difference between surgical masks and N95 respirators and limited evidence to support effectiveness of quarantine. Based on observational evidence from the previous SARS epidemic included in the previous version of our Cochrane review we recommend the use of masks combined with other measures.",
+    "affiliations": [
+        "Dalhousie University and funded by the Canadian Institutes of Health Research (2018-2022). TJ consults for Illumina LLC on next generation gene sequencing (2019-). TJ was the consultant scientific coordinator for the HTA Medical Technology programme of the Agenzia per",
+        "Servizi Sanitari Nazionali (AGENAS) of the Italian MoH (2007-2019). TJ is Director Medical Affairs for BC Solutions, a market access company for medical devices in Europe (excluding devices relating to acute respiratory infections). John Conly holds grants from the Canadian Institutes for Health Research, Alberta Innovates-Health Solutions and was the primary local Investigator for",
+        "Staphylococcus aureus vaccine study funded by Pfizer for which all funding was provided only to the University of Calgary for the conduct of the trial. All other authors have no interests to declare"
+    ],
+    "author": "Justin Clark; Tom Jefferson; Ghada Bawazeer; Paul Glasziou; Tammy Hoffman; Mark Jones; Elisabeth Dooley; Eliana Ferroni; John Conly; Sarah Thorning; Lubna A Al Ansari; Mieke Van Driel; Chris Del Mar; Elaine Beller",
+    "date": 2020,
+    "doi": "10.1101/2020.03.30.20047217",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.30.20047217"
+    },
+    "title": "Physical interventions to interrupt or reduce the spread of respiratory viruses. Part 1 - Face masks, eye protection and person distancing: systematic review and meta-analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "John Conly"
+                },
+                {
+                    "funding-source": "Canadian Institutes for Health Research, Alberta"
+                },
+                {
+                    "funding-source": "Innovates-Health Solutions and"
+                },
+                {
+                    "funding-source": "University of Calgary for the"
+                }
+            ],
+            "funding-statement": "John Conly holds grants from the Canadian Institutes for Health Research, Alberta Innovates-Health Solutions and was the primary local Investigator for a Staphylococcus aureus vaccine study funded by Pfizer for which all funding was provided only to the University of Calgary for the conduct of the trial"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "NIHR130721"
+                    ]
+                }
+            ],
+            "funding-statement": "NIHR grant number NIHR130721"
+        }
+    ]
+}

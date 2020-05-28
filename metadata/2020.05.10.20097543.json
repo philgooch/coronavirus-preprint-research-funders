@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The prevalence of true asymptomatic COVID-19 cases is critical to policy makers considering the effectiveness of mitigation measures against the SARS-CoV-2 pandemic. We aimed to synthesize all available research on the asymptomatic rates and transmission rates where possible. Methods: We searched PubMed, Embase, Cochrane COVID-19 trials, and European PMC for pre-print platforms such as MedRxiv. We included primary studies reporting on asymptomatic prevalence where: (a) the sample frame includes at-risk population, and (b) there was sufficiently long follow up to identify pre-symptomatic cases. Meta-analysis used fixed effect and random effects models. Results: We screened 571 articles and included five low risk-of-bias studies from three countries (China (2), USA (2), Italy (1)) that tested 9,242 at-risk people, of which 413 were positive and 65 were asymptomatic. Diagnosis in all studies was confirmed using a RT-qPCR test. The proportion of asymptomatic cases ranged from 6% to 41%. Meta-analysis (fixed effect) found that the proportion of asymptomatic cases was 16% (95% CI: 12% - 20%) overall; higher in non-aged care 19% (15% - 24%), and lower in long-term aged care 8% (4% - 14%). Two studies provided direct evidence of forward transmission of the infection by asymptomatic cases but suggested lower rates than symptomatic cases. Conclusion: Our estimates of the prevalence of asymptomatic COVID-19 cases are lower than many highly publicized studies, but still substantial. Further robust epidemiological evidence is urgently needed, including in sub-populations such as children, to better understand the importance of asymptomatic cases for driving spread of the pandemic.\nCompeting Interest Statement",
+    "author": "Mary-Louise McLaws; Justin Clark; Magnolia Cardona; Katy Bell; Oyungerel Byambasuren; Paul Glasziou",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20097543",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20097543"
+    },
+    "title": "Estimating the extent of true asymptomatic COVID-19 and its potential for community transmission: systematic review and meta-analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this work."
+        }
+    ]
+}

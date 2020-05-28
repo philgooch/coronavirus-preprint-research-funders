@@ -1,0 +1,99 @@
+{
+    "title": "MINERVA: A facile strategy for SARS-CoV-2 whole genome deep sequencing of clinical samples",
+    "author": "Jianbin Wang",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Infectious Diseases, Beijing Ditan Hospital, Capital Medical",
+        "University and Beijing Key Laboratory of Emerging Infectious Diseases",
+        "Beijing 100015, China. 11",
+        "School of Life Sciences, Tsinghua-Peking Center for Life Sciences, Tsinghua",
+        "University, Beijing 100084, China. 13",
+        "Beijing Advanced Innovation Center for Genomics (ICG), Biomedical",
+        "Pioneering Innovation Center (BIOPIC), Peking-Tsinghua Center for Life",
+        "Sciences, Peking University, Beijing 100871, China. 16",
+        "School of Life Sciences, Peking University, Beijing 100871, China. 17",
+        "Division of Life Science, Hong Kong University of Science and Technology",
+        "Hong Kong SAR, China. 19",
+        "Department of Chemical and Biological Engineering, Hong Kong University of 20 Science and Technology, Hong Kong SAR, China 21",
+        "College of Chemistry and Molecular Engineering, Beijing 100871, China 22",
+        "Institute for Cell Analysis, Shenzhen Bay Laboratory, Guangdong 518132, 23 China 24",
+        "Chinese Institute for Brain Research (CIBR), Beijing 102206, China. 25",
+        "Beijing Advanced Innovation Center for Structural Biology (ICSB), Tsinghua 26 University, Beijing 100084, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.25.060947",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.25.060947.pdf"
+    },
+    "abstract": "The novel coronavirus disease 2019 (COVID-19) pandemic poses a serious public health risk. Analyzing the genome of severe acute respiratory syndrome coronavirus 2 (SARS35 CoV-2) from clinical samples is crucial for the understanding of viral spread and viral evolution, as well as for vaccine development. Existing sample preparation methods for viral genome sequencing are demanding on user technique and time, and thus not ideal for time-sensitive clinical samples; these methods are also not optimized for high performance on viral genomes. We have developed MetagenomIc RNA EnRichment VirAl sequencing (MINERVA), a facile, practical, and robust approach for metagenomic and deep viral sequencing from clinical samples. This approach uses direct tagmentation of RNA/DNA hybrids using Tn5 transposase to greatly simplify the sequencing library construction process, while subsequent targeted enrichment can generate viral genomes with high sensitivity, coverage, and depth. We demonstrate the utility of MINERVA on pharyngeal, sputum and stool samples collected from COVID-19 patients, successfully obtaining both whole metatranscriptomes and complete high-depth high-coverage SARS47 CoV-2 genomes from these clinical samples, with high yield and robustness. MINERVA is compatible with clinical nucleic extracts containing carrier RNA. With a shortened hands-on time from sample to virus-enriched sequencing-ready library, this rapid, versatile, and clinic-friendly approach will facilitate monitoring of viral genetic variations during outbreaks, both current and future.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "21675098",
+                        "21927802",
+                        "21525521"
+                    ]
+                },
+                {
+                    "funding-source": "Ministry of Science and Technology of China",
+                    "award-id": [
+                        "2018YFA0800200",
+                        "2018YFA0108100",
+                        "2018YFC1002300"
+                    ]
+                },
+                {
+                    "funding-source": "Beijing Brain Initiation",
+                    "award-id": [
+                        "Z181100001518004"
+                    ]
+                },
+                {
+                    "funding-source": "Beijing Advanced Innovation Center for Structural Biology, Beijing"
+                },
+                {
+                    "funding-source": "Advanced Innovation Center for Genomics, HKUST"
+                },
+                {
+                    "funding-source": "Hong Kong University Grants Committee)"
+                },
+                {
+                    "funding-source": "Hong Kong Research Grants Council Theme-based Research Scheme",
+                    "award-id": [
+                        "RGC TBRS T12-704/16R-2"
+                    ]
+                },
+                {
+                    "funding-source": "RGC TBRS",
+                    "award-id": [
+                        "T12-704/16R-2"
+                    ]
+                },
+                {
+                    "funding-source": "Collaborative Research Fund",
+                    "award-id": [
+                        "RGC CRF C6002-17G"
+                    ]
+                },
+                {
+                    "funding-source": "RGC CRF",
+                    "award-id": [
+                        "C6002-17G"
+                    ]
+                },
+                {
+                    "funding-source": "Hong Kong RGC Early Career  Support",
+                    "award-id": [
+                        "RGC  ECS  26101016"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by National Natural Science Foundation of China (21675098, 21927802, 21525521), Ministry of Science and Technology of China (2018YFA0800200, 2018YFA0108100, 2018YFC1002300), 2018 Beijing Brain Initiation (Z181100001518004), Beijing Advanced Innovation Center for Structural Biology, Beijing Advanced Innovation Center for Genomics, HKUST\u2019s start-up and initiation grants (Hong Kong University Grants Committee), Hong Kong Research Grants Council Theme-based Research Scheme (RGC TBRS T12-704/16R-2) and Collaborative Research Fund (RGC CRF C6002-17G), Hong Kong RGC Early Career  Support  Scheme (RGC  ECS  26101016),"
+        }
+    ]
+}

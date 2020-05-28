@@ -1,0 +1,31 @@
+{
+    "abstract": "The rapid growth in cases of COVID-19 has threatened to overwhelm healthcare systems in multiple countries. In response, severely affected countries have had to consider a range of public health strategies achieved by implementing non-pharmaceutical interventions. Broadly, these strategies have fallen into two categories: i) \"mitigation\", which aims to achieve herd immunity by allowing the SARS-CoV-2 virus to spread through the population while mitigating disease burden, and ii) \"suppression\", aiming to drastically reduce SARS-CoV-2 transmission rates and halt endogenous transmission in the target population. Using an age-structured transmission model, parameterised to simulate SARS-CoV-2 transmission in the UK, we assessed the prospects of success using both of these approaches. We simulated a range of different non-pharmaceutical intervention scenarios incorporating social distancing applied to differing age groups. We found that it is possible to suppress SARS-CoV-2 transmission if social distancing measures are sustained at a sufficient level for a period of months. Our modelling did not support achieving herd immunity as a practical objective, requiring an unlikely balancing of multiple poorly-defined forces. Specifically, we found that: i) social distancing must initially reduce the transmission rate to within a narrow range, ii) to compensate for susceptible depletion, the extent of social distancing must be vary over time in a precise but unfeasible way, and iii) social distancing must be maintained for a long duration (over 6 months).",
+    "affiliations": [
+        "National Institute of Health through",
+        "MIDAS (Models of infectious disease agent study) grant 5R01GM123007"
+    ],
+    "author": "Pejman Rohani; Tobias Brett",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20082065",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20082065"
+    },
+    "title": "COVID-19 herd immunity strategies: walking an elusive and dangerous tightrope",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Health"
+                },
+                {
+                    "funding-source": "MIDAS",
+                    "award-id": [
+                        "Models of infectious disease agent study",
+                        "5R01GM123007"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is funded by the National Institute of Health through a MIDAS (Models of infectious disease agent study) grant 5R01GM123007"
+        }
+    ]
+}

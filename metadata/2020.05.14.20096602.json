@@ -1,0 +1,16 @@
+{
+    "abstract": "Due to the ongoing coronavirus disease (COVID-19) pandemic, there are concerns that patients may be avoiding care for emergent and urgent health conditions due to fear of contagion or as an unintentional consequence of government orders to postpone non-essential services. We therefore sought to evaluate the effect of the COVID-19 pandemic on the number of patient encounters for select emergent or urgent diagnoses at a large tertiary-care academic medical center in Boston. Inpatient diagnoses included acute myocardial infarction (MI) and stroke, and outpatient but urgent diagnoses included new referrals for breast and hematologic malignancies. For each condition, we used a difference-in-differences approach to estimate the proportional change in number of encounters during the pandemic (March-April 2020) compared with earlier in the same year (January-February 2020), using equivalent periods in 2019 as a control. After the onset of the pandemic, we observed significant reductions in hospitalizations for MI (difference-in-differences estimate, 0.67; 95%CI, 0.46-0.96; P=0.04) and stroke (difference-in-differences estimate, 0.42; 95%CI, 0.28-0.65; P<0.001) (Table). In the ambulatory setting, there was a reduction in referrals for breast cancer and hematologic cancers, but this did not reach statistical significance until the month after the onset of the pandemic. Our findings suggest an urgent need for public health messaging to ensure that patients continue to seek care for acute emergencies. In addition, decisions by health systems regarding when to reinitiate non-emergent care should carefully factor in the harms of delayed diagnosis and treatment occurring during the COVID-19 pandemic.",
+    "author": "Kalon K.L. Ho; Mark L. Zeidel; Kevin Tabb; Magdy H. Selim; Peter Zimetbaum; Changyu Shen; Robert W. Yeh; Dhruv S Kazi; Rishi K Wadhera; John H. Urwin; Rushad Patell",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20096602",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20096602"
+    },
+    "title": "Decline in Emergent and Urgent Care during the COVID-19 Pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding for this work."
+        }
+    ]
+}

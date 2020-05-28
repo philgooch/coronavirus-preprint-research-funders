@@ -1,0 +1,44 @@
+{
+    "title": "Search for SARS-CoV-2 inhibitors in currently approved drugs to tackle COVID-19 pandemia",
+    "author": "Jordi Rodon, Marc Noguera-Julian, Itziar Erkizia, Alfonso Valencia, V\u00edctor Guallar, Jorge Carrillo, Juli\u00e0 Blanco, Joaquim Segal\u00e9s, Bonaventura Clotet, J\u00falia Vergara-Alert, Nuria Izquierdo-Useros",
+    "date": 2020,
+    "affiliations": [
+        "Centre de Recerca en Sanitat Animal (CReSA, IRTA-UAB), Campus de la UAB, 08193 Bellaterra (Cerdanyola del Vall\u00e8s), Spain",
+        "IrsiCaixa AIDS Research Institute, 08916, Badalona, Spain",
+        "Barcelona Supercomputing Center",
+        "Catalan Institution for Research and Advanced Studies (ICREA), Barcelona, Spain",
+        "Pujol Research Institute (IGTP), Can Ruti Campus, 08916, Badalona, Spain",
+        "University of Vic\u2013Central University of Catalonia (UVic-UCC), Vic, Spain",
+        "UAB, CReSA (IRTA-UAB), Campus de la UAB, 08193 Bellaterra (Cerdanyola del Vall\u00e8s), Spain",
+        "Departament de Sanitat",
+        "Anatomia Animals, Facultat de Veterin\u00e0ria, UAB, 08193 Bellaterra (Cerdanyola del Vall\u00e8s), Spain"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.23.055756",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.23.055756.pdf"
+    },
+    "abstract": "(196) Different treatments are currently used for clinical management of SARS-CoV-2 infection, but little is known about their efficacy yet. Here we present ongoing results to compare currently available drugs for a variety of diseases to find out if they counteract SARS-CoV-2-induced cytopathic effect in vitro. Our goal is to prioritize antiviral activity to provide a solid evidence-driven rationale for forthcoming clinical trials. Since the most effective antiviral approaches are usually based on combined therapies that tackle the viral life cycle at different stages, we are also testing combinations of drugs that may be critical to reduce the emergence of resistant viruses. We will provide results as soon as they become available, so data should be interpreted with caution, clearly understanding the limitations of the in vitro model, that may not always reflect what could happen in vivo. Thus, our goal is to test the most active antivirals identified in adequate animal models infected with SARS-CoV-2, to add more information about possible in vivo efficacy. In turn, successful antivirals could be tested in clinical trials as treatments for infected patients, but also as pre-exposure prophylaxis to avoid novel infections until an effective and safe vaccine is developed.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Pilar Armengol and the"
+                },
+                {
+                    "funding-source": "Institut de Recerca Germans Trias"
+                },
+                {
+                    "funding-source": "FINANCIAL SUPPORT The",
+                    "award-id": [
+                        "constituted by IRTA-CReSA",
+                        "IrsiCaixa"
+                    ]
+                }
+            ],
+            "funding-statement": "Pilar Armengol and the translational genomics platform team at the Institut de Recerca Germans Trias i Pujol. FINANCIAL SUPPORT The research of CBIG consortium (constituted by IRTA-CReSA, BSC, & IrsiCaixa) is supported by Grifols pharmaceutical"
+        }
+    ]
+}

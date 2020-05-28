@@ -1,0 +1,36 @@
+{
+    "abstract": "SARS-CoV-2 is the virus that causes coronavirus disease (COVID-19) which has reached pandemic levels resulting in significant morbidity and mortality affecting every inhabited continent. The large number of patients requiring intensive care threatens to overwhelm healthcare systems globally. Likewise, there is a compelling need for a COVID-19 disease severity test to prioritize care and resources for patients at elevated risk of mortality. Here, an integrated point-of-care COVID-19 Severity Score and clinical decision support system is presented using biomarker measurements of C-reactive protein (CRP), N-terminus pro B type natriuretic peptide (NT-proBNP), myoglobin (MYO), D-dimer, procalcitonin (PCT), creatine kinase-myocardial band (CK-MB), and cardiac troponin I (cTnI). The COVID-19 Severity Score combines multiplex biomarker measurements and risk factors in a statistical learning algorithm to predict mortality. The COVID-19 Severity Score was trained and evaluated using data from 160 hospitalized COVID-19 patients from Wuhan, China. Our analysis finds that COVID-19 Severity Scores were significantly higher for the group that died versus the group that was discharged with median (interquartile range) scores of 59 (40-83) and 9 (6-17), respectively, and area under the curve of 0.94 (95% CI 0.89-0.99). These promising initial models pave the way for a point-of-care COVID-19 Severity Score system to impact patient care after further validation with externally collected clinical data. Clinical decision support tools for COVID-19 have strong potential to empower healthcare providers to save lives by prioritizing critical care in patients at high risk for adverse outcomes.",
+    "affiliations": [
+        "NIH through the National Institute of Dental and Craniofacial Research (NIH grant no. 3U01DE017793-02S1 and 5U01DE017793-2). The content is solely the responsibility of the authors and does not necessarily represent or reflect views of the NIH, or the Federal Government"
+    ],
+    "author": "David Fenyo; Sayli S Modak; John T McDevitt; Ravi Shrivastav; Glennon W Simmons; Nicolaos J Christodoulides; Deniz Vurmaz; Isaac P Dapkins; Iman Sharif; Shruti Warhadpande; Stella K Kang; Michael P McRae; Timothy Alcorn; Zhibing Lu; Kritika Srinivasan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20068411",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20068411"
+    },
+    "title": "Clinical Decision Support Tool and Rapid Point-of-Care Platform for Determining Disease Severity in Patients with COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "National Institute of Dental and Craniofacial Research",
+                    "award-id": [
+                        "3U01DE017793-02S1"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "3U01DE017793-02S1",
+                        "5U01DE017793-2"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding was provided by NIH through the National Institute of Dental and Craniofacial Research (NIH grant no. 3U01DE017793-02S1 and 5U01DE017793-2)"
+        }
+    ]
+}

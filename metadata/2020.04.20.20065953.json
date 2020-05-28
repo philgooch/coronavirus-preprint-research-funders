@@ -1,0 +1,46 @@
+{
+    "title": "The production of antibodies for SARS-CoV-2 and its clinical implication",
+    "author": "Qianfang Hu MD,Xiaoping Cui MD,Xinzhu Liu MD, Bin Peng PhD,Jinyue Jiang PhD, Xiaohui Wang PhD,Yan Li MD,Wenhui Hu MD,Zhi Ao PhD,Jun Duan MD,Xue Wang MD,Linxiao Zhu MD,Guicheng Wu MD, Shuliang Guo,PhD",
+    "date": 2020,
+    "affiliations": [
+        "Department of Respiratory and Critical Care Medicine, the First Affiliated Hospital of Chongqing Medical University, No.1, Youyi Road, Yuzhong District, Chongqing, China",
+        "Department of Medical Laboratory, Chongqing Three Gorges Central Hospital, No.165, Xincheng Road, Wanzhou District, Chongqing, China",
+        "Department of Health Statistics, School of Public Health and Management, Chongqing Medical University, No.1, Yixueyuan Road, Yuzhong District, Chongqing, China",
+        "Department of Health Management Centre, Chongqing Three Gorges Central Hospital, No.165, Xincheng Road, Wanzhou District, Chongqing, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.20.20065953",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20065953.pdf"
+    },
+    "abstract": "Background: Severe acute respiratory syndrome coronavirus 2(SARS-CoV-2), a novel betacoronavirus, has caused an outburst of pneumonia cases in Wuhan, China. We report the production of specific IgM and IgG antibodies after the infection of SARS-CoV-2 and its implication for the diagnosis, pathology and the course of the disease as well as the recurrence of positive nucleic acid tests after discharge.\nMethods: Test results for SARS-CoV-2 IgM and IgG antibodies of 221 confirmed COVID-19 patients were retrospectively examined, and their clinical data were collected and analyzed based on various subgroups. SARS-CoV-2 IgM and IgG antibodies were determined with the chemiluminescence method.\nFindings: The concentration (S/CO) of SARS-CoV-2 IgM and IgG antibodies peaked on day 19-21 after symptom onset, with a median of 17.38 (IQR 4.39-36.4) for IgM and 5.59 (IQR 0.73-13.65) for IgG. Detection rates reached highest on day 16-18 and day 19-21 for IgM and IgG, which were 73.6% and 98.6%, respectively, with significantly higher concentration of IgG in critically ill patients than in those with mild to moderate disease (P=0.027). The concentration of the antibodies on day 16-21 is not correlated with the course or outcome of the disease (Spearman r < 0.20, P > 0.05). Nasopharyngeal swabs revealed positive SARS-CoV-2 RNA in up to 52.7% of recovered patients after discharge, whose IgG proved to be significantly lower than that of those with negative RNA results (P = 0.009). IgG and IgM were tested twice within 14 days after discharge with a 7-day interval, and the second testing of these antibodies displayed a decrease in concentration of 21.2% (IQR, 11.2%,34.48%) for IgG and",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chongqing Education Board",
+                    "award-id": [
+                        "KYYJ202006"
+                    ]
+                },
+                {
+                    "funding-source": "Chongqing Science and Technology Bureau"
+                }
+            ],
+            "funding-statement": "1. Chongqing Education Board \u201cnew coronavirus infection and prevention\u201d emergency scientific research project (KYYJ202006). 2. Chongqing Science and Technology Bureau \u201cnew crown pneumonia epidemic emergency science and technology special\u201d the fourth batch of projects. 3. Famous teacher project of Chongqing talent plan"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chongqing Education Board, Chongqing"
+                },
+                {
+                    "funding-source": "Science and Technology Bureau, Famous"
+                }
+            ],
+            "funding-statement": "Chongqing Education Board, Chongqing Science and Technology Bureau, Famous teacher project of Chongqing talent plan"
+        }
+    ]
+}

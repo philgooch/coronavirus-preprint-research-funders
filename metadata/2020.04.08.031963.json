@@ -1,0 +1,31 @@
+{
+    "title": "BioLaboro: A bioinformatics system for detecting molecular assay signature erosion and 2 designing new assays in response to emerging and reemerging pathogens 3 4 Mitchell Holland1, Daniel Negr\u00f3n1, Shane Mitchell1, Nate Dellinger1, Mychal Ivancich1, Tyler 5 Barrus1, Sterling Thomas1, Katharine W. Jennings 1, Bruce Goodwin2, and Shanmuga 6 Sozhamannan2, 3 7 1Noblis, Reston, VA, 20191, USA 8 2 Defense Biological Product Assurance Office (DBPAO), Joint Program Executive Office for 9 Chemical, Biological, Radiological and Nuclear Defense (JPEO-CBRND), Enabling 10 Biotechnologies, Frederick, MD 21702, USA 11 3Logistics Management Institute, Tysons, VA 22102, USA 12 Corresponding author: Shanmuga Sozhamannan, Ph. D. 13 E. mails for communication: 14 Shanmuga.Sozhamannan.ctr@mail.mil; 301-619-8430 15 Key words: infectious diseases, preparedness, detection assays, next generation sequencing, 16 biosurveillance, genome sequence, diagnostics, signature erosion, Ebolavirus, Bombali 17 ebolavirus, BOMV, SARS-CoV-2, Real-time PCR assays",
+    "date": 2020,
+    "affiliations": [
+        "Logistics Management Institute, Tysons, VA 22102, USA",
+        "Corresponding author: Shanmuga Sozhamannan, Ph. D. 13 E. mails for communication:",
+        "",
+        "Key words: infectious diseases, preparedness, detection assays, next generation sequencing, 16 biosurveillance, genome sequence, diagnostics, signature erosion, Ebolavirus, Bombali 17 ebolavirus, BOMV, SARS-CoV-2, Real-time PCR assays"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.08.031963",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.08.031963.pdf"
+    },
+    "abstract": "Background: Emerging and reemerging infectious diseases such as the novel Coronavirus disease, COVID-19 and Ebola pose a significant threat to global society and test the public health community\u2019s preparedness to rapidly respond to an outbreak with effective diagnostics and therapeutics. Recent advances in next generation sequencing technologies enable rapid generation of pathogen genome sequence data, within 24 hours of obtaining a sample in some instances. With these data, one can quickly evaluate the effectiveness of existing diagnostics and therapeutics using in silico approaches. The propensity of some viruses to rapidly accumulate mutations can lead to the failure of molecular detection assays creating the need for redesigned or newly designed assays.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Defense Biological Product Assurance Office of the US Department of Defense",
+                    "award-id": [
+                        "W911QY-17-C-0016"
+                    ]
+                }
+            ],
+            "funding-statement": "BioLaboro was developed by Noblis with funding received from the Defense Biological Product Assurance Office of the US Department of Defense under contract number W911QY-17-C-0016. The funding body did not play any roles in the design of the study and collection, analysis, and interpretation of data and in writing the manuscript. BioVelocity is a patented and trademarked tool developed by Noblis exclusively at its private expense. The research and reports related to the SARS-CoV-2 work also was funded exclusively by Noblis at its private expense. Authors' contributions: MH, DN, SM, SS conceptualized the study. MH, DN, SM, ND, MI, ST developed BioLaboro. MH, DN, SM, SS analyzed the data. BG provided study resources. MH, DN, SM, MI, TB, KJ, SS wrote and edited the manuscript."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "abstract": "Importance: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection causes coronavirus disease 2019 (Covid-19), an evolving pandemic. Limited data are available characterizing SARS-Cov-2 infection in the United States. Objective: To determine associations between demographic and clinical factors and testing positive for coronavirus 2019 (Covid-19+), and among Covid-19+ subsequent hospitalization and intensive care. Design, Setting, and Participants: Retrospective cohort study including all patients tested for Covid-19 between February 8 and March 30, 2020, inclusive. We extracted electronic health record data from the national Veterans Affairs Healthcare System, the largest integrated healthcare system in the United States, on 2,026,227 patients born between 1945 and 1965 and active in care. Exposures: Demographic data, comorbidities, medication history, substance use, vital signs, and laboratory measures. Laboratory tests were analyzed first individually and then grouped into a validated summary measure of physiologic injury (VACS Index). Main Outcomes and Measures: We evaluated which factors were associated with Covid-19+ among all who tested. Among Covid-19+ we identified factors associated with hospitalization or intensive care. We identified independent associations using multivariable and conditional multivariable logistic regression with multiple imputation of missing values. Results: Among Veterans aged 54-75 years, 585/3,789 (15.4%) tested Covid-19+. In adjusted analysis (C-statistic=0.806) black race was associated with Covid-19+ (OR 4.68, 95% CI 3.79-5.78) and the association remained in analyses conditional on site (OR 2.56, 95% CI 1.89-3.46). In adjusted models, laboratory abnormalities (especially fibrosis-4 score [FIB-4] >3.25 OR 8.73, 95% CI 4.11-18.56), and VACS Index (per 5-point increase OR 1.62, 95% CI 1.43-1.84) were strongly associated with hospitalization. Associations were similar for intensive care. Although significant in unadjusted analyses, associations with comorbid conditions and medications were substantially reduced and, in most cases, no longer significant after adjustment. Conclusions and Relevance: Black race was strongly associated with Covid-19+, but not with hospitalization or intensive care. Among Covid-19+, risk of hospitalization and intensive care may be better characterized by laboratory measures and vital signs than by comorbid conditions or prior medication exposure.",
+    "affiliations": [
+        "National Institute on Alcohol Abuse and Alcoholism [U01-AA026224, U24-AA020794, U01-AA020790, U10-AA013566]"
+    ],
+    "author": "Matthew S. Freiberg; Farah Kidwai-Khan; Kristina Crothers; Christopher I. Jarvis; Christopher T. Rentsch; Lesley S. Park; Melissa Skanderson; Anna Schultze; Mark Holodniy; Joseph T. King; Tamar H. Taddei; Ronald G. Hauser; Janet P. Tate; Vincent Lo Re; Kathleen M. Akgun; Amy C. Justice",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059964",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059964"
+    },
+    "title": "Covid-19 Testing, Hospital Admission, and Intensive Care Among 2,026,227 United States Veterans Aged 54-75 Years",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute on Alcohol Abuse and Alcoholism",
+                    "award-id": [
+                        "U01-AA026224",
+                        "U24-AA020794",
+                        "U01-AA020790",
+                        "U10-AA013566"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by National Institute on Alcohol Abuse and Alcoholism [U01-AA026224, U24-AA020794, U01-AA020790, U10-AA013566]"
+        }
+    ]
+}

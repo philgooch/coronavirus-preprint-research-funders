@@ -1,0 +1,44 @@
+{
+    "title": "The potential genetic network of human brain SARS-CoV-2 infection",
+    "date": 2020,
+    "author": "Colline Lapina ,3 Mathieu Rodic 1, Denis Peschanski 4, and Salma Mesmoudi 1, 5",
+    "affiliations": [
+        "Graduate School in Cognitive Engineering (ENSC). Talence. France",
+        "Complex Systems Institute Paris \u00eele-de-France. Paris. France",
+        "CNRS, Paris-1-Panth\u00e9on-Sorbonne University. CESSP-UMR8209. Paris. France",
+        "MATRICE Equipex. Paris. France"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.06.027318",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.06.027318.pdf"
+    },
+    "abstract": "The literature reports several symptoms of SARS-CoV-2 in humans such as fever, cough, fatigue, pneumonia, and headache. Furthermore, patients infected with similar strains (SARS-CoV and MERS-CoV) suffered testis, liver, or thyroid damage. Angiotensin-converting enzyme 2 (ACE2) serves as an entry point into cells for some strains of coronavirus (SARS-CoV, MERS-CoV, SARS-CoV-2). Our hypothesis was that as ACE2 is essential to the SARS-CoV-2 virus invasion, then brain regions where ACE2 is the most expressed are more likely to be disturbed by the infection. Thus, the expression of other genes which are also over-expressed in those damaged areas could be affected. We used mRNA expression levels data of genes provided by the Allen Human Brain Atlas (ABA), and computed spatial correlations with the LinkRbrain platform. Genes whose co-expression is spatially correlated to that of ACE2 were then clustered into 16 groups, depending on the organ in which they are the most expressed (as described by the NCBI genes database). The list of organs where genes sharing local over-expression with the ACE2 gene are the most expressed is astonishingly similar to the organs affected by Covid-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "French General Secretariat for"
+                },
+                {
+                    "funding-source": "National Research Agency",
+                    "award-id": [
+                        "PIA ANR-10-EQPX-0021-01",
+                        "prematuration program"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded by the French General Secretariat for investment (SGPI) via the National Research Agency (ANR) \u201cProgramme d\u2019investissement d\u2019Avenir (PIA ANR-10-EQPX-0021-01)\u201d and by the CNRS innovation (prematuration program)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "HESAM Universit\u00e9. Author"
+                }
+            ],
+            "funding-statement": "This program is administratively sponsored by the HESAM Universit\u00e9. Author Contributions"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "abstract": "Background: As COVID-19 continues to spread around the world, understanding how patterns of human mobility and connectivity affect outbreak dynamics, especially before outbreaks establish locally, is critical for informing response efforts. Methods: Here, in collaboration with Facebook Data for Good, we built metapopulation models that incorporate human movement data with the goals of identifying the high risk areas of disease spread and assessing the potential effects of local travel restrictions in Taiwan. We compared the impact of intracity vs. intercity travel restrictions on both the total number of infections and the speed of outbreak spread and developed an interactive application that allows users to vary inputs and assumptions. Findings: We found that intracity travel reductions have a higher impact on overall infection numbers than intercity travel reductions, while intercity travel reductions can narrow the scope of the outbreak and help target resources. We also identified the most highly connected areas that may serve as sources of importation during an outbreak. The timing, duration, and level of travel reduction together determine the impact of travel reductions on the number of infections, and multiple combinations of these can result in similar impact. Interpretation: In Taiwan, most cases to date were imported or linked to imported cases. To prepare for the potential spread within Taiwan, we utilized Facebook's aggregated and anonymized movement and colocation data to identify cities with higher risk of infection and regional importation. Both intracity and intercity movement affect outbreak dynamics, with the former having more of an impact on the total numbers of cases and the latter impacting geographic scope. These findings have important implications for guiding future policies for travel restrictions during outbreaks in Taiwan.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Institute of General Medical Sciences (U54GM088558), COB was supported by National Institute of General Medical Sciences (R35GM124715-02). The funders had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institute Of General Medical Sciences, the National Institutes of Health, or other contributing agencies"
+    ],
+    "author": "Caroline O Buckee; Meng-Chun Chang; Yu-An Li; Cheng-Sheng Lee; Hsiao-Han Chang; Rebecca Kahn",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20053439",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20053439"
+    },
+    "title": "Modeling the impact of human mobility and travel restrictions on the potential spread of SARS-CoV-2 in Taiwan",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Science and Technology in Taiwan",
+                    "award-id": [
+                        "MOST 109-2636-B-007-006"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by the Ministry of Science and Technology in Taiwan (MOST 109-2636-B-007-006)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Yushan Scholar Program, CSL"
+                },
+                {
+                    "funding-source": "Ministry of Science and Technology in Taiwan",
+                    "award-id": [
+                        "MOST109-2636-B-007-004"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of General Medical Sciences",
+                    "award-id": [
+                        "U54GM088558"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of General Medical Sciences",
+                    "award-id": [
+                        "R35GM124715-02"
+                    ]
+                }
+            ],
+            "funding-statement": "MCC, YAL, and HHC were supported by Yushan Scholar Program, CSL was supported by the Ministry of Science and Technology in Taiwan (MOST109-2636-B-007-004), RK was supported by National Institute of General Medical Sciences (U54GM088558), COB was supported by National Institute of General Medical Sciences (R35GM124715-02)"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "abstract": "Huang et al. (2019) used their EpiRank algorithm, which emphasizes forward-and-backward commuter flow between homes and workplaces, to analyze the distribution patterns of two infectious diseases in Taiwan: the 2009-H1N1 influenza virus and the widespread emergence of the 2000-2008 type 71 enterovirus (EV). As this article was being prepared, the spreading mechanism of the novel coronavirus disease now designated as COVID-19 had yet to be identified, but according to the American Centers for Disease Control, its spreading mechanism and patterns are likely more similar to influenza than to other coronaviruses such as Severe Acute Respiratory Syndrome (SARS-CoV-1) or Middle East Respiratory Syndrome (MERS-CoV). To consider potential COVID-19 spatial patterns, we applied EpiRank to the 2003 SARS outbreak in north Taiwan for comparison with H1N1 and EV. SARS was found to be less contagious than H1N1 or EV, but with a significantly higher fatality rate. The characteristics of these diseases determined their specific spatial spreading patterns, as reflected in the different effects of forward and backward commuting movement. Our motivation is to highlight these differences and to illustrate EpiRank spatial patterns for the 2003 SARS outbreak for comparison with EpiRank-determined distributions for the H1N1 and EV outbreaks. Our results indicate that the daytime parameter (i.e., forward movement effect) range was slightly higher (0.5-0.55) for the SARS outbreak than for either the influenza (0.4-0.5) or EV (0.3-0.5) outbreaks, suggesting that the forward-and-backward movements of individuals between residential and core urban areas with concentrated populations were equally important regarding the spread of SARS. While COVID-19 might resemble either SARS or H1N1 in terms of spatial spreading, its daytime parameter is likely somewhere in-between, with backward movement being dominant (similar to H1N1) or with forward and backward movement being equally important (similar to SARS). Building on Huang et al. (2019) paper, we present an estimated risk distribution pattern for the Taipei Metropolitan Area for a daytime parameter of 0.55.",
+    "affiliations": [
+        "Research Center of Chang Gung University, Taiwan"
+    ],
+    "author": "Chung-Yuan Huang; Wei Chien Benny Chin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072736",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072736"
+    },
+    "title": "Using EpiRank for Analyzing Emerging Coronavirus Epidemic Patterns",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Republic of China Ministry of Science and Technology",
+                    "award-id": [
+                        "MOST-107-2221-E-182-069"
+                    ]
+                },
+                {
+                    "funding-source": "High Speed Intelligent Communication"
+                },
+                {
+                    "funding-source": "Research Center of Chang Gung University, Taiwan"
+                }
+            ],
+            "funding-statement": "This work was supported by the Republic of China Ministry of Science and Technology (MOST-107-2221-E-182-069) and the High Speed Intelligent Communication (HSIC) Research Center of Chang Gung University, Taiwan"
+        }
+    ]
+}

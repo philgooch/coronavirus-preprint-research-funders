@@ -1,0 +1,23 @@
+{
+    "abstract": "We explored the impact of physical distancing measures on COVID-19 transmission in the population of Ontario, Canada using a previously described age- and health-status stratified transmission model. The model was fit to confirmed cases occupying intensive care unit (ICU) beds and mortality among hospitalized COVID-19 cases for the time period 19 March to 26 April 2020. We projected that mortality would have been 4.6-fold what was observed had physical distancing measures not been implemented in the province. Relaxation of physical distancing measures without compensatory increases in case detection, isolation, and/or contact tracing was projected to result in resurgence of disease activity. Return to normal or near-normal levels of contact would rapidly result in cases exceeding ICU capacity. Maintaining physical distancing for a longer period of time, allowing for the initial wave of infections to subside, delayed this resurgence, but the level of contacts post-restrictive distancing was the major factor determining how quickly ICU capacity was expected to be overwhelmed. Using a model, we demonstrate the marked impact strong public health measures had in reducing ICU admissions and mortality in Ontario. We also show that this hard-earned success is tenuous: relaxation of physical distancing measures in the near-term is projected to result in a rapid resurgence of disease activity.",
+    "author": "Amy L Greer; David N Fisman; Steven De Keninck; Ashleigh Tuite",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20084475",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20084475"
+    },
+    "title": "Reduced COVID-19-Related Critical Illness and Death, and High Risk of Epidemic Resurgence, After Physical Distancing in Ontario, Canada",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "DNF from the Canadian Institutes for Health Research",
+                    "award-id": [
+                        "2019 COVID-19 rapid researching funding OV4-170360"
+                    ]
+                }
+            ],
+            "funding-statement": "The research was supported by a grant to DNF from the Canadian Institutes for Health Research (2019 COVID-19 rapid researching funding OV4-170360)"
+        }
+    ]
+}

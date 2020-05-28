@@ -1,0 +1,60 @@
+{
+    "abstract": "Background: There are concerns that COVID-19 is having adverse effects on mental health. But it remains unclear whether this is being caused by worries over potential adversities due to the pandemic, or the toll of experiencing adverse events. Aims: To explore the time-varying longitudinal relationship between (i) worries about adversity, and (ii) experience of adversity, and both anxiety and depression and test the moderating role of socio-economic position. Methods: Data from 35,784 UK adults in the UCL COVID -19 Social Study (a panel study collecting data weekly during the Covid-19 pandemic) were analysed from 01/04/2020-28/04/2020. The sample was well-stratified and weighted to population proportions of gender, age, ethnicity, education and geographical location. Fixed effects regression was used to explore within-person variation over time. Results: Cumulative number of worries and experience of adversities were both related to higher levels of anxiety and depression. Number of worries were associated more with anxiety than depression, but number of experiences were equally related to anxiety and depression. Individuals of lower socio-economic position were more negatively affected psychologically by adverse experiences. Conclusions: Measures over the first few weeks of lockdown in the UK appear to have been insufficient at reassuring people given we are still seeing clear associations with poor mental health both for cumulative worries and also for a range of specific worries relating to finance, access to essentials, personal safety and COVID-19. Interventions are required that both seek to prevent adverse events (e.g. redundancies) and that reassure individuals and support adaptive coping strategies.\nCompeting Interest Statement",
+    "author": "Andrew Steptoe; Daisy Fancourt; Liam Wright",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20101717",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20101717"
+    },
+    "title": "How are adversities during COVID-19 affecting mental health? Differential associations for worries and experiences and implications for policy",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "This Covid-19 Social Study"
+                },
+                {
+                    "funding-source": "Nuffield Foundation",
+                    "award-id": [
+                        "WEL/FR-000022583"
+                    ]
+                }
+            ],
+            "funding-statement": "This Covid-19 Social Study was funded by the Nuffield Foundation [WEL/FR-000022583], but the views expressed are those of the authors and not necessarily the Foundation"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "MARCH Mental Health Network"
+                },
+                {
+                    "funding-source": "Cross-Disciplinary Mental Health Network Plus"
+                },
+                {
+                    "funding-source": "UK Research and Innovation",
+                    "award-id": [
+                        "ES/S002588/1"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "221400/Z/20/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "The study was also supported by the MARCH Mental Health Network funded by the Cross-Disciplinary Mental Health Network Plus initiative supported by UK Research and Innovation [ES/S002588/1], and by the Wellcome Trust [221400/Z/20/Z]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "205407/Z/16/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "DF was funded by the Wellcome Trust [205407/Z/16/Z]"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "abstract": "Limited evidence is available to guide treatment of coronavirus disease 2019 (COVID-19), caused by the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). A hyperinflammatory state mediated by interleukin-6 (IL-6) has been proposed as a driver of severe disease. Use of the IL-6 receptor inhibitor tocilizumab for severe COVID-19 was first reported in China, where a case series described marked improvements in inflammatory markers, fever, oxygen requirement, and outcomes following its administration. Here, we provide the first description of a tocilizumab-treated cohort of patients with COVID-19 in the United States. We describe 11 patients from a single academic medical center, nine (82%) of whom were critically ill requiring mechanical ventilation in an intensive care unit at the time of tocilizumab administration. C-reactive protein levels decreased in all patients following treatment (median 211.6 pre- vs. 19.7 mg/L 5 days post-tocilizumab [p=0.001]). When IL-6 levels were obtained before and after therapy, wide variation was seen in baseline levels; post-dose IL-6 concentrations were consistently increased. In contrast to prior reports, we did not observe significant clinical improvement in temperature or oxygen requirements in most patients. Two patients were discharged (18%), five remained in critical condition in the intensive care unit (46%), one was weaned off the ventilator to room air (9%), and three died (27%). Our findings suggest that tocilizumab should be used with caution in severe and critically ill patients and highlight the need for data from randomized controlled trials to determine its efficacy in the treatment of COVID-19.",
+    "affiliations": [
+        "University of North Carolina at Chapel Hill Medical Scientist Training Program. CAR additionally receives training support from the National Institutes of Health MD/PhD Partnership Program"
+    ],
+    "author": "Brian Bramson; Griffin J Bell; Camille E Morgan; William A Fischer; Cynthia L Gay; Tanner Hedrick; Shannon S Carson; Sonia Napravnik; Joseph J Eron; John L Schmitz; Jonathan B Parr; Ashley Marx; Min K Kim; Casey Allison Rimland",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20100404",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20100404"
+    },
+    "title": "Clinical characteristics and early outcomes in patients with COVID-19 treated with tocilizumab at a United States academic center",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Gilead Sciences and the World Health Organization,"
+                },
+                {
+                    "funding-source": "Abbott Laboratories"
+                }
+            ],
+            "funding-statement": "JBP reports research support outside the submitted work from Gilead Sciences and the World Health Organization, and non-financial support from Abbott Laboratories"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "MD/P"
+                    ]
+                },
+                {
+                    "funding-source": "PhD Partnership Program"
+                }
+            ],
+            "funding-statement": "CAR additionally receives training support from the National Institutes of Health MD/PhD Partnership Program"
+        }
+    ]
+}

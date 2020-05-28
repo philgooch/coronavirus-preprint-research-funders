@@ -1,0 +1,64 @@
+{
+    "title": "Analysis of SARS-CoV-2 Antibodies in COVID-19 Convalescent Blood using a Coronavirus Antigen Microarray",
+    "date": 2020,
+    "author": "California, Irvine, CA 2. Institute for Applied Environmental Health, School of Public Health, University of",
+    "affiliations": [
+        "Department of Physiology and Biophysics, School of Medicine, University of",
+        "Institute for Applied Environmental Health, School of Public Health, University of",
+        "Vitalant Research Institute, San Francisco, CA",
+        "Department of Laboratory Medicine, University of California, San Francisco, CA",
+        "Cerus Corporation, Concord, CA",
+        "Department of Surgery, Oregon Health & Science University, Portland, OR",
+        "Division of Infectious Diseases & Hospital Epidemiology, University Hospital Basel",
+        "University of Basel, Basel, Switzerland",
+        "Ortho Clinical Diagnostics, Rochester, NY",
+        "Division of Infectious Diseases, Department of Medicine, University of California Irvine"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.15.043364",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.15.043364.pdf"
+    },
+    "abstract": "The current practice for diagnosis of COVID-19, based on SARS-CoV-2 PCR testing of pharyngeal or respiratory specimens in a symptomatic patient at high epidemiologic risk, likely underestimates the true prevalence of infection. Serologic methods can more accurately estimate the disease burden by detecting infections missed by the limited testing performed to date. Here, we describe the validation of a coronavirus antigen microarray containing immunologically significant antigens from SARS-CoV-2, in addition to SARS-CoV, MERS-CoV, common human coronavirus strains, and other common respiratory viruses. A comparison of antibody profiles detected on the array from control sera collected prior to the SARS-CoV-2 pandemic versus convalescent blood specimens from virologically confirmed COVID-19 cases demonstrates near complete discrimination of these two groups, with improved performance from use of antigen combinations that include both spike protein and nucleoprotein. This array can be used as a diagnostic tool, as an epidemiologic tool to more accurately estimate the disease burden of COVID-19, and as a research tool to correlate antibody responses with clinical outcomes.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Center for Research Resources and the National Center for Advancing Translational Sciences, National"
+                },
+                {
+                    "funding-source": "Institutes of Health,",
+                    "award-id": [
+                        "TR001416"
+                    ]
+                }
+            ],
+            "funding-statement": "Khan is supported by the National Center for Research Resources and the National Center for Advancing Translational Sciences, National Institutes of Health, through Grant KL2 TR001416"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Defense Advanced Research Projects Agency"
+                }
+            ],
+            "funding-statement": "Prometheus-UMD was sponsored by the Defense Advanced Research Projects Agency (DARPA) BTO under the auspices of Col"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Defense Threat Reduction Agency",
+                    "award-id": [
+                        "HDTRA1-18-1-0036"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded in part by the Defense Threat Reduction Agency via grants HDTRA1-18-1-0036 (PI: H"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "The findings and conclusions in this report are those of the authors and do not necessarily represent the official position or policy of the funding agencies and no official endorsements should be inferred"
+        }
+    ]
+}

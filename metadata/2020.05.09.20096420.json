@@ -1,0 +1,19 @@
+{
+    "abstract": "Non-pharmaceutical interventions (NPIs) that encourage physical distancing can decrease and delay the transmission of COVID-19. They have been implemented globally during the pandemic, however, the specific NPIs implemented and the timing of interventions has varied widely. We validated two published datasets on the implementation of NPIs globally. The health and socioeconomic factors associated with delay in implementation of NPIs was analyzed using fractional logit and probit models, and beta regression models. The probability of timely NPI implementation by a country was analyzed using a probit model. The effects of these interventions on mobility changes using Google social mobility reports, were analyzed with propensity score matching methods. Three NPIs were analyzed: national school closure, national lockdown, and global travel ban. Countries with higher incomes, larger populations, and better health preparedness measures had greater delays in implementation. Countries with greater population density, more democratic political systems, lower case detection capacity, and later arrival of first cases were more likely to implement NPIs. Implementation of lockdowns significantly reduced physical mobility. Mobility was further reduced when lockdowns were enforced with curfews or fines, or were more strictly defined. National school closures did not significantly change mobility. The implementation of NPIs is a global public good during pandemics, and the international community needs to address constraints and design incentives so countries implement NPIs in a timely manner. Further analysis is needed on the effect of NPI variations on mobility and transmission, and their associated costs.",
+    "affiliations": [
+        "National school closures did not significantly change mobility. The implementation of NPIs is a global public good during pandemics, and the international community needs to address constraints and design incentives so countries implement NPIs in a timely manner. Further analysis is needed on the effect of NPI variations on mobility and transmission, and their associated costs"
+    ],
+    "author": "Amit Summan; Arindam Nandi",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20096420",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20096420"
+    },
+    "title": "Timing of non-pharmaceutical interventions to mitigate COVID-19 transmission and their effects on mobility: A cross-country analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None declared."
+        }
+    ]
+}

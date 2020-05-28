@@ -1,0 +1,29 @@
+{
+    "abstract": "Italy was the first European country to experience sustained local transmission of COVID-19. As of 1st May 2020, the Italian health authorities reported 28,238 deaths nationally. To control the epidemic, the Italian government implemented a suite of non-pharmaceutical interventions (NPIs), including school and university closures, social distancing and full lockdown involving banning of public gatherings and non essential movement. In this report, we model the effect of NPIs on transmission using data on average mobility. We estimate that the average reproduction number (a measure of transmission intensity) is currently below one for all Italian regions, and significantly so for the majority of the regions. Despite the large number of deaths, the proportion of population that has been infected by SARS-CoV-2 (the attack rate) is far from the herd immunity threshold in all Italian regions, with the highest attack rate observed in Lombardy (13.18% [10.66%-16.70%]). Italy is set to relax the currently implemented NPIs from 4th May 2020. Given the control achieved by NPIs, we consider three scenarios for the next 8 weeks: a scenario in which mobility remains the same as during the lockdown, a scenario in which mobility returns to pre-lockdown levels by 20%, and a scenario in which mobility returns to pre-lockdown levels by 40%. The scenarios explored assume that mobility is scaled evenly across all dimensions, that behaviour stays the same as before NPIs were implemented, that no pharmaceutical interventions are introduced, and it does not include transmission reduction from contact tracing, testing and the isolation of confirmed or suspected cases. New interventions, such as enhanced testing and contact tracing are going to be introduced and will likely contribute to reductions in transmission; therefore our estimates should be viewed as pessimistic projections. We find that, in the absence of additional interventions, even a 20% return to pre-lockdown mobility could lead to a resurgence in the number of deaths far greater than experienced in the current wave in several regions. Future increases in the number of deaths will lag behind the increase in transmission intensity and so a second wave will not be immediately apparent from just monitoring of the daily number of deaths. Our results suggest that SARS-CoV-2 transmission as well as mobility should be closely monitored in the next weeks and months. To compensate for the increase in mobility that will occur due to the relaxation of the currently implemented NPIs, adherence to the recommended social distancing measures alongside enhanced community surveillance including swab testing, contact tracing and the early isolation of infections are of paramount importance to reduce the risk of resurgence in transmission.",
+    "affiliations": [
+        "Centre funding from the UK Medical Research Council under a concordat with the UK Department for International Development, the NIHR Health Protection Research Unit in Modelling Methodology and Community Jameel"
+    ],
+    "author": "Harrison Zhu; Caroline Walters; Christl A Donnelly; Charlie Whittaker; Lucia Cilloni; Nicholas Brazeau; Ilaria Dorigatti; Michael Hutchinson; Constance Ciavarella; Gina Cuomo-Dannenburg; Pierre Nouvellet; Zulma Cucunuba; Katy Gaythorpe; Marc Baguelin; Valerie Bradley; Oliver Ratmann; Samir Bhatt; Tara Mangal; Lorenzo Cattarino; Azra A M Ghani; Michael Pickles; H Juliette T Unwin; Ben Jeffrey; Natsuko Imai; Helen Coupland; Kris V Parag; Lilith Whittles; Lucy C Okell; Thomas A Mellan; Sangeeta Bhatia; Laura V Cooper; Melodie Monod; Axel Gandy; Sabine L van Elsland; Gemma Nedjati-Gilani; Yuanrong Wang; Bimandra Djaafara; Seth Flaxman; Andria Mousa; Oliver J Watson; Hayley A Thompson; Kylie Ainslie; Robert Verity; Richard FitzJohn; Xiaoyue Xi; Steven Riley; Adhiratha Boonyasiri; Swapnil Mishra; Neil M Ferguson; Daniel Laydon; Patrick Walker; Jeff Eaton; Michaela A. C. Vollmer; Will Green; Sarah Hayes; John Lees; Keith Fraser; Edward Knock; Iwona Hawryluk; Haowei Wang; Giovanni Charles; Daniela Olivera; Amy Dighe",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20089359",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20089359"
+    },
+    "title": "A sub-national analysis of the rate of transmission of COVID-19 in Italy",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Medical Research Council"
+                },
+                {
+                    "funding-source": "UK Department for International Development,"
+                },
+                {
+                    "funding-source": "NIHR Health Protection Research Unit in Modelling Methodology and Community Jameel"
+                }
+            ],
+            "funding-statement": "This work was supported by Centre funding from the UK Medical Research Council under a concordat with the UK Department for International Development, the NIHR Health Protection Research Unit in Modelling Methodology and Community Jameel"
+        }
+    ]
+}

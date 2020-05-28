@@ -1,0 +1,84 @@
+{
+    "abstract": "Background Efforts to track the severity and public health impact of the novel coronavirus, COVID-19, in the US have been hampered by testing issues, reporting lags, and inconsistency between states. Evaluating unexplained increases in deaths attributed to broad outcomes, such as pneumonia and influenza (P&I) or all causes, can provide a more complete and consistent picture of the burden caused by COVID-19. Methods We evaluated increases in the occurrence of deaths due to P&I above a seasonal baseline (adjusted for influenza activity) or due to any cause across the United States in February and March 2020. These estimates are compared with reported deaths due to COVID-19 and with testing data. Results There were notable increases in the rate of death due to P&I in February and March 2020. In a number of states, these deaths pre-dated increases in COVID-19 testing rates and were not counted in official records as related to COVID-19. There was substantial variability between states in the discrepancy between reported rates of death due to COVID-19 and the estimated burden of excess deaths due to P&I. The increase in all-cause deaths in New York and New Jersey is 1.5-3 times higher than the official tally of COVID-19 confirmed deaths or the estimated excess death due to P&I. Conclusions Excess P&I deaths provide a conservative estimate of COVID-19 burden and indicate that COVID-19-related deaths are missed in locations with inadequate testing or intense pandemic activity.",
+    "author": "Ted Cohen; Lone Simonsen; Don Olson; Farzad Mostashari; Annie Watkins; Nicholas G Reich; Daniel Weinberger; Marcus Russi; Cecile Viboud; Forrest Crawford; Virginia E Pitzer",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20066431",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20066431"
+    },
+    "title": "Estimating the early death toll of COVID-19 in the United States",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Allergy and Infectious"
+                },
+                {
+                    "funding-source": "National Institutes of Health"
+                }
+            ],
+            "funding-statement": "DMW acknowledges support from grants R01AI123208 and R01AI137093 from the National Institute of Allergy and Infectious Diseases/National Institutes of Health"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Allergy and Infectious"
+                },
+                {
+                    "funding-source": "National Institutes of Health"
+                }
+            ],
+            "funding-statement": "VEP acknowledges support from grants R01AI112970 and R01AI137093 from the National Institute of Allergy and Infectious Diseases/National Institutes of Health"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of General Medical"
+                },
+                {
+                    "funding-source": "National Institutes of Health and",
+                    "award-id": [
+                        "1U01IP001122"
+                    ]
+                },
+                {
+                    "funding-source": "Centers for Disease Control and Prevention"
+                }
+            ],
+            "funding-statement": "NGR acknowledges support from grant R35GM119582 from the National Institute of General Medical Sciences/National Institutes of Health and 1U01IP001122 from the Centers for Disease Control and Prevention (CDC)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Allergy and Infectious"
+                },
+                {
+                    "funding-source": "National Institutes of Health"
+                }
+            ],
+            "funding-statement": "TC acknowledges support from R01AI146555 from the National Institute of Allergy and Infectious Diseases/National Institutes of Health"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Carlsberg Foundation",
+                    "award-id": [
+                        "CF20-0046"
+                    ]
+                }
+            ],
+            "funding-statement": "LS acknowledges support from the Carlsberg Foundation grant # CF20-0046"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NICHD",
+                    "award-id": [
+                        "1DP2HD091799-01"
+                    ]
+                }
+            ],
+            "funding-statement": "FWC acknowledges support from NICHD grant 1DP2HD091799-01"
+        }
+    ]
+}

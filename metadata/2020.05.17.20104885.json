@@ -1,0 +1,16 @@
+{
+    "abstract": "Background Several epidemiologic models have been published to forecast the spread of the COVID-19 pandemic yet there are still uncertainties regarding their accuracy. We report the main features of the development of a novel freely accessible model intended to urgently help researchers and decision makers to predict the evolution of the pandemic in their country. Methods and findings We built a SIR-type compartmental model with additional compartments and features. We made the hypothesis that the number of contagious individuals in the population was negligible as compared to the population size. We introduced a compartment D corresponding to the deceased patients and a compartment L representing the group of individuals who will die but who will not infect anybody (due to social or medical isolation). Our model integrated a time-dependent transmission rate, whose variations can be thought to be related to the public measures taken by each country and a cosine function to incorporate a periodic weekly component linked to the way in which numbers of cases and deaths are counted and reported, which can change from day to day. The model was able to accurately capture the different changes in the dynamics of the pandemic for nine different countries whatever the type of pandemic spread or containment measures. The model provided very accurate forecasts in the relatively short term (10 days). Conclusions In early evaluation of the performance of our model, we found a high level of accuracy between prediction and observed data, regardless of the country. The model should be used by the community to help public health decisions as we will refine it over time and further investigate its performance.",
+    "author": "jeremie lefevre; Jean-David Zeitoun; Matthieu Faron; Marc Lavielle",
+    "date": 2020,
+    "doi": "10.1101/2020.05.17.20104885",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.17.20104885"
+    },
+    "title": "Extension of a SIR model for modelling the propagation of Covid-19 in several countries.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding to report"
+        }
+    ]
+}

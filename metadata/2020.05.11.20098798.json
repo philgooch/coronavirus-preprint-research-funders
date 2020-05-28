@@ -1,0 +1,19 @@
+{
+    "abstract": "Projections of the near future of daily case incidence of COVID-19 in King County are valuable for informing public policy. Projections made with the latest data may be better for some purposes than projections based on older data freezes of more reliable data. Incidence-count half-life (t1/2) is a better statistic for many purposes than reproductive rate (R). Currently, an empirical fit to King County data predicts a half-life of 25.2 days (95% CI: 22.1-29.0), corresponding to R \u2248 0.8. The data and this curve best reflect a relatively smooth and continuous decline in cases coupled with a slowly increasing reproductive rate. With this model, the number of cases per day in King County is extrapolated to be 40 cases per day on May 24 and 20 cases per day on June 18, 2020.",
+    "affiliations": [
+        "King County Department of Health website"
+    ],
+    "author": "Jared C Roach",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20098798",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20098798"
+    },
+    "title": "Empirical Model of Spring 2020 Decrease in Daily Confirmed COVID-19 Cases in King County, Washington",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

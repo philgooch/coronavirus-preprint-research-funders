@@ -1,0 +1,94 @@
+{
+    "title": "Orthogonal genome-wide screenings in bat cells identify MTHFD1 as a target of broad antiviral therapy 3 4 Authors: 5 Danielle E Anderson1*, Jin Cui2*, Qian Ye2*, Baoying Huang3*, Wenhong Zu2, Jing Gong2, 6 Weiqiang Liu4, So Young Kim5, Biao Guo Yan1, Kristmundur Sigmundsson1, Xiao Fang Lim1, 7 Fei Ye3, Peihua Niu3, Xuming Zhou4, Wenjie Tan3, Lin-Fa Wang1# & Xu Tan2#",
+    "date": 2020,
+    "author": "2. MOE Key Laboratory of Bioorganic Phosphorus Chemistry & Chemical Biology, Beijing",
+    "affiliations": [
+        "Duke\u2013NUS Medical School, Singapore",
+        "MOE Key Laboratory of Bioorganic Phosphorus Chemistry & Chemical Biology, Beijing",
+        "Advanced Innovation Center for Structural Biology, School of Pharmaceutical Sciences",
+        "Tsinghua-Peking Center for Life Sciences, Center for Infectious Disease Research, School of",
+        "Tsinghua University, Beijing, China",
+        "NHC Key Laboratory of Biosafety, Ministry of Health, National Institute for Viral Disease"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.29.014209",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.29.014209.pdf"
+    },
+    "abstract": "2 Bats are responsible for the zoonotic transmission of several major viral diseases including the 3 2003 SARS outbreak and the ongoing COVID-19 pandemic. While bat genomic sequencing 4 studies have revealed characteristic adaptations of the innate immune system, functional genomic 5 studies are urgently needed to provide a foundation for the molecular dissection of the tolerance 6 of viral infections in bats. Here we report the establishment and screening of genome-wide RNAi 7 library and CRISPR library for the model megabat, Pteropus Alecto. We used the complementary 8 RNAi and CRISPR libraries to interrogate Pteropus Alecto cells for infection with two different 9 viruses, mumps virus and Influenza A virus, respectively. Screening results converged on the endocytosis pathway and the protein secretory pathway as required for both viral infections. Additionally, we revealed a general dependence of the C-1-tetrahydrofolate synthase gene, MTHFD1, for viral replication in bat cells as well as in human cells. MTHFD1 inhibitor carolacton potently blocked replication of several RNA viruses including SARS-CoV-2. Our studies provide a resource for systematic inquiry into the genetic underpinnings of bat biology and a potential target for developing broad spectrum antiviral therapy. 17 As the only mammal capable of sustained flying, bats are intriguing animals with unique behavioral and physiological characteristics. Bats are notorious for transmission of deadly viruses, causing the epidemics of the Ebola1, SARS2, Henipavirus3, MERS4 and COVID-195,6. Bats are widely considered the largest reservoir of numerous virus species but are resilient to the diseases associated with many of these viruses7,8. How bats tolerate the infections with these viruses is of intense interest due to the scientific and public health relevance. Genomic sequencing studies have revealed several genetic adaptions underlying this tolerance of viral infections. For example, the DNA damage checkpoint pathway and the NF-kB pathway are known to be positively selected in the bat genomes9. In addition, in the type I interferon gene family, the MHC class I genes and natural killer cell receptor family have been reported to be highly expanded in the bat genomes10. These studies provided evidence to support the hypothesis that bats have evolved a highly specific genetic configuration, especially in the innate immunity pathways. A major caveat is the lack of systematic examination of the functions of these genes due to shortage of functional genomic tools.",
+    "offensive": [
+        "We performed a CRISPR screen with influenza A virus in PaKi cells to identify viral host factors (Fig. 1a). PaKi cells stably expressing SgCas9 and sgRNA library were infected with the H1N1",
+        "so that na\u00efve PaKi cells all died before the 9th day post infection. We then collected the surviving cells and compared sgRNA abundance with mock-infected cells. The two replicates demonstrated a high correlation, indicating high reproducibility (Supplementary Fig. 2). We calculated the results using the RIGER algorithm and identified 21 host factors required for the viral infection or pathogenesis20 (Fig. 1b). Three of the top four hits belong to the V-type proton ATPase subunits (ATP6V1B2, ATP6V1F and ATP6V0D1), which are involved in the acidification of endosome and have previously been previous identified as key host factors for influenza virus entry in several screens performed in human cells (Fig. 1b)21. Among the other hits were two genes, COPZ1 and",
+        "We performed RNAi screening in PaKi cells for identification of host factors for the infection of mumps virus, a paramyxovirus (Fig. 1c). The screen was performed in 384-well format with a mumps virus strain expressing EGFP from an additional open reading frame25. PaKi cells were infected 48 hours after transfection of the siRNA",
+        "RNAi screening revealed genes that restrict mumps infection in PaKi cells. Among the top hits were several known antiviral genes, TRIM39, TRIM4326 and NAMPT27. Overall, we identified many candidate genes that might play a role in viral infection in bats.",
+        "established PaKi stable cell lines expressing shRNAs targeting several hits from the two screens.",
+        "B led to a significant decrease of influenza A virus infection in PaKi cells (Fig. 1e and 1f). In addition, the small molecule inhibitor of V-type proton ATPase, bafilomycin A (Fig. 1g), potently blocked influenza infection.",
+        "We validated its function in influenza A virus replication in PaKi cells with two different sgRNAs targeting MTHFD1 (Fig. 2a-2b). Similarly, in HEK293T cells with",
+        "knockdown significantly inhibits viral replication for mumps virus in PaKi cells (Fig. 2d and 2e). The effect is similar to the knockdown of SEC61B, a well-studied host protein required for viral replication and a top hit in our RNAi screen (Fig. 2d and 2e)23. We additionally tested Melaka virus (PRV3M), a pteropine orthoreovirus that causes acute respiratory disease when transmitted by bats to humans28. PRV3M titer was also significantly reduced by MTHFD1 knockdown (Fig. 2e and 2f). Infection of Zika virus, a member of the flavivirus family, was also inhibited by MTHFD1 knockdown using siRNA (Fig. 2g). Alternative knockdown with stable expression of two shRNAs validated the requirement of MTHFD1 for the replication of mumps virus and Zika virus (Fig. 2h, 2i and 2j). Importantly, we also show that this inhibition is completely rescued by overexpression of MTHFD1 from a construct resistant to the shRNA, ruling out potential off-target effects (Fig. 2k).",
+        "knockout or knockdown PaKi cells as shown by both immunofluorescence staining and virus tittering assay (Fig. 3c, 3d and 3e). In contrast, supplementation of methyl-group donor or thymidine had little effect on viral replication, evidence that it is the purine synthesis activity of MTHFD1 that is essential for the viral replication (Fig. 3d). To further pinpoint the enzymatic function of MTHFD1 in viral replication, we performed gene complementation experiments in an shRNA cell line with over 90% knockdown of MTHFD1 (Fig. 2i). The block of Zika virus replication in this cell line was completely rescued by overexpression of an shRNA-resistant MTHFD1 construct or bat homolog (Fig. 3f and 3g).",
+        "Carolacton inhibited Zika virus and mumps virus replication in PaKi cells in a dose dependent fashion (Fig.",
+        "Work flows and results of CRISPR and RNAi screens in PaKi cells. a. For CRISPR",
+        "PaKi cells stably expressing Cas9 were transduced with lentiviral sgRNA",
+        "The siRNAs were reverse transfected into PaKi cells and 48 h after transfection, the cells were infected with mumps virus. The percentage of infected cells was calculated at 48 h post infection using high content imaging. d. The siRNA targeted genes were ranked by robust Z score, and the potential host factors or restriction factors were shown in the bottom or the top, respectively. e.",
+        "PaKi cells expressing an shRNA targeting ATP6V0D1 or a non-targeting control shRNA were infected with IAV and the virus infection rate was measured by immunofluorescence using the hemagglutinin antibody at 12h post infection (left). The shRNA knockdown efficiency was detected by real-time PCR (right). For immunofluorescence experiments, n=3, and for real-time",
+        "PaKi cells expressing an shRNA",
+        "PaKi cells were treated with indicated doses of V-ATPase inhibitor, bafilomycin A1, and infected with IAV. The infection rate was measured by immunofluorescence using the hemagglutinin antibody at 12h post infection. Data shown as the mean \u00b1standard deviation (n=3). *: P<0.05, **: P<0.01, ***: P<0.001.",
+        "knockout clonal PaKi cells were generated from two independent sgRNAs and infected with",
+        "PaKi cells were transfected with non-target control siRNA (siNT) or siRNAs targeting MTHFD1 and SEC61B followed by mumps virus(d) and Melaka virus (f) infection. The virus in the supernatant were tittered by limiting dilution. The knockdown efficiency was determined by realtime PCR and shown in (e). For d and e n=3, and for f, n=4. Data shown as the mean \u00b1standard deviation. g. PaKi cells were transfected with siNT or siRNA targeting MTHFD1, 48 h later the cells were infected with Zika virus. The Zika virus RNA level was measured by real-time PCR.",
+        "PaKi shRNA control cells (shNT)",
+        "PaKi cells, then the cells were infected with Zika virus. The rescue level of Zika virus was analyzed by Western blotting. Data shown are representative of three independent experiments. For all bar graphs, the mean \u00b1 standard deviation values are shown. *: P<0.05, **: P<0.01, ***: P<0.001.",
+        "PaKi MTHFD1 knock out cells were infected with IAV with or without supplementation of hypoxanthine or thymidine for 12 h and the virus infection level was detected by immunofluorescence. Data shown as the mean \u00b1standard deviation (n=3). d. PaKi shMTHFD1-2 cells or control cells with a non-targeting shRNA were infected with Zika virus in regular medium or in medium supplemented with inosine, thymidine or 5-CH3THF. Data shown as the mean \u00b1standard deviation (n=3). e. PaKi shMTHFD1",
+        "the virus in the supernatant was harvested and the titre was determined by limiting dilution in PaKi cells. Data shown as the mean \u00b1standard deviation (n=2). f. PaKi shMTHFD1-2 cells or control cells with a non-targeting shRNA were transfected with luciferase (negative control), human wild type MTHFD1, bat wildtype MTHFD1 or bat MTHFD mutants, followed by Zika virus infection. The virus infection rate was measured by immunofluorescence.",
+        "PaKi cells were treated with different concentrations of carolacton and infected with mumps virus expressing EGFP or Zika virus. Virus infection level was detected by EGFP or immunofluorescence staining of Zika E protein. The cell viability was measured by MTT assay.",
+        "PaKi cells were treated with carolacton and infected with Zika virus in the presence of inosine or mock treated. Representative images of immunofluorescence staining of Zika virus E protein were shown. Infection rate shown as the mean \u00b1standard deviation (n=3). d. PaKi cells were treated with carolacton, and 1h later",
+        "PaKi, Vero and 293T cells were cultured in DMEM supplemented with 10% heat inactivated",
+        "Mumps virus was propagated in PaKi or Vero cells.",
+        "stably expressed bat kidney derived PaKi cells were transduced with lentivirus of sgRNA library targeting 21300 genes in the genome of P. alecto. The transduced cells were selected with puromycin to generate the library cells. Then the sgRNA library cells were mock infected (negative control) or changed with influenza A H1N1 PR8 strain (A/Puerto Rico/8/1934)",
+        "The siRNAs were reverse transfected into PaKi cells, 48 h later, the cells were infected with mumps virus. The virus infection level was measured at 48 h post infection by high content imaging (Operetta) as previously described5. The siRNA targeted genes were ranked by robust Z",
+        "stably expressing PaKi cells, followed by puromycin and blasticidin selection.",
+        "PaKi",
+        "PaKi shMTHFD1-1 reverse primer: 5\u2019-AATTCAAAAA GCACATGGGAATTCCTCTACC",
+        "PaKi shMTHFD1-2 forward primer: 5\u2019- ccgg GCCTGCTGTCACTTAGGAAATctcgag",
+        "PaKi shMTHFD1-2 reverse primer: 5\u2019- AATTCAAAAA GCCTGCTGTCACTTAGGAAAT",
+        "PaKi cells were plated into each well of 96-well plates. The supernatant containing virus harvested from previously infected cell was subjected to ten-fold serial dilution. Then dilutions were added to the cells and cytopathic effect was observed 96 h after infection. Titres were determined using standard methodology7.",
+        "Validation of sgRNA design of ten genes in PaKi cell line using CRISPR-Cas9. a. T7E1 assay to confirm indels in the target genes. NT: nontargeting control, g1,g2: designed guide RNA targeting each gene. b. Western blot to confirm the decrease of protein level of HSP70 by two guide RNAs g1 and g2.",
+        "PaKi cells were transfected with the siRNAs followed by mumps-GFP virus infection. The virus infection levels were measured by high content imaging."
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "China National Funds for Excellent Young Scientists",
+                    "award-id": [
+                        "31722030"
+                    ]
+                },
+                {
+                    "funding-source": "Beijing Advanced Innovation Center for Structural Biology and the Tsinghua-Peking Joint Center for Life Sciences"
+                }
+            ],
+            "funding-statement": "XT is supported by the the China National Funds for Excellent Young Scientists (31722030) and was supported by the Beijing Advanced Innovation Center for Structural Biology and the Tsinghua-Peking Joint Center for Life Sciences"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "DEA and L-FW",
+                    "award-id": [
+                        "NRF2012NRF-CRP001\u2013056",
+                        "NRF2016NRF-NSFC002-013"
+                    ]
+                },
+                {
+                    "funding-source": "Singapore National Research Foundation and National Medical Research Council Cooperative Basic Research Grant",
+                    "award-id": [
+                        "NMRC/BNIG/2030/2015",
+                        "21300"
+                    ]
+                }
+            ],
+            "funding-statement": "DEA and L-FW are supported by grants NRF2012NRF-CRP001\u2013056 and NRF2016NRF-NSFC002-013 from the Singapore National Research Foundation and National Medical Research Council Cooperative Basic Research Grant NMRC/BNIG/2030/2015. Figure legends: Cas9 knock out screen, PaKi cells stably expressing Cas9 were transduced with lentiviral sgRNA library targeting 21300 genes of P. alecto"
+        }
+    ]
+}

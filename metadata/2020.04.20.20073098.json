@@ -1,0 +1,16 @@
+{
+    "abstract": "Transmission of the SAR-COV-2 virus that causes COVID-19 is largely driven by human behavior and person-to-person contact. By staying home, people reduce the probability of contacting an infectious individual, becoming infected, and passing on the virus. One of the most promising sources of data on time use is smartphone location data. We develop a time use driven proportional mixing SEIR model that naturally incorporates time spent at home measured using smartphone location data and allows people of different health statuses to behave differently. We simulate epidemics in almost every county in the United States. The model suggests that Americans' behavioral shifts have reduced cases in 55%-86% of counties and for 71%-91% of the population, depending on modeling assumptions. Resuming pre-epidemic behavior would lead to a rapid rise in cases in most counties. Spatial patterns of bending and flattening the curve are robust to modeling assumptions. Depending on epidemic history, county demographics, and behavior within a county, returning those with acquired immunity (assuming it exists) to regular schedules generally helps reduce cumulative COVID-19 cases. The model robustly identifies which counties would experience the greatest share of case reduction relative to continued distancing behavior. The model occasionally mischaracterizes epidemic patterns in counties tightly connected to larger counties that are experiencing large epidemics. Understanding these patterns is critical for prioritizing testing resources and back-to-work planning for the United States.",
+    "author": "Jude Bayham; Kevin Berry; Eli P Fenichel; Gregg Gonsalves",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20073098",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20073098"
+    },
+    "title": "A cell phone data driven time use analysis of the COVID-19 epidemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no external funding</strong>"
+        }
+    ]
+}

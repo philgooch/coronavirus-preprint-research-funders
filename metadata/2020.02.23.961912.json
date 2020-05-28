@@ -1,0 +1,34 @@
+{
+    "title": "Cryo-EM structures of HKU2 and SADS-CoV spike glycoproteins and insights into coronavirus evolution",
+    "author": "Jinfang Yu, Shuyuan Qiao, Runyu Guo, Xinquan Wang",
+    "date": 2020,
+    "affiliations": [
+        "Education Key Laboratory of Protein Science, Beijing Advanced Innovation",
+        "Center for Structural Biology, Beijing Frontier Research Center for Biological Structure",
+        "Collaborative Innovation Center for Biotherapy, School of Life Sciences, Tsinghua University"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.23.961912",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.23.961912.pdf"
+    },
+    "abstract": "A new porcine coronavirus SADS-CoV was recently identified from suckling piglets with severe diarrhea in southern China and its genome sequence is most identical (~95% identity) to that of bat \u03b1-coronavirus HKU2. It again indicates bats are the natural reservoir of many coronaviruses that have great potential for cross-species transmission to animals and humans by recombination and/or mutation. Here we report the cryo-EM structures of HKU2 and SADS-CoV spike glycoprotein trimers at 2.38 \u00c5 and 2.83 \u00c5 resolution, respectively. HKU2 and SADS-CoV spikes exhibit very high structural similarity, with subtle differences mainly distributed in the NTD and CTD of the S1 subunit responsible for cell attachment and receptor binding. We systematically analyzed and compared the NTD, CTD, SD1 and SD2 domains of the S1 subunit and the S2 subunit of HKU2 spike with those of \u03b1-, \u03b2-, \u03b3-, and \u03b4-coronavirus spikes. The results show that the NTD and CTD of HKU2/SADS-CoV are probably the most ancestral in the evolution of spike. Although the S2 subunit mediating membrane fusion is highly conserved, the connecting region after fusion peptide in HKU2/SADS-CoV S2 subunit also adopts a conformation distinct from other coronaviruses. These results structurally demonstrate a close evolutionary relationship between HKU2 /SADS-CoV and \u03b2-coronavirus spikes and provide new insights into the evolution and cross-species transmission of coronaviruses.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Beijing Advanced Innovation Center for Structural Biology"
+                },
+                {
+                    "funding-source": "Tsinghua University and the National Key Plan for Scientific Research and Development of China",
+                    "award-id": [
+                        "2016YFD0500307"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by funds from Beijing Advanced Innovation Center for Structural Biology at Tsinghua University and the National Key Plan for Scientific Research and Development of China (grant number 2016YFD0500307). Author contributions J.Y. carried out protein expression, purification, electron microscopy sample preparation, data collection, image processing and model building with the help of S.Q. X.W. conceived, designed and directed the study"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Objective: To infer Covid19 incubation time distribution from a large sample. Method: Based on individual case data , remained there for 48 hours or less, and returned to these cities with onset of symptoms between January 10 and February 6, 2020. Among these patients, 110 were found to be aged 15 to 64, 22 aged 65 to 86, and 4 aged under 15. Findings: The differential incubation time histogram of the two age groups 15 to 64 and 65 to 86 are adequately fitted by the log normal model. For the 15 to 64 age group, the median incubation time of 7.00+1.10 - 0.9 days (uncertainties are 95 % CL) is broadly consistent with previous literature. For the 65-86 age group, the median is 10.9+2.7 - 2.0 days is statistically significantly longer. Moreover, for this group, the 95 % confidence contour indicates the data cannot constrain the upper bound of the log normal parameters \u03bc, \u03c3 by failing to close there; this is because the sample has a maximum incubation time of 17 days, beyond which we ran out of data even though the histogram has not yet peaked. Thus there is the potential of a much longer incubation time for the 65 to 86 age group than 10 to 14 days. Only a much larger sample can settle this.\nCompeting Interest Statement\nThe authors have declared no competing interest.\nFunding Statement\nNo funding support of this research.\nAuthor Declarations\nAll relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript.\nYes\nAll necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived.\nYes\nI understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).",
+    "author": "Richard Lieu; Ally Bi-zhu Jiang; Siobhan Quenby",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065896",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065896"
+    },
+    "title": "Significantly longer Covid-19 incubation times for the elderly, from a case study of 136 patients throughout China",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding support of this research."
+        }
+    ]
+}

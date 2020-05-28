@@ -1,0 +1,75 @@
+{
+    "title": "Longitudinal high-throughput TCR repertoire profiling reveals the dynamics of T cell memory formation after mild COVID-19 infection",
+    "date": 2020,
+    "author": "Anastasia A. Minervina, Ekaterina A. Komech, Aleksei Titov, Meriem Bensouda Koraichi, Elisa Rosati, Ilgar Z. Mamedov, Andre Franke, Grigory A. Efimov, Dmitriy M. Chudakov, Thierry Mora, Aleksandra M. Walczak, Yuri B. Lebedev, Mikhail V. Pogorelyy",
+    "affiliations": [
+        "Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry, Moscow, Russia",
+        "Pirogov Russian National Research Medical University, Moscow, Russia",
+        "National Research Center for Hematology, Moscow, Russia",
+        "Laboratoire de physique de l\u2019Ecole normale superieure, ENS, PSL, Sorbonne Universite, Universite de Paris, and CNRS, Paris, France",
+        "Institute of Clinical Molecular Biology, Kiel University, Kiel, Germany",
+        "Masaryk University, Central European Institute of Technology, Brno, Czech Republic 7V.I. Kulakov National Medical Research Center for Obstetrics, Gynecology and Perinatology, Moscow, Russia",
+        "Center of Life Sciences, Skoltech, Moscow, Russia",
+        "Moscow State University, Moscow, Russia"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.18.100545",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.18.100545.pdf"
+    },
+    "abstract": "COVID-19 is a global pandemic caused by the SARS-CoV-2 coronavirus. T cell response is a critical part of both individual and herd immunity to SARS-CoV-2 and the efficacy of developed vaccines. However neither the dynamics and cross-reactivity of the SARS-CoV-2specific T cell response nor the diversity of resulting immune memory are well understood. In this study we use longitudinal high-throughput T cell receptor sequencing to track changes in the T cell repertoire following two mild cases of COVID-19 infection. In both donors we identified SARS-CoV-2-responding CD4+ and CD8+ T cell clones. We describe characteristic motifs in TCR sequences of COVID-19-reactive clones, suggesting the existence of immunodominant epitopes. We show that in both donors the majority of infection-reactive clonotypes acquire memory phenotypes. Certain CD4+ clones were detected in the memory fraction at the pre-infection timepoint, suggesting participation of pre-existing cross-reactive memory T cells in the immune response to SARS-CoV-2.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "20-15-00351"
+                    ]
+                }
+            ],
+            "funding-statement": "The study was supported by RSF 20-15-00351"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "DFG Excellence Cluster Precision Medicine in Chronic Inflammation",
+                    "award-id": [
+                        "Exc2167",
+                        "4096610003"
+                    ]
+                },
+                {
+                    "funding-source": "European Research Council COG",
+                    "award-id": [
+                        "724208"
+                    ]
+                }
+            ],
+            "funding-statement": "E.R and A.F. are supported by the DFG Excellence Cluster Precision Medicine in Chronic Inflammation (Exc2167) and the DFG grant n. 4096610003, M.B.K., T.M., and A.M.W. are supported by European Research Council COG 724208"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "19-54-12011",
+                        "18-29-09132"
+                    ]
+                }
+            ],
+            "funding-statement": "I.Z.M. is supported by RFBR 19-54-12011 and 18-29-09132"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Science and Higher Education of the Russian Federation",
+                    "award-id": [
+                        "075-15-2019-1789"
+                    ]
+                }
+            ],
+            "funding-statement": "D.M.C. is supported by the grant from Ministry of Science and Higher Education of the Russian Federation 075-15-2019-1789. infection"
+        }
+    ]
+}

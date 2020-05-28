@@ -1,0 +1,16 @@
+{
+    "abstract": "A compounded method, exploiting the searching capabilities of an operation research algorithm and the power of bootstrap techniques, is presented. The resulting algorithm has been successfully tested to predict the turning point reached by the epidemic curve followed by the CoViD19 virus in Italy. Futures lines of research, which include the generalization of the method to a broad set of distribution, will be finally given.\nCompeting Interest Statement",
+    "author": "Carlo Del Castello; Livio Fenga",
+    "date": 2020,
+    "doi": "10.1101/2020.04.02.20050153",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20050153"
+    },
+    "title": "CoViD19 Meta heuristic optimization based forecast method on time dependent bootstrapped data",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This paper has not been supported in any way or form"
+        }
+    ]
+}

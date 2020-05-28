@@ -1,0 +1,23 @@
+{
+    "abstract": "An exponential growth of literature about novel coronavirus disease 19 (COVID-19) has been observed in the last few months. This textual analysis of 5,780 publications extracted from the Web of Science, Medline, and Scopus databases was performed to explore the current research focuses and propose further research agenda. The Latent Dirichlet allocation was used for topic modeling. Regression analysis was conducted to examine country variations in the research focuses. Results indicated that publications were mainly contributed by the United States, China, and European countries. Guidelines for emergency care and surgical, viral pathogenesis, and global responses in the COVID-19 pandemic were the most common topics. There was variation in the research approaches to mitigate COVID-19 problems in countries with different income and transmission levels. Findings highlighted the need for global research collaboration among high- and low/middle-income countries in the different stages of prevention and control the pandemic.",
+    "author": "Cyrus S.H. Ho; Giang Hai Ha; Bach Xuan Tran; Carl A. Latkin; Giang Thu Vu; Hai Thanh Phan; Huong Thi Le; Roger C.M. Ho; Long Hoang Nguyen",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20092635",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092635"
+    },
+    "title": "Studies of Novel Coronavirus Disease 19 (COVID-19) Pandemic: A Global Analysis of Literature",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Vingroup Innovation Foundation",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                }
+            ],
+            "funding-statement": "Research is supported by Vingroup Innovation Foundation (VINIF) in project code VINIF.2020.COVID-19.DA03"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "abstract": "Physical distancing measures are intended to mitigate the spread of COVID-19. However, the impact these measures have on social contact and disease transmission patterns remains unclear. We ran the first comparative contact survey (N=53,708) across eight countries (Belgium, France, Germany, Italy, Netherlands, Spain, United Kingdom, United States) for the period March 13 - April 13, 2020. Our results show that social contact numbers mainly decreased after governments issued physical distancing guidelines rather than after announcing national lockdown measures. Compared to pre-COVID levels, social contact numbers decreased by 48% - 85% across countries. Except in Italy, these reductions were smaller than those observed in Wuhan (China). However, they sufficed to bring the R0 below one in almost every context considered. Finally, in all countries studied, the numbers of contacts decreased more rapidly among older people than among younger people, indicating higher levels of protection for groups at greater risk.",
+    "affiliations": [
+        "Max Planck Institute for Demographic Research, which is part of the Max Planck Society",
+        "Max Planck Institute for Demographic Research, and are not publicly available in order to comply with data protection regulations in Germany, and to preserve the privacy of study participants. Replication data and R/Stata code for all our findings will be made available in the future once the appropriate privacy measures have been implemented to avoid identification of individuals in the microdata"
+    ],
+    "author": "Andr\u00e9 Grow; Daniela Perrotta; Emilio Zagheni; Sofia Gil-Clavel; Emanuele Del Fava; Francesco Rampazzo; Jorge Cimentada",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20102657",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20102657"
+    },
+    "title": "The differential impact of physical distancing strategies on social contacts relevant for the spread of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Max Planck Institute for Demographic Research,"
+                },
+                {
+                    "funding-source": "Max Planck Society."
+                }
+            ],
+            "funding-statement": "This study was funded through the support of the Max Planck Institute for Demographic Research, which is part of the Max Planck Society."
+        }
+    ]
+}

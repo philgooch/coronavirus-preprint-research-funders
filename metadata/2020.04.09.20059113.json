@@ -1,0 +1,32 @@
+{
+    "abstract": "Background: An outbreak of COVID-19 occurred on the Diamond Princess cruise ship in January and February 2020. We analysed information about cases to infer transmission dynamics and potential modes of transmission. Methods: We collected the daily number of 197 symptomatic cases, and that of the 146 passenger cases in two categories, i.e. those who stayed and did not stay in the same stateroom. We retrieved the quarantine details and the ship's 14-day itinerary. We searched the websites of national/local health authority along the cruise routes and local news using Google for locally confirmed cases associated with the ship. We obtained the design of air conditioning and sewage treatment of the ship from literature. We back-calculated the dates of infection from the epidemic curve and compared with the start of on-board quarantine. Results: Major infections started on Jan 28 and completed by Feb 6 for passengers except those who stayed in the same stateroom with infected individual(s). No other confirmed cases were identified among the disembarked people in Hong Kong except an 80 years old passenger. No confirmed cases were reported in three other stopovers between Jan 27-31 associated with disembarked passengers or visitors from the ship, however two Okinawa taxi drivers became confirmed cases in association with driving the ship passengers. Infection among passengers after Feb 6 was limited to those who stayed in the same stateroom with an infected passenger. Infections in crew members peaked on Feb 7, suggesting significant transmission among crew members after quarantine on Feb 5. Conclusions: We infer that the ship central air conditioning system did not play a role, i.e. the long-range airborne route was absent in the outbreak. Most transmission appears to have occurred through close contact and fomites.\nCompeting Interest Statement",
+    "author": "Hua Qian; Benjamin J. Cowling; Hui-ling Yen; Hongwei Tan; Yuguo J Li; Te Miao; Pengcheng Xu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059113",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059113"
+    },
+    "title": "Transmission routes of Covid-19 virus in the Diamond Princess Cruise ship",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Grants Council of Hong"
+                },
+                {
+                    "funding-source": "General Research Fund",
+                    "award-id": [
+                        "17202719"
+                    ]
+                },
+                {
+                    "funding-source": "Collaborative Research Fund",
+                    "award-id": [
+                        "C7025-16G"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Research Grants Council of Hong Kong\u0092s General Research Fund (grant number 17202719) and Collaborative Research Fund (grant number C7025-16G)"
+        }
+    ]
+}

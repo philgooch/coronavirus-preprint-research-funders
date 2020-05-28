@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 has prompted many countries to implement extensive social distancing to stop the rapid spread of the virus, in order to prevent overloading health care systems. Yet, the main epidemic parameters of this virus are not well understood. In the absence of broad testing or serological surveillance, it is hard to evaluate or predict the impact of different strategies to exit implemented lock-down measures. An age-structured epidemiological model was developed, which distinguishes between the younger versus older population (e.g. < 65 and >= 65). Because the illness severity is markedly different for these two populations, such a separation is necessary then estimating the model based on death and hospitalization incidence data. The model was applied to data of the Belgian epidemic and used to predict how the epidemic would react to a relaxing of social distancing measures.",
+    "author": "Koen Deforche",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20077115",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20077115"
+    },
+    "title": "An age-structured epidemiological model of the Belgian COVID-19 epidemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

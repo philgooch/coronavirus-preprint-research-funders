@@ -1,0 +1,19 @@
+{
+    "abstract": "We present a method for predicting the recovery time from infectious diseases outbreaks such as the recent CoVid-19 virus. The approach is based on the theory of learning from errors, specifically adapted to the control of the virus spread by reducing infection rates using countermeasures such as medical treatment, isolation, social distancing etc. When these are effective, the infection rate, after reaching a peak, declines following a given recovery rate curve. We use presently available data from China, South Korea and others to make actual predictions of the time needed for securing minimum infection rates in the future.",
+    "affiliations": [
+        "Johns Hopkins University website coronavirus.jhu.edu/map"
+    ],
+    "author": "Enrico Zio; Romney B. Duffey",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20060319",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20060319"
+    },
+    "title": "Analysing recovery from pandemics by Learning Theory: the case of CoVid-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding"
+        }
+    ]
+}

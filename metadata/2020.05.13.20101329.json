@@ -1,0 +1,59 @@
+{
+    "abstract": "Covid-19 appearance and fast spreading took by surprise the international community. Collaboration between researchers, public health workers and politicians has been established to deal with the epidemic. One important contribution from researchers in epidemiology is the analysis of trends so that both current state and short-term future trends can be carefully evaluated. Gompertz model has shown to correctly describe the dynamics of cumulative confirmed cases, since it is characterized by a decrease in growth rate that is able to show the effect of control measures. Thus, it provides a way to systematically quantify the Covid-19 spreading velocity. Moreover, it allows to carry out short-term predictions and long-term estimations that may facilitate policy decisions and the revision of in-place confinement measures and the development of new protocols. This model has been employed to fit the cumulative cases of Covid-19 from several Chinese provinces and from other countries with a successful containment of the disease. Results show that there are systematic differences in spreading velocity between countries. In countries that are in the initial stages of the Covid-19 outbreak, model predictions provide a reliable picture of its short-term evolution and may permit to unveil some characteristics of the long-term evolution. These predictions can also be generalized to short-term hospital and Intensive Care Units (ICU) requirements, which together with the equivalent predictions on mortality provide key information for health officials.",
+    "author": "Pere-Joan Cardona; Clara Prats; Daniel Lopez; Marti Catala; Sergio Alonso; Enrique Alvarez Lacalle",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20101329",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20101329"
+    },
+    "title": "Empiric model for short-time prediction of COVID-19 spreading",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "La Caixa Foundation",
+                    "award-id": [
+                        "ID 100010434",
+                        "LCF/PR/GN17/50300003"
+                    ]
+                },
+                {
+                    "funding-source": "Agencia de Gesti\u00f3"
+                },
+                {
+                    "funding-source": "Ajuts Universitaris"
+                },
+                {
+                    "funding-source": "Grup Unitat de Tuberculosi Experimental,",
+                    "award-id": [
+                        "2017-SGR-500"
+                    ]
+                },
+                {
+                    "funding-source": "Ministerio de Ciencia, Innovaci\u00f3n"
+                },
+                {
+                    "funding-source": "Universidades and FEDER,",
+                    "award-id": [
+                        "PGC2018-095456-B-I00"
+                    ]
+                }
+            ],
+            "funding-statement": "CP, PJC and MC received funding from La Caixa Foundation (ID 100010434), under agreement LCF/PR/GN17/50300003; PJC received funding from Agencia de Gesti\u00f3 d'Ajuts Universitaris i de Recerca (AGAUR), Grup Unitat de Tuberculosi Experimental, 2017-SGR-500; CP, DL, SA, MC received funding from Ministerio de Ciencia, Innovaci\u00f3n y Universidades and FEDER, with the project PGC2018-095456-B-I00"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Comission"
+                },
+                {
+                    "funding-source": "DG Communications Networks, Content",
+                    "award-id": [
+                        "LC-01485746"
+                    ]
+                }
+            ],
+            "funding-statement": "This work has been also partially funded by the European Comission - DG Communications Networks, Content and Technology through the contract LC-01485746"
+        }
+    ]
+}

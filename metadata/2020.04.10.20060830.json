@@ -1,0 +1,89 @@
+{
+    "abstract": "The entire world is now eventually locked down due to the outbreak of nCOVID-19 corona virus outbreak. The fast and relentless spread nCOVID-19 has basically segmented the populace only into merely into three classes, such as susceptible, infected and recovered compartments. Adapting the classical SEIR- type epidemic modelling framework, the direct person-to-person contact transmission is taken as the direct route of transmission of nCOVID-19 pandemic. In this research, the authors have developed a model of the nation-wide trends of the outburst of the nCOVID-19 infection using an SEIR Model. The SEIR dynamics are expressed using ordinary differential equations. The creators initially determined the parameters of the model from the accessible day by day information for Indian States dependent on around 35 days history of diseases, recuperation and deaths. The determined parameters have been amassed to extend future patterns for the Indian subcontinent, which is right now at a beginning time in the contamination cycle. The novelty of the study lies in the prediction of both the pessimistic and optimistic mathematical model based comprehensive analysis of nCOVID-19 infection spreading, for two different conditions: (a) if lock down gets withdrawn and (b) if lock down continues as a whole. If the complete lock down in India is withdrawn on 14th April 2020, as a whole, then from the simulation, the authors have predicted that the infected population will flare-up to a large extent , suddenly, however, gradual or zone specific withdrawal would be more effective solution. This study also suggested some possible way-out to get rid of this situation by providing a trade-off between \"flattening of the curve\" as well as less economic turbulence. The projections are intended to provide a base/ action plan for the socio-economic counter measures to alleviate nCOVID-19.",
+    "author": "Moumita Mukherjee; Swarnava Biswas",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20060830",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20060830"
+    },
+    "title": "Risk Assessment of nCOVID-19 Pandemic In India: A Mathematical Model And Simulation",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Author Declarations All"
+                },
+                {
+                    "funding-source": "Yes All",
+                    "award-id": [
+                        "note: if posting a prospective study registered retrospectively",
+                        "please provide a statement in the trial ID field explaining why the study was not registered in advance"
+                    ]
+                },
+                {
+                    "funding-source": "EQUATOR Network"
+                },
+                {
+                    "funding-source": "Yes All"
+                },
+                {
+                    "funding-source": "World Health Organisation's"
+                },
+                {
+                    "funding-source": "MOHFW"
+                },
+                {
+                    "funding-source": "Funding Statement No"
+                },
+                {
+                    "funding-source": "Author Declarations All"
+                },
+                {
+                    "funding-source": "Yes All",
+                    "award-id": [
+                        "note: if posting a prospective study registered retrospectively",
+                        "please provide a statement in the trial ID field explaining why the study was not registered in advance"
+                    ]
+                },
+                {
+                    "funding-source": "EQUATOR Network"
+                },
+                {
+                    "funding-source": "Yes All"
+                },
+                {
+                    "funding-source": "World Health Organisation's"
+                },
+                {
+                    "funding-source": "MOHFW"
+                },
+                {
+                    "funding-source": "Funding Statement No"
+                },
+                {
+                    "funding-source": "Author Declarations All"
+                },
+                {
+                    "funding-source": "Yes All",
+                    "award-id": [
+                        "note: if posting a prospective study registered retrospectively",
+                        "please provide a statement in the trial ID field explaining why the study was not registered in advance"
+                    ]
+                },
+                {
+                    "funding-source": "EQUATOR Network"
+                },
+                {
+                    "funding-source": "Yes All"
+                },
+                {
+                    "funding-source": "World Health Organisation's"
+                },
+                {
+                    "funding-source": "MOHFW"
+                }
+            ],
+            "funding-statement": "No funding support is availed during the research ### Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript. Yes All necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived. Yes I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance). Yes I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable. Yes All data are collected from World Health Organisation's website and MOHFW website of India \" /> \" /> ### Funding Statement No funding support is availed during the research ### Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript. Yes All necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived. Yes I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance). Yes I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable. Yes All data are collected from World Health Organisation's website and MOHFW website of India \" /> ### Funding Statement No funding support is availed during the research ### Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript. Yes All necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived. Yes I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance). Yes I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable. Yes All data are collected from World Health Organisation's website and MOHFW website of India \" />"
+        }
+    ]
+}

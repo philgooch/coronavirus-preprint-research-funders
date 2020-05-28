@@ -1,0 +1,38 @@
+{
+    "abstract": "The recently ermerging disease COVID-19 is caused by the new SARS-CoV-2 virus first detected in the city of Wuhan, China. From there it has been rapidly spreading inside and outside China. With initial death rates around 4%, COVID-19 patients at longer distances from Wuhan showed reduced mortality as was previously observed for the SARS coronavirus. However, the new coronavirus spreads more strongly, as it sheds long before onset of symptoms or may be transmitted by people without symptoms. Rapid development of a protective vaccine against COVID-19 is therefore of paramount importance. Here we demonstrate that recombinantly expressed receptor binding domain (RBD) of the spike protein homologous to SARS binds to ACE2, the viral receptor. Higly repetitive display of RBD on immunologically optimized virus-like particles derived from cucumber mosaic virus resulted in a vaccine candidate (RBD-CuMVTT) that induced high levels of specific antibodies in mice which were able to block binding of spike protein to ACE2 and potently neutralized the SARS-CoV-2 virus in vitro.",
+    "affiliations": [
+        "Swiss National Science Foundation (SNF grant 31003A 149925) and the International Immunology Centre, Anhui Agricultural University, Hefei, China"
+    ],
+    "author": "Lisha Zha; Lijie Guo; Xinyue Chang; Zehua Li; Liang Hong; Monique Vogel; Chuankai Yao; Junfeng Wang; Martin F Bachmann; Ke Wu; Xuelan Liu; Yuhang Zhou; Hongxin Zhao; Mona O. Mohsen; Dong Li; Jie Zhang; Hongquan Chen",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.079830",
+    "identifiers": {
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.06.079830"
+    },
+    "title": "Development of a COVID-19 vaccine based on the receptor binding domain displayed on virus-like particles",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Swiss National Science Foundation",
+                    "award-id": [
+                        "SNF 31003A 149925"
+                    ]
+                },
+                {
+                    "funding-source": "International Immunology Centre, Anhui"
+                },
+                {
+                    "funding-source": "Agricultural University, Hefei"
+                },
+                {
+                    "funding-source": "Copyright The",
+                    "award-id": [
+                        "CC-BY-NC-ND"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Swiss National Science Foundation (SNF grant 31003A 149925) and the International Immunology Centre, Anhui Agricultural University, Hefei, China  Copyright The copyright holder for this preprint is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC-ND 4.0 International license."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Background and objectives: SARS-CoV-2 is a new type of coronavirus that can affect people and causes respiratory disease, COVID-19. It is affecting the entire planet and we focus in Spain, where the first case was detected at the end of January 2020 and in recent weeks it has increased in many cases. We need predictive models in order to be efficient and take actions. The general goal of this work is present a new model of SARS-CoV-2 to predict different scenarios of accumulated cases in Spain. Material and methods: In this short report is used a model proposed previously, based on a parametric model Weibull and in a the library BDSbiost3 developed in R to infer and predict different scenarios of the evolution of SARS-CoV-2 for the accumulated cases in Spain after the spread that affects Spain detected at the end of January of this year. Results: In the analyses presented, projective curves have been generated for the evolution of accumulated cases in which they reach about 4,000 cases or about 15,000 cases, for which the lines of the day in which the value for 90 will be reached can be seen vertically 90, 95 and 99% of the asymptote (maximum number of cases, from that day they will begin to descend or remain the same), that is why the vertical lines would indicate the brake of the disease. For the worst-case scenario, it takes 118, 126 or 142 days to reach the maximum number of cases (n = 15,000) to reach 90, 95 and 99% of the asymptote (maximum number of cases), respectively. This means translated in a time scale that in the worst case the virus will not stop its progress, in Spain, until summer 2020, hopefully before. Comments and conclusions: This model could be used to plan the resources and see if the policies or means dedicated to the virus are slowing the progress of the virus or it is necessary to implement others that are more effective, and can also validate a method for future outbreaks of diseases such as these.",
+    "author": "Jaume Canela-Soler; TONI MONLEON-GETINO",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059881",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059881"
+    },
+    "title": "Next weeks of SARS-CoV-2: Projection model to predict time evolution scenarios of accumulated cases in Spain",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work has no financial support of any kind"
+        }
+    ]
+}

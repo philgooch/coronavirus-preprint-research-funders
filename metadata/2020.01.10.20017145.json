@@ -1,0 +1,34 @@
+{
+    "abstract": "Objectives: ProMED-mail (Program for Monitoring Emerging Disease, also abbreviated ProMED) is an international disease outbreak monitoring and early warning system. Every year, users contribute thousands of reports that include reference to infectious diseases and toxins, and these reports are then distributed to all subscribers of ProMED. However, the corpus of reports has not been well studied so far. Thus, we propose to apply text mining methods to derive information pertinent to the characterisation of the stage of an epidemic outbreak from the reports. Methods: A retrospective study was conducted in ProMED reports in three steps: reports filtering, keywords extraction from reports and finally word co-occurrence network analysis. The keyword extraction was performed with the TextRank algorithm, keywords co-occurrence networks were then produced using the top keywords from each document and multiple network centrality measures were computed to analyse the co-occurrence networks. We used two major outbreaks in recent years, Ebola 2014 and Zika 2015, as cases to illustrate and validate the process. Results: We found that the information structures extracted at different stages of outbreaks from ProMED are consistent with response strategies as well as situation reports of the World Health Organisation. Conclusion: This study shows that ProMED provides large valuable information to characterise the evolution of epidemic outbreaks. Our research presents a pipeline that can extract and organise this information in a meaningful way. It also highlights the potential for ProMED mail to be utilised in monitoring, evaluating and improving responses to outbreaks.",
+    "affiliations": [
+        "Imperial Biomedical Research Centre (BRC). The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care. Jingxian You and Paul Expert were supported by the NIHR Imperial Biomedical Research Centre (BRC). C\u00e9ire Costelloe holds a personal NIHR Career Development Fellowship (NIHR-CDF-2016-50)"
+    ],
+    "author": "Ceire Costelloe; Paul Expert; Jingxian You",
+    "date": 2020,
+    "doi": "10.1101/2020.01.10.20017145",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.01.10.20017145"
+    },
+    "title": "Using text mining to track outbreak trends in global surveillance of emerging diseases: ProMED-mail",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Imperial Biomedical Research Centre"
+                }
+            ],
+            "funding-statement": "This research was funded by the NIHR Imperial Biomedical Research Centre (BRC)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Jingxian You and Paul Expert"
+                },
+                {
+                    "funding-source": "NIHR Imperial Biomedical Research Centre"
+                }
+            ],
+            "funding-statement": "Jingxian You and Paul Expert were supported by the NIHR Imperial Biomedical Research Centre (BRC)"
+        }
+    ]
+}

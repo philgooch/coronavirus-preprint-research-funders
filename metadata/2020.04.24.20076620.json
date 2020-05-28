@@ -1,0 +1,26 @@
+{
+    "abstract": "Importance: Identifying risk factors for adherence to public health instructions for the COVID-19 pandemic may be crucial for controlling the rate of transmission and the pandemic\u2032s health and economic impacts. Objective: To determine sociodemographic, health-related, risk-related, and instruction-related factors that predict non-adherence to instructions for the COVID-19 pandemic. Design: Cross-sectional survey in Israel collected between March 28 and April 10, 2020. Setting: Population-based study. Participants: A convenience sample completed an online survey. Exposures: Sociodemographic, health-related, risk-related, and instruction-related characteristics of the participants that have been linked to adherence to medical instructions. Main Outcome and Measure: Non-adherence to instructions defined by a mean score of less than 4 on a 1 to 5 adherence scale consisting of 19 instruction items. Results: Among 654 participants (413 [64.8%] female, age 40.14 [15.23] years), 28.7% were defined as non-adherents. Non-adherence was associated with male gender [adjusted odds ratio (aOR) = 1.54, CI 1.03\u22122.31], not having children [aOR = 1.73, 1.13\u22122.65], smoking [aOR = 2.27, CI 1.42\u22123.62], high levels of ADHD symptoms [aOR = 1.55, CI 1.07\u22122.25], high levels of past risk-taking behavior [aOR = 1.41, CI 1.10\u22121.81], as well as by current high psychological distress [aOR = 1.51, CI 1.14\u22122.01], low perceived risk of COVID-19 [aOR = 1.52, CI 1.22\u22121.89], low exposure to the instructions [aOR = 1.45, CI 1.14\u22121.82], and low perceived efficacy of the instructions [aOR = 1.47, CI 1.16\u22121.85]. Adjusted OR of age, economic status, physical health status, and exposure to media did not reach the significance level. Conclusions and Relevance People with the above characteristics may have increased risk for non-adherence to public health instructions. There appears to be a need for setting out and communicating instructions to specifically targeted at-risk populations.",
+    "affiliations": [
+        "Hebrew University of Jerusalem"
+    ],
+    "author": "Haym Dayan; Itai Berger; Yehuda Pollak; Rachel Shoham",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20076620",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20076620"
+    },
+    "title": "Predictors of adherence to public health instructions during the COVID-19 pandemic",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Authority for Research and Development,"
+                },
+                {
+                    "funding-source": "Hebrew University of Jerusalem"
+                }
+            ],
+            "funding-statement": "The study was supported by an internal grant of the Authority for Research and Development, the Hebrew University of Jerusalem"
+        }
+    ]
+}

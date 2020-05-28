@@ -1,0 +1,35 @@
+{
+    "abstract": "Assessing the effects of early non-pharmaceutical interventions1-5 on COVID-19 spread in the United States is crucial for understanding and planning future control measures to combat the ongoing pandemic6-10. Here we use county-level observations of reported infections and deaths11, in conjunction with human mobility data12 and a metapopulation transmission model13,14, to quantify changes of disease transmission rates in US counties from March 15, 2020 to May 3, 2020. We find significant reductions of the basic reproductive numbers in major metropolitan areas in association with social distancing and other control measures. Counterfactual simulations indicate that, had these same control measures been implemented just 1-2 weeks earlier, a substantial number of cases and deaths could have been averted. Specifically, nationwide, 61.6% [95% CI: 54.6%-67.7%] of reported infections and 55.0% [95% CI: 46.1%-62.2%] of reported deaths as of May 3, 2020 could have been avoided if the same control measures had been implemented just one week earlier. We also examine the effects of delays in re-implementing social distancing following a relaxation of control measures. A longer response time results in a stronger rebound of infections and death. Our findings underscore the importance of early intervention and aggressive response in controlling the COVID-19 pandemic.",
+    "affiliations": [
+        "National Institutes of Health (GM110748) and the National Science Foundation (DMS-2027369), as well as a gift from the Morris-Singer Foundation. The funders had no role in the design, data collection and analysis, decision to publish, or preparation of the manuscript"
+    ],
+    "author": "Sen Pei; Sasikiran Kandula; Jeffrey Shaman",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103655",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103655"
+    },
+    "title": "Differential Effects of Intervention Timing on COVID-19 Spread in the United States",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "GM110748"
+                    ]
+                },
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "DMS-2027369"
+                    ]
+                },
+                {
+                    "funding-source": "Morris-Singer Foundation"
+                }
+            ],
+            "funding-statement": "This study was supported by funding from the National Institutes of Health (GM110748) and the National Science Foundation (DMS-2027369), as well as a gift from the Morris-Singer Foundation"
+        }
+    ]
+}

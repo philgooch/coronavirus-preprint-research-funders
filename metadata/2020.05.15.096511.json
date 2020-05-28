@@ -1,0 +1,44 @@
+{
+    "title": "Broad sarbecovirus neutralizing antibodies define a key site of vulnerability on the SARS-CoV-2 spike protein",
+    "author": "Anna Z. Wec, Daniel Wrapp, Andrew S. Herbert, Daniel Maurer, Denise Haslwanter, Mrunal Sakharkar, Rohit K. Jangra, M. Eugenia Dieterle, Asparouh Lilov, Deli Huang, Longping V. Tse, Nicole V. Johnson, Ching-Lin Hsieh, Nianshuang Wang, Juergen H. Nett, Elizabeth Champney, Irina Burnina, Michael Brown, Shu Lin, Melanie Sinclair, Carl Johnson, Sarat Pudi, Robert Bortz III, Ariel S. Wirchnianski, Ethan Laudermilch, Catalina Florez, J. Maximilian Fels, Cecilia M. O\u2019Brien, Barney S. Graham, David Nemazee, Dennis R. Burton,10, Ralph S. Baric, James E. Voss, Kartik Chandran, John M. Dye, Jason S. McLellan, and Laura M. Walker",
+    "date": 2020,
+    "affiliations": [
+        "Department of Molecular Biosciences, The University of Texas at Austin, Austin, TX 78712, USA 3U.S. Army Medical Research Institute of Infectious Diseases, Frederick, MD 21702, USA",
+        "Department of Microbiology and Immunology, Albert Einstein College of Medicine, New York, NY, USA",
+        "Department of Immunology and Microbial Science, The Scripps Research Institute, La Jolla, CA 92037, USA",
+        "Department of Epidemiology, The University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA",
+        "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA",
+        "IAVI Neutralizing Antibody Center, The Scripps Research Institute, La Jolla, CA 92037, USA",
+        "Consortium for HIV/AIDS Development (CHAVD), The Scripps Research Institute, La Jolla, CA 92037, USA",
+        "Ragon Institute of Massachusetts General Hospital, Massachusetts Institute of Technology, and Harvard",
+        "Departments of Microbiology and Immunology, The University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.15.096511",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.15.096511.pdf"
+    },
+    "abstract": "Broadly protective vaccines against known and pre-emergent coronaviruses are urgently needed. Critical to their development is a deeper understanding of cross-neutralizing antibody responses induced by natural human coronavirus (HCoV) infections. Here, we mined the memory B cell repertoire of a convalescent SARS donor and identified 200 SARS-CoV-2 binding antibodies that target multiple conserved sites on the spike (S) protein. A large proportion of the antibodies display high levels of somatic hypermutation and cross-react with circulating HCoVs, suggesting recall of pre-existing memory B cells (MBCs) elicited by prior HCoV infections. Several antibodies potently cross-neutralize SARS-CoV, SARS-CoV-2, and the bat SARS-like virus WIV1 by blocking receptor attachment and inducing S1 shedding. These antibodies represent promising candidates for therapeutic intervention and reveal a new target for the rational design of pansarbecovirus vaccines.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health"
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases",
+                    "award-id": [
+                        "R01-AI127521",
+                        "R01-AI132633"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was funded in part by a National Institutes of Health (NIH)/ National Institute of Allergy and Infectious Diseases (NIAID) grants awarded to J.S.M (R01-AI127521) and K.C. (R01-AI132633)"
+        }
+    ]
+}

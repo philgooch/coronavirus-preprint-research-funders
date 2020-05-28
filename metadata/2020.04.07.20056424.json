@@ -1,0 +1,23 @@
+{
+    "abstract": "Background There is no specific antiviral therapy recommended for the disease caused by SARS-CoV-2 (COVID-19). Recent publications have drawn attention to the possible benefit of chloroquine (CQ). Our study aimed to comprehensively evaluate the safety and efficacy of two different CQ dosages in patients with established severe COVID-19. Methods We performed a parallel, double-blinded, randomized, phase IIb clinical trial, aiming to assess safety and efficacy of two different CQ dosages as adjunctive therapy of hospitalized patients with SARS in Manaus, Brazilian Amazon. Eligible participants were allocated to receive orally or via nasogastric tube high dose CQ (600mg CQ twice daily for 10 days or total dose 12g); or low dose CQ (450mg for 5 days, twice daily only on the first day, or total dose 2.7g). In addition, all patients received ceftriaxone and azithromycin. This study was registered with ClinicalTrials.gov, number NCT04323527. Findings Out of a pre-defined 440 patients sample size, 81 patients were enrolled. The high dose CQ arm presented more QTc>500ms (25%), and a trend toward higher lethality (17%) than the lower dosage. Fatality rate was 13.5% (95%CI=6.9-23.0%), overlapping with the CI of historical data from similar patients not using CQ (95%CI=14.5-19.2%). In 14 patients with paired samples, respiratory secretion at day 4 was negative in only one patient. Interpretation Preliminary findings suggest that the higher CQ dosage (10-day regimen) should not be recommended for COVID-19 treatment because of its potential safety hazards. Such results forced us to prematurely halt patient recruitment to this arm. Given the enormous global push for the use of CQ for COVID-19, results such as the ones found in this trial can provide robust evidence for updated COVID-19 patient management recommendations.",
+    "author": "Andr\u00e9 Machado Siqueira; Mariana Sim\u0101o Xavier; Vanderson Sousa Sampaio; Ludhmila Abrah\u0101o Hajjar; Alexandre Salom\u00e3o; Gisely Cardoso Melo; CloroCovid-19 Team; Rosemary Costa Pinto; Mayla Gabriela Silva Borba; Maria Paula Gomes Mour&amp;atildeo; Jos&amp;eacute Diego Brito Sousa; J\u00falio Henrique Rosa Croda; Djane Clarys Baia-da-Silva; Maur\u00edcio Lacerda Nogueira; Cor Jesus Fontes; Quique Bassat; Marcus Vin\u00edcus Guimar\u00e3es Lacerda; Wuelton Marcelo Monteiro; Antonio Alcirley Silva Balieiro; Gustavo Adolfo Sierra Romero; Bernardino Cl\u00e1udio Albuquerque; Fernando de Almeida Val; Cl\u00e1udio Tadeu Daniel-Ribeiro; Marcelo Brito; Marcia Almeida Ara&amp;uacutejo Alexandre; Alexandre Schwarzbolt; Felipe Gomes Naveca; Marcus Vinitius Farias Guerra",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20056424",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20056424"
+    },
+    "title": "Chloroquine diphosphate in two different dosages as adjunctive therapy of hospitalized patients with severe respiratory syndrome in the context of coronavirus (SARS-CoV-2) infection: Preliminary safety results of a randomized, double-blinded, phase IIb clinical trial (CloroCovid-19 Study)",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Government of the Amazonas State, Farmanguinhos",
+                    "award-id": [
+                        "Fiocruz"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded by the Government of the Amazonas State, Farmanguinhos (Fiocruz), SUFRAMA, CAPES, FAPEAM, and federal funds granted by a coalition of Brazilian senators"
+        }
+    ]
+}

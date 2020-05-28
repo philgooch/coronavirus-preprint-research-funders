@@ -1,0 +1,38 @@
+{
+    "abstract": "Background: School closures have been enacted as a measure of mitigation during the ongoing COVID-19 pandemic. It has been shown that school closures could cause absenteeism amongst healthcare workers with dependent children, but there remains a need for spatially granular analyses of the relationship between school closures and healthcare worker absenteeism to inform local community preparedness. Methods: We provide national- and county-level simulations of school closures and unmet child care needs across the United States. We develop individual simulations using county-level demographic and occupational data, and model school closure effectiveness with age-structured compartmental models. We perform multivariate quasi-Poisson ecological regressions to find associations between unmet child care needs and COVID-19 vulnerability factors. Results: At the national level, we estimate the projected rate of unmet child care needs for healthcare worker households to range from 7.5% to 8.6%, and the effectiveness of school closures to range from 3.2% to 7.2% reduction in fewer ICU beds at peak demand. At the county-level, we find substantial variations of projected unmet child care needs and school closure effects, ranging from 1.9% to 18.3% of healthcare worker households and 5.7% to 8.8% reduction in fewer ICU beds at peak demand. We find significant positive associations between estimated levels of unmet child care needs and diabetes prevalence, county rurality, and race (p < 0.05). We estimate costs of absenteeism and child care and observe from our models that an estimated 71.1% to 98.8% of counties would find it less expensive to provide child care to all healthcare workers with children than to bear the costs of healthcare worker absenteeism during school closures. Conclusions: School closures are projected to reduce peak ICU bed demand, but could disrupt healthcare systems through absenteeism, especially in counties that are already particularly vulnerable to COVID-19. Child care subsidies could help circumvent the ostensible tradeoff between school closures and healthcare worker absenteeism.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Science Foundation Graduate Research Fellowship under Grant No. DGE \u0096 1656518 and the National Library of Medicine under Training Grant T15 LM 007033"
+    ],
+    "author": "Trevor Hastie; Nathan C Lo; Sanjay Basu; Elizabeth T Chin; Benjamin Q Huynh",
+    "date": 2020,
+    "doi": "10.1101/2020.03.19.20039404",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.19.20039404"
+    },
+    "title": "Projected geographic disparities in healthcare worker absenteeism from COVID-19 school closures and the economic feasibility of child care subsidies: a simulation study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation Graduate Research Fellowship",
+                    "award-id": [
+                        "1656518"
+                    ]
+                },
+                {
+                    "funding-source": "National Library of Medicine",
+                    "award-id": [
+                        "007033"
+                    ]
+                },
+                {
+                    "funding-source": "Training Grant",
+                    "award-id": [
+                        "007033"
+                    ]
+                }
+            ],
+            "funding-statement": "This material is based upon work supported by the National Science Foundation Graduate Research Fellowship under Grant No DGE \u0096 1656518 and the National Library of Medicine under Training Grant T15 LM 007033"
+        }
+    ]
+}

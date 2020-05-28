@@ -1,0 +1,16 @@
+{
+    "abstract": "Background The role of ambient temperature in the spread of SARS-CoV-2 infections and subsequent deaths due to COVID-19 remains contentious. Coronaviruses such as the 2003 SARS-CoV showed an increased risk of transmission during cooler days. We sought to analyse the effects of ambient temperature on SARS-COV-2 transmission and deaths related to the virus. Methods The world population of COVID-19 cases and attributable deaths from the 23rd January 2020 to 11th April 2020 were analysed. Temperature 5 days before cases and 23 days prior to deaths (to account for the time lag of incubation period and time from symptoms to death) was compared to the average temperature experienced by the world population. Results The total number of cases during this period was 1,605,788 and total number of deaths was 103,471. The median temperature at the time of COVID-19 infection was 9.12C (10-90th percentile 4.29-17.97C) whilst the median temperature of the world population for the same period was 9.61C warmer at 18.73C (10-90th percentile 4.09-28.49C) with a notional p-value = 5.1 x10-11. The median temperature at the time of a COVID-19 death was 9.72C (10-90th percentile 5.39-14.11C) whilst the median temperature of the world population was 7.55C warmer at 17.27C (10-90th percentile 2.57C-27.76C) with a notional p-value = 1.1 x10-10. 80% of all COVID-19 related cases and deaths occurred between 4.29C and 17.97C. Conclusion A definitive association between infection rate and death from COVID-19 and ambient temperature exists, with the highest risk occurring around 9C. Governments should maintain vigilance with containment strategies when the ambient temperatures correspond to this highest risk.",
+    "author": "Mohamed Akbarally; Nathan Better; Anver Sethwala; Huzefa Akbarally; Jeffrey Lefkovits; Leeanne Grigg",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20102798",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20102798"
+    },
+    "title": "The effect of ambient temperature on worldwide COVID-19 cases and deaths - an epidemiological study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received."
+        }
+    ]
+}

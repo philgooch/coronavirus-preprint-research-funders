@@ -1,0 +1,40 @@
+{
+    "title": "Structure of dimeric full-length human ACE2 in complex with B0AT1",
+    "author": "Renhong Yan, Yuanyuan Zhang, Yaning Li, Lu Xia, and Qiang Zhou,* 1 Key Laboratory of Structural Biology of Zhejiang Province, Institute of Biology, Westlake Institute for Advanced Study, School of Life Sciences, Westlake University, 18 Shilongshan Road, Hangzhou 310024, Zhejiang Province, China. 2 Beijing Advanced Innovation Center for Structural Biology, Tsinghua-Peking Joint Center for Life Sciences, School of Life Sciences, Tsinghua University, Beijing 100084, China. 3These authors contributed equally to this work. *To whom correspondence should be addressed: zhouqiang@westlake.edu.cn (Q.Z.)",
+    "date": 2020,
+    "affiliations": [
+        "Key Laboratory of Structural Biology of Zhejiang Province, Institute of Biology, Westlake Institute for Advanced Study, School of Life Sciences, Westlake University",
+        "Shilongshan Road, Hangzhou 310024, Zhejiang Province, China",
+        "Beijing Advanced Innovation Center for Structural Biology, Tsinghua-Peking Joint Center for Life Sciences, School of Life Sciences, Tsinghua University, Beijing 100084, China",
+        "These authors contributed equally to this work. *To whom correspondence should be addressed:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.17.951848",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.17.951848.pdf"
+    },
+    "abstract": "Angiotensin-converting enzyme 2 (ACE2) is the surface receptor for SARS coronavirus (SARS-CoV), directly interacting with the spike glycoprotein (S protein). ACE2 is also suggested to be the receptor for the new coronavirus (2019nCoV), which is causing a serious epidemic in China manifested with severe respiratory syndrome. B0AT1 (SLC6A19) is a neutral amino acid transporter whose surface expression in intestinal cells requires ACE2. Here we present the 2.9 \u00c5 resolution cryo-EM structure of full-length human ACE2 in complex with B0AT1. The complex, assembled as a dimer of ACE2-B0AT1 heterodimers, exhibits open and closed conformations due to the shifts of the peptidase domains (PDs) of ACE2. A newly resolved Collectrin-like domain (CLD) on ACE2 mediates homodimerization. Structural modelling suggests that the ACE2-B0AT1 complex can bind two S proteins simultaneously, providing important clues to the molecular basis for coronavirus recognition and infection.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "projects 31971123",
+                        "81920108015",
+                        "31930059"
+                    ]
+                },
+                {
+                    "funding-source": "Key R&D Program of Zhejiang Province",
+                    "award-id": [
+                        "2020C04001"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was funded by the National Natural Science Foundation of China (projects 31971123, 81920108015, 31930059) and the Key R&D Program of Zhejiang Province (2020C04001). Author contributions Q.Z. and R.Y. conceived the project"
+        }
+    ]
+}

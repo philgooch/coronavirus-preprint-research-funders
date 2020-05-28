@@ -1,0 +1,23 @@
+{
+    "abstract": "The paper provides some initial evidence that daily mortality rates (for any cause) by municipality or province can be used as a statistically reliable predictor of looming COVID-19 crises. Using recently published deaths figures for 1,689 Italian municipalities, we estimate the growth in daily mortality rates between the period 2015-2019 and 2020 by province. All provinces that experienced a major COVID-19 shock in mid-March 2020 had increases in mortality rates of 100% or above already in early February 2020. This increase was particularly strong for males and older people, two recognizable features of COVID-19. Using a panel fixed effect model, we show that the association between these early increases in mortality for any cause and the March 2020 COVID-19 shock is strong and significant. We conclude that the growth in mortality rates can be used as a statistically reliable predictor of COVID-19 crises.",
+    "affiliations": [
+        "Department for International Development (DFID). A full disclaimer is on the first page of the manuscript"
+    ],
+    "author": "Lidia Ceriani; Carlos Hernandez-Suarez; Paolo Verme",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083261",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083261"
+    },
+    "title": "A Simple Early Warning Signal for COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "United Kingdom's Department for International Development"
+                }
+            ],
+            "funding-statement": "The study was funded by UK aid from the United Kingdom's Department for International Development (DFID)"
+        }
+    ]
+}

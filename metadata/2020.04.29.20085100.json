@@ -1,0 +1,16 @@
+{
+    "abstract": "In this paper we provide forecasts of the cumulative number of confirmed reported cases in Brazil, specifically in Pernambuco and Ceara, by using the generalized logistic growth model, the Richards growth model and Susceptible, Un-quanrantined infected, Quarantined infected, Confirmed infected (SUQC) phenomenological model. We rely on the Nash-Sutcliffe efficiency (NSE), root-mean-square error (RMSE) and mean absolute relative error (MARE) to quantify the quality of the models fits during the calibrationAll of these analyzes have been valid until the present date, April 14, 2020. The different models provide insights of our scenario predictions.\nCompeting Interest Statement",
+    "author": "Anderson Rodrigues de Almeida; Lucas Ravellys Pyrrho de Alcantara; Artur Paiva Coutinho; Maira Galdino da Rocha Pitta; Lucio Silva",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20085100",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20085100"
+    },
+    "title": "Using different epidemiological models to modeling the epidemic dynamics in Brazil",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "title": "COVID-19 coronavirus vaccine design using reverse vaccinology and machine learning",
+    "date": 2020,
+    "author": "4 Edison Ong, Mei U Wong, Anthony Huffman, Yongqun He,* 5 6 1 Department of Computational Medicine and Bioinformatics, University of Michigan, Ann 7 Arbor, MI 48109, USA 8 2 Unit for Laboratory Animal Medicine, Department of Microbiology and Immunology, 9 University of Michigan, Ann Arbor, MI 48109, USA 10 11 12 *Corresponding authors: 13 Yongqun He: yongqunh@med.umich.edu 14 15",
+    "affiliations": [
+        "Department of Computational Medicine and Bioinformatics, University of Michigan, Ann",
+        "Arbor, MI 48109, USA 8",
+        "Unit for Laboratory Animal Medicine, Department of Microbiology and Immunology",
+        "University of Michigan, Ann Arbor, MI 48109, USA 10 11 12",
+        "Corresponding authors:",
+        "Yongqun He:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.20.000141",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.20.000141.pdf"
+    },
+    "abstract": "To ultimately combat the emerging COVID-19 pandemic, it is desired to develop an effective and safe vaccine against this highly contagious disease caused by the SARS-CoV-2 coronavirus. Our literature and clinical trial survey showed that the whole virus, as well as the spike (S) protein, nucleocapsid (N) protein, and membrane (M) protein, have been tested for vaccine development against SARS and MERS. However, these vaccine candidates might lack the induction of complete protection and have safety concerns. We then applied the Vaxign reverse vaccinology tool and the newly developed Vaxign-ML machine learning tool to predict",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "1R01AI081062"
+                    ]
+                },
+                {
+                    "funding-source": "NIAID",
+                    "award-id": [
+                        "1R01AI081062"
+                    ]
+                }
+            ],
+            "funding-statement": "This work has been supported by the NIH-NIAID grant 1R01AI081062. Author contributions EO and YH contributed to the study design"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "abstract": "Shelter-in-place policies have been considered effective in mitigating the transmission of the virus SARS-CoV-2. To end such policies, routine testing and self-quarantine of those testing positive for active infection have been proposed, yet it remains unclear how often routine testing would need to be performed among workers returning to workplaces, and how effective this strategy would be to meaningfully prevent continued transmission of the virus. We simulated SARS-CoV-2 polymerase chain reaction testing to estimate the frequency of testing needed to avert continued epidemic propagation as shelter-in-place orders are relaxed. We find that testing strategies less frequent than twice weekly (e.g. weekly testing or testing once prior to returning to work) are unlikely to prevent workforce outbreaks. Even given unlimited testing capacity, the impact of frequent testing may not be sufficient to reliably relax shelter-in-place policies without risking continued epidemic propagation, unless other measures are instituted to complement testing and self-isolation.",
+    "author": "Matthew Murrill; Nathan C Lo; Sanjay Basu; Elizabeth T Chin; Benjamin Q Huynh",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20087015",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20087015"
+    },
+    "title": "Frequency of routine testing for SARS-CoV-2 to reduce transmission among workers",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation Graduate Research Fellowship",
+                    "award-id": [
+                        "1656518"
+                    ]
+                }
+            ],
+            "funding-statement": "E.T.C acknowledges support by the National Science Foundation Graduate Research Fellowship under Grant No DGE 1656518"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of California, San"
+                }
+            ],
+            "funding-statement": "NCL is supported by the University of California, San Francisco"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation Graduate Research Fellowship",
+                    "award-id": [
+                        "1656518"
+                    ]
+                },
+                {
+                    "funding-source": "National Library of Medicine",
+                    "award-id": [
+                        "007033"
+                    ]
+                },
+                {
+                    "funding-source": "Training Grant",
+                    "award-id": [
+                        "007033"
+                    ]
+                }
+            ],
+            "funding-statement": "B.Q.H acknowledges support by the National Science Foundation Graduate Research Fellowship under Grant No DGE 1656518 and the National Library of Medicine under Training Grant T15 LM 007033"
+        }
+    ]
+}

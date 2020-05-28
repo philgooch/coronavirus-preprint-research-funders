@@ -1,0 +1,23 @@
+{
+    "abstract": "Deterministic mathematical models (called Compartmental models) of disease propagation such as the SIR model and its variants (MSIR, Carrier state, SEIR, SEIS, MSEIR, MSEIRS models) are used to study the propagation of COVID19 in a large population with specific reference to India.\nCompeting Interest Statement\nThe authors have declared no competing interest.\nFunding Statement",
+    "affiliations": [
+        "Indian Institute of Technology Guwahati provided us the basic infrastructure necessary for this work"
+    ],
+    "author": "Nithin K Rajendran; Girish Setlur; Anish Chandrachud; Ashish Menon",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20086306",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20086306"
+    },
+    "title": "Modelling and simulation of COVID-19 propagation in a large population with specific reference to India",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Indian Institute of Technology Guwahati"
+                }
+            ],
+            "funding-statement": "No external funding was acquired for this work. We'd like to acknowledge that Indian Institute of Technology Guwahati provided us the basic infrastructure necessary for this work."
+        }
+    ]
+}

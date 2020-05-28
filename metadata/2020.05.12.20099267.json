@@ -1,0 +1,16 @@
+{
+    "abstract": "Background The COVID-19 is spreading worldwide, early non-pharmaceutical Interventions (NPIs) is crucial for mitigating COVID-19 epidemic. We aim to evaluate the impact of containment measures and the epidemic features of COVID-19 under social NPIs in Mainland China. Methods Under the strict social NPIs, the spreading pattern of COVID-19 in China has changed into mostly clustered intra-household or intro-acquaintance transmission, and we established a stochastic NPIs model, named ScEIQRsh to fit the epidemic and NPIs data of each province in China. Results This ScEIQRsh model could be well fitted with both the reported number of accumulative confirmed cases and epidemiological survey (EPS)-based quarantined cases of each province in China. We found that the median transmission rate of COVID-19 among acquaintances was 10.22 (IQR 8.47, 12.35) across Mainland China and the COVID-19 spreading was prevented by NPIs implementation within 25-30 days. Among NPIs, measures to diminish contactable susceptible (Sc), such as staying home, travel constraint etc. and measures to avoid delay of diagnosis and hospitalized isolation (\u03b7) were more effective than EPS-based quarantine (\u03ba,\u03c1 or surveyQ). Upon the fitted models, the proportion of asymptomatic infectors was determined to be 14.88% (IQR 8.17%, 25.37%). The median incubation period and communicable period of COVID-19 under NPIs were 4.16 (IQR 3.60, 4.71) and 6.77 (IQR 4.53, 10.36) days respectively, and the median time from exposed to being contagious was 2.39 (IQR 2.26, 2.56) days. Besides, we identified that the optimal temperature for COVID-19 spreading was in the range of 5\u00b0C-14\u00b0C. Conclusion This study provided useful suggestions about NPI strategy for the prevention of COVID-19 spreading, which should be helpful for the control of COVID-19, as well as other similar infectious disease.",
+    "author": "Miao Pu; Sikai Ge; Bo Su; Lei Zhang; Tingting Ji; Qidong Tai; Yaping Wang; Di Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099267",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099267"
+    },
+    "title": "The impact of containment measures and air temperature on mitigating the transmission of COVID-19: a novel data-based comprehensive modeling analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

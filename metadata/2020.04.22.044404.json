@@ -1,0 +1,35 @@
+{
+    "title": "Characterization of intra-host SARS-CoV-2 variants improves phylogenomic reconstruction and may reveal functionally convergent mutations",
+    "author": "IMPROVES PHYLOGENOMIC RECONSTRUCTION AND MAY REVEAL FUNCTIONALLY CONVERGENT MUTATIONS",
+    "date": 2020,
+    "affiliations": [
+        "School of Medicine and Surgery, Univ. of Milan-Bicocca, Monza, Italy",
+        "Dept. of Informatics, Systems and Communication, Univ. of Milan-Bicocca, Milan, Italy",
+        "Biostatistics and Bioimaging Centre \u2013 B4, Milan, Italy"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.22.044404",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.22.044404.pdf"
+    },
+    "abstract": "A global cross-discipline effort is ongoing to characterize the evolution of SARS-CoV-2 virus and generate reliable epidemiological models of its diffusion. To this end, phylogenomic approaches leverage accumulating genomic mutations as barcodes to track the evolutionary history of the virus and can benefit from the surge of sequences deposited in public databases. Yet, such methods typically rely on consensus sequences representing the dominant virus lineage, whereas a complex sublineage architecture is often observed within single hosts. Furthermore, most approaches do not account for variants accumulation processes and might produce inaccurate results in condition of limited sampling, as witnessed in most countries currently affected by the epidemics. We here introduce a new framework for the characterization of viral (sub)lineage evolution and transmission of SARS-CoV-2, which considers both clonal and intra-host minor variants and exploits the achievements of cancer evolution research to account for mutation accumulation and uncertainty in the data. The application of our approach to 18 SARS-CoV-2 samples for which raw sequencing data are available reveals a high-resolution phylogenomic model, which confirms and improves recent findings on viral types and highlights the existence of patterns of co-occurrence of minor variants, uncovering likely infection paths among hosts harboring the same viral lineage. Our findings confirm a significant increase of genomic diversity of SARS-CoV-2 in time, which is reflected in minor variants, and show that standard methods may struggle when handling datasets with important sampling limitations. Importantly, our framework allows to pinpoint minor variants that might be positively selected across distinct lineages and regions of the viral genome under purifying selection, thus driving the design of treatments and vaccines. In particular, minor variant g.29039A>U, detected in multiple viral lineages and validated on an independent dataset, shows that SARS-CoV-2 can lose its main Nucleocapsid immunogenic epitopes, raising concerns about the effectiveness of vaccines targeting the C-terminus of this protein. To conclude, we advocate the use of our framework in combination with data-driven epidemiological models, to deliver a high-precision platform for pathogen detection, surveillance and analysis.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Elixir Italian Chapter and the SysBioNet"
+                },
+                {
+                    "funding-source": "Italian Roadmap of European Strategy Forum on Research Infrastructures and",
+                    "award-id": [
+                        "AIRC-IG",
+                        "22082"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was partially supported by the Elixir Italian Chapter and the SysBioNet project, a Ministero dell\u2019Istruzione, dell\u2019Universit\u00e0 e della Ricerca initiative for the Italian Roadmap of European Strategy Forum on Research Infrastructures and by the AIRC-IG grant 22082"
+        }
+    ]
+}

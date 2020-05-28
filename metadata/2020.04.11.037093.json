@@ -1,0 +1,55 @@
+{
+    "title": "BIP4COVID19: Releasing impact measures for articles relevant to COVID-19",
+    "date": 2020,
+    "author": "Thanasis Vergoulis, Ilias Kanellos, Serafeim Chatzopoulos, Danae Pla Karidi, Theodore Dalamagas",
+    "affiliations": [
+        "Research Center, Greece",
+        "Univ. of the Peloponnese, Greece *corresponding author(s): Thanasis Vergoulis",
+        "Allen Institute for AI, and the LitCovid 2 collection [2] provided by the NLM/NCBI BioNLP Research Group. CORD-19 offers a full-text corpus of more than 40, 000 articles on coronavirus and COVID-19, collected based on articles that contain a set of COVID-19 related keywords from PMC, biorXiv, and medRxiv and the further addition of a set of publications on the novel coronavirus, maintained by the WHO. LitCovid, is a curated dataset which currently contains more than 4, 000 papers on the novel coronavirus"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.11.037093",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.11.037093.pdf"
+    },
+    "abstract": "Since the beginning of the 2019-20 coronavirus pandemic, a large number of relevant articles has been published or become available in preprint servers. These articles, along with earlier related literature, compose a valuable knowledge base affecting contemporary research studies or, even, government actions to limit the spread of the disease and treatment decisions taken by physicians. However, the number of such articles is increasing at an intense rate making the exploration of the relevant literature and the identification of useful knowledge in it challenging. In this work, we describe BIP4COVID19, an open dataset compiled to facilitate the coronavirus-related literature exploration, by providing various indicators of scientific impact for the relevant articles. Finally, we provide a publicly accessible web interface on top of our data, allowing the exploration of the publications based on the computed indicators.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Moving from Big Data Management",
+                    "award-id": [
+                        "MIS 5002437/3"
+                    ]
+                },
+                {
+                    "funding-source": "Data Science\"",
+                    "award-id": [
+                        "MIS 5002437/3"
+                    ]
+                },
+                {
+                    "funding-source": "Reinforcement of the Research and Innovation Infrastructure\""
+                },
+                {
+                    "funding-source": "Operational Programme"
+                },
+                {
+                    "funding-source": "Entrepreneurship and Innovation\"",
+                    "award-id": [
+                        "NSRF 2014-2020"
+                    ]
+                },
+                {
+                    "funding-source": "Greece and the European Union"
+                },
+                {
+                    "funding-source": "European Regional Development Fund)"
+                }
+            ],
+            "funding-statement": "We acknowledge support of this work by the project \"Moving from Big Data Management to Data Science\" (MIS 5002437/3) which is implemented under the Action \"Reinforcement of the Research and Innovation Infrastructure\", funded by the Operational Programme \"Competitiveness, Entrepreneurship and Innovation\" (NSRF 2014-2020) and co-financed by Greece and the European Union (European Regional Development Fund). Author contributions T.V., I.K., and S.C designed the database and the Web user interface"
+        }
+    ]
+}

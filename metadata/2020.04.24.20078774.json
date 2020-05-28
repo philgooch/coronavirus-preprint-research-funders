@@ -1,0 +1,55 @@
+{
+    "abstract": "Due to the heterogeneity among the States in the US, predicting COVID-19 trends and quantitatively assessing the effects of government testing capability and control measures need to be done via a State-by-State approach. We develop a comprehensive model for COVID-19 incorporating time delays and population movements. With key parameter values determined by empirical data, the model enables the most likely epidemic scenarios to be predicted for each State, which are indicative of whether testing services and control measures are vigorous enough to contain the disease. We find that government control measures play a more important role than testing in suppressing the epidemic. The vast disparities in the epidemic trends among the States imply the need for long-term placement of control measures to fully contain COVID-19.",
+    "author": "Jie Kang; Yong-Shang Long; Da-Yu Wu; Zhao-Hua Lin; Di Xu; Zheng-Meng Zhai; Yin-Qi Zeng; Ying-Cheng Lai; Li-Lei Han; Zonghua Liu; Yi-Lin Li; Lang Zeng; Ming Tang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078774",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078774"
+    },
+    "title": "State-by-State prediction of likely COVID-19 scenarios in the United States and assessment of the role of testing and control measures",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "~11975099",
+                        "11575041",
+                        "11675056",
+                        "11835003"
+                    ]
+                },
+                {
+                    "funding-source": "Natural Science Foundation of Shanghai",
+                    "award-id": [
+                        "~18ZR1412200"
+                    ]
+                },
+                {
+                    "funding-source": "Science and Technology Commission of Shanghai Municipality",
+                    "award-id": [
+                        "~14DZ2260800"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Natural Science Foundation of China (Grant Nos.~11975099, 11575041, 11675056 and 11835003), the Natural Science Foundation of Shanghai (Grant No.~18ZR1412200), and the Science and Technology Commission of Shanghai Municipality (Grant No.~14DZ2260800)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Vannevar Bush Faculty Fellowship Program"
+                },
+                {
+                    "funding-source": "Basic Research Office of the Assistant Secretary of Defense for Research and Engineering and"
+                },
+                {
+                    "funding-source": "Office of Naval Research",
+                    "award-id": [
+                        "N00014-16-1-2828"
+                    ]
+                }
+            ],
+            "funding-statement": "YCL would like to acknowledge support from the Vannevar Bush Faculty Fellowship Program sponsored by the Basic Research Office of the Assistant Secretary of Defense for Research and Engineering and funded by the Office of Naval Research through Grant No.~N00014-16-1-2828"
+        }
+    ]
+}

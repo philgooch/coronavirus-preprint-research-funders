@@ -1,0 +1,23 @@
+{
+    "abstract": "The disease burden of SARS-CoV-2 as measured by tests from various countries present varying estimates of infection and fatality rates. Models based on these acquired data may suffer from systematic errors and large estimation variances due to the biases associated with testing and lags between the infection and death counts. Here, we present an augmented compartment model to predict epidemic dynamics while explicitly modeling for the sampling bias involved in testing. Our simulations show that sampling biases in favor of patients with higher disease manifestation could significantly affect direct estimates of infection and fatality rates calculated from the numbers of confirmed cases and deaths, and serological testing can partially mitigate these biased estimates. We further recommend a strategy to obtain unbiased estimates, calculating the dependence of expected confidence on a randomized sample size, showing that relatively small sample sizes can provide statistically significant estimates for SARS-CoV-2 related death rates.",
+    "affiliations": [
+        "University of Connecticut Health Faculty startup funds were used"
+    ],
+    "author": "Kshitiz; Junaid Afzal; Yasir Suhail",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20088120",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20088120"
+    },
+    "title": "Incorporating and Addressing Testing Bias Within Estimates of Epidemic Dynamics for SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Connecticut Health Faculty"
+                }
+            ],
+            "funding-statement": "University of Connecticut Health Faculty startup funds were used."
+        }
+    ]
+}

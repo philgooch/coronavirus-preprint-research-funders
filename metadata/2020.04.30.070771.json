@@ -1,0 +1,35 @@
+{
+    "title": "Origin of imported SARS-CoV-2 strains in The Gambia identified from Whole Genome Sequences",
+    "keywords": [
+        "Coronavirus",
+        "SARS-CoV-2",
+        "nasopharyngeal-oropharyngeal",
+        "genome",
+        "Nanopore",
+        "Illumina",
+        "sequencing",
+        "ARTIC protocol"
+    ],
+    "date": 2020,
+    "author": "Abdoulie Kanteh, Jarra Manneh, Sona Jabang, Mariama A. Kujabi, Bakary Sanyang, Mary A. Oboh, Abdoulie Bojang, Haruna S. Jallow, Davis Nwakanma, Ousman Secka, Anna Roca, Alfred Amambua-Ngwa, Martin Antonio, Ignatius Baldeh, Karen Forrest, Ahmadou Lamin Samateh, Umberto D\u2019Alessandro, Abdul Karim Sesay",
+    "affiliations": [
+        "Laboratory Services, MRCG at LSHTM, Fajara, The Gambia",
+        "West Africa Platform, MRCG at LSHTM, Fajara, The Gambia",
+        "National Public Health, Laboratories, Kotu, The Gambia",
+        "Clinical Service Department, MRCG at LSHTM, Fajara, The Gambia",
+        "Ministry of Health, Banjul, The Gambia",
+        "Corresponding authors Abdul Karim Sesay and Umberto D\u2019Alessandro",
+        "Gambia at London School of Hygiene and Tropical Medicine (MRCG at LSHTM). Of the 451 samples screened by rRT-PCR, ten were confirmed as SARS-CoV-2 cases and 5 as indeterminate cases (positive for the screening gene and negative for the SARS-CoV-2 confirmatory gene)"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.30.070771",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.30.070771.pdf"
+    },
+    "abstract": "Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) is a positive-sense single stranded RNA virus with high human transmissibility. This study generated Whole Genome data to determine the origin and pattern of transmission of SARSCoV-2 from the first six cases tested in The Gambia. Total RNA from SARS-CoV-2 was extracted from inactivated nasopharyngeal-oropharyngeal swabs of six cases and converted to cDNA following the ARTIC COVID-19 sequencing protocol. Libraries were constructed with the NEBNext ultra II DNA library prep kit for Illumina and Oxford Nanopore Ligation sequencing kit and sequenced on Illumina MiSeq and Nanopore GridION, respectively. Sequencing reads were mapped to the Wuhan reference",
+    "funding": [
+        {}
+    ]
+}

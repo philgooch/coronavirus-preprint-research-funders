@@ -1,0 +1,40 @@
+{
+    "title": "Pandemic dynamics of COVID-19 using epidemic stage, instantaneous reproductive number and pathogen genome identity (GENI) score: modeling molecular epidemiology",
+    "date": 2020,
+    "affiliations": [
+        "University of California Davis, School of Veterinary Medicine, 100K Pathogen Genome Project",
+        "Davis, CA 95616, USA",
+        "University of the Philippines Los Ba\u00f1os, College of Veterinary",
+        "Medicine, Department of Veterinary Paraclinical Sciences, Laguna 4031, Philippines 15 16 17 18 *corresponding author:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.17.20037481",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.17.20037481.pdf"
+    },
+    "abstract": "Background: Global spread of COVID-19 created an unprecedented infectious disease crisis that progressed to a pandemic with >180,000 cases in >100 countries. Reproductive number (R) is an outbreak metric estimating the transmission of a pathogen. Initial R values were published based on the early outbreak in China with limited number of cases with whole genome sequencing. Initial comparisons failed to show a direct relationship viral genomic diversity and epidemic severity was not established for SARS-Cov-2.\nMethods: Each country\u2019s COVID-19 outbreak status was classified according to epicurve stage (index, takeoff, exponential, decline). Instantaneous R estimates (Wallinga and Teunis method) with a short and standard serial interval examined asymptomatic spread. Whole genome sequences were used to quantify the pathogen genome identity score that were used",
+    "hyperbole": [
+        "created an unprecedented infectious disease crisis that progressed to a pandemic with >180,000 cases in >100 countries. Reproductive number (R) is an outbreak metric estimating the transmission of a pathogen. Initial R values were published based on the early outbreak in China with limited number of cases with whole genome sequencing. Initial comparisons failed to show a direct relationship viral genomic diversity and epidemic severity was not established for SARS-Cov-2.",
+        "whole genome sequences with an unprecedented openness. By quickly sharing the genome sequences it enables investigation of the genome variation during the outbreak using multiple approaches and samples of the virus genome space. It is approaching a viral population scale, which provides additional information that cannot be gleaned with few sequences. Prior work established the value of estimating transmission dynamics of rapidly evolving RNA viruses and highlights the capability to infer transmission during outbreaks coupled with pathogen genomes11,12. This approach was validated in EBOV and MERS. Each virus variant is separated by only several mutations yet produces new dynamics during the outbreak13,14. Rapidly evolving pathogens undergo genome sequence mutation, selection pressure, random drift and stochastic events between infected individuals11. Even small changes in the genome enable transmission that is determined by accounting for the mutations between isolate sequences. It is recognized that the COVID-19 genome is changing over the outbreak but there is controversy about the impact and specifics of the exact mutations. In this study, we used incidence data to derive R and compared country specific COVID-19 infection dynamics with viral population genome diversity. By incorporating",
+        "Openness and data sharing of incidence reports and sequences at unprecedented scale is being done in this pandemic and it is paying rewards29. Leveraging on these resources opens unexpected collaboration and avenues for applying relevant bioinformatic and disease modelling skills across the scientific community to solve global public health problems. Examples that hindered this were observed in several countries that led to cryptic spread of the disease in countries. Additionally, lacking the epidemiological infrastructure and genome sequencing capabilities limit this approach that is not acceptable for modern public health. However, without the appropriate technical skills in the performing complicated phylogenetic inference, utility of such innovation will be limited. Establishing a protocol for merging epidemiology and genomics was defined in this work (Fig. 5) and can be instituted globally."
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Philippine California Advanced Research Institute",
+                    "award-id": [
+                        "Quezon City",
+                        "Philippines"
+                    ]
+                },
+                {
+                    "funding-source": "Quezon City, Philippines"
+                }
+            ],
+            "funding-statement": "Philippine California Advanced Research Institute (Quezon City, Philippines) and the Weimer laboratory."
+        }
+    ]
+}

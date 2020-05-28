@@ -1,0 +1,37 @@
+{
+    "title": "An artificial intelligence-based first-line defence against COVID-19: digitally screening citizens for risks via a chatbot",
+    "author": "Alistair Martin,+, Jama Nateqi,+, Stefanie Gruarin, Nicolas Munsch, Isselmou Abdarahmane, and Bernhard Knapp",
+    "date": 2020,
+    "affiliations": [
+        "Data Science Department, Vienna, Austria",
+        "Symptoma, Medical Department, Attersee, Austria",
+        "Department of Internal Medicine, Paracelsus Medical University, Salzburg, Austria +these authors contributed equally to this work"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.25.008805",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.25.008805.pdf"
+    },
+    "abstract": "To combat the pandemic of the coronavirus disease (COVID-19), numerous governments have established phone hotlines to prescreen potential cases. These hotlines have struggled with the volume of callers, leading to wait times of hours or, even, an inability to contact health authorities. Symptoma is a symptom-to-disease digital health assistant that can differentiate more than 20,000 diseases with an accuracy of more than 90%. We tested the accuracy of Symptoma to identify COVID-19 using a set of diverse clinical cases combined with case reports of COVID-19. We showed that Symptoma can accurately distinguish COVID-19 in 96.32% of clinical cases. When considering only COVID-19 symptoms and risk factors, Symptoma identified 100% of those infected when presented with only three signs. Lastly, we showed that Symptoma\u2019s accuracy far exceeds that of simple \u201cyes-no\u201d questionnaires widely available online. In summary, Symptoma provides unparalleled accuracy in systematically identifying cases of COVID-19 while also considering over 20,000 other diseases. Furthermore, Symptoma allows free text input, furthered with disease-specific follow up questions, in 36 languages. Combined, these results and accessibility give Symptoma the potential to be a key tool in the global fight against COVID-19. The Symptoma predictor is freely available online at https://www.symptoma.com.",
+    "hyperbole": [
+        "Symptoma provides unparalleled accuracy in systematically identifying cases of COVID-19 while also considering over 20,000 other diseases. Furthermore, Symptoma allows free text input, furthered with disease-specific follow up questions, in 36 languages. Combined, these results and accessibility give Symptoma the potential to be a key tool in the global fight against COVID-19. The Symptoma predictor is freely available online at https://www.symptoma.com.",
+        "the world is facing an unprecedented health crisis caused by the novel coronavirus disease (COVID-19). To track and hopefully curb this pandemic, large-scale laboratory testing for COVID-19 is becoming widespread. However, capacities are far from being able to test whole populations. Therefore many countries have established phone hotlines to pre-screen persons who are unsure about their COVID-19 infection status. Only after talking to an operator and being identified as a potential case, often due to being symptomatic, will laboratory testing occur. However, these hotlines are severely overrun worldwide, leading to hour-long waiting periods and, even, disconnected lines. This ultimately leads to many COVID-19 cases going undiagnosed.",
+        "One solution to the overwhelming number of calls inundating hotlines is to pre-screen them using computer-based approaches. Digital services are already utilised for assessment and triage in various countries to reduce stress on the emergency responders, e.g., the \u201cdigtal 111\u201d service provided by the NHS in England1,2. These methods can be grouped into two categories. Firstly, a large number of simple yes/no online questionnaires are available. These questionnaires lead straight to the point but are limited in their informative value. They do not provide a deep understanding of a patient\u2019s health situation, they do not allow for the consideration of additional symptoms, they do not allow the generation of additional data for analysis, and, critically, they are often language- and/or country-specific.",
+        "is remarkable, as the other approaches consider only four causes as a potential diagnosis. In Figure 2b, we breakdown Symptoma\u2019s performance in the above test across our COVID-19 cases. We find that for the three cases that did not report COVID-19 as diagnosis, one is case 3006 outlined above as having no defining features of COVID-19. Case 2889, diagnosed as a common cold, symptoms include Conjunctivitis and Chills, two features more commonly associated with a cold. Case 2987, symptoms include Nasal Congestion and Rhinorrhea, both indications of an alternative diagnosis to COVID-19."
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union\u2019s Horizon",
+                    "award-id": [
+                        "830017"
+                    ]
+                }
+            ],
+            "funding-statement": "This study has received funding from the European Union\u2019s Horizon 2020 research and innovation programme under grant agreement No 830017"
+        }
+    ]
+}

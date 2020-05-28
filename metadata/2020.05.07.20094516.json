@@ -1,0 +1,33 @@
+{
+    "abstract": "In response to the COVID-19 pandemic, countries have implemented various strategies to reduce and slow the spread of the disease in the general population. For countries that have implemented restrictions on its population in a step-wise manner, monitoring of COVID-19 prevalence is of importance to guide decision on when to impose new, or when to abolish old, restrictions. We are here determining whether measures of odor intensity in a large sample can serve as one such measure. Online measures of how intense common household odors are perceived and symptoms of COVID-19 were collected from 2440 Swedes. Average odor intensity ratings were then compared to predicted COVID-19 population prevalence over time in the Swedish population and were found to closely track each other (r=-0.83). Moreover, we found that there was a large difference in rated intensity between individuals with and without COVID-19 symptoms and number of symptoms was related to odor intensity ratings. Finally, we found that individuals progressing from reporting no symptoms to subsequently reporting COVID-19 symptoms demonstrated a large drop in olfactory performance. These data suggest that measures of odor intensity, if obtained in a large and representative sample, can be used as an indicator of COVID-19 disease in the general population. Importantly, this simple measure could easily be implemented in countries without widespread access to COVID-19 testing or implemented as a fast early response before wide-spread testing can be facilitated.",
+    "author": "Reut Weissgross; Artin Arshamian; Noam Sobel; Camille Ferdenzi; Ofer Perl; Masako Okamoto; Erminio Monteleone; Caterina Dinnella; Behzad Iravani; Shiri Karagach; Monique Smeets; Kazushige Touhara; Sagit Shushan; Zachary Mainen; Johan N Lundstrom; Yehudah Roth; Moustafa Bensafi; Eva Mishor; Thomas Hummel; Gernot Ernst; Kobi Snitz; Sara Spinelli; Franklin Marino-Sanchez; Danielle Honigstein; Ahron Ravia",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20094516",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20094516"
+    },
+    "title": "Relationship between odor intensity estimates and COVID-19 population prediction in a Swedish sample",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ERC AdG",
+                    "award-id": [
+                        "SocioSmell",
+                        "670798"
+                    ]
+                },
+                {
+                    "funding-source": "Noam Sobel,"
+                },
+                {
+                    "funding-source": "Knut and Alice Wallenberg Foundation",
+                    "award-id": [
+                        "KAW 2018.0152"
+                    ]
+                }
+            ],
+            "funding-statement": "This project was supported by an ERC AdG grant (SocioSmell, 670798), awarded to Noam Sobel, and the writing and analyses by a grant from the Knut and Alice Wallenberg Foundation (KAW 2018.0152), awarded to Johan N"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "abstract": "The novel coronavirus SARS-CoV-2 was identified as the causative agent of the ongoing pandemic COVID 19. COVID-19-associated deaths are mainly attributed to severe pneumonia and respiratory failure. Recent work demonstrated that SARS-CoV-2 binds to angiotensin converting enzyme 2 (ACE2) in the lung. To better understand ACE2 abundance and expression patterns in the lung we interrogated our in-house single-cell RNA-sequencing dataset containing 70,085 EPCAM+ lung epithelial cells from paired normal and lung adenocarcinoma tissues. Transcriptomic analysis revealed a diverse repertoire of airway lineages that included alveolar type I and II, bronchioalveolar, club/secretory, quiescent and proliferating basal, ciliated and malignant cells as well as rare populations such as ionocytes. While the fraction of lung epithelial cells expressing ACE2 was low (1.7% overall), alveolar type II (AT2, 2.2% ACE2+) cells exhibited highest levels of ACE2 expression among all cell subsets. Further analysis of the AT2 compartment (n = 27,235 cells) revealed a number of genes co-expressed with ACE2 that are important for lung pathobiology including those associated with chronic obstructive pulmonary disease (COPD; HHIP), pneumonia and infection (FGG and C4BPA) as well as malarial/bacterial (CD36) and viral (DMBT1) scavenging which, for the most part, were increased in smoker versus light or non-smoker cells. Notably, DMBT1 was highly expressed in AT2 cells relative to other lung epithelial subsets and its expression positively correlated with ACE2. We describe a population of ACE2-positive AT2 cells that co-express pathogen (including viral) receptors (e.g. DMBT1) with crucial roles in host defense thus comprising plausible phenotypic targets for treatment of COVID-19.",
+    "affiliations": [
+        "MD Anderson Cancer Center from Johnson and Johnson. TC has received speaker\u2019s fees from the Society for Immunotherapy of Cancer and Bristol-Myers Squibb; receives consulting/advisory role fees from MedImmune, Bristol-Myers Squibb and EMD Serono, and research funding to MD Anderson Cancer Center from Boehringer Ingelheim, MedImmune and Bristol-Myers Squibb outside the scope of this work. All other authors declare no competing interests",
+        "National Cancer Institute (NCI) grants R01CA205608 (to HK), 1U2CCA233238 (to HK, SD and AES), University of Texas SPORE in Lung Cancer P50CA070907 (to JDM) and P50 core grant CA016672 (ATGC), NIH grant 1S10OD024977 and start-up research funds kindly provided to LW and HK by The University of Texas MD Anderson Cancer Center"
+    ],
+    "author": "Guangchun Han; Jichao Chen; Junya Fujimoto; Humam Kadara; Tina Cascone; Luc Girard; Patrick Brennan; Edward Hill; Ignacio I. Wistuba; Linghua Wang; Carmen Behrens; John V. Heymach; Kieko Hara; Boning Gao; Warapen Treekitkarnmongkol; Paul A. Scheet; Edwin J. Ostrin; Jianjun Zhang; Kyle Chang; Seyed Javad Moghaddam; John D. Minna; Shannon Telesco; Beatriz Sanchez-Espiridion; Don L. Gibbons; Lauren Byers; Avrum E. Spira; Steven Dubinett; Ansam Sinjab; Boris Sepesi; Christopher Stevenson; Elena Bogatenkova; Jerry Shay",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.045617",
+    "identifiers": {
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.16.045617"
+    },
+    "title": "Single-cell analysis of human lung epithelia reveals concomitant expression of the SARS-CoV-2 receptor ACE2 with multiple virus receptors and scavengers in alveolar type II cells",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Johnson and Johnson"
+                },
+                {
+                    "funding-source": "National Cancer Institute",
+                    "award-id": [
+                        "R01CA205608",
+                        "1U2CCA233238"
+                    ]
+                },
+                {
+                    "funding-source": "SD and AES)"
+                },
+                {
+                    "funding-source": "University of Texas SPORE in Lung Cancer",
+                    "award-id": [
+                        "P50CA070907",
+                        "CA016672"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "1S10OD024977"
+                    ]
+                },
+                {
+                    "funding-source": "The University of Texas MD Anderson Cancer Center"
+                }
+            ],
+            "funding-statement": "Grant support: Supported in part by research funding from Johnson and Johnson (to HK), National Cancer Institute (NCI) grants R01CA205608 (to HK), 1U2CCA233238 (to HK, SD and AES), University of Texas SPORE in Lung Cancer P50CA070907 (to JDM) and P50 core grant CA016672 (ATGC), NIH grant 1S10OD024977 and start-up research funds kindly provided to LW and HK by The University of Texas MD Anderson Cancer Center"
+        }
+    ]
+}

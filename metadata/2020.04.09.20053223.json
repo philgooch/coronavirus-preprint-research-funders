@@ -1,0 +1,32 @@
+{
+    "abstract": "Background: The outbreak of Coronavirus 2019 (COVID-19) began in January 2020 in the city of Wuhan (Hubei province, China). It took about 2 months for China to get this infectious disease under control in its epicenter at Wuhan. Since February 2020, COVID-19 has been spreading around the world, becoming widespread in a number of countries. The timing and nature of government actions in response to the pandemic has varied from country to country, and their role in affecting the spread of the disease has been debated. Method: The present study proposed a modified susceptible-exposed-infected-removed model (SEIR) model to perform a comparative analysis of the temporal progress of disease spread in six regions worldwide: three Chinese regions (Zhejiang, Guangdong and Xinjiang) vs. three countries (South Korea, Italy and Iran). For each region we developed detailed timelines of reported infections and outcomes, along with government-implemented measures to enforce social distancing. Simulations of the imposition of strong social distancing measures were used to evaluate the impact that these measures might have had on the duration and severity of COVID-19 outbreaks in the three countries. Results: The main results of this study are as follows: (a) an empirical COVID-19 growth law provides an excellent fit to the disease data in all study regions and potentially could be of more general validity; (b) significant differences exist in the spread characteristics of the disease among the three regions of China and between the three regions of China and the three countries; (c) under the control measures implemented in the Chinese regions (including the immediate quarantine of infected patients and their close contacts, and considerable restrictions on social contacts), the transmission rate of COVID-19 followed a modified normal distribution function, and it reached its peak after 1 to 2 days and then was reduced to zero 11, 11 and 18 days after a 1st-Level Response to Major Public Health Emergency was declared in Zhejiang, Guangdong and Xinjiang, respectively; moreover, the epidemic control times in Zhejiang, Guangdong and Xinjiang showed that the epidemic reached an \"inflection point\" after 9, 12 and 17 days, respectively, after a 1st-Level Response was issued; (d) an empirical COVID-19 law provided an excellent fit to the disease data in the six study regions, and the law can be potentially of more general validity; and (e) the curves of infected cases in South Korea, Italy and Iran would had been significantly flattened and shrunken at a relatively earlier stage of the epidemic if similar preventive measures as in the Chinese regions had been also taken in the above three countries on February 25th, February 25th and March 8th, respectively: the simulated maximum number of infected individuals in South Korea, Italy and Iran would had been 4480 cases (March 9th, 2020), 2335 cases (March 10th) and 6969 cases (March 20th), instead of the actual (reported) numbers of 7212 cases (March 9th), 8514 cases (March 10th, 2020) and 11466 cases (March 20th), respectively; moreover, up to March 29th, the simulated reduction in the accumulated number of infected cases would be 1585 for South Korea, 93490 for Italy and 23213 for Iran, respectively, accounting for 16.41% (South Korea), 95.70% (Italy) and 60.59% (Iran) of the accumulated number of actual reported infected cases. Conclusions: The implemented measures in China were very effective for controlling the spread of COVID-19. These measures should be taken as early as possible, including the early identification of all infection sources and eliminating transmission pathways. Subsequently, the number of infected cases can be controlled at a low level, and existing medical resources could be sufficient for maintaining higher cure rates and lower mortality rate compared to the current situations in these countries. The proposed model can account for these prevention and control measures by properly adjusting its parameters, it computes the corresponding variations in disease transmission rate during the outbreak period, and it can provide valuable information for public health decision-making purposes.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Science Foundation of China (Grant No. 41671399) and the Department of Science and Technology, Zhejiang Province (2016C04004)"
+    ],
+    "author": "Jiaping Wu; Mingjun He; George Christakos; Guangwei Chen; Yutong Jiang; Junyu He; Ashton Shortridge; Runjie Jin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20053223",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20053223"
+    },
+    "title": "Comparative Analysis of COVID-19 Transmission Patterns in Three Chinese Regions vs. South Korea,Italy and Iran",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation of China",
+                    "award-id": [
+                        "41671399"
+                    ]
+                },
+                {
+                    "funding-source": "Department of Science and Technology, Zhejiang",
+                    "award-id": [
+                        "2016C04004"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported in part by the National Science Foundation of China (Grant No 41671399) and the Department of Science and Technology, Zhejiang Province (2016C04004)"
+        }
+    ]
+}

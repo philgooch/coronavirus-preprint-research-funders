@@ -1,0 +1,29 @@
+{
+    "abstract": "Background: COVID-19 is an emerging disease and precise data are not available in the world and Iran. this study aimed to determine the epidemic trend and prediction of COVID-19 in Iran. Methods: This study is a secondary data analysis and modeling. We used the daily reports of definitive COVID-19 patients (sampling of severe cases and hospitalization) released by Iran Ministry of Health and Medical Education. Epidemic projection models of Gompertz, Von Bertalanffy and least squared error (LSE) were used to predict the number of cases at April 3, 2020 until May 13, 2020. Results: R0 in Iran was estimated to be 4.7 that has now fallen to below 2. Given the three different scenarios, the prediction of the patients on April 3, 2020 by Von Bertalanffy, Gompertz and LSE were estimated at 48200, 52500 and 58000, respectively. The number of deceased COVID-19 patients was also estimated to be 3600 individuals using the Von growth model, 4200 ones by Gompertz's model and 4850 ones according to the LSE method. To predict and estimate the number of patients and deaths in the end of epidemic based on Von and Gompertz models, we will have 87000 cases, 4900 and 11000 deaths until 13 May and 1 June, respectively. Conclusion: The process of controlling the epidemic is tangible. If enforcement and public behavior interventions continue with current trends, the control and reduction of the COVID-19 epidemic in Iran will be flat from April 28, until July, 2020 and new cases are expected to decline from the following Iranian new year.\nCompeting Interest Statement",
+    "affiliations": [
+        "Technology of Shahrekord University of Medical Science, Shahrekord, Iran (grant no.254). this research proposal approved by Shahrekord University of Medical Sciences (Code of Ethics Committee on Biological Research IR.SKUMS.REC 1398.254)"
+    ],
+    "author": "Fereydoon Rahmani; Yasin Fadaei; Ali Ahmadi; Majid Shirani",
+    "date": 2020,
+    "doi": "10.1101/2020.03.17.20037671",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.17.20037671"
+    },
+    "title": "Modeling and Forecasting Trend of COVID-19 Epidemic in Iran",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Deputy of Research and Technology of Shahrekord University of Medical Science, Shahrekord"
+                },
+                {
+                    "funding-source": "Shahrekord University of Medical Sciences"
+                },
+                {
+                    "funding-source": "Code of Ethics Committee on Biological Research IR.SKUMS.REC"
+                }
+            ],
+            "funding-statement": "This study was financially supported by the Deputy of Research and Technology of Shahrekord University of Medical Science, Shahrekord, Iran (grant no.254). this research proposal approved by Shahrekord University of Medical Sciences (Code of Ethics Committee on Biological Research IR.SKUMS.REC 1398.254)"
+        }
+    ]
+}

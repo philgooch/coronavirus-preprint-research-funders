@@ -1,0 +1,40 @@
+{
+    "abstract": "In this paper, we estimate the reproductive number R0 of COVID-19 based on Wallinga and Lipsitch framework {11} and a novel statistical time delay dynamic system. We use the observed data reported in CCDC's paper to estimate distribution of the generation interval of the infection and apply the simulation results from the time delay dynamic system as well as released data from CCDC to fit the growth rate. The conclusion is: Based our Fudan-CCDC model, the growth rate r of COVID-19 is almost in [0.30, 0.32] which is larger than the growth rate 0.1 estimated by CCDC {9}, and the reproductive number R0 of COVID-19 is estimated by 3.25\u2264 R0 \u22643.4 if we simply use R=1+r*Tc with Tc=7.5, which is bigger than that of SARS. Some evolutions and predictions are listed.",
+    "affiliations": [
+        "National Science Foundation of China (11671098, 91630309) and 111 project(B08018), Jin Cheng was supported in part by the National Science Foundation of China (11971121)"
+    ],
+    "author": "Jin Cheng; Nian Shao; Wenbin Chen",
+    "date": 2020,
+    "doi": "10.1101/2020.02.17.20023747",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.17.20023747"
+    },
+    "title": "The reproductive number R0 of COVID-19 based on estimate of a statistical time delay dynamical system",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wenbin Chen"
+                },
+                {
+                    "funding-source": "National Science Foundation of China",
+                    "award-id": [
+                        "11671098",
+                        "91630309",
+                        "B08018"
+                    ]
+                },
+                {
+                    "funding-source": "Jin Cheng"
+                },
+                {
+                    "funding-source": "National Science Foundation of China",
+                    "award-id": [
+                        "11971121"
+                    ]
+                }
+            ],
+            "funding-statement": "Wenbin Chen was supported in part by the National Science Foundation of China (11671098, 91630309) and 111 project(B08018), Jin Cheng was supported in part by the National Science Foundation of China (11971121)"
+        }
+    ]
+}

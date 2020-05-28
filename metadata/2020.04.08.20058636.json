@@ -1,0 +1,16 @@
+{
+    "abstract": "Coronavirus disease 2019 (COVID-19) has been considered as a global threat infectious disease, and various mathematical models are being used to conduct multiple studies to analyze and predict the evolution of this epidemic. We statistically analyze the epidemic data from February 24 to March 30, 2020 in Italy, and proposes a simple time series analysis model based on the Auto Regressive Integrated Moving Average (ARIMA). The cumulative number of newly diagnosed and newly diagnosed patients in Italy is preprocessed and can be used to predict the spread of the Italian COVID-19 epidemic. The conclusion is that an inflection point is expected to occur in Italy in early April, and some reliable points are put forward for the inflection point of the epidemic: strengthen regional isolation and protection, do a good job of personal hygiene, and quickly treat the team leaders existing medical forces. It is hoped that the \"City Closure\" decree issued by the Italian government will go in the right direction, because this is the only way to curb the epidemic.",
+    "author": "Jiao Fan; Guorong Ding; Yang Shen; Xinru Li",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20058636",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20058636"
+    },
+    "title": "Brief Analysis of the ARIMA model on the COVID-19 in Italy",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

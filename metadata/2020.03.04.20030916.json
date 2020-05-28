@@ -1,0 +1,50 @@
+{
+    "abstract": "Corona Virus Disease 2019 (COVID-19) has spread rapidly to more than 70 countries and regions overseas and over 80000 cases have been infected, resulting in more than three thousand deaths. Rapid diagnosis of patients remains a bottleneck in containing the progress of the epidemic. We used automated chemiluminescent immunoassay to detect serum IgM and IgG antibodies to 2019-nCoV of 736 subjects. COVID-19 patients were becoming reactive(positive) for specific antibodies from 7-12 days after the onset of morbidity. Specific IgM and IgG increased with the progression of the disease. The areas under the ROC curves of IgM and IgG were 0.988 and 1.000, respectively. Specific antibody detection has good sensitivity and specificity. Detection of specific antibodies in patients with fever can be a good distinction between COVID-19 and other diseases, so as to be a complement to nucleic acid diagnosis to early diagnosis of suspected cases.",
+    "author": "Rui Ye; Yong Liu; Rui Zheng; Jianhua Liu; Jin Zhang; Xiaosong Qin; Na Li",
+    "date": 2020,
+    "doi": "10.1101/2020.03.04.20030916",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.04.20030916"
+    },
+    "title": "Serological detection of 2019-nCoV respond to the epidemic: A useful complement to nucleic acid testing",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science and Technology Major Project of China",
+                    "award-id": [
+                        "2018ZX10302205"
+                    ]
+                },
+                {
+                    "funding-source": "Liaoning Province Natural Science Foundation",
+                    "award-id": [
+                        "20180550523"
+                    ]
+                },
+                {
+                    "funding-source": "Liaoning Province Central Government's",
+                    "award-id": [
+                        "2019JH6/10400009"
+                    ]
+                },
+                {
+                    "funding-source": "Guangdong Province Major",
+                    "award-id": [
+                        "201902010003"
+                    ]
+                },
+                {
+                    "funding-source": "Major Special Project of Construction Program of China Medical University in",
+                    "award-id": [
+                        "112/3110118034"
+                    ]
+                },
+                {
+                    "funding-source": "Shengjing Hospital of China Medical University"
+                }
+            ],
+            "funding-statement": "This study was funded by \u201cthe National Science and Technology Major Project of China (2018ZX10302205)\u201d, \u201cLiaoning Province Natural Science Foundation Project(20180550523)\u201d, \u201cLiaoning Province Central Government's special project to guide local scientific and technological development (2019JH6/10400009)\u201d, \u201cGuangdong Province Major key projects of industrial technology (201902010003)\u201d, \u201cMajor Special Project of Construction Program of China Medical University in 2018(112/3110118034)\u201d and \u201c345 talent project\u201d of Shengjing Hospital of China Medical University"
+        }
+    ]
+}

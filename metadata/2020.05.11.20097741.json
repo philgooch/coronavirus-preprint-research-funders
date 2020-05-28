@@ -1,0 +1,16 @@
+{
+    "abstract": "Background Coronavirus disease 2019 (COVID-19) is now a global pandemic with Europe and the USA at its epicenter. Little is known about risk factors for progression to severe disease in Europe. This study aims to describe the epidemiology of COVID-19 patients in a Swiss university hospital. Methods This retrospective observational study included all adult patients hospitalized with a laboratory confirmed SARS-CoV-2 infection from March 1 to March 25, 2020. We extracted data from electronic health records. The primary outcome was the need to mechanical ventilation at day 14. We used multivariate logistic regression to identify risk factors for mechanical ventilation. Follow-up was of at least 14 days. Results 200 patients were included, of whom 37 (18.5%) needed mechanical ventilation at 14 days. The median time from symptoms onset to mechanical ventilation was 9.5 days (IQR 7.00, 12.75). Multivariable regression showed increased odds of mechanical ventilation in males (3.26, 1.21-9.8; p=0.025), in patients who presented with a qSOFA score \u22652 (6.02, 2.09-18.82; p=0.001), with bilateral infiltrate (5.75, 1.91-21.06; p=0.004) or with a CRP of 40 mg/l or greater (4.73, 1.51-18.58; p=0.013). Conclusions This study gives some insight in the epidemiology and clinical course of patients admitted in a European tertiary hospital with SARS-CoV-2 infection. Male sex, high qSOFA score, CRP of 40 mg/l or greater and a bilateral radiological infiltrate could help clinicians identify patients at high risk for mechanical ventilation.",
+    "author": "Jean-Luc Pagani; Laurence Rochat; Matthaios Papadimitriou-Olivgeris; Paraskevas Filippidis; Mhedi Belkoniene; Jean Regina; Raphael Burger; Florian Desgranges; Eleftheria Kampouri; Carlos Fidalgo; Katia Jaton; David Haefliger; Antonios Kritikos; Laurence Senn; Pierre-Alexandre Bart; Loic Lhopitallier; Jonathan Tschopp; Oriol Manuel; Benjamin Viala",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20097741",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20097741"
+    },
+    "title": "Epidemiology, risk factors and clinical course of SARS-CoV-2 infected patients in a Swiss university hospital: an observational retrospective study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No additional funding was sought for this study."
+        }
+    ]
+}

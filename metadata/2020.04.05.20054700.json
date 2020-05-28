@@ -1,0 +1,23 @@
+{
+    "abstract": "As of April 5th 2020, SARS-CoV-2 has resulted in over 273,000 confirmed infections in the United States of America. Incidence continues to rise. As the epidemic threatens to overwhelm health care systems, identifying regions where the expected disease burden is likely to be high relative to the rest of the country is critical for enabling prudent and effective distribution of emergency resources. Across all global regions affected by the pandemic, an elevated risk of severe outcomes has consistently been observed in older age groups. Using age-specific mortality patterns in tandem with demographic data, we map a projection of the cumulative burden of COVID-19 and the associated cumulative burden on the healthcare system at the county-scale in the United States for a scenario in which 20% of the population of each county acquires infection. We identify regions that may be particularly impacted relative to the rest of the country, and observe a general trend that per capita disease burden and relative healthcare system demand may be highest away from major population centers.",
+    "affiliations": [
+        "National Science Foundation Graduate Research Fellowships"
+    ],
+    "author": "Ian F Miller; C. Jessica E Metcalf; Bryan T Grenfell; Alexander D Becker",
+    "date": 2020,
+    "doi": "10.1101/2020.04.05.20054700",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.05.20054700"
+    },
+    "title": "Mapping the Burden of COVID-19 in the United States",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation Graduate Research Fellowships"
+                }
+            ],
+            "funding-statement": "I.F.M and A.D.B. acknowledge funding from National Science Foundation Graduate Research Fellowships"
+        }
+    ]
+}

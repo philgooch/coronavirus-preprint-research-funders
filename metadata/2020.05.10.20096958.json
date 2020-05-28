@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: Severe COVID-19 pneumonia has been associated with the development of intense inflammatory responses during the course of infections with SARS-CoV-2. Given that Human Endogenous Retroviruses (HERVs) are known to be activated during and participate in inflammatory processes, we examined whether HERV dysregulation signatures are present in COVID-19 patients. Results: By comparing transcriptomes of Peripheral Blood Monocytes (PBMCs) and Bronchoalveolar Lavage Fluid (BALF) from patients and normal controls we have shown that HERVs are intensely dysregulated in BALF, but not in PBMCs. In particular, upregulation in the expression of multiple HERV families was detected in BALF samples of COVID-19 patients, with HERV-W being the most highly upregulated family among the families analysed. In addition, we compared the expression of HERVs in Human Bronchial Epithelial Cells (HBECs) without and after senescence induction in an oncogene-induced senescence model, in order to quantitatively measure changes in the expression of HERVs in bronchial cells during the processes of cellular senescence. Conclusions: This apparent difference of HERV dysregulation between PBMCs and BALF warrants further studies in involvement of HERVs in inflammatory pathogenetic mechanisms as well as exploration of HERVs as potential biomarkers for disease progression. Furthermore, the increase in the expression of HERVs in senescent HBECs in comparison to non-induced HBECs provides a potential link for increased COVID-19 severity and mortality in aged populations.\nCompeting Interest Statement",
+    "author": "Vana Spoulou; Spyros Sapounas; Gkikas Magiorkinis; Timokratis Karamitros; Richard Tedder; Tara Hurst; Sotirios Tsiodras; Anastasia Kotanidou; Dimitrios Paraskevis; Athanassios Kotsinas; Aris Katzourakis; Konstantina Kitsou; Pagona Lagiou; Vassilis Gorgoulis",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20096958",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20096958"
+    },
+    "title": "Upregulation of Human Endogenous Retroviruses in Bronchoalveolar Lavage Fluid of COVID-19 Patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "GSRT No",
+                    "award-id": [
+                        "2020\u03a3\u039501300001"
+                    ]
+                }
+            ],
+            "funding-statement": "Emblematic action to handle SARS-CoV-2 infection: Epidemiological study in Greece via extensive testing for viral and antibody detection, sequencing of the virome and genetic analysis of the carriers (GSRT No 2020\u03a3\u039501300001)."
+        }
+    ]
+}

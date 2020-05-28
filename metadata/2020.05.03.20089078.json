@@ -1,0 +1,41 @@
+{
+    "abstract": "Non-pharmaceutical interventions to combat COVID-19 transmission have worked to slow the spread of the epidemic but can have high socio-economic costs. It is critical we understand the efficacy of non-pharmaceutical interventions to choose a safe exit strategy. Many current models are not suitable for assessing exit strategies because they do not account for epidemic resurgence when social distancing ends prematurely (e.g., statistical curve fits) nor permit scenario exploration in specific locations. We developed an SEIR-type mechanistic epidemiological model of COVID-19 dynamics to explore temporally variable non-pharmaceutical interventions. We provide an interactive tool and code to estimate the transmission parameter, \u03b2, and the effective reproduction number, Reff. We fit the model to Santa Clara County, California, where an early epidemic start date and early shelter-in-place orders could provide a model for other regions. As of April 22, 2020, we estimate an Reff of 0.982 (95% CI: 0.849 - 1.107) in Santa Clara County. After June 1 (the end-date for Santa Clara County shelter-in-place as of April 27), we estimate a shift to partial social distancing, combined with rigorous testing and isolation of symptomatic individuals, is a viable alternative to indefinitely maintaining shelter-in-place. We also estimate that if Santa Clara County had waited one week longer before issuing shelter-in-place orders, 95 additional people would have died by April 22 (95% CI: 7 - 283). Given early life-saving shelter-in-place orders in Santa Clara County, longer-term moderate social distancing and testing and isolation of symptomatic individuals have the potential to contain the size and toll of the COVID-19 pandemic in Santa Clara County, and may be effective in other locations.",
+    "affiliations": [
+        "National Science Foundation (DEB-1518681); the National Institute of General Medical Sciences (1R35GM133439-01); the Natural Capital Project; the Helman Scholarship; the Terman Award"
+    ],
+    "author": "Nicole Nova; Erin A Mordecai; Devin Kirk; Lisa Couper; Marissa L Childs; Morgan P Kain; Isabel Delwel; Jacob Ritchie; Mallory Harris",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089078",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089078"
+    },
+    "title": "The impact of long-term non-pharmaceutical interventions on COVID-19 epidemic dynamics and control",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "DEB-1518681"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of General Medical Sciences",
+                    "award-id": [
+                        "1R35GM133439-01"
+                    ]
+                },
+                {
+                    "funding-source": "Natural Capital Project;"
+                },
+                {
+                    "funding-source": "Helman Scholarship;"
+                },
+                {
+                    "funding-source": "Terman Award."
+                }
+            ],
+            "funding-statement": "Funding provided by: the National Science Foundation (DEB-1518681); the National Institute of General Medical Sciences (1R35GM133439-01); the Natural Capital Project; the Helman Scholarship; the Terman Award."
+        }
+    ]
+}

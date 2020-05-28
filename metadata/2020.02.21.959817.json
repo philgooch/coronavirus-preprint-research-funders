@@ -1,0 +1,64 @@
+{
+    "title": "Rapid reconstruction of SARS-CoV-2 using a synthetic genomics platform",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Virology and Immunology (IVI), Bern, Switzerland 10",
+        "Department of Infectious Diseases and Pathobiology, Vetsuisse Faculty, University of Bern",
+        "Bern, Switzerland 12",
+        "Graduate School for Biomedical Science, University of Bern, Bern, Switzerland 13",
+        "Institute of Veterinary Bacteriology, Vetsuisse Faculty, University of Bern, Bern, Switzerland 14",
+        "Insitute for Infectious Diseases, University of Bern, Bern, Switzerland 15",
+        "Institute of Virology, Charit\u00e9-Universit\u00e4tsmedizin Berlin, corporate member of Freie",
+        "Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin, and Berlin Institute of Health, Berlin",
+        "German Centre for Infection Research, associated partner Charit\u00e9, Berlin, Germany. 19",
+        "Martsinovsky Institute of Medical Parasitology, Tropical and Vector Borne Diseases, 20 Sechenov University, Moscow, Russia. 21 22 \u00b6, \u00a7: equally contributed 23 *corresponding authors:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.21.959817",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.21.959817.pdf"
+    },
+    "abstract": "Reverse genetics has been an indispensable tool revolutionising our insights into viral pathogenesis and vaccine development. Large RNA virus genomes, such as from Coronaviruses, are cumbersome to clone and to manipulate in E. coli hosts due to size and occasional instability1-3. Therefore, an alternative rapid and robust reverse genetics platform for RNA viruses would benefit the research community. Here we show the full functionality of a yeast-based synthetic genomics platform for the genetic reconstruction of diverse RNA viruses, including members of the Coronaviridae, Flaviviridae and Paramyxoviridae families. Viral subgenomic fragments were generated using viral isolates, cloned viral DNA, clinical samples, or synthetic DNA, and reassembled in one step in Saccharomyces cerevisiae using transformation associated recombination (TAR) cloning to maintain the genome as a yeast artificial chromosome (YAC). T7-RNA polymerase has been used to generate infectious RNA, which was then used to rescue viable virus. Based on this platform we have been able to engineer and resurrect chemically-synthetized clones of the recent epidemic SARS-CoV-24 in only a week after receipt of the synthetic DNA fragments. The technical advance we describe here allows to rapidly responding to emerging viruses as it enables the generation and functional characterization of evolving RNA virus variants - in real-time - during an outbreak.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Commission"
+                },
+                {
+                    "funding-source": "Marie Sklodowska-Curie Innovative Training Network",
+                    "award-id": [
+                        "721367"
+                    ]
+                },
+                {
+                    "funding-source": "Swiss National Science Foundation",
+                    "award-id": [
+                        "CRSII3_160780",
+                        "310030_173085"
+                    ]
+                },
+                {
+                    "funding-source": "German Research Council",
+                    "award-id": [
+                        "SFB-TR84",
+                        "TRR 84/3",
+                        "772/7-2"
+                    ]
+                },
+                {
+                    "funding-source": "Federal Ministry of Education and Research",
+                    "award-id": [
+                        "#01KI1723A"
+                    ]
+                },
+                {
+                    "funding-source": "University of Bern"
+                }
+            ],
+            "funding-statement": "This work was supported by the European Commission (Marie Sklodowska-Curie Innovative Training Network \u201cHONOURS\u201d; grant agreement No 721367), the Swiss National Science Foundation (SNF; grants CRSII3_160780, and 310030_173085), the German Research Council (DFG; grants SFB-TR84 (TRR 84/3, A07), and DR 772/7-2), the Federal Ministry of Education and Research (BMBF; grant RAPID, #01KI1723A) and by core funds of the University of Bern"
+        }
+    ]
+}

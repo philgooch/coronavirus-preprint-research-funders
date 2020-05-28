@@ -1,0 +1,29 @@
+{
+    "title": "Structural insight into the putative role of novel SARS CoV-2 E protein in viral infection: a potential target for LAV development and therapeutic strategies",
+    "date": 2020,
+    "author": "1Structural Biology Lab, Department of Biochemistry, Bose Institute, P-1/12, CIT Road Scheme VIIM Kolkata 700054 WB India 2 Laboratory for Perception and Memory, Institut Pasteur, F-75015 Paris, France. 3 Centre National de la Recherche Scientifique (CNRS), Unit\u00e9 Mixte de Recherche (UMR-3571), F-75015 Paris, France. *Correspondence to: Tel: +91-33-25693273; +33-784005234 E-mail: sarkarmanish2016@jcbose.ac.in, sarkarmanish2016@gmail.com, soham.saha@pasteur.fr #, ORCID: 0000-0003-1173-1397 Classification: Bioinformatics, Structural Biology, Structure-function relationship Keywords: SARS-CoV-2, COVID-19, E-protein, homology modeling, proton channel Author Contributions: MS and SS designed the study, MS performed structural modeling and analysis, SS performed docking simulations and statistics, MS and SS drafted the manuscript and made the final figures. Competing interests: Authors declare no competing interests. The entire research work was performed during the nation-wide lockdown during the Covid-19 pandemic in France and India. Only publicly available libraries, servers, and resources were employed for the entire study. Data and materials availability: All data in the main text or the supplementary materials are available upon request",
+    "affiliations": [
+        "Structural Biology Lab, Department of Biochemistry, Bose Institute, P-1/12, CIT Road Scheme VIIM Kolkata 700054 WB India",
+        "Laboratory for Perception and Memory, Institut Pasteur, F-75015 Paris, France",
+        "Centre National de la Recherche Scientifique (CNRS), Unit\u00e9 Mixte de Recherche (UMR-3571), F-75015 Paris, France"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.11.088781",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.11.088781.pdf"
+    },
+    "abstract": "The outbreak of COVID-19 across the world has posed unprecedented and global challenges on multiple fronts. Most of the vaccine and drug development has focused on the spike proteins and viral RNA-polymerases. Using the bioinformatics and structural modeling approach, we modeled the structure of the envelope (E)-protein of novel SARS-CoV-2. The E-protein of this virus shares sequence similarity with that of SARS- CoV-1, and is highly conserved in the N-terminal regions. Incidentally, compared to spike proteins, E proteins demonstrate lower disparity and mutability among the isolated sequences. Using homology modeling, we found that the most favorable structure could function as a gated proton channel. Combining pocket estimation and docking with water, we determined that GLU 8 and ASN 15 in the N-terminal region were in close proximity to form H-bonds. Additionally, two distinct \u201ccore\u201d structures were visible, the hydrophobic core and the central core, which may regulate the opening/closing of the channel. We propose this as a mechanism of viral proton channeling activity which may play a critical role in viral infection. In addition, it provides a structural basis and additional avenues for LAV development and generating therapeutic interventions against the virus.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "E-protein",
+        "homology modeling",
+        "Only publicly available libraries",
+        "servers"
+    ],
+    "funding": [
+        {}
+    ]
+}

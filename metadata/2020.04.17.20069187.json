@@ -1,0 +1,16 @@
+{
+    "abstract": "Chest computed tomography (CT) is widely used for the management of Coronavirus disease 2019 (COVID-19) 49 pneumonia because of its availability and rapidity. The standard of reference for confirming COVID-19 relies on microbiological tests but these tests might not be available in an emergency setting and their results are not immediately available, contrary to CT. In addition to its role for early diagnosis, CT has a prognostic role by allowing visually evaluating the extent of COVID-19 lung abnormalities. The objective of this study is to address prediction of short-term outcomes, especially need for mechanical ventilation. In this multi-centric study, we propose an end-to-end artificial intelligence solution for automatic quantification and prognosis assessment by combining automatic CT delineation of lung disease meeting the performance of experts and data-driven identification of biomarkers for its prognosis. AI-driven combination of variables with CT-based biomarkers offers perspectives for optimal patient management given the shortage of intensive care beds and ventilators.",
+    "author": "Fabrice Andre; Enzo Battistella; Marie-Pierre Revel; Eric Deutsch; Valerie Bousson; Elyas Mahdjoub; Florian Bompard; Teodor Grand; Sophie Neveu; Maria Vakalopoulou; Ines Saab; Chahinez Hani; Severine Dangeard; Stefany El Hajj; Souhail Bennani; Gael Freche; Guillaume Chassagnon; Aurelien Lombard; Antoine Khalil; Stephane Tran Ba; Enora Guillo; Hasmik Koulakian; Hippolyte Monnier; Nikos Paragios; Stergios Christodoulidis; Trieu-Nghi Hoang-Thi; Pierre-Yves Brillet; Alienor Campredon; Nara Halm; Jules Gregory; Laure Fournier",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20069187",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20069187"
+    },
+    "title": "AI-Driven CT-based quantification, staging and short-term outcome prediction of COVID-19 pneumonia",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "N/A"
+        }
+    ]
+}

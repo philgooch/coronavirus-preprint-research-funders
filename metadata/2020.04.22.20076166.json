@@ -1,0 +1,16 @@
+{
+    "abstract": "Background Most of epidemiological models applied for COVID-19 do not consider heterogeneity in infectiousness and impact of superspreaders, despite the broad viral loading distributions amongst COVID-19 positive people (1-1 000 000 per mL). Also, mass group testing is not used regardless to existing shortage of tests. I propose new strategy for early detection of superspreaders with reasonable number of RT-PCR tests, which can dramatically mitigate development COVID-19 pandemic and even turn it endemic. Methods I used stochastic social-epidemiological SEIAR model, where S-suspected, E-exposed, I-infectious, A-admitted (confirmed COVID-19 positive, who are admitted to hospital or completely isolated), R-recovered. The model was applied to real COVID-19 dynamics in London, Moscow and New York City. Findings Viral loading data measured by RT-PCR were fitted by broad log-normal distribution, which governed high importance of superspreaders. The proposed full scale model of a metropolis shows that top 10% spreaders (100+ higher viral loading than median infector) transmit 45% of new cases. Rapid isolation of superspreaders leads to 4-8 fold mitigation of pandemic depending on applied quarantine strength and amount of currently infected people. High viral loading allows efficient group matrix pool testing of population focused on detection of the superspreaders requiring remarkably small amount of tests. Interpretation The model and new testing strategy may prevent thousand or millions COVID-19 deaths requiring just about 5000 daily RT-PCR test for big 12 million city such as Moscow. Though applied to COVID-19 pandemic the results are universal and can be used for other infectious heterogenous epidemics. Funding No funding",
+    "author": "Maxim B Gongalsky",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20076166",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20076166"
+    },
+    "title": "Early detection of superspreaders by mass group pool testing can mitigate COVID-19 pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was used"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The ongoing Covid-19 pandemic has driven many countries to take radical suppression measures. While reducing mortality, these measures result in severe economic repercussions, and inhibit the development of herd immunity. Until an effective vaccine will be available, we propose an alternative approach, akin to avalanche control at ski resorts, a practice which intentionally triggers small avalanches in order to prevent a singular catastrophic one. Its main goal is to approach herd immunity faster than the current alternatives, with lower mortality rates and lower demand for critical health-care resources. According to this approach, individuals whose probability of developing serious health conditions is low (i.e. 20-49 years old with no comorbidities) will be offered the option to be voluntarily exposed to the virus under controlled supervision, and will then be issued 'immunity certificates' if they are confirmed to have developed SARS-CoV-2 antibodies. Methods: Using a compartmental model we examine the implications of the controlled avalanche (CA) strategy over the population in Israel. We compare four scenarios: in two scenarios the CA program is applied to the low-risk population (with the rest of the population subject to mitigation measures), followed by mitigation for the entire population or by uncontrolled spread. These are compared to mitigated and uncontrolled scenarios without the CA program. We discuss the economic, ethical and public health implications of the CA strategy. Findings: We show that compared to mitigation of the entire population, the CA strategy reduces the overall mortality by 43%, reduces the maximum number of people in need for ICUs by 62% and decreases the time required for release of 50% of the low-risk population by more than 2 months. Interpretation: This study suggests an ethically acceptable practice, that enables reaching herd immunity faster than the current alternatives, with low mortality and minimal economic damage.\nCompeting Interest Statement",
+    "author": "Eyal Klement; Alon Klement; David Chinitz; Alon Harel; Ziv Klausner; Eyal Fattal",
+    "date": 2020,
+    "doi": "10.1101/2020.04.12.20062687",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.12.20062687"
+    },
+    "title": "Controlled Avalanche: A Regulated Voluntary Exposure Approach for Addressing Covid19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

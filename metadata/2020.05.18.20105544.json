@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The number of cumulative confirmed cases of COVID-19 in the United States has risen sharply since March. A county health ranking and roadmaps program has been established to identify factors associated with disparity in mobility and mortality of COVID-19 in all counties in the United States. Objective: To find out the risk factors associated with mortality of COVID-19 with various levels of prevalence. Design: A negative binomial design was applied to the county-level mortality counts of COVID-19 on April 15, 2020 in the United States. In this design, the infected counties were categorized into three levels of infections using clustering analysis based on time-variant cumulative confirmed cases from March 1 to April 15, 2020. Setting: United States Participants: COVID-19 patients in various counties of the United States from March 1 to April 15, 2020. Measurements: The county-level cumulative confirmed cases and mortality of COVID-19. Results. 2692 infected counties were assigned into three classes where the mild, moderate, and severe prevalence of infections were identified, respectively. Several risk factors are significantly associated with the mortality of COVID-19, where Hispanic (0.024, P=0.002), female (0.253, P=0.027), elder (0.218, P=0.017) and Native Hawaiian or other Pacific islander (2.032, P=0.027) individuals are more vulnerable to the mortality of COVID-19. More locations open to exercise (0.030, P=0.004), higher levels of air pollution (0.184, P=0.044), and segregation between non-White and White increased the mortality rate. Limitation: The study relied on mortality data on April 15, 2020. Conclusion. The mortality of COVID-19 depends on sex, ethnicity, and outdoor environment. The increasing awareness of these significant factors may lead to the reduction in the mortality rate of COVID-19.\nCompeting Interest Statement",
+    "author": "Congyuan Duan; Ting Tian; Xueqin Wang; Heping Zhang; Jingwen Zhang; Yukang Jiang; Liyuan Hu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20105544",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20105544"
+    },
+    "title": "Risk factors associated with mortality of COVID-19 in 2692 counties of the United States",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for this article."
+        }
+    ]
+}

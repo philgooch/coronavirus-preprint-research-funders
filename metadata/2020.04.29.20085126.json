@@ -1,0 +1,16 @@
+{
+    "abstract": "Many countries have introduced Lockdowns to contain the COVID19 epidemic. Lockdowns, though an effective policy for containment, imposes a heavy cost on the economy as it enforces extreme social distancing measures on the whole population. The objective of this note is to study alternatives to Lockdown which are either more targeted or allows partial opening of the economy. Cities are often spatially organized into wards. We introduce Multi-lattice small world (MLSW) network as a model of a city where each ward is represented by a 2D lattice and each vertex in the latex represents an agent endowed with SEIR dynamics. Through simulation studies on MLSW we examine a variety of candidate suppression policies and find that restricting lockdowns to infected wards can indeed out-perform global Lockdowns in both reducing the attack rate and also shortening the duration of the epidemic. Even policies such as partial opening of the economy, such as Two Day Work Week, can be competitive if augmented with extensive Contact Tracing.",
+    "author": "V. Vinay; Chiranjib Bhattacharyya",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20085126",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20085126"
+    },
+    "title": "Suppress, and not just flatten:Strategies for Rapid Suppression of COVID19 transmission in Small World Communities",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this work"
+        }
+    ]
+}

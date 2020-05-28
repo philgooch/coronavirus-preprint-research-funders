@@ -1,0 +1,58 @@
+{
+    "title": "Single Nucleus Multiomic Profiling Reveals Age-Dynamic Regulation of Host Genes Associated with SARS-CoV-2 Infection",
+    "author": "Allen Wang,#*, Joshua Chiou,#, Olivier B Poirion,#, Justin Buchanan,#, Michael J",
+    "date": 2020,
+    "affiliations": [
+        "Center for Epigenomics & Department of Cellular & Molecular Medicine, University of"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.12.037580",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.12.037580.pdf"
+    },
+    "keywords": [
+        "76 COVID-19",
+        "lung",
+        "SARS-CoV-2",
+        "single cell ATAC-seq",
+        "single cell RNA-seq",
+        "age dynamics"
+    ],
+    "abstract": "Respiratory failure is the leading cause of COVID-19 death and disproportionately impacts adults more than children. Here, we present a large-scale snATAC-seq dataset\n(90,980 nuclei) of the human lung, generated in parallel with snRNA-seq (46,500 nuclei), from healthy donors of ~30 weeks, ~3 years and ~30 years of age. Focusing on genes implicated in SARS-CoV-2 cell entry, we observed an increase in the proportion of alveolar epithelial cells expressing ACE2 and TMPRSS2 in adult compared to young lungs. Consistent with expression dynamics, 10 chromatin peaks linked to TMPRSS2 exhibited significantly increased activity with age and harbored IRF and STAT binding sites. Furthermore, we identified 14 common sequence variants in age-increasing peaks with predicted regulatory function, including several associated with respiratory traits and",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NHLBI Molecular Atlas of Lung Development Program Research Center",
+                    "award-id": [
+                        "1U01",
+                        "HL148867",
+                        "to X.Sun",
+                        "S. Preissl",
+                        "A. Wang",
+                        "J. Verheyden"
+                    ]
+                },
+                {
+                    "funding-source": "Human Tissue Core",
+                    "award-id": [
+                        "U01HL122700",
+                        "HL148861",
+                        "to G.H. Deutsch",
+                        "T.J. Mariani",
+                        "G.S. Pryhuber"
+                    ]
+                },
+                {
+                    "funding-source": "Center for Epigenomics"
+                },
+                {
+                    "funding-source": "UC San Diego School of Medicine."
+                }
+            ],
+            "funding-statement": "This work was supported by NHLBI Molecular Atlas of Lung Development Program Research Center grant 1U01 HL148867 (to X.Sun, S. Preissl, A. Wang and J. Verheyden), and Human Tissue Core grant U01HL122700 / HL148861 (to G.H. Deutsch, T.J. Mariani, G.S. Pryhuber). Work at the Center for Epigenomics was supported in part by the UC San Diego School of Medicine."
+        }
+    ]
+}

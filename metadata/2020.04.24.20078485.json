@@ -1,0 +1,16 @@
+{
+    "abstract": "The pandemic spread of the COVID-19 virus has, as of 20th of April 2020, reached most countries of the world. In an effort to design informed public health policies, many modelling studies have been performed to predict crucial outcomes of interest, including ICU solicitation, cumulated death counts, etc... The corresponding data analyses however, mostly rely on restricted (openly available) data sources, which typically include daily death rates and confirmed COVID cases time series. In addition, many of these predictions are derived before the peak of the outbreak has been observed yet (as is still currently the case for many countries). In this work, we show that peak phase and data paucity have a substantial impact on the reliability of model predictions. Although we focus on a recent model of the COVID pandemics, our conclusions most likely apply to most existing models, which are variants of the so-called 'Susceptible-Infected-Removed' or SIR framework. Our results highlight the need for performing systematic reliability evaluations for all models that currently inform public health policies. They also motivate a plea for gathering and opening richer and more reliable data time series (e.g., ICU occupancy, negative test rates, social distancing commitment reports, etc).",
+    "author": "Karl Friston; Jean Daunizeau; Rosalyn J Moran; Jeremie Mattout",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078485",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078485"
+    },
+    "title": "On the reliability of model-based predictions in the context of the current COVID epidemic event: impact of outbreak peak phase and data paucity",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

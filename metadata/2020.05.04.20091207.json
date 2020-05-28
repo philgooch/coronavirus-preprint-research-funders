@@ -1,0 +1,16 @@
+{
+    "abstract": "The initial stages of the CoVID-19 coronavirus pandemic all around the world exhibit a nearly exponential rise in the number of infections with time. Planners, governments, and agencies are scrambling to figure out \"How much? How bad?\" and how to effectively treat the potentially large numbers of simultaneously sick people. Modeling the CoVID-19 pandemic using an exponential rise implicitly assumes a nearly unlimited population of uninfected persons (\"dilute pandemic\"). Once a significant fraction of the population is infected (\"saturated pandemic\"), an exponential growth no longer applies. A new model is developed here, which modifies the standard exponential growth function to account for factors such as Social Distancing. A Social Mitigation Parameter [SMP] \u03b1/s\\ is introduced to account for these types of society-wide changes, which can modify the standard exponential growth function, as follows: N(t)= No exp[ +Ko t/(1 + \u03b1/s\\ t)] . The doubling-time t/dbl\\=(ln2)/Ko can also be used to substitute for Ko, giving a {t/dbl\\, \u03b1/s\\} parameter pair for comparing to actual CoVID-19 data. This model shows how the number of CoVID-19 infections can self-limit before reaching a saturated pandemic level. It also provides estimates for: (a) the timing of the pandemic peak, (b) the maximum number of new daily cases that would be expected, and (c) the expected total number of CoVID-19 cases. This model shows fairly good agreement with the presently available CoVID-19 pandemic data for several individual States, and the for the USA as a whole (6 Figures), as well as for various countries around the World (9 Figures). An augmented model with two Mitigation Parameters, \u03b1/s\\ and \u03b2/s\\, is also developed, which can give better agreement with the daily new CoVID-19 data. Data-to-model comparisons also indicate that using \u03b1/s\\ by itself likely provides a worst-case estimate, while using both \u03b1/s\\ and \u03b2/s\\ likely provides a best-case estimate for the CoVID-19 spread.",
+    "author": "Genghmun Eng",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20091207",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20091207"
+    },
+    "title": "Initial Model for Impact of Social Distancing on CoVID-19 Spread",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was used in creation of this work."
+        }
+    ]
+}

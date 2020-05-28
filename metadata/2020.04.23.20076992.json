@@ -1,0 +1,16 @@
+{
+    "abstract": "Since the end of 2019 an outbreak of a new strain of coronavirus, called SARS-CoV-2, is reported from China and later other parts of the world. Since January 21, WHO reports daily data on confirmed cases and deaths from both China and other countries. The Johns Hopkins University collects those data from various sources worldwide on a daily basis. For Germany, the Robert-Koch-Institute (RKI) also issues daily reports on the current number of infections and infection related fatal cases. However, due to delays in the data collection, the data from RKI always lags behind those reported by Johns Hopkins. In this work we present an extended SEIR-model to describe the disease dynamics in Germany. The parameter values are identified by matching the model output to the officially reported cases. An additional parameter to capture the influence of unidentified cases is also included in the model.",
+    "author": "Thomas Goetz; Peter Heidrich",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076992",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076992"
+    },
+    "title": "COVID-19 Disease Dynamics in Germany: First Models and Parameter Identification",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors are fully funded by the state of Rhineland-Palatinate, Germany"
+        }
+    ]
+}

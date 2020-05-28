@@ -1,0 +1,19 @@
+{
+    "abstract": "Background COVID-19 is a virus which has lead to a global pandemic. Worldwide, more than 130 countries have imposed severe restrictions, which form part of a set of non-pharmaceutical interventions (NPI)s. We aimed to quantify the country-specific effects of these NPIs and compare them using the Oxford COVID-19 Government Response Tracker (OxCGRT) stringency index, p, as a measure of NPI stringency. Methods We developed a dual latent/observable Susceptible Infected Recovered Deaths (SIRD) model and applied it on each of 22 countries and 25 states in the US using publicly available data. The observable model parameters were extracted using kernel functions. The regression of the transmission rate, \u03b2, as a function of p in each locale was modeled through the intervention leverage, \u03b1s, an initial transmission rate, \u03b20 and a typical adjustment time, br-1. Results The world average for the intervention leverage, \u03b1s=0.01 (95% CI 0.0102 - 0.0112) had an ensemble standard deviation of 0.0017 (95% C.I. 0.0014 - 0.0021), strongly indicating a universal behavior. Discussion Our study indicates that removing NPIs too swiftly will result in the resurgence of the spread within one to two months, in alignment with the current WHO recommendations. Moreover, we have quantified and are able to predict the effect of various combinations of NPIs. There is a minimum NPI level, below which leads to resurgence of the outbreak (in the absence of pharmaceutical and clinical advances). For the epidemic to remain sub-critical, the rate with which the intervention leverage \u03b1s increases should outpace that of the relaxation of NPIs.",
+    "affiliations": [
+        "South African Department of Science and Innovation South African National Research Foundation SA-CERN Program National E-science Postgraduate Teaching and Training Platform IEEE"
+    ],
+    "author": "Kgomotso Monnakgotla; Barry Dwolatzky; Caroline Maslo; Bruce Mellado; Jacques Naude; Fabio Correa; Leslie Dwolatzky; Finn Stevenson; Salah Dahbi; Joshua Choma; Xifeng Ruan; Benjamin Lieberman; Kentaro Hayasi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20085316",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20085316"
+    },
+    "title": "Worldwide Effectiveness of Various Non-Pharmaceutical Intervention Control Strategies on the Global COVID-19 Pandemic: A Linearised Control Model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

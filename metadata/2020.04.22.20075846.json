@@ -1,0 +1,26 @@
+{
+    "abstract": "Objective: We hypothesize that COVID-19 case growth data reveals the efficacy of NPIs. In this study, we conduct a secondary analysis of COVID-19 case growth data to compare the differences in the effectiveness of NPIs among 16 representative countries in the world. Methods: This study leverages publicly available data to learn patterns of dynamic changes in the reproduction rate for sixteen countries covering Asia, Europe, North America, South America, Australia, and Africa. Furthermore, we model the relationships between the cumulative number of cases and the dynamic reproduction rate to characterize the effectiveness of the NPIs. We learn four levels of NPIs according to their effects in the control of COVID-19 growth and categorize the 16 countries into the corresponding groups. Results: The dynamic changes of the reproduction rate are learned via linear regression models for all of the studied countries, with the average adjusted R-squared at 0.96 and the 95% confidence interval as [0.94 0.98]. China, South Korea, Argentina, and Australia are at the first level of NPIs, which are the most effective. Japan and Egypt are at the second level of NPIs, and Italy, Germany, France, Netherlands, and Spain, are at the third level. The US and UK have the most inefficient NPIs, and they are at the fourth level of NPIs. Conclusions: COVID-19 case growth data provides evidence to demonstrate the effectiveness of the NPIs. Understanding the differences in the efficacy of the NPIs among countries in the world can give guidance for emergent public health events.",
+    "affiliations": [
+        "Support at Vanderbilt University Medical Center"
+    ],
+    "author": "Yubo Feng; Chao Yan; You Chen; Cheng Gao; Xinmeng Zhang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075846",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075846"
+    },
+    "title": "Modeling COVID-19 Growing Trends to Reveal the Differences in the Effectiveness of Non-Pharmaceutical Interventions among Countries in the World",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Academic Research Support"
+                },
+                {
+                    "funding-source": "Vanderbilt University Medical Center"
+                }
+            ],
+            "funding-statement": "This research was supported, in part, by Academic Research Support at Vanderbilt University Medical Center"
+        }
+    ]
+}

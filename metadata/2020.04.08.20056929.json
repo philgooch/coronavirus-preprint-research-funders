@@ -1,0 +1,48 @@
+{
+    "abstract": "New York City (NYC) has emerged as one of the epicenters of the current SARS-CoV2 pandemic. To identify the early events underlying the rapid spread of the virus in the NYC metropolitan area, we sequenced the virus causing COVID19 in patients seeking care at the Mount Sinai Health System. Phylogenetic analysis of 84 distinct SARS-CoV2 genomes indicates multiple, independent but isolated introductions mainly from Europe and other parts of the United States. Moreover, we find evidence for community transmission of SARS-CoV2 as suggested by clusters of related viruses found in patients living in different neighborhoods of the city.",
+    "author": "Betsaida Salom Melo; Ajay Obla; Giulio Kleiner; Juan Soto; Florian Krammer; Alberto Paniz-Mondolfi; Adolfo Garcia-Sarstre; Shelcie Fabre; Deena Rose Altman; Nancy Francoeur; Andrew Kasarskis; Mitchell Sullivan; Gopi Patel; Viviana Simon; Ana S Gonzalez-Reiche; Melissa Gitman; Jayeeta Dutta; Adriana van de Guchte; Hala Alshammary; Emilia Mia Sordillo; Zenab Khan; Bremy Alburquerque; Brianne Ciferri; Ying-Chih Wang; Marta Luksza; Melissa Smith; Harm van Bakel; Gintaras Deikus; Kathryn Twyman; Robert Sebra; Judith Aberg; Irina Oussenko; Matthew M Hernandez; Shwetha Hara Sridhar; Jose Polanco",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20056929",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20056929"
+    },
+    "title": "Introductions and early spread of SARS-CoV-2 in the New York City area",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Research"
+                },
+                {
+                    "funding-source": "Office of Research Infrastructure of the National Institutes of Health",
+                    "award-id": [
+                        "S10OD01"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "S10OD018522",
+                        "S10OD026880"
+                    ]
+                },
+                {
+                    "funding-source": "Center for Research on Influenza Pathogenesis)"
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "Center of Excellence for Influenza Research and Surveillance",
+                    "award-id": [
+                        "HHSN272201400008C"
+                    ]
+                },
+                {
+                    "funding-source": "NIH"
+                }
+            ],
+            "funding-statement": "The Research reported in this paper was supported by the Office of Research Infrastructure of the National Institutes of Health (NIH) under award numbers S10OD018522 and S10OD026880 as well as institutional funds. Protocols established for this study were in part based on influenza virus sequencing protocols established with the support of CRIP (Center for Research on Influenza Pathogenesis), an NIH funded Center of Excellence for Influenza Research and Surveillance (CEIRS, contract number HHSN272201400008C). The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH."
+        }
+    ]
+}

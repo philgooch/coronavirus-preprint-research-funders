@@ -1,0 +1,55 @@
+{
+    "abstract": "The ongoing COVID-19 outbreak has expanded rapidly throughout China. Major behavioral, clinical, and state interventions are underway currently to mitigate the epidemic and prevent the persistence of the virus in human populations in China and worldwide. It remains unclear how these unprecedented interventions, including travel restrictions, have affected COVID-19 spread in China. We use real-time mobility data from Wuhan and detailed case data including travel history to elucidate the role of case importation on transmission in cities across China and ascertain the impact of control measures. Early on, the spatial distribution of COVID-19 cases in China was well explained by human mobility data. Following the implementation of control measures, this correlation dropped and growth rates became negative in most locations, although shifts in the demographics of reported cases are still indicative of local chains of transmission outside Wuhan. This study shows that the drastic control measures implemented in China have substantially mitigated the spread of COVID-19.",
+    "affiliations": [
+        "Oxford Martin School. MUGK is supported by",
+        "Branco Weiss Fellowship. NRF is supported by",
+        "Sir Henry Dale Fellowship. The funders had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript. WPH was supported by the National Institute of General Medical Sciences (#U54GM088558)"
+    ],
+    "author": "Nuno R Faria; Oliver Pybus; David M. Pigott; Huaiyu Tian; Alessandro Vespignani; Brennan Klein; Chia-Hung Yang; Bernardo Gutierrez; Ruoran Li; Maylis Layan; Christopher Dye; Samuel V Scarpino; Moritz U.G. Kraemer; Louis du Plessis; Chieh-Hsi Wu; Simon Cauchemez; open COVID-19 data working group; William P. Hanage; John S Brownstein",
+    "date": 2020,
+    "doi": "10.1101/2020.03.02.20026708",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.02.20026708"
+    },
+    "title": "The effect of human mobility and control measures on the COVID-19 epidemic in China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "OGP and MUGK"
+                },
+                {
+                    "funding-source": "Oxford Martin School"
+                }
+            ],
+            "funding-statement": "HT, OGP and MUGK acknowledge support from the Oxford Martin School"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Branco Weiss Fellowship"
+                }
+            ],
+            "funding-statement": "MUGK is supported by a Branco Weiss Fellowship"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Sir Henry Dale Fellowship"
+                }
+            ],
+            "funding-statement": "NRF is supported by a Sir Henry Dale Fellowship"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of General Medical Sciences",
+                    "award-id": [
+                        "#U54GM088558"
+                    ]
+                }
+            ],
+            "funding-statement": "WPH was supported by the National Institute of General Medical Sciences (#U54GM088558)"
+        }
+    ]
+}

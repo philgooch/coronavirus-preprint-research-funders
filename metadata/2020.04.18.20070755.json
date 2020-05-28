@@ -1,0 +1,16 @@
+{
+    "abstract": "To circumvent the limited availability of RNA extraction reagents, we aimed to develop a protocol for direct RT-qPCR to detect SARS-CoV-2 in nasopharyngeal swabs without RNA extraction. Nasopharyngeal specimens positive for SARS-CoV-2 and other coronaviruses collected in universal viral transport (UVT) medium were pre-processed by several commercial and laboratory-developed methods and tested by RT-qPCR assays without RNA extraction using different RT-qPCR master mixes. The results were compared to that of standard approach that involves RNA extraction. Incubation of specimens at 65\u00b0C for 10 minutes along with the use of TaqPath\u2122 1-Step RT-qPCR Master Mix provides higher analytical sensitivity for detection of SARS-CoV-2 RNA than many other conditions tested. The optimized direct RT-qPCR approach demonstrated a limit of detection of 6.6x103 copy/ml and high reproducibility (co-efficient of variation = 1.2%). In 132 nasopharyngeal specimens submitted for SARS-CoV-2 testing, the sensitivity, specificity and accuracy of our optimized approach were 95%, 99% and 98.5%, respectively, with reference to the standard approach. Also, the RT-qPCR CT values obtained by the two methods were positively correlated (Pearson correlation coefficient r=0.6971, p=0.0013). The rate of PCR inhibition by the direct approach was 8% compared to 9% by the standard approach. Our simple approach to detect SARS-CoV-2 RNA by direct RT-qPCR may help laboratories continue testing for the virus despite reagent shortages or expand their testing capacity in resource limited settings.",
+    "author": "Hashim Alhussain; Mohammad Rubayet Hasan; Hadi Mohamad Yassine; Thabisile Xaba; Andres Perez Lopez; Patrick Tang; Hamad Al-Hail; Faheem Mirza; Muhammad Iqbal; Sathyavathi Sundararaju",
+    "date": 2020,
+    "doi": "10.1101/2020.04.18.20070755",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.18.20070755"
+    },
+    "title": "Detection of SARS-CoV-2 RNA by direct RT-qPCR on nasopharyngeal specimens without extraction of viral RNA",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding received for this study."
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "abstract": "Background COVID-19 has caused an unprecedented public health crisis and economic shock to the global economy. While many countries were affected, regions with an older population and weaker public health interventions tended to suffer more morbidity and mortality. Here we model and quantify the age-specific incidence of COVID-19 in four pandemic cities under different interventions. Methods We developed an age-specific and multiple-stage susceptible-exposed-infected-recovered-hospitalized-quarantined-dead (SEIR-HQD) dynamical systems model expanded from the more basic SEIR model by incorporating location- and age-specific contact matrices to estimate the outcomes of COVID-19. Utilizing latest estimates of epidemiological parameters and demographic data, we model the potential effects of various interventions in four representative cities with different population structures - New York, Los Angeles, Daegu and Nairobi. We compared the effects of different interventions in the age-structure populations specific to each city. These policy options are then applied to determine the potential for effective containment. We model these dynamic policy scenarios to assess the risks of less-stringent social distancing, as has been proposed by those arguing to enhance economic activity over public health and safety. Finally, we explored the health impacts of different policy action timelines to understand the benefits of early interventions. Findings We find the spread of COVID-19 to be dramatically different in the regions modeled, with the primary drivers the variation of population age structures, and the dynamics of interactions of the younger demographics, whose higher interaction rates can lead to increasing transmission rates across these communities. A city with younger citizens may also have fewer hospitalized cases and deaths. Our modeling quantifies the value of early interventions, which avoided an additional 5%, 16%, 37% and 43% of the infections in Daegu, Nairobi, New York and Los Angeles, respectively, compared to what has been observed in the four cities. The finding is clear: in the absence of pharmaceutical options, delaying strict social policy interventions has resulted in substantial public health cost. This modeling can, and will, be applied to other cities and regions, and conducted in conjunction with other health insults, such as exposure to air pollution. Critically, we find that school closures, working from home, and reduction in other mobility were most beneficial for younger population (0-19 years old), middle-age (20-59 years old) population and older population (60 years and older), respectively across each city. Specifically, school closure avoided 25%, 18%, 16% and 12% of the infections for the population under 20 years old in Daegu, Los Angeles, New York and Nairobi, respectively. A 50% and 80% population working from home policy avoids 8% and 15% of the infections. Reduction in mobility was more effective than the working from home strategy. Any single social distancing policy if enacted alone can delay the spread of COVID-19 but was unable to totally suppress the infection. Coordinated policy action can be highly effective. Increasing the quarantine rate to 10% of infectious cases was more effective than strict social distancing alone in this study, although together they can suppress 80% of the epidemic. A combination of moderate social distancing and quarantine strategies was able to avoid 99% of the infections. Interpretation Moderate social distancing together with high quarantine rates was effective in each of the four cities. COVID-19 caused more deaths and hospitalization in cities with an ageing population than those with a younger population. However, in the cities with a younger population, there is a clear need to implement a social distancing strategy that is even more strict due to the higher transmission rates among younger people. Cities with more older people should prepare more hospital beds and healthcare facilities to save people who are in critical conditions. Cities with ageing population should take targeted action for the elderly to avoid the severe impacts on the vulnerable populations. Increasing quarantine rate is an effective strategy to avoid the substantial infection while also does not influence the economy fiercely. We recommend countries or regions experiencing, or likely to experience the rapid spread of COVID-19, to implement combination of multiple strategies in the early stage of the breakout which can avoid over 90% of infected cases.",
+    "author": "Daniel M. Kammen; Hao Yin; Zhu Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071803",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071803"
+    },
+    "title": "Impacts of Early Interventions on the Age-Specific Incidence of COVID-19 in New York, Los Angeles, Daegu and Nairobi",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "71904104"
+                    ]
+                },
+                {
+                    "funding-source": "China Postdoctoral Science Foundation",
+                    "award-id": [
+                        "2019M650726"
+                    ]
+                }
+            ],
+            "funding-statement": "HY was funded by the National Natural Science Foundation of China (grant 71904104) and the China Postdoctoral Science Foundation (grant 2019M650726)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Qiushi Foundation,"
+                },
+                {
+                    "funding-source": "Resnick Sustainability Institute"
+                },
+                {
+                    "funding-source": "California Institute of Technology and the National Natural Science Foundation of China",
+                    "award-id": [
+                        "71874097",
+                        "41921005"
+                    ]
+                }
+            ],
+            "funding-statement": "ZL acknowledges funding from Qiushi Foundation, the Resnick Sustainability Institute at California Institute of Technology and the National Natural Science Foundation of China (grant 71874097 and 41921005)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Zaffaroni Family Foundation,"
+                },
+                {
+                    "funding-source": "Karsten Family Foundation,",
+                    "award-id": [
+                        "1539585"
+                    ]
+                },
+                {
+                    "funding-source": "US NSF CyberSEES Grant",
+                    "award-id": [
+                        "1539585"
+                    ]
+                },
+                {
+                    "funding-source": "NSF InFEWS",
+                    "award-id": [
+                        "1633740"
+                    ]
+                }
+            ],
+            "funding-statement": "DMK gratefully acknowledges the support of the Zaffaroni Family Foundation, the Karsten Family Foundation, and US NSF CyberSEES Grant #1539585 and NSF InFEWS grant DGE #1633740"
+        }
+    ]
+}

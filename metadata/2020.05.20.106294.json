@@ -1,0 +1,58 @@
+{
+    "title": "Deep sequencing of B cell receptor repertoires from COVID-19 patients reveals strong convergent immune signatures",
+    "date": 2020,
+    "author": "6 Jacob D. Galson, Sebastian Schaetzle, Rachael J. M. Bashford-Rogers, Matthew I. 7 J. Raybould, Aleksandr Kovaltsuk, Gavin J. Kilpatrick, Ralph Minter, Donna K. 8 Finch, Jorge Dias, Louisa James, Gavin Thomas, Wing-Yiu Jason Lee, Jason 9 Betley, Olivia Cavlan, Alex Leech, Charlotte M. Deane, Joan Seoane, Carlos 10 Caldas, Dan Pennington, Paul Pfeffer, Jane Osbourn,* 11 12 1 Alchemab Therapeutics Ltd, 55-56 Russell Square, London, WC1B 4HP, UK 13 2 Wellcome Centre for Human Genetics, Roosevelt Dr, Oxford, OX, 7BN, UK 14 3 Oxford Protein Informatics Group, Department of Statistics, University of Oxford, Oxford OX, 3LB, UK 15 4 Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London E, 16 2AD, UK 17 5 Illumina, Inc., Illumina Centre, Granta Park, Cambridge CB, 6DF, UK 18 6 Translational Research Program, Vall d\u2019Hebron Institute of Oncology, Barcelona 08035, Spain 19 7 Cancer Research UK Cambridge Institute and Department of Oncology, Li Ka Shing Centre, University of 20 Cambridge, Cambridge CB, 0RE, UK 21 22 *Corresponding authors: jake@alchemab.com, jane@alchemab.com 23",
+    "affiliations": [
+        "Wellcome Centre for Human Genetics, Roosevelt Dr, Oxford, OX3 7BN, UK 14",
+        "Oxford Protein Informatics Group, Department of Statistics, University of Oxford, Oxford OX1 3LB, UK 15",
+        "Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London E1 16 2AD, UK 17",
+        "Illumina, Inc., Illumina Centre, Granta Park, Cambridge CB21 6DF, UK 18",
+        "Translational Research Program, Vall d\u2019Hebron Institute of Oncology, Barcelona 08035, Spain 19",
+        "Cancer Research UK Cambridge Institute and Department of Oncology, Li Ka Shing Centre, University of 20 Cambridge, Cambridge CB2 0RE, UK 21 22",
+        "Corresponding authors:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.20.106294",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.20.106294.pdf"
+    },
+    "abstract": "27 Deep sequencing of B cell receptor (BCR) heavy chains from a cohort of 19 COVID-19 patients from the UK reveals a stereotypical naive immune response to SARS-CoV-2 which is consistent across patients and may be a positive indicator of disease outcome. Clonal expansion of the B cell memory response is also observed and may be the result of memory bystander effects. There was a strong convergent sequence signature across patients, and we identified 777 clonotypes convergent between at least four of the COVID-19 patients, but not present in healthy controls. A subset of the convergent clonotypes were homologous to known SARS and SARS-CoV-2 spike protein neutralising antibodies. Convergence was also demonstrated across wide geographies by comparison of data sets between patients from UK, USA and China, further validating the disease association and consistency of the stereotypical immune response even at the sequence level. These convergent clonotypes provide a resource to identify potential therapeutic and prophylactic antibodies and demonstrate the potential of BCR profiling as a tool to help understand and predict positive patient responses. 42 43 Key words: COVID-19, SARS-CoV-2, B cell repertoire, antibody",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Felicia Anna Tucci",
+                    "award-id": [
+                        "University of Oxford"
+                    ]
+                },
+                {
+                    "funding-source": "University of Oxford)"
+                },
+                {
+                    "funding-source": "Engineering and Physical Sciences Research Council"
+                },
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "EP/L016044/1"
+                    ]
+                }
+            ],
+            "funding-statement": "We also thank Felicia Anna Tucci (University of Oxford) for her help with the BCR sequencing methods. MIJR is supported by an Engineering and Physical Sciences Research Council (EPSRC) and Medical Research Council (MRC) grant [EP/L016044/1]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Biotechnology and Biological Sciences Research Council",
+                    "award-id": [
+                        "BB/M011224/1"
+                    ]
+                }
+            ],
+            "funding-statement": "AK is supported by a Biotechnology and Biological Sciences Research Council (BBSRC) grant [BB/M011224/1]"
+        }
+    ]
+}

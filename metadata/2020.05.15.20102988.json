@@ -1,0 +1,44 @@
+{
+    "abstract": "Although COVID-19 has spread almost all over the world, social isolation is still a controversial public health policy and governments of many countries still doubt its level of effectiveness. This situation can create deadlocks in places where there is a discrepancy among municipal, state and federal policies. The exponential increase of the number of infectious people and deaths in the last days shows that the COVID-19 epidemics is still at its early stage in Brazil and such political disarray can lead to very serious results. In this work, we study the COVID-19 epidemics in Brazilian cities using early-time approximations of the SIR model in networks. Different from other works, the underlying network is constructed by feeding real-world data on local COVID-19 cases reported by Brazilian cities to a regularized vector autoregressive model, which estimates directional COVID-19 transmission channels (links) of every pair of cities (vertices) using spectral network analysis. Our results reveal that social isolation and, especially, the use of masks can effectively reduce the transmission rate of COVID-19 in Brazil. We also build counterfactual scenarios to measure the human impact of these public health measures in terms of reducing the number of COVID-19 cases at the epidemics peak. We find that the efficiency of social isolation and of using of masks differs significantly across cities. For instance, we find that they would potentially decrease the COVID-19 epidemics peak in Sao Paulo (SP) and Brasilia (DF) by 15% and 25%, respectively. We hope our study can support the design of further public health measures.",
+    "affiliations": [
+        "University of Sao Paulo under grant number 2018.1.1702.59.8, and the Brazilian National Council for Scientific and Technological Development (CNPq) under grant numbers 303199/2019-9, 308171/2019-5, and 408546/2018-2"
+    ],
+    "author": "Thiago Christiano Silva; Liang Zhao; Leandro Anghinoni",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20102988",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20102988"
+    },
+    "title": "Quantitative Analysis of the Effectiveness of Public Health Measures on COVID-19 Transmission",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Sao Paulo State Research Foundation",
+                    "award-id": [
+                        "2015/50122-0",
+                        "2013/07375-0"
+                    ]
+                },
+                {
+                    "funding-source": "Brazilian Coordination of Superior Level Staff Improvement"
+                },
+                {
+                    "funding-source": "Pro-Rectory of Research"
+                },
+                {
+                    "funding-source": "University of Sao Paulo"
+                },
+                {
+                    "funding-source": "Brazilian National Council for Scientific and Technological Development",
+                    "award-id": [
+                        "303199/2019-9",
+                        "308171/2019-5",
+                        "408546/2018-2"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is supported in part by the Sao Paulo State Research Foundation (FAPESP) under grant numbers 2015/50122-0 and 2013/07375-0, the Brazilian Coordination of Superior Level Staff Improvement (CAPES), the Pro-Rectory of Research (PRP) of University of Sao Paulo under grant number 2018.1.1702.59.8, and the Brazilian National Council for Scientific and Technological Development (CNPq) under grant numbers 303199/2019-9, 308171/2019-5, and 408546/2018-2"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "TThe Bacillus Calmette-Guerin (BCG) vaccine provides protection against tuberculosis (TB), and is proposed to provide protection to non-TB infectious diseases. The COVID-19 outbreak results from infection with the novel coronavirus SARS-CoV-2 (CoV-2) and was declared a pandemic on March 11th, 2020. We queried whether the BCG vaccine offers protection against CoV-2 infection. We observed that countries with a current universal BCG vaccination policy have a significantly lower COVID-19 incidence than countries which never had a universal BCG policy or had one in the past. However, population density, median age, TB incidence, urban population, and, most significantly, CoV-2 testing rate, were also connected with BCG policy and could potentially confound the analysis. By limiting the analysis to countries with high CoV-2 testing rates, defined as greater than 2,500 tests per million inhabitants, these parameters were no longer statistically associated with BCG policy. When analyzing only countries with high testing rates, there was no longer a significant association between the number of COVID-19 cases per million inhabitants and the BCG vaccination policy. Although preliminary, our analyses indicate that the BCG vaccination may not offer protection against CoV-2 infection. While reporting biases may confound our observations, our findings support exercising caution in determining potential correlation between BCG vaccination and COVID-19 incidence, in part due significantly lower rates of CoV-2 testing per million inhabitants in countries with current universal BCG vaccination policy.",
+    "author": "Janine Hensel; Dara Dowlatshahi; Raghu Kalluri; Kathleen M McAndrews; Valerie S LeBleu; Daniel J McGrail",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20056051",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20056051"
+    },
+    "title": "Exercising caution in correlating COVID-19 incidence and mortality rates with BCG vaccination policies due to variable rates of SARS CoV-2 testing",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No extramural funding support."
+        }
+    ]
+}

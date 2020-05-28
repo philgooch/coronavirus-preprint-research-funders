@@ -1,0 +1,16 @@
+{
+    "abstract": "The SARS-CoV-2 coronavirus is wreaking havoc globally, yet knowledge of its biology is limited. Climate and seasonality influence the distributions of many diseases, and studies suggest a link between SARS-CoV-2 and cool weather. One such study, building species distribution models (SDMs), predicted SARS-CoV-2 risk may remain concentrated in the Northern Hemisphere, shifting northward in summer months. Others have highlighted issues with SARS-CoV-2 SDMs, notably: the primary niche of the virus is the host it infects, climate may be a weak distributional predictor, global prevalence data have issues, and the virus is not in a population equilibrium. While these issues should be considered, climate still may be important for predicting the future distribution of SARS-CoV-2. To further examine if there is a link, we model with raw cases and population scaled cases for SARS-CoV-2 county-level data from the United States. We show that SDMs built from population scaled cases data cannot be distinguished from control models built from raw human population data, while SDMs built on raw data fail to predict the current known distribution of cases in the US. The population scaled analyses indicate that climate may not play a central role in current US viral distribution and that human population density is likely a primary driver. Still, we do find slightly more population scaled viral cases in cooler areas. This coupled with our geographically constrained focus make it so we cannot rule out climate as a partial driver of the US SARS-CoV-2 distribution. Climate's role on SARS-CoV-2 should continue to be cautiously examined, but at this time we should assume that SARS-CoV-2 can spread anywhere in the US.",
+    "author": "Seth W Cunningham; Michael Tessler; Robert S Harbert",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20057281",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20057281"
+    },
+    "title": "Spatial modeling cannot currently differentiate SARS-CoV-2 coronavirus and human distributions on the basis of climate in the United States",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was conducted with no external funding during a period of time when normal research funds have been suspended for all authors."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "We extend the classical SIR epidemic spread model by introducing the \"quarantined\" compartment. We solve (numerically) the differential equations that govern the extended model and quantify how quarantining \"flattens the curve\" for the proportion of infected population over time. Furthermore, we explore the potential of using drones to deliver tests, enabling mass-testing for the infection; we give a method to estimate the drone fleet needed to deliver the tests in a metropolitan area. Application of our models to COVID-19 spread in Sweden shows how the proposed methods could substantially decrease the peak number of infected people, almost without increasing the duration of the epidemic.",
+    "author": "Leonid Sedov; valentin polishchuk; Alexander Krasnochub",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20067025",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20067025"
+    },
+    "title": "Modeling quarantine during epidemics and mass-testing using drones",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding specific to this work"
+        }
+    ]
+}

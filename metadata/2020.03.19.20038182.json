@@ -1,0 +1,48 @@
+{
+    "abstract": "Background: Current outbreaks of COVID-19 are threatening the health care systems of several countries around the world. Control measures, based on isolation and quarantine, have been shown to decrease and delay the burden of the ongoing epidemic. With respect to the ongoing COVID-19 epidemic, recent modelling work shows that this intervention technique may be inadequate to control local outbreaks, even when perfect isolation is assumed. Furthermore, the effect of infectiousness prior to symptom onset combined with a significant proportion of asymptomatic infectees further complicates the use of contact tracing. Antivirals, which decrease the viral load and reduce the infectiousness, could be integrated in the control measures in order to augment the feasibility of controlling the epidemic. Methods: Using a simulation-based model of viral transmission we tested the efficacy of different intervention measures for the control of COVID-19. For individuals that were identified through contact tracing, we evaluate two procedures: monitoring individuals for symptoms onset and testing of individuals. Moreover, we investigate the effect of a potent antiviral compound on the contact tracing process. Findings: The use of an antiviral drug, in combination with contact tracing, quarantine and isolation, results in a significant decrease of the final size, the peak incidence, and increases the probability that the outbreak will fade out. Interpretation: For an infectious disease in which presymptomatic infections are plausible, an intervention measure based on contact tracing performs better when realized together with testing instead of monitoring, provided that the test is able to detect infections during the incubation period. In addition, in all tested scenarios, the model highlights the benefits of the administration of an antiviral drug in addition to quarantine, isolation and contact tracing. The resulting control measure, could be an effective strategy to control local and re-emerging outbreaks of COVID-19.\nCompeting Interest Statement",
+    "affiliations": [
+        "Hasselt University, JV is employed at Bioqube Ventures. Bioqube Ventures was not involved in this work, nor does it prosper financially as a result of the current study. The other authors declare that they have no competing interests",
+        "University of Antwerp. PL was supported by funding from the Flemish Government under the \"Onderzoeksprogramma Artificiele Intelligentie (AI) Vlaanderen\" programme"
+    ],
+    "author": "Pieter Jules Karel Libin; Johan Neyts; Andrea Torneri; Joris Vanderlocht; Niel Hens; Anne-Mieke Vandamme",
+    "date": 2020,
+    "doi": "10.1101/2020.03.19.20038182",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.19.20038182"
+    },
+    "title": "A prospect on the use of antiviral drugs to control local outbreaks of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Epipose project",
+                    "award-id": [
+                        "SC1-PHE-CORONAVIRUS-2020",
+                        "101003688",
+                        "682540 \u0097 TransMID"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is funded by the Epipose project from the European Union\u0092s SC1-PHE-CORONAVIRUS-2020 programme, project number 101003688 and by the European Union\u0092s Horizon 2020 research and innovation programme (grant agreement 682540 \u0097 TransMID)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Antwerp"
+                }
+            ],
+            "funding-statement": "AT acknowledges support from the special research fund of the University of Antwerp"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Flemish Government"
+                },
+                {
+                    "funding-source": "Onderzoeksprogramma Artificiele Intelligentie"
+                }
+            ],
+            "funding-statement": "PL was supported by funding from the Flemish Government under the \"Onderzoeksprogramma Artificiele Intelligentie (AI) Vlaanderen\" programme"
+        }
+    ]
+}

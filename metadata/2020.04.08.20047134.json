@@ -1,0 +1,47 @@
+{
+    "abstract": "The coronavirus disease (COVID-19) caused by the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has now spread to more than 100 countries posing as a serious threat to the public health on a global scale. Patients with comorbidity such as hypertension suffer more severe infection with elevated case fatality rate. Development of effective anti-viral drug is in urgent need to treat COVID-19 patients. Here we report that calcium channel blockers (CCBs), a type of anti-hypertension drugs that are widely used in the clinics, can significantly inhibit the post-entry replication events of SARS-CoV-2 in vitro. Comparison with two other major types of anti-hypertension drugs, the angiotensin converting enzyme inhibitors (ACEI) and angiotensin II receptor blockers (ARB), showed that only CCBs display significant anti-SARS-CoV-2 efficacy. Combined treatment with chloroquine and CCBs significantly enhanced the anti-SARS-CoV-2 efficacy. Retrospective clinical investigation of COVID-19 patients revealed that the CCB amlodipine besylate administration distinctly reduced the case fatality rate of patients with hypertension. Results from this study suggest that CCB administration for COVID-19 patients with hypertension as the comorbidity might improve the disease outcome.",
+    "affiliations": [
+        "Chinese Academy of Sciences (XDB29010204), National Science and Technology Major Project (No. 2018ZX10101004001005), and the Hubei Science and Technology Project (2020FCA003)"
+    ],
+    "author": "Gengfu Xiao; Hongbo Chen; Yudong Peng; Liu Yang; Wei Liu; Ke Peng; Xiaming Jiang; Wei-Juan Shang; Yan Wu; Yuan Sun; Leike Zhang; Hao Li; Runming Jin; Hao-Long Zeng; Yu-Lan Zhang; Shufen Li",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20047134",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20047134"
+    },
+    "title": "Calcium channel blocker amlodipine besylate is associated with reduced case fatality rate of COVID-19 patients with hypertension",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Natural Science Foundation of China",
+                    "award-id": [
+                        "31970165",
+                        "81825019",
+                        "81722041",
+                        "31770188"
+                    ]
+                },
+                {
+                    "funding-source": "Strategic Priority Research Program of the Chinese Academy of Sciences",
+                    "award-id": [
+                        "XDB29010204"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Major Project",
+                    "award-id": [
+                        "2018ZX10101004001005"
+                    ]
+                },
+                {
+                    "funding-source": "Hubei Science and Technology Project",
+                    "award-id": [
+                        "2020FCA003"
+                    ]
+                }
+            ],
+            "funding-statement": "The study was supported by the Natural Science Foundation of China (31970165, 81825019, 81722041, 31770188), the Strategic Priority Research Program of the Chinese Academy of Sciences (XDB29010204), National Science and Technology Major Project (No 2018ZX10101004001005), and the Hubei Science and Technology Project (2020FCA003)"
+        }
+    ]
+}

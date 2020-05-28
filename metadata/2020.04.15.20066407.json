@@ -1,0 +1,121 @@
+{
+    "abstract": "Objectives: The COVID-19 pandemic caused >1 million infections during January-March 2020. There is an urgent need for reliable antibody detection approaches to support diagnosis, vaccine development, safe release of individuals from quarantine, and population lock-down exit strategies. We set out to evaluate the performance of ELISA and lateral flow immunoassay (LFIA) devices. Design: We tested plasma for COVID (SARS-CoV-2) IgM and IgG antibodies by ELISA and using nine different LFIA devices. Setting: We performed laboratory work at the University of Oxford. Participants: We used a panel of plasma samples from individuals who have had confirmed COVID infection based on a PCR result (n=40), and pre-pandemic negative control samples banked in the UK prior to December-2019 (n=142). Main outcome measures: We recorded optical density results from ELISA experiments and positive/negative/invalid results from LFIA devices. Results: ELISA detected IgM or IgG in 34/40 individuals with a confirmed history of COVID infection (sensitivity 85%, 95%CI 70-94%), vs. 0/50 pre-pandemic controls (specificity 100% [95%CI 93-100%]). IgG levels were detected in 31/31 COVID-positive individuals tested \u226510 days after symptom onset (sensitivity 100%, 95%CI 89-100%). IgG titres rose during the 3 weeks post symptom onset and began to fall by 8 weeks, but remained above the detection threshold. Point estimates for the sensitivity of LFIA devices ranged from 55-70% versus RT-PCR and 65-85% versus ELISA, with specificity 95-100% and 93-100% respectively. Within the limits of the study size, the performance of most LFIA devices was similar. Conclusions: Currently available commercial LFIA devices do not perform sufficiently well for individual patient applications. ELISA can be calibrated to be specific for detecting and quantifying SARS-CoV-2 IgM and IgG and is highly sensitive for IgG from 10 days following first symptoms.",
+    "affiliations": [
+        "University of Oxford. Participants: We used a panel of plasma samples from individuals who have had confirmed COVID infection based on",
+        "Wellcome Trust Intermediate Clinical Fellowship (110058/Z/15/Z). DWE is",
+        "Robertson Foundation Fellow and NIHR Oxford BRC Senior Research Fellow. PM is",
+        "Sir Henry Dale Fellowship, jointly funded by the Wellcome Trust and the Royal Society (Grant 101237/Z/13/B). The views expressed are the author(s) and are not necessarily those of the NHS, the NIHR, the UK Department of Health and Social Care, the MRC or PHE"
+    ],
+    "author": "Lance Turtle; Helen Farmer; Jose Carlos Martinez Garrido; Alexander J Mentzer; Rutger J Ploeg; Julie Staves; Wanwisa Dejnirattisai; Thushan De Silva; Chang Liu; J Kenneth Baillie; Monique I Andersson; David Stuart; Charlotte Washington; Dominique Georgiou; John Bell; Christina Dold; Ullrich Leuschner; Malcolm G Semple; Elizabeth Clutterbuck; Tessa Prince; Kathryn Auckland; Emily R Adams; Marta S Oliveira; Jose Slon-Campos; Elliot Nathan Smith; Robert Levin; Gavin R Screaton; Timothy Peto; Miles Carroll; Jonathan Milton; Hannah McGivern; A Sarah Walker; Nicholas Watkins; Hannah Thraves; Fiona Pereira; James Whitehouse; Alistair Hunter; David W Eyre; Tomas Surik; Mark Ainsworth; Sagida Bibi; Elena Perez Lopez; Eleanor Barnes; Andrew J Kwok; Paul Klenerman; Derrick W Crook; Clarice Knowles; Julian Knight; Richard J Cornall; David J Roberts; Justine K Rudkin; Donal T Skelly; Maria Fernandez Mendoza; Philippa C Matthews; Beibei Wang; Rekha Anand; Pat Tsang; Andrew Pollard; Alberto Jose Sobrino Diaz; Senthil Chinnakannan; Sarah J Hoosdally; Cesar Lopez-Camacho; Juthathip Mongkolsapaya; Alexis Espinosa; Piyada Supasa; Kate E Dingle; Shona C Moore; Veronica Sanchez; Sally Beer; Katie Jeffrey; Tamsin Berry",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20066407",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20066407"
+    },
+    "title": "Antibody testing for COVID-19: A report from the National COVID Scientific Advisory Panel",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Oxford Biomedical Research Centre,"
+                },
+                {
+                    "funding-source": "UK Government Department of Health and Social Care and and",
+                    "award-id": [
+                        "CO-CIN-01"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "CO-CIN-01"
+                    ]
+                },
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "MC_PC_19059"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by the National Institute for Health Research (NIHR) Oxford Biomedical Research Centre, the UK Government Department of Health and Social Care and and grants from NIHR [award CO-CIN-01] and the Medical Research Council [grant MC_PC_19059]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "TEAP and ASW"
+                },
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Health Protection Research Unit in Healthcare Associated Infections and Antimicrobial Resistance"
+                },
+                {
+                    "funding-source": "University of Oxford in"
+                },
+                {
+                    "funding-source": "Public Health England",
+                    "award-id": [
+                        "NIHR200915"
+                    ]
+                }
+            ],
+            "funding-statement": "DC, TEAP and ASW are supported by the National Institute for Health Research (NIHR) Health Protection Research Unit in Healthcare Associated Infections and Antimicrobial Resistance at the University of Oxford in partnership with Public Health England (NIHR200915)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council UK"
+                }
+            ],
+            "funding-statement": "SKC is supported by Medical Research Council UK"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections",
+                    "award-id": [
+                        "HPRU-EZI"
+                    ]
+                },
+                {
+                    "funding-source": "University of Liverpool in"
+                },
+                {
+                    "funding-source": "Public Health England"
+                },
+                {
+                    "funding-source": "University of Oxford and Liverpool School of Tropical Medicine",
+                    "award-id": [
+                        "NIHR200907"
+                    ]
+                }
+            ],
+            "funding-statement": "AM, PK, SCM, TPr, MGS and LT are supported by NIHR Health Protection Research Unit in Emerging and Zoonotic Infections (HPRU-EZI) at University of Liverpool in partnership with Public Health England (PHE), in collaboration with the University of Oxford and Liverpool School of Tropical Medicine (award number NIHR200907)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Sir Henry Dale Fellowship,"
+                },
+                {
+                    "funding-source": "Wellcome Trust and the Royal Society",
+                    "award-id": [
+                        "101237/Z/13/B"
+                    ]
+                }
+            ],
+            "funding-statement": "JR is supported by a Sir Henry Dale Fellowship, jointly funded by the Wellcome Trust and the Royal Society (Grant 101237/Z/13/B)"
+        }
+    ]
+}

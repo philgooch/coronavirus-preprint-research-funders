@@ -1,0 +1,53 @@
+{
+    "title": "Neutralizing Antibodies Isolated by a site-directed Screening have Potent Protection on SARS-CoV-2 Infection",
+    "author": "Xiaoyu Liu,#, Fang Gao,#, Liming Gou,#, Yin Chen,#, Yayun Gu, Lei Ao, Hongbing Shen, Zhibin Hu, Xiling Guo, Wei Gao",
+    "date": 2020,
+    "affiliations": [
+        "Key Laboratory of Human Functional Genomics of Jiangsu Province, National Health Commission Key Laboratory of Antibody Techniques, School of Basic Medical Sciences, Nanjing Medical University, Nanjing, Jiangsu 211166, P.R. China",
+        "Key Laboratory of Enteric Pathogenic Microbiology, Ministry of Health Institute of Pathogenic Microbiology, Jiangsu Province Center for Disease Control and Prevention, Nanjing, Jiangsu 211166, P.R. China",
+        "Department of Epidemiology and Biostatistics, International Joint Research Center on Environment and Human Health, Center for Global Health, School of Public Health, Nanjing Medical University, Nanjing, Jiangsu 211166, P.R. China",
+        "State Key Laboratory of Reproductive Medicine, Center for Global Health, Nanjing Medical University, Nanjing, Jiangsu 211166, P.R. China. #These Authors contributed equally to this work",
+        "Corresponding to: Dr. Wei Gao, Tel: 86-25-86869471"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.03.074914",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.03.074914.pdf"
+    },
+    "abstract": "Neutralizing antibody is one of the most effective interventions for acute pathogenic infection. Currently, over three million people have been identified for SARS-CoV-2 infection but SARS-CoV-2-specific vaccines and neutralizing antibodies are still lacking. SARS-CoV-2 infects host cells by interacting with angiotensin converting enzyme-2 (ACE2) via the S1 receptor-binding domain (RBD) of its surface spike glycoprotein. Therefore, blocking the interaction of SARS-CoV-2-RBD and ACE2 by antibody would cause a directly neutralizing effect against virus. In the current study, we selected the ACE2 interface of SARS-CoV-2-RBD as the targeting epitope for neutralizing antibody screening. We performed site-directed screening by phage display and finally obtained one IgG antibody (4A3) and several domain antibodies. Among them, 4A3 and three domain antibodies (4A12, 4D5, and 4A10) were identified to act as neutralizing antibodies due to their capabilities to block the interaction between SARS-CoV-2-RBD and ACE2-positive cells. The domain antibody 4A12 was predicted to have the best accessibility to all three ACE2-interfaces on the spike homotrimer. Pseudovirus and authentic SARS-CoV-2 neutralization assays showed that all four antibodies could potently protect host cells from virus infection. Overall, we isolated multiple formats of SARS-CoV-2-neutralizing antibodies via site-directed antibody screening, which could be promising candidate drugs for the prevention and treatment of COVID-19. Key Words: SARS-CoV-2, neutralizing antibody, domain antibody, site-directed screening, phage display",
+    "keywords": [
+        "SARS-CoV-2",
+        "neutralizing antibody",
+        "domain antibody",
+        "site-directed screening",
+        "phage display"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81773260",
+                        "81972284"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Major Project",
+                    "award-id": [
+                        "2018ZX10734401-006"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation Youth Project of Jiangsu, China",
+                    "award-id": [
+                        "BK20171047"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported by the National Natural Science Foundation of China (No 81773260 and No 81972284), National Science and Technology Major Project (2018ZX10734401-006), and National Natural Science Foundation Youth Project of Jiangsu, China (No BK20171047). Authors' Contributions: XL, FG, LG, YC, LA and YG performed the experiments; XL, FG, LG, XG and WG analyzed the data; WG, XG, ZH and HS designed and conducted the research; WG and XL wrote the manuscript; and XG, ZH and HS revised the manuscript"
+        }
+    ]
+}

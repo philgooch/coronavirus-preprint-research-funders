@@ -1,0 +1,67 @@
+{
+    "abstract": "The recent outbreaks of Ebola, Zika, MERS, and SARS-CoV-2 (2019-nCoV) require fast, simple, and sensitive onsite nucleic acid diagnostics that can be developed rapidly to prevent the spread of diseases. We have developed a SENsitive Splint-based one-step isothermal RNA detection (SENSR) method for rapid and straightforward onsite detection of pathogen RNAs with high sensitivity and specificity. SENSR consists of two simple enzymatic reactions: a ligation reaction by SplintR ligase and subsequent transcription by T7 RNA polymerase. The resulting transcript forms an RNA aptamer that induces fluorescence. Here, we demonstrate that SENSR is an effective and highly sensitive method for the detection of the current epidemic pathogen, severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2). We also show that the platform can be extended to the detection of five other pathogens. Overall, SENSR is a molecular diagnostic method that can be developed rapidly for onsite uses requiring high sensitivity, specificity, and short assaying times.",
+    "author": "Chang Ha Woo; Sungho Jang; Gyoo Yeol Jung; Giyoung Shin; Jeong Wook Lee",
+    "date": 2020,
+    "doi": "10.1101/2020.03.05.20031971",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.6084/m9.figshare.11941080",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.05.20031971"
+    },
+    "title": "Sensitive one-step isothermal detection of pathogen-derived RNAs",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Gas Refinery Program"
+                },
+                {
+                    "funding-source": "National Research Foundation of Korea"
+                },
+                {
+                    "funding-source": "Ministry of Science and ICT",
+                    "award-id": [
+                        "NRF-2015M3D3A1A01064926"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported by C1 Gas Refinery Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Science and ICT (NRF-2015M3D3A1A01064926)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Korea government",
+                    "award-id": [
+                        "2018R1C1B3007409"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was also supported by an NRF grant funded by the Korea government (MSIT) (No 2018R1C1B3007409)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Human Resources Program in Energy"
+                },
+                {
+                    "funding-source": "Korea Institute of Energy Technology Evaluation and Planning"
+                },
+                {
+                    "funding-source": "Ministry of Trade, Industry",
+                    "award-id": [
+                        "2019403020"
+                    ]
+                },
+                {
+                    "funding-source": "Republic of Korea",
+                    "award-id": [
+                        "20194030202330"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was also supported by \u0093Human Resources Program in Energy Technology\u0094 of the Korea Institute of Energy Technology Evaluation and Planning (KETEP), which granted financial resource from the Ministry of Trade, Industry & Energy, Republic of Korea (No 20194030202330)"
+        }
+    ]
+}

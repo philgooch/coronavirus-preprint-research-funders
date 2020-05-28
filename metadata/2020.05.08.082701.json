@@ -1,0 +1,32 @@
+{
+    "title": "Efficacy of a novel iodine complex solution, CupriDyne, in inactivating SARS-CoV-2",
+    "author": "Alex Evans",
+    "date": 2020,
+    "affiliations": [
+        "Galveston National Lab, University of Texas Galveston Medical Branch. Galveston, TX, USA",
+        "BioLargo, Inc. Westminster, CA, USA",
+        "BioLargo Water, Inc. Edmonton, AB, Canada",
+        "Corresponding author"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.08.082701",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.08.082701.pdf"
+    },
+    "abstract": "The coronavirus known as SARS-CoV-2, which causes COVID-19 disease, is presently responsible for a global pandemic wherein more than 3.5 million people have been infected and more than 250,000 killed to-date. There is currently no vaccine for COVID-19, leaving governments and public health agencies with little defense against the virus aside from advising or enforcing best practices for virus transmission prevention, which include hand-washing, physical distancing, use of face covers, and use of effective disinfectants. In this study, a novel iodine complex called CupriDyne\u00ae was assessed for its ability to inactivate SARS-CoV-2. CupriDyne was shown to be effective in inactivating the virus in a timedependent manner, reducing virus titers by 99% (2 logs) after 30 minutes, and reducing virus titers to below the detection limit after 60 minutes. The novel iodine complex tested herein offers a safe and gentle alternative to conventional disinfectants for use on indoor and outdoor surfaces.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI060549"
+                    ]
+                }
+            ],
+            "funding-statement": "E.K.M was supported by NIH T32 training grant AI060549"
+        }
+    ]
+}

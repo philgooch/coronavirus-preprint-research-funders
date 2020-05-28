@@ -1,0 +1,31 @@
+{
+    "abstract": "Objective Allocation of medical resource is essential to a strong public health system in response to COVID-19. Analysis of confirmed COVID-19 patients' hospital length of stay in Sichuan can be informative to decision-making in other regions of the world. Design A retrospective cross-sectional study. Data and Method Data from confirmed COVID-19 cases in Sichuan Province were obtained from the National Notifiable Diseases Reporting System (NNDRS) and field survey. We collected information on demographic, epidemiological, clinical characteristics, and the length of hospital stay for confirmed patients. We conducted an exploratory analysis using adjusted multivariate cox-proportional models. Participants A total of 538 confirmed patients of COVID-19 infection in Sichuan Province from January to March 2020. Outcome measure The length of hospital stay after admissions for confirmed patients. Results From January 16, 2020 to March 4, 2020, 538 human cases of COVID-19 infection were laboratory-confirmed, and were hospitalized for treatment. Among these, 271 (50%) were 45 years of age or above, 285 (53%) were male, 450 (84%) were considered as having mild symptoms. The median hospital length of stay was 19 days (interquartile range (IQR): 14-23, Range: 3-41). Adjusted multivariate analysis showed that longer hospital length of stay was associated with factors aged 45 and over (HR: 0.74, 95% CI: 0.60-0.91), those admitted to provincial hospital (HR: 0.73, 95% CI: 0.54-0.99), and those with serious illness (HR: 0.66, 95% CI: 0.48-0.90); living in areas with more than 5.5 healthcare workers per 1000 population (HR: 1.32, 95% CI: 1.05-1.65) was associated with shorter hospital length of stay. There was no gender difference. Conclusions Preparation control measures of COVID-19 should involve the allocation of sufficient medical resources, especially in areas with older vulnerable populations and in areas that lack basic medical resources.",
+    "author": "Runyou Liu; Yin Deng; Lun Zhang; Bo Zhong; Yang Liu; Yu Zhang; Jing Zeng; Xinyin Xu; Lijun Zhou; John S. Ji; Xiaoyu Chang; Jun He; Xianping Wu; zhuo wang; Ting Dong; Yuxin Zha",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20057299",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20057299"
+    },
+    "title": "Survival analysis of hospital length of stay of novel coronavirus (COVID-19) pneumonia patients in Sichuan, China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Grants from Science and Technology Bureau of Sichuan",
+                    "award-id": [
+                        "COVID-19 science",
+                        "technology emergency project",
+                        "2020YFS0015"
+                    ]
+                },
+                {
+                    "funding-source": "Sichuan Provincial Leading Group Office for Talent Work",
+                    "award-id": [
+                        "Sichuan provincial \"Tianfu ten thousand talents plan\" fund in 2018"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by the Grants from Science and Technology Bureau of Sichuan province (COVID-19 science and technology emergency project, No 2020YFS0015) and Sichuan Provincial Leading Group Office for Talent Work (Sichuan provincial \"Tianfu ten thousand talents plan\" fund in 2018)"
+        }
+    ]
+}

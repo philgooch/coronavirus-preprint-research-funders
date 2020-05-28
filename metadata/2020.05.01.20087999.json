@@ -1,0 +1,43 @@
+{
+    "abstract": "Background: The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in December 2019 causing the coronavirus disease 2019 (COVID-19) pandemic. Currently, there are a lack of evidence-based therapies to prevent COVID-19 following exposure, or to prevent worsening of symptoms following confirmed infection. We describe the design of a clinical trial of hydroxychloroquine for post-exposure prophylaxis and pre-emptive therapy for COVID-19. Methods: We will conduct two nested multicenter international double-blind randomized placebo-controlled clinical trials of hydroxychloroquine for: 1) post-exposure prophylaxis (PEP) of asymptomatic household contacts or healthcare workers exposed to COVID-19 within the past four days, and 2) pre-emptive therapy (PET) for symptomatic outpatients with COVID-19 with a total symptom duration of less than 4 days. We will recruit 1500 patients for each the PEP and PET trials. Participants will be randomized 1:1 to receive 5 days of hydroxychloroquine or placebo. The primary PEP trial outcome will be the incidence of symptomatic COVID-19 disease. The primary PET trial outcome will be an ordinal scale of disease severity (not hospitalized; hospitalized without intensive care, hospitalization with intensive care, or death). Participant screening, informed consent, and follow up will be exclusively internet-based with appropriate regulatory and research ethics board approvals in Canada and the United States. Discussion: These complementary randomized control trials are innovatively designed and adequately powered to rapidly answer urgent questions regarding the effectiveness of hydroxychloroquine to reduce transmission and disease severity of COVID-19 during a pandemic. In-person participant follow-up will not be conducted in order to facilitate social distancing strategies and reduce risks of exposure to study personnel. Innovative trial approaches are needed to urgently assess therapeutic options to mitigate the global impact of this pandemic. Trials Registration: clinicaltrials.gov (NCT04308668); 16 March 2020.\nCompeting Interest Statement",
+    "affiliations": [
+        "Section of Infectious Diseases, Department of Internal Medicine, University of Manitoba, Winnipeg, Manitoba, Canada and Department of Community Health Sciences, University of Manitoba, Winnipeg, Manitoba",
+        "Hematology at the University of Manitoba. Additional authors declare no conflicts of interest",
+        "University of Minnesota. Canadian funding by the Manitoba Medical Service Foundation. The funders will not contribute to the design; collection, management, analysis, and interpretation of data; writing of the report; and the decision to submit the report for publication. Purolator Canada provided in-kind courier support for the participating Canadian sites"
+    ],
+    "author": "Nicole Engen; Alyssa Agostinis; Ryan Zarychanski; Emily G McDonald; Caleb P Skipper; Matthew F Pullen; Matthew P Cheng; Ilan Schwartz; Ananta S Bangdiwala; David R Boulware; Katelyn A Pastick; Nicole Marten; Elizabeth C Okafor; Sylvain A Lother; Alexis F Turgeon; Radha Rajasingham; Kathy H Hullsiek; Glen Drobot; Lauren E Kelly; Sarah M Lofgren; Mahsa Abassi; Lauren J MacKenzie; Todd C Lee",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087999",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087999"
+    },
+    "title": "Post-exposure Prophylaxis or Preemptive Therapy for SARS-Coronavirus-2: Study Protocol for a Pragmatic Randomized Controlled Trial",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "U.S Funding"
+                },
+                {
+                    "funding-source": "Jan and David Baszucki, Alliance"
+                },
+                {
+                    "funding-source": "Minnesota Chinese Organizations, Minnesota"
+                },
+                {
+                    "funding-source": "Chinese Chamber of Commerce,"
+                },
+                {
+                    "funding-source": "University of Minnesota. Canadian"
+                },
+                {
+                    "funding-source": "Manitoba Medical Service Foundation. The"
+                },
+                {
+                    "funding-source": "Purolator Canada"
+                }
+            ],
+            "funding-statement": "U.S Funding by Jan and David Baszucki, Alliance of Minnesota Chinese Organizations, Minnesota Chinese Chamber of Commerce, and University of Minnesota. Canadian funding by the Manitoba Medical Service Foundation. The funders will not contribute to the design; collection, management, analysis, and interpretation of data; writing of the report; and the decision to submit the report for publication. Purolator Canada provided in-kind courier support for the participating Canadian sites."
+        }
+    ]
+}

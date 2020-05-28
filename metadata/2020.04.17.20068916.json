@@ -1,0 +1,16 @@
+{
+    "abstract": "Coronavirus disease (COVID-19) outbreak started at Wuhan, China, and it has rapidly spread across China and many other countries. Italy is one of the European countries most affected by the COVID-19 disease, and it has registered high COVID-19 death rates and the death toll. In this article, we analyzed different Italian COVID-19 data at the regional level for the period February 24 to March 29, 2020. The analysis pipeline includes the following steps. After individuating groups of similar or dissimilar regions with respect to the ten types of available COVID-19 data using statistical test, we built several similarity matrices (reported in Supplementary file). Then, we mapped those similarity matrices into networks where nodes represent Italian regions and edges represent similarity relationships (edge length is inversely proportional to similarity). Then, network-based analysis was performed mainly discovering communities of regions that show similar behaviour. Then, network-based analysis was performed by running several community detection algorithms on those networks and by underlying communities of regions that show similar behaviour. The network-based analysis of Italian COVID-19 data is able to elegantly show how regions form communities, i.e. how they join and leave them, along time and how community consistency changes along time and with respect to the different available data.",
+    "author": "Mario Cannataro; Marianna Milano",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20068916",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20068916"
+    },
+    "title": "Statistical and network-based analysis of Italian COVID-19 data: communities detection and temporal evolution",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding."
+        }
+    ]
+}

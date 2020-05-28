@@ -1,0 +1,58 @@
+{
+    "abstract": "The atypical pneumonia (COVID-19) caused by SARS-CoV-2 is an ongoing pandemic and a serious threat to global public health. The COVID-19 patients with severe symptoms account for a majority of mortality of this disease. However, early detection and effective prediction of patients with mild to severe symptoms remains challenging. In this study, we performed proteomic profiling of urine samples from 32 healthy control individuals and 6 COVID-19 positive patients (3 mild and 3 severe). We found that urine proteome samples from the mild and severe COVID-19 patients with comorbidities can be clearly differentiated from healthy proteome samples based on the clustering analysis. Multiple pathways have been compromised after the COVID-19 infection, including the dysregulation of immune response, complement activation, platelet degranulation, lipoprotein metabolic process and response to hypoxia. We further validated our finding by directly comparing the same patients' urine proteome after recovery. This study demonstrates the COVID-19 pathophysiology related molecular alterations could be detected in the urine and the potential application of urinary proteome in auxiliary diagnosis, severity determination and therapy development of COVID-19.",
+    "affiliations": [
+        "National Natural Science Foundation of China (31700723, 31670834, 31870824, 91839302 & 31901037), the Innovation Foundation of Medicine (16CXZ027, BWS17J032, AWS17J008 &",
+        "SWAQ17), National Megaprojects for Key Infectious Diseases (2018ZX10302302), the Foundation of State Key Lab of Proteomics (SKLP-K201704), and the grant for Research Unit of Proteomics & Research and Development of New Drug of Chinese Academy of Medical Sciences (2019RU006)"
+    ],
+    "author": "Yanchang Li; Yihao Wang; Zhaodi Li; Li Zhu; Changqing Bai; Yinghua Zhao; Baoqing Ding; Ping Xu; Peiru Chen; Naikang Li; Hengliang Wang; Wei Sun; Huiying Liu; Lei Chang",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20088666",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20088666"
+    },
+    "title": "Urine Proteome of COVID-19 Patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31700723",
+                        "31670834",
+                        "31870824",
+                        "91839302",
+                        "31901037"
+                    ]
+                },
+                {
+                    "funding-source": "Innovation Foundation of Medicine",
+                    "award-id": [
+                        "16CXZ027",
+                        "BWS17J032",
+                        "AWS17J008",
+                        "19SWAQ17"
+                    ]
+                },
+                {
+                    "funding-source": "National Megaprojects for Key Infectious Diseases",
+                    "award-id": [
+                        "2018ZX10302302"
+                    ]
+                },
+                {
+                    "funding-source": "Foundation of State Key Lab of Proteomics",
+                    "award-id": [
+                        "SKLP-K201704"
+                    ]
+                },
+                {
+                    "funding-source": "Research Unit of Proteomics & Research and Development of New Drug of Chinese Academy of Medical Sciences",
+                    "award-id": [
+                        "2019RU006"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded by the MOST (2017YFC0906600 & 2017YFA0505002), the National Natural Science Foundation of China (31700723, 31670834, 31870824, 91839302 & 31901037), the Innovation Foundation of Medicine (16CXZ027, BWS17J032, AWS17J008 & 19SWAQ17), National Megaprojects for Key Infectious Diseases (2018ZX10302302), the Foundation of State Key Lab of Proteomics (SKLP-K201704), and the grant for Research Unit of Proteomics & Research and Development of New Drug of Chinese Academy of Medical Sciences (2019RU006)"
+        }
+    ]
+}

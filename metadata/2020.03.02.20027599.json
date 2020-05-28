@@ -1,0 +1,26 @@
+{
+    "abstract": "BACKGROUND: Unusually high snowfall in western Washington State in February 2019 led to widespread school and workplace closures. We assessed the impact of social distancing caused by this extreme weather event on the transmission of respiratory viruses. METHODS: Residual specimens from patients evaluated for acute respiratory illness at hospitals in the Seattle metropolitan area were screened for a panel of respiratory viruses. Transmission models were fit to each virus, with disruption of contact rates and care-seeking informed by data on local traffic volumes and hospital admissions. RESULTS: Disruption in contact patterns reduced effective contact rates during the intervention period by 16% to 95%, and cumulative disease incidence through the remainder of the season by 3% to 9%. Incidence reductions were greatest for viruses that were peaking when the disruption occurred and least for viruses in early epidemic phase. CONCLUSION: High-intensity, short-duration social distancing measures may substantially reduce total incidence in a respiratory virus epidemic if implemented near the epidemic peak.",
+    "affiliations": [
+        "Brotman Baty Institute. The funder was not involved in the design of the study, does not have any ownership over the management and conduct of the study, the data, or the rights to publish"
+    ],
+    "author": "Kirsten Lacombe; Amanda Adler; Michael Famulare; Michael L Jackson; Peter Han; Elisabeth Brandstetter; Denise J McCulloch; Janet A Englund; Kairsten Fay; Trevor Bedford; Lea Starita; Mark Rieder; Gregory R Hart; Thomas Sibley; Deborah A Nickerson; the Seattle Flu Study Investigators; Helen Chu; Jover Lee",
+    "date": 2020,
+    "doi": "10.1101/2020.03.02.20027599",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.02.20027599"
+    },
+    "title": "Effects of weather-related social distancing on city-scale transmission of respiratory viruses",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Seattle Flu Study"
+                },
+                {
+                    "funding-source": "Brotman Baty Institute. The"
+                }
+            ],
+            "funding-statement": "The Seattle Flu Study is funded through the Brotman Baty Institute. The funder was not involved in the design of the study, does not have any ownership over the management and conduct of the study, the data, or the rights to publish."
+        }
+    ]
+}

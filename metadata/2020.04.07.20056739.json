@@ -1,0 +1,16 @@
+{
+    "abstract": "Mobile geolocation data is a valuable asset in the assessment of movement patterns of a population. Once a highly contagious disease takes place in a location the movement patterns aid in predicting the potential spatial spreading of the disease, hence mobile data becomes a crucial tool to epidemic models. In this work, based on millions of anonymized mobile visits data in Brazil, we investigate the most probable spreading patterns of the COVID-19 within states of Brazil. The study is intended to help public administrators in action plans and resources allocation, whilst studying how mobile geolocation data may be employed as a measure of population mobility during an epidemic. The first part of the study focus on the states of Sao Paulo and Rio de Janeiro during the period of March 2020, when the disease first started to spread in these states. Metapopulation models for the disease spread were simulated in order to evaluate the risk of infection of each city within the states, by ranking them according to the time the disease will take to infect each city. We observed that, although the high risk regions are those closer to the capital cities, where the outbreak has started, there are also cities in the countryside with great risk.",
+    "author": "Cl\u00e1udia M Peixoto; Pedro S. Peixoto; Afonso Delgado; S\u00e9rgio M Oliva; Lucas Queiroz; Diego R. Marcondes; Rafael Gouveia",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20056739",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20056739"
+    },
+    "title": "Potential dissemination of epidemics based on Brazilian mobile geolocation data. Part I: Population dynamics and future spreading of infection in the states of Sao Paulo and Rio de Janeiro during the pandemic of COVID-19.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Marcondes has received financial support from CNPq during the development of this article"
+        }
+    ]
+}

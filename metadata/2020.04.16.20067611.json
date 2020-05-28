@@ -1,0 +1,33 @@
+{
+    "abstract": "Generalizing COVID-19 control strategies in one community to others is confounded by community\u2032s unique demographic and socioeconomic attributes. Here we propose a tailored dynamic model accounting for community-specific transmission controls and medical resource availability. We trained the model using data from Wuhan and applied it to other countries. We show that isolating suspected cases is most effective in reducing transmission rate if the intervention starts early. Having more hospital beds provides leverage that diminishes with delayed intervention onset. The importance of transmission control in turn increases by 65% with a 7-day delay. Furthermore, prolonging outbreak duration by applying an intermediate, rather than strict, transmission control would not prevent hospital overload regardless of bed capacity, and would likely result in a high ratio (21% ~ 84%) of the population being infected but not treated. The model could help different countries design control policies and gauge the severity of suppression failure.",
+    "affiliations": [
+        "High-level University Fund [No. G02386301, G02386401]"
+    ],
+    "author": "Zhichao Liang; Zhengyang Wang; Quanying Liu; Chen Wei",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067611",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067611"
+    },
+    "title": "The focus and timing of COVID-19 pandemic control measures under healthcare resource constraints",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Guangdong Natural Science Foundation Joint Fund",
+                    "award-id": [
+                        "2019A1515111038"
+                    ]
+                },
+                {
+                    "funding-source": "High-level University Fund",
+                    "award-id": [
+                        "G02386301",
+                        "G02386401"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by Guangdong Natural Science Foundation Joint Fund [No 2019A1515111038] and High-level University Fund [No G02386301, G02386401]"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "In this paper we develop an SEIR-type model of COVID-19, with account for two particular aspects: non-exponential distribution of incubation and recovery periods, as well as age structure of the population. For the mean-field model, which does not distinguish between different age groups, we demonstrate that including a more realistic Gamma distribution of incubation and recovery periods may not have an effect on the total number of deaths and the overall size of an epidemic, but it has a major effect in terms of increasing the peak numbers of infected and critical care cases, as well as on changing the timescales of an epidemic, both in terms of time to reach the peak, and the overall duration of an outbreak. In order to obtain more accurate estimates of disease progression and investigate different strategies for introducing and lifting the lockdown, we have also considered an age-structured version of the model, which has allowed us to include more accurate data on age-specific rates of hospitalisation and COVID-19 related mortality. Applying this model to three comparable neighbouring regions in the UK has delivered some fascinating insights regarding the effect of quarantine in regions with different population structure. We have discovered that for a fixed quarantine duration, the timing of its start is very important in the sense that the second epidemic wave after lifting the quarantine can be significantly smaller or larger depending on the specific population structure. Also, the later the fixed-duration quarantine is introduced, the smaller is the resulting final number of deaths at the end of the outbreak. When the quarantine is introduced simultaneously for all regions, increasing quarantine duration postpones and slightly reduces the epidemic peak, though without noticeable differences in peak magnitude between different quarantine durations.",
+    "author": "Konstantin B Blyuss; Yuliya N Kyrychko",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20079848",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20079848"
+    },
+    "title": "Effects of latency and age structure on the dynamics and containment of COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Potential microenvironment of SARS-CoV-2 infection in airway epithelial cells revealed by Human Protein Atlas database analysis",
+    "author": "Ling Leng, Jie Ma, Leike Zhang, Wei Li, Lei Zhao, Yunping Zhu, Zhihong Wu, Ruiyuan Cao, Wu Zhong",
+    "date": 2020,
+    "affiliations": [
+        "Department of Medical Science Research Center, Translational Medicine Center, Peking Union Medical College Hospital, Peking Union Medical College and Chinese Academy of Medical Sciences, Beijing 100730, China",
+        "State Key Laboratory of Proteomics, Beijing Proteome Research Center, National Center for Protein Sciences (Beijing), Beijing Institute of Life Omics, Beijing 100206, China",
+        "National Engineering Research Center for the Emergency Drug, Beijing Institute of Pharmacology and Toxicology, Beijing 100850, China",
+        "State Key Laboratory of Virology, Wuhan Institute of Virology, Center for Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan 430071, China",
+        "These authors contributed equally to this work",
+        "Corresponding authors: Prof. Wu Zhong, E-mail address:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.16.045799",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.16.045799.pdf"
+    },
+    "abstract": "The outbreak of COVID-19 has caused serious epidemic events in China and other countries. With the rapid spread of COVID-19, it is urgent to explore the pathogenesis of this novel coronavirus. However, the foundational research of COVID-19 is very weak. Although angiotensin converting enzyme 2 (ACE2) is the reported receptor of SARS-CoV-2, information about SARS-CoV-2 invading airway epithelial cells is very limited. Based on the analysis of the Human Protein Atlas database, we compared the virus-related receptors of epithelial-derived cells from different organs and found potential key molecules in the local microenvironment for SARS-CoV-2 entering airway epithelial cells. In addition, we found that these proteins were associated with virus reactive proteins in host airway epithelial cells, which may promote the activation of the immune system and the release of inflammatory factors. Our findings provide a new research direction for understanding the potential microenvironment required by SARS-CoV-2 infection in airway epithelial, which may assist in the discovery of potential drug targets against SARS-CoV-2 infection.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "the Human Protein Atlas",
+        "airway epithelial cells",
+        "virus microenvironment components",
+        "virus-host interaction"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding This"
+                },
+                {
+                    "funding-source": "National Science and Technology Major Project of China",
+                    "award-id": [
+                        "2018ZX09711003"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding This work was supported by the National Science and Technology Major Project of China (2018ZX09711003)"
+        }
+    ]
+}

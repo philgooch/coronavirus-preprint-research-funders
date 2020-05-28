@@ -1,0 +1,61 @@
+{
+    "title": "Isolation, sequence, infectivity and replication kinetics of SARS-CoV-2",
+    "keywords": [
+        "SARS-CoV-2",
+        "isolation",
+        "replication",
+        "immune cells",
+        "phylogenetics",
+        "China (1)",
+        "Canada on January 23",
+        "2020 (3)",
+        "As SARS-CoV-2 spreads globally"
+    ],
+    "date": 2020,
+    "affiliations": [
+        "McMaster University, Hamilton, Ontario, Canada 8",
+        "University of Toronto, Toronto, Ontario, Canada 9",
+        "Sunnybrook Research Institute, Toronto, Ontario, Canada 10",
+        "Mount Sinai Hospital, Toronto, Ontario, Canada 11 12",
+        "Corresponding author: 13 Dr. Karen Mossman",
+        "McMaster University 16 1280 Main St. W",
+        "Hamilton L8S 4L8, Canada",
+        ""
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.11.037382",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.11.037382.pdf"
+    },
+    "abstract": "SARS-CoV-2 emerged in December 2019 in Wuhan, China and has since infected over 1.5 million people, of which over 107,000 have died. As SARS-CoV-2 spreads across the planet, speculations remain about the range of human cells that can be infected by SARS-CoV-2. In this study, we report the isolation of SARS-CoV-2 from two cases of COVID-19 in Toronto, Canada. We determined the genomic sequences of the two isolates and identified single nucleotide changes in representative populations of our virus stocks. More importantly, we tested a wide range of human immune cells for productive infection with SARS-CoV-2. Here we confirm that human primary peripheral blood mononuclear cells (PBMCs) are not permissive for SARS-CoV33 2. As SARS-CoV-2 continues to spread globally, it is essential to monitor single nucleotide polymorphisms in the virus and to continue to isolate circulating viruses to determine viral genotype and phenotype using in vitro and in vivo infection models. Keywords: SARS-CoV-2, isolation, replication, immune cells, phylogenetics, COVID-19 38 TEXT A new coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in December 2019 in Wuhan, China (1). SARS-CoV-2 has since spread to 185 countries and 41 infected over 1.7 million people, of which over 107,000 have died (2). The first case of COVID42 19 was detected in Toronto, Canada on January 23, 2020 (3). Multiple cases have since been identified across Canada. As SARS-CoV-2 spreads globally, the virus is likely to adapt and evolve. It is critical to isolate SARS-CoV-2 viruses to characterize their ability to infect and replicate in multiple human cell types and to determine if the virus is evolving in its ability to infect human cells and cause severe disease. Isolating the virus also provides us with the",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "SARS-CoV-2 Liverpool"
+                },
+                {
+                    "funding-source": "Health England. This"
+                },
+                {
+                    "funding-source": "Canadian Institutes of Health Research",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Co-Applicants A.B."
+                },
+                {
+                    "funding-source": "Natural Sciences and Engineering Research Council of Canada"
+                },
+                {
+                    "funding-source": "Comprehensive Antibiotic Resistance Database"
+                }
+            ],
+            "funding-statement": "SARS-CoV-2 Liverpool protocol genome amplification primer sequences were generously shared by Public  Health England. This study was supported by a Canadian Institutes of Health Research (CIHR) COVID-19 rapid response grant to principal applicant K.M. and Co-Applicants A.B., A.G.M., M.S.M. and S.M. A.B. is funded by the Natural Sciences and Engineering Research Council of Canada (NSERC). J.A.N. was supported by funds from the Comprehensive Antibiotic Resistance Database"
+        }
+    ]
+}

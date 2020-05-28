@@ -1,0 +1,16 @@
+{
+    "abstract": "This paper reports on the development and performance of machine learning schemes for the analysis of Chest CT Scan images of Coronavirus COVID-19 patients and demonstrates significant success in efficiently and automatically testing for COVID-19 infection. In particular, an innovative frequency domain algorithm, to be called FFT-Gabor scheme, will be shown to predict in almost real-time the state of the patient with an average accuracy of 95.37%, sensitivity 95.99% and specificity 94.76%. The FFT-Gabor scheme is adequately informative in that clinicians can visually examine the FFT-Gabor feature to support their final diagnostic.\nClinical Trial",
+    "author": "Dhurgham Al-karawi; Sabah Jassim; Shakir Al-Zaidi; Nisreen Polus",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063479",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063479"
+    },
+    "title": "Machine Learning Analysis of Chest CT Scan Images as a Complementary Digital Test of Coronavirus (COVID-19) Patients",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

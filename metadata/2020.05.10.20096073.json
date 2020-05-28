@@ -1,0 +1,61 @@
+{
+    "abstract": "Artificial intelligence can potentially provide a substantial role in streamlining chest computed tomography (CT) diagnosis of COVID-19 patients. However, several critical hurdles have impeded the development of robust AI model, which include deficiency, isolation, and heterogeneity of CT data generated from diverse institutions. These bring about lack of generalization of AI model and therefore prevent it from applications in clinical practices. To overcome this, we proposed a federated learning-based Unified CT-COVID AI Diagnostic Initiative (UCADI, http://www.ai-ct-covid.team/), a decentralized architecture where the AI model is distributed to and executed at each host institution with the data sources or client ends for training and inferencing without sharing individual patient data. Specifically, we firstly developed an initial AI CT model based on data collected from three Tongji hospitals in Wuhan. After model evaluation, we found that the initial model can identify COVID from Tongji CT test data at near radiologist-level (97.5% sensitivity) but performed worse when it was tested on COVID cases from Wuhan Union Hospital (72% sensitivity), indicating a lack of model generalization. Next, we used the publicly available UCADI framework to build a federated model which integrated COVID CT cases from the Tongji hospitals and Wuhan Union hospital (WU) without transferring the WU data. The federated model not only performed similarly on Tongji test data but improved the detection sensitivity (98%) on WU test cases. The UCADI framework will allow participants worldwide to use and contribute to the model, to deliver a real-world, globally built and validated clinic CT-COVID AI tool. This effort directly supports the United Nations Sustainable Development Goals' number 3, Good Health and Well-Being, and allows sharing and transferring of knowledge to fight this devastating disease around the world.",
+    "affiliations": [
+        "National Natural Science Foundation of China (61703171 and 81771801). This work was also supported in part by a grant from the National Cancer Institute, National Institutes of Health, U01CA242879, and Thammasat University Research fund under the NRCT, Contract No. 25/2561, for the project of \u201cDigital platform for sustainable digital economy development\u201d, based on the RUN Digital Cluster collaboration scheme"
+    ],
+    "author": "Wenqing Zhang; Chuou Xu; Ming-Wei Wang; Nagaraj Holalkere; Jianbo Shao; Dandan Tu; Neil J. Halin; Ke Ma; Hongxiang Leng; Chuangsheng Zheng; Dehua Yang; Xuehua Peng; Liya Ma; Renhao Huang; Pattanasak Mongkolwat; Yang Fan; Xiang Wang; Yongchao Xu; Jia Wu; Jianjun Zhang; Xian Yang; Tian Xia; Xi Wang; Xiaowu Liu; Yaobing Chen; Xiang Bai; Zhen Li; Changzheng Zhang; Yanyan Chen; Ihab Roushdy Kamel; Jiefeng Gan; Ziwei Fan; Xinyu Zou; Jiehua Yang; Guoping Wang; Xiaoliang Xie; Daniel L. Rubin; Chang Shu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20096073",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20096073"
+    },
+    "title": "A collaborative online AI engine for CT-based COVID-19 diagnosis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "HUST COVID-19 Rapid Response Call",
+                    "award-id": [
+                        "2020kfyXGYJ031",
+                        "2020kfyXGYJ093",
+                        "2020kfyXGYJ094"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "61703171",
+                        "81771801"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by HUST COVID-19 Rapid Response Call (No 2020kfyXGYJ031, No 2020kfyXGYJ093, No 2020kfyXGYJ094) and the National Natural Science Foundation of China (61703171 and 81771801)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Cancer Institute, National",
+                    "award-id": [
+                        "U01CA24287"
+                    ]
+                },
+                {
+                    "funding-source": "Institutes of Health,",
+                    "award-id": [
+                        "U01CA242879"
+                    ]
+                },
+                {
+                    "funding-source": "Thammasat University Research",
+                    "award-id": [
+                        "25/2561"
+                    ]
+                },
+                {
+                    "funding-source": "RUN Digital Cluster"
+                }
+            ],
+            "funding-statement": "This work was also supported in part by a grant from the National Cancer Institute, National Institutes of Health, U01CA242879, and Thammasat University Research fund under the NRCT, Contract No 25/2561, for the project of \u201cDigital platform for sustainable digital economy development\u201d, based on the RUN Digital Cluster collaboration scheme"
+        }
+    ]
+}

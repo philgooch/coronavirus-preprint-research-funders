@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Little is known about factors associated with hospitalization and critical illness in Covid-19 positive patients. Methods: We conducted a cross-sectional analysis of all patients with laboratory-confirmed Covid-19 treated at a single academic health system in New York City between March 1, 2020 and April 2, 2020, with follow up through April 7, 2020. Primary outcomes were hospitalization and critical illness (intensive care, mechanical ventilation, hospice and/or death). We conducted multivariable logistic regression to identify risk factors for adverse outcomes, and maximum information gain decision tree classifications to identify key splitters. Results: Among 4,103 Covid-19 patients, 1,999 (48.7%) were hospitalized, of whom 981/1,999 (49.1%) have been discharged home, and 292/1,999 (14.6%) have died or were discharged to hospice. Of 445 patients requiring mechanical ventilation, 162/445 (36.4%) have died. Strongest hospitalization risks were age \u226575 years (OR 66.8, 95% CI, 44.7-102.6), age 65-74 (OR 10.9, 95% CI, 8.35-14.34), BMI>40 (OR 6.2, 95% CI, 4.2-9.3), and heart failure (OR 4.3 95% CI, 1.9-11.2). Strongest critical illness risks were admission oxygen saturation <88% (OR 6.99, 95% CI 4.5-11.0), d-dimer>2500 (OR 6.9, 95% CI, 3.2-15.2), ferritin >2500 (OR 6.9, 95% CI, 3.2-15.2), and C-reactive protein (CRP) >200 (OR 5.78, 95% CI, 2.6-13.8). In the decision tree for admission, the most important features were age >65 and obesity; for critical illness, the most important was SpO2<88, followed by procalcitonin >0.5, troponin <0.1 (protective), age >64 and CRP>200. Conclusions: Age and comorbidities are powerful predictors of hospitalization; however, admission oxygen impairment and markers of inflammation are most strongly associated with critical illness.\nCompeting Interest Statement",
+    "author": "Leora I. Horwitz; Christopher M. Petrilli; Simon A. Jones; Fritz Francois; Luke F. O'Donnell; Robert J. Cerfolio; Jie Yang; Harish Rajagopalan; Yelena Chernyak; Katie Tobin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20057794",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20057794"
+    },
+    "title": "Factors associated with hospitalization and critical illness among 4,103 patients with COVID-19 disease in New York City",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was funded in part by the Kenneth C"
+        }
+    ]
+}

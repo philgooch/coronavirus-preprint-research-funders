@@ -1,0 +1,16 @@
+{
+    "abstract": "The aim of this study is to predict the daily infected cases with Coronavirus (COVID-19) in Algeria. We apply the SIR model on data from 25 February 2020 to 24 April 2020 for the prediction. Following (Huang et al. 2020), we develop two SIR models, an optimal model and a model in a worst-case scenario COVID-19. We estimate the parameters of our models by minimizing the negative log likelihood function using the Nelder- Mead method. Based on the simulation of the two models, the epidemic peak of COVID-19 is predicted to attain 24 July 2020 in a worst-case scenario, and the COVID-19 disease is expected to disappear in the period between September 2020 and November 2020 at the latest. We suggest that Algerian authorities need to implement a strict containment strategy over a long period to successfully decrease the epidemic size, as soon as possible.",
+    "author": "Mohamed Samir Boudrioua; Abderrahmane Boudrioua",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20079467",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20079467"
+    },
+    "title": "Predicting the COVID-19 epidemic in Algeria using the SIR model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors received no specific funding for this work"
+        }
+    ]
+}

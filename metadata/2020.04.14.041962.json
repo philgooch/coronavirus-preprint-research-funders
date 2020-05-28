@@ -1,0 +1,40 @@
+{
+    "title": "De novo 3D models of SARS-CoV-2 RNA elements and small-molecule-binding RNAs to guide drug discovery",
+    "date": 2020,
+    "author": "Ramya Rangan, Andrew M. Watkins, Wipapat Kladwang, Rhiju Das,\u2020 1Biophysics Program, Stanford University, Stanford CA 94305 2Department of Biochemistry, Stanford University School of Medicine, Stanford CA 94305 3Department of Physics, Stanford University, Stanford CA 94305 * Equally contributing lead authors. \u2020 Corresponding author: rhiju@stanford.edu",
+    "affiliations": [
+        "Stanford University, Stanford CA 94305",
+        "Department of Biochemistry, Stanford University School of Medicine, Stanford CA 94305",
+        "Department of Physics, Stanford University, Stanford CA 94305",
+        "Equally contributing lead authors",
+        "Corresponding author:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.14.041962",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.14.041962.pdf"
+    },
+    "abstract": "The rapid spread of COVID-19 motivates development of antivirals targeting conserved molecular machinery of the SARS-CoV-2 virus. The SARS-CoV-2 genome includes conserved RNA elements that offer potential targets for RNA-targeting small-molecule drugs, but 3D structures of most of these elements have not been experimentally characterized. Here, we provide a dataset called \u2018FARFAR2-SARS-CoV-2\u2019, a collection of 3D coordinates modeled using Rosetta\u2019s FARFAR2 algorithm, including de novo models for thirteen RNA elements in SARS-CoV-2 and homology models for a fourteenth. These elements comprise SL1, SL2, SL3, SL4, SL5, putative SL6 and SL7 in the extended 5\u2032 UTR, as well as the entire extended 5\u2032 UTR; the frameshifting element (FSE) from the SARS-CoV-2 ORF1a/b gene and a putative dimer of FSE; and the extended pseudoknot, hypervariable region, and the s2m of the 3\u2032 UTR, as well as the entire 3\u2032 UTR. For five of these elements (SL1, SL2, SL3, FSE, s2m), convergence of lowest predicted energy structures supports their accuracy in capturing low energy states that might be targeted for small molecule binding. To aid efforts to discover small molecule RNA binders guided by computational models, we provide a second benchmarking dataset called \u2018FARFAR2-Apo-Riboswitch\u2019, which consists of similarly prepared Rosetta-FARFAR2 models for RNA riboswitch aptamer regions that bind small molecules. Both datasets include up to 400 3D models for each RNA element, which may facilitate drug discovery approaches targeting dynamic ensembles of low-energy excited states of RNA molecules.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation Graduate Research Fellowship Program",
+                    "award-id": [
+                        "1650114"
+                    ]
+                },
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "R21 CA219847",
+                        "R35 GM122579"
+                    ]
+                }
+            ],
+            "funding-statement": "We acknowledge funding from the National Science Foundation Graduate Research Fellowship Program under grant no. 1650114 and National Institutes of Health (R21 CA219847 and R35 GM122579)"
+        }
+    ]
+}

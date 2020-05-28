@@ -1,0 +1,16 @@
+{
+    "abstract": "Introduction: As SARS-COV-2 and the disease COVID-19 is sweeping through countries after countries around the globe, it is critical to understand potential burden of a future outbreak in cities of Colombia. This pandemic has affected most of the countries in the world because the high global movement of individuals and excessive cost in interventions. Objective: Using demographic data from city of Cali, disease epidemiological information from affected countries and mathematical models, we estimated the rate of initial exponential growth of new cases and the basic reproductive rate for a potential outbreak in city of Cali in Colombia. Materials and methods: We used dynamical models with different modeling assumptions such as use of various types of interventions and/or epidemiological characteristics to compare and contrast the differences between Colombian cities and between Latin American countries. Results: Under the assumption of homogeneously mixing population and limited resources, we predicted expected number of infected, hospitalized, in Intensive Care Units (ICU) and deaths during this potential COVID-19 outbreak. Our results suggest that on a given day in Cali there may be up to around 73000 cases who might need hospitalization under no intervention. However, this number drastically reduces if we carry out only-isolation intervention (with 16 days of symptomatic infection; \u223c13,000 cases) versus both quarantining for 6 days and isolation within 16 days (\u223c3500 cases). The peak in Cali will reach in 2-3 months. Conclusions: The estimates from these studies provides different scenarios of outbreaks and can help Cali to be better prepared during the ongoing COVID-19 outbreak.",
+    "author": "Malay Banerjee; Marlio Paredes; Anuj Mubayi; Olcay Akman; Jorge Humberto Rojas",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093526",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093526"
+    },
+    "title": "Mathematical Modeling &amp; the Transmission Dynamics of SARS-CoV-2 in Cali, Colombia: Implications to a 2020 Outbreak &amp; public health preparedness",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

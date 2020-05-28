@@ -1,0 +1,16 @@
+{
+    "abstract": "Following the first infections in the Wuhan City, COVID-19 became a global pandemic as declared by the World Health Organization (WHO). Since it is an airborne disease transmitted between humans, many countries adopted a quarantine on their own population as well as closing borders measures. In Brazil many are discussing the best way to manage the opening of the quarantine under the constraints of hospitals infrastructure. In this work we implement a forecast of the demand for hospital beds for the next 30 days for every state in Brazil for different quarantine flexibilization scenarios and analyse how long it would take for the demand to exceed current available hospital beds.",
+    "author": "Raquel de Abreu Gritz; Adolfo Simoes; Rafael Silva Pereira; Fabio Andre Porto; Henrique Matheus Silva",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20080143",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20080143"
+    },
+    "title": "Projection of hospitalization by COVID-19 in Brazil following different social distances policies",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement external funding not received</strong>"
+        }
+    ]
+}

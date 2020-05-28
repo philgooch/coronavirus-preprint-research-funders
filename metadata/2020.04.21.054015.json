@@ -1,0 +1,84 @@
+{
+    "title": "TMPRSS2 and TMPRSS4 mediate SARS-CoV-2 infection of human small intestinal 2 enterocytes 3 4 Ruochen Zang1,2,*, Maria F.G. Castro1,*, Broc T. McCune3, Qiru Zeng1, Paul W. Rothlauf1, 5 Naomi M. Sonnek4, Zhuoming Liu1, Kevin F. Brulois5,6, Xin Wang2, Harry B. Greenberg6,7, 6 Michael S. Diamond1,3,8, Matthew A. Ciorba4, Sean P.J. Whelan1, Siyuan Ding1 7 8 1Department of Molecular Microbiology, Washington University School of Medicine, St. 9 Louis, MO, USA. 2Key Laboratory of Marine Drugs, Ministry of Education, Ocean 10 University of China, Qingdao, China. 3Department of Medicine, Division of Infectious 11 Diseases, Washington University School of Medicine, St. Louis, MO, USA. 4Department 12 of Medicine, Division of Gastroenterology, Washington School of Medicine, St. Louis, MO, 13 USA. 5Department of Pathology, Stanford School of Medicine, Stanford, CA, USA. 6VA 14 Palo Alto Health Care System, Department of Veterans Affairs, Palo Alto, CA, USA. 15 7Department of Medicine, Division of Gastroenterology and Hepatology, and Department 16 of Microbiology and Immunology, Stanford School of Medicine, Stanford, CA, USA. 17 8Department of Pathology and Immunology, Washington University School of Medicine, 18 St. Louis, MO, USA. 19 20 Equal contribution: Ruochen Zang and Maria F. G. Castro 21 22 Correspondence: Siyuan Ding, siyuan.ding@wustl.edu 23",
+    "date": 2020,
+    "affiliations": [
+        "Department of Molecular Microbiology, Washington University School of Medicine, St",
+        "Key Laboratory of Marine Drugs, Ministry of Education, Ocean",
+        "University of China, Qingdao, China",
+        "Department of Medicine, Division of Infectious",
+        "Diseases, Washington University School of Medicine, St. Louis, MO, USA",
+        "Department 12 of Medicine, Division of Gastroenterology, Washington School of Medicine, St. Louis, MO",
+        "Department of Pathology, Stanford School of Medicine, Stanford, CA, USA. 6VA",
+        "Palo Alto Health Care System, Department of Veterans Affairs, Palo Alto, CA, USA. 15",
+        "Department of Medicine, Division of Gastroenterology and Hepatology, and Department 16 of Microbiology and Immunology, Stanford School of Medicine, Stanford, CA, USA. 17",
+        "Department of Pathology and Immunology, Washington University School of Medicine, 18 St. Louis, MO, USA. 19 20 Equal contribution: Ruochen Zang and Maria F. G. Castro 21 22 Correspondence: Siyuan Ding"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.21.054015",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.21.054015.pdf"
+    },
+    "abstract": "25 26 Both gastrointestinal symptoms and fecal shedding of SARS-CoV-2 RNA have been frequently observed in COVID-19 patients. However, whether SARS-CoV-2 replicate in the human intestine and its clinical relevance to potential fecal-oral transmission remain unclear. Here, we demonstrate productive infection of SARS-CoV-2 in ACE2+ mature enterocytes in human small intestinal enteroids. In addition to TMPRSS2, another mucosa-specific serine protease, TMPRSS4, also enhanced SARS-CoV-2 spike fusogenic activity and mediated viral entry into host cells. However, newly synthesized viruses released into the intestinal lumen were rapidly inactivated by human colonic fluids and no infectious virus was recovered from the stool specimens of COVID-19 patients. Our results highlight the intestine as a potential site of SARS-CoV-2 replication, which may contribute to local and systemic illness and overall disease progression. 38 Introduction 39 40 Coronavirus disease 2019 (COVID-19) has emerged as a new world pandemic, claiming the deaths of over 160,000 people. This outbreak is caused by a novel severe acute respiratory syndrome coronavirus, SARS-CoV-2 (1, 2), which belongs to the family of Coronaviridae, a group of enveloped, non-segmented, positive-sense RNA viruses. Currently, there are no clinically approved countermeasures available for COVID-19. The SARS-CoV-2 associated disease seems to take an extra toll on the elderly, although the host immunological responses to the pathogen remain largely unknown. SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "K99/R00",
+                        "AI135031"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "K99/R00",
+                        "AI135031",
+                        "AI150796"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI125249"
+                    ]
+                },
+                {
+                    "funding-source": "VA Merit",
+                    "award-id": [
+                        "GRH0022"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "75N93019C00062",
+                        "R01 AI127828"
+                    ]
+                },
+                {
+                    "funding-source": "Defense Advanced Research Project Agency",
+                    "award-id": [
+                        "HR001117S0019"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "DK052574"
+                    ]
+                },
+                {
+                    "funding-source": "NIDDK",
+                    "award-id": [
+                        "DK052574",
+                        "DK109384"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is supported by the National Institutes of Health (NIH) grants K99/R00 AI135031 and R01 AI150796 awarded to S.D., NIH grant R01 AI125249 and VA Merit grant GRH0022 awarded to H.B.G., NIH contracts and grants (75N93019C00062 and R01 AI127828) and the Defense Advanced Research Project Agency (HR001117S0019) to M.S.D., NIH grants NIDDK P30 DK052574 and R01 DK109384 to M.A.C."
+        }
+    ]
+}

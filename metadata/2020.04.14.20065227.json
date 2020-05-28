@@ -1,0 +1,16 @@
+{
+    "abstract": "We present a simple operational nowcasting/forecasting scheme based on a joint state/parameter estimate of the COVID-19 epidemic at national or regional scale, performed by assimilating the time series of reported daily death numbers into a simple SEIR model. This system generates estimates of the current reproductive rate, Rt, together with predictions of future daily deaths and clearly outperforms a number of alternative forecasting systems that have been presented recently. Our current (14th April 2020) estimates for Rt are, respectively, UK 0.49 (0.0 \u2013 1.02), Spain 0.55 (0.33 \u2013 0.77), Italy 0.90 (0.74 \u2013 1.06) and France 0.67 (0.40 \u2013 0.94) (mean and 95% credible intervals). Thus, we believe that the epidemics have been successfully suppressed in each of these countries, with high probability. Our approach is trivial to set up for any region and generates results in a few minutes on a laptop. We believe it would be straightforward to set up equivalent frameworks using more complex and realistic models, and hope that some experts in the field of epidemiological modelling will consider investigating this approach further.",
+    "author": "Julia C Hargreaves; James D Annan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065227",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065227"
+    },
+    "title": "Model calibration, nowcasting, and operational prediction of the COVID-19 pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was obtained for this work"
+        }
+    ]
+}

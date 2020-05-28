@@ -1,0 +1,87 @@
+{
+    "title": "Potential modes of COVID-19 transmission from human eye revealed by single-cell atlas",
+    "author": "Pradeep Gautam",
+    "date": 2020,
+    "affiliations": [
+        "Cell Fates Laboratory, Programme in Stem Cell, Regenerative Medicine and Aging, A*STAR Institute of Molecular and Cell Biology, Singapore 138673, Singapore",
+        "Department of Biological Sciences, National University of Singapore, Singapore 117543, Singapore",
+        "Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA",
+        "Center for Individualized Medicine, Department of Molecular Pharmacology & Experimental Therapeutics, Mayo Clinic, Rochester, Minnesota 55905, USA",
+        "NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore, 28 Medical Drive, Singapore 117456, Singapore",
+        "Department of Physiology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore 117593, Singapore",
+        "These authors contributed equally to this work"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.09.085613",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.09.085613.pdf"
+    },
+    "abstract": "There is a pressing urgency to understand the entry route of SARS-CoV-2 viruses into the human body. SARS-CoV-2 viruses enter through ACE2 receptors after the S proteins of the virus are primed by proteases such as TMPRSS2. Most studies focused on the airway epithelial and lung alveolar cells as the route of infection, while the mode of transmission through the ocular route is not well established. Here, we profiled the presence of SARS-CoV-2 receptors and receptor-associated enzymes at single-cell resolution of thirty-three human ocular cell types. We identified unique populations of corneal cells with high ACE2 expression, among which the conjunctival cells co-expressed both ACE2 and TMPRSS2, suggesting that they could serve as the entry points for the virus. Integrative analysis further models the signaling and transcription regulon networks involved in the infection of distinct corneal cells. Our work constitutes a unique resource for the development of new treatments and management of COVID-19.",
+    "keywords": [
+        "single-cell RNA-seq",
+        "ACE2",
+        "COVID-19",
+        "SARS-CoV-2",
+        "cornea",
+        "conjunctiva",
+        "SOX13",
+        "IL6"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Glenn Foundation for Medical Research,"
+                },
+                {
+                    "funding-source": "Mayo Clinic Center for Biomedical Discovery and the Mayo Clinic Cancer Center"
+                }
+            ],
+            "funding-statement": "H.L. is supported by the Glenn Foundation for Medical Research, the Mayo Clinic Center for Biomedical Discovery and the Mayo Clinic Cancer Center"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NRF Investigatorship",
+                    "award-id": [
+                        "NRFI2018-02"
+                    ]
+                },
+                {
+                    "funding-source": "JCO Development Programme Grant"
+                }
+            ],
+            "funding-statement": "Y-H.L. is supported by the [NRF Investigatorship award -NRFI2018-02] and [JCO Development Programme Grant 1534n00153] grants"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Singapore National Research Foundation"
+                },
+                {
+                    "funding-source": "Cooperative Basic Research Grant"
+                },
+                {
+                    "funding-source": "Singapore Ministry of Health\u2019s NationalMedical Research Council",
+                    "award-id": [
+                        "NMRC/CBRG/0092/2015"
+                    ]
+                }
+            ],
+            "funding-statement": "Y-H.L. and L-F.Z. are supported by the Singapore National Research Foundation under its Cooperative Basic Research Grant administered by the Singapore Ministry of Health\u2019s NationalMedical Research Council [NMRC/CBRG/0092/2015]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Biomedical Research"
+                },
+                {
+                    "funding-source": "Agency for Science, Technology"
+                }
+            ],
+            "funding-statement": "We are grateful to the Biomedical Research 565 Council, Agency for Science, Technology and Research, Singapore for research funding"
+        }
+    ]
+}

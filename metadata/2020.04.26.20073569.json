@@ -1,0 +1,36 @@
+{
+    "abstract": "SARS-CoV-2 is an RNA virus, a member of the coronavirus family of respiratory viruses that includes SARS-CoV-1 and MERS. COVID-19, the clinical syndrome caused by SARS-CoV-2, has evolved into a global pandemic with more than 2,900,000 people infected. It has had an acute and dramatic impact on health care systems, economies, and societies of affected countries within these few months. Widespread testing and tracing efforts are employed in many countries in order to contain and mitigate this pandemic. Recent data has indicated that fecal shedding of SARS-CoV-2 is common, and that the virus can be detected in wastewater. This indicates that wastewater monitoring is a potentially efficient tool for epidemiological surveillance of SARS-CoV-2 infection in large populations at relevant scales. Collecting raw sewage data, representing specific districts, and crosslinking this data with the number of infected people from each location, will enable us to derive and provide quantitative surveillance tools. In particular, this will provide important means to (i) estimate the extent of outbreaks and their spatial distributions, based primarily on in-sewer measurements (ii) manage the early-warning system quantitatively and efficiently (and similarly, verify disease elimination). Here we report the development of a virus concentration method using PEG or alum, providing an important a tool for detection of SARS-CoV-2 RNA in sewage and relating it to the local populations and geographic information. This will provide a proof of concept for the use of sewage associated virus data as a reliable epidemiological tool.",
+    "affiliations": [
+        "Department of Biotechnology Engineering, Ben-Gurion University of the Negev, Beer-Sheva, Israel and The Ilse Katz Center for Meso and Nanoscale Science and Technology, Ben-Gurion University of the Negev, Be'er Sheva 84105",
+        "Ben Gurion University, The Corona Challenge Covid-19 (https://in.bgu.ac.il/en/corona-challenge/Pages/default.aspx) and to the wastewater treatment plants operators and IGUDAN (http://www.igudan.org.il) for help in the sampling efforts"
+    ],
+    "author": "Karin Yaniv; Ella Mendelson; Yakir Berchenko; Oran Erster; Esti Kramarsky-Winter; Ehud Rinott; Zeev Ronen; Yair E. Lewis; Marilou Shagan; Ariel Kushmaro; Eran Friedler Friedler; Batya Mannasse; Rachel Shirazi; Hala Abu-Ali; Eden Bitkover; Yossi Paitan; Eden Ozer; Itay Bar Or; Oded Nir",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20073569",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20073569"
+    },
+    "title": "Regressing SARS-CoV-2 sewage measurements onto COVID-19 burden in the population: a proof-of-concept for quantitative environmental surveillance",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ben Gurion University, The"
+                },
+                {
+                    "funding-source": "Corona Challenge Covid-19",
+                    "award-id": [
+                        "https://in.bgu.ac.il/en/corona-challenge/Pages/default.aspx"
+                    ]
+                },
+                {
+                    "funding-source": "IGUDAN",
+                    "award-id": [
+                        "http://www.igudan.org.il"
+                    ]
+                }
+            ],
+            "funding-statement": "We would like to thank for funding from Ben Gurion University, The Corona Challenge Covid-19 (https://in.bgu.ac.il/en/corona-challenge/Pages/default.aspx) and to the wastewater treatment plants operators and IGUDAN (http://www.igudan.org.il) for help in the sampling efforts"
+        }
+    ]
+}

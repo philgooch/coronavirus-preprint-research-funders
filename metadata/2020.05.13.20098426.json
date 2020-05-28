@@ -1,0 +1,20 @@
+{
+    "abstract": "Objectives: Numerous serologic immunoassays have been launched to detect antibodies to SARS-CoV-2, including rapid tests. Here, we validate use of a lateral flow immunoassay (LFI) intended for rapid screening and qualitative detection of anti-SARS-CoV-2 IgM and IgG in serum, plasma, and whole blood, and compare results with ELISA. We also seek to establish the value of LFI testing on blood obtained from a capillary blood sample. Methods: Samples collected by venous blood draw and capillary finger stick were obtained from patients with SARS-CoV-2 detected by RT-qPCR and control patients negative for SARS-CoV-2. Samples were tested with the 2019-nCoV IgG/IgM Detection Kit (Colloidal Gold) lateral flow immunoassay, and antibody calls were compared with results obtained by ELISA. Results: The Biolidics LFI kit shows clinical sensitivity of 92% at 7 days after PCR diagnosis of SARS-CoV-2 on venous blood. Test specificity was 92% for IgM and 100% for IgG. There was no significant difference in detecting IgM and IgG with Biolidics LFI and ELISA at D0 and D7 (p=1.00), except for detection of IgM at D7 (p=0.04). Finger stick whole blood of SARS-CoV-2 patients showed 93% sensitivity for antibody detection. Conclusions: Clinical performance of Biolidics 2019-nCoV IgG/IgM Detection Kit (Colloidal Gold) is comparable to ELISA and showed consistent results across different sample types. Furthermore, we show that capillary blood obtained by finger stick shows similar sensitivity for detecting anti-SARS-CoV-2 IgM and IgG antibodies as venous blood samples. This provides an opportunity for decentralized rapid testing in the community and may allow point-of-care and longitudinal self-testing for the presence of anti-SARS-CoV-2 antibodies.",
+    "author": "Michael Astudillo; Wilfredo Garcia Beltran; Mandakolathur Murali; Xiaojun Feng; Margaret A Black; Tatyana Gindin; Diane Yang; Douglas Allison; Guomiao Shen; Matija Snuderl; Lawrence H. Lin; Paolo Cotzia; Yang Feng; Varshini Vasudevaraja; George Jour; A. John Iafrate",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20098426",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20098426"
+    },
+    "title": "Analytical performance of lateral flow immunoassay for SARS-CoV-2 exposure screening on venous and capillary blood samples",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF CAREER Grant DMS-2013789"
+                }
+            ],
+            "funding-statement": "Feng's research is partially supported by NSF CAREER Grant DMS-2013789"
+        }
+    ]
+}

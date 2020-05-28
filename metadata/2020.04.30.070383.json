@@ -1,0 +1,71 @@
+{
+    "title": "Short Communication",
+    "author": "Sofia Appelberg,#, Soham Gupta,#, Anoop T Ambikan, Flora Mikaeloff, \u00c1kos V\u00e9gv\u00e1ri, Sara 6 Svensson Akusj\u00e4rvi, Rui Benfeitas, Maike Sperk, Marie St\u00e5hlberg, Shuba Krishnan, Kamal 7 Singh, Josef M. Penninger, Ali Mirazimi, Ujjwal Neogi",
+    "date": 2020,
+    "affiliations": [
+        "Division of Clinical Microbiology, Department of Laboratory Medicine, Karolinska Institute",
+        "ANA Futura, Campus Flemingsberg, Stockholm, Sweden. 12",
+        "Division of Chemistry I, Department of Medical Biochemistry and Biophysics, Karolinska",
+        "Institutet, Stockholm, Sweden 14",
+        "National Bioinformatics Infrastructure Sweden (NBIS), Science for Life Laboratory, Department 15 of Biochemistry and Biophysics, Stockholm University, S-10691 Stockholm, Sweden 16",
+        "Department of Molecular Microbiology and Immunology and the Bond Life Science Center",
+        "University of Missouri, Columbia, MO 65211, USA 18",
+        "Institute of Molecular Biotechnology of the Austrian Academy of Sciences, Dr. Bohr-Gasse 3, 19 1030 Vienna, Austria. 20",
+        "Department of Medical Genetics, Life Science Institute, University of British Columbia, 21 Vancouver, V6T 1Z3, British Columbia, Canada. 22",
+        "National Veterinary Institute, Uppsala, Sweden 23 #Equal contribution"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.30.070383",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.30.070383.pdf"
+    },
+    "abstract": "How Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) infections engage cellular host pathways and innate immunity in infected cells remain largely elusive. We performed an integrative proteo-transcriptomics analysis in SARS-CoV-2 infected HuH7 cells to map the cellular response to the invading virus over time. We identified four pathways, ErbB, HIF-1, mTOR and TNF signaling, among others that were markedly modulated during the course of the SARS-CoV-2 infection in vitro. Western blot validation of the downstream effector molecules of these pathways revealed a significant reduction in activated S6K1 and 4E-BP1 at 72 34 hours post infection. Unlike other human respiratory viruses, we found a significant inhibition of 35 HIF-1\u03b1 through the entire time course of the infection, suggesting a crosstalk between the SARS36 CoV-2 and the mTOR/HIF-1 signaling. Further investigations are required to better understand 37 the molecular sequelae in order to guide potential therapy in the management of severe COVID38 19 patients.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Swedish Research Council Grant",
+                    "award-id": [
+                        "2017-01330"
+                    ]
+                }
+            ],
+            "funding-statement": "The study is funded by the Swedish Research Council Grant (2017-01330, UN)"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "2018-05766",
+                        "2017-03126"
+                    ]
+                }
+            ],
+            "funding-statement": "M. is supported by the Swedish research Council 2018-05766 and 2017-03126"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Chair"
+                },
+                {
+                    "funding-source": "Response COVID-19"
+                }
+            ],
+            "funding-statement": "J.M.P. is supported by the Canada 150 Research Chair program and CIHR rapid Response COVID-19 grant"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bioinformatics and Expression Analysis"
+                },
+                {
+                    "funding-source": "Karolinska Institute and the"
+                }
+            ],
+            "funding-statement": "We would like to thank the core facility Bioinformatics and Expression Analysis (BEA), supported by the board of research at the Karolinska Institute and the research committee at the"
+        }
+    ]
+}

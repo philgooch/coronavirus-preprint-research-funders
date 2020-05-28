@@ -1,0 +1,16 @@
+{
+    "abstract": "Background and Rationale: Amid SARS-CoV-2 outbreak, the low number of infections for a population size of 1.38 billion is widely discussed, but with no definite answers. Methods: We used the model proposed by Bommer and Vollmer to assess the quality of official case records. The infection fatality rates were taken from Verity et al (2020). Age distribution of the population for India and states are taken from the Census of India (2011). Reported number of deaths and SARS-CoV-2 confirmed cases from https://www.covid19india.org. The reported numbers of samples tests were collected from the reports of the Indian Council for Medical Research (ICMR). Results: The findings suggest that India is detecting just 3.6% of the total number of infections with a huge variation across its states. Among 13 states which have more than 100 COVID-19 cases, the detection rate varies from 81.9% (of 410 estimated infections) in Kerala to 0.8% (of 35487 estimated infections) in Madhya Pradesh and 2.4% (of 7431 estimated infections) in Gujarat. Conclusion: As the study reports a lower number of deaths and higher recovery rates in the states with a high detection rate, thus suggest that India must enhance its testing capacity and go for widespread testing. Late detection puts patients in greater need of mechanical ventilation and ICU care, which imposes greater costs on the health system. The country should also adopt population-level random testing to assess the prevalence of the infection.",
+    "author": "K.S. James; Srinivas Goli",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059014",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059014"
+    },
+    "title": "How much of SARS-CoV-2 Infections is India detecting? A model-based estimation",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The study is an independent research work. There is no external or internal funding for this study."
+        }
+    ]
+}

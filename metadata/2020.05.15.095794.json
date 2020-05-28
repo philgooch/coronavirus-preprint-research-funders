@@ -1,0 +1,68 @@
+{
+    "title": "Phylogenetic Analysis of SARS-CoV-2 Genomes in Turkey",
+    "date": 2020,
+    "author": "Og\u00fcn ADEBAL\u0130, Aylin B\u0130RCAN, Defne \u00c7\u0130RC\u0130, Burak \u0130\u015eLEK, Zeynep KILIN\u00c7, Berkay SEL\u00c7UK, Berk TURHAN",
+    "affiliations": [
+        "Molecular Biology, Genetics and Bioengineering, Faculty of Natural Sciences and Engineering, Sabanc\u0131 University, \u0130stanbul, Turkey"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.15.095794",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.15.095794.pdf"
+    },
+    "abstract": "COVID-19 has effectively spread worldwide. As of May 2020, Turkey is among the top ten countries with the most cases. A comprehensive genomic characterization of the virus isolates in Turkey is yet to be carried out. Here, we built a phylogenetic tree with 15,277 severe acute respiratory syndrome coronavirus 2 (SARS-",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "phylogenetics",
+        "evolution",
+        "genome sequence"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Molecular Biology Organization"
+                },
+                {
+                    "funding-source": "Installation Grant"
+                },
+                {
+                    "funding-source": "The Scientific and Technological Research Council of Turkey"
+                }
+            ],
+            "funding-statement": "This work, in part, is supported by the European Molecular Biology Organization (EMBO) Installation Grant (OA) funded by The Scientific and Technological Research Council of Turkey (T\u00dcB\u0130TAK)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "International Fellowship for Outstanding Researchers Program, T\u00dcB\u0130TAK"
+                },
+                {
+                    "funding-source": "BAGEP"
+                },
+                {
+                    "funding-source": "Young Scientist Award"
+                },
+                {
+                    "funding-source": "Science Academy, Turkey"
+                }
+            ],
+            "funding-statement": "OA is additionally supported by International Fellowship for Outstanding Researchers Program, T\u00dcB\u0130TAK 2232 and BAGEP (Young Scientist Award by Science Academy, Turkey) 2019 grant"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "T\u00dcB\u0130TAK STAR",
+                    "award-id": [
+                        "2247-C",
+                        "COVID-19"
+                    ]
+                }
+            ],
+            "funding-statement": "D\u00c7, ZK and BT are supported by the T\u00dcB\u0130TAK STAR program 2247-C. We would like to thank all the healthcare workers who save lives during the COVID-19 pandemic"
+        }
+    ]
+}

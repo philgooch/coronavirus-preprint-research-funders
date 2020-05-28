@@ -1,0 +1,49 @@
+{
+    "title": "Computational methods to develop potential neutralizing antibody Fab region against SARS-CoV-2 as therapeutic and diagnostic tool",
+    "author": "Hemanth K. Manikyam, Sunil K. Joshi,* 1Faculty of Science, North East Frontier Technical University, Arunachal Pradesh, India. Email: phytochem,@gmail.com 2Division of Haematology / Oncology & Bone Marrow Transplantation, Department of Pediatrics, University of Miami Miller School of Medicine, Miami, FL USA Email: sunil.joshi@med.miami.edu *Corresponding Authors Running Title: Diagnosis and Immunotherapy of COVID-19. Keywords: SARS-CoV-2, coronavirus, IMGT, Human antibodies, I-TASSER, IgBLAST, Molbiol, LYRA, Fab, Nabs and mAbs",
+    "date": 2020,
+    "affiliations": [
+        "Faculty of Science, North East Frontier Technical University, Arunachal Pradesh, India",
+        "Division of Haematology / Oncology & Bone Marrow Transplantation, Department of Pediatrics, University of Miami Miller School of Medicine, Miami, FL USA",
+        "Corresponding Authors Running Title: Diagnosis and Immunotherapy of COVID-19. Keywords: SARS-CoV-2, coronavirus, IMGT, Human antibodies, I-TASSER, IgBLAST, Molbiol, LYRA, Fab, Nabs and"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.02.071506",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.02.071506.pdf"
+    },
+    "abstract": "SARS-CoV-2, a global pandemic originated from Wuhan city of China in the month of December 2019. There is an urgency to identify potential antibodies to neutralize the virus and also as a diagnostic tool candidate. At present palliative treatments using existing antiviral drugs are under trails to treat SARS-CoV-2.Whole Genome sequence of Wuhan market sample of SARS-CoV-2 was obtained from NCBI Gene ID MN908947.3.Spike protein sequence PDB ID 6VSB obtained from RCSB database. Spike protein sequence had shown top V gene match with IGLV1-44*01, IGLV1-47*02 and has VL type chain. Whole Genome sequence had shown top V gene match with IGHV1-38-4*01 and has VH type chain. VD chain had shown link to allele HLA-A0206 80%, HLA-A0217 80%, HLA-A2301 75%, HLA-A0203 75%, HLA-A0202 70% and HLA-A0201 55% of binding levels. Some conserved regions of spike protein had shown strong binding affinity with HLA-A-0*201, HLA-A24, HLA-B-5701 and HLA-B-5703 alpha chains. Synthetic Fab construct BCR type antibody IgG (CR5840) had shown Polyspecific binding activity with spike glycoprotein when compared with available Anti-SARS antibody CR3022.Thus we propose CR5840 Fab constructed antibody as potential neutralizing antibody for SARS-CoV-2. Based on germline analysis we also propose cytotoxic T lymphocyte epitope peptide selective system as effective tool for the development of SARSCoV-2 vaccine.",
+    "keywords": [
+        "SARS-CoV-2",
+        "coronavirus",
+        "IMGT",
+        "Human antibodies",
+        "I-TASSER",
+        "IgBLAST",
+        "Molbiol",
+        "LYRA",
+        "Fab",
+        "Nabs and mAbs"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation Grand Challenge Exploration",
+                    "award-id": [
+                        "GCE Round 4: OPP1015489"
+                    ]
+                },
+                {
+                    "funding-source": "GCE Round",
+                    "award-id": [
+                        "OPP1015489"
+                    ]
+                }
+            ],
+            "funding-statement": "Acknowledgement: This work was supported by the Bill and Melinda Gates Foundation Grand Challenge Exploration grant (GCE Round 4: OPP1015489) to SKJ"
+        }
+    ]
+}

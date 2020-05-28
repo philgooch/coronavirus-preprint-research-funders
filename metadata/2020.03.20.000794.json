@@ -1,0 +1,25 @@
+{
+    "title": "COVID-19 Vaccine Candidates: Prediction and Validation of 174 SARS-CoV-2 Epitopes",
+    "date": 2020,
+    "author": "Marek Prachar,\u200b ,Sune Justesen\u200b3,Daniel Bisgaard Steen-Jensen\u200b3,Stephan Thorgrimsen\u200b3,Erik Jurgons\u200b4,Ole Winther\u200b1,and Frederik Otzen Bagger\u200b1,7",
+    "affiliations": [
+        "Center for Genomic Medicine, Copenhagen University Hospital, Copenhagen, Denmark",
+        "Bioinformatics Centre, Department of Biology, University of Copenhagen, Copenhagen, Denmark",
+        "Immunitrack ApS, Copenhagen, Denmark",
+        "INTAVIS Peptide Services GmbH & Co.KG, Waldh\u00e4user Str. 64, 72076 T\u00fcbingen, Germany",
+        "Department of Applied Mathematics and Computer Science, Technical University of Denmark, 2800 Kgs",
+        "UKBB Universitats-Kinderspital, Department of Biomedicine, Basel, 4031 Basel, Switzerland",
+        "Swiss Institute of Bioinformatics, Basel, 4053 Basel, Switzerland"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.20.000794",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.20.000794.pdf"
+    },
+    "abstract": "The recent outbreak of SARS-CoV-2 (2019-nCoV) virus has highlighted the need for fast and efficacious vaccine development. Stimulation of a proper immune response that leads to protection is highly dependent on presentation of epitopes to circulating T-cells via the HLA complex. SARS-CoV-2 is a large RNA virus and testing of all overlapping peptides in vitroto deconvolute an immune response is not feasible. Therefore HLA-binding prediction tools are often used to narrow down the number of peptides to test. We tested 19 epitope-HLA-binding prediction tools, and using an in vitropeptide MHC stability assay, we assessed 777 peptides that were predicted to be good binders across 11 MHC allotypes. In this investigation of potential SARS-CoV-2 epitopes we found that current prediction tools vary in performance when assessing binding stability, and they are highly dependent on the MHC allotype in question. Designing a COVID-19 vaccine where only a few epitope targets are included is therefore a very challenging task. Here, we present 174 SARS-CoV-2 epitopes with high prediction binding scores, validated to bind stably to 11 HLA allotypes. Our findings may contribute to the design of an efficacious vaccine against COVID-19.",
+    "funding": [
+        {}
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "abstract": "Sequel to [10], who studied the dynamics of COVID-19 using an SEIRUS model. We consider an SEIRS model capturing saturated incidence with treatment response. In this theoretical model, we assumed that the treatment response is proportional to the number of infected as long as the incidence cases are within the capacity of the healthcare system, after which the value becomes constant, when the number of confirmed cases exceed the carrying capacity of the available medical facilities. Thus, we obtain the reproduction number stating that when , the disease free equilibrium is globally asymptotically stable. Also, we studied the existence of the local and global stability of the disease free and endemic equilibria and found that the kind of treatment response and inhibitory measures deployed in tackling the COVID-19 pandemic determines whether the disease will die out or become endemic.",
+    "author": "David Adeyemi Oluyori; Helen O. Adebayo",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103630",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103630"
+    },
+    "title": "Global Analysis of an SEIRS Model for COVID-19 Capturing Saturated Incidence with Treatment Response",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "No Funding from"
+                }
+            ],
+            "funding-statement": "No Funding from any external source"
+        }
+    ]
+}

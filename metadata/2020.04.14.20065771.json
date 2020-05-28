@@ -1,0 +1,51 @@
+{
+    "abstract": "The duration and nature of immunity generated in response to SARS-CoV-2 infection is unknown. Many public health responses and modeled scenarios for COVID-19 outbreaks caused by SARS-CoV-2 assume that infection results in an immune response that protects individuals from future infections or illness for some amount of time. The timescale of protection is a critical determinant of the future impact of the pathogen. The presence or absence of protective immunity due to infection or vaccination (when available) will affect future transmission and illness severity. The dynamics of immunity and nature of protection are relevant to discussions surrounding therapeutic use of convalescent sera as well as efforts to identify individuals with protective immunity. Here, we review the scientific literature on antibody immunity to coronaviruses, including SARS-CoV-2 as well as the related SARS-CoV-1, MERS-CoV and human endemic coronaviruses (HCoVs). We reviewed 1281 abstracts and identified 322 manuscripts relevant to 5 areas of focus: 1) antibody kinetics, 2) correlates of protection, 3) immunopathogenesis, 4) antigenic diversity and cross-reactivity, and 5) population seroprevalence. While studies of SARS-CoV-2 are necessary to determine immune responses to it, evidence from other coronaviruses can provide clues and guide future research.",
+    "affiliations": [
+        "Intramural Research Program of the National Human Genome Research Institute, National Institutes of Health. DATC was supported by the US National Institutes of Health award number R01-AI114703-01.APW is funded by",
+        "Career Award at the Scientific Interface from the Burroughs Wellcome Fund and by the National Library of Medicine of the National Institutes of Health under award number DP2LM013102. IRB was supported by the John A Watson Faculty Scholar fellowship"
+    ],
+    "author": "Brooke Borgert; Amy Wesolowski; Matt D.T. Hitchings; Bernardo Garcia-Carreras; Benjamin D. Solomon; Carlos Moreno; Angkana T. Huang; Henrik Salje; Leah Katzelnick; Susan M Rattigan; Justin Lessler; Donald S. Burke; Bingyi Yang; Derek A.T. Cummings; Isabel Rodriguez-Barraquer",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065771",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.5281/zenodo.3751566",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065771"
+    },
+    "title": "A systematic review of antibody mediated immunity to coronaviruses: antibody kinetics, correlates of protection, and association of antibody responses with severity of disease",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "US National Institutes of Health",
+                    "award-id": [
+                        "R01-AI114703-01"
+                    ]
+                },
+                {
+                    "funding-source": "Career Award"
+                },
+                {
+                    "funding-source": "Scientific Interface from the Burroughs Wellcome Fund and"
+                },
+                {
+                    "funding-source": "National Library of Medicine of the National Institutes of Health",
+                    "award-id": [
+                        "DP2LM013102"
+                    ]
+                }
+            ],
+            "funding-statement": "DATC was supported by the US National Institutes of Health award number R01-AI114703-01.APW is funded by a Career Award at the Scientific Interface from the Burroughs Wellcome Fund and by the National Library of Medicine of the National Institutes of Health under award number DP2LM013102"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Watson Faculty Scholar"
+                }
+            ],
+            "funding-statement": "IRB was supported by the John A Watson Faculty Scholar fellowship"
+        }
+    ]
+}

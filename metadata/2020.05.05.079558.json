@@ -1,0 +1,33 @@
+{
+    "title": "Development and simulation of fully glycosylated molecular models of ACE2-Fc fusion proteins and their interaction with the SARS-CoV-2 spike protein binding domain",
+    "author": "Austen Bernardi a, Yihan Huang b, Yongao Xiong a, Somen Nandi ,a,c Karen A. McDonald ,a,c Roland Faller a",
+    "date": 2020,
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.05.079558",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.05.079558.pdf"
+    },
+    "abstract": "We develop fully glycosylated computational models of ACE2-Fc fusion proteins which are promising targets for a COVID-19 therapeutic. These models are tested in their interaction with fragments of the binding domain of the Spike Protein S1 of the SARS-CoV-2 virus. We see that some ACE2 glycans interact with S1 and glycans are influencing the conformation of the ACE2 receptor. Additionally, we optimize algorithms for protein glycosylation modelling in order to expedite future model development. All models and algorithms are openly available.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "COVID-19 Research Accelerator Funding Track"
+                },
+                {
+                    "funding-source": "UC Davis. Supporting"
+                },
+                {
+                    "funding-source": "Information Supporting"
+                }
+            ],
+            "funding-statement": "This work was partially supported by a COVID-19 Research Accelerator Funding Track project at UC Davis. Supporting Information Supporting information contains all sequence definitions as well as additional analysis"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "Also, all configurations discussed in this paper are available in pdb format both in supporting information as well as on the webpage of the Faller group https://research.engineering.ucdavis.edu/multiscale"
+        }
+    ]
+}

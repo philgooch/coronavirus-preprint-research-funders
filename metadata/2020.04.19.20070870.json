@@ -1,0 +1,16 @@
+{
+    "abstract": "As the current COVID-19 pandemic illustrates, not all hospitals and other facilities are equipped with enough personal protective equipment to meet the demand in a crisis. Healthcare workers around the world utilize N95 masks to protect themselves and their patients, yet during this global pandemic they are forced to re-wear what is intended to be single-use masks. This poses significant risk to these healthcare workers along with the populations they are trying to protect. Ultraviolet germicidal irradiation (UVGI) has been validated previously as a way to effectively sterilize these masks between use, however, not all facilities have access to the high cost commercial UV-C lamp sterilization equipment. However, UV-C bulbs are sitting idle in biosafety cabinets (BSCs) at universities and research facilities around the globe that have been shuttered to slow the spread of COVID-19. These bulbs may also be available in existing medical centers where infectious diseases are commonly treated. Therefore, we have developed a method to modify existing light fixtures, or create custom light fixtures compatible with new or existing common UV-C bulbs. This system is scalable and can be created for less than 50 US dollars, on site, at the point of need, and leverages resources that are currently untapped and sitting unused in public and private research facilities. The freely-accessible design can be easily modified for use around the world. Hospitals can obtain this potentially life-saving UVGI resource with minimal funds, via collaboration between research facilities to obtain the UV-C meters and limited availability UVGI bulbs. While mask reuse is not ideal, we must do what we can in emergency situations to protect our frontline healthcare workers and the communities they serve.",
+    "author": "Kimberly L Bothi; Katherine M Nelson; Christine L Hatem; Rachel M Gilbert; Brielle Hayward-Piatkovskyi; Jasmine Shirazi; Michael J Donzanti; Allyson M Dang; Daniel J Minahan; Jason P Gleghorn",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20070870",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20070870"
+    },
+    "title": "Healthcare worker mask reuse in a global pandemic: Using idle resources to create an inexpensive, scalable, and accessible UV system for N95 sterilization",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding."
+        }
+    ]
+}

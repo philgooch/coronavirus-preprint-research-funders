@@ -1,0 +1,67 @@
+{
+    "abstract": "Respiratory disease caused by the 2019 novel coronavirus (2019-nCoV) pneumonia first emerged in Wuhan, Hubei Province, China, in December 2019 and spread rapidly to other provinces and other countries. Angiotensin-converting enzyme 2 (ACE2) is the receptor for SARS-CoV and has been suggested to be also the receptor for 2019-nCoV. Paradoxically, ACE2 expression in the lung protects mice from SARS-CoV spike protein induced lung injury by attenuating the renin-angiotensin system. In the intestine, ACE2 also suppresses intestinal inflammation by maintaining amino acid homeostasis, antimicrobial peptide expression and ecology of the gut microbiome. Upon analysis of single cell-RNA sequencing data from control subjects and those with colitis or inflammatory bowel disease (IBD), we found that ACE2 expression in the colonocytes was positively associated with genes regulating viral infection, innate and cellular immunity, but was negatively associated with viral transcription, protein translation, humoral immunity, phagocytosis and complement activation. In summary, we suggest that ACE2 may play dual roles in mediating the susceptibility and immunity of 2019-nCoV infection.",
+    "author": "Jun Wang; Zhiyao Zhao; Jincun Zhao; Yiping Xu; Bing Huang; Zhanghua Chen; Jun Cui; Shanmeizi Zhao; Ming Liu; Andrew M Lew; Yanhui Xu; Xiaoyu Zuo; Yan Zhang; Haibin Luo; Meng Lin; Fan Bai; Yuxia Zhang; Ping Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.02.05.20020545",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.05.20020545"
+    },
+    "title": "ACE2 expression by colonic epithelial cells is associated with viral infection, immunity and energy metabolism",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The National Natural Science Foundation of China",
+                    "award-id": [
+                        "91742109",
+                        "31770978",
+                        "31722003",
+                        "31770925",
+                        "31370847",
+                        "81770552"
+                    ]
+                },
+                {
+                    "funding-source": "National Key Research and Development Program",
+                    "award-id": [
+                        "2016YFC0900102"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Major Project",
+                    "award-id": [
+                        "2018ZX10302205"
+                    ]
+                },
+                {
+                    "funding-source": "Guangdong Provincial Key Laboratory of Research in Structural Birth Defect Disease",
+                    "award-id": [
+                        "2019B030301004"
+                    ]
+                },
+                {
+                    "funding-source": "Guangzhou Women and",
+                    "award-id": [
+                        "5001-300103"
+                    ]
+                },
+                {
+                    "funding-source": "Medical Center Fund",
+                    "award-id": [
+                        "5001-3001032"
+                    ]
+                },
+                {
+                    "funding-source": "National Health and Medical Research Council of Australia",
+                    "award-id": [
+                        "1037321",
+                        "1105209",
+                        "1143976",
+                        "1080321 to A.L."
+                    ]
+                }
+            ],
+            "funding-statement": "The National Natural Science Foundation of China (91742109, 31770978, 31722003, 31770925, 31370847, 81770552), National Key Research and Development Program (2016YFC0900102), National Science and Technology Major Project (2018ZX10302205), Guangdong Provincial Key Laboratory of Research in Structural Birth Defect Disease (2019B030301004), Guangzhou Women and Children\u0092s Medical Center Fund (5001-3001032) and National Health and Medical Research Council of Australia (1037321, 1105209, 1143976, and 1080321 to A.L.) funded this study"
+        }
+    ]
+}

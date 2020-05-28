@@ -1,0 +1,48 @@
+{
+    "title": "Structural and Evolutionary Analysis Indicate that the SARS-CoV-2 Mpro is an Inconvenient Target for Small-Molecule Inhibitors Design",
+    "author": "Artur G\u00f3ra",
+    "date": 2020,
+    "affiliations": [
+        "Biotechnology Centre, ul. Krzywoustego 8, Silesian University of Technology, Gliwice, 44-100, Poland",
+        "Department of Physics, University of Alberta, Edmont, AB, T6G 2E1, Canada",
+        "DIMEAS, Politecnino di Torino, Corso Duca degli Abruzzi, 24, Turin, 10129, Italy",
+        "Correspondence:",
+        "National Institute for Viral Disease Control and Prevention, CDC, China), Wu et al., performed a detailed genome annotation. The results were further compared to related coronaviruses \u2013 1,008 human SARS-CoV, 338 bat SARS-like CoV, and 3,131 human MERS-CoV indicating that the three strains of SARS-CoV-2 have almost identical genomes with"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.27.968008",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.27.968008.pdf"
+    },
+    "abstract": "The novel coronavirus whose outbreak took place in December 2019 continues to spread at a rapid rate worldwide. In the absence of an effective vaccine, inhibitor repurposing or de novo drug design may offer a longer-term strategy to combat this and future infections due to similar viruses. Here, we report on detailed classical and mix-solvent molecular dynamics simulations of the main protease (Mpro) enriched by evolutionary and stability analysis of the protein. The results were compared with those for a highly similar SARS Mpro protein. In spite of a high level of sequence similarity, the active sites in both proteins show major differences in both shape and size indicating that repurposing SARS drugs for COVID-19 may be futile. Furthermore, analysis of the binding site\u2019s conformational changes during the simulation time indicates its flexibility and plasticity, which dashes hopes for rapid and reliable drug design. Conversely, structural stability of the protein with respect to flexible loop mutations indicates that the virus\u2019 mutability will pose a further challenge to the rational design of small-molecule inhibitors. However, few residues contribute significantly to the protein stability and thus can be considered as key anchoring residues for Mpro inhibitor design.",
+    "keywords": [
+        "Coronavirus",
+        "SARS-CoV",
+        "SARS-CoV-2",
+        "COVID-19",
+        "molecular dynamics simulations",
+        "ligand tracking approach",
+        "drug design",
+        "small-molecule inhibitors",
+        "evolutionary analysis"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Centre, Poland",
+                    "award-id": [
+                        "DEC-2013/10/E/NZ1/00649",
+                        "DEC-2015/18/M/NZ1/00427"
+                    ]
+                },
+                {
+                    "funding-source": "IBM CAS and NSERC"
+                }
+            ],
+            "funding-statement": "KM, MB, AR, AS and AG work was supported by the National Science Centre, Poland, grant no DEC-2013/10/E/NZ1/00649 and DEC-2015/18/M/NZ1/00427. JAT expresses gratitude for research support for this project received from IBM CAS and NSERC (Canada)."
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "abstract": "Objectives: The current form of severe acute respiratory syndrome called coronavirus disease 2019 (COVID19) caused by a coronavirus (SARSCoV2) is a major global health problem. The aim of our study was to use the official data and predict the possible outcomes of the COVID 19 pandemic using artificial intelligence (AI) based RNNs (Recurrent Neural Networks), then compare and validate the predicted and observed data. Materials and Methods: We used the publicly available datasets of World Health Organization and Johns Hopkins University to create the training dataset, then have used recurrent neural networks (RNNs) with gated recurring units (Long Short Term Memory: LSTM units) to create 2 Prediction Models. Information collected in the first t time steps were aggregated with a fully connected (dense) neural network layer and a consequent regression output layer to determine the next predicted value. We used root mean squared logarithmic errors (RMSLE) to compare the predicted and observed data, then recalculated the predictions again. Results: The result of our study underscores that the COVID19 pandemic is probably a propagated source epidemic, therefore repeated peaks on the epidemic curve (rise of the daily number of the newly diagnosed infections) are to be anticipated. The errors between the predicted and validated data and trends seems to be low. Conclusions: The influence of this pandemic is great worldwide, impact our everyday lifes. Especially decision makers must be aware, that even if strict public health measures are executed and sustained, future peaks of infections are possible. The AI based predictions might be useful tools for predictions and the models can be recalculated according to the new observed data, to get more precise forecast of the pandemic.",
+    "affiliations": [
+        "Johns Hopkins University to create the training dataset, then have used recurrent neural networks (RNNs) with gated recurring units (Long Short Term Memory: LSTM units) to create"
+    ],
+    "author": "Judit Zsuga; Rudolf Gesztelyi; Imre Varga; Laszlo Robert Kolozsvari; Szabolcs Garboczy; Tamas Berczes; Attila TIba; Gergo Jozsef Szollosi; Szilvia Harsanyi; Andras Hajdu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20069666",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20069666"
+    },
+    "title": "Predicting the epidemic curve of the coronavirus (SARS-CoV-2) disease (COVID-19) using artificial intelligence",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding This"
+                },
+                {
+                    "funding-source": "European Union,"
+                },
+                {
+                    "funding-source": "European Social Fund and European Regional Development Fund",
+                    "award-id": [
+                        "EFOP-3",
+                        "1-16-2016-00022"
+                    ]
+                },
+                {
+                    "funding-source": "No EFOP-3.",
+                    "award-id": [
+                        "1-16-2016-00022"
+                    ]
+                },
+                {
+                    "funding-source": "Debrecen Venture Catapult Program\"",
+                    "award-id": [
+                        "providing support for SH"
+                    ]
+                },
+                {
+                    "funding-source": "European Union",
+                    "award-id": [
+                        "EFOP-3",
+                        "2-16-2017-00009"
+                    ]
+                },
+                {
+                    "funding-source": "Establishing Thematic Scientific and Cooperation Network for Clinical Research\"",
+                    "award-id": [
+                        "providing support for RG"
+                    ]
+                },
+                {
+                    "funding-source": "J\u00e1nos Bolyai Research Fellowship of the Hungarian Academy of Sciences",
+                    "award-id": [
+                        "providing support for JZ"
+                    ]
+                },
+                {
+                    "funding-source": "Hungarian Brain Research Program",
+                    "award-id": [
+                        "2017-1",
+                        "1-NKP-2017-00002",
+                        "ED_18-1-2019-0028"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding This study was supported by the European Union, co-financed by the European Social Fund and European Regional Development Fund [grant No EFOP-3.6.1-16-2016-00022 \"Debrecen Venture Catapult Program\" (providing support for SH, LK), by the European Union [EFOP-3.6.2-16-2017-00009 \"Establishing Thematic Scientific and Cooperation Network for Clinical Research\" (providing support for RG), by the J\u00e1nos Bolyai Research Fellowship of the Hungarian Academy of Sciences (providing support for JZ), by the Hungarian Brain Research Program 2.0 under grant number 2017-1.2.1-NKP-2017-00002 and the ED_18-1-2019-0028 providing support for (LK, TB, AT)"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "\u00daNKP-19-3"
+                    ]
+                }
+            ],
+            "funding-statement": "Research was also supported by the \u00daNKP-19-3 \u0096 I"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union,"
+                },
+                {
+                    "funding-source": "European Social Fund"
+                }
+            ],
+            "funding-statement": "Research was supported in part by the project EFOP-3.6.2-16-2017-00015 supported by the European Union, co-financed by the European Social Fund"
+        }
+    ]
+}

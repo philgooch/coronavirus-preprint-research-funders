@@ -1,0 +1,79 @@
+{
+    "title": "Multidrug treatment with nelfinavir and cepharanthine against COVID-19",
+    "date": 2020,
+    "author": "3 Hirofumi Ohashi,\u00b6, Koichi Watashi,\u00b6*, Wakana Saso,\u00b6, Kaho Shionoya, Shoya Iwanami, 4 Takatsugu Hirokawa,10, Tsuyoshi Shirai, Shigehiko Kanaya, Yusuke Ito, Kwang Su Kim, Kazane 5 Nishioka, Shuji Ando, Keisuke Ejima, Yoshiki Koizumi, Tomohiro Tanaka, Shin Aoki, Kouji 6 Kuramochi, Tadaki Suzuki, Katsumi Maenaka, Tetsuro Matano, Masamichi Muramatsu, Masayuki 7 Saijo, Kazuyuki Aihara20, Shingo Iwami, Makoto Takeda, Jane A. McKeating, Takaji Wakita",
+    "affiliations": [
+        "Department of Virology II, National Institute of Infectious Diseases, Tokyo 162-8640, Japan, 10",
+        "Department of Applied Biological Science, Tokyo University of Science, Noda 278-8510, Japan, 11",
+        "Institute for Frontier Life and Medical Sciences, Kyoto University, Kyoto 606-8507, Japan, 12",
+        "MIRAI, JST, Saitama 332-0012, Japan, 13",
+        "The Institute of Medical Science, The University of Tokyo, Tokyo 108-8639, Japan, 14",
+        "AIDS Research Center, National Institute of Infectious Diseases, Tokyo 162-8640, Japan, 15",
+        "Department of Biology, Faculty of Sciences, Kyushu University, Fukuoka 812-8581, Japan, 16",
+        "Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial",
+        "Science and Technology, Tokyo 135-0064, Japan, 18",
+        "Division of Biomedical Science, Faculty of Medicine, University of Tsukuba, Tsukuba 305-8575, Japan, 19",
+        "Transborder Medical Research Center, University of Tsukuba, Tsukuba 305-8575, Japan, 20",
+        "Faculty of Bioscience, Nagahama Institute of Bio-Science and Technology, Nagahama 526-0829, Japan, 21",
+        "Graduate School of Science and Technology, Nara Institute of Science and Technology, Ikoma 63022 0192, Japan, 23",
+        "Department of Virology I, National Institute of Infectious Diseases, Tokyo 162-8640, Japan, 24",
+        "Department of Epidemiology and Biostatistics, Indiana University School of Public Health-Bloomington, 25 IN 47405, USA, 26",
+        "National Center for Global Health and Medicine, Tokyo162-8655, Japan, 27",
+        "Faculty of Pharmaceutical Sciences, Tokyo University of Science, Noda 278-8510, Japan, 28",
+        "Research Institute for Science and Technology, Tokyo University of Science, Noda 278-8510, Japan, 29",
+        "Department of Pathology, National Institute of Infectious Diseases, Tokyo 162-8640, Japan, 30",
+        "Faculty of Pharmaceutical Sciences, Hokkaido University, Sapporo 060-0812, Japan, 31",
+        "International Research Center for Neurointelligence, The University of Tokyo Institutes for Advanced 32 Study, The University of Tokyo, Tokyo 113-8654, Japan, 33",
+        "Institute for the Advanced Study of Human Biology (ASHBi), Kyoto University, Kyoto 606-8501, Japan, 34",
+        "NEXT-Ganken Program, Japanese Foundation for Cancer Research (JFCR), Tokyo 135-8550, Japan, 35",
+        "Science Groove Inc., Fukuoka 810-0041, Japan, 36",
+        "Department of Virology III, National Institute of Infectious Diseases, Tokyo 208-0011, Japan, 37",
+        "Nuffield Department of Medicine, University of Oxford, Oxford OX3 7FZ, UK. 38"
+    ],
+    "journal": "Favipiravir",
+    "volume": "1",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.14.039925",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.14.039925.pdf"
+    },
+    "abstract": "Antiviral treatments targeting the emerging coronavirus disease 2019 (COVID-19) are urgently required. We screened a panel of already-approved drugs in a cell culture model of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and identified two new antiviral agents: the HIV protease inhibitor Nelfinavir and the anti-inflammatory drug Cepharanthine. In silico modeling shows Nelfinavir binds the SARS-CoV-2 main protease consistent with its inhibition of viral replication, whilst Cepharanthine inhibits viral attachment and entry into cells. Consistent with their different modes of action, in vitro assays highlight a synergistic effect of this combined treatment to limit SARS-CoV-2 proliferation. Mathematical modeling in vitro antiviral activity coupled with the known pharmacokinetics for these drugs predicts that Nelfinavir will facilitate viral clearance. Combining Nelfinavir/Cepharanthine enhanced their predicted efficacy to control viral proliferation, to ameliorate both the progression of disease and risk of transmission. In summary, this study identifies a new multidrug combination treatment for COVID-19. 58",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Agency for Medical Research and Development",
+                    "award-id": [
+                        "JP19fk0108111",
+                        "JP19fk0108110",
+                        "JP20fk0108104"
+                    ]
+                },
+                {
+                    "funding-source": "AMED Basis for Supporting Innovative  Drug"
+                },
+                {
+                    "funding-source": "The Japan Society for the Promotion of Science KAKENHI",
+                    "award-id": [
+                        "JP17H04085",
+                        "JP20H03499",
+                        "JP15H05707",
+                        "19H04839"
+                    ]
+                },
+                {
+                    "funding-source": "The JST MIRAI"
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "200838/Z/16/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by The Agency for Medical Research and Development (AMED) emerging/re-emerging infectious diseases project (JP19fk0108111, JP19fk0108110, JP20fk0108104); the AMED Basis for Supporting Innovative  Drug JP19am0101111) program; The Japan Society for the Promotion of Science KAKENHI (JP17H04085, JP20H03499, JP15H05707, 19H04839); The JST MIRAI program; and Wellcome Trust funded Investigator award (200838/Z/16/Z)"
+        }
+    ]
+}

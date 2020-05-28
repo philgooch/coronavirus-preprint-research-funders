@@ -1,0 +1,72 @@
+{
+    "title": "Immune Cell Profiling of COVID-19 Patients in the Recovery Stage by Single-Cell Sequencing",
+    "author": "Wen Wen,*; Wenru Su,*; Hao Tang,*; Wenqing Le,*; Xiaopeng Zhang, Yingfeng Zheng,*; Xiuxing Liu,; Lihui Xie,; Jianmin Li,; Jinguo Ye,; Xiuliang Cui,; Yushan Miao,; Depeng Wang,; Jiantao Dong,; Chuanle Xiao,*#; Wei Chen,#; Hongyang Wang,10#",
+    "date": 2020,
+    "affiliations": [
+        "National Center for Liver Cancer, Second Military Medical University, Shanghai, China",
+        "State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen University, Guangzhou, China",
+        "Department of Respiratory and Critical Care Medicine Changzheng Hospital, Second Military Medical University, Shanghai, China",
+        "Department of Critical Care, Wuhan Hankou Hospital, Hubei, China",
+        "Department of Critical Care, Wuhan Huoshenshan Hospital, Hubei, China",
+        "Laboratory of Vaccine and Antibody Engineering, Beijing Institute of Biotechnology, Beijing, China",
+        "GrandOmics Diagnosis Co. Ltd. Wuhan, Hubei, China",
+        "Berry Genomics Co. Ltd., Beijing, China",
+        "Eastern Hepatobiliary Surgery Hospital, Second Military Medical University, Shanghai, China",
+        "Ministry of Education (MOE) Key Laboratory of Signaling Regulation and Targeting Therapy of Liver Cancer, Second Military Medical University, Shanghai, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.23.20039362",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.23.20039362.pdf"
+    },
+    "abstract": "COVID-19, caused by SARS-CoV-2, has recently affected over 300,000 people and killed more than 10,000. The manner in which the key immune cell subsets change and their states during the course of COVID-19 remain unclear. Here, we applied single-cell technology to comprehensively characterize transcriptional changes in peripheral blood mononuclear cells during the recovery stage of COVID-19. Compared with healthy controls, in patients in the early recovery stage (ERS) of COVID-19, T cells decreased remarkably, whereas monocytes increased. A detailed analysis of the monocytes revealed that there was an increased ratio of classical CD14++ monocytes with high inflammatory gene expression as well as a greater abundance of CD14++IL1B+ monocytes in the ERS. CD4+ and CD8+ T cells decreased significantly and expressed high levels of inflammatory genes in the ERS. Among the B cells, the plasma cells increased remarkably, whereas the na\u00efve B cells decreased. Our study identified several novel B cell-receptor (BCR) changes, such as IGHV3-23 and IGHV3-7, and confirmed isotypes (IGHV3-15, IGHV3-30, and IGKV3-11) previously used for virus vaccine development. The strongest pairing frequencies, IGHV3-23-IGHJ4, indicated a monoclonal state associated with SARS-CoV-2 specificity. Furthermore, integrated analysis predicted that IL-1\u03b2 and M-CSF may be novel candidate target genes for inflammatory storm and that TNFSF13, IL-18, IL-2 and IL-4 may be beneficial for the recovery of COVID-19 patients. Our study provides the first evidence of an inflammatory immune signature in the ERS, suggesting that COVID-19 patients are still vulnerable after hospital discharge. Our identification of novel BCR signaling may lead to the development of vaccines and antibodies for the treatment of COVID-19.",
+    "keywords": [
+        "COVID-19",
+        "Recovery stage",
+        "B cells",
+        "monocyte",
+        "IL1\u03b2"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81722034",
+                        "81670015",
+                        "81830054",
+                        "81530028",
+                        "91953122",
+                        "31871326",
+                        "81721003",
+                        "81988101"
+                    ]
+                },
+                {
+                    "funding-source": "Ministry of Science and Technology Key Program",
+                    "award-id": [
+                        "2018ZX09101002",
+                        "2017ZX100203205"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Pujiang Program",
+                    "award-id": [
+                        "2019PJD059"
+                    ]
+                },
+                {
+                    "funding-source": "Guangdong Natural Science Funds for Distinguished Young Scholar",
+                    "award-id": [
+                        "2016A030306006",
+                        "2020B1515020057"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by National Natural Science Foundation of China (Grant No 81722034, 81670015, 81830054, 81530028, 91953122, 31871326, 81721003, 81988101), the Ministry of Science and Technology Key Program (Grant No 2018ZX09101002, 2017ZX100203205), Shanghai Pujiang Program (Grant No 2019PJD059), and Guangdong Natural Science Funds for Distinguished Young Scholar (Grant No 2016A030306006, 2020B1515020057)"
+        }
+    ]
+}

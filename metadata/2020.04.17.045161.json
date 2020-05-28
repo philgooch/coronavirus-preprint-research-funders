@@ -1,0 +1,49 @@
+{
+    "title": "An in silico map of the SARS-CoV-2 RNA Structurome",
+    "author": "Ryan J. Andrews, Jake M. Peterson, Hafeez S. Haniff, Jonathan Chen, Christopher Williams, Maison Grefe, Matthew D. Disney, and Walter N. Moss,\u2020 1Roy J. Carver Department of Biophysics, Biochemistry and Molecular Biology, Iowa State University, Ames, IA 50011, United States of America 2Department of Chemistry, The Scripps Research Institute, Jupiter, FL 33458, United States of America",
+    "date": 2020,
+    "affiliations": [
+        "Carver Department of Biophysics, Biochemistry and Molecular Biology, Iowa State University, Ames, IA 50011, United States of America",
+        "Department of Chemistry, The Scripps Research Institute, Jupiter, FL 33458, United States of America"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.17.045161",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.17.045161.pdf"
+    },
+    "abstract": "SARS-CoV-2 is a positive-sense single-stranded RNA virus that has exploded throughout the global human population. This pandemic coronavirus strain has taken scientists and public health researchers by surprise and knowledge of its basic biology (e.g. structure/function relationships in its genomic, messenger and template RNAs) and modes for therapeutic intervention lag behind that of other human pathogens. In this report we used a recently-developed bioinformatics approach, ScanFold, to deduce the RNA structural landscape of the SARS-CoV-2 transcriptome. We recapitulate known elements of RNA structure and provide a model for the folding of an essential frameshift signal. Our results find that the SARS-CoV-2 is greatly enriched in unusually stable and likely evolutionarily ordered RNA structure, which provides a huge reservoir of potential drug targets for RNA-binding small molecules. Our results also predict regions that are accessible for intermolecular interactions, which can aid in the design of antisense therapeutics. All results are made available via a public database (the RNAStructuromeDB) where they may hopefully drive drug discovery efforts to inhibit SARS-CoV-2 pathogenesis.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R00GM112877",
+                        "R01GM1"
+                    ]
+                },
+                {
+                    "funding-source": "NIGMS",
+                    "award-id": [
+                        "R00GM112877",
+                        "R01GM133810"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported by NIH/NIGMS grants R00GM112877, R01GM133810, and by startup funds from the Roy J"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Carver Charitable Trust",
+                    "award-id": [
+                        "R01-GM097455"
+                    ]
+                }
+            ],
+            "funding-statement": "Carver Charitable Trust to WNM; as well as grant R01-GM097455 to MDD"
+        }
+    ]
+}

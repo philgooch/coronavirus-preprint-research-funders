@@ -1,0 +1,60 @@
+{
+    "abstract": "On the 21st of February 2020 a resident of the municipality of Vo, a small town near Padua, died of pneumonia due to SARS-CoV-2 infection. This was the first COVID-19 death detected in Italy since the emergence of SARS-CoV-2 in the Chinese city of Wuhan, Hubei province. In response, the regional authorities imposed the lockdown of the whole municipality for 14 days. We collected information on the demography, clinical presentation, hospitalization, contact network and presence of SARS-CoV-2 infection in nasopharyngeal swabs for 85.9% and 71.5% of the population of Vo at two consecutive time points. On the first survey, which was conducted around the time the town lockdown started, we found a prevalence of infection of 2.6% (95% confidence interval (CI) 2.1-3.3%). On the second survey, which was conducted at the end of the lockdown, we found a prevalence of 1.2% (95% CI 0.8-1.8%). Notably, 43.2% (95% CI 32.2-54.7%) of the confirmed SARS-CoV-2 infections detected across the two surveys were asymptomatic. The mean serial interval was 6.9 days (95% CI 2.6-13.4). We found no statistically significant difference in the viral load (as measured by genome equivalents inferred from cycle threshold data) of symptomatic versus asymptomatic infections (p-values 0.6 and 0.2 for E and RdRp genes, respectively, Exact Wilcoxon-Mann-Whitney test). Contact tracing of the newly infected cases and transmission chain reconstruction revealed that most new infections in the second survey were infected in the community before the lockdown or from asymptomatic infections living in the same household. This study sheds new light on the frequency of asymptomatic SARS-CoV-2 infection and their infectivity (as measured by the viral load) and provides new insights into its transmission dynamics, the duration of viral load detectability and the efficacy of the implemented control measures.",
+    "affiliations": [
+        "UK Department for International Development (DFID) under the MRC/DFID Concordat agreement and is also part of the EDCTP2 programme supported by the European Union. I.D. acknowledges research funding from"
+    ],
+    "author": "Neil M. Ferguson; Ilaria Dorigatti; Maria Cristina Vanuzzo; Gina Cuomo-Dannenburg; Stefano Toppo; Luisa Barzon; Enrico Lavezzo; Monia Pacenti; Francesca Saluzzo; Giulia Masi; Lorenzo Cattarino; Elisa Franchin; Riccardo Manganelli; Arianna Loregian; Davide Abate; Francesco Onelia; Lucia Rossi; Daniele Donato; Saverio Parisi; Marta Trevisan; Manuela Sciro; Giovanni Carretta; Constanze Ciavarella; Ettore Decanale; Claudia Del Vecchio; Andrea Crisanti; Alessandra R Brazzale; Luciano Flor; Alessandro Sperduti; Stefano Merigliano; Renato Salvador; Vincenzo Baldo; Imperial College London COVID-19 Response Team; Christl A. Donnelly; Silvia Cocchio; Nicol\u00f2 Navarin; Katy A.M. Gaythorpe",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20053157",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20053157"
+    },
+    "title": "Suppression of COVID-19 outbreak in the municipality of Vo, Italy",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Veneto Region and"
+                },
+                {
+                    "funding-source": "UK Medical Research Council"
+                },
+                {
+                    "funding-source": "UK Department for International Development",
+                    "award-id": [
+                        "MRC/D"
+                    ]
+                },
+                {
+                    "funding-source": "DFID Concordat"
+                },
+                {
+                    "funding-source": "European Union"
+                }
+            ],
+            "funding-statement": "This work was supported by the Veneto Region and was jointly funded by the UK Medical Research Council (MRC) and the UK Department for International Development (DFID) under the MRC/DFID Concordat agreement and is also part of the EDCTP2 programme supported by the European Union"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Sir Henry Dale Fellowship"
+                },
+                {
+                    "funding-source": "Royal Society and Wellcome Trust",
+                    "award-id": [
+                        "213494/Z/18/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "I.D. acknowledges research funding from a Sir Henry Dale Fellowship funded by the Royal Society and Wellcome Trust [grant 213494/Z/18/Z]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Royal Society"
+                }
+            ],
+            "funding-statement": "L.O. and G.C.D. acknowledge research funding from The Royal Society"
+        }
+    ]
+}

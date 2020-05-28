@@ -1,0 +1,30 @@
+{
+    "abstract": "Australia is one of a few countries which has managed to control COVID-19 epidemic before a major epidemic took place. Currently with just under 7000 cases and 100 deaths, Australia is seeing less than 20 new cases per day. This is a positive outcome, but makes estimation of current effective reproduction numbers difficult to estimate. Australia, like much of the world is poised to step out of lockdown and looking at which measures to relax first. We use age-based contact matrices, calibrated to Chinese data on reproduction numbers and difference in infectiousness and susceptibility of children to generate next generation matrices (NGMs) for Australia. These matrices have a spectral radius of 2.49, which is hence our estimated basic reproduction number for Australia. The effective reproduction number (Reff) for Australia during the April/May lockdown period is estimated by other means to be around 0.8. We simulate the impact of lockdown on the NGM by first applying observations through Google Mobility Report for Australia at 3 locations: home (increased contacts by 18%), work (reduced contacts by 34%) and other (reduced contacts by 40%), and we reduce schools to 3% reflecting attendance rates during lockdown. Applying macro-distancing to the NGM leads to a spectral radius of 1.76. We estimate that the further reduction of the reproduction number to current levels of Reff = 0.8 is achieved by a micro-distancing factor of 0.26. That is, in a given location, people are 26% as likely as usual to have an effective contact with another person. We apply both macro and micro-distancing to the NGMs to examine the impact of different exit strategies. We find that reopening schools is estimated to reduce Reff from 0.8 to 0.78. This is because increase in school contact is offset by decrease in home contact. The NGMs all estimate that adults aged 30-50 are responsible for the majority of transmission. We also find that micro-distancing is critically important to maintain Reff <1. There is considerable uncertainty in these estimates and a sensitivity and uncertainty analysis is presented.",
+    "author": "Emma Sue McBryde; Romain Ragonnet; James M Trauer; Michael T Meehan; Adeshina Adekunle",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099036",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099036"
+    },
+    "title": "Stepping out of lockdown should start with school re-openings while maintaining distancing measures. Insights from mixing matrices and mathematical models.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Author Declarations All"
+                },
+                {
+                    "funding-source": "Yes All",
+                    "award-id": [
+                        "note: if posting a prospective study registered retrospectively",
+                        "please provide a statement in the trial ID field explaining why the study was not registered in advance"
+                    ]
+                },
+                {
+                    "funding-source": "EQUATOR Network"
+                }
+            ],
+            "funding-statement": "Statement no external funding was received for this work Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript.  Yes All necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived. I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance). I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable."
+        }
+    ]
+}

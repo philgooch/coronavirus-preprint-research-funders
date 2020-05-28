@@ -1,0 +1,21 @@
+{
+    "abstract": "COVID-19 is a novel threat to human health worldwide. There is an urgent need to understand patient characteristics of having COVID-19 disease and evaluate markers of critical illness and mortality. Objective: To assess association of clinical features on patient outcomes. Design, Setting, and Participants: In this observational case series, patient-level data were extracted from electronic medical records for 28,336 patients tested for SARS-CoV-2 at the Mount Sinai Health System from 2/24/ to 4/15/2020, including 6,158 laboratory-confirmed cases. Exposures: Confirmed COVID-19 diagnosis by RT-PCR assay from nasal swabs. Main Outcomes and Measures: Effects of race on positive test rates and mortality were assessed. Among positive cases admitted to the hospital (N = 3,273), effects of patient demographics, hospital site and unit, social behavior, vital signs, lab results, and disease comorbidities on discharge and death were estimated. Results: Hispanics (29%) and African Americans (25%) had disproportionately high positive case rates relative to population base rates (p<2e-16); however, no differences in mortality rates were observed in the hospital. Outcome differed significantly between hospitals (Gray's T=248.9; p<2e-16), reflecting differences in average baseline age and underlying comorbidities. Significant risk factors for mortality included age (HR=1.05 [95% CI, 1.04-1.06]; p=1.15e-32), oxygen saturation (HR=0.985 [95% CI, 0.982-0.988]; p=1.57e-17), care in ICU areas (HR=1.58 [95% CI, 1.29-1.92]; p=7.81e-6), and elevated creatinine (HR=1.75 [95% CI, 1.47-2.10]; p=7.48e-10), alanine aminotransferase (ALT) (HR=1.002, [95% CI 1.001-1.003]; p=8.86e-5) and body-mass index (BMI) (HR=1.02, [95% CI 1.00-1.03]; p=1.09e-2). Asthma (HR=0.78 [95% CI, 0.62-0.98]; p=0.031) was significantly associated with increased length of hospital stay, but not mortality. Deceased patients were more likely to have elevated markers of inflammation. Baseline age, BMI, oxygen saturation, respiratory rate, white blood cell (WBC) count, creatinine, and ALT were significant prognostic indicators of mortality. Conclusions and Relevance: While race was associated with higher risk of infection, we did not find a racial disparity in inpatient mortality suggesting that outcomes in a single tertiary care health system are comparable across races. We identified clinical features associated with reduced mortality and discharge. These findings could help to identify which COVID-19 patients are at greatest risk and evaluate the impact on survival.",
+    "affiliations": [
+        "Department of Genetics and Genomic Sciences, The Icahn Institute for Genomics and Multiscale Biology, The Pamela Sklar Division of Psychiatric Genomics, The Department of Psychiatry, Icahn School of Medicine at Mount Sinai",
+        "Department of Genetics and Genomic Sciences, The Icahn Institute for Genomics and Multiscale Biology, The Pamela Sklar Division of Psychiatric Genomics, The Department of Psychiatry, Icahn School of Medicine at Mount Sinai",
+        "Department of Genetics and Genomic Sciences, The Icahn Institute for Genomics and Multiscale Biology, The Pamela Sklar Division of Psychiatric Genomics, The Hasso Plattner Institute for Digital Health, Icahn School of Medicine at Mount Sinai"
+    ],
+    "author": "Eric E Schadt; Rong Chen; William K Oh; Andrea D Branch; Kristin L Ayers; Alexander W Charney; Susan J Gross; Girish N Nadkarni; Benjamin S Glicksberg; Paul F O'Reilly; Carol R Horowitz; Sharon Nirenberg; Li Li; Patricia Kovatch; Yu-Han Kao; Glenn Martin; David L Reich; Zichen Wang; Dennis S Charney; Allan C Just; Amanda B Zheutlin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20075788",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20075788"
+    },
+    "title": "Analysis of hospitalized COVID-19 patients in the Mount Sinai Health System using electronic medical records (EMR) reveals important prognostic factors for improved clinical outcomes",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors affiliated with Sema4 declare no external funding was received for this study."
+        }
+    ]
+}

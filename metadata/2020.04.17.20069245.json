@@ -1,0 +1,16 @@
+{
+    "abstract": "Background The Novel Coronavirus that originated in Wuhan, Hubei, China, has raised global concerns and has been declared a pandemic. The infection shows the primary symptoms of pneumonia and has an incubation period, with the majority of people showing symptoms within 14 days. Online Social Networks are the closest simulations of real-world networks and have similar topology characteristics. This article simulates the spread and control of the nCoV-19 using the SIQR-t model to highlight the importance of self-quarantine and exercise of proper health care as a method to prevent the spread of the virus. Method The article uses the Susceptible-Infected-Quarantined-Recovered model with modification, introducing 14 different Infected states depending on the number of days the host has been carrying the infection. We simulate the spread of 2019-nCoV on human interaction similar graph taken from Online Social Network Epinions, of about 75000 nodes, similar to a small town or settlement. The infection rates depend on the sanitation and cleanliness these people exercise. Results When people practice self-quarantine and hygiene, aided by the governmental efforts of testing and quarantine, the cumulative number of affected people fall drastically. The decrease is apparent in time-based simulations of the spread received from the study. Conclusion The 2019-nCoV is a highly infectious zoonotic virus. It has spread like a pandemic, and governments across the world have launched quarantines. The results of the SIQR-t model indicate that hygiene and social-distancing can reduce its impact and sharply decrease the infection scale. Individual efforts are key to the control.",
+    "author": "Nipun aggarwal",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20069245",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20069245"
+    },
+    "title": "Importance of Social Distancing: Modeling the spread of 2019-nCoV using Susceptible-Infected-Quarantined-Recovered-t model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "I have not been funded by any institution for this research"
+        }
+    ]
+}

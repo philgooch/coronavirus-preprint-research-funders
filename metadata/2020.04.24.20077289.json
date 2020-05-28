@@ -1,0 +1,45 @@
+{
+    "abstract": "In the current situation of a pandemic caused by COVID-19 developing models accurately predicting the dynamics of the outbreaks in time and space became extremely important. Individual-based models (IBM) simulating the spread of infection in a population have a few advantages compared to classical equation-based approach. First, they use individuals as units, which represent the population, and reflect the local variations happening in real life. Second, the simplicity of modelling the interactions between the individuals, which may not be the case when using differential equations. We propose to use freely available population density maps to simulate the infection spread in the human population on the scale of an individual country or a city. We explore the effect of social distancing and show that it can reduce the outbreak when applied before or during peak time, but it can also inflict the second wave when relaxed after the peak. This can be explained by a large proportion of susceptible individuals, even in the large cities, after the first wave. The model can be adapted to any spatial scale from a single hospital to multiple countries.",
+    "affiliations": [
+        "The University of Hertfordshire The Francis Crick Institute which receives its core funding from Cancer Research UK (FC001119), the UK Medical Research Council (FC001119), and the Wellcome Trust (FC001119)"
+    ],
+    "author": "Alla Mashanova; Gregory I Mashanov",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20077289",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.5281/zenodo.3763585",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20077289"
+    },
+    "title": "The role of spatial structure in the infection spread models: population density map of England example",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The University of Hertfordshire The Francis Crick Institute"
+                },
+                {
+                    "funding-source": "Cancer Research UK",
+                    "award-id": [
+                        "FC001119"
+                    ]
+                },
+                {
+                    "funding-source": "UK Medical Research Council",
+                    "award-id": [
+                        "FC001119"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "FC001119"
+                    ]
+                }
+            ],
+            "funding-statement": "The University of Hertfordshire The Francis Crick Institute which receives its core funding from Cancer Research UK (FC001119), the UK Medical Research Council (FC001119), and the Wellcome Trust (FC001119)"
+        }
+    ]
+}

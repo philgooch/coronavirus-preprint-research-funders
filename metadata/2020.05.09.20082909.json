@@ -1,0 +1,151 @@
+{
+    "abstract": "Significant differences exist in the availability of healthcare worker (HCW) SARS-CoV-2 testing between countries, and existing programmes focus on screening symptomatic rather than asymptomatic staff. Over a 3-week period (April 2020), 1,032 asymptomatic HCWs were screened for SARS-CoV-2 in a large UK teaching hospital. Symptomatic staff and symptomatic household contacts were additionally tested. Real-time RT-PCR was used to detect viral RNA from a throat+nose self-swab. 3% of HCWs in the asymptomatic screening group tested positive for SARS-CoV-2. 17/30 (57%) were truly asymptomatic/pauci-symptomatic. 12/30 (40%) had experienced symptoms compatible with coronavirus disease 2019 (COVID-19) >7 days prior to testing, most self-isolating, returning well. Clusters of HCW infection were discovered on two independent wards. Viral genome sequencing showed that the majority of HCWs had the dominant lineage B\u00b71. Our data demonstrates the utility of comprehensive screening of HCWs with minimal or no symptoms. This approach will be critical for protecting patients and hospital staff.",
+    "author": "Nicholas K. Jones; Sushmita Sridhar; Gordon Dougan; Luke Meredith; Ian Goodfellow; Martin Curran; Richard J. Samsworth; William L Hamilton; Michael P. Weekes; John R. Bradley; Sally Forrest; Paul J. Lehner; Mark Ferris; Matthew Routledge; Jamie Young; Estee Torok; Stewart Fuller; Ashley Shaw; Lucy Rivett; Kenneth G. C. Smith; Giles Wright; Dominic Sparkes; Joana Pereira-Dias; Afzal Chaudhry; Nicholas J. Matheson; The CITIID-NIHR COVI Bioresource Collaboration; Stephen Baker",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20082909",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20082909"
+    },
+    "title": "Screening of healthcare workers for SARS-CoV-2 highlights the role of asymptomatic carriage in COVID-19 transmission",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Estee Torok"
+                },
+                {
+                    "funding-source": "Academy of Medical Sciences and the Health Foundation,"
+                },
+                {
+                    "funding-source": "National Institute of Health Research,"
+                },
+                {
+                    "funding-source": "Medical Research Council,"
+                },
+                {
+                    "funding-source": "Global Challenges Research Fund,"
+                },
+                {
+                    "funding-source": "Wellcome Sanger Institute,"
+                },
+                {
+                    "funding-source": "University of Cambridge,"
+                },
+                {
+                    "funding-source": "Oxford University Press,"
+                }
+            ],
+            "funding-statement": "Estee Torok reports grants from Academy of Medical Sciences and the Health Foundation, non-financial support from National Institute of Health Research, during the conduct of the study; grants from Medical Research Council, grants from Global Challenges Research Fund, personal fees from Wellcome Sanger Institute, personal fees from University of Cambridge, personal fees from Oxford University Press, outside the submitted work"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust Senior Research Fellowships",
+                    "award-id": [
+                        "108070/Z/15/Z",
+                        "215515/Z/19/Z",
+                        "207498/Z/17/Z",
+                        "206298/B/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Principal Research Fellowship",
+                    "award-id": [
+                        "210688/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Investigator Award",
+                    "award-id": [
+                        "200871/Z/16/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Charitable Trust",
+                    "award-id": [
+                        "to MPW"
+                    ]
+                },
+                {
+                    "funding-source": "IGG and PJL)"
+                },
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "CSF MR/P008801/1 to NJM"
+                    ]
+                },
+                {
+                    "funding-source": "NHS Blood and Transfusion",
+                    "award-id": [
+                        "WPA15-02 to NJM"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "Cambridge Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "AC and GD, Academy"
+                },
+                {
+                    "funding-source": "Medical Sciences and the Health Foundation"
+                },
+                {
+                    "funding-source": "Clinician Scientist Fellowship"
+                },
+                {
+                    "funding-source": "Engineering and Physical Sciences Research Council",
+                    "award-id": [
+                        "EP/P031447/1",
+                        "EP/N031938/1 to RS"
+                    ]
+                },
+                {
+                    "funding-source": "Cancer Research UK",
+                    "award-id": [
+                        "C38317"
+                    ]
+                },
+                {
+                    "funding-source": "PRECISION Grand Challenge",
+                    "award-id": [
+                        "C38317/A24043"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Wellcome Trust Senior Research Fellowships 108070/Z/15/Z to MPW, 215515/Z/19/Z to SGB and 207498/Z/17/Z to IGG; Collaborative award 206298/B/17/Z to IGG; Principal Research Fellowship 210688/Z/18/Z to PJL; Investigator Award 200871/Z/16/Z to KGCS; Addenbrooke\u0092s Charitable Trust (to MPW, SGB, IGG and PJL); the Medical Research Council (CSF MR/P008801/1 to NJM); NHS Blood and Transfusion (WPA15-02 to NJM); National Institute for Health Research (Cambridge Biomedical Research Centre at CUHNFT), to JRB, MET, AC and GD, Academy of Medical Sciences and the Health Foundation (Clinician Scientist Fellowship to MET), Engineering and Physical Sciences Research Council (EP/P031447/1 and EP/N031938/1 to RS),Cancer Research UK (PRECISION Grand Challenge C38317/A24043 award to JY)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "COVID-19 Genomics UK Consortium,",
+                    "award-id": [
+                        "COG-UK"
+                    ]
+                },
+                {
+                    "funding-source": "Medical Research Council"
+                },
+                {
+                    "funding-source": "UK Research & Innovation"
+                },
+                {
+                    "funding-source": "National Institute of Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Genome Research Limited,"
+                },
+                {
+                    "funding-source": "Wellcome Sanger Institute"
+                }
+            ],
+            "funding-statement": "Components of this work were supported by the COVID-19 Genomics UK Consortium, (COG-UK), which is supported by funding from the Medical Research Council (MRC) part of UK Research & Innovation (UKRI), the National Institute of Health Research (NIHR) and Genome Research Limited, operating as the Wellcome Sanger Institute"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 infection has created a panic across the globe in recent times. Early detection of COVID-19 infection can save many lives in the pre-vailing situation. This virus affects the respiratory system of a person and creates white patchy shadows in the lungs. Deep learning is one of the most effective Artificial Intelligence techniques to analyse chest X-ray images for efficient and reliable COVID-19 screening. In this paper, we have proposed a Deep Convolutional Neural Network method for fast and dependable identification of COVID-19 infection cases from the patient chest X-ray images. To validate the performance of the proposed system, chest X-ray images of more than 150 confirmed COVID-19 patients from the Kaggle data repository are used in the experimentation. The results show that the proposed system identifies the cases with an accuracy of 93%.",
+    "author": "kishore Medhi; Md. Jamil; Iftekhar Hussain",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20097063",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20097063"
+    },
+    "title": "Automatic Detection of COVID-19 Infection from Chest X-ray using Deep Learning",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

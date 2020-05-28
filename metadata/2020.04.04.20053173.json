@@ -1,0 +1,38 @@
+{
+    "abstract": "Recently, the World Health Organization has declared the outbreak of a severe acute respiratory syndrome coronavirius as a pandemic, and declared it as Public Health Emergency of International Concern. More than 6,83,536 positive cases and 32,139 deaths caused by coronavirus 2019 affecting 199 countries and territories. This pandemic can transform into an extremely destructive form if we still do not take it seriously. In this present study, we propose a generalized SEIR model of COVID-2019 to study the behavior of its transmission under different control strategies.",
+    "affiliations": [
+        "Department of Mathematics, Gujarat University. Third author (ENJ) is funded by UGC granted National Fellowship for Other Backward Classes (NFO-2018-19-OBC-GUJ-71790)"
+    ],
+    "author": "Ekta N Jayswal; Ankush H Suthar; Nita H Shah",
+    "date": 2020,
+    "doi": "10.1101/2020.04.04.20053173",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.04.20053173"
+    },
+    "title": "Control Strategies to Curtail Transmission of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Junior Research Fellowship from the Council of Scientific & Industrial Research",
+                    "award-id": [
+                        "09/070",
+                        "2019-EMR-I",
+                        "DST-FIST",
+                        "MSI-097"
+                    ]
+                },
+                {
+                    "funding-source": "Department of Mathematics, Gujarat"
+                },
+                {
+                    "funding-source": "National Fellowship for Other Backward Classes",
+                    "award-id": [
+                        "NFO-2018-19-OBC-GUJ-71790"
+                    ]
+                }
+            ],
+            "funding-statement": "Second author (AHS) is funded by a Junior Research Fellowship from the Council of Scientific & Industrial Research (file no.-09/070(0061)/2019-EMR-I) and all the authors are thankful to DST-FIST file # MSI-097 for technical support to the Department of Mathematics, Gujarat University. Third author (ENJ) is funded by UGC granted National Fellowship for Other Backward Classes (NFO-2018-19-OBC-GUJ-71790)."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Evidence suggests non-specific benefits of the tuberculosis vaccine bacillus Calmette-Gu\u00e9rin (BCG) against non-related infections. Recent studies propose such protection may extend to the novel COVID-19 as well. This is a contested hypothesis. Methods: Our ecological study confronts this hypothesis. We examine the effects of BCG vaccination on countries\u2032 COVID-19 (a) cases and deaths (per million) and (b) exponential growth factors over specific periods of the pandemic. Since the BCG vaccine was derived from Mycobacterium bovis, a bacterium causing tuberculosis in cattle, having suffered from tuberculosis also may exert a non-specific protection against the COVID-19 as well. Along with BCG vaccination, we test the effect of the prevalence of tuberculosis. We employ multiple regression and principal component analysis (PCA) to control for potentially confounding variables (n = 16). Results: BCG vaccination policy and incidence of tuberculosis is associated with a reduction in both COVID-19 cases and deaths, and the effects of these two variables are additive (\u2248 5% to 15% of total unique variance explained). The study of exponential growth factors in the initial stages of the pandemic further shows that BCG vaccination exerts a significant effect (up to 35% of unique variance explained). Conclusions: Overall, these findings corroborate the hypothesis that BCG vaccination and exposure to tuberculosis may induce a non-specific protection against the novel SARS-CoV-2 infection, even after accounting for a large number of confounding influences. However, given the potential public-health benefits, our results indicate that the hypothesis deserves further attention and should not be hastily dismissed.\nCompeting Interest Statement",
+    "author": "Tsuyoshi Miyakawa; Atsuhiko Ota; Rik Chakraborti; Giovanni Sala",
+    "date": 2020,
+    "doi": "10.1101/2020.03.30.20048165",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.30.20048165"
+    },
+    "title": "Association of BCG vaccination policy and tuberculosis burden with incidence and mortality of COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors report that no external funding was received."
+        }
+    ]
+}

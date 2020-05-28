@@ -1,0 +1,16 @@
+{
+    "abstract": "The COVID-19 pandemic represents one of the most significant healthcare challenges that humanity faces. We developed a stochastic, individual-based model of transmission of COVID-19 in Slovakia. The proposed model is based on current clinical knowledge of the disease and takes into account the age structure of the population, distribution of the population into the households, interactions within the municipalities, and interaction among the individuals travelling between municipalities. Furthermore, the model incorporates the effect of age-dependent severity of COVID-19 and realistic trajectories of patients through the healthcare system. We assess the impact of the governmental non-pharmacological interventions, such as population-wide social distancing, social distancing within specific subsets of population, reduction of travel between the municipalities, and self-quarantining of the infected individuals. We also evaluate the impact of relaxing of strict restrictions, efficacy of the simple state feedback-based restrictions in controlling the outbreak, and the effect of superspreaders on the disease dynamics. Our simulations show that non-pharmacological interventions reduce the number of infected individuals and the number of fatalities, especially when the social distancing of particularly susceptible subgroups of the population is employed along with case isolation.",
+    "author": "Michal Racko; Michal Dubovsky; Miroslav Gasparek",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20096362",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20096362"
+    },
+    "title": "A stochastic, individual-based model for the evaluation of the impact of non-pharmacological interventions on COVID-19 transmission in Slovakia",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Authors report no external sources of funding."
+        }
+    ]
+}

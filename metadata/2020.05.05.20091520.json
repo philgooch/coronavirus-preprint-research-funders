@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Saudi Arabia is one of the countries affected by COVID-19 pandemic. This will lead to negative impacts in many sectors. Saudi Arabia not only plays an important role on the economical side because it is the leading country in oil production, but also because it is considered the heart of the Islamic countries. Although protective measures have been implemented in Saudi Arabia, the number of COVID-19 cases has increased. Aims of the study: This study aimed to employ SIR model to forecast the peak of COVID-19 progression and an estimation of it is end in Saudi Arabia. Method: Based on the World Health Organization data on COVID-19 progression in Saudi Arabia from March 3rd to April 29th, 2020, we reliably estimate the constant parameters and make predictions on the inflection point and potential ending time. Susceptible, Infected, and Recovered are the main components of the SIR model that were used to run the analysis. Result: The data showed an interesting result about the peak of the disease progression. It is projected to occur around the 20th day after running the model. According to the model, the peak time will be around the 20th of May. Then the cases will decrease until the 55th day, which is around June 20th. Conclusion: The result predicts a second peak and an estimation end of COVID-19 in Saudi Arabia. This data can inform the policy makers, who should try to contain the virus, to be prepared for what is coming next.\nCompeting Interest Statement",
+    "author": "Alaa F Mujallad; haitham khoj",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091520",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091520"
+    },
+    "title": "Epidemic Situation and Forecasting of COVID-19 in Saudi Arabia using the SIR model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "1 Comparison of SARS-CoV-2 spike protein binding to human, pet, farm animals, and putative 2 intermediate hosts ACE2 and ACE2 receptors 3 Running title: ACE2 receptor-binding of S of SARS-CoV-2 4 Xiaofeng Zhai1,a, Jiumeng Sun1,a, Ziqing Yan1, Jie Zhang1, Jin Zhao1, Zongzheng Zhao3, Qi Gao1, Wan5 Ting He1, Michael Veit2b* and Shuo Su1b* 6 1MOE Joint International Research Laboratory of Animal Health and Food Safety, Engineering 7 Laboratory of Animal Immunity of Jiangsu Province, College of Veterinary Medicine, Nanjing 8 Agricultural University, Nanjing, China. 9 2Institute for Virology, Center for Infection Medicine, Veterinary Faculty, Free University Berlin, 10 Berlin, Germany. 11 3Institute of Military Veterinary, Academy of Military Medical Sciences, Changchun, China. 12 *contact email: shuosu@njau.edu.cn or michael.veit@fu-berlin.de 13 aco-first author, bco-last senior author",
+    "date": 2020,
+    "affiliations": [
+        "Joint International Research Laboratory of Animal Health and Food Safety, Engineering",
+        "Laboratory of Animal Immunity of Jiangsu Province, College of Veterinary Medicine, Nanjing",
+        "Agricultural University, Nanjing, China. 9",
+        "Institute for Virology, Center for Infection Medicine, Veterinary Faculty, Free University Berlin",
+        "Berlin, Germany. 11",
+        "Institute of Military Veterinary, Academy of Military Medical Sciences, Changchun, China. 12 *contact"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.08.084061",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.08.084061.pdf"
+    },
+    "abstract": "The emergence of a novel coronavirus, SARS-CoV-2, resulted in a pandemic. Here, we used recently released X-ray structures of human ACE2 bound to the receptor-binding domain (RBD) of the spike protein (S) from SARS-CoV-2 to predict its binding to ACE2 proteins from different animals, including pets, farm animals, and putative intermediate hosts of SARS-CoV-2. Comparing the interaction sites of ACE2 proteins known to serve or not serve as receptor allows to define residues important for binding. From the amino acids in ACE2 that contact S up to seven can be replaced and ACE2 can still function as the SARS-CoV-2 receptor. These variable amino acids are clustered at certain positions, mostly at the periphery of the binding site, while changes of the invariable residues prevent S-binding or infection of the respective animal. Some ACE2 proteins even tolerate the loss or the acquisition of N24 glycosylation sites located near the S-interface. Of note, pigs and dogs which are not or not effectively infected, respectively, have only a few changes in the binding site have relatively low levels of ACE2 in the respiratory tract. Comparison of the RBD of S of SARS-CoV-2 with viruses from bat and pangolin revealed that the latter contains only one substitution, whereas the bat virus exhibits five. However, ACE2 of pangolin exhibit seven changes relative to human ACE2, a similar number of substitutions is present in ACE2 of bats, raccoon, and civet suggesting that SARS-CoV-2 may not especially adapted to ACE2 of any of its putative intermediate hosts. These analyses provide new insight into the receptor usage and animal source/origin of SARS-COV-2. IMPORTANCE",
+    "keywords": [
+        "SARS-CoV-2",
+        "angiotensin-converting enzyme 2",
+        "pets and livestock 44"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2017YFD0500101"
+                    ]
+                },
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities",
+                    "award-id": [
+                        "Y0201900459"
+                    ]
+                },
+                {
+                    "funding-source": "Young Top-Notch Talents of National Ten-Thousand Talents Program, Sino"
+                },
+                {
+                    "funding-source": "Cultivation Project in"
+                }
+            ],
+            "funding-statement": "This work was financially supported by the National Key Research and Development Program of China (2017YFD0500101), the Fundamental Research Funds for the Central Universities Y0201900459, the Young Top-Notch Talents of National Ten-Thousand Talents Program, Sino German cooperation and exchange project in international cooperation and Cultivation Project in 2019"
+        }
+    ]
+}

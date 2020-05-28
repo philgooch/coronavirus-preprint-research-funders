@@ -1,0 +1,44 @@
+{
+    "abstract": "Importance: Vitamin D treatment has been found to decrease incidence of viral respiratory tract infection, especially in vitamin D deficiency. It is unknown whether COVID-19 incidence is associated with vitamin D deficiency and treatment. Objective: To examine whether vitamin D deficiency and treatment are associated with testing positive for COVID-19. Design: Retrospective cohort study Setting: University of Chicago Medicine Participants: Patients tested for COVID-19 from 3/3/2020-4/10/2020. Vitamin D deficiency was defined by the most recent 25-hydroxycholecalciferol <20ng/ml or 1,25-dihydroxycholecalciferol <18pg/ml within 1 year before COVID-19 testing. Treatment was defined by the most recent vitamin D type and dose, and treatment changes between the time of the most recent vitamin D level and time of COVID-19 testing. Vitamin D deficiency and treatment changes were combined to categorize vitamin D status at the time of COVID-19 testing as likely deficient(last-level-deficient/treatment-not-increased), likely sufficient(last-level-not-deficient/treatment-not-decreased), or uncertain deficiency(last-level-deficient/treatment-increased or last-level-not-deficient/treatment-decreased). Main Outcomes and Measures: The main outcome was testing positive for COVID-19. Multivariable analysis tested whether the most recent vitamin D level and treatment changes after that level were associated with testing positive for COVID-19 controlling for demographic and comorbidity indicators. Bivariate analyses of associations of treatment with vitamin D deficiency and COVID-19 were performed. Results: Among 4,314 patients tested for COVID-19, 499 had a vitamin D level in the year before testing. Vitamin D status at the time of COVID-19 testing was categorized as likely deficient for 127(25%) patients, likely sufficient for 291(58%) patients, and uncertain for 81(16%) patients. In multivariate analysis, testing positive for COVID-19 was associated with increasing age(RR(age<50)=1.05,p<0.021;RR(age\u226550)=1.02,p<0.064)), non-white race(RR=2.54,p<0.01) and being likely vitamin D deficient (deficient/treatment-not-increased:RR=1.77,p<0.02) as compared to likely vitamin D sufficient(not-deficient/treatment-not-decreased), with predicted COVID-19 rates in the vitamin D deficient group of 21.6%(95%CI[14.0%-29.2%] ) versus 12.2%(95%CI[8.9%-15.4%]) in the vitamin D sufficient group. Vitamin D deficiency declined with increasing vitamin D dose, especially of vitamin D3. Vitamin D dose was not significantly associated with testing positive for COVID-19. Conclusions and Relevance: Vitamin D deficiency that is not sufficiently treated is associated with COVID-19 risk. Testing and treatment for vitamin D deficiency to address COVID-19 warrant aggressive pursuit and study.",
+    "author": "David O Meltzer; Tamara Vokes; Hui Zhang; Thomas J Best; Julian Solway; Vineet Arora",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095893",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095893"
+    },
+    "title": "Association of Vitamin D Deficiency and Treatment with COVID-19 Incidence",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Best and Zhang"
+                },
+                {
+                    "funding-source": "Learning Health Care System Core of the University of"
+                },
+                {
+                    "funding-source": "Rush University Institute for Translational Medicine"
+                },
+                {
+                    "funding-source": "Clinical and Translational Science Award"
+                },
+                {
+                    "funding-source": "Advancing Translational Science in Metropolitan Chicago, UL"
+                },
+                {
+                    "funding-source": "Contact PI)"
+                },
+                {
+                    "funding-source": "African American Cardiovascular",
+                    "award-id": [
+                        "U54-MD010723"
+                    ]
+                },
+                {
+                    "funding-source": "Meltzer Co-PIs)"
+                }
+            ],
+            "funding-statement": "Meltzer, Best and Zhang wish to acknowledge support from the Learning Health Care System Core of the University of Chicago/Rush University Institute for Translational Medicine (ITM) Clinical and Translational Science Award (ITM 2.0: Advancing Translational Science in Metropolitan Chicago, UL1TR002389, Solway, Contact PI)) and the African American Cardiovascular pharmacogenetic CONsorTium (ACCOuNT, U54-MD010723, Perera, Meltzer Co-PIs)"
+        }
+    ]
+}

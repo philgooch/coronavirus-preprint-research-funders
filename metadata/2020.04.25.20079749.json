@@ -1,0 +1,23 @@
+{
+    "abstract": "Background Despite measures such as travel restrictions and lockdowns, the novel coronavirus (SARS-COV-2) is projected to spread across India. Considering that a vaccine for COVID-19 is will not be available soon, it is important to identify populations with high risk from COVID-19 and take measures to prevent outbreaks and build healthcare infrastructure at the local level. Methods We used data from two large nationally representative household surveys, administrative sources, and published studies to estimate the risk of COVID-19 at the district level in India. We employed principal component analysis to create an index of the health risk of COVID-19 from demographic and comorbidity indicators such as the proportions of elderly population and rates of diabetes, hypertension, and respiratory illnesses. Another principal component index examined the socioeconomic and healthcare access risk from COVID-19, based on the standard of living, proportion of caste groups, and per capita access to public healthcare in each district. Results Districts in northern, southern and western Indian states such as Punjab, Tamil Nadu, Kerala, and Maharashtra were at the highest health risk from COVID-19. Many of these districts have been designated as COVID-19 hotspots by the Indian government because of emergent outbreaks. Districts in eastern and central states such as Uttar Pradesh, Bihar, and Madhya Pradesh have higher socioeconomic and healthcare access risk as compared with other areas. Interpretation Districts at high risk of COVID-19 should prioritize policy measures for preventing outbreaks, and improving critical care infrastructure and socioeconomic safety nets.",
+    "author": "Ruchita Balasubramanian; Arindam Nandi; Ramanan Laxminarayan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20079749",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20079749"
+    },
+    "title": "Who is at the highest risk from COVID-19 in India? Analysis of health, healthcare access, and socioeconomic indicators at the district level",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1183738"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Bill & Melinda Gates Foundation (Grant OPP1183738)"
+        }
+    ]
+}

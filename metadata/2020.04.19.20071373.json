@@ -1,0 +1,52 @@
+{
+    "abstract": "The emergence of the novel coronavirus SARS-CoV-2 has led to a pandemic infecting more than two million people worldwide in less than four months, posing a major threat to healthcare systems. This is compounded by the shortage of available tests causing numerous healthcare workers to unnecessarily self-isolate. We provide a roadmap instructing how a research institute can be repurposed in the midst of this crisis, in collaboration with partner hospitals and an established diagnostic laboratory, harnessing existing expertise in virus handling, robotics, PCR, and data science to derive a rapid, high throughput diagnostic testing pipeline for detecting SARS-CoV-2 in patients with suspected COVID-19. The pipeline is used to detect SARS-CoV-2 from combined nose-throat swabs and endotracheal secretions/ bronchoalveolar lavage fluid. Notably, it relies on a series of in-house buffers for virus inactivation and the extraction of viral RNA, thereby reducing the dependency on commercial suppliers at times of global shortage. We use a commercial RT-PCR assay, from BGI, and results are reported with a bespoke online web application that integrates with the healthcare digital system. This strategy facilitates the remote reporting of thousands of samples a day with a turnaround time of under 24 hours, universally applicable to laboratories worldwide.",
+    "author": "Peter Ratcliffe; Rupert Beale; Jacki Goldman; Vicky Dearing; Wei-Ting Lu; Jim Aitken; Christopher Earl; Judith Heaney; Mariam Jamal-Hanjani; Jerome Nicod; Mary Wu; Simon Caidan; Dhruva Biswas; Catherine F Houlihan; Debbie Hughes; George Kassiotis; Deb Jackson; Andrew Rowan; James I MacRae; Andrew Levett; Leigh Jones; Ming Jiang; Efthymios Fidanis; Laura McCoy; Moria Spyer; Chris Ekin; David Moore; Laura Churchward; Mark Johnson; Chloe Roustan; Eleni Nastouli; Charles Swanton; Rachel Instrell; Svend Kjaer; Michael Howell; Karen Ambrose; Jessica Olsen; Luke Nightingale; Namita Patel; Ganka Bineva-Todd; Amar Pabari; Philip A Walker; Joshua Wright; John Matthews; Peter Cherepanov; Nnennaya Kanu; Graham Clark; Maria Greco; Steve Gamblin; Sam Barrell; Sophie Ward; Michael Hubank; Daniel M Snell; Marc Pollitt; Gee Yen Shin; Venizelos Papayannopoulos; Nigel Peat; Annachiara Rosa; Steve Hindmarsh; Amelia Edwards; Robert Goldstone; Stuart Kirk; Alessandra Gaiba; Paul R Grant; Sonia Gandhi; Marcel Levi; Catherine Moore; Rachel Rosenthal; Melanie Turner; Nicola OReilly; Amy Strange; Andreas Wack; Wai Keong Wong; Laura Cubitt; Ok-Ryul Song; Richard Byrne; Lisa Levett; Caetano Reis e Sousa; Marg Crawford; James M A Turner",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071373",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071373"
+    },
+    "title": "Scalable and Resilient SARS-CoV-2 testing in an Academic Centre",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Francis Crick Institute"
+                },
+                {
+                    "funding-source": "Cancer Research UK",
+                    "award-id": [
+                        "FC001169",
+                        "FC001078"
+                    ]
+                },
+                {
+                    "funding-source": "UK Medical Research Council",
+                    "award-id": [
+                        "FC001169",
+                        "FC001078"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "FC001169",
+                        "FC001078"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Francis Crick Institute that receives its core funding from Cancer Research UK (FC001169, FC001078), the UK Medical Research Council (FC001169, FC001078), and the Wellcome Trust (FC001169, FC001078)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "H2020"
+                    ]
+                }
+            ],
+            "funding-statement": "E.N. receives research funding from the NIHR, MRC, GSK and H2020"
+        }
+    ]
+}

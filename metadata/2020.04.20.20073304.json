@@ -1,0 +1,20 @@
+{
+    "abstract": "This report describes a method for estimating the probability that there are no infected or pre-symptomatic individuals in a populations on a basis of historical data describing the number of cases in consecutive days. The method involves fitting a stochastic version of Susceptible Exposed Infected Recovered model, and using the model to calculate the probability that the number of both exposed and infected individuals is equal to 0. The model is used to predict the current probabilities for all District Health Boards in New Zealand. These probabilities are highly correlated with the number of days with no new cases of COVID-19.",
+    "author": "Rafal Bogacz",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20073304",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20073304"
+    },
+    "title": "Estimating the probability of New Zealand regions being free from COVID-19 using a stochastic SEIR model",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council, UK"
+                }
+            ],
+            "funding-statement": "This work was supported by Medical Research Council, UK"
+        }
+    ]
+}

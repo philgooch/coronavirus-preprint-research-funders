@@ -1,0 +1,71 @@
+{
+    "title": "Functional Immune Deficiency Syndrome via Intestinal Infection in COVID-19",
+    "date": 2020,
+    "author": "One Sentence Summary: A Systems Approach Indicates Non-respiratory Pathways of Infection as Key for the COVID-19 Pandemic",
+    "affiliations": [
+        "Oak Ridge National Laboratory, Biosciences Division",
+        "Bethel Valley Road, MS 6420, Oak Ridge, TN 37830, USA",
+        "University of Tennessee Knoxville, The Bredesen Center for Interdisciplinary Research and Graduate Education, 444 Greve Hall, 821 Volunteer Blvd. Knoxville, TN 37996-3394, USA",
+        "Biomedical Informatics, Cincinnati Children\u2019s Hospital Research Foundation",
+        "University of Cincinnati, S.10.200, 240 Albert Sabin Way, Cincinnati, OH 45229, USA",
+        "University of Kentucky, Department of Horticulture, N-318 Ag Sciences Center, Lexington, KY 40546-0091, USA",
+        "University of Tennessee Knoxville, Department of Psychology, Austin Peay Building, Knoxville TN 37996, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.06.028712",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.06.028712.pdf"
+    },
+    "abstract": "Using a Systems Biology approach, we integrated genomic, transcriptomic, proteomic, and molecular structure information to provide a holistic understanding of the COVID-19 pandemic. The expression data analysis of the Renin Angiotensin System indicates mild nasal, oral or throat infections are likely and that the gastrointestinal tissues are a common primary target of SARSCoV-2. Extreme symptoms in the lower respiratory system likely result from a secondary-infection possibly by a comorbidity-driven upregulation of ACE2 in the lung. The remarkable differences in expression of other RAS elements, the elimination of macrophages and the activation of cytokines in COVID-19 bronchoalveolar samples suggest that a functional immune deficiency is a critical outcome of COVID-19. We posit that using a non-respiratory system as a major pathway of infection is likely determining the unprecedented global spread of this coronavirus.",
+    "offensive": [
+        "Wankowicz, M. Bohn, P. P. Sharp, R. Trenker, J. M. Young, D. A. Cavero, J. Hiatt, T. Roth, U. Rathore, A. Subramanian, J. Noack, M. Hubert, F. Roesch, T. Vallet, B. Meyer, K. M. White, L. Miorin, O. S. Rosenberg, K. A. Verba, D. Agard, M. Ott, M. Emerman, D. Ruggero, A. Garc\u00ed-Sastre, N. Jura, M. von Zastrow, J. Taunton, A. Ashworth, O. Schwartz, M. Vignuzzi, C. d\u2019Enfert, S. Mukherjee, M. Jacobson, H. S. Malik, D. G. Fujimori, T. Ideker, C. S. Craik, S. Floor, J. S. Fraser, J. Gross, A. Sali, T. Kortemme, P. Beltrao, K. Shokat, B. K. Shoichet, N. J. Krogan, A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing. bioRxiv (2020), p. 2020.03.22.002386."
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Oak Ridge National Laboratory, Laboratory"
+                },
+                {
+                    "funding-source": "Directed Research & Development Fund, LOIS",
+                    "award-id": [
+                        "10074"
+                    ]
+                },
+                {
+                    "funding-source": "Office of Biological and Environmental Research, United"
+                },
+                {
+                    "funding-source": "States Department of Energy Office of Science, COVID"
+                },
+                {
+                    "funding-source": "Testing Research & Development Priorities, ERKPA"
+                },
+                {
+                    "funding-source": "National Institutes of Health,",
+                    "award-id": [
+                        "HL148865"
+                    ]
+                },
+                {
+                    "funding-source": "LungMap Consortium. Role"
+                },
+                {
+                    "funding-source": "Materials and Methods Supplementary Text Figs."
+                },
+                {
+                    "funding-source": "Supplementary References",
+                    "award-id": [
+                        "1-42"
+                    ]
+                },
+                {
+                    "funding-source": "Structural Analysis of the SARS-CoV-2 Proteome"
+                }
+            ],
+            "funding-statement": "We would like to acknowledge funding from the Oak Ridge National Laboratory, Laboratory Directed Research & Development Fund, LOIS:10074, the Office of Biological and Environmental Research, United States Department of Energy Office of Science, COVID-19 Testing Research & Development Priorities, ERKPA09 and the National Institutes of Health, U24 HL148865: the LungMap Consortium. Role of the funding source The funders of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding author had full access to all the data in the study and had final responsibility for the decision to submit for publication. Data and materials availability: Include a note explaining any restrictions on materials, such as materials transfer agreements. Note accession numbers to any data relating to the paper and deposited in a public database; include a brief description of the data set or model with the number. If all data are in the paper and supplementary materials include the sentence \u201cAll data is available in the main text or the supplementary materials.\u201d All data, code, and materials used in the analysis must be available in some form to any researcher for purposes of reproducing or extending the analysis. Supplementary Materials: Materials and Methods Supplementary Text Figs. S1 to S7 Tables S1 to S5 Supplementary References (1-42) Appendix: Structural Analysis of the SARS-CoV-2 Proteome"
+        }
+    ]
+}

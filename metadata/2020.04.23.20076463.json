@@ -1,0 +1,16 @@
+{
+    "abstract": "Using the officially published data and aware of the unclear source and insufficient number of samples, we present a first and (for the moment) unique attempt to study the spread of the pandemic COVID-19 in Madagascar. The approach has been tested by predicting the number of contaminated persons until 20 days after fitting the inputs data collected within 15 days using standard least \u03c72-fit method. Encouraged by this first test, we add the new data collected within 30 days and give prevision until 33 days. We complete the analysis by using the updated data until 46 days. The data below 30 days show an approximate linear or quadratic polynomial increase of about (4-5) infected persons per day. However, newer additional data collected until 46 days favours a cubic polynomial behaviour which signals an eventual near future stronger growth as confirmed by the data on the 48th day received after our study and our estimate including this new data for the next days. A comparison with some other SI-like models is done. The analysis of the numbers of cured persons for 38 and 46 days shows behaviours similar to the ones of the infected persons. They indicate about 3 cured persons per day. These results for infected and cured persons may also be interpreted as the lowest values of the real cases due to the insufficient number of samples (to date about 3700 for 27 million inhabitants). Some social, economical and political impacts of COVID-19 and confinement for Madagascar and Worldwide are shortly discussed.",
+    "author": "Stephan Narison",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076463",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076463"
+    },
+    "title": "The First Month of COVID-19 in Madagascar",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This research has not received any dedicated funds and sponsoring. It is issued from a personal initiative without any influence from private and public organizations."
+        }
+    ]
+}

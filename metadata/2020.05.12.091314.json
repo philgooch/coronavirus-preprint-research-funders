@@ -1,0 +1,29 @@
+{
+    "title": "Meta-analysis of transcriptomes of SARS-Cov2 infected human lung epithelial cells identifies transmembrane serine proteases co-expressed with ACE2 and biological processes related to viral entry, immunity, inflammation and cellular stress",
+    "author": "Wasco Wruck, and James Adjaye",
+    "date": 2020,
+    "affiliations": [
+        "Institute for Stem Cell Research and Regenerative Medicine, Medical Faculty, Heinrich Heine University, Moorenstr.5, 40225, D\u00fcsseldorf, Germany"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.091314",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.091314.pdf"
+    },
+    "abstract": "The COVID-19 pandemic resulting from the severe acute respiratory syndrome coronavirus 2 (SARSCoV-2) which emerged in December 2019 in the Chinese city of Wuhan in the province Hubei has placed immense burden on national economies and global health. At present neither vaccination nor therapies are available although several antiviral agents such as remdesivir, originally an Ebola drug, nelfinavir, an HIV-1 protease inhibitor and other drugs such as lopinavir have been evaluated. Here, we performed a meta-analysis of RNA-sequencing data from three studies employing human lung epithelial cells. Of these one focused on lung epithelial cells infected with SARS-CoV-2. We aimed at identifying genes co-expressed with angiotensin I converting enzyme 2 (ACE2) the human cell entry receptor of SARS-CoV-2, and unveiled several genes correlated or inversely correlated with high significance, among the most significant of these was the transmembrane serine protease 4 (TMPRSS4). Serine proteases are known to be involved in the infection process by priming the virus spike protein. Pathway analysis revealed papilloma virus infection amongst the most significantly",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "James Adjaye"
+                },
+                {
+                    "funding-source": "Heinrich-Heine University, Duesseldorf"
+                }
+            ],
+            "funding-statement": "James Adjaye acknowledges support from the Medical faculty of the Heinrich-Heine University, Duesseldorf"
+        }
+    ]
+}

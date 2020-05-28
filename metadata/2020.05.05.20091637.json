@@ -1,0 +1,23 @@
+{
+    "abstract": "Group testing is a widely used protocol which aims to test a small group of people to identify whether at least one of them is infected. It is particularly efficient if the infection rate is low, because it only requires a single test if everybody in the group is negative. The most efficient use of group testing is a complex mathematical question. However, the answer highly depends on practical parameters and restrictions, which are partially ignored by the mathematical literature. This paper aims to offer practically efficient group testing algorithms, focusing on the current COVID-19 epidemic.",
+    "author": "Endre Csoka",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091637",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091637"
+    },
+    "title": "Application-oriented mathematical algorithms for group testing",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ERC Synergy",
+                    "award-id": [
+                        "810115"
+                    ]
+                }
+            ],
+            "funding-statement": "Supported by ERC Synergy grant No 810115"
+        }
+    ]
+}

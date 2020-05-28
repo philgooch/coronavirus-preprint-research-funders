@@ -1,0 +1,106 @@
+{
+    "title": "Early Safety Indicators of COVID-19 Convalescent",
+    "date": 2020,
+    "author": "Michael J. Joyner, R. Scott Wright, DeLisa Fairweather, Jonathon W. Senefeld, Katelyn A. Bruno, Stephen A. Klassen, Rickey E. Carter, Allan M. Klompas, Chad C. Wiggins, John R.A. Shepherd, Robert F. Rea, Emily R. Whelan, Andrew J. Clayburn, Matthew R. Spiegel, Patrick W. Johnson, Elizabeth R. Lesser, Sarah E. Baker, Kathryn F. Larson, Juan G. Ripoll, Kylie J. Andersen, David O. Hodge, Katie L. Kunze, Matthew R. Buras, Matthew N.P. Vogt, Vitaly Herasevich, Joshua J. Dennis, Riley J. Regimbal, Philippe R. Bauer, Janis E. Blair, Camille M. Van Buskirk, Jeffrey L. Winters, James R. Stubbs, Nigel S. Paneth10, Arturo Casadevall",
+    "affiliations": [
+        "Department of Anesthesiology and Perioperative Medicine, Mayo Clinic, Rochester, Minnesota",
+        "Department of Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota",
+        "Director Human Research Protection Program, Mayo Clinic, Rochester, Minnesota",
+        "Department of Cardiovascular Medicine, Mayo Clinic, Jacksonville, Florida",
+        "Department of Health Sciences Research, Mayo Clinic, Jacksonville, Florida",
+        "Department of Health Sciences Research, Mayo Clinic, Scottsdale, Arizona",
+        "Department of Internal Medicine, Division of Pulmonary and Critical Care Medicine, Mayo Clinic, Rochester, Minnesota",
+        "Department of Internal Medicine, Division of Infectious Diseases, Mayo Clinic, Phoenix, Arizona",
+        "Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, Minnesota",
+        "Department of Epidemiology and Biostatistics, College of Human Medicine, Michigan State University, East Lansing, Michigan",
+        "Department of Pediatrics and Human Development, College of Human Medicine, Michigan State University, East Lansing, Michigan",
+        "Department of Molecular Microbiology and Immunology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland",
+        "United Health Group, National Basketball Association (NBA), and Millennium Pharmaceuticals, Octopharma USA, Inc"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.20099879",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099879.pdf"
+    },
+    "abstract": "Background: Convalescent plasma is the only antibody based therapy currently available for COVID-19 patients. It has robust historical precedence and sound biological plausibility. Although promising, convalescent plasma has not yet been shown to be safe as a treatment for COVID-19. Methods: Thus, we analyzed key safety metrics after transfusion of ABO-compatible human COVID-19 convalescent plasma in 5,000 hospitalized adults with severe or life-threatening COVID-19, with 66% in the intensive care unit, as part of the US FDA Expanded Access Program for COVID-19 convalescent plasma. Results: The incidence of all serious adverse events (SAEs) in the first four hours after transfusion was <1%, including mortality rate (0.3%). Of the 36 reported SAEs, there were 25 reported incidences of related SAEs, including mortality (n=4), transfusion-associated circulatory overload (TACO; n=7), transfusion-related acute lung injury (TRALI; n=11), and severe allergic transfusion reactions (n=3). However, only 2 (of 36) SAEs were judged as definitely related to the convalescent plasma transfusion by the treating physician. The seven-day mortality rate was 14.9%. Conclusion: Given the deadly nature of COVID-19 and the large population of criticallyill patients included in these analyses, the mortality rate does not appear excessive. These early indicators suggest that transfusion of convalescent plasma is safe in hospitalized patients with COVID-19. Trial registration: ClinicalTrials.gov NCT04338360 Funding: Mayo Clinic, BARDA, NCATS, NHLBI, NIDDK, NSERC, NIAID, Schwab Charitable Fund (Eric E Schmidt, Wendy Schmidt donors), United Health Group, National Basketball Association (NBA), and Millennium Pharmaceuticals, Octopharma USA, Inc",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "US Department of Health and Human Services"
+                },
+                {
+                    "funding-source": "Biomedical Advanced Research and Development Authority",
+                    "award-id": [
+                        "75A50120C00096"
+                    ]
+                },
+                {
+                    "funding-source": "National Center for Advancing Translational Sciences",
+                    "award-id": [
+                        "UL1TR002377"
+                    ]
+                },
+                {
+                    "funding-source": "National Heart, Lung"
+                },
+                {
+                    "funding-source": "Blood Institute",
+                    "award-id": [
+                        "5R35HL139854"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "award-id": [
+                        "5T32DK07352"
+                    ]
+                },
+                {
+                    "funding-source": "JWS and CCW)"
+                },
+                {
+                    "funding-source": "Natural Sciences and Engineering Research Council of Canada",
+                    "award-id": [
+                        "PDF-532926-2019"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Disease",
+                    "award-id": [
+                        "AI145356",
+                        "AI152318",
+                        "AI152078"
+                    ]
+                },
+                {
+                    "funding-source": "National Heart Lung and Blood Institute",
+                    "award-id": [
+                        "HL059842"
+                    ]
+                },
+                {
+                    "funding-source": "Schwab Charitable Fund"
+                },
+                {
+                    "funding-source": "Wendy Schmidt"
+                },
+                {
+                    "funding-source": "United Health Group, National"
+                },
+                {
+                    "funding-source": "Basketball Association"
+                },
+                {
+                    "funding-source": "Millennium Pharmaceuticals, Octopharma"
+                },
+                {
+                    "funding-source": "Mayo Clinic"
+                }
+            ],
+            "funding-statement": "This study was supported in part by a US Department of Health and Human Services (HHS), Biomedical Advanced Research and Development Authority (BARDA) grant 75A50120C00096 (to MJJ), National Center for Advancing Translational Sciences (NCATS) grant UL1TR002377, National Heart, Lung, and Blood Institute (NHLBI) grant 5R35HL139854 (to MJJ), National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) 5T32DK07352 (to JWS and CCW), Natural Sciences and Engineering Research Council of Canada (NSERC) PDF-532926-2019 (to SAK), National Institute of Allergy and Infectious Disease (NIAID) grants R21 AI145356 and R21 AI152318 (to DF), R01 AI152078 9 (to AC), National Heart Lung and Blood Institute RO1 HL059842 (to AC), Schwab Charitable Fund (Eric E Schmidt, Wendy Schmidt donors), United Health Group, National Basketball Association (NBA), Millennium Pharmaceuticals, Octopharma USA, Inc, and the Mayo Clinic"
+        }
+    ]
+}

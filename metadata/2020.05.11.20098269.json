@@ -1,0 +1,29 @@
+{
+    "abstract": "Visiting parks and gardens may attenuate the adverse physical and mental health impacts of social distancing implemented to reduce the spread of COVID-19. We quantified access to public parks and gardens in urban areas of England and Wales, and the potential for park crowdedness during periods of high use. We combined data from the Office for National Statistics and Ordnance Survey to quantified (i) the number of parks within 500 and 1,000 metres of urban postcodes (i.e., availability), (ii) the distance of postcodes to the nearest park (i.e., accessibility), and (iii) per-capita space in each park for people living within 1,000m. We examined variability by city and share of flats. Around 25.4 million people can access public parks or gardens within a ten-minute walk, while 3.8 million residents live farther away; of these 21% are children and 13% are elderly. Areas with a higher share of flats on average are closer to a park but people living in these areas are potentially less able to meet social distancing requirements while in parks during periods of high use. Cities in England and Wales can provide residents with access to green space that enables outdoor exercise and play during social distancing. Keeping public parks and gardens open, might require measures such as dedicated park times for different age groups or entry allocation systems that, combined with smartphone apps or drones, can monitor and manage the total number of people using the park.",
+    "author": "Niloofar Shoari; Daniela Fecht; Jill Baumgartner; Majid Ezzati; Diego Malacarne",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20098269",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20098269"
+    },
+    "title": "Accessibility and allocation of public parks and gardens during COVID-19 social distancing in England and Wales",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Equitable Healthy Cities",
+                    "award-id": [
+                        "209376/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "209376/Z/17/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is supported by the Pathways to Equitable Healthy Cities grant from the Wellcome Trust [209376/Z/17/Z]"
+        }
+    ]
+}

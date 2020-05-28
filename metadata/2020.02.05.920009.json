@@ -1,0 +1,54 @@
+{
+    "title": "A database resource for Genome-wide dynamics analysis of Coronaviruses on a historical and global scale",
+    "author": "Zhenglin Zhu, Kaiwen Meng, Geng Meng,* 1. School of Life Sciences, Chongqing University, Chongqing, China 2. College of Veterinary Medicine, China Agricultural University, Beijing, China",
+    "date": 2020,
+    "affiliations": [
+        "School of Life Sciences, Chongqing University, Chongqing, China",
+        "College of Veterinary Medicine, China Agricultural University, Beijing, China",
+        "Corresponding authors Zhenglin Zhu, School of Life Sciences, Chongqing University, No.55 Daxuecheng South Road, Shapingba, Chongqing, 401331, China. TEL: (86)23-6512-2686, FAX: (86)23-6512-2689"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.05.920009",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.05.920009.pdf"
+    },
+    "abstract": "The recent outbreak of a new zoonotic origin Coronavirus has ring the bell for the potential spread of epidemic Coronavirus crossing the species. With the urgent needs to assist the control of the Coronavirus spread and to provide valuable scientific information, we developed a coronavirus database (CoVdb), an online genomics and proteomics analysis platform. Based on public available coronavirus genomic information, the database annotates the genome of every strain and identifies 780 possible ORFs of all strains available in Genebank. In addition, the comprehensive evaluation of all the published genomes of Coronavirus strains, including population genetics analysis, functional analysis and structural analysis on a historical and global scale were presented in the CoVdb. In the database, the researcher can easily obtain the basic information of a Coronavirus gene with the distribution of the gene among strains, conserved or high mutation regions, possible subcellular location and topology of the gene. Moreover, sliding windows for population genetics analysis results is provided, thereby facilitating genetics and evolutional analysis at the genomic level. CoVdb can be accessed freely at http://covdb.popgenetics.net.",
+    "keywords": [
+        "Coronavirus",
+        "population genomics",
+        "database"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Program",
+                    "award-id": [
+                        "2019YFC1604600"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31200941"
+                    ]
+                },
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities",
+                    "award-id": [
+                        "106112016CDJXY290002"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of HeBei",
+                    "award-id": [
+                        "19226631D"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants from the National Key Research and Development Program (2019YFC1604600), the National Natural Science Foundation of China (31200941), the Fundamental Research Funds for the Central Universities (106112016CDJXY290002), the National Natural Science Foundation of HeBei province (19226631D)"
+        }
+    ]
+}

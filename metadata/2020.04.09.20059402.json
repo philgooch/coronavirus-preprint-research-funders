@@ -1,0 +1,16 @@
+{
+    "abstract": "Conventional epidemiological models require estimates of important parameters including incubation time and case fatality rate that may be unavailable in the early stage of an epidemic. For the ongoing SARS-COV-2 epidemic, with no previous population exposure, alternative prediction methods less reliant on assumptions may prove more effective in the near-term. We present three methods used to provide early estimates of likely SARS-COV-2 epidemic progression. During the first stage of the epidemic, growth rate charts revealed the UK, Italy and Spain as outliers, with differentially increasing growth of deaths over cases. A novel data-driven time-series model was then used to near-cast 7-day future cases and deaths with much greater precision. Finally, an epidemio-statistical model was used to bridge from near-casting to forecasting the future course of the global epidemic. By applying multiple approaches to global SARS-COV-2 data, coupled with mixed-effects methods, countries further ahead in the epidemic provide valuable information for those behind. Using current daily global data, we note convergence in near-term predictions for Italy signifying an appropriate call on the future course of the global epidemic. For the UK and elsewhere, prediction of peak and eventual time to resolution is now possible.",
+    "author": "Daren J Austin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059402",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059402"
+    },
+    "title": "Near- and forecasting the SARS-COV-2 epidemic requires a global view and multiple methods",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Funding Statement this work was funded by GlaxoSmithKline as part of the author's employment duties"
+        }
+    ]
+}

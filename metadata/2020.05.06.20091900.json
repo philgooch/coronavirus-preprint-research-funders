@@ -1,0 +1,16 @@
+{
+    "abstract": "The outbreak of COVID-19 Coronavirus, namely SARS-CoV-2, has created a calamitous situation throughout the world. The cumulative incidence of COVID-19 is rapidly increasing day by day. Machine Learning (ML) and Cloud Computing can be deployed very effectively to track the disease, predict growth of the epidemic and design strategies and policy to manage its spread. This study applies an improved mathematical model to analyse and predict the growth of the epidemic. An ML-based improved model has been applied to predict the potential threat of COVID-19 in countries worldwide. We show that using iterative weighting for fitting Generalized Inverse Weibull distribution, a better fit can be obtained to develop a prediction framework. This can be deployed on a cloud computing platform for more accurate and real-time prediction of the growth behavior of the epidemic. A data driven approach with higher accuracy as here can be very useful for a proactive response from the government and citizens. Finally, we propose a set of research opportunities and setup grounds for further practical applications.",
+    "author": "Shreshth Tuli; Rakesh Tuli; Sukhpal Singh Gill; Shikhar Tuli",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20091900",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20091900"
+    },
+    "title": "Predicting the Growth and Trend of COVID-19 Pandemic using Machine Learning and Cloud Computing",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding sources"
+        }
+    ]
+}

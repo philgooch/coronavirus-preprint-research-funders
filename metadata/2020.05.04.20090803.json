@@ -1,0 +1,32 @@
+{
+    "abstract": "The novel Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) has caused a pandemic resulting in over 2.7 million infected individuals and over 190,000 deaths and growing. Respiratory disorders in COVID-19 caused by the virus commonly present as viral pneumonia-like opacities in chest X-ray images which are used as an adjunct to the reverse transcription-polymerase chain reaction test for confirmation and evaluating disease progression. The surge places high demand on medical services including radiology expertise. However, there is a dearth of sufficient training data for developing image-based automated decision support tools to alleviate radiological burden. We address this insufficiency by expanding training data distribution through use of weakly-labeled images pooled from publicly available CXR collections showing pneumonia-related opacities. We use the images in a stage-wise, strategic approach and train convolutional neural network-based algorithms to detect COVID-19 infections in CXRs. It is observed that weakly-labeled data augmentation improves performance with the baseline test data compared to non-augmented training by expanding the learned feature space to encompass variability in the unseen test distribution to enhance inter-class discrimination, reduce intra-class similarity and generalization error. Augmentation with COVID-19 CXRs from individual collections significantly improves performance compared to baseline non-augmented training and weakly-labeled augmentation toward detecting COVID-19 like viral pneumonia in the publicly available COVID-19 CXR collections. This underscores the fact that COVID-19 CXRs have a distinct pattern and hence distribution, unlike non-COVID-19 viral pneumonia and other infectious agents.",
+    "affiliations": [
+        "Lister Hill National Center for Biomedical Communications (LHNCBC), the National Library of Medicine (NLM), and the U.S. National Institutes of Health (NIH)"
+    ],
+    "author": "Sivaramakrishnan Rajaraman; Sameer K Antani",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090803",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090803"
+    },
+    "title": "Training deep learning algorithms with weakly labeled pneumonia chest X-ray data for COVID-19 detection",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intramural Research Program of the Lister Hill National Center for Biomedical Communications"
+                },
+                {
+                    "funding-source": "National Library of Medicine"
+                },
+                {
+                    "funding-source": "U.S National Institutes of Health"
+                },
+                {
+                    "funding-source": "NIH"
+                }
+            ],
+            "funding-statement": "This work was supported by the Intramural Research Program of the Lister Hill National Center for Biomedical Communications (LHNCBC), the National Library of Medicine (NLM), and the U.S National Institutes of Health (NIH)"
+        }
+    ]
+}

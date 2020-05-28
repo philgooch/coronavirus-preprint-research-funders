@@ -1,0 +1,89 @@
+{
+    "title": "Title 2 Type 2 and interferon inflammation strongly regulate SARS-CoV-2 related gene 3 expression in the airway epithelium 4 5 6 Authors/Affiliations 7 Satria P. Sajuthi1#, Peter DeFord1#, Nathan D. Jackson1, Michael T. Montgomery1, 8 Jamie L. Everman1, Cydney L. Rios1, Elmar Pruesse1, James D. Nolin1, Elizabeth G. 9 Plender1, Michael E. Wechsler2, Angel CY Mak3, Celeste Eng3, Sandra Salazar3, Vivian 10 Medina4, Eric M. Wohlford3,5, Scott Huntsman3, Deborah A. Nickerson6,7,8, Soren 11 Germer9, Michael C. Zody9, Gon\u00e7alo Abecasis10, Hyun Min Kang10, Kenneth M. Rice11, 12 Rajesh Kumar12, Sam Oh3, Jose Rodriguez-Santana4, Esteban G. Burchard3,13, Max A. 13 Seibold1,14,15* 14 15 1Center for Genes, Environment, and Health, National Jewish Health, Denver, CO, 16 80206 USA; 2Department of Medicine, 14Department of Pediatrics, National Jewish 17 Health, Denver, CO, 80206 USA; 15Division of Pulmonary Sciences and Critical Care 18 Medicine, University of Colorado-AMC, Aurora, CO, 80045 USA, 3Department of 19 Medicine, 5Division of Pediatric Allergy and Immunology, 13Department of 20 Bioengineering and Therapeutic Sciences University of California San Francisco, San 21 Francisco, CA; 6Department of Genome Sciences, University of Washington, Seattle, 22 WA, USA, 7Northwest Genomics Center, Seattle, WA, USA 8Brotman Baty Institute, 23 Seattle, WA, USA; 9New York Genome Center, NYC, New York; 10Center for Statistical",
+    "author": "Genetics, University of Michigan, Ann Arbor, MI, USA; 11Department of Biostatistics, 25 University of Washington, Seattle, WA, USA; 4Centro de Neumolog\u00eda Pedi\u00e1trica, San 26 Juan, Puerto Rico; 12Ann and Robert H. Lurie Children's Hospital of Chicago, 27 Department of Pediatrics, Northwestern University, Chicago, Ill #these authors 28 contributed equally to this work, *correspondence: seiboldm@njhealth.org 29 30",
+    "date": 2020,
+    "affiliations": [
+        "Center for Genes, Environment, and Health, National Jewish Health, Denver, CO, 16 80206 USA",
+        "Department of Medicine",
+        "Department of Pediatrics, National Jewish",
+        "Health, Denver, CO, 80206 USA",
+        "Division of Pulmonary Sciences and Critical Care",
+        "Medicine, University of Colorado-AMC, Aurora, CO, 80045 USA",
+        "Division of Pediatric Allergy and Immunology",
+        "Department of 20 Bioengineering and Therapeutic Sciences University of California San Francisco, San 21 Francisco, CA",
+        "Department of Genome Sciences, University of Washington, Seattle, 22 WA, USA",
+        "Northwest Genomics Center, Seattle, WA, USA",
+        "Brotman Baty Institute, 23 Seattle, WA, USA",
+        "New York Genome Center, NYC, New York",
+        "Center for Statistical",
+        "University of Michigan, Ann Arbor, MI, USA",
+        "Department of Biostatistics, 25 University of Washington, Seattle, WA, USA",
+        "Centro de Neumolog\u00eda Pedi\u00e1trica, San 26 Juan, Puerto Rico",
+        "Ann and Robert H. Lurie Children's Hospital of Chicago, 27 Department of Pediatrics, Northwestern University, Chicago, Ill #these authors 28 contributed equally to this work, *correspondence:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.09.034454",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.09.034454.pdf"
+    },
+    "abstract": "32 33 Coronavirus disease 2019 (COVID-19) outcomes vary from asymptomatic infection to death. This disparity may reflect different airway levels of the SARS-CoV-2 receptor, ACE2, and the spike protein activator, TMPRSS2. Here we explore the role of genetics and co-expression networks in regulating these genes in the airway, through the analysis of nasal airway transcriptome data from 695 children. We identify expression quantitative trait loci (eQTL) for both ACE2 and TMPRSS2, that vary in frequency across world populations. Importantly, we find TMPRSS2 is part of a mucus secretory network, highly upregulated by T2 inflammation through the action of interleukin-13, and that interferon response to respiratory viruses highly upregulates ACE2 expression. Finally, we define airway responses to coronavirus infections in children, finding that these infections upregulate IL6 while also stimulating a more pronounced cytotoxic immune response relative to other respiratory viruses. Our results reveal mechanisms likely influencing SARS-CoV-2 infectivity and COVID-19 clinical outcomes. 47 48 49 50 51 52 53",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "HL138626",
+                        "HL135156",
+                        "MD010443",
+                        "HL128439",
+                        "HL132821",
+                        "HL107202",
+                        "HL117004"
+                    ]
+                },
+                {
+                    "funding-source": "DOD Grant",
+                    "award-id": [
+                        "W81WH-16-2-0018"
+                    ]
+                },
+                {
+                    "funding-source": "The Genes-Environments and Admixture in Latino Americans",
+                    "award-id": [
+                        "GALA II"
+                    ]
+                },
+                {
+                    "funding-source": "GALA II) Study"
+                },
+                {
+                    "funding-source": "Sandler Family Foundation,"
+                },
+                {
+                    "funding-source": "American Asthma Foundation,"
+                },
+                {
+                    "funding-source": "RWJF Amos Medical Faculty Development Program,"
+                },
+                {
+                    "funding-source": "Harry Wm."
+                }
+            ],
+            "funding-statement": "This work was supported by NIH grants (MAS) U01 HL138626, R01 HL135156, R01 MD010443, R01 HL128439, P01 HL132821, P01 HL107202, R01 HL117004, and DOD Grant W81WH-16-2-0018. The Genes-Environments and Admixture in Latino Americans (GALA II) Study and E.G.B. were supported by the Sandler Family Foundation, the American Asthma Foundation, the RWJF Amos Medical Faculty Development Program, the Harry Wm. and Diana V"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NHLBI",
+                    "award-id": [
+                        "K01HL140218"
+                    ]
+                }
+            ],
+            "funding-statement": "MJW was supported by the NHLBI [K01HL140218]"
+        }
+    ]
+}

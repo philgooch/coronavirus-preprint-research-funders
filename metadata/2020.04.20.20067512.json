@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The novel coronavirus disease 19 (COVID-19), caused by SARS-CoV-2, spreads rapidly across the world. The exponential increase in the number of cases has resulted in overcrowding of emergency departments (ED). Detection of SARS-CoV-2 is based on an RT-PCR of nasopharyngeal swab material. However, RT-PCR testing is time-consuming and many hospitals deal with a shortage of testing materials. Therefore, we aimed to develop an algorithm to rapidly evaluate an individual\u2032s risk of SARS-CoV-2 infection at the ED. Methods: In this multicenter retrospective study, routine laboratory parameters (C-reactive protein, lactate dehydrogenase, ferritin, absolute neutrophil and lymphocyte counts), demographic data and the chest X-ray/CT result from 967 patients entering the ED with respiratory symptoms were gathered. Using these parameters, an easy-to-use point-based algorithm, called the corona-score, was developed to discriminate between patients that tested positive for SARS-CoV-2 by RT-PCR and those testing negative. Computational sampling was used to optimize the corona-score. Validation of the model was performed using data from 592 patients. Results: The corona-score model yielded an area under the receiver operating characteristic curve of 0.91 in the validation population. Patients testing negative for SARS-CoV-2 showed a median corona-score of 3 versus 11 (scale 0-14) in patients testing positive for SARS-CoV-2 (p<0.001). Using cut-off values of 4 and 11 the model has a sensitivity and specificity of 96% and 95%, respectively. Conclusion: The corona-score effectively predicts SARS-CoV-2 RT-PCR outcome based on routine parameters. This algorithm provides the means for medical professionals to rapidly evaluate SARS-CoV-2 infection status of patients presenting at the ED with respiratory symptoms.\nCompeting Interest Statement",
+    "author": "Martinus J.T. Blaauw; Armando van der Horst; Robert Herpers; Eva-Leonne G\u00f6ttgens; Marc G.L.M. Elisen; Yvette C.M. Kluiters-de Hingh; Mick W.L. Geerits; Steef Kurstjens; Marc H.M. Thelen; Ron Kusters",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20067512",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20067512"
+    },
+    "title": "Rapid identification of SARS-CoV-2-infected patients at the emergency department using routine testing",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There is no external funding"
+        }
+    ]
+}

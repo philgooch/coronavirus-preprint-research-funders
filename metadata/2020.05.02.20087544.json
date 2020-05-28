@@ -1,0 +1,19 @@
+{
+    "abstract": "COVID-19 the modern pandemic has spread across the world at a rapid pace. SARS-CoV 2 is highly transmissible and the rate of infection is exponential for heavily infected countries. Asymptotic carriers and longer incubation period have been key towards such a large-scale distribution of disease. Data released by official authorities on COVID-19 cases is significantly affected by various factors such as size of sample, incubation period of disease and time taken to test the sample. These factors mask the useful pattern (signal) of disease spread. Thus, an ingenious method to group data into cycles of five and seven days, for studying pattern of disease spread is undertaken. Occurrence of recurrent peaks as indicated by Adjusted Rate of infection per day indicated the spread of disease has been non-uniform. Currently, India is yet to reach the critical point (peak of epidemic) with adjusted daily cases more than 1000. Increasing testing capacity along with random sampling and sample pooling can help in preventing formation of these peaks in future. The proposed method helps in assessing the current state and for predicting future scenarios epidemics.",
+    "affiliations": [
+        "John Hopkins University GitHub repository"
+    ],
+    "author": "Nandan L Patil; Lakshmi R Gangavati",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20087544",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20087544"
+    },
+    "title": "Evaluating growth pattern and assessing future scenario of COVID-19 epidemic of India",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding is received for the work."
+        }
+    ]
+}

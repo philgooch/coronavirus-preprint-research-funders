@@ -1,0 +1,56 @@
+{
+    "title": "Short Communication",
+    "author": "Diogo de Moraes,#, Brunno Vivone Buquete Paiva,#, Sarah Santiloni Cury, Jo\u00e3o Pessoa Ara\u00fajo Junior, Marcelo Alves da Silva Mori, Robson Francisco Carvalho",
+    "date": 2020,
+    "affiliations": [
+        "Department of Structural and Functional Biology, Institute of Biosciences, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil",
+        "Faculty of Medicine, S\u00e3o Paulo State University, UNESP, Botucatu, S\u00e3o Paulo, Brazil",
+        "Department of Chemical and Biological and Sciences, Institute of Biosciences, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil",
+        "Department of Biochemistry and Tissue Biology, Institute of Biology, State University of Campinas (UNICAMP), Campinas, SP, Brazil. #These authors contributed equally to this work",
+        "Corresponding author",
+        "Robson Francisco Carvalho Department of Structural and Functional Biology Institute of Biosciences, S\u00e3o Paulo State University (UNESP) CEP: 18.618-689, Botucatu, S\u00e3o Paulo \u2013 Brazil Telephone number: +55 14 3880 0473"
+    ],
+    "identifiers": {
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.030767.pdf"
+    },
+    "abstract": "COVID-19 is prevalent in the elderly. Old individuals are more likely to develop pneumonia and respiratory failure due to alveolar damage, suggesting that lung senescence may increase the susceptibility to SARS-CoV-2 infection and replication. Considering that human coronavirus (HCoVs; SARS-CoV-2 and SARS-CoV) require host cellular factors for infection and replication, we analyzed Genotype-Tissue Expression (GTEx) data to test whether lung aging is associated with transcriptional changes in human protein-coding genes that potentially interact with these viruses. We found decreased expression of the gene tribbles homolog 3 (TRIB3) during aging in male individuals, and its protein was predicted to interact with HCoVs nucleocapsid protein and RNAdependent RNA polymerase. Using publicly available lung single-cell data, we found TRIB3 expressed mainly in alveolar epithelial cells that express SARS-CoV-2 receptor ACE2. Functional enrichment analysis of age-related genes, in common with SARS-CoV-induced perturbations, revealed genes associated with the mitotic cell cycle and surfactant metabolism. Given that TRIB3 was previously reported to decrease virus infection and replication, the decreased expression of TRIB3 in aged lungs may help explain why older male patients are related to more severe cases of the COVID-19. Thus, drugs that stimulate TRIB3 expression should be evaluated as a potential therapy for the disease.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "tribbles homolog 3",
+        "\u03b1-hydroxylinoleic acid",
+        "lung aging"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Council for Scientific and Technological Development, CNPq",
+                    "award-id": [
+                        "Process 311530/2019-2 to RFC",
+                        "scholarship #870415/1997-2 to SSC"
+                    ]
+                },
+                {
+                    "funding-source": "Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior, CAPES"
+                },
+                {
+                    "funding-source": "Finance Code",
+                    "award-id": [
+                        "scholarship to DM"
+                    ]
+                },
+                {
+                    "funding-source": "Funda\u00e7\u00e3o de Amparo"
+                },
+                {
+                    "funding-source": "Pesquisa do Estado de S\u00e3o Paulo",
+                    "award-id": [
+                        "2017/01184-9 to MAM"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported by the National Council for Scientific and Technological Development, CNPq (Process 311530/2019-2 to RFC, and scholarship #870415/1997-2 to SSC), by the Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior, CAPES, Brasil, Finance Code 001 (scholarship to DM), and by Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado de S\u00e3o Paulo (2017/01184-9 to MAM)"
+        }
+    ]
+}

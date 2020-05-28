@@ -1,0 +1,29 @@
+{
+    "abstract": "Objective: Emergency medical services (EMS) may serve as a key source of real-time data about the evolving health of COVID-19 affected populations, especially in low-and-middle-income countries (LMICs) with less rapid and reliable vital statistic registration systems. Although official COVID-19 statistics in Mexico report almost exclusively in-hospital mortality events, excess out-of-hospital mortality has been identified in other settings, including one EMS study in Italy that showed a 58% increase. EMS and hospital reports from several countries have suggested that silent hypoxemia--low oxygen saturation (SpO2) in the absence of dyspnea--is associated with COVID-19 outbreaks. It is unclear, however, how these phenomena can be generalized to LMICs. We assess how EMS data can be used in a sentinel capacity in Tijuana, a city on the Mexico-United States border with earlier exposure to COVID-19 than many LMIC settings. Methods: We calculated numbers of weekly out-of-hospital deaths and respiratory cases seen by EMS in Tijuana, and estimate the difference between peak-epidemic rates (during April 14th-May 11th) and forecasted 2014-2019 trends. Results were compared with official COVID-19 statistics, stratified by neighborhood socioeconomic status (SES), and examined for changing demographic or clinical features, including mean (SpO2). Results: An estimated 194.7 (95%CI: 135.5-253.9) excess out-of-hospital deaths events occurred, representing an increase of 145% (70%-338%) compared to forecasted trends. During the same window, only 8 COVID-19-positive, out-of-hospital deaths were reported in official statistics. This corresponded with a rise in respiratory cases of 274% (119%-1142%), and a drop in mean SpO2 to 77.7%, from 90.2% at baseline. The highest out-of-hospital death rates were observed in low-SES areas, although respiratory cases were more concentrated in high-SES areas. Conclusions: EMS systems may play an important sentinel role in monitoring excess out-of-hospital mortality and other trends during the COVID-19 crisis in LMICs. Using EMS data, we observed increases in out-of-hospital deaths in Tijuana that were nearly threefold greater magnitude than increases reported using EMS data in Italy. Increased testing in out-of-hospital settings may be required to determine if excess mortality is being driven by COVID-19 infection, health system saturation, or patient avoidance of healthcare. We also found evidence of worsening rates of hypoxemia among respiratory patients seen by EMS, suggesting a rise in silent hypoxemia, which should be met with increased detection and clinical management efforts. Finally, we observed that social disparities in out-of-hospital death that warrant monitoring and amelioration.",
+    "author": "Eva Tovar Hirashima; Ietza Bojorquez; Carlos Vera Hernandez; David Schriger; Alheli Calderon-Villarreal; Joseph Friedman",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20098186",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20098186"
+    },
+    "title": "Excess Out-Of-Hospital Mortality and Declining Oxygen Saturation: The Sentinel Role of EMS Data in the COVID-19 Crisis in Tijuana, Mexico",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UCLA Medical Scientist Training",
+                    "award-id": [
+                        "GM00804"
+                    ]
+                },
+                {
+                    "funding-source": "NIH NIGMS",
+                    "award-id": [
+                        "GM008042"
+                    ]
+                }
+            ],
+            "funding-statement": "JF received support from the UCLA Medical Scientist Training program (NIH NIGMS training grant GM008042)"
+        }
+    ]
+}

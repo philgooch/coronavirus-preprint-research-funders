@@ -1,0 +1,16 @@
+{
+    "abstract": "Coronavirus disease 2019 (COVID-19) has infected more than 1.3 million individuals all over the world and caused more than 106,000 deaths. One major hurdle in controlling the spreading of this disease is the inefficiency and shortage of medical tests. There have been increasing efforts on developing deep learning methods to diagnose COVID-19 based on CT scans. However, these works are difficult to reproduce and adopt since the CT data used in their studies are not publicly available. Besides, these works require a large number of CTs to train accurate diagnosis models, which are difficult to obtain. In this paper, we aim to address these two problems. We build a publicly-available dataset containing hundreds of CT scans positive for COVID-19 and develop sample-efficient deep learning methods that can achieve high diagnosis accuracy of COVID-19 from CT scans even when the number of training CT images are limited. Specifically, we propose an Self-Trans approach, which synergistically integrates contrastive self-supervised learning with transfer learning to learn powerful and unbiased feature representations for reducing the risk of overfitting. Extensive experiments demonstrate the superior performance of our proposed Self-Trans approach compared with several state-of-the-art baselines. Our approach achieves an F1 of 0.85 and an AUC of 0.94 in diagnosing COVID-19 from CT scans, even though the number of training CTs is just a few hundred.",
+    "author": "Shanghang Zhang; Eric Xing; Xuehai He; Jinyu Zhao; Pengtao Xie; Xingyi Yang; Yichen Zhang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063941",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063941"
+    },
+    "title": "Sample-Efficient Deep Learning for COVID-19 Diagnosis Based on CT Scans",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No"
+        }
+    ]
+}

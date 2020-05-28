@@ -1,0 +1,33 @@
+{
+    "abstract": "Previous studies have demonstrated the characteristics of patients with 2019 novel coronavirus disease (COVID-19). However, the effect of non-pharmaceutical interventions on the epidemic in Shenzhen, China remains unknown. Individual data of 417 cases were extracted from the epidemiological investigations and the National Infectious Disease Information System between January 1, 2020 and February 29, 2020. On the basis of important interventions, the epidemic was divided into four periods (January 1-15, January 16-22, January 23-February 5 and after February 6). We used a susceptible-exposed-infectious-asymptomatic-recovered model to evaluate the effect of interventions. Results suggested that about 53.7% were imported from Wuhan. The median age was 47 years and 52.8% were women. Severity risk increased with age and associated with male and co-existing disorders. The attack rate peaked in the third period and drastically decreased afterwards across sex, age groups and geographic regions. Children younger than 5 years showed a higher attack rate than those aged of 6~19. The effective reproductive number decreased from 1.44 to 0.05 after the highest level emergency response since January 23. Overall, the non-pharmaceutical interventions have effectively mitigated the COVID-19 outbreak in Shenzhen, China. These findings may facilitate the introduction of public health policies in other countries and regions.",
+    "affiliations": [
+        "Overall, the non-pharmaceutical interventions have effectively mitigated the COVID-19 outbreak in Shenzhen, China. These findings may facilitate the introduction of public health policies in other countries and regions",
+        "National Infectious Disease Information System between January 1, 2020 and February 29, 2020, including age, sex, residential district, co-existing disorders, illness severity, source of infection, date of illness onset, hospitalization, and laboratory confirmation in bio-samples"
+    ],
+    "author": "Xu Xie; Lan Wei; Shuyuan Yu; Yuan Li; Yu Wu; Ziquan Lv; Ying Wen; Suli Huang; Tianmu Chen; Xuan Zou; Guohong Zhou; Dongfeng Kong; Xiaojian Liu; Zhen Zhang; Shujiang Mei; Xiaoliang Wu; Tiejian Feng; Xiujuan Tang; Yongsheng Wu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20084202",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20084202"
+    },
+    "title": "Evolving Epidemiology and Effect of Non-pharmaceutical Interventions on the Epidemic of Coronavirus Disease 2019 in Shenzhen, China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Open Fund of Shenzhen Bay",
+                    "award-id": [
+                        "SZBL202002271004"
+                    ]
+                },
+                {
+                    "funding-source": "SanMing Projiect of Medicine in Shenzhen",
+                    "award-id": [
+                        "SZSM201811070"
+                    ]
+                }
+            ],
+            "funding-statement": "Open Fund of Shenzhen Bay laboratory(SZBL202002271004) SanMing Projiect of Medicine in Shenzhen (SZSM201811070)."
+        }
+    ]
+}

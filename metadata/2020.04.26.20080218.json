@@ -1,0 +1,16 @@
+{
+    "abstract": "In this work, we proposed a variant of the SIR model, taking as based on models used to describe the epidemic outbreak in South Korea and Portugal, to study the SARS-CoV-2 epidemic curve in Brazil. The model presented here describes with reasonable agreement the number of COVID-19 cases registered in Brazil between February 26 and April 25, 2020 based on the hypothesis that there a large number no notified cases (11 to 1) and variation in contagion rate according to social isolation measures and greater or lesser exposure to the virus (highest rate in beginning from epidemic). To this end, we introduced an exposure factor, called \u03b21/\u03b22, which allows us to describe the influence of factors such as social isolation on dispersal from disease. The results also corroborate a phenomenon observed in countries that registered a high growth in cases in short period of time, to example of Italy, Spain and USA: if isolation measures are imposed late, the total number of cases explodes when the epidemic is approaching from peak, which implies a higher exposure rate in the first days of case registration. The model also predicts that the peak epidemic outbreak in Brazil, based on the number of cases, will occur around May 20, 2020.",
+    "author": "Silvio S. Lacrose Sandes; Leonardo Sousa Silva; Augusto S. Freitas",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20080218",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20080218"
+    },
+    "title": "New S.I.R. model used in the projection of COVID 19 cases in Brazil",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

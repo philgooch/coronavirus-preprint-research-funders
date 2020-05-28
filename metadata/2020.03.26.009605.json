@@ -1,0 +1,28 @@
+{
+    "title": "Re-analysis of SARS-CoV-2 infected host cell proteomics time-course data by impact pathway analysis and network analysis. A potential link with inflammatory response",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "inflammatory response",
+        "proteomics"
+    ],
+    "author": "Ignacio Ortea, Jens-Ole Bock",
+    "date": 2020,
+    "affiliations": [
+        "Instituto de Investigaci\u00f3n",
+        "Innovaci\u00f3n Biom\u00e9dica de C\u00e1diz (INiBICA), C\u00e1diz 11009, Spain",
+        "Cobo Technologies Aps, Maaloev 2760, Denmark",
+        "Corresponding author:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.26.009605",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.26.009605.pdf"
+    },
+    "abstract": "The disease known as coronavirus disease 19 (COVID-19), potentially caused by an outbreak of the severe acute respiratory syndrome-coronavirus 2 (SARS-CoV-2) in Wuhan, China, has hit the world hard, and has led to an unprecedent health and economic crisis. In order to develop treatment options able to stop or ameliorate SARS-CoV-2 effects, we need to understand the biology of the virus inside cells, but this kind of studies are still scarce. A recent study investigated translatome and proteome host cell changes induced in vitro by SARS-CoV-2. In the present study, we use the publicly available proteomics data from this study to re-analyze the mechanisms altered by the virus infection by impact pathways analysis and network analysis. Proteins linked to inflammatory response, but also proteins related to chromosome segregation during mitosis, were found to be regulated. The up-regulation of the inflammatory-related proteins observed could be linked to the propagation of inflammatory reaction and lung injury that is observed in advanced stages of COVID-19 patients.",
+    "funding": [
+        {}
+    ]
+}

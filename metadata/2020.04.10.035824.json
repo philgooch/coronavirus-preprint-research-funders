@@ -1,0 +1,43 @@
+{
+    "title": "Scutellaria baicalensis extract and baicalein inhibit replication of SARS-CoV-2 and its 3C-like protease in vitro",
+    "author": "Liang Hao",
+    "date": 2020,
+    "affiliations": [
+        "Peking-Tsinghua Center for Life Sciences at College of Chemistry and Molecular Engineering, Peking University, Beijing 100871, China",
+        "MHC Key Laboratory of Biosafety, National Institute for Viral Disease Control and Prevention, China CDC, Beijing 102206, China",
+        "Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, Beijing 100871, China. # These authors contribute equally",
+        "Luhua Lai College of Chemistry and Molecular Engineering Peking University, Beijing 100871, China",
+        "Wenjie Tan NHC Key Laboratory of Biosafety, National Institute for Viral Disease Control and Prevention China CDC, Beijing 102206, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.10.035824",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.10.035824.pdf"
+    },
+    "abstract": "COVID-19 has become a global pandemic that threatens millions of people worldwide. There is an urgent call for developing effective drugs against the virus (SARS-CoV-2) causing this disease. The main protease of SARS-CoV-2, 3C-like protease (3CLpro), is highly conserved across coronaviruses and is essential for the maturation process of viral polyprotein. Scutellariae radix (Huangqin in Chinese), the root of Scutellaria baicalensis has been widely used in traditional Chinese medicine to treat viral infection related symptoms. The extracts of S. baicalensis have exhibited broad spectrum antiviral activities. We studied the anti-SARS-CoV-2 activity of S. baicalensis and its ingredient compounds. We found that the ethanol extract of S. baicalensis inhibits SARS-CoV-2 3CLpro activity in vitro and the replication of SARS-CoV-2 in Vero cells with an EC50 of 0.74  g/ml. Among the major components of S. baicalensis, baicalein strongly inhibits SARS-CoV-2 3CLpro activity with an IC50 of 0.39  M. We further identified four baicalein analogue compounds from other herbs that inhibit SARS-CoV2 3CLpro activity at microM concentration. Our study demonstrates that the extract of S. baicalensis has effective anti-SARS-CoV-2 activity and baicalein and analogue compounds are strong SARS-CoV-2 3CLpro inhibitors.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Science and Technology of China",
+                    "award-id": [
+                        "2016YFA0502303",
+                        "2016YFD0500301"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "21633001"
+                    ]
+                },
+                {
+                    "funding-source": "Peking University Special Fund for COVID-19"
+                }
+            ],
+            "funding-statement": "This work was supported in part by the Ministry of Science and Technology of China (2016YFA0502303, 2016YFD0500301), the National Natural Science Foundation of China (21633001) and Peking University Special Fund for COVID-19"
+        }
+    ]
+}

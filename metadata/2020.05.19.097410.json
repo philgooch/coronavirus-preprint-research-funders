@@ -1,0 +1,112 @@
+{
+    "title": "The impact of super-spreaders in COVID-19: mapping genome variation worldwide",
+    "keywords": [
+        "COVID-19",
+        "coronavirus",
+        "SARS-CoV-2",
+        "genetic drift",
+        "bottlenecks",
+        "super-spreaders",
+        "natural selection"
+    ],
+    "author": "ANTIA SALAS VEGA",
+    "date": 2020,
+    "affiliations": [
+        "Unidade de Xen\u00e9tica, Instituto de Ciencias Forenses (INCIFOR), Facultade de",
+        "Universidade de Santiago de Compostela, and GenPoB Research Group, Instituto de Investigaciones Sanitarias (IDIS), Hospital Cl\u00ednico Universitario de Santiago (SERGAS), 15706, Galicia, Spain",
+        "Genetics, Vaccines and Pediatric Infectious Diseases Research Group (GENVIP), Instituto de Investigaci\u00f3n Sanitaria de Santiago (IDIS) and Universidad de Santiago de Compostela (USC), 15706, Galicia, Spain",
+        "Translational Pediatrics and Infectious Diseases, Department of Pediatrics, Hospital Cl\u00ednico Universitario de Santiago de Compostela (SERGAS), 15706, Galicia, Spain #Equally contributed",
+        "Correspondence:",
+        "Central Hospital of Wuhan on 26 December 2019; this patient experienced severe respiratory syndrome. The authors identified a new RNA virus strain belonging to the family Coronaviridae that was subsequently designated as \u2018WH-Hum 1 coronavirus\u2019 (and also \u20182019-nCoV\u2019). According to Coutard et al. (2020) the nearest bat precursor would be RaTG13 with a genome identity to SARS-CoV-2 of 98%. Phylogenetic studies supported the theory of a natural origin for SARSCoV-2 (Andersen et al. 2020)",
+        "The China National Center for Bioinformation keeps an updated resource on COVID -19 (https://bigd.big.ac.cn/ncov/tool/annotation; (Zhao et al. 2020) and provides different analytical tools to study SARS-CoV-2 variation. The open-source project Nextstrain (https://nextstrain.org; (Hadfield et al. 2018) provides an interactive web portal that allows navigating SARS-CoV-2 genome variation and helps track the spread of disease outbreaks"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.19.097410",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.19.097410.pdf"
+    },
+    "abstract": "The human pathogen severe acute respiratory syndrome coronavirus 2 (SARSCoV-2) is responsible for the major pandemic of the 21st century. We analyzed >4,700 SARS-CoV-2 genomes and associated meta-data retrieved from public repositories. SARS-CoV-2 sequences have a high sequence identity (>99.9%), which drops to >96% when compared to bat coronavirus. We built a mutationannotated reference SARS-CoV-2 phylogeny with two main macro-haplogroups, A and B, both of Asian origin, and >160 sub-branches representing virus strains of variable geographical origins worldwide, revealing a uniform mutation occurrence along branches that could complicate the design of future vaccines. The root of SARS-CoV-2 genomes locates at the Chinese haplogroup B1, with a TMRCA dating to 12 November 2019 - thus matching epidemiological records. Sub-haplogroup A2a originates in China and represents the major non-Asian outbreak. Multiple bottleneck episodes, most likely associated with superspreader hosts, explain COVID-19 pandemic to a large extent. Keywords: COVID-19; coronavirus, SARS-CoV-2; genetic drift; bottlenecks; super-spreaders; natural selection",
+    "hyperbole": [
+        "It is remarkable that a few haplotypes are disproportionally represented in continental regions or in particular countries (Supplementary Material; Figure S10), appearing abruptly in a few days\u2019 period. This pattern is compatible with super-spreaders arriving to certain geographic locations and giving rise to severe founder effects (Figure 3A). Haplotypes #H1, #H2, #H3, and #H4 (ID\u2019s as in Table S8) are the most frequently repeated ones. H1 (n = 163; haplogroup A2a4), represents one of the main haplotypes responsible for the introduction or the pandemic in Europe (104/163; 63.80%), with particular frequency in the UK (35/163; 21.47%) and Belgium (23/163; 14.11%); it is also prevalent in North America (with a one week delay; 15/163 13.50%), and Australia (18/163; 11.04%). H2 (n = 133; A2a2a) occurs also in Europe at high frequency (75/133; 56.39%; 34 times in Iceland) and in North America (48/133; 35.82%; mostly in USA with 45 occurrences). H3 (n = 132; B1a1) appears at remarkably high frequency and almost exclusively in USA (126/132; 95.45%; B1a1). H4 (n = 78; A) corresponds to the reference sequence (GenBank acc. no MN908947.3) and it reaches the highest frequency in Asia (60/78; 76.92%), particularly in China (49/78; 62.82%); the frequency of H4 increased in two pulses, one coinciding with its first appearance in China at the end of December 2019, and the next coinciding with the large Asian outbreak in mid-February 2020; later, H4 moved to other non-Asian locations, e.g. USA (10/78; 12.82%).",
+        "but with a remarkable 14\u201315 days\u2019 delay in reported cases per day worldwide with respect to the EBPS distribution (Figure 3B).",
+        "occur with remarkable frequency in the dataset and became founders in restricted regions or countries in short time periods (of a few days)."
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Instituto de Salud Carlos"
+                },
+                {
+                    "funding-source": "Instituto de Salud Carlos",
+                    "award-id": [
+                        "PI16/01478/C"
+                    ]
+                },
+                {
+                    "funding-source": "Cofinanciado FEDER)"
+                },
+                {
+                    "funding-source": "DIAVIR"
+                },
+                {
+                    "funding-source": "Instituto de Salud Carlos",
+                    "award-id": [
+                        "DTS19/00049/C"
+                    ]
+                },
+                {
+                    "funding-source": "Cofinanciado FEDER; Proyecto"
+                },
+                {
+                    "funding-source": "Desarrollo Tecnol\u00f3gico"
+                },
+                {
+                    "funding-source": "Instituto de Salud Carlos",
+                    "award-id": [
+                        "PI19/01039/C"
+                    ]
+                },
+                {
+                    "funding-source": "Cofinanciado FEDER)",
+                    "award-id": [
+                        "PRIS-3"
+                    ]
+                },
+                {
+                    "funding-source": "Agencia de Conocimiento"
+                },
+                {
+                    "funding-source": "Servicio Gallego de Salud"
+                },
+                {
+                    "funding-source": "Xunta de Galicia; Spain"
+                },
+                {
+                    "funding-source": "Instituto de Salud Carlos",
+                    "award-id": [
+                        "PI16/01569/C"
+                    ]
+                },
+                {
+                    "funding-source": "Cofinanciado FEDER)"
+                },
+                {
+                    "funding-source": "Instituto de Salud Carlos",
+                    "award-id": [
+                        "PI19/01090/C"
+                    ]
+                },
+                {
+                    "funding-source": "Cofinanciado FEDER)"
+                },
+                {
+                    "funding-source": "GISAID"
+                }
+            ],
+            "funding-statement": "This study received support from the Instituto de Salud Carlos III: project GePEM (Instituto de Salud Carlos III(ISCIII)/PI16/01478/Cofinanciado FEDER), DIAVIR (Instituto de Salud Carlos III(ISCIII)/DTS19/00049/Cofinanciado FEDER; Proyecto de Desarrollo Tecnol\u00f3gico en Salud) and Resvi-Omics (Instituto de Salud Carlos III(ISCIII)/PI19/01039/Cofinanciado FEDER) and project BIBACVIR (PRIS-3; Agencia de Conocimiento en Salud (ACIS)\u2014Servicio Gallego de Salud (SERGAS)\u2014Xunta de Galicia; Spain) given to A.S.; and project ReSVinext (Instituto de Salud Carlos III(ISCIII)/PI16/01569/Cofinanciado FEDER), and Enterogen (Instituto de Salud Carlos III(ISCIII)/ PI19/01090/Cofinanciado FEDER) given to F.M.-T. We gratefully acknowledge GISAID and contributing laboratories for giving us access to the SARS-CoV-2 genomes used in the present study"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Rigidity, normal modes and flexible motion of a SARS-CoV-2 (COVID-19) protease structure",
+    "author": "Affiliation: Email: Dr.Stephen A. Wells Department of Chemical Engineering, University of Bath, BA, 7AY, UK. saw,@bath.ac.uk",
+    "date": 2020,
+    "affiliations": [
+        "Wells Department of Chemical Engineering, University of Bath, BA2 7AY, UK",
+        "University of Bath research data archive at https://researchdata.bath.ac.uk/772/ [11] with DOI https://doi.org/10.15125/BATH-00772"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.10.986190",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.10.986190.pdf"
+    },
+    "abstract": "The rigidity and flexibility of two recently reported crystal structures (PDB entries 6Y2E and 6LU7) of a protease from the SARS-CoV-2 virus, the infectious agent of the COVID-19 respiratory disease, has been investigated using pebble-game rigidity analysis, elastic network model normal mode analysis, and all-atom geometric simulations. This computational investigation of the viral protease follows protocols that have been effective in studying other homodimeric enzymes. The protease is predicted to display flexible motions in vivo which directly affect the geometry of a known inhibitor binding site and which open new potential binding sites elsewhere in the structure. A database of generated PDB files representing natural flexible variations on the crystal structures has been produced and made available for download from an institutional data archive. This information may inform structure-based drug design and fragment screening efforts aimed at identifying specific antiviral therapies for the treatment of COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Research Council"
+                },
+                {
+                    "funding-source": "European Union\u2019s Horizon",
+                    "award-id": [
+                        "648283"
+                    ]
+                }
+            ],
+            "funding-statement": "SAW has received funding from the European Research Council (ERC) under the European Union\u2019s Horizon 2020 research and innovation programme (grant agreement No 648283 \u201cGROWMOF\u201d, PI: Prof"
+        }
+    ]
+}

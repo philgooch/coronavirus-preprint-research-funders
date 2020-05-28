@@ -1,0 +1,38 @@
+{
+    "abstract": "Aims: The question of interactions between the renin angiotensin aldosterone system drugs and the incidence and prognosis of COVID-19 infection has been raised by the medical community. We hypothesised that if patients treated with ACE inhibitors (ACEI) or AT1 receptor blockers (ARB) were more prone to SARS-CoV2 infection and had a worse prognosis than untreated patients, the prevalence of consumption of these drugs would be higher in patients with COVID-19 compared to the general population. Methods and results: We used a clinical epidemiology approach based on the estimation of standardised prevalence ratio (SPR) of consumption of ACEI and ARB in four groups of patients (including 187 COVID-19 positive) with increasing severity referred to the University hospital of Lille and in three French reference samples (the exhaustive North population (n=1,569,968), a representative sample of the French population (n=414,046), a random sample of Lille area (n=1,584)). The SPRs of ACEI and ARB did not differ as the severity of the COVID-19 patients increased, being similar to the regular consumption of these drugs in the North of France population with the same non-significant increase for both treatment (1.17 [0.83-1.67]). A statistically significant increase in the SPR of ARB (1.56 [1.02-2.39]) was observed in intensive care unit patients only. After stratification on obesity, this increase was limited to the high risk subgroup of obese patients. Conclusions: Our results strongly support the recommendation that ACEI and ARB should be continued in the population and in COVID-19 positive patients, reinforcing the position of several scientific societies.",
+    "affiliations": [
+        "Centre Hospitalier Universitaire de Lille (CHU Lille), the Lille University, the Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale (Inserm) and the Institut Pasteur de Lille"
+    ],
+    "author": "Aline Meirhaeghe; Julien Poissy; Thierry Plagnieux; Victoria Gauthier; Karine Faure; Alain Facon; Sophie Panaget; Marc Lambert; C\u00e9cile Yelnik; Florent Verfaillie; Patrick Goldstein; Philippe Amouyel; Daniel Mathieu; Luc Dauchet",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20078071",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20078071"
+    },
+    "title": "ACE inhibitors, AT1 receptor blockers and COVID-19: clinical epidemiology evidences for a continuation of treatments. The ACER-COVID study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Centre Hospitalier Universitaire de Lille",
+                    "award-id": [
+                        "CHU Lille"
+                    ]
+                },
+                {
+                    "funding-source": "CHU Lille)"
+                },
+                {
+                    "funding-source": "Lille University,"
+                },
+                {
+                    "funding-source": "Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale"
+                },
+                {
+                    "funding-source": "Institut Pasteur de Lille"
+                }
+            ],
+            "funding-statement": "This work was supported by the Centre Hospitalier Universitaire de Lille (CHU Lille), the Lille University, the Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale (Inserm) and the Institut Pasteur de Lille"
+        }
+    ]
+}

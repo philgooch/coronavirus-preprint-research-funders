@@ -1,0 +1,23 @@
+{
+    "abstract": "During a burgeoning outbreak of a novel disease, public attention will ordinarily expand as the severity of the outbreak expands--as infections multiply and news reports accumulate. Such public attention will in turn reinforce tactics to control the outbreak. In classical epidemiological models, effects of such tactics can be incorporated in standard parameters of transmission, recovery, and mortality. Unfortunately, early in an outbreak those individual parameters may be poorly known, hence corresponding models can get lost in uncertainty. This makes it difficult to determine whether the disease is spreading exponentially or logistically, or along another path. Examining cases over time is also problematic, as a logistically growing infection that is leveling off appears exponential in early phases. Here we report on the most basic mechanistic, ecological model we can imagine, which can help distinguish growth that is and is not under control. This approach did a satisfactory job predicting the final outcome of the Ebola outbreak of 2014-15. The model's two parameters were computable in real time, well before the outcome was actually known. The first parameter is an intrinsic rate of increase in cumulative deaths or reported cases. The second parameter is related to the human social system and represents all tactics that combine to control the outbreak. That parameter is coupled to the number of cumulative deaths or cases. We examine the basic mechanisms operating in this model and show the predictions made during the Ebola outbreak. We also consider how this basic model is performing for the Covid-19 pandemic and highlight ecological models that align with popularly discussed concepts such as flatten-the-curve, exponential growth, and inflection points of curves.",
+    "affiliations": [
+        "University of Minnesota Institute on the Environment. No external funding was received"
+    ],
+    "author": "Shelby W Loberg; Clarence Lehman",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20056754",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20056754"
+    },
+    "title": "Applying the unified models of ecology to forecast epidemics, with application to Covid-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Minnesota Institute on the Environment"
+                }
+            ],
+            "funding-statement": "Work was supported in part by the University of Minnesota Institute on the Environment"
+        }
+    ]
+}

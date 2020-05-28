@@ -1,0 +1,16 @@
+{
+    "abstract": "In light of supply chain failures for reagents and consumables needed for purification of nucleic acid for detection of SARS-CoV-2 RNA by RT-PCR, we aim to verify the performance and utility of a non-extraction protocol for RT-PCR (\"direct RT-PCR\"). We report improved sensitivity compared to earlier reports of direct RT-PCR testing of swab samples, in particular at the lower limit of detection (sensitivity 93% overall; 100% for specimens with high to moderate viral titre, Ct <34; 81% for specimens with a low viral titre, Ct \u226534). Sensitivity is improved (from 90 to 93%) by testing in duplicate. We recommend swabs are re-suspended in water to minimise PCR inhibition. A cellular target is necessary to control for PCR inhibition and specimen quality. Direct RT-PCR is best suited to population level screening where results are not clinically actionable, however in the event of a critical supply chain failure direct RT-PCR is fit for purpose for the detection of SARS-CoV-2 infection. The results from our study offer front-line laboratories additional reagent options for performing extraction-free RT-PCR protocols.",
+    "author": "Kathryn Harris; Divya Shah; Julianne R Brown; Laura Atkinson",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20085910",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20085910"
+    },
+    "title": "Validation of an extraction-free RT-PCR protocol for detection of SARS-CoV2 RNA",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

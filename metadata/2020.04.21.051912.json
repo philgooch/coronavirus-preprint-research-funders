@@ -1,0 +1,43 @@
+{
+    "title": "Human iPSC-Derived Cardiomyocytes are Susceptible to SARS-CoV-2 Infection",
+    "author": "Arun Sharma",
+    "date": 2020,
+    "affiliations": [
+        "Governors Regenerative Medicine Institute, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA",
+        "Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA",
+        "Department of Molecular and Medical Pharmacology, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA",
+        "Eli and Edythe Broad Center of Regenerative Medicine and Stem Cell Research, University of California, Los Angeles, Los Angeles, CA 90095, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.21.051912",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.21.051912.pdf"
+    },
+    "abstract": "(150 words): Coronavirus disease 2019 (COVID-19) is a viral pandemic caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). COVID-19 is predominantly defined by respiratory symptoms, but cardiac complications including arrhythmias, heart failure, and viral myocarditis are also prevalent. Although the systemic ischemic and inflammatory responses caused by COVID-19 can detrimentally affect cardiac function, the direct impact of SARS-CoV-2 infection on human cardiomyocytes is not well-understood. We used human induced pluripotent stem cellderived cardiomyocytes (hiPSC-CMs) as a model system to examine the mechanisms of cardiomyocyte-specific infection by SARS-CoV-2. Microscopy and immunofluorescence demonstrated that SARS-CoV-2 can enter and replicate within hiPSC-CMs, localizing at perinuclear locations within the cytoplasm. Viral cytopathic effect induced hiPSC-CM apoptosis and cessation of beating after 72 hours of infection. These studies show that SARS-CoV-2 can infect hiPSC-CMs in vitro, establishing a model for elucidating the mechanisms of infection and potentially a cardiac-specific antiviral drug screening platform.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "coronavirus",
+        "induced pluripotent stem cells",
+        "viral myocarditis",
+        "cardiomyocytes",
+        "cardiovascular biology",
+        "heart",
+        "stem cell"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Arun Sharma",
+                    "award-id": [
+                        "T32 HL116273"
+                    ]
+                }
+            ],
+            "funding-statement": "Arun Sharma is supported by an institutional training grant (T32 HL116273)"
+        }
+    ]
+}

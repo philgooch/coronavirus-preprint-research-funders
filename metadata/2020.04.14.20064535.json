@@ -1,0 +1,24 @@
+{
+    "abstract": "Rapid and accurate tests that detect IgM and IgG antibodies to SARS-CoV-2 proteins are essential in slowing the spread of COVID-19 by identifying patients who are infected with COVID-19. Using a SARS-CoV-2 proteome microarray developed in our lab, we comprehensively profiled both IgM and IgG antibodies in forty patients with early-stage COVID-19, influenza, or non-influenza who had similar symptoms. The results revealed that the SARS-CoV-2 N protein is not an ideal biomarker for COVID-19 diagnosis because of its low immunogenicity, thus tests that rely on this marker alone will have a high false negative rate. Our data further suggest that the S protein subunit 1 receptor binding domain (S1-RBD) might be the optimal antigen for IgM antibody detection, while the S protein extracellular domain (S1+S2ECD) would be the optimal antigen for both IgM and IgG antibody detection. Notably, the combination of all IgM and IgG biomarkers can identify 87% and 73.3% COVID-19 patients, respectively. Finally, the COVID-19-specific antibodies are significantly correlated with the clinical indices of viral infection and acute myocardial injury (p\u22640.05). Our data may help understand the function of anti-SARS-CoV-2 antibodies and improve serology tests for rapid COVID-19 screening.",
+    "affiliations": [
+        "State Key Laboratory of Proteomics (SKLP-C202001, SKLP-O201703 and SKLP-K201505), the Beijing Municipal Education Commission, National Natural Science Foundation of China (81671618, 81871302, 81673040, 31870823), the National Program on Key Basic Research Project (2018YFA0507503, 2017YFC0906703 and 2018ZX09733003) and the CAMS Initiative for Innovative Medicine (2017-I2M-3-001 and 2017-I2M-B&R-01)"
+    ],
+    "author": "Minya Lu; Yongzhe Li; Jiayu Dai; Xin Hou; Xiaomei Zhang; Xiaobo Yu; Te Liang; Yingchun Xu; Xian Wu; Dan Wang; Hu Duan; Hongye Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20064535",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20064535"
+    },
+    "journal": "State Key Laboratory of Proteomics",
+    "title": "Proteome-wide analysis of differentially-expressed SARS-CoV-2 antibodies in early COVID-19 infection",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding Statement the State Key Laboratory"
+                }
+            ],
+            "funding-statement": "<strong>Funding Statement the State Key Laboratory of</strong>"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Background Hydroxychloroquine is being administered among patients with COVID19 infection in many healthcare systems across the world considering its in vitro effect against the SARS CoV 2 virus. In spite of several observational studies and a few randomized controlled trials, the effect of hydroxychloroquine on patients with COVID 19 infection remains unclear. We undertook this systematic review with meta-analysis to evaluate the efficacy and safety of hydroxychloroquine among patients with COVID 19 infection. Methods We searched PubMed, Embase, the Cochrane Library, Web of Science, medRxiv, and other relevant resources until May 13, 2020. We included randomized controlled trials and observational studies in which hydroxychloroquine was adminstered and compared to a control group. Data were extracted, and quality assessment of the studies was carried out. We evaluated symptomatic progression, mortality, viral clearance, the evolution of changes on chest CT imaging, and adverse events. A fixed or random-effects model was used depending on outcome heterogeneity. Results We included eleven studies including, three randomized controlled trials and eight observational studies. Among these, 2354 patients received hydroxychloroquine alone or in combination, while 1952 did not. Mortality was reported at different points of time. The overall mortality was not significantly different among patients who received hydroxychloroquine compared to the control group (OR: 1.41, 95% CI: 0.76 to 2.62; p = 0.28). Clinical worsening or lack of symptomatic improvement did not differ between patients who received hydroxychloroquine compared to those who did not (OR 1.1, 95% CI: 0.6 to 2.02; p = 0.76). Viral clearance, assessed by RT-PCR, did not differ significantly between the hydroxychloroquine and the control groups (OR: 1.13, CI: 0.26 to 5.01; p = 0.87). The evolution of changes on chest CT imaging was reported only in two studies; a more pronounced improvement was observed with the use of hydroxychloroquine compared to standard care (OR: 2.68, CI: 1.1 to 6.6; P = 0.03). The incidence of adverse events was significantly higher with hydroxychloroquine (OR: 4.1, CI: 1.42 to 11.88; p = 0.009). Conclusions Our meta-analysis does not suggest improvement in clinical progression, mortality, or viral clearance by RT PCR among patients with COVID 19 infection who are treated with hydroxychloroquine. There was a significantly higher incidence of adverse events with hydroxychloroquine use.",
+    "author": "Gagan Brar; Jose Chacko; Robert Premkumar",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20101774",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20101774"
+    },
+    "title": "Hydroxychloroquine in COVID-19: A systematic review and meta-analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding or services received"
+        }
+    ]
+}

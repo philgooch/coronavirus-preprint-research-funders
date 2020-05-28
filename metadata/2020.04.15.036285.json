@@ -1,0 +1,37 @@
+{
+    "title": "Genome based Evolutionary study of SARS-CoV-2 towards the Prediction of Epitope Based Chimeric Vaccine",
+    "author": "Mst Rubaiat Nazneen Akhand, Kazi Faizul Azim, Syeda Farjana Hoque, Mahmuda Akther Moli, Bijit Das Joy, Hafsa Akter, Ibrahim Khalil Afif, Nadim Ahmed, Mahmudul Hasan",
+    "date": 2020,
+    "affiliations": [
+        "Faculty of Biotechnology and Genetic Engineering, Sylhet Agricultural University, Sylhet3100, Bangladesh",
+        "Department of Biochemistry and Chemistry, Sylhet Agricultural University, Sylhet-3100, Bangladesh",
+        "Department of Microbial Biotechnology, Sylhet Agricultural University, Sylhet-3100, Bangladesh",
+        "Department of Pharmaceuticals and Industrial Biotechnology, Sylhet Agricultural University, Sylhet-3100",
+        "Department of Genetic Engineering and Biotechnology, Noakhali Science and Technology University, Noakhali, Bangladesh",
+        "Hasan Assistant Professor Department of Pharmaceuticals and Industrial Biotechnology Faculty of Biotechnology and Genetic Engineering Sylhet Agricultural University, Sylhet-3100",
+        "Chinese Center for Diseases Control and Prevention (2020) revealed that the prevalence of COVID-19 is more apparent in the people ages 50 years rather than the lower age groups (Jeong-ho et al., 2020). High fever and Lymphocytopenia were found more common in Covid-19, though the frequency of the patient without fever condition is also higher than in the earlier outbreaks caused by SARS-CoV (1%) and MERS-CoV (2%) (Huang et al., 2020; Chen et al., 2020)"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.15.036285",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.15.036285.pdf"
+    },
+    "abstract": "SARS-CoV-2 is known to infect the neurological, respiratory, enteric, and hepatic systems of human and has already become an unprecedented threat to global healthcare system. COVID-19, the most serious public condition caused by SARS-CoV-2 leads the world to an uncertainty alongside thousands of regular death scenes. Unavailability of specific therapeutics or approved vaccine has made the recovery of COVI-19 more troublesome and challenging. The present in silico study aimed to predict a novel chimeric vaccines by simultaneously targeting four major structural proteins via the establishment of ancestral relationship among different strains of coronaviruses. Conserved regions from the homologous protein sets of spike glycoprotein (S), membrane protein (M), envelope protein and nucleocapsid protein (N) were identified through multiple sequence alignment. The phylogeny analyses of whole genome stated that four proteins (S, E, M and N) reflected the close ancestral relation of SARS-CoV-2 to SARS-COV-1 and bat coronavirus. Numerous immunogenic epitopes (both T cell and B cell) were generated from the common fragments which were further ranked on the basis of antigenicity, transmembrane topology, conservancy level, toxicity and allergenicity pattern and population coverage analysis. Top putative epitopes were combined with appropriate adjuvants and linkers to construct a novel multiepitope subunit vaccine against COVID-19. The designed constructs were characterized based on physicochemical properties, allergenicity, antigenicity and solubility which revealed the superiority of construct V3 in terms safety and efficacy. Essential molecular dynamics and Normal Mode analysis confirmed minimal deformability of the refined model at molecular level. In addition, disulfide engineering was investigated to accelerate the stability of the protein. Molecular docking study ensured high binding affinity between construct V3 and HLA cells, as well as with different host receptors. Microbial expression and translational efficacy of the constructs were checked using pET28a(+) vector of E. coli strain K12. The development of preventive measures to combat COVID-19 infections might be aided the present study. However, the in vivo and in vitro validation might be ensured with wet lab trials using model animals for the implementation of the presented data.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "Chimeric Vaccine",
+        "Evolutionary Relationship",
+        "Normal Mode Analysis",
+        "Molecular Docking",
+        "Restriction cloning"
+    ],
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Funding information This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors."
+        }
+    ]
+}

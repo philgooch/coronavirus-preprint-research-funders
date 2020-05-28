@@ -1,0 +1,51 @@
+{
+    "abstract": "To date, no specific estimate of R0 for SARS-CoV-2 is available for healthcare settings. Using inter-individual contact data, we highlight that R0 estimates from the community cannot translate directly to healthcare settings, with pre-pandemic R0 values ranging 1.3-7.7 in three illustrative healthcare institutions. This has implications for nosocomial Covid-19 control.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Research Agency projects SPHINX (# 17-CE36-0008-01) and MOD-COV. DS is also supported by",
+        "Canadian Institutes for Health Research doctoral foreign study award (Funding Reference Number 164263)"
+    ],
+    "author": "Niccolo Buetti; Philippe Vanhems; David RM Smith; Lulla Opatowski; Pascal Crepey; Modelling COVID-19 in hospitals REACTinG AVIESAN working group; Didier Guillemot; Laura TEMIME; Rodolphe Thiebaut; Jean-Ralph Zahar; Audrey Duval; Marie-Paule Gustin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072462",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072462"
+    },
+    "title": "ESTIMATING R0 OF SARS-COV-2 IN HEALTHCARE SETTINGS",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "French government"
+                },
+                {
+                    "funding-source": "National Research Agency",
+                    "award-id": [
+                        "# 17-CE36-0008-01"
+                    ]
+                },
+                {
+                    "funding-source": "SPHINX",
+                    "award-id": [
+                        "# 17-CE36-0008-01",
+                        "MOD-COV"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was funded in part by the French government through the National Research Agency projects SPHINX (# 17-CE36-0008-01) and MOD-COV"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Canadian Institutes for Health Research"
+                },
+                {
+                    "funding-source": "Funding Reference Number",
+                    "award-id": [
+                        "164263"
+                    ]
+                }
+            ],
+            "funding-statement": "DS is also supported by a Canadian Institutes for Health Research doctoral foreign study award (Funding Reference Number 164263)"
+        }
+    ]
+}

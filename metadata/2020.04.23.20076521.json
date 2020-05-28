@@ -1,0 +1,86 @@
+{
+    "abstract": "Understanding the geographical distribution of COVID-19 through the general population is key to the provision of adequate healthcare services. Using self-reported data from 2,266,235 unique GB users of the COVID Symptom Tracker app, we find that COVID-19 prevalence and severity became rapidly distributed across the UK within a month of the WHO declaration of the pandemic, with significant evidence of urban hot-spots. We found a geo-social gradient associated with disease severity and prevalence suggesting resources should focus on urban areas and areas of higher deprivation. Our results demonstrate use of self-reported data to inform public health policy and resource allocation.",
+    "author": "Claire J Steves; Carole H Sudre; Darioush Yarand; M Jorge Cardoso; Ellen J Thompson; Benjamin Murray; Thomas Varsavsky; Ruth Bowyer; Joan Capdevila; Elco Bakker; Jonathan Wolf; Cristina Menni; Tim D Spector; Maxim Freidin; Richard Davies; Sajaysurya Ganesh; Sebastien Ourselin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076521",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076521"
+    },
+    "title": "Geo-social gradients in predicted COVID-19 prevalence and severity in Great Britain: results from 2,266,235 users of the COVID-19 Symptoms Tracker app",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Zoe Global"
+                }
+            ],
+            "funding-statement": "This work was supported by Zoe Global"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Department of Twin Research"
+                },
+                {
+                    "funding-source": "Wellcome Trust, Medical"
+                },
+                {
+                    "funding-source": "Research Council, European"
+                },
+                {
+                    "funding-source": "Chronic Disease Research Foundation"
+                },
+                {
+                    "funding-source": "Zoe Global Ltd and the National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Clinical Research Facility and Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "NHS Foundation Trust in"
+                },
+                {
+                    "funding-source": "College London"
+                }
+            ],
+            "funding-statement": "The Department of Twin Research is funded by the Wellcome Trust, Medical Research Council, European Union, Chronic Disease Research Foundation (CDRF), Zoe Global Ltd and the National Institute for Health Research (NIHR)-funded BioResource, Clinical Research Facility and Biomedical Research Centre based at Guy\u0092s and St Thomas\u0092 NHS Foundation Trust in partnership with King\u0092s College London"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chronic Disease Research Foundation and"
+                },
+                {
+                    "funding-source": "MRC Aim-Hy"
+                }
+            ],
+            "funding-statement": "CM is funded by the Chronic Disease Research Foundation and by the MRC Aim-Hy project grant"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Society Junior Fellowship",
+                    "award-id": [
+                        "AS-JF-17-011"
+                    ]
+                },
+                {
+                    "funding-source": "EPSRC Centre for Medical Engineering",
+                    "award-id": [
+                        "WT203148/Z/16/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Flagship Programme",
+                    "award-id": [
+                        "WT213038/Z/18/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "CHS is an Alzheimer\u0092s Society Junior Fellowship AS-JF-17-011; SO and MJC are funded by the Wellcome/EPSRC Centre for Medical Engineering (WT203148/Z/16/Z), Wellcome Flagship Programme (WT213038/Z/18/Z)"
+        }
+    ]
+}

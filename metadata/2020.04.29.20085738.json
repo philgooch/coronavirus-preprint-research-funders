@@ -1,0 +1,102 @@
+{
+    "abstract": "Immune checkpoint inhibitors (ICIs) are used for the treatment of numerous cancers, but risks associated with ICI-therapy during the COVID-19 pandemic are poorly understood. We report a case of acute lung injury in a lung cancer patient initially treated for ICI-pneumonitis and later found to have concurrent SARS-CoV-2 infection. Post-mortem analyses revealed diffuse alveolar damage in both the acute and organizing phases, with a predominantly CD68+ inflammatory infiltrate. Serum was positive for anti-SARS-CoV-2 IgG, suggesting that viral infection predated administration of ICI-therapy and may have contributed to a more fulminant clinical presentation. These data suggest the need for routine SARS-CoV-2 testing in cancer patients, where clinical and radiographic evaluations may be non-specific.",
+    "author": "Cindy L. Lowe; Brian I. Rini; Melissa A. Warren; Michael J. Noto; Madan Jagasia; Prasad R. Kopparapu; Suman R. Das; Brent C. Sterling; Paula I. Gonzalez-Ericsson; Robert D. Hoffman; Justin M. Balko; Kelli L. Boyd; Hunter M. Brown; Wade T. Iams; Christine M. Lovly; Meghan E. Kapp; Douglas B. Johnson",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20085738",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20085738"
+    },
+    "title": "Rapidly fatal pneumonitis from immunotherapy and concurrent SARS-CoV-2 infection in a patient with newly diagnosed lung cancer",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Array Biopharma, BMS"
+                },
+                {
+                    "funding-source": "BMS and Incyte"
+                }
+            ],
+            "funding-statement": "D.B.J. is a consultant/advisory board member for Array Biopharma, BMS, Jansen, Merck, and Novartis, and receives research funding from BMS and Incyte"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bristol Myers Squibb,"
+                },
+                {
+                    "funding-source": "Incyte Corporation,"
+                }
+            ],
+            "funding-statement": "J.M.B. receives research support from Genentech/Roche, Bristol Myers Squibb, and Incyte Corporation, and has received consulting/expert witness fees from Novartis"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "PTC Therapeutics,"
+                }
+            ],
+            "funding-statement": "B.I.R. receives research funding from Merck, Roche, Pfizer, AVEO, Peloton, BMS, Astra-Zeneca, owns stock in PTC Therapeutics, and has done consulting for Merck, Roche, Pfizer, AVEO, Peloton, BMS, Arravive, 3D Medicines, Synthorx"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Gilead Sciences"
+                }
+            ],
+            "funding-statement": "M.J.N received research funding from Gilead Sciences"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Lung Cancer Foundation of America"
+                },
+                {
+                    "funding-source": "International Association for the Study of Lung Cancer Lori Monroe Scholarship, NCI",
+                    "award-id": [
+                        "R01CA227833",
+                        "P30-CA086485",
+                        "UG1CA233259",
+                        "U54CA217450-01",
+                        "U01CA224276-01",
+                        "P01CA129243-12"
+                    ]
+                }
+            ],
+            "funding-statement": "C.M.L. was supported by Lung Cancer Foundation of America / International Association for the Study of Lung Cancer Lori Monroe Scholarship, NCI R01CA227833, P30-CA086485, UG1CA233259, U54CA217450-01, U01CA224276-01, and P01CA129243-12"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "S10OD016355",
+                        "P30-CA086485"
+                    ]
+                }
+            ],
+            "funding-statement": "K.L.B. was supported by S10OD016355 and P30-CA086485"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "1R01CA227481"
+                    ]
+                }
+            ],
+            "funding-statement": "J.M.B and D.B.J were supported by NIH/NCI 1R01CA227481"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NCI Vanderbilt Clinical Oncology Research Career Development Award",
+                    "award-id": [
+                        "2K12CA090625-17"
+                    ]
+                }
+            ],
+            "funding-statement": "W.T.I. was supported by NCI Vanderbilt Clinical Oncology Research Career Development Award (VCORCDP) 2K12CA090625-17"
+        }
+    ]
+}

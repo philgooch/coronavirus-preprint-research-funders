@@ -1,0 +1,42 @@
+{
+    "abstract": "Due to supply chain disruption, the COVID-19 pandemic has caused severe shortages in personal protective equipment (PPE) for health care professionals. Local fabrication based on 3D printing is one way to address this challenge, particularly in the case of simple products such as protective face shields. As a consequence, many public domain designs for face shields have become available. No clear path exists, however, for introducing a locally fabricated and unapproved product into a clinical setting. In a US health care setting, face shields are regulated by the Food and Drug Administration (FDA); similar policies exist in other countries. We describe a research protocol under which rapid iteration on an existing design, coupled with clinical feedback and real-world testing in an emergency department, allowed a face shield to be adopted by the incident command team at a major academic medical center. We describe our design and testing process and provide an overview of regulatory considerations associated with fabrication and testing of face shields and related products. All designs, materials used, testing protocols, and survey results are reported in full to facilitate the execution of similar face shield efforts in other clinical settings. Our work serves as a case study for development of a robust local response to pandemics and other health care emergencies, with implications for healthcare professionals, hospital administrators, regulatory agencies and concerned citizens.",
+    "affiliations": [
+        "Harvard MIT Center for Regulatory Sciences and by NIH/NCI grants U54-CA225088 (to PKS, NL and DP) and by T32-GM007753 (to DP) and by the Harvard Ludwig Center. MJA is a recipient of the Friends of McGovern Graduate Fellowship"
+    ],
+    "author": "Sherry H. Yu; Christopher Van; Philip D. Anderson; Arash Mostaghimi; Peter Sorger; Michael S. Sinha; Leanne Smith; Brandon Beller; Nicole R. LeBoeuf; Edward W. Boyer; Deborah Plana; Helen Yang; Richard Oakley; Marc-Joseph Antonini; Jacob Freake; Amber Fannin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20061960",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20061960"
+    },
+    "title": "Rapid prototyping and clinical testing of a reusable face shield for health care workers responding to the COVID-19 pandemic",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Harvard MIT Center for Regulatory Sciences and",
+                    "award-id": [
+                        "NIH/NCI",
+                        "U54-CA225088"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "U54-CA225088"
+                    ]
+                },
+                {
+                    "funding-source": "NL and DP)",
+                    "award-id": [
+                        "T32-GM007753"
+                    ]
+                },
+                {
+                    "funding-source": "Harvard Ludwig Center"
+                }
+            ],
+            "funding-statement": "This work was also supported by the Harvard MIT Center for Regulatory Sciences and by NIH/NCI grants U54-CA225088 (to PKS, NL and DP) and by T32-GM007753 (to DP) and by the Harvard Ludwig Center"
+        }
+    ]
+}

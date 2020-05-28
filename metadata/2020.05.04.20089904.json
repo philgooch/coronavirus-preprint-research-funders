@@ -1,0 +1,27 @@
+{
+    "abstract": "Background. Identifying the association between medications taken prior to the infection of coronavirus disease (COVID-19) might be useful during the current pandemic until a proven treatment is developed. We aimed to determine whether the risk of developing COVID-19 was associated with the use of various drugs that may increase or decrease susceptibility to severe acute respiratory syndrome coronavirus 2 infection and COVID-19. Methods and Findings: A case-control study was performed using a nationwide claims database of South Korea, where a large testing capacity has been available throughout the pandemic. Exposure was defined as the prescription of study drugs that would have been continued until 7 days before the testing for COVID-19. Adults were considered eligible if they were >=18 years old and tested for COVID-19. Among the 65,149 eligible subjects (mean age, 48.3 years; 49.4% male), 5,172 (7.9%) were diagnosed with COVID-19. Hydroxychloroquine was not significantly associated with the risk of COVID-19 (adjusted odds ratio [aOR], 1.48; 95% CI, 0.95-2.31). In the overall population, lower risks of COVID-19 were associated with the use of camostat (aOR, 0.45; 95% CI, 0.20-1.02) and amiodarone (aOR, 0.54; 95% CI, 0.33-0.89), although the differences were not significant in the subgroup analyses. Angiotensin receptor blockers were also associated with a slightly increased risk of COVID-19 (aOR, 1.13; 95% CI, 1.01-1.26), which was also not observed in the subgroup analysis. The study limitations include potential bias regarding the controls' characteristics, inability to determine prescription compliance, and a lack of information regarding the severity of underlying conditions. Conclusions. No medications were consistently associated with increased or decreased risks of COVID-19. These findings suggest that a more cautious approach is warranted for the clinical use of re-purposed drugs until the results are available from clinical trials.",
+    "affiliations": [
+        "Gachon University Gil Medical Center (grant nos. 2018-17 and 2019-11). The sponsor of the study was not involved in the study design, analysis, and interpretation of data; writing of the report; or the decision to submit the study results for publication"
+    ],
+    "author": "Wonjun Ji; Seon Yeong Gong; Jaehun Jung; Hyoseon Choi; Rugyeom Lee; Yewon Na; Minsun Kang; Jinwook Hong; Gi Hwan Bae; Kyungmin Huh",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20089904",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20089904"
+    },
+    "title": "Association of previous medications with the risk of COVID-19: a nationwide claims-based study from South Korea",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Gachon University Gil Medical Center",
+                    "award-id": [
+                        "2018-17",
+                        "2019-11"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by grants from the Gachon University Gil Medical Center (grant nos. 2018-17 and 2019-11)"
+        }
+    ]
+}

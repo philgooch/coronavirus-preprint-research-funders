@@ -1,0 +1,27 @@
+{
+    "abstract": "We develop a simple analytical method to estimate the fraction of unreported infections in epidemics with a known epicenter and estimate the number of unreported COVID-19 infections in the US during the first half of March 2020. Our method utilizes the covariation in initial reported infections across US regions and the number of travelers to these regions from the epicenter, along with the results of a randomized testing study in Iceland. We estimate that 4%-14% (1.5%-10%) of actual infections had been reported in US up to March 16, accounting for an assumed reporting lag of 8 (5) days.\nCompeting Interest Statement",
+    "affiliations": [
+        "Becker Friedman Institute at the University of Chicago for financial support",
+        "Becker Friedman Institute at the University of Chicago for financial support"
+    ],
+    "author": "Ali Hortacsu; Timothy Schwieg; Jiarui Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063511",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063511"
+    },
+    "title": "Estimating the Fraction of Unreported Infections in Epidemics with a Known Epicenter: an Application to COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Becker Friedman Institute"
+                },
+                {
+                    "funding-source": "University of Chicago for"
+                }
+            ],
+            "funding-statement": "We thank the Becker Friedman Institute at the University of Chicago for financial support"
+        }
+    ]
+}

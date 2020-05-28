@@ -1,0 +1,49 @@
+{
+    "title": "Unsupervised cluster analysis of SARS-CoV-2 genomes reflects its geographic progression and identifies distinct genetic subgroups of SARS-CoV-2 virus",
+    "author": "Georg Hahn, Sanghun Lee, Scott T. Weiss, and Christoph Lange",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biostatistics, T.H. Chan School of Public Health, Harvard University, Boston, MA 02115, USA",
+        "Department of Medical Consilience, Graduate School, Dankook University, South Korea",
+        "Channing Division of Network Medicine, Department of Medicine, Brigham and Women\u2019s Hospital, and Harvard Medical School, Boston, MA 02115"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.05.079061",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.05.079061.pdf"
+    },
+    "abstract": "Over 10,000 viral genome sequences of the SARS-CoV-2 virus have been made readily available during the ongoing coronavirus pandemic since the initial genome sequence of the virus was released on the open access Virological website (http://virological.org/) early on January 11. We utilize the published data on the single stranded RNAs of 11, 132 SARS-CoV-2 patients in the GISAID (Elbe and Buckland-Merrett, 2017; Shu and McCauley, 2017) database, which contains fully or partially sequenced SARS-CoV-2 samples from laboratories around the world. Among many important research questions which are currently being investigated, one aspect pertains to the genetic characterization/classification of the virus. Here, we analyze data on the nucleotide sequencing of the virus and geographic information of a subset of 2, 540 SARS-CoV-2 patients without missing entries that are available in the GISAID database. We apply principal component analysis to a similarity matrix that compares all pairs of the 2, 540 SARS-CoV-2 nucleotide sequences at all loci simultaneously, using the Jaccard index (Jaccard, 1901; Tan et al., 2005; Prokopenko et al., 2016; Schlauch et al., 2017). Our analysis results of the SARS-CoV-2 genome data illustrates the geographic progression of the virus, starting from the first cases that were observed in China to the current wave of cases in Europe and North America. We also observe that, based on their sequence data, the SARS-CoV-2 viruses cluster in distinct genetic subgroups. It is the subject of ongoing research to examine whether the genetic subgroup could be related to diseases outcome and its potential implications for vaccine development. \u2217Department of Biostatistics, T.H. Chan School of Public Health, Harvard University, Boston, MA 02115, USA \u2020Department of Medical Consilience, Graduate School, Dankook University, South Korea \u2021Channing Division of Network Medicine, Department of Medicine, Brigham and Women\u2019s Hospital, and Harvard Medical School, Boston, MA 02115",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Cure Alzheimer\u2019s Fund; Funding"
+                },
+                {
+                    "funding-source": "National Human Genome Research Institute",
+                    "award-id": [
+                        "R01HG008976"
+                    ]
+                },
+                {
+                    "funding-source": "National Heart, Lung",
+                    "award-id": [
+                        "U01HL089856"
+                    ]
+                },
+                {
+                    "funding-source": "Blood Institute",
+                    "award-id": [
+                        "U01HL089856",
+                        "U01HL089897",
+                        "P01HL120839",
+                        "P01HL132825"
+                    ]
+                }
+            ],
+            "funding-statement": "The initial methodology work for this paper was funded by Cure Alzheimer\u2019s Fund; Funding for this research was provided through the National Human Genome Research Institute [R01HG008976]; and the National Heart, Lung, and Blood Institute [U01HL089856, U01HL089897, P01HL120839, P01HL132825]."
+        }
+    ]
+}

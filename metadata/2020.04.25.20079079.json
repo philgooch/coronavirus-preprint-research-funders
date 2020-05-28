@@ -1,0 +1,41 @@
+{
+    "abstract": "Objectives: This study aimed to evaluate the antiviral efficacy of lopinavir/ritonavir alone or combined with arbidol in the treatment of hospitalized patients with common coronavirus disease-19 (COVID-19). Methods: In this retrospective observational study, COVID-19 hospitalized patients were identified and divided into two groups based on the antiviral agents used during their hospitalization. Group-LR patients were treated with single antiviral drug of lopinavir-ritonavir. Group-LR+Ar patients were treated with lopinavir-ritonavir combined with arbidol for antiviral therapy at least 3 days. Patients were assessed for different clinical outcomes. Results: A total of 34 and 39 patients were identified for Group-LR and Group-LR+Ar, respectively. Treatment with lopinavir-ritonavir alone was not difference from lopinavir-ritonavir combined with arbidol in overall cure rate of COVID-19 hospitalized patients (92.3% and 97.1%, respectively). In a modified intention-to-treat analysis, lopinavir-ritonavir combined with abidol led to a median time of hospital stay that was shorter by 1.5 days than group-LR (12.5 days vs. 14 days). The percentages of COVID-19 RNA clearance was 92.3 in group-LR and 97.1 in group-LR+Ar. The mean time of virus turning negative was 11.5 plus-or-minus sign 9.0 days in group-LR+Ar that were longer than group-LR. Treatment of lopinavir-ritonavir combined with arbidol did not significantly accelerate main symptoms improvement and promote the image absorption of pulmonary inflammation. Conclusion: No benefit was observed in the anti-virus effect of lopinavir-ritonavir combined with arbidol compared with lopinavir-ritonavir alone in the hospitalized patients with COVID-19. More clinical observations in COVID-19 patients may help to confirm or exclude the effect of antiviral agents.",
+    "author": "Yanyan Xu; Xiu Lan; Xu Zeng; Chuxiao Shao; Zhenbo Wu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20079079",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.6084/m9.figshare.12195735",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20079079"
+    },
+    "title": "Lopinavir-ritonavir alone or combined with arbidol in the treatment of 73 hospitalized patients with COVID-19: a pilot retrospective study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "High Level Talented Person Cultivating Program of Lishui Science and Technology Bureau",
+                    "award-id": [
+                        "2018RC06"
+                    ]
+                },
+                {
+                    "funding-source": "Zhejiang Provincial Natural Science Foundation of China"
+                }
+            ],
+            "funding-statement": "This work was supported by the High Level Talented Person Cultivating Program of Lishui Science and Technology Bureau under Grant No.2018RC06, Zhejiang Provincial Natural Science Foundation of China under Grant no"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Zhejiang TCM",
+                    "award-id": [
+                        "2013ZB148"
+                    ]
+                }
+            ],
+            "funding-statement": "LY18H300007, and Zhejiang TCM science and technology program under Grant No.2013ZB148"
+        }
+    ]
+}

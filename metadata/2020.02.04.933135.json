@@ -1,0 +1,56 @@
+{
+    "title": "Protein structure and sequence re-analysis of 2019-nCoV genome does not indicate snakes as its intermediate host or the unique similarity between its spike protein insertions and HIV-1",
+    "date": 2020,
+    "author": "Chengxin Zhang, Wei Zheng, Xiaoqiang Huang, Eric W. Bell, Xiaogen Zhou, Yang Zhang",
+    "affiliations": [
+        "Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI 48109, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.04.933135",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.04.933135.pdf"
+    },
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of General Medical Sciences",
+                    "award-id": [
+                        "GM083107",
+                        "GM116960"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases",
+                    "award-id": [
+                        "AI134678"
+                    ]
+                },
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "DBI1564756",
+                        "IIS1901191"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is supported in part by the National Institute of General Medical Sciences (GM083107, GM116960), the National Institute of Allergy and Infectious Diseases (AI134678), and the National Science Foundation (DBI1564756, IIS1901191)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Extreme Science and Engineering Discovery Environment"
+                },
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "ACI-1548562"
+                    ]
+                }
+            ],
+            "funding-statement": "This work used the Extreme Science and Engineering Discovery Environment (XSEDE) 24, which is supported by National Science Foundation (ACI-1548562)"
+        }
+    ]
+}

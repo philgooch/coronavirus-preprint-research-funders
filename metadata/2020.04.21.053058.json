@@ -1,0 +1,37 @@
+{
+    "title": "Inhibition of PIKfyve kinase prevents infection by EBOV and SARS-CoV-2",
+    "date": 2020,
+    "author": "Yuan-Lin Kang, Yi-Ying Chou, Paul W. Rothlauf, Zhuoming Liu, Timothy 5 K. Soh, David Cureton, James Brett Case, Rita E. Chen, Michael S. 6 Diamond, Sean P. J. Whelan, Tom Kirchhausen",
+    "affiliations": [
+        "Department of Cell Biology, Harvard Medical School, 200 Longwood Av, Boston, MA",
+        "Department of Stem Cell and Regenerative Biology, Harvard"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.21.053058",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.21.053058.pdf"
+    },
+    "abstract": "Virus entry is a multistep process. It initiates when the virus attaches to the host cell and ends when the viral contents reach the cytosol. Genetically unrelated viruses can subvert analogous subcellular mechanisms and use similar trafficking pathways for successful entry. Antiviral strategies targeting early steps of infection are therefore appealing, particularly when the probability for successful interference through a common step is highest. We describe here potent inhibitory effects on content release and infection by chimeric VSV containing the envelope proteins of EBOV (VSV-EBOV) or SARS-CoV-2 (VSV49 SARS-CoV-2) elicited by Apilimod and Vacuolin-1, small molecule inhibitors of 50 the main endosomal Phosphatidylinositol-3-Phosphate/Phosphatidylinositol 551 Kinase, PIKfyve. We also describe potent inhibition of SARS-CoV-2 strain 201952 nCoV/USA-WA1/2020 by Apilimod. These results define new tools for studying the intracellular trafficking of pathogens elicited by inhibition of PIKfyve kinase and suggest the potential for targeting this kinase in developing a small-molecule antiviral against SARS-CoV-2.",
+    "keywords": [
+        "COVID-19",
+        "EBOV",
+        "SARS-CoV-2",
+        "inhibition",
+        "Apilimod",
+        "Vacuolin-1",
+        "40 PIKfyve",
+        "pandemic"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of"
+                }
+            ],
+            "funding-statement": "This research was supported by National Institutes of"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "Covid-19 can induce lung infection ranging from mild pneumonia to life-threatening acute respiratory distress syndrome (ARDS). Dysregulated host immune response in the lung is a key feature in ARDS pathophysiology. However, cellular actors in Covid-19-driven ARDS are poorly understood. Here, we dynamically analyzed the biology of innate T cells, a heterogeneous class (MAIT, \u03b3\u03b4T and iNKT cells) of T lymphocytes, presenting potent anti-infective and regulatory functions. Patients presented a compartmentalized lung inflammation paralleled with a limited systemic inflammation. Circulating innate T cells of critically ill Covid-19 patients presented a profound and persistent phenotypic and functional alteration. Highly activated innate T cells were detected in airways of patients suggesting a recruitment to the inflamed site and a potential contribution in the regulation of the local inflammation. Finally, the expression of the CD69 activation marker on blood iNKT and MAIT cells at inclusion was predictive of disease severity. Thus, patients present an altered innate T cell biology that may account for the dysregulated immune response observed in Covid-19-related acute respiratory distress syndrome.",
+    "affiliations": [
+        "This work was supported by the Inserm, CHRU Tours, University of Tours, the Agence Nationale de la Recherche \"JCJC program\" (ANR-19-325 CE15-0032-01) and by the Fondation du Souffle, with the \"Fond de recherche en Sant\u00e9 Respiratoire\""
+    ],
+    "author": "Thomas Baranek; Robin Jeannet; Pierre-Francois Dequin; Yonatan Perez; Thomas Daix; Stephan Ehrmann; Christophe Paget; Loic Gonzalez; Bruno Francois; Youenn Jouan; Antoine Guillon; Marion Ferreira; Mustapha Si-Tahar",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089300",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089300"
+    },
+    "title": "Functional alteration of innate T cells in critically ill Covid-19 patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "CHRU Tours, University"
+                },
+                {
+                    "funding-source": "Agence Nationale de la Recherche",
+                    "award-id": [
+                        "ANR-19-325 CE15-0032-01"
+                    ]
+                },
+                {
+                    "funding-source": "Fondation du Souffle,"
+                },
+                {
+                    "funding-source": "Sant\u00e9 Respiratoire\""
+                }
+            ],
+            "funding-statement": "This work was supported by the Inserm, CHRU Tours, University of Tours, the Agence Nationale de la Recherche \"JCJC program\" (ANR-19-325 CE15-0032-01) and by the Fondation du Souffle, with the \"Fond de recherche en Sant\u00e9 Respiratoire\""
+        }
+    ]
+}

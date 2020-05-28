@@ -1,0 +1,16 @@
+{
+    "abstract": "The corona virus, COVID-19, has been spreading rapidly across the USA since early March, but at a decreasing rate, where the rate r is defined as the exponential increase. I modeled the way the rate of increase y = log(exp(r)-1) has declined through time in each of the 51 states with the goal of determining whether state-at-home orders correlate with reductions in the rate of spread of the virus. A piecewise linear regression was used, with a single break point. This model can identify whether there was a change in the rate of decline, when the change happened, and which states have shown the greatest improvement in reducing the spread of COVID-19. The piecewise model identified a significant breakpoint on 24 Mar for all states combined, and all states had nearly the same breakpoint. Prior to 24 Mar, the average change in y was -0.013 per day, meaning a reduction in the rate of spread from 23.5 pct. per day to 19.5 pct. per day; after 24 Mar, the average change in y was -0.070 per day, a reduction from 19.5 pct. per day to 7.5 pct. per day. Prior to 24 Mar there was no significant variation among states in the decline in y, but after 24 Mar there was substantial variation, and the date on which states issued stay at home orders correlated with that variation. Montana, Idaho, and Vermont showed the greatest improvement, while Nebraska, South Dakota, and Iowa the least. The improvement as measured by the reduction after 24 Mar did not correlate with case density in a state, nor state population.",
+    "author": "Richard Condit",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20081752",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20081752"
+    },
+    "title": "Variation among states in reducing coronavirus spread: impact of stay-at-home orders",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was acquired from any other sources for this work."
+        }
+    ]
+}

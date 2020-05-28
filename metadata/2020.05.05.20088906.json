@@ -1,0 +1,23 @@
+{
+    "abstract": "Background COVID19 is worldwide pandemic that is mild in the majority of patients but can result in a pneumonia like illness with progression to acute respiratory distress syndrome and death. Predicting the disease severity at time of diagnosis can be helpful in prioritizing hospital admission and resources. Methods We prospectively recruited 1096 consecutive patients with COVID19 from the Jaber Hospital, a COVID19 facility in Kuwait, between 24 February and 20 April 2020. The primary endpoint of interest was disease severity defined algorithmically. Predefined risk variables were collected at the time of PCR based diagnosis of the infection. Prognostic model development used 5-fold cross-validated regularized logit regression. The cohort was divided into a training and validation cohort and all model development proceeded on the training cohort. Results There were 643 patients with clinical course data of whom 94 developed severe COVID19. In the final model, age, CRP, procalcitonin, lymphocyte and monocyte percentages and serum albumin were independent predictors of a more severe illness course. The final prognostic model demonstrated good discrimination, calibration and internal validity. Conclusion We developed and validated a simple score calculated at time of diagnosis that can predict patients with severe COVID19 disease. Keywords COVID-19, Adverse Outcome, mortality, Procalcitonin, health policy",
+    "author": "Sarah Al Youha; Fahad AlGhimlas; Ali AlMuhaini; Mohammad H. Jamal; Suhail Doi; Muhannad AlHaddad; Salman K. AlSabah; Sulaiman AlMazeedi",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20088906",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20088906"
+    },
+    "keywords": [
+        "COVID-19",
+        "Adverse Outcome",
+        "mortality",
+        "Procalcitonin",
+        "health policy"
+    ],
+    "title": "Predicting Disease Progression in COVID19: A Score Based On Lab Tests At Time Of Diagnosis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding obtained"
+        }
+    ]
+}

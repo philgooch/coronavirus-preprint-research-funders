@@ -1,0 +1,41 @@
+{
+    "abstract": "The recent outbreak of the novel coronavirus SARS-CoV-2, which causes COVID-19, can be diagnosed using RT-qPCR, but inadequate access to reagents and equipment has slowed disease detection and impeded efforts to mitigate viral spread. Alternative approaches based on combinations of isothermal amplification and CRISPR-mediated detection, such as the SHERLOCK ( S pecific H igh S ensitivity E nzymatic R eporter Un LOCK ing) technique, offer reduced dependence on RT-qPCR equipment, but previously reported methods required multiple fluid handling steps, complicating their deployment outside clinical labs. Here we developed a simple test chemistry called STOP (SHERLOCK Testing in One Pot) for detecting SARS-CoV-2 in one hour that is suitable for point-of-care use. This simplified test, STOPCovid, provides sensitivity comparable to RT-qPCR-based SARS-CoV-2 tests and has a limit of detection of 100 copies of viral genome input in saliva or nasopharyngeal swabs per reaction. Using lateral flow readout, the test returns result in 70 minutes, and using fluorescence readout, the test returns result in 40 minutes. Moreover, we validated STOPCovid using nasopharyngeal swabs from COVID-19 patients and were able to correctly diagnose 12 positive and 5 negative patients out of 3 replicates. We envision that implementation of STOPCovid will significantly aid \"test-trace-isolate\" efforts, especially in low-resource settings, which will be critical for long-term public health safety and effective reopening of the society.",
+    "affiliations": [
+        "Broad Institute, with the specific aim of ensuring this technology can be made freely, widely, and rapidly available for research and deployment. O.O.A., J.S.G., and F.Z. are co-founders, scientific advisors, and hold equity interests in Sherlock Biosciences, Inc. F.Z. is also a co-founder of Editas Medicine, Beam Therapeutics, Pairwise Plants, and Arbor Biotechnologies",
+        "Howard Hughes Medical Institute; Open Philanthropy Project; J. and P. Poitras; and R. Metcalfe"
+    ],
+    "author": "Bruce D. Walker; Omar O. Abudayyeh; Makoto Saito; Alim Ladha; Xu Yu; Feng Zhang; Nam-Gyun Kim; Julia Joung; Alexander L. Greninger; Keith R. Jerome; Michael Segel; Jonathan S. Gootenberg; Jonathan Li; Robert Bruneau; Meei-li W Huang",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20091231",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20091231"
+    },
+    "title": "Point-of-care testing for COVID-19 using SHERLOCK diagnostics",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "O.O.A, J.S.G., and F.Z. are supported by the Patrick J"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "1R01- MH110049",
+                        "1DP1-HL141201"
+                    ]
+                },
+                {
+                    "funding-source": "Mathers Foundation;"
+                },
+                {
+                    "funding-source": "Howard Hughes Medical Institute; Open"
+                },
+                {
+                    "funding-source": "Philanthropy Project;"
+                }
+            ],
+            "funding-statement": "F.Z is also supported by the NIH (1R01- MH110049 and 1DP1-HL141201 grants); Mathers Foundation; the Howard Hughes Medical Institute; Open Philanthropy Project; J. and P"
+        }
+    ]
+}

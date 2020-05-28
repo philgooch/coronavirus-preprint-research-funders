@@ -1,0 +1,47 @@
+{
+    "abstract": "Objectives: To examine associations between smoking and COVID-19 relevant outcomes, taking into account the influence of inequalities and adjusting for potential confounding variables. Design: Online cross-sectional survey. Setting: UK. Participants: 53,002 men and women aged \u226518y. Main outcome measures: Confirmed and suspected COVID-19, worry about catching and becoming seriously ill from COVID-19, and adherence to protective behaviours. Socioeconomic position was defined according to highest level of education (post-16 qualifications: yes/no). Results: Compared with never smokers (0.3% [95%CI 0.2-0.3%]), prevalence of confirmed COVID-19 was higher among current (0.6% [0.4-0.8%]) but not ex-smokers (0.2% [0.2-0.3%]). The associations were similar before (current: OR 2.14 [1.49-3.08]; ex-smokers: OR 0.73 [0.47-1.14]) and after (current: OR 1.79 [1.22-2.62]; ex-smokers: OR 0.85 [0.54-1.33]) adjustment for potential confounders. For current smokers, this was moderated by socioeconomic position, with higher rates relative to never smokers only seen in those without post-16 qualifications (OR 3.53 [2.04-6.10]). After including suspected cases, prevalence was higher among current smokers (11.2% [10.6-11.9%], OR 1.11 [1.03-1.20]) and ex-smokers (10.9% [10.4-11.5%], OR 1.07 [1.01-1.15]) than never smokers (10.2% [9.9-10.6%]), but remained higher only among ex-smokers after adjustment (OR 1.21 [1.13-1.29]). Current and ex-smokers had higher odds than never smokers of reporting significant stress about catching (current: OR 1.43 [1.35-1.52]; ex-smokers: OR 1.15 [1.09-1.22]) or becoming seriously ill from COVID-19 (current: OR 1.34 [1.27-1.43]; ex-smokers: OR 1.22 [1.16-1.28]). Adherence to recommendations to prevent the spread of COVID-19 was generally high (96.3% [96.1-96.4%]), but lower among current than never smokers (OR 0.70 [0.62-0.78]). Conclusions: When assessed by self-report in a population sample, current smoking was independently associated with confirmed COVID-19 infection. There were socioeconomic disparities, with the association only apparent among those without post-16 qualifications. Smokers reported lower adherence to guidelines despite being more worried than non-smokers about catching or becoming seriously ill from COVID-19.\nCompeting Interest Statement\nJB has received unrestricted research funding from Pfizer, who manufacture smoking cessation medications. LS has received honoraria for talks, an unrestricted research grant and travel expenses to attend meetings and workshops from Pfizer, and has acted as paid reviewer for grant awarding bodies and as a paid consultant for health care companies. RW undertakes research and consultancy for and receives travel funds and hospitality from manufacturers of smoking cessation medications (Pfizer, GlaxoSmithKline and Johnson and Johnson). All authors declare no financial links with tobacco companies or e-cigarette manufacturers or their representatives.",
+    "author": "Daisy Fancourt; Lion Shahab; Jamie Brown; Andrew Steptoe; Sarah E Jackson",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20086074",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20086074"
+    },
+    "title": "COVID-19, smoking, and inequalities: a cross-sectional survey of adults in the UK",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "JB has received unrestricted research funding from Pfizer, who manufacture smoking cessation medications"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The COVID-19 Social Study"
+                },
+                {
+                    "funding-source": "Nuffield Foundation",
+                    "award-id": [
+                        "WEL/FR-000022583"
+                    ]
+                }
+            ],
+            "funding-statement": "The COVID-19 Social Study was funded by the Nuffield Foundation [WEL/FR-000022583], but the views expressed are those of the authors and not necessarily the Foundation"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "MARCH Mental Health Network"
+                },
+                {
+                    "funding-source": "Cross-Disciplinary Mental Health Network Plus"
+                },
+                {
+                    "funding-source": "UK Research and Innovation",
+                    "award-id": [
+                        "ES/S002588/1"
+                    ]
+                }
+            ],
+            "funding-statement": "The study was also supported by the MARCH Mental Health Network funded by the Cross-Disciplinary Mental Health Network Plus initiative supported by UK Research and Innovation [ES/S002588/1]"
+        }
+    ]
+}

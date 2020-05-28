@@ -1,0 +1,71 @@
+{
+    "abstract": "The pandemic of coronavirus disease 2019 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has affected over 3.8 million people, including pregnant women. To date, no consistent evidence of vertical transmission for SARS-CoV-2 exists. This new coronavirus canonically utilizes the angiotensin-converting enzyme 2 (ACE2) receptor and the serine protease TMPRSS2 for cell entry. Herein, building upon our previous single cell study of the placenta (Pique-Regi, 2019), another study, and new single-cell/nuclei RNA-sequencing data, we investigated the expression of ACE2 and TMPRSS2 throughout pregnancy as well as in third-trimester chorioamniotic membranes. We report that co-transcription of ACE2 and TMPRSS2 is negligible, thus not a likely path of vertical transmission for SARS-CoV-2 at any stage of pregnancy. In contrast, receptors for Zika virus and cytomegalovirus which cause congenital infections are highly expressed by placental cell types. These data suggest that SARS-CoV-2 is unlikely to infect the human placenta through the canonical cell entry mediators; yet, other interacting proteins could still play a role in the viral infection.",
+    "affiliations": [
+        "United States Federal Government"
+    ],
+    "author": "Francesca Luca; Yi Xu; Adi L. Tarca; Chaur-Dong Hsu; Roberto Romero; Roger Pique-Regi; Nardhy Gomez-Lopez; Yaozhu Leng; Adnan Alazizi",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.101485",
+    "identifiers": {
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.18.101485"
+    },
+    "title": "Does the human placenta express the canonical cell entry mediators for SARS-CoV-2?",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Perinatology Research Branch, Division"
+                },
+                {
+                    "funding-source": "Obstetrics and Maternal-Fetal Medicine, Division"
+                },
+                {
+                    "funding-source": "Intramural Research, Eunice"
+                },
+                {
+                    "funding-source": "Kennedy Shriver National Institute of Child Health and Human Development, National"
+                },
+                {
+                    "funding-source": "Institutes of Health,"
+                },
+                {
+                    "funding-source": "U.S Department of Health and Human Services",
+                    "award-id": [
+                        "NICHD/NIH/DHHS"
+                    ]
+                },
+                {
+                    "funding-source": "NICHD/",
+                    "award-id": [
+                        "NIH/DHHS"
+                    ]
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "NICHD/",
+                    "award-id": [
+                        "NIH/DHHS"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "HHSN275201300006C"
+                    ]
+                },
+                {
+                    "funding-source": "Wayne State University Perinatal Initiative in Maternal, Perinatal"
+                },
+                {
+                    "funding-source": "Child Health."
+                },
+                {
+                    "funding-source": "United States Federal Government."
+                }
+            ],
+            "funding-statement": "This research was supported, in part, by the Perinatology Research Branch, Division of Obstetrics and Maternal-Fetal Medicine, Division of Intramural Research, Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, U.S Department of Health and Human Services (NICHD/NIH/DHHS); and, in part, with Federal funds from NICHD/NIH/DHHS under Contract No HHSN275201300006C. N. G-L. is also supported by the Wayne State University Perinatal Initiative in Maternal, Perinatal and Child Health. R. R. has contributed to this work as part of his official duties as an employee of the United States Federal Government."
+        }
+    ]
+}

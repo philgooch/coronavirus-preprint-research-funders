@@ -1,0 +1,36 @@
+{
+    "title": "Deep Sentiment Classification and Topic Discovery on Novel Coronavirus or COVID-19 Online Discussions: NLP Using LSTM Recurrent Neural Network Approach",
+    "date": 2020,
+    "author": "Hamed Jelodar 1 \u00b7 Yongli Wang 1 \u00b7 Rita Orji, \u00b7 Hucheng Huang",
+    "affiliations": [
+        "School of Computer Science and Technology, Nanjing University of Science and Technology, Nanjing 210094, China",
+        "Faculty of Computer Science, Dalhousie University, Halifax, NS, Canada",
+        "School of Computer, Jiangsu University of Science and Technology, Zhenjiang 212003, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.22.054973",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.22.054973.pdf"
+    },
+    "abstract": "Internet forums and public social media, such as online healthcare forums, provide a convenient channel for users (people/patients) concerned about health issues to discuss and share information with each other. In late December 2019, an outbreak of a novel coronavirus (infection from which results in the disease named COVID-19) was reported, and, due to the rapid spread of the virus in other parts of the world, the World Health Organization declared a state of emergency. In this paper, we used automated extraction of COVID-19\u2013related discussions from social media and a natural language process (NLP) method based on topic modeling to uncover various issues related to COVID-19 from public opinions. Moreover, we also investigate how to use LSTM recurrent neural network for sentiment classification of COVID-19 comments. Our findings shed light on the importance of using public opinions and suitable computational techniques to understand issues surrounding COVID-19 and to guide related decision-making.",
+    "keywords": [
+        "Coronavirus",
+        "COVID-19",
+        "Natural Language Processing",
+        "Topic modeling",
+        "Deep Learning"
+    ],
+    "offensive": [
+        "good hope feel house started safe fine hard months live friend wife healthy times kind hit doctor person coming starting people free die times shit happen fuck lives long hate life save care governments wrong economy money dying fucking imagine",
+        "masks medical mask sick wearing public wear supply face shortage surgical hands protect prevent protection workers effective gloves infected doctors coronavirus shut quarantine corona years national wait words stupid mind happening bet shit heard word source watch sound dangerous common pay tax money years companies employees company leave insurance bill paid taxes paying healthcare free job cost business afford income test market testing confirmed tested numbers tests free symptoms negative positive cases flu day cdc doctor kits cough fever labs virus test flu confirmed country control china spread countries singapore sars human pandemic epidemic chinese global infected remember bad subreddit fucking lmao fuck supposed government treatment guy ass man tested stupid dumb fucked sell sick canada rate damn takes idiots market war stock global economy buying buy parts years chain supply stocks economic manufacturing deaths goods production panic markets run pretty food shit literally america month american guys stay real love live reddit life americans full usa realize death dude trump states cdc corona president federal government pandemic covid united country pence coronavirus americans administration hoax response national america million school closed kids weeks schools care flu husband home travel parents students family cdc close closing sick told children stay weeks yesterday measures action stop economy panic spread school absolutely link closed close country early expect public moment lockdown fine home stores sick essential working company workers businesses store told stay grocery business jobs employees paid job restaurants weeks customers food store buy days water stuff stock supply buying panic supplies stocked rice family bought canned weeks prepping eat prepared",
+        "shit\u201d, \u201dwatch\u201d, and \u201ddangerous\u201d, thus pertaining to the phenomenon \u201dquarantine issues\u201d. The terms \u201dcoronavirus\u201d and \u201dquarantine\u201d were the most highlighted words, with word-weights of 0.0353% and 0.0346%, respectively.",
+        "because you refused to identify this as a pandemic fucking fucks .",
+        "So much bullshit one thread alone. scary times .",
+        "fucking[0] fucks[-2][-2 LastWordBoosterStrength] [[Sentence=-5,1=word max, 1-5]][[[1,-5 max of sentences]]] so[0] much[0] bullshit[-2] one[0] thread[0] alone[0] [[Sentence=-3,1=word max, 1-5]] scary[-3] times[0] [[Sentence=-4,1=word max, 1-5]][[[1,-4 max of sentences]]] i[0] heard[0] radio[0] likely[0] official[0] guidance[0] next[0] 10[0] 14[0] days[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]] everyone[0] wear[0] mask[0] case[0] unintentionally[0] spreading[0] everyone[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]] would[0] kind[1][-1 LastWordBoosterStrength] enough[0] link[0] one[0] studies[0] stories[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]"
+    ],
+    "funding": [
+        {}
+    ]
+}

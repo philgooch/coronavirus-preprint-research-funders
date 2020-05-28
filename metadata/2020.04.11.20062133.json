@@ -1,0 +1,57 @@
+{
+    "abstract": "Objectives: During March 2020, the COVID-19 pandemic has rapidly spread globally, and non-pharmaceutical interventions are being used to reduce both the load on the healthcare system as well as overall mortality. Design: Individual-based transmission modelling using Swedish demographic and Geographical Information System data and conservative COVID-19 epidemiological parameters. Setting: Sweden Participants: A model to simulate all 10.09 million Swedish residents. Interventions: 5 different non-pharmaceutical public-health interventions including the mitigation strategy of the Swedish government as of 10 April; isolation of the entire household of confirmed cases; closure of schools and non-essential businesses with or without strict social distancing; and strict social distancing with closure of schools and non-essential businesses. Main outcome measures: Estimated acute care and intensive care hospitalisations, COVID-19 attributable deaths, and infections among healthcare workers from 10 April until 29 June. Findings: Our model for Sweden shows that, under conservative epidemiological parameter estimates, the current Swedish public-health strategy will result in a peak intensive-care load in May that exceeds pre-pandemic capacity by over 40-fold, with a median mortality of 96,000 (95% CI 52,000 to 183,000). The most stringent public-health measures examined are predicted to reduce mortality by approximately three-fold. Intensive-care load at the peak could be reduced by over two-fold with a shorter period at peak pandemic capacity. Conclusions: Our results predict that, under conservative epidemiological parameter estimates, current measures in Sweden will result in at least 40-fold over-subscription of pre-pandemic Swedish intensive care capacity, with 15.8 percent of Swedish healthcare workers unable to work at the pandemic peak. Modifications to ICU admission criteria from international norms would further increase mortality.",
+    "affiliations": [
+        "Swedish National Infrastructure for Computing (SNIC 2020/5-176) at HPC2N in Ume\u00e5, UPPMAX in Uppsala, NSC in Link\u00f6ping, and PDC in Stockholm, partially funded by the Swedish Research Council through grant agreement no. 2016-07213. The funders had no role in the study design, data collection and analyses, decision to publish, or preparation of the manuscript"
+    ],
+    "author": "Jasmine M Gardner; Nele Brusselaers; Shina Caroline Lynn Kamerlin; Lander Willem; Peter Kasson; Wouter van der Wijngaart",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20062133",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.5281/zenodo.3748120",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20062133"
+    },
+    "title": "Intervention strategies against COVID-19 and their estimated impact on Swedish healthcare capacity",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Foundation Flanders",
+                    "award-id": [
+                        "1234620N"
+                    ]
+                },
+                {
+                    "funding-source": "Epipose project",
+                    "award-id": [
+                        "SC1-P"
+                    ]
+                },
+                {
+                    "funding-source": "PHE- CORONAVIRUS-2020",
+                    "award-id": [
+                        "101003688"
+                    ]
+                }
+            ],
+            "funding-statement": "LW received funding from the Research Foundation Flanders (1234620N) and from the Epipose project from the European Union\u0092s SC1-PHE- CORONAVIRUS-2020 programme (101003688)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "SCLK and PK"
+                },
+                {
+                    "funding-source": "Knut and Alice Wallenberg Foundation",
+                    "award-id": [
+                        "2018.0140",
+                        "2019.0431"
+                    ]
+                }
+            ],
+            "funding-statement": "SCLK and PK received funding from the Knut and Alice Wallenberg Foundation (2018.0140 and 2019.0431)"
+        }
+    ]
+}

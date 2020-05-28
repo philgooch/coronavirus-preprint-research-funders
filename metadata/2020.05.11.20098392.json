@@ -1,0 +1,20 @@
+{
+    "abstract": "This paper has a twofold contribution. The first is a data driven approach for predicting the Covid-19 pandemic dynamics, based on data from more advanced countries. The second is to report and discuss the results obtained with this approach for Brazilian states, as of May 4th, 2020. We start by presenting preliminary results obtained by training an LSTM-SAE network, which are somewhat disappointing. Then, our main approach consists in an initial clustering of the world regions for which data is available and where the pandemic is at an advanced stage, based on a set of manually engineered features representing a country's response to the early spread of the pandemic. A Modified Auto-Encoder network is then trained from these clusters and learns to predict future data for Brazilian states. These predictions are used to estimate important statistics about the disease, such as peaks. Finally, curve fitting is carried out on the predictions in order to find the distribution that best fits the outputs of the MAE, and to refine the estimates of the peaks of the pandemic. Results indicate that the pandemic is still growing in Brazil, with most states peaks of infection estimated between the 25th of April and the 19th of May 2020. Predicted numbers reach a total of 240 thousand infected Brazilians, distributed among the different states, with Sao Paulo leading with almost 65 thousand estimated, confirmed cases. The estimated end of the pandemics (with 97 % of cases reaching an outcome) starts as of May 28th for some states and rests through August 14th, 2020.",
+    "author": "Andouglas Goncalves Silva; Luiz M.G. Goncalves; Joris M Guerin; Gabriel Santos Garcia; Igor Gadelha Pereira; Cosimo Distante",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20098392",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20098392"
+    },
+    "title": "Forecasting Covid-19 dynamics in Brazil: a data driven approach",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "CAPES"
+                }
+            ],
+            "funding-statement": "This research is supported by CAPES under research grant 001 and by CNPq, research sponsoring agencies from Brazil"
+        }
+    ]
+}

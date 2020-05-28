@@ -1,0 +1,27 @@
+{
+    "title": "Genomic, geographic and temporal distributions of SARS-CoV-2 mutations",
+    "author": "Shuler, Megan",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Statistical Science, Academia Sinica, Taipei, Taiwan",
+        "Institute of Biological Chemistry, Academia Sinica, Taipei, Taiwan"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.22.055863",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.22.055863.pdf"
+    },
+    "abstract": "The COVID-19 pandemic is the most significant public health issue in recent history. Its causal agent, SARS-CoV-2, has evolved rapidly since its first emergence in December 2019. Mutations in the viral genome have critical impacts on the adaptation of viral strains to the local environment, and may alter the characteristics of viral transmission, disease manifestation, and the efficacy of treatment and vaccination. Using the complete sequences of 1,932 SARS-CoV-2 genomes, we examined the genomic, geographic and temporal distributions of aged, new, and frequent mutations of SARS-CoV-2, and identified six phylogenetic clusters of the strains, which also exhibit a geographic preference in different continents. Mutations in the form of single nucleotide variations (SNVs) provide a direct interpretation for the six phylogenetic clusters.",
+    "keywords": [
+        "COVID-19",
+        "mutation",
+        "phylogenetic tree",
+        "evolutionary process",
+        "case fatality"
+    ],
+    "funding": [
+        {}
+    ]
+}

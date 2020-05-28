@@ -1,0 +1,66 @@
+{
+    "title": "The genomic variation landscape of globally-circulating clades of SARS-CoV-2 defines a genetic barcoding scheme",
+    "date": 2020,
+    "author": "Qingtian Guan, Mukhtar Sadykov, Raushan Nugmanova, Michael J. Carr, Stefan T. 4 Arold, Arnab Pain, 5 6 1King Abdullah University of Science and Technology (KAUST), Pathogen Genomics 7 Laboratory, Biological and Environmental Science and Engineering (BESE), Thuwal, Jeddah, 23955-6900, Saudi Arabia; 9 2National Virus Reference Laboratory (NVRL), School of Medicine, University College 10 Dublin, Belfield, Dublin 4, Ireland; 11 3Research Center for Zoonosis Control, Global Institution for Collaborative Research and 12 Education (GI-CoRE); Hokkaido University, N20 W10 Kita-ku, Sapporo, 001-0020 Japan; 13 4King Abdullah University of Science and Technology (KAUST), Computational 14 Bioscience Research Center (CBRC), Biological and Environmental Science and 15 Engineering (BESE), Thuwal-Jeddah, 23955-6900, Saudi Arabia; 16 5Centre de Biochimie Structurale, CNRS, INSERM, Universit\u00e9 de Montpellier, 34090 17 Montpellier, France; 18 6Nuffield Division of Clinical Laboratory Sciences (NDCLS), The John Radcliffe Hospital, 19 University of Oxford, Headington, Oxford, OX, 9DU, United Kingdom. 20 21 *Correspondence: Arnab Pain Email: arnab.pain@kaust.edu.sa. King Abdullah 22 University of Science and Technology, Jeddah, Saudi Arabia. Phone: (+966) 54 470 0687 23",
+    "affiliations": [
+        "King Abdullah University of Science and Technology (KAUST), Pathogen Genomics",
+        "Laboratory, Biological and Environmental Science and Engineering (BESE), Thuwal8 Jeddah, 23955-6900, Saudi Arabia; 9",
+        "National Virus Reference Laboratory (NVRL), School of Medicine, University College",
+        "Dublin, Belfield, Dublin 4, Ireland; 11",
+        "Research Center for Zoonosis Control, Global Institution for Collaborative Research and",
+        "Education (GI-CoRE); Hokkaido University, N20 W10 Kita-ku, Sapporo, 001-0020 Japan; 13",
+        "King Abdullah University of Science and Technology (KAUST), Computational",
+        "Bioscience Research Center (CBRC), Biological and Environmental Science and",
+        "Engineering (BESE), Thuwal-Jeddah, 23955-6900, Saudi Arabia; 16",
+        "Centre de Biochimie Structurale, CNRS, INSERM, Universit\u00e9 de Montpellier, 34090",
+        "Montpellier, France; 18",
+        "Nuffield Division of Clinical Laboratory Sciences (NDCLS), The John Radcliffe Hospital",
+        "University of Oxford, Headington, Oxford, OX3 9DU, United Kingdom. 20 21",
+        "Correspondence: Arnab Pain"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.21.054221",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.21.054221.pdf"
+    },
+    "abstract": "D and V) of globally-circulating viral populations, representing 85.7% of all sequenced cases, which we can identify using a 10 nucleotide genetic classifier or barcode. We applied this barcode to 4,000 additional genomes deposited between March 31st and April 15th and classified successfully 95.6% of the clades demonstrating the utility of this approach. An analysis of amino acid variation in SARS-CoV-2 ORFs provided evidence of substitution events in the viral proteins involved in both host-entry and genome replication. The systematic monitoring of dynamic changes in the SARS-CoV-2 genomes of circulating virus populations over time can guide therapeutic and prophylactic strategies to manage and contain the virus and, also, with available efficacious antivirals and vaccines, aid in the monitoring of circulating genetic diversity as we proceed towards elimination of the agent.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "King Abdullah University of Science and Technology"
+                },
+                {
+                    "funding-source": "Office of Sponsored Research",
+                    "award-id": [
+                        "FCC/1/1976-25-01"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by funding from King Abdullah University of Science and Technology (KAUST), Office of Sponsored Research (OSR), under award number FCC/1/1976-25-01"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Work in AP\u2019s"
+                },
+                {
+                    "funding-source": "KAUST",
+                    "award-id": [
+                        "BAS/1/1020-01- 01"
+                    ]
+                },
+                {
+                    "funding-source": "Office for Sponsored Research",
+                    "award-id": [
+                        "OSR-2015-CRG4-2610",
+                        "OCRF-2014-CRG3-2267"
+                    ]
+                }
+            ],
+            "funding-statement": "Work in AP\u2019s laboratory is supported by the KAUST faculty baseline fund (BAS/1/1020-01- 01) and research grants from the Office for Sponsored Research (OSR-2015-CRG4-2610, OCRF-2014-CRG3-2267)"
+        }
+    ]
+}

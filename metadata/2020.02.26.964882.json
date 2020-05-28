@@ -1,0 +1,74 @@
+{
+    "title": "Structure of Mpro from COVID-19 virus and discovery of its inhibitors",
+    "author": "Zhenming Jin,10, Xiaoyu Du,10, Yechun Xu,10, Yongqiang Deng,10, Meiqin Liu,10, Yao 3 Zhao, Bing Zhang, Xiaofeng Li, Leike Zhang, Chao Peng, Yinkai Duan, Jing Yu, Lin 4 Wang, Kailin Yang, Fengjiang Liu, Rendi Jiang, Xinglou Yang, Tian You, Xiaoce Liu, 5 Xiuna Yang, Fang Bai, Hong Liu, Xiang Liu, Luke W. Guddat, Wenqing Xu, Gengfu 6 Xiao, Chengfeng Qin, Zhengli Shi, Hualiang Jiang, Zihe Rao,* & Haitao Yang,* 7 1Shanghai Institute for Advanced Immunochemical Studies and School of Life Science and 8 Technology, ShanghaiTech University, Shanghai, China. 9 2Laboratory of Structural Biology, School of Life Sciences and School of Medicine, 10 Tsinghua University, Beijing, China. 11 3Drug Discovery and Design Center, Shanghai Institute of Materia Medica, Chinese 12 Academy of Sciences, Shanghai, China. 13 4Department of Virology, State Key Laboratory of Pathogen and Biosecurity, Beijing 14 Institute of Microbiology and Epidemiology, Academy of Military Medical Sciences, 15 Beijing, China. 16 5CAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for 17 Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, China. 18 6National Facility for Protein Science in Shanghai, Zhangjiang Lab, Shanghai Advanced 19 Research Institute, Chinese Academy of Science, Shanghai, China. 20 7Taussig Cancer Center, Cleveland Clinic, Cleveland, USA. 21 8State Key Laboratory of Medicinal Chemical Biology, Frontiers Science Center for Cell 22 Response, College of Life Sciences, College of Pharmacy, Nankai University, Tianjin, 23 China. 24 9School of Chemistry and Molecular Biosciences, the University of Queensland, Brisbane, 25 Australia. 26 10These authors contributed equally: Zhenming Jin, Xiaoyu Du, Yechun Xu, Yongqiang 27 Deng, Meiqin Liu. 28 *e-mail: hljiang@simm.ac.cn; raozh@mail.tsinghua.edu.cn; yanght@shanghaitech.edu.cn",
+    "date": 2020,
+    "affiliations": [
+        "Shanghai Institute for Advanced Immunochemical Studies and School of Life Science and",
+        "Technology, ShanghaiTech University, Shanghai, China. 9",
+        "Laboratory of Structural Biology, School of Life Sciences and School of Medicine",
+        "Tsinghua University, Beijing, China. 11",
+        "Drug Discovery and Design Center, Shanghai Institute of Materia Medica, Chinese",
+        "Academy of Sciences, Shanghai, China. 13",
+        "Department of Virology, State Key Laboratory of Pathogen and Biosecurity, Beijing",
+        "Institute of Microbiology and Epidemiology, Academy of Military Medical Sciences",
+        "Beijing, China. 16",
+        "CAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for",
+        "Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, China. 18",
+        "National Facility for Protein Science in Shanghai, Zhangjiang Lab, Shanghai Advanced",
+        "Research Institute, Chinese Academy of Science, Shanghai, China. 20",
+        "Taussig Cancer Center, Cleveland Clinic, Cleveland, USA. 21",
+        "State Key Laboratory of Medicinal Chemical Biology, Frontiers Science Center for Cell 22 Response, College of Life Sciences, College of Pharmacy, Nankai University, Tianjin, 23 China. 24",
+        "School of Chemistry and Molecular Biosciences, the University of Queensland, Brisbane, 25 Australia. 26",
+        "These authors contributed equally: Zhenming Jin, Xiaoyu Du, Yechun Xu, Yongqiang 27 Deng, Meiqin Liu. 28 *"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.26.964882",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.26.964882.pdf"
+    },
+    "abstract": "A new coronavirus (CoV) identified as COVID-19 virus is the etiological agent responsible for the 2019-2020 viral pneumonia outbreak that commenced in Wuhan1-4. Currently there is no targeted therapeutics and effective treatment options remain very limited. In order to rapidly discover lead compounds for clinical use, we initiated a program of combined structure-assisted drug design, virtual drug screening and high-throughput screening to identify new drug leads that target the COVID-19 virus main protease (Mpro). Mpro is a key CoV enzyme, which plays a pivotal role in mediating viral replication and transcription, making it an attractive drug target for this virus5,6. Here, we identified a mechanism-based inhibitor, N3, by computer-aided drug design and subsequently determined the crystal structure of COVID-19 virus Mpro in complex with this compound. Next, through a combination of structure-based virtual and high-throughput screening, we assayed over 10,000 compounds including approved drugs, drug candidates in clinical trials, and other pharmacologically active compounds as inhibitors of Mpro. Six of these inhibit Mpro with IC50 values ranging from 0.67 to 21.4 \u03bcM. Ebselen also exhibited promising antiviral activity in cell-based assays. Our results demonstrate the efficacy of this screening strategy, which can lead to the rapid discovery of drug leads with clinical potential in response to new infectious diseases where no specific drugs or vaccines are available.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was supported by grants from"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2017YFC0840300 to Z.R."
+                    ]
+                }
+            ],
+            "funding-statement": "National Key R&D Program of China (grant No 2017YFC0840300 to Z.R.), Project of"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "International Cooperation and Exchanges NSFC",
+                    "award-id": [
+                        "81520108019 to Z.R."
+                    ]
+                },
+                {
+                    "funding-source": "Science and Technology Commission of Shanghai Municipality",
+                    "award-id": [
+                        "20431900200"
+                    ]
+                }
+            ],
+            "funding-statement": "International Cooperation and Exchanges NSFC (grant No 81520108019 to Z.R.), Science and Technology Commission of Shanghai Municipality (grant No 20431900200) and"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Science and Technology of Guangxi Zhuang Autonomous Region"
+                }
+            ],
+            "funding-statement": "Department of Science and Technology of Guangxi Zhuang Autonomous Region (grant No"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "abstract": "Vigorous non-pharmaceutical interventions have largely suppressed the COVID-19 outbreak in Wuhan, China. We developed a susceptible-exposed-infectious-recovered model to study the transmission dynamics and evaluate the impact of interventions using 32,583 laboratory-confirmed cases from December 8, 2019 till March 8, 2020, accounting for time-varying ascertainment rates, transmission rates, and population movements. The effective reproductive number R0 dropped from 3.89 (95% credible interval: 3.79-4.00) before intervention to 0.14 (0.11-0.28) after full-scale multi-pronged interventions. By projection, the interventions reduced the total infections in Wuhan by 96.5% till March 8. Furthermore, we estimated that 79% (lower bound: 60%) of the total infections were unascertained, potentially including asymptomatic and mild-symptomatic cases. The probability of resurgence was 0.22 and 0.10 based on models with 79% and 60% infections unascertained, respectively, assuming interventions were lifted after a 14-day period of no new ascertained infections. These results provide important implications for continuing surveillance and interventions to eventually contain the outbreak.",
+    "affiliations": [
+        "Central Universities (2019kfyXMBZ015), the 111 Project (X.H., S.C., D.W., C.W., T.W.). X.L. is supported by Harvard University"
+    ],
+    "author": "Xihong Lin; Shanshan Cheng; Xingjie Hao; Tangchun Wu; Chaolong Wang; Degang Wu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20078436",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20078436"
+    },
+    "title": "Full-spectrum dynamics of the coronavirus disease outbreak in Wuhan, China: a modeling study of 32,583 laboratory-confirmed cases",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities",
+                    "award-id": [
+                        "2019kfyXMBZ015"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was partly supported by the Fundamental Research Funds for the Central Universities (2019kfyXMBZ015), the 111 Project (X.H., S.C., D.W., C.W., T.W.)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Harvard University"
+                }
+            ],
+            "funding-statement": "X.L. is supported by Harvard University"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "abstract": "We modeled the viral dynamics of 13 untreated patients infected with SARS-CoV-2 to infer viral growth parameters and predict the effects of antiviral treatments. In order to reduce peak viral load by more than 2 logs, drug efficacy needs to be greater than 80% if treatment is administered after symptom onset; an efficacy of 50% could be sufficient if treatment is initiated before symptom onset. Given their pharmacokinetic/pharmacodynamic properties, current investigated drugs may be in a range of 20-70% efficacy. They may help control virus if administered very early, but may not have a major effect in severe patients.",
+    "affiliations": [
+        "Department of Energy under contract 89233218CNA000001. We also gratefully acknowledge the support of the U.S. Department of Energy through the LANL/LDRD Program for this work as well as N.I.H. grants R01 AI028433, R01 OD011095, R01 AI078881 and P01 AI131365 (ASP)"
+    ],
+    "author": "Julie Bertrand; Xavier de Lamballerie; Olivier Terrier; Emmanuelle Comets; Patrick Smith; Andr\u00e9s Pizzorno; Denis Malvy; France Mentr\u00e9; J\u00e9r\u00e9mie Guedj; Alan S Perelson; Manuel Rosa Calatrava; Ruian Ke; Antonio Gon\u00e7alves",
+    "date": 2020,
+    "doi": "10.1101/2020.04.04.20047886",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.1001/jama.2020.3204",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.04.20047886"
+    },
+    "title": "Timing of antiviral treatment initiation is critical to reduce SARS-Cov-2 viral load",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Antonio Gon\u00e7alves"
+                },
+                {
+                    "funding-source": "Roche Pharmaceutical Research and Early Development"
+                }
+            ],
+            "funding-statement": "Antonio Gon\u00e7alves was funded by a grant from Roche Pharmaceutical Research and Early Development"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "U.S Department of Energy",
+                    "award-id": [
+                        "LANL/L"
+                    ]
+                },
+                {
+                    "funding-source": "LDRD Program for",
+                    "award-id": [
+                        "AI028433",
+                        "OD011095",
+                        "AI078881",
+                        "AI131365"
+                    ]
+                }
+            ],
+            "funding-statement": "We also gratefully acknowledge the support of the U.S Department of Energy through the LANL/LDRD Program for this work as well as N.I.H. grants R01 AI028433, R01 OD011095, R01 AI078881 and P01 AI131365 (ASP)"
+        }
+    ]
+}

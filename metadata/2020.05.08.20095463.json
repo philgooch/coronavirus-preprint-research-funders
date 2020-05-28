@@ -1,0 +1,16 @@
+{
+    "abstract": "Prediction of infection trends, estimating the efficacy of contact tracing, testing or impact of influx of infected are of vital importance for administration during an ongoing epidemic. Most effective methods currently are empirical in nature and their relation to parameters of interest to administrators are not evident. We thus propose a modified SEIRD model that is capable of modeling effect of interventions and in migrations on the progress of an epidemic. The tunable parameters of this model bear relevance to monitoring of an epidemic. This model was used to show that some of the commonly seen features of cumulative infections in real data can be explained by piece wise constant changes in interventions and population influx. We also show that the data of cumulative infections from twelve Indian states between mid March and mid April 2020 can be generated from the model by applying interventions according to a set of heuristic rules. Prediction for the next ten days based on this model, reproduced real data very well. In addition, our model also reproduced the time series of recoveries and deaths. Our work constitutes an important first step towards an effective dashboard for the monitoring of epidemic by the administration, especially in an Indian context.",
+    "author": "Kousik Sarathy Sridharan; Yashaswini M R; Mohan Raghavan",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095463",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095463"
+    },
+    "title": "Using epidemic simulators for monitoring an ongoing epidemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for this study."
+        }
+    ]
+}

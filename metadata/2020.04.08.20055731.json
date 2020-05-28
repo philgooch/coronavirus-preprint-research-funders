@@ -1,0 +1,20 @@
+{
+    "abstract": "The ongoing pandemic of the novel coronavirus, SARS-CoV-2, has led to a global surge in laboratory testing for the virus. The gold standard approach to detecting an active viral infection is the use of RT-qPCR. This approach requires the isolation of viral RNA from respiratory specimens, such as nasopharyngeal swabs. We developed a method using a widely available lysis buffer coupled with solid-phase reverse immobilization (SPRI) beads to extract viral RNA from swabs collected in viral transport medium (VTM) which can be performed manually or on a Hamilton STAR liquid-handling robot. Using a WHO recommended, laboratory-developed RT-qPCR for SARS-CoV-2, we validated this method in a CAP-accredited laboratory, against the IVD-labelled bioM\u00e9rieux NucliSENS easyMAG automated extraction platform. Our method demonstrates a comparable sensitivity and specificity, making it suitable for large-scale testing and monitoring of suspected COVID-19 cases and healthcare workers. This is especially important as the world faces critical shortages of viral RNA extraction reagents for the existing commercial extraction systems.",
+    "author": "Mahesh K R Kalikiri; Mohammad Rubayet Hasan; Thabisile Xaba; Patrick Tang; Faheem Mirza; Stephan Lorenz",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20055731",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20055731"
+    },
+    "title": "High-throughput extraction of SARS-CoV-2 RNA from nasopharyngeal swabs using solid-phase reverse immobilization beads",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Sidra Medicine"
+                }
+            ],
+            "funding-statement": "The work in this article was solely funded by Sidra Medicine"
+        }
+    ]
+}

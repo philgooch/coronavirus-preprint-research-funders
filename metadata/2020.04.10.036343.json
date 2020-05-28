@@ -1,0 +1,48 @@
+{
+    "title": "CoV Genome Tracker: tracing genomic footprints of Covid-19 pandemic",
+    "author": "Saymon Akther, Edgaras Bezrucenkovas, Brian Sulkow, Christopher Panlasigui, Li Li",
+    "date": 2020,
+    "affiliations": [
+        "Graduate Center, City University of New York, USA",
+        "Department of Biological Sciences",
+        "Hunter College, City University of New York, New York, New York 10065, USA",
+        "Department of Physiology and Biophysics & Institute for Computational Biomedicine, Weil Cornell Medical",
+        "College, New York, New York 10021, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.10.036343",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.10.036343.pdf"
+    },
+    "abstract": "Summary: Genome sequences constitute the primary evidence on the origin and spread of the 2019-2020 Covid-19 pandemic. Rapid comparative analysis of coronavirus SARS-CoV-2 genomes is critical for disease control, outbreak forecasting, and developing clinical interventions. CoV Genome Tracker is a web portal dedicated to trace Covid-19 outbreaks in real time using a haplotype network, an accurate and scalable representation of genomic changes in a rapidly evolving population. We resolve the direction of mutations by using a bat-associated genome as outgroup. At a broader evolutionary time scale, a companion browser provides geneby-gene and codon-by-codon evolutionary rates to facilitate the search for molecular targets of clinical interventions.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Graduate Program in Biology from the Graduate Center, City"
+                },
+                {
+                    "funding-source": "University of New York. This"
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases",
+                    "award-id": [
+                        "AI139782 to W.Q."
+                    ]
+                },
+                {
+                    "funding-source": "National Institutes of Health"
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "United States of America. The"
+                }
+            ],
+            "funding-statement": "S.A. and L.L. are supported in part by the Graduate Program in Biology from the Graduate Center, City University of New York. This work was supported in part by the National Institute of Allergy and Infectious Diseases (NIAID) (AI139782 to W.Q.) of the National Institutes of Health (NIH) of the United States of America. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+        }
+    ]
+}

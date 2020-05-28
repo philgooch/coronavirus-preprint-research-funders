@@ -1,0 +1,23 @@
+{
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) started in Wuhan, China, in December 2019 and became a global pandemic [1]. By 26 April 2020, more than 2.9 million people were infected by SARS-CoV-2 and over 203 thousand people lost their life globally. By 26 April 2020, 107773 confirmed cases were reported in Turkey with 2706 deaths. Majority of the cases in Turkey has been observed in Istanbul. In the world, the duration of availability of SARS-CoV-2 was found to be significantly longer in stool samples than in respiratory and serum samples [2]. SARS-CoV-2 was detected in wastewaters in Australia [3], Netherlands [4], USA [5], France [6], Spain [7] and USA [8] by using different virus concentration techniques. In this work, Istanbul metropole with 65 % of Covid-19 cases was chosen as the pilot city. On the 21st of April 2020, 24-hr composite samples were collected from the Ambarli, Pasakoy and Kadikoy wastewater treatment plants (WWTP). On the 25th of April 2020, more wastewater samples were taken from Terkos, Buyukcekmece, Baltalimani and Tuzla WWTPs. These wastewater treatment plants were selected among 81 plants in Istanbul in order to take representative samples from 4 different districts of Istanbul according to the severity of Covid-19 cases, like very serious, serious, moderate and mild. Grab samples were also collected from Bagcilar and Kartal manholes located nearby the pandemic hospitals on April 21st, 2020. Polyethylene glycol 8000 (PEG 8000) adsorption [5] SARS-Cov-2 concentration method was used for SARS-CoV-2 concentration after optimization. Real time RT-PCR diagnostic panel validated by US was used to quantify SARS-CoV-2 RNA in raw sewage taken from the inlets of treatment plants and manholes. Five samples out of seven from wastewater and all samples from manholes were tested positive. SARS-CoV-2 in raw sewage from Ambarli, Pasakoy, Kadikoy, Terkos, Buyukcekmece, Baltalimani and Tuzla WWTPs were found as 8.26x103, 1.80x104, ND, ND, 3.73x103, 4.95x103, 2.89x103, respectively. The Bagcilar and Kartal manholes nearby pandemic hospitals exhibited 4.49x104 and 9.33x104, respectively. SARS-CoV-2 virus titers of manhole were higher than those of inlet of WWTPs. The observed copy numbers were presented against the number of Covid-19 cases coming to the WWTP per treatment plant capacity. Quantitative measurements of SARS-CoV-2 in wastewater can be used as a tool in wastewater-based epidemiology (WBE) and it can provide information about SARS-CoV-2 distribution in wastewater of various districts of Istanbul which exhibit different scores of Covid-19 cases. The distribution of epidemy was followed not only with blood test but with wastewater monitoring. This may allow us to identify the districts not exhibiting many Covid-19 cases, but under high risk. Continuous monitoring of wastewater for SARS-Cov-2 may provide an early warning signs before an epidemy starts in case of infection resurge.",
+    "author": "Halil Kurt; Ahmet Mete Saatci; Sabri Hacioglu; Bilge Alpaslan Kocamemi; Bekir Pakdemirli; Cevdet Yarali",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089417",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089417"
+    },
+    "title": "First Data-Set on SARS-CoV-2 Detection for Istanbul Wastewaters in Turkey",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Republic of Turkey, Ministry"
+                },
+                {
+                    "funding-source": "Agriculture and Forestry."
+                }
+            ],
+            "funding-statement": "This work was financed by Republic of Turkey, Ministry of Agriculture and Forestry."
+        }
+    ]
+}

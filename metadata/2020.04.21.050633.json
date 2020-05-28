@@ -1,0 +1,51 @@
+{
+    "title": "Rapid SARS-CoV-2 whole genome sequencing for informed public health decision making in the Netherlands",
+    "date": 2020,
+    "author": "Bas B. Oude Munnink, David F. Nieuwenhuijse, Mart Stein, \u00c1ine O\u2019Toole, Manon Haverkate, Madelief Mollers, Sandra K. Kamga, Claudia Schapendonk, Mark Pronk, Pascal Lexmond, Anne van der Linden, Theo Bestebroer, Irina Chestakova, Ronald J. Overmars, Stefan van Nieuwkoop, Richard Molenkamp, Annemiek van der Eijk, Corine GeurtsvanKessel, Harry Vennema, Adam Meijer, Andrew Rambaut, Jaap van Dissel, Reina S. Sikkema, Aura Timen, Marion Koopmans,^*, on behalf of the Dutch-Covid-19 response team",
+    "affiliations": [
+        "Department of Viroscience, WHO collaborating centre for arbovirus and viral hemorrhagic fever Reference and Research, Rotterdam, the Netherlands",
+        "Centre for Infectious Disease Control, National Institute for Public Health and the Environment, Bilthoven, the Netherlands",
+        "University of Edinburgh"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.21.050633",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.21.050633.pdf"
+    },
+    "abstract": "SARS-CoV-2 is a novel coronavirus that has rapidly spread across the globe. In the Netherlands, the first case of SARS-CoV-2 has been notified on the 27th of February. Here, we describe the first three weeks of the SARS-CoV-2 outbreak in the Netherlands, which started with several different introductory events from Italy, Austria, Germany and France followed by local amplification in, and later also, outside the South of the Netherlands. The timely generation of whole genome sequences combined with epidemiological investigations facilitated early decision making in an attempt to control local transmission of SARS-CoV-2 in the Netherlands.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union\u2019s Horizon",
+                    "award-id": [
+                        "874735",
+                        "848096"
+                    ]
+                },
+                {
+                    "funding-source": "SHARP JA)",
+                    "award-id": [
+                        "101003589",
+                        "RECoVER"
+                    ]
+                },
+                {
+                    "funding-source": "MHC Academisch Ziekenhuis Maastricht AMC Amphia Bernhoven Bravis Dienst Gezondheid & Jeugd ZuidHolland Zuid Elisabeth-Tweesteden Ziekenhuis"
+                },
+                {
+                    "funding-source": "Gorinchem Foundation Pamm Franciscus  MHC"
+                },
+                {
+                    "funding-source": "Amsterdam MHC Gelderland-Zuid MHC Gooi & Vechtstreek MHC Haaglanden MHC Hart"
+                },
+                {
+                    "funding-source": "Brabant MHC Holland Noorden MHC Kennemerland MHC Regio Utrecht MHC Rotterdam-Rijnmond MHC West-Brabant MHC Zaanstreek Waterland"
+                }
+            ],
+            "funding-statement": "This work has received funding from the European Union\u2019s Horizon 2020 research and innovation programme under grant agreements No 874735 (VEO), No 848096 (SHARP JA) and No 101003589 (RECoVER). Dutch-Covid-19 response team Hospital/MHC Academisch Ziekenhuis Maastricht AMC Amphia Bernhoven Bravis Dienst Gezondheid & Jeugd ZuidHolland Zuid Elisabeth-Tweesteden Ziekenhuis ErasmusMC/RIM Dordrecht/Gorinchem Foundation Pamm Franciscus  MHC Amsterdam MHC Gelderland-Zuid MHC Gooi & Vechtstreek MHC Haaglanden MHC Hart voor Brabant MHC Holland Noorden MHC Kennemerland MHC Regio Utrecht MHC Rotterdam-Rijnmond MHC West-Brabant MHC Zaanstreek Waterland"
+        }
+    ]
+}

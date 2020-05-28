@@ -1,0 +1,132 @@
+{
+    "title": "Derivation of the effective reproduction number R for COVID-19 in relation to mobility restrictions and confinement",
+    "date": 2020,
+    "author": "Alex Arenas, Wesley Cota, Jesus Gomez-Gardenes, Sergio Gomez, Clara Granell, Joan T. Matamalas, David Soriano-Panos, Benjamin Steinegger",
+    "affiliations": [
+        "Departament d\u2019Enginyeria Informatica",
+        "Matematiques, Universitat Rovira",
+        "Virgili, E-43007 Tarragona, Spain",
+        "Department of Condensed Matter Physics, University of Zaragoza, E-50009 Zaragoza, Spain",
+        "GOTHAM Lab \u2013 Institute for Biocomputation and Physics of Complex Systems (BIFI), University of Zaragoza, E-50018 Zaragoza, Spain",
+        "Departamento de Fisica, Universidade Federal de Vicosa, 36570-900 Vicosa (MG), Brazil",
+        "Harvard Medical School & Brigham and Women\u2019s Hospital, Boston MA 02115, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.06.20054320",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20054320.pdf"
+    },
+    "abstract": "This expression for R is an extremely useful tool to design containment policies that are able to suppress the epidemics. We applied our epidemic model for the case of Spain, successfully forecasting both the observed incidence in each region and the overload of the health system. The expression for R allowed us to determine the precise reduction of mobility \u03ba0 needed to bend the curve of epidemic incidence, which turned out to be \u03ba0 \u223c 0.7. This value, for the case of Spain, translates to a total lockdown with the exception of the mobility associated to essential services, a policy that was finally enforced on March 28.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Spanish MINECO",
+                    "award-id": [
+                        "PGC2018-094754-B-C21"
+                    ]
+                },
+                {
+                    "funding-source": "Generalitat de Catalunya",
+                    "award-id": [
+                        "2017SGR896"
+                    ]
+                },
+                {
+                    "funding-source": "Universitat Rovira",
+                    "award-id": [
+                        "2018PFR-URV-B2-41"
+                    ]
+                }
+            ],
+            "funding-statement": "A.A., B.S. and S.G. acknowledge financial support from Spanish MINECO (grant PGC2018-094754-B-C21), Generalitat de Catalunya (grant No 2017SGR896), and Universitat Rovira i Virgili (grant No 2018PFR-URV-B2-41)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Generalitat de Catalunya ICREA Academia,"
+                }
+            ],
+            "funding-statement": "A.A. also acknowledge support from Generalitat de Catalunya ICREA Academia, and the James S"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "McDonnell Foundation",
+                    "award-id": [
+                        "220020325"
+                    ]
+                }
+            ],
+            "funding-statement": "McDonnell Foundation grant #220020325"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "MINECO",
+                    "award-id": [
+                        "projects FIS2015-71582-C2",
+                        "FIS2017-87519-P"
+                    ]
+                },
+                {
+                    "funding-source": "Departamento de Industria"
+                },
+                {
+                    "funding-source": "Gobierno de Aragon y Fondo Social Europeo",
+                    "award-id": [
+                        "FENOL group E-19"
+                    ]
+                },
+                {
+                    "funding-source": "FENOL",
+                    "award-id": [
+                        "E-19"
+                    ]
+                }
+            ],
+            "funding-statement": "J.G.G. and D.S.P. acknowledges financial support from MINECO (projects FIS2015-71582-C2 and FIS2017-87519-P) and from the Departamento de Industria e Innovacion del Gobierno de Aragon y Fondo Social Europeo (FENOL group E-19)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Juan de la Cierva-Formacion"
+                },
+                {
+                    "funding-source": "Ministerio de Ciencia, Innovacion"
+                }
+            ],
+            "funding-statement": "C.G. acknowledges financial support from Juan de la Cierva-Formacion (Ministerio de Ciencia, Innovacion y Universidades)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union\u2019s Horizon"
+                },
+                {
+                    "funding-source": "Marie Sklodowska-Curie",
+                    "award-id": [
+                        "713679"
+                    ]
+                },
+                {
+                    "funding-source": "Universitat Rovira"
+                }
+            ],
+            "funding-statement": "B.S. acknowledges financial support from the European Union\u2019s Horizon 2020 research and innovation program under the Marie Sklodowska-Curie grant agreement No 713679 and from the Universitat Rovira i Virgili (URV)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Coordenacao de Aperfeicoamento de Pessoal de N\u0131vel Superior, Brasil"
+                },
+                {
+                    "funding-source": "Finance Code"
+                }
+            ],
+            "funding-statement": "W.C. acknowledges financial support from the Coordenacao de Aperfeicoamento de Pessoal de N\u0131vel Superior, Brasil (CAPES), Finance Code 001"
+        }
+    ]
+}

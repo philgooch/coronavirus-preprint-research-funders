@@ -1,0 +1,16 @@
+{
+    "abstract": "This paper develops an algorithm to predict the number of Covid-19 patients who will start to use ventilators tomorrow. This algorithm is intended to be utilized by a large hospital or a group of coordinated hospitals at the end of each day (e.g. 8pm) when the current number of non-ventilated Covid-19 patients and the predicated number of Covid-19 admissions for tomorrow are available. The predicted number of new admissions can be replaced by the numbers of Covid-19 admissions in the previous d days (including today) for some integer d \u2265 1 when such data is available. In our simulation model that is calibrated with New York City's Covid-19 data, our predictions have consistently provided reliable estimates of the number of the ventilator-starts next day. This algorithm has been implemented through a web interface at covidvent.github.io, which is available for public usage. Utilizing this algorithm, our paper also suggests a ventilator ordering and returning policy. The policy will dictate at the end of each day how many ventilators should be ordered tonight from a central stockpile so that they will arrive by tomorrow morning and how many ventilators should be returned tomorrow morning to the central stockpile. In 100 runs of operating our ventilator order and return policy, no patients were denied of ventilation and there was no excessive inventory of ventilators kept at hospitals.",
+    "author": "J. D. Dai; Alyf Janmohamed; Yaosheng Xu; Mark Gluzman",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20105783",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20105783"
+    },
+    "title": "How many patients will need ventilators tomorrow?",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

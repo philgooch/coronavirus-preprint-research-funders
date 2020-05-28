@@ -1,0 +1,81 @@
+{
+    "abstract": "Background To better understand the profile of individuals with severe coronavirus disease 2019 (COVID-19), we characterised individuals hospitalised with COVID-19 and compared them to individuals previously hospitalised with influenza. Methods We report the characteristics (demographics, prior conditions and medication use) of patients hospitalised with COVID-19 between December 2019 and April 2020 in the US (Columbia University Irving Medical Center [CUIMC], STAnford Medicine Research data Repository [STARR-OMOP], and the Department of Veterans Affairs [VA OMOP]) and Health Insurance Review & Assessment [HIRA] of South Korea. Patients hospitalised with COVID-19 were compared with patients previously hospitalised with influenza in 2014-19. Results 6,806 (US: 1,634, South Korea: 5,172) individuals hospitalised with COVID-19 were included. Patients in the US were majority male (VA OMOP: 94%, STARR-OMOP: 57%, CUIMC: 52%), but were majority female in HIRA (56%). Age profiles varied across data sources. Prevalence of asthma ranged from 7% to 14%, diabetes from 18% to 43%, and hypertensive disorder from 22% to 70% across data sources, while between 9% and 39% were taking drugs acting on the renin-angiotensin system in the 30 days prior to their hospitalisation. Compared to 52,422 individuals hospitalised with influenza, patients admitted with COVID-19 were more likely male, younger, and, in the US, had fewer comorbidities and lower medication use. Conclusions Rates of comorbidities and medication use are high among individuals hospitalised with COVID-19. However, COVID-19 patients are more likely to be male and appear to be younger and, in the US, generally healthier than those typically admitted with influenza.",
+    "author": "Hokyun Jeon; Kristine E. Lynch; Asieh Golozar; Frank J DeFalco; Christian Reich; Salvatore Volpe; Jaehyeong Cho; Oleg Zhuk; David Vizcaya; Haini Wen; Jill Hardin; Thomas Falconer; Vojtech Huser; Denys Kaduk; Maria Tereza F. Abrahao; Belay B Yimer; Nigam H. Shah; Seokyoung Song; Andrew E Williams; Fredrik Nyberg; George Hripcsak; Yonghua Jing; Carlos Areia; Yeunsook Rho; Selva Muthu Kumaran Sathappan; Paras Mehta; Kristin Kostka; Peter Rijnbeek; Matthew Spotnitz; Yeesuk Kim; Juan M Banda; Azza Shoaibi; Lin Zhang; Patrick Ryan; Lisa M. Schilling; Rupa Makadia; Amanda Alberga; Osaid Alser; Jennifer Lane; Edward Burn; Seng Chan You; Weihua Gao; Martijn Schuemie; Karthik Natarajan; Albert Prats-Uribe; Rae Woong Park; Alexander Davydov; Jimyung Park; Gowtham A. Rao; Seamus Kent; Hyejin Lee; Jose D. Posada; Chi Young Jung; Talita Duarte-Salles; Hamed Abedtash; Spyros Kolovos; Joel Swerdel; Aedin C Culhane; Anna Ostropolets; Thamir M Alshammari; Michael E. Matheny; Daniel Prieto-Alhambra; Anthony Sena; Daniel R. Morales; Scott L DuVall; Marc A. Suchard; Heba Alghoul; Benjamin Skov Kaas-Hansen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20074336",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20074336"
+    },
+    "title": "An international characterisation of patients hospitalised with COVID-19 and a comparison with those previously hospitalised with influenza",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Innovative Medicines Initiative"
+                },
+                {
+                    "funding-source": "Joint Undertaking",
+                    "award-id": [
+                        "806968"
+                    ]
+                }
+            ],
+            "funding-statement": "This project has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (JU) under grant agreement No 806968"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Oxford Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "US National Institutes of Health, US"
+                },
+                {
+                    "funding-source": "Department of Veterans Affairs, Janssen"
+                },
+                {
+                    "funding-source": "Research & Development,"
+                },
+                {
+                    "funding-source": "IQVIA"
+                }
+            ],
+            "funding-statement": "This research received partial support from the National Institute for Health Research (NIHR) Oxford Biomedical Research Centre (BRC), US National Institutes of Health, US Department of Veterans Affairs, Janssen Research & Development, and IQVIA"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bio Industrial Strategic Technology Development Program",
+                    "award-id": [
+                        "20001234"
+                    ]
+                },
+                {
+                    "funding-source": "Ministry of Trade, Industry",
+                    "award-id": [
+                        "Korea"
+                    ]
+                },
+                {
+                    "funding-source": "Korea Health Technology R&D Project"
+                },
+                {
+                    "funding-source": "Korea Health Industry Development Institute"
+                },
+                {
+                    "funding-source": "Ministry of Health & Welfare, Republic",
+                    "award-id": [
+                        "HI16C0992"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was also supported by the Bio Industrial Strategic Technology Development Program (20001234) funded by the Ministry of Trade, Industry & Energy (MOTIE, Korea) and a grant from the Korea Health Technology R&D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health & Welfare, Republic of Korea [grant number: HI16C0992]"
+        }
+    ]
+}

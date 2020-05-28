@@ -1,0 +1,16 @@
+{
+    "abstract": "In this paper, the SEIR dynamic model will be used to model the epidemic of coronvirus (2019-nCoV)disease. The SEIR model has been used to model infectious diseases in Malaysia.Then, the spread and control of the disease is simulated applying a PID controller. The results of this study show that the implementation of strict restrictions such as quarantine, social distancing and closure of gathering centers is effective in controlling the disease. Using the results and analyzing them, it was found that early and strict implementation of strict restrictions such as quarantine, social distance and closure of centers with a high percentage of community is very important to control this disease and prevent irreparable economic losses and depreciation of medical staff",
+    "author": "habibollah arasteh rad; arshia badi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071654",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071654"
+    },
+    "title": "A study on control of novel corona-virus (2019-nCoV) disease process by using PID controller",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors received no specific funding for this work"
+        }
+    ]
+}

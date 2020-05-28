@@ -1,0 +1,16 @@
+{
+    "abstract": "With the COVID-19 pandemic infecting millions of people, large-scale quarantine policies have been enacted across the globe. To assess the impact of quarantine measures on deaths, hospitalizations, and economic output, we expand the classical SEIR model to simulate the spread of COVID-19, incorporating effects of restrictive measures and segmenting the population based on health risk and economic vulnerability. For 76 weeks in a population of 330 million, we simulate a baseline scenario leaving current quarantine restrictions in place, rapidly reducing quarantine restrictions for non-seniors shortly after outbreak containment, and gradually relaxing quarantine restrictions for non-seniors. In the baseline scenario, there are 207,906 deaths and the economy shrinks by 34.0%. With a rapid relaxation, a second outbreak takes place, with 788,815 deaths, and the economy shrinks by 28.2%. With a gradual relaxation, there are 221,743 deaths, and the economy shrinks by 29.4%. Additionally, hospitalizations, deaths, and economic output are quite sensitive to disease spread by asymptomatic people. Strict restrictions on seniors with very gradual lifting of quarantine for non-seniors results in a limited number of deaths and lesser economic damage. Therefore, we recommend this strategy and measures that reduce non-quarantined disease spread to control the pandemic while making quarantine economically viable.",
+    "author": "David Schwartzman; Uri Goldsztejn; Arye Nehorai",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20062802",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20062802"
+    },
+    "title": "Public policy and economic dynamics of COVID-19 spread: a mathematical modeling study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No specific funding was used for this work."
+        }
+    ]
+}

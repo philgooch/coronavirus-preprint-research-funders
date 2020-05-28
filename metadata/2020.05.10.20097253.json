@@ -1,0 +1,16 @@
+{
+    "abstract": "Background Exploring the association of coronavirus-2019 disease (COVID-19) mortality with chronic pre-existing conditions may promote the importance of targeting these populations during this pandemic to optimize survival. The objective of this systematic review and meta-analysis is to explore the association of pre-existing conditions with COVID-19 mortality. Methods We searched MEDLINE, OVID databases, SCOPUS, and medrxiv.org for the period December 1, 2019, to May 1, 2020. The outcome of interest was the risk of COVID-19 mortality in patients with and without pre-existing conditions. Comorbidities explored were cardiovascular diseases (coronary artery disease, hypertension, cardiac arrhythmias, and congestive heart failure), chronic obstructive pulmonary disease, type 2 diabetes, cancer, chronic kidney disease, chronic liver disease, and stroke. Two independent reviewers extracted data and assessed the risk of bias. All analyses were performed using random-effects models and heterogeneity was quantified. Results Ten chronic conditions from 19 studies were included in the meta-analysis (n = 61,455 patients with COVID-19; mean age, 61 years; 57% male). Overall the between-study study heterogeneity was medium and studies had low publication bias and high quality. Coronary heart disease, hypertension, congestive heart failure, and cancer significantly increased the risk of mortality from COVID-19. The risk of mortality from COVID-19 in patients with coronary heart disease was 2.4 times as high as those without coronary heart disease (RR= 2.40, 95%CI=1.71-3.37, n=5) and twice as high in patients with hypertension as high as that compared to those without hypertension (RR=1.89, 95%CI= 1.58-2.27, n=9). Patients with cancer also were at twice the risk of mortality from COVID-19 compared to those without cancer (RR=1.93 95%CI 1.15-3.24, n=4), and those with congestive heart failure were at 2.5 times the risk of mortality compared to those without congestive heart failure (RR=2.66, 95%CI 1.58-4.48, n=3). Conclusions COVID-19 patients with all any cardiovascular disease, coronary heart disease, hypertension, congestive heart failure, and cancer have an increased risk of mortality. Tailored infection prevention and treatment strategies targeting this high-risk population are warranted to optimize survival.",
+    "author": "Paddy Ssentongo; Anna E. Ssentongo; Emily S. Heilbrunn; Djibril M Ba; Vernon M. Chinchilli",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20097253",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20097253"
+    },
+    "title": "The association of cardiovascular disease and other pre-existing comorbidities with COVID-19 mortality: A systematic review and meta-analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This study was not funded."
+        }
+    ]
+}

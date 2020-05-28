@@ -1,0 +1,16 @@
+{
+    "abstract": "Understanding the characteristics of public attention and perception is an essential prerequisite for appropriate crisis management during adverse health events. This is even more crucial during a pandemic such as COVID-19, as primary responsibility of risk management is not centralized to a single institution, but distributed across society. While numerous studies utilize Twitter data in descriptive or predictive context during COVID-19 pandemic, causal modeling of public attention has not been investigated. In this study, we propose a causal inference approach to discover and quantify causal relationships between pandemic characteristics (e.g. number of infections and deaths) and Twitter activity as well as public sentiment. Our results show that the proposed method can successfully capture the epidemiological domain knowledge and identify variables that affect public attention and perception. We believe our work contributes to the field of infodemiology by distinguishing events that correlate with public attention from events that cause public attention.",
+    "author": "Oguzhan Gencoglu; Mathias Gruber",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20103903",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20103903"
+    },
+    "title": "Causal Modeling of Twitter Activity During COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this work."
+        }
+    ]
+}

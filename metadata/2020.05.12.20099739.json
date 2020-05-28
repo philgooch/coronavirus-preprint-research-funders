@@ -1,0 +1,32 @@
+{
+    "abstract": "Objectives To determine the case fatality rates and death risk factors. Design Retrospective case series. Setting A COVID-19 ward of a secondary Hospital in Wuhan, China. Participants Consecutively hospitalized COVID-19 patients between Jan 3, 2020 and Feb 27, 2020. Outcomes were followed up to discharge or death. Results Of 121 patients included, 66 (54.6%) were males. The median age was 59 (IQR: 46 to 67) years, and hypertension (33 patients; 27.3%) the leading comorbidity. Lymphopenia (83 of 115 patients; 72.2%) frequently occurred and then normalized on day 4 (IQR: 3 to 6) after admission in the survivors, with lung lesion absorbed gradually on day 8 (IQR: 6 to10) after onset (33 of 57 patients; 57.9%). The real-time polymerase chain reaction (RT-PCR) assays for SARS-CoV-2 were positive in 78 (78/108; 72.2%) patients, and a false-negative RT-PCR occurred in 15 (13.9%) patients. Hypoxemia occurred in 94 (94/117; 80.3%) patients, and supplemental oxygen was given in 88 (72.7%) patients, and mon-invasive or invasive ventilation in 20 (16.5%) cases. Corticosteroid use might link to death. The case fatality rates were 4.4% (one of 23 patients), 29.3% (12/41), 22.8% (13/57) or 45% (9/20) for patients with moderate, severe, critical illness or on ventilator. The length of hospital stay was 14 (IQR: 10 to 20) days, and selfcare ability worsened in 21 patients (21/66; 31.8%) cases. Patients over 60 years were most likely to have poorer outcomes, and increasing in age by one-year increased risk for death by 18% (CI: 1.04-1.32). Conclusions In management of patients with SARS-CoV-2 pneumonia, especially the elderly with hypertension, close monitoring and appropriate supportive treatment should be taken earlier and aggressively to prevent from developing severe or critical illness. Corticosteroid use might link to death. Repeated RT-PCR tests or novel detection methods for SARS-CoV-2 should be adopted to improve diagnostic efficiency.",
+    "affiliations": [
+        "Southern Medical University by High-level University Construction Funding of Guangdong Provincial Department of Education (grant number: LC2016PY036 to Dr Wang). The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication"
+    ],
+    "author": "Zheng Ba; Yuhai Hu; Hexuan Fei; Kai Wang; Xiaohua Lin; Yumei Liu; Lan Yu; Xiping Wu; Qingquan Lv; Tian Hu; Hua Wang; Yirong Lu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099739",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099739"
+    },
+    "title": "Progression, recovery and fatality in patients with SARS-CoV-2 related pneumonia in Wuhan, China: a single-centered, retrospective, observational study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Clinical Research Startup Program of Southern Medical University"
+                },
+                {
+                    "funding-source": "High-level University Construction Funding of Guangdong Provincial Department of Education",
+                    "award-id": [
+                        "LC2016PY036"
+                    ]
+                },
+                {
+                    "funding-source": "Dr Wang)"
+                }
+            ],
+            "funding-statement": "This work was supported by the Clinical Research Startup Program of Southern Medical University by High-level University Construction Funding of Guangdong Provincial Department of Education (grant number: LC2016PY036 to Dr Wang)"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "abstract": "The emergence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and coronavirus disease 2019 (COVID-19) has led to the rapid initiation of urgently needed clinical trials of repurposed drug combinations and monotherapies. These regimens were primarily relying on mechanism-of-action based selection of drugs, many of which have yielded positive in vitro but largely negative clinical outcomes. To overcome this challenge, we report the use of IDentif.AI, a platform that rapidly optimizes infectious disease (ID) combination therapy design using artificial intelligence (AI). In this study, IDentif.AI was implemented on a 12-drug candidate therapy search set representing over 530,000 possible drug combinations. IDentif.AI demonstrated that the optimal combination therapy against SARS-CoV-2 was comprised of remdesivir, ritonavir, and lopinavir, which mediated a 6.5-fold improvement in efficacy over remdesivir alone. Additionally, IDentif.AI showed hydroxychloroquine and azithromycin to be relatively ineffective. The identification of a clinically actionable optimal drug combination was completed within two weeks, with a 3-order of magnitude reduction in the number of tests typically needed. IDentif.AI analysis was also able to independently confirm clinical trial outcomes to date without requiring any data from these trials. The robustness of the IDentif.AI platform suggests that it may be applicable towards rapid development of optimal drug regimens to address current and future outbreaks.",
+    "affiliations": [
+        "Technology at the National University of Singapore. D.H. also gratefully acknowledges the Ministry of Education Tier"
+    ],
+    "author": "Theodore Kee; Edward Kai-Hua Chow; De Hoe Chye; Xianting Ding; Rishi Desai; Anh T.L. Truong; Conrad E.Z. Chan; Nguyen Le; Dean Ho; Lissa Hooi; Alexandria Remus; Brendon J. Hanson; Agata Blasiak; Jhin Jieh Lim; Shirley Gek Kheng Seah; Pui San Wong",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20088104",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20088104"
+    },
+    "title": "IDentif.AI: Artificial Intelligence Pinpoints Remdesivir in Combination with Ritonavir and Lopinavir as an Optimal Regimen Against Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Office of the President, Office"
+                },
+                {
+                    "funding-source": "Senior Deputy President and Provost,"
+                },
+                {
+                    "funding-source": "Office of the Deputy President for Research and Technology"
+                },
+                {
+                    "funding-source": "National University of Singapore"
+                }
+            ],
+            "funding-statement": "D.H. gratefully acknowledges support from the Office of the President, Office of the Senior Deputy President and Provost, and Office of the Deputy President for Research and Technology at the National University of Singapore"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Research Foundation Singapore and the Singapore Ministry of Education"
+                },
+                {
+                    "funding-source": "Research Centres of Excellence Initiative"
+                },
+                {
+                    "funding-source": "Cancer Science Institute of Singapore RCE Main Grant)"
+                },
+                {
+                    "funding-source": "Ministry of Education Academic Research Fund",
+                    "award-id": [
+                        "MOE2019-T2-1-11"
+                    ]
+                },
+                {
+                    "funding-source": "MOE AcRF Tier",
+                    "award-id": [
+                        "MOE2019-T2-1-115"
+                    ]
+                },
+                {
+                    "funding-source": "Singapore Ministry of"
+                },
+                {
+                    "funding-source": "National Medical Research Council"
+                },
+                {
+                    "funding-source": "Open Fund-Large Collaborative Grant",
+                    "award-id": [
+                        "\"OF-LCG\"",
+                        "MOH-OFLCG18May-0023",
+                        "MOH-OFLCG18May-0028"
+                    ]
+                },
+                {
+                    "funding-source": "National Research Foundation Competitive Proton Research Programme",
+                    "award-id": [
+                        "NRF-CRP-2017-05"
+                    ]
+                }
+            ],
+            "funding-statement": "E.K.C. is supported by the National Research Foundation Singapore and the Singapore Ministry of Education under its Research Centres of Excellence Initiative (Cancer Science Institute of Singapore RCE Main Grant), Ministry of Education Academic Research Fund (MOE AcRF Tier 2 [MOE2019-T2-1-115]), Singapore Ministry of Health\u0092s National Medical Research Council under its Open Fund-Large Collaborative Grant (\"OF-LCG\")(MOH-OFLCG18May-0023 and MOH-OFLCG18May-0028) and National Research Foundation Competitive Proton Research Programme (NRF-CRP-2017-05)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2017ZX10203205"
+                    ]
+                },
+                {
+                    "funding-source": "National Science Foundation of China",
+                    "award-id": [
+                        "81871448"
+                    ]
+                }
+            ],
+            "funding-statement": "X.D. acknowledges support from National Key Research and Development Program of China (2017ZX10203205) and National Science Foundation of China (81871448)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Future Systems and Technology Directorate, Singapore"
+                },
+                {
+                    "funding-source": "Ministry of Defence"
+                }
+            ],
+            "funding-statement": "S.G.K.S., D.H.C., P.S.W., C.E.Z.C. and B.J.H gratefully acknowledge funding support from Future Systems and Technology Directorate, Singapore Ministry of Defence"
+        }
+    ]
+}

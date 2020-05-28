@@ -1,0 +1,16 @@
+{
+    "abstract": "COVID-19 death rates vary strikingly across Europe. The death rate in Spain, for example, is greater than the death rate in Germany by more than a factor of ten. Few if any epidemiological indicators distinguish the countries of Europe by such a vast margin. Evidence on age-specific case-fatality rates (deaths over observed infections) and age-specific death rates (deaths over population) indicate that COVID-19 disproportionately afflicts the elderly and frail, suggesting that the share of elderly population (\u2265 65 years of age) in a country ought to be a strong predictor of the COVID-19 death rate. However, the COVID-19 death rate and the share of elderly population are statistically uncorrelated (r = 0.163, p = 0.399). Share of population \u2265 65 years of age is confounded by mortality selection, as well as other demographic dynamics. By contrast, elderly longevity or life expectancy at 65 more effectively captures population survival and the accumulation of age-related frailty in society. We find a strong statistical relationship between the COVID-19 death rate (r = 0.839, p < .001) and elderly longevity, and a moderately strong relationship between the date of epidemic timing and elderly longevity (r = \u22120.634, p < .001). These relationships are robust to the inclusion of statistical controls for international tourism inflow and hospital bed capacity. While the countries of Europe vary meaningfully in healthcare system capacity and in the timing and intensity of non-pharmaceutical interventions, the striking variation in COVID-19 death rates across these countries is statistically and intuitively associated with elderly survival and consequent frailty.",
+    "author": "Sammy Zahran; Levi Altringer; Ashok Prasad",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065540",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065540"
+    },
+    "title": "The Longevity-Frailty Hypothesis: Evidence from COVID-19 Death Rates in Europe",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for the submitted work."
+        }
+    ]
+}

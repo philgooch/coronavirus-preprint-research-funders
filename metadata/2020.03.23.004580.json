@@ -1,0 +1,72 @@
+{
+    "title": "FEP-based screening prompts drug repositioning against COVID-19",
+    "author": "Hai-Bin LUO",
+    "date": 2020,
+    "affiliations": [
+        "Guangdong Provincial Key Laboratory of New Drug Design and Evaluation, School of Pharmaceutical Sciences, Sun Yat-Sen University, Guangzhou 510006, P. R. China",
+        "Center for Innovative Marine Drug Screening & Evaluation (QNLM), School of Medicine and Pharmacy, Ocean University of China, 23 Xianggang E Road, Qingdao, 266100, China",
+        "School of Life Sciences, Lanzhou University, 220 Tianshui S Road, Lanzhou, 734000, China",
+        "MOE Key Laboratory of Gene Function and Regulation, State Key Laboratory of Biocontrol, School of Life Sciences, Sun Yat-sen University, Guangzhou, 510006, China",
+        "High Performance Computing Center, Pilot National Laboratory for Marine Science and Technology (QNLM)",
+        "Wenhai Road, Aoshanwei, Qingdao, 266237, China",
+        "Guangzhou Institute of Pediatrics, Guangzhou Women and Children's Medical Center, State Key Laboratory of Respiratory Diseases, Guangzhou Medical University, Guangzhou, 510623, China",
+        "Marine Biomedical Research Institute of Qingdao, Qingdao, 266100, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.23.004580",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.23.004580.pdf"
+    },
+    "abstract": "The new coronavirus COVID-19, also known as SARS-CoV-2, has infected more than 300,000 patients and become a global health emergency due to the very high risk of spread and impact of COVID-19. There are no specific drugs or vaccines against COVID-19, thus effective antiviral agents are still urgently needed to combat this virus. Herein, the FEP (free energy perturbation)-based screening strategy is newly derived as a rapid protocol to accurately reposition potential agents against COVID-19 by targeting viral proteinase Mpro. Restrain energy distribution (RED) function was derived to optimize the alchemical pathway of FEP, which greatly accelerated the calculations and first made FEP possible in the virtual screening of the FDA-approved drugs database. As a result, fifteen out of twenty-five drugs validated in vitro exhibited considerable inhibitory potencies towards Mpro. Among them, the most potent Mpro inhibitor dipyridamole potentially inhibited NF- B signaling pathway and inflammatory responses, and has just finished the first round clinical trials. Our result demonstrated that the FEP-based screening showed remarkable advantages in prompting drug repositioning against COVID-19.",
+    "keywords": [
+        "SARS-CoV-2",
+        "repositioning",
+        "Mpro",
+        "dipyridamole",
+        "and montelukast sodium"
+    ],
+    "hyperbole": [
+        "based screening showed remarkable advantages in prompting drug repositioning against COVID-19.",
+        "Remarkable accuracy of FEP-ABFE calculations based on test results from 28 receptorligand systems",
+        "ABFE method achieves a remarkable accuracy, which encourage us to perform further virtual screening target the FDA-approved drug database via the FEP-ABFE method."
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "8152204"
+                    ]
+                },
+                {
+                    "funding-source": "Science Foundation of Guangzhou City",
+                    "award-id": [
+                        "201904020023"
+                    ]
+                },
+                {
+                    "funding-source": "Guangdong Provincial Key Laboratory of Construction Foundation",
+                    "award-id": [
+                        "2017B030314030"
+                    ]
+                },
+                {
+                    "funding-source": "Local Innovative and Research Teams Project of Guangdong Pearl River Talents Program",
+                    "award-id": [
+                        "2017BT01Y093"
+                    ]
+                },
+                {
+                    "funding-source": "Sun Yat-Sen University and Zhejiang University",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                }
+            ],
+            "funding-statement": "National Natural Science Foundation of China (8152204), Science Foundation of Guangzhou City (201904020023), Guangdong Provincial Key Laboratory of Construction Foundation (2017B030314030), Local Innovative and Research Teams Project of Guangdong Pearl River Talents Program (2017BT01Y093), Sun Yat-Sen University and Zhejiang University special scientific research fund for COVID-19 prevention and control, and philanthropy donation from individuals. The funders had no roles in the design and execution of the study."
+        }
+    ]
+}

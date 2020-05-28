@@ -1,0 +1,16 @@
+{
+    "abstract": "The SIR (susceptible-infected-removed) model, statistical approach to the parameter identification and the official WHO daily data about the confirmed cumulative number of cases were used to estimate the characteristics of COVID-19 pandemic in Italy, Spain, Germany, France, Austria and Moldova. The final sizes and durations of epidemic outbreaks in these countries are calculated.\nCompeting Interest Statement\nThe authors have declared no competing interest.",
+    "author": "Igor Nesteruk",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075135",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075135"
+    },
+    "title": "SIR-simulation of Corona pandemic dynamics in Europe",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no funding</strong>"
+        }
+    ]
+}

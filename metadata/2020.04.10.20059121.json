@@ -1,0 +1,231 @@
+{
+    "abstract": "Objectives: To use human genetic variants that proxy angiotensin-converting enzyme (ACE) inhibitor drug effects and cardiovascular risk factors to provide insight into how these exposures affect lung ACE2 and TMPRSS2 gene expression and circulating ACE2 levels. Design: Two-sample Mendelian randomization (MR) analysis. Setting: Summary-level genetic association data. Participants: Participants were predominantly of European ancestry. Variants that proxy ACE inhibitor drug effects and cardiometabolic risk factors (body mass index, chronic obstructive pulmonary disease, lifetime smoking index, low-density lipoprotein cholesterol, systolic blood pressure and type 2 diabetes mellitus) were selected from publicly available genome-wide association study data (sample sizes ranging from 188,577 to 898,130 participants). Genetic association estimates for lung expression of ACE2 and TMPRSS2 were obtained from the Gene-Tissue Expression (GTEx) project (515 participants) and the Lung eQTL Consortium (1,038 participants). Genetic association estimates for circulating plasma ACE2 levels were obtained from the INTERVAL study (4,947 participants). Main outcomes and measures: Lung ACE2 and TMPRSS2 expression and plasma ACE2 levels. Results: There were no association of genetically proxied ACE inhibition with any of the outcomes considered here. There was evidence of a positive association of genetic liability to type 2 diabetes mellitus with lung ACE2 gene expression in GTEx (p = 4x10-4) and with circulating plasma ACE2 levels in INTERVAL (p = 0.03), but not with lung ACE2 expression in the Lung eQTL Consortium study (p = 0.68). There were no associations between genetically predicted levels of the other cardiometabolic traits with the outcomes. Conclusions: This study does not provide evidence to support that ACE inhibitor antihypertensive drugs affect lung ACE2 and TMPRSS2 expression or plasma ACE2 levels. In the current COVID-19 pandemic, our findings do not support a change in ACE inhibitor medication use without clinical justification.",
+    "affiliations": [
+        "Program at Imperial College London (award number 203928/Z/16/Z). SB is supported by",
+        "British Heart Foundation Personal Chair and",
+        "National Institute for Health Research Senior Investigator Award. SL is funded by the Swedish Heart-Lung Foundation, the Swedish Research Council, and the Swedish Research Council for Health, Working Life and Welfare. VK is funded by",
+        "European Union's Horizon 2020 research and innovation program under the Marie Sklodowska-Curie grant (721567). VYT is supported by the Cancer Research UK (CRUK) Integrative Cancer Epidemiology Programme (C18281/A19169). SML is supported by an Academic Clinical Fellowship from the NIHR. YB holds",
+        "Canada Research Chair in Genomics of Heart and Lung Diseases. JEP is supported by"
+    ],
+    "author": "Adam S Butterworth; Don Sin; Susanna C Larsson; Sam M Lockhart; Tao Jiang; Brian Jo; Verena Zuber; Vanessa Tan; Dipender Gill; Yohan Bosse; Ville Karhunen; Stephen Burgess; Wim Timens; Philippe Joubert; Ke Hao; Evanthia Pashos; Paul Carter; Ana I Hernandez Cordero; Nicholas A Watkins; John Danesh; Alan C Lunt; Marios Arvanitis; David J Roberts; Xuan Li; Alexis Battle; Sarah Fahle; Maarten van den Berge; James E Peters; Amy M Mason; Willem hendrik Ouwehand; Ashis Saha; Barbara E Engelhard",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20059121",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.6084/m9.figshare.12102681",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20059121"
+    },
+    "title": "ACE inhibition and cardiometabolic risk factors, lung ACE2 and TMPRSS2 gene expression, and plasma ACE2 levels: a Mendelian randomization study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Imperial College London",
+                    "award-id": [
+                        "203928/Z/16/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "DG is supported by the Wellcome 4i Program at Imperial College London (award number 203928/Z/16/Z)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Sir Henry Dale Fellowship"
+                },
+                {
+                    "funding-source": "Wellcome Trust and the Royal Society",
+                    "award-id": [
+                        "204623/Z/16/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "SB is supported by a Sir Henry Dale Fellowship jointly funded by the Wellcome Trust and the Royal Society (award number 204623/Z/16/Z)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Cambridge University"
+                },
+                {
+                    "funding-source": "NIHR Blood and Transplant Research Unit in Donor Health and Genomics",
+                    "award-id": [
+                        "NIHR BTRU-2014-10024"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "BTRU-2014-10024"
+                    ]
+                },
+                {
+                    "funding-source": "UK Medical Research Council",
+                    "award-id": [
+                        "MR/L003120/1"
+                    ]
+                },
+                {
+                    "funding-source": "British Heart Foundation",
+                    "award-id": [
+                        "SP/09/002",
+                        "RG/13/13/30194",
+                        "RG/18/13/33946"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Cambridge Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "Cambridge University Hospitals NHS Foundation Trust)"
+                },
+                {
+                    "funding-source": "Health Data Research UK"
+                }
+            ],
+            "funding-statement": "The academic coordinating centre for INTERVAL at Cambridge University was supported by core funding from: NIHR Blood and Transplant Research Unit in Donor Health and Genomics (NIHR BTRU-2014-10024), UK Medical Research Council (MR/L003120/1), British Heart Foundation (SP/09/002; RG/13/13/30194; RG/18/13/33946) and the NIHR (Cambridge Biomedical Research Centre at the Cambridge University Hospitals NHS Foundation Trust), and Health Data Research UK"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Blood and Transplant Research Unit in Donor Health and Genomics",
+                    "award-id": [
+                        "NIHR BTRU-2014-10024"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "BTRU-2014-10024"
+                    ]
+                }
+            ],
+            "funding-statement": "SF is funded by the NIHR Blood and Transplant Research Unit in Donor Health and Genomics (NIHR BTRU-2014-10024)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Swedish Heart-Lung Foundation,"
+                },
+                {
+                    "funding-source": "Swedish Research Council,"
+                },
+                {
+                    "funding-source": "Swedish Research Council for Health, Working"
+                },
+                {
+                    "funding-source": "Life and Welfare"
+                }
+            ],
+            "funding-statement": "SL is funded by the Swedish Heart-Lung Foundation, the Swedish Research Council, and the Swedish Research Council for Health, Working Life and Welfare"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union's Horizon"
+                },
+                {
+                    "funding-source": "Marie Sklodowska-Curie",
+                    "award-id": [
+                        "721567"
+                    ]
+                }
+            ],
+            "funding-statement": "VK is funded by a European Union's Horizon 2020 research and innovation program under the Marie Sklodowska-Curie grant (721567)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Cancer Research UK"
+                },
+                {
+                    "funding-source": "Integrative Cancer Epidemiology Programme",
+                    "award-id": [
+                        "C18281/A19169"
+                    ]
+                }
+            ],
+            "funding-statement": "VYT is supported by the Cancer Research UK (CRUK) Integrative Cancer Epidemiology Programme (C18281/A19169)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Academic Clinical Fellowship from the NIHR"
+                }
+            ],
+            "funding-statement": "SML is supported by an Academic Clinical Fellowship from the NIHR"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UKRI Innovation Fellowship",
+                    "award-id": [
+                        "MR/S004"
+                    ]
+                },
+                {
+                    "funding-source": "Health Data Research UK",
+                    "award-id": [
+                        "MR/S004068/1"
+                    ]
+                }
+            ],
+            "funding-statement": "JEP is supported by a UKRI Innovation Fellowship at Health Data Research UK (MR/S004068/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Health Data Research UK,"
+                },
+                {
+                    "funding-source": "UK Medical Research Council, Engineering"
+                },
+                {
+                    "funding-source": "Physical Sciences Research Council, Economic"
+                },
+                {
+                    "funding-source": "Social Research Council, Department",
+                    "award-id": [
+                        "England"
+                    ]
+                },
+                {
+                    "funding-source": "Health and Social Care",
+                    "award-id": [
+                        "England"
+                    ]
+                },
+                {
+                    "funding-source": "Chief Scientist Office of the Scottish Government Health and Social Care Directorates, Health"
+                },
+                {
+                    "funding-source": "Social Care Research and Development Division",
+                    "award-id": [
+                        "Welsh Government"
+                    ]
+                },
+                {
+                    "funding-source": "Welsh Government)"
+                },
+                {
+                    "funding-source": "Public Health Agency",
+                    "award-id": [
+                        "Northern Ireland"
+                    ]
+                },
+                {
+                    "funding-source": "Northern Ireland)"
+                },
+                {
+                    "funding-source": "British Heart Foundation and the Wellcome Trust"
+                }
+            ],
+            "funding-statement": "This work was supported by Health Data Research UK, which is funded by the UK Medical Research Council, Engineering and Physical Sciences Research Council, Economic and Social Research Council, Department of Health and Social Care (England), Chief Scientist Office of the Scottish Government Health and Social Care Directorates, Health and Social Care Research and Development Division (Welsh Government), Public Health Agency (Northern Ireland), British Heart Foundation and the Wellcome Trust"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "abstract": "We study the effects of temperature, absolute humidity, population density and when country/U.S. state reached 100 cases on early pace of Covid-19 expansion, for all 50 U.S. states and 110 countries with enough data. For U.S. states, weather variables show opposite effects when compared to the case of countries: higher temperature or absolute humidity imply faster early outbreak. The higher the population density or the earlier the date when state reached 100th case, the faster the pace of outbreak. When all variables are considered, only population density and the timeline variable show statistical significance. Discounting the effect of the timeline variable, we obtain an estimate for the initial growth rate of Covid-19, which can be also used to estimate the basic reproduction number for a region, in terms of population density. This has policy implications regarding how to control the pace of Covid-10 outbreak in a particular area, and we discuss some of them. In the case of countries, for which we did not have demographic information, weather variables lose statistical significance once the timeline variable is added. Relaxing CI requirements, absolute humidity contributes mildly to the reduction of growth rate of cases for the countries studied. Our results suggest that population density should be employed as a control variable and that analysis should have a local character, for subregions and countries separately, in studies involving the dynamics of Covid-19 and similar infectious diseases.",
+    "author": "Renato H.L. Pedrosa",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20074450",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20074450"
+    },
+    "title": "The dynamics of Covid-19: weather, demographics and infection timeline",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "S\u00e3o Paulo\"",
+                    "award-id": [
+                        "2019/20"
+                    ]
+                },
+                {
+                    "funding-source": "Research Grant Fapesp",
+                    "award-id": [
+                        "2019/20093"
+                    ]
+                }
+            ],
+            "funding-statement": "Author is PR of project \"Science and technology indicators in the state of S\u00e3o Paulo\", Research Grant Fapesp N. 2019/20093. Fapesp has not participated in any way regarding development of research or preparation of manuscript of this paper."
+        }
+    ]
+}

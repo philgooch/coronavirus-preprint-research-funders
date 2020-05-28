@@ -1,0 +1,47 @@
+{
+    "title": "The coding capacity of SARS-CoV-2",
+    "date": 2020,
+    "author": "Yaara Finkel, Orel Mizrahi, Aharon Nachshon, Shira Weingarten-Gabbay, Yfat YahalomRonen, Hadas Tamir, Hagit Achdout, Sharon Melamed, Shay Weiss, Tomer Israely, Nir Paran, Michal Schwartz, and Noam Stern-Ginossar",
+    "affiliations": [
+        "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot 76100, Israel",
+        "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA",
+        "Department of Organismal and Evolutionary Biology, Harvard University, Cambridge, MA 02138, USA",
+        "Department of Infectious Diseases, Israel Institute for Biological Research, Ness Ziona 76800, Israel",
+        "These authors contributed equally to this work",
+        "Lead Contact * To whom correspondence should be addressed:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.07.082909",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.07.082909.pdf"
+    },
+    "abstract": "SARS-CoV-2 is a coronavirus responsible for the COVID-19 pandemic. In order to understand its pathogenicity, antigenic potential and to develop diagnostic and therapeutic tools, it is essential to portray the full repertoire of its expressed proteins. The SARS-CoV-2 coding capacity map is currently based on computational predictions and relies on homology to other coronaviruses. Since coronaviruses differ in their protein array, especially in the variety of accessory proteins, it is crucial to characterize the specific collection of SARS-CoV-2 translated open reading frames (ORF)s in an unbiased and open-ended manner. Utilizing a suit of ribosome profiling techniques, we present a high-resolution map of the SARS-CoV-2 coding regions, allowing us to accurately quantify the expression of canonical viral ORFs and to identify 23 novel unannotated viral ORFs. These ORFs include several in-frame internal ORFs lying within existing ORFs, resulting in N-terminally truncated products, as well as internal out-of-frame ORFs, which generate novel polypeptides. Finally, we detected a prominent initiation at a CUG codon located in the 5\u2019UTR. Although this codon is shared by all SARS-CoV-2 transcripts, the initiation was specific to the genomic RNA, indicating that the genomic RNA harbors unique features that may affect ribosome engagement. Overall, our work reveals the full coding capacity of SARS-CoV-2 genome, providing a rich resource, which will form the basis of future functional studies and diagnostic efforts.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This study was supported by the Ben B. and Joyce E"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Work in the SternGinossar"
+                },
+                {
+                    "funding-source": "European Research Council",
+                    "award-id": [
+                        "StG-2014-638142"
+                    ]
+                },
+                {
+                    "funding-source": "Israel Science Foundation",
+                    "award-id": [
+                        "1526/18"
+                    ]
+                }
+            ],
+            "funding-statement": "Work in the SternGinossar lab is supported by a European Research Council starting grant (StG-2014-638142) and by the Israel Science Foundation (ISF) grant no. 1526/18"
+        }
+    ]
+}

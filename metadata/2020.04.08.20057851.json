@@ -1,0 +1,32 @@
+{
+    "abstract": "We use the age-stratified COVID-19 infection and death distributions from China (more than 44,672 infectious as of February 11, 2020) as an estimate for a study area infection and morbidity probabilities at each age group. We then apply these probabilities into the actual age-stratified population to predict infectious individuals and deaths at peak. Testing with different countries shows the predicted infectious skewing with the country median age and age stratification, as expected. We added a Q parameter to the classic SEIR compartmental model to include the effect of quarantine (Q-SEIR). The projections from the age-stratified probabilities give much lower predicted incidences of infection than the Q-SEIR model. As expected, quarantine tends to delay the peaks for both Exposed and Infectious, and to flatten the curve or lower the predicted values for each compartment. These two estimates were used as a range to inform planning and response to the COVID-19 threat.",
+    "affiliations": [
+        "Department of Science and Technology, Philippine Council for Health Research and Development - Balik Scientist Program"
+    ],
+    "author": "Vena Pearl Bongolan; Jesus Emmanuel Sevilleja; Romulo de Castro; Jose Marie Antonio Minoza",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20057851",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20057851"
+    },
+    "title": "Age-stratified Infection Probabilities Combined with Quarantine-Modified SEIR Model in the Needs Assessments for COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Dr de Castro"
+                },
+                {
+                    "funding-source": "Department of Science and Technology, Philippine"
+                },
+                {
+                    "funding-source": "Council for Health Research and Development"
+                },
+                {
+                    "funding-source": "Balik Scientist Program"
+                }
+            ],
+            "funding-statement": "Dr de Castro is currently supported by the Republic of the Philippines' Department of Science and Technology, Philippine Council for Health Research and Development - Balik Scientist Program"
+        }
+    ]
+}

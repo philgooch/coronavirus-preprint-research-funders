@@ -1,0 +1,30 @@
+{
+    "title": "Identification of conserved epitopes in SARS-CoV-2 spike and nucleocapsid protein",
+    "keywords": [
+        "SARS-CoV-2",
+        "spike glycoprotein",
+        "nucleocapsid protein",
+        "conserved epitopes",
+        "conservation score",
+        "orderdisorder propensity"
+    ],
+    "date": 2020,
+    "affiliations": [
+        "Sapienza University of Rome, Department of Physics, P.le A. Moro 5, 00185 Rome, Italy.2 Sapienza University of Rome, Department AHFMO, Via A. Scarpa 14, 00161 Rome, Italy",
+        "Istituto Nazionale di Fisica Nucleare, INFN, Roma1 section 00185, Roma, Italy",
+        "Corresponding Author: Sergio Forcelloni Sapienza University of Rome, Department of Physics, P.le A. Moro 5, 00185 Roma, Italy"
+    ],
+    "journal": "COVID",
+    "volume": "19",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.095133",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.095133.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which first occurred in Wuhan (China) in December 2019, is a novel virus that causes a severe acute respiratory disease. The virus spike glycoproteins and nucleocapsid proteins are the main targets for the development of vaccines and antiviral drugs, to control the disease spread. We herein study the structural order-disorder propensity and the rates of evolution of these two proteins to characterize their B cell and T cell epitopes, previously suggested to contribute to immune response caused by SARS-CoV-2 infections. We first analyzed the rates of evolution along the sequences of spike and nucleocapsid proteins in relation to the spatial locations of their epitopes. For this purpose, we compared orthologs from seven human coronaviruses: SARS-CoV-2, SARS-CoV, MERS-CoV, HCoV-229E, HCoV-OC43, HCoV-NL63, and HCoV-HKU1. We then focus on the local, structural order-disorder propensities of the protein regions where the SARS-CoV-2 epitopes are located. We show that the vast majority of nucleocapsid protein epitopes overlap the RNA-binding and dimerization domains and some of them are characterized by low rates of evolutions. Similarly, spike protein epitopes are preferentially located in regions that are predicted to be ordered and well-conserved, in correspondence of the heptad repeats 1 and 2. Interestingly, both the receptor-binding motif to ACE2 and the fusion peptide of spike protein are characterized by high rates of evolution, probably to overcome host immunity. In conclusion, our results provide evidence for conserved epitopes that may help to develop long-lasting, broad-spectrum SARS-CoV-2 vaccines.",
+    "funding": [
+        {}
+    ]
+}

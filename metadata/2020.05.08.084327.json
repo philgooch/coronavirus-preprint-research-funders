@@ -1,0 +1,31 @@
+{
+    "title": "Prediction analysis of SARS-COV-2 entry in Livestock and Wild animals Manas Ranjan Praharaj1, Priyanka Garg1, Raja Ishaq Nabi Khan2, Shailesh Sharma1, Manjit Panigrahi2, B P Mishra2, Bina Mishra2, G Sai kumar2, Ravi Kumar Gandham1*,",
+    "author": "Raj Kumar Singh, Subeer Majumdar,* and Trilochan Mohapatra, 1 National Institute of Animal Biotechnology, Hyderabad, Telangana, India 2 ICAR-Indian Veterinary Research Institute, Izatnagar, UP, India 3 Indian Council of Agricultural Research, New Delhi, India * Corresponding authors: Ravi Kumar Gandham: ravigandham@niab.org.in; R.K Singh: rks_virology@rediffmail.com; Subeer Majumdar: director@niab.org.in",
+    "date": 2020,
+    "affiliations": [
+        "National Institute of Animal Biotechnology, Hyderabad, Telangana, India",
+        "ICAR-Indian Veterinary Research Institute, Izatnagar, UP, India",
+        "Indian Council of Agricultural Research, New Delhi, India",
+        "Corresponding authors: Ravi Kumar Gandham:"
+    ],
+    "journal": "SARS",
+    "volume": "1",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.08.084327",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.08.084327.pdf"
+    },
+    "abstract": "Interaction between spike protein of SARS-CoV-2 and ACE2 receptor on the cells is a potential factor in the infectivity of a host. The protein and nucleotide sequences of ACE2 were initially compared across different species to identify key differences among them. The ACE2 receptor of various species was homology modelled and assessed for its binding ability to the spike receptor-binding domain of SARS-CoV-2. Out of the several spike binding properties of ACE2, a significant difference between the known, infected and uninfected species was observed for Entropy side chain, Van der Waals, Solvation Polar, Solvation Hydrophobic and Interface Residues. However, these parameters did not specifically categorize the animals into infected or uninfected, for all the Orders (of animals). This clearly established the fact that no single parameter should be used to predict SARS-CoV-2 entry. The logistic regression model constructed led to inclusion of Interaction energy, entropy sidechain and entropy mainchain for estimating the probability of viral entry in different species. In the mammalian class, most of the species of Carnivores, Artiodactyls, Perissodactyls, Pholidota, and Primates showed high probability of viral entry. However, among the primates, baboons have very low probability of viral entry. Among rodents, hamsters were highly probable for viral entry with rats and mice having a very low probability. Rabbits have a medium probability of viral entry. In Birds, ducks have a very low probability, while chickens seemed to have medium probability and turkey showed the highest probability of viral entry.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "Livestock",
+        "ACE2",
+        "modeling"
+    ],
+    "funding": [
+        {}
+    ]
+}

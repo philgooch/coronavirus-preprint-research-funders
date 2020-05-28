@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: Epidemiological data from the COVID-19 pandemic has demonstrated variability in attack rates by age, and country-to-country variability in case fatality ratio (CFR). Objective: To use direct and indirect standardization for insights into the impact of age-specific under-reporting on between-country variability in CFR, and apparent size of COVID-19 epidemics. Design: Post-hoc secondary data analysis (case studies), and mathematical modeling. Setting: China, global. Interventions: None. Measurements: Data were extracted from a sentinel epidemiological study by the Chinese Center for Disease Control (CCDC) that describes attack rates and CFR for COVID-19 in China prior to February 12, 2020. Standardized morbidity ratios (SMR) were used to impute missing cases and adjust CFR. Age-specific attack rates and CFR were applied to different countries with differing age structures (Italy, Japan, Indonesia, and Egypt), in order to generate estimates for CFR, apparent epidemic size, and time to outbreak recognition for identical age-specific attack rates. Results: SMR demonstrated that 50-70% of cases were likely missed during the Chinese epidemic. Adjustment for under-recognition of younger cases decreased CFR from 2.4% to 0.8% (assuming 50% case ascertainment in older individuals). Standardizing the Chinese epidemic to countries with older populations (Italy, and Japan) resulted in larger apparent epidemic sizes, higher CFR and earlier outbreak recognition. The opposite effect was demonstrated for countries with younger populations (Indonesia, and Egypt). Limitations: Secondary data analysis based on a single country at an early stage of the COVID-19 pandemic, with no attempt to incorporate second order effects (ICU saturation) on CFR. Conclusion: Direct and indirect standardization are simple tools that provide key insights into between-country variation in the apparent size and severity of COVID-19 epidemics.\nCompeting Interest Statement",
+    "author": "David Fisman; Amy Greer; Ashleigh Tuite",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059832",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059832"
+    },
+    "title": "Standardization and Age-Distribution of COVID-19: Implications for Variability in Case Fatality and Outbreak Identification",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "DNF from the Canadian Institutes for Health Research",
+                    "award-id": [
+                        "2019 COVID-19 rapid researching funding OV4-170360"
+                    ]
+                }
+            ],
+            "funding-statement": "The research was supported by a grant to DNF from the Canadian Institutes for Health Research (2019 COVID-19 rapid researching funding OV4-170360)"
+        }
+    ]
+}

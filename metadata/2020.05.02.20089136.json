@@ -1,0 +1,16 @@
+{
+    "abstract": "In this work, we present an open-source stochastic epidemic simulator, calibrated with extant epidemic experience of COVID-19. Our simulator incorporates information ranging from population demographics and mobility data to health care resource capacity, by region, with interactive controls of system variables to allow dynamic and interactive modeling of events. The simulator can be generalized to model the propagation of any disease, in any territory, but for this experiment was customized to model the spread of COVID-19 in the Republic of Kazakhstan, and estimate outcomes of policy options to inform deliberations on governmental interdiction policies.\nCompeting Interest Statement",
+    "author": "Mukhamet Nurpeiissov; Askat Kuzdeuov; Bauyrzhan Ibragimov; Michael Lewis; Daulet Baimukashev; Almas Mirzakhmetov; Aknur Karabay; Huseyin Atakan Varol",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20089136",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20089136"
+    },
+    "title": "A Network-Based Stochastic Epidemic Simulator: Controlling COVID-19 with Region-Specific Policies",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

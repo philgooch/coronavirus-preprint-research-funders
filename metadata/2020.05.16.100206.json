@@ -1,0 +1,40 @@
+{
+    "title": "Epitope-Based Peptide Vaccine Against Severe Acute Respiratory Syndrome-Coronavirus-2 Nucleocapsid Protein: An in silico Approach",
+    "author": "Ahmed Rakib, Saad Ahmed Sami, Md. Ashiqul Islam, Shahriar Ahmed, Farhana Binta Faiz, Bibi Humayra Khanam, Mir Muhammad Nasir Uddin, Talha Bin Emran",
+    "date": 2020,
+    "affiliations": [
+        "Department of Pharmacy, Faculty of Biological Sciences, University of Chittagong, Chittagong4331, Bangladesh",
+        "Department of Pharmacy, Mawlana Bhashani Science & Technology University, Santosh, Tangail-1902, Bangladesh",
+        "Drug Discovery, GUSTO A Research Group, Chittagong-4000, Bangladesh",
+        "Department of Pharmacy, BGC Trust University Bangladesh, Chittagong-4381, Bangladesh",
+        "Correspondence: Dr. T.B. Emran"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.16.100206",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.16.100206.pdf"
+    },
+    "abstract": "With an increasing fatality rate, severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2) has emerged as a promising threat to human health worldwide. SARS-CoV-2 is a member of the Coronaviridae family, which is transmitted from animal to human and because of being contagious, further it transmitted human to human. Recently, the World Health Organization (WHO) has announced the infectious disease caused by SARS-CoV-2, which is known as coronavirus disease-2019 (COVID-2019) as a global pandemic. But, no specific medications are available for the treatment of COVID-19 so far. As a corollary, there is a need for a potential vaccine to impede the progression of the disease. Lately, it has been documented that the nucleocapsid (N) protein of SARS-CoV-2 is responsible for viral replication as well as interferes with host immune responses. We have comparatively analyzed the sequences of N protein of SARS-CoV-2 for the identification of core attributes and analyzed the ancestry through phylogenetic analysis. Subsequently, we have predicted the most immunogenic epitope for T-cell as well as B-cell. Importantly, our investigation mainly focused on major histocompatibility complex (MHC) class I potential peptides and NTASWFTAL interacted with most human leukocyte antigen (HLA) that are encoded by MHC class I molecules. Further, molecular docking analysis unveiled that NTASWFTAL possessed a greater affinity towards HLA and also available in a greater range of the population. Our study provides a consolidated base for vaccine design and we hope that this computational analysis will pave the way for designing novel vaccine candidates. Keywords: COVID-19, SARS-CoV-2, de novo vaccine, epitope, immunity",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "de novo vaccine",
+        "epitope",
+        "immunity"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Editing LLC.",
+                    "award-id": [
+                        "https://proofreading.org/"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors would like to thank Cambridge Proofreading\u00ae & Editing LLC. (https://proofreading.org/) for editing a draft of this manuscript. 10 Data availability statement The raw data supporting the conclusions of this manuscript will be made available by the authors, without undue reservation, to any qualified researcher"
+        }
+    ]
+}

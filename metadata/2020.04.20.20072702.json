@@ -1,0 +1,33 @@
+{
+    "abstract": "Background: The degree of myocardial injury, reflected by troponin elevation, and associated outcomes among hospitalized patients with Coronavirus Disease (COVID-19) in the US are unknown. Objectives: To describe the degree of myocardial injury and associated outcomes in a large hospitalized cohort with laboratory-confirmed COVID-19. Methods: Patients with COVID-19 admitted to one of five Mount Sinai Health System hospitals in New York City between February 27th and April 12th, 2020 with troponin-I (normal value <0.03ng/mL) measured within 24 hours of admission were included (n=2,736). Demographics, medical history, admission labs, and outcomes were captured from the hospital EHR. Results: The median age was 66.4 years, with 59.6% men. Cardiovascular disease (CVD) including coronary artery disease, atrial fibrillation, and heart failure, was more prevalent in patients with higher troponin concentrations, as were hypertension and diabetes. A total of 506 (18.5%) patients died during hospitalization. Even small amounts of myocardial injury (e.g. troponin I 0.03-0.09ng/mL, n=455, 16.6%) were associated with death (adjusted HR: 1.77, 95% CI 1.39-2.26; P<0.001) while greater amounts (e.g. troponin I>0.09 ng/dL, n=530, 19.4%) were associated with more pronounced risk (adjusted HR 3.23, 95% CI 2.59-4.02). Conclusions: Myocardial injury is prevalent among patients hospitalized with COVID-19, and is associated with higher risk of mortality. Patients with CVD are more likely to have myocardial injury than patients without CVD. Troponin elevation likely reflects non-ischemic or secondary myocardial injury.\nCompeting Interest Statement",
+    "affiliations": [
+        "American College of Cardiology, has received grant support from Novartis Pharmaceuticals and Abbott Diagnostics, consulting income from Abbott, Janssen, Novartis, MyoKardia and Roche Diagnostics, and participates in clinical endpoint committees/data safety monitoring boards for Abbott, AbbVie, Amgen, CVRx, Janssen, and Takeda. Dr. Sean Pinney has received consulting fees from Abbott, CareDx, Medtronic and Procyrion",
+        "National Center for Advancing Translational Sciences, National Institutes of Health"
+    ],
+    "author": "Anuradha Lala; Kipp W Johnson; Fayzan Chaudhry; Adam J Russak; Girish Nadkarni; Valentin Fuster; Sulaiman Solani; James Januzzi; Akhil Vaid; Alexander Charney; Shan Zhao; Jessica K De Freitas; Emilia Bagiella; Benjamin S Glicksberg; Ishan Paranjpe; Zahi A Fayad; Donna M Mancini; Jagat Narula; Matthew Levin; Sean P Pinney",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072702",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072702"
+    },
+    "title": "Prevalence and Impact of Myocardial Injury in Patients Hospitalized with COVID-19 Infection",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Dr James Januzzi"
+                },
+                {
+                    "funding-source": "Trustee of the American College of Cardiology,"
+                },
+                {
+                    "funding-source": "Novartis Pharmaceuticals and Abbott Diagnostics,"
+                },
+                {
+                    "funding-source": "MyoKardia and Roche Diagnostics,"
+                }
+            ],
+            "funding-statement": "Disclosures/Conflict of Interest: Dr James Januzzi is a Trustee of the American College of Cardiology, has received grant support from Novartis Pharmaceuticals and Abbott Diagnostics, consulting income from Abbott, Janssen, Novartis, MyoKardia and Roche Diagnostics, and participates in clinical endpoint committees/data safety monitoring boards for Abbott, AbbVie, Amgen, CVRx, Janssen, and Takeda"
+        }
+    ]
+}

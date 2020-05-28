@@ -1,0 +1,16 @@
+{
+    "abstract": "Population density, behaviour and cultural habits strongly influence the spread of pathogens. Consequently, key epidemiological parameters may vary from country to country. Many estimates of SARS-CoV-2 and COVID-19 strongly depend on testing frequency and case definitions. The fatal cases due to SARS-CoV2 could be a more reliable parameter, since missing of deaths is less likely. We analysed the dynamics of new infection and death cases to estimate the daily reproduction numbers (Rt) and the effectiveness of control measures in the most affected European Countries and the US. In summary, calculating Rt based on the daily number of deaths as well as of new infections may lead to more reliable estimates than those based on infection cases alone, as death based Rt are expected to be less susceptible to testing bias or limited capacities.",
+    "author": "Armin Ensser; Klaus \u00dcberla; Pia \u00dcberla",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20067538",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20067538"
+    },
+    "title": "Modest effects of contact reduction measures on the reproduction number of SARS-CoV-2 in the most affected European countries and the US",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no external funding was received</strong>"
+        }
+    ]
+}

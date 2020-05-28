@@ -1,0 +1,31 @@
+{
+    "title": "An integrated in silico immuno-genetic analytical platform provides insights into COVID-19 serological and vaccine targets",
+    "author": "Daniel Ward",
+    "date": 2020,
+    "affiliations": [
+        "Faculty of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine, London, United Kingdom",
+        "Faculty of Epidemiology and Population Health, London School of Hygiene & Tropical Medicine, Keppel Street, London, WC1E 7HT, United Kingdom",
+        "Taane Clark Department of Infection Biology Faculty of Infectious and Tropical Diseases London School of Hygiene and Tropical Medicine Keppel Street, London WC1E 7HT"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.11.089409",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.11.089409.pdf"
+    },
+    "abstract": "Background: The COVID-19 pandemic is causing a major global health and socio-economic burden, instigating the mobilisation of resources into the development of control tools, such as diagnostics and vaccines. The poor performance of some diagnostic serological tools has emphasised the need for up to date immune-informatic analyses to inform the selection of viable targets for further study. This requires the integration and analysis of genetic and immunological data for SARS-CoV-2 and its homology with other human coronavirus species to understand cross-reactivity. Methods: We have developed an online tool for SARS-CoV-2 research, which combines an extensive epitope mapping and prediction meta-analysis, with an updated variant database (55,944 nonsynonymous mutations) based on 16,087 whole genome sequences, and an analysis of human coronavirus homology. To demonstrate its utility, we present an integrated analysis of the SARSCoV-2 spike and nucleocapsid proteins, which are candidate vaccine and serological diagnostic targets. Results: Our analysis reveals that the nucleocapsid protein in its native form appears to be a suboptimal target for use in serological diagnostic platforms. Whilst, a further analysis suggests that orf3a proteins may be a suitable alternative target for diagnostic assays. Conclusions: The tool can be accessed online (http://genomics.lshtm.ac.uk/immuno) and will serve as a useful tool for biological discovery in the fight against SARS-CoV-2. Further, it may be adapted to inform on biological targets in future outbreaks, including new human coronaviruses that spill over from animal hosts.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council UK"
+                },
+                {
+                    "funding-source": "HDR UK)"
+                }
+            ],
+            "funding-statement": "We gratefully acknowledge the availability of the Medical Research Council UK funded eMedLab (HDR UK) computing resource"
+        }
+    ]
+}

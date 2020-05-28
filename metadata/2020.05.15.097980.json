@@ -1,0 +1,59 @@
+{
+    "title": "Structural analysis of the SARS-CoV-2 methyltransferase complex involved in coronaviral RNA cap creation",
+    "author": "Petra Krafcikova",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Organic Chemistry and Biochemistry AS CR, v.v.i., Flemingovo nam. 2., 166",
+        "Prague 6, Czech Republic"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.15.097980",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.15.097980.pdf"
+    },
+    "abstract": "COVID-19 pandemic is caused by the SARS-CoV-2 virus that has several enzymes that could be targeted by antivirals including a 2'-O RNA methyltransferase (MTase) that is involved in the viral RNA cap formation; an essential process for RNA stability. This MTase is composed of two nonstructural proteins, the nsp16 catalytic subunit and the activating nsp10 protein. We have solved the crystal structure of the nsp10-nsp16 complex bound to the pan-MTase inhibitor sinefungin in the active site. Based on the structural data we built a model of the MTase in complex with RNA that illustrates the catalytic reaction. A structural comparison to the Zika MTase revealed low conservation of the catalytic site between these two RNA viruses suggesting preparation of inhibitors targeting both these viruses will be very difficult. Together, our data will provide the information needed for structure-based drug design.",
+    "keywords": [
+        "SARS-CoV-2",
+        "cap",
+        "crystal structure"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Regional Development Fund; OP",
+                    "award-id": [
+                        "ChemBioDrug"
+                    ]
+                },
+                {
+                    "funding-source": "No CZ.",
+                    "award-id": [
+                        "01/0",
+                        "0/16_019/0000729"
+                    ]
+                }
+            ],
+            "funding-statement": "The work was supported from European Regional Development Fund; OP RDE; Project: \"Chemical biology for drugging undruggable targets (ChemBioDrug)\" (No CZ.02.1.01/0.0/0.0/16_019/0000729)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "MEYS CR",
+                    "award-id": [
+                        "LM2018127"
+                    ]
+                },
+                {
+                    "funding-source": "Academy of Sciences of the Czech Republic",
+                    "award-id": [
+                        "RVO: 61388963"
+                    ]
+                }
+            ],
+            "funding-statement": "We acknowledge CMS-Biocev (\"Diffraction\u201d) supported by MEYS CR (LM2018127) and the Academy of Sciences of the Czech Republic (RVO: 61388963)"
+        }
+    ]
+}

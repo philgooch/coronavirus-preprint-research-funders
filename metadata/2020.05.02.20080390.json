@@ -1,0 +1,16 @@
+{
+    "abstract": "The capacity of current molecular testing convention does not allow high-throughput and community level scans of COVID-19 infections. The diameter in current paradigm of shallow tracing is unlikely to reach the silent clusters that might be as important as the symptomatic cases in the spread of the disease. Group testing is a feasible and promising approach when the resources are scarce and when a relatively low prevalence regime is observed on the population. We employed group testing with a sparse random pooling scheme and conventional group test decoding algorithms both for exact and inexact recovery. Our simulations showed that significant reduction in per case test numbers (or expansion in total test numbers preserving the number of actual tests conducted) for very sparse prevalence regimes is available. Currently proposed COVID-19 group testing schemes offer a gain up to 10X scale-up. There is a good probability that the required scale up to achieve massive scale testing might be greater in certain scenarios. We investigated if further improvement is available, especially in sparse prevalence occurrence where outbreaks are needed to be avoided by population scans. Our simulations show that sparse random pooling can provide improved efficiency gains compared to row-column group testing or Reed-Solomon error correcting codes. Therefore, we propose that special designs for different scenarios could be available and it is possible to scale up testing capabilities significantly.",
+    "author": "Ozkan Ufuk Nalbantoglu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20080390",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20080390"
+    },
+    "title": "Group Testing Performance Evaluation for SARS-CoV-2 Massive Scale Screening and Testing",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No related funding was received for the study"
+        }
+    ]
+}

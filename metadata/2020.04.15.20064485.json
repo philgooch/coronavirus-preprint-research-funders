@@ -1,0 +1,23 @@
+{
+    "abstract": "Background and Objectives: The coronavirus disease 2019 (COVID-19) infected 586,000 patients in the U.S. However, the COVDI-19 daily incidence and deaths in the U.S. are poorly understood. Internet search interest was found highly correlated with COVID-19 daily incidence in China, but not yet applied to the U.S. Therefore, we examined the association of search interest with COVID-19 daily incidence and deaths in the U.S. Methods: We extracted the COVDI-19 daily incidence and death data in the U.S. from two population-based datasets. The search interest of COVID-19 related terms was obtained using Google Trends. Pearson correlation test and general linear model were used to examine correlations and predict future trends, respectively. Results: There were 555,245 new cases and 22,019 deaths of COVID-19 reported in the U.S. from March 1 to April 12, 2020. The search interest of COVID, COVID pneumonia, and COVID heart were correlated with COVDI-19 daily incidence with about 12-day of delay (Pearson r=0.978, 0.978 and 0.979, respectively) and deaths with 19-day of delay (Pearson r=0.963, 0.958 and 0.970, respectively). The COVID-19 daily incidence and deaths appeared to both peak on April 10. The 4-day follow-up with prospectively collected data showed moderate to good accuracies for predicting new cases (Pearson r=-0.641 to -0.833) and poor to good acuracies for daily new deaths (Pearson r=0.365 to 0.935). Conclusions: Search terms related to COVID-19 are highly correlated with the trends in COVID-19 daily incidence and deaths in the U.S. The prediction-models based on the search interest trend reached moderate to good accuracies.",
+    "author": "Sabiha Hussain; Lanjing Zhang; Nan Gao; Xiaoling Yuan; Jie Xu; He Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20064485",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20064485"
+    },
+    "title": "Trends and prediction in daily incidence and deaths of COVID-19 in the United States: a search-interest based model",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R01DK119198 to N.G."
+                    ]
+                }
+            ],
+            "funding-statement": "The works were in part supported by NIH (R01DK119198 to N.G. and L.Z.)."
+        }
+    ]
+}

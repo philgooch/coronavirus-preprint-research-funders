@@ -1,0 +1,27 @@
+{
+    "abstract": "Based on the official data modeling, this paper studies the transmission process of the Corona Virus Disease 2019 (COVID-19). The error between the model and the official data curve is within 3%. At the same time, it realized forward prediction and backward inference of the epidemic situation, and the relevant analysis help relevant countries to make decisions.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Natural Science Foundation of China (Grant Nos. 61771071, 61573067)"
+    ],
+    "author": "ZhongKai Dang; JiaXuan Zhang; ZiHang Yang; HaoTian Meng; Cui Meng; JingZe Huang; LiXiang Li; HaiPeng Peng; GuanHua Chen; DeYu Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.03.14.20036202",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.14.20036202"
+    },
+    "title": "Propagation analysis and prediction of the COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "61771071",
+                        "61573067"
+                    ]
+                }
+            ],
+            "funding-statement": "This paper is supported the National Natural Science Foundation of China (Grant Nos. 61771071, 61573067)."
+        }
+    ]
+}

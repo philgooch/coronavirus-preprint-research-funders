@@ -1,0 +1,50 @@
+{
+    "abstract": "The coronavirus disease 2019 (COVID-19) outbreak is placing a considerable strain on U.S. healthcare systems. Due to presumptions of poor outcomes in such critically ill patients, many hospitals have started considering a universal do-not-resuscitate order in patients with confirmed Covid-19 given a limited supply of intensive care unit (ICU) beds and the potential risk of transmission of infection to healthcare workers during resuscitation. However, empirical data on survival of cardiac arrest in Covid-19 patients are unavailable at this time. To inform this debate, we report survival outcomes following cardiopulmonary resuscitation in a cohort of similar critically ill patients with pneumonia or sepsis who were receiving mechanical ventilation in an ICU at the time of arrest. The probability of survival without severe neurological disability (CPC of 1 or 2) ranged from less than 3% to over 22% across key patient subgroups, For patients with an initial rhythm of asystole or PEA, who were also receiving vasopressors at the time of arrest, fewer than 10% were discharged without severe neurological disability (CPC of 1 or 2), and this number dropped to less than 3% in patients over 80 years old. In contrast, survival rates were much higher in younger patients, patients with an initial rhythm of VF or pulseless VT, and in patients receiving ventilatory support without vasopressors. Our findings suggest caution in universal resuscitation policies. Even in a cohort of critically ill patients on mechanical ventilation, survival outcomes following in-hospital resuscitation were not uniformly poor and varied markedly depending on age, co-morbidities and illness severity. We believe that these data can help inform discussions among patients, providers and hospital leaders regarding resuscitation policies and goals of care in the context of the COVID-19 pandemic.",
+    "author": "Saket Girotra; Yuanyuan Tang; Paul Chan; Brahmajee K Nallamothu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20060749",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20060749"
+    },
+    "title": "Survival After In-Hospital Cardiac Arrest In Critically Ill Patients: Implications For The Covid-19 Pandemic?",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "VA Office of Rural Heath"
+                }
+            ],
+            "funding-statement": "Dr Girotra is supported by a pilot grant from the VA Office of Rural Heath"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "R01HL123980"
+                    ]
+                },
+                {
+                    "funding-source": "Dr Chan and Dr Nallamothu)"
+                }
+            ],
+            "funding-statement": "This study was funded by the National Institutes of Health (R01HL123980, Co-PI: Dr Chan and Dr Nallamothu)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "American Heart Association and Optum Rx"
+                }
+            ],
+            "funding-statement": "Dr Chan has received consultant funding from the American Heart Association and Optum Rx"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "American Heart Association for"
+                }
+            ],
+            "funding-statement": "Dr Nallamothu also received funding from VA HSR&D (IIR 13-079) during the study period and receives an honorarium from the American Heart Association for editorial work"
+        }
+    ]
+}

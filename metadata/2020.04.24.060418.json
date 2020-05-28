@@ -1,0 +1,56 @@
+{
+    "title": "Treating Influenza and SARS-CoV-2 via mRNA-encoded Cas13a",
+    "author": "M. Bernardes Silva",
+    "date": 2020,
+    "affiliations": [
+        "Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University, Krone Engineering Biosystems Building, 950 Atlantic Dr. NW, Atlanta, GA, 30332, USA. Tel: +1-404-385-7644; Fax: +1-404-8944243",
+        "School of Chemistry and Biochemistry, Georgia Institute of Technology, Atlanta, GA, USA",
+        "Department of Veterinary Biosciences and Diagnostic Imaging, College of Veterinary Medicine University of Georgia, Athens GA USA",
+        "Department of Infectious Diseases, College of Veterinary Medicine University of Georgia, Athens GA USA",
+        "Department of Veterinary Biosciences and Diagnostic Imaging and Infectious Diseases, College of Veterinary Medicine University of Georgia, Athens GA USA",
+        "Correspondence should be addressed to: Chiara Zurla"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.24.060418",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.24.060418.pdf"
+    },
+    "abstract": "Here, Cas13a has been used to target and mitigate influenza virus A (IAV) and\nSARS-CoV-2 using a synthetic mRNA-based platform. CRISPR RNAs (crRNA) against PB1 and highly conserved regions of PB2 were screened in conjunction with mRNA-encoded Cas13a. Screens were designed such that only guides that decreased influenza RNA levels in a Cas13-mediated fashion, were valid. Cas13a mRNA and validated guides, delivered post-infection, simulating treatment, were tested in combination and across multiplicities of infection. Their function was also characterized over time. Similar screens were performed for guides against SARSCoV-2, yielding multiple guides that significantly impacted cytopathic effect. Last, the approach was utilized in vivo, demonstrating the ability to degrade influenza RNA in a mouse model of infection, using polymer-formulated, nebulizer-based mRNA delivery. Our findings demonstrate the applicability of Cas13a in mitigating respiratory infections both in vitro and in a mouse model, paving the way for future therapeutic use. Keywords: Cas13a, Influenza, SARS-CoV-2, nebulizer- mediated mRNA delivery",
+    "keywords": [
+        "Cas13a",
+        "Influenza",
+        "SARS-CoV-2",
+        "nebulizer",
+        "mediated mRNA delivery"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "FUNDING The"
+                },
+                {
+                    "funding-source": "Defense Advanced Research Projects Agency",
+                    "award-id": [
+                        "HR00111920008"
+                    ]
+                },
+                {
+                    "funding-source": "AUTHOR CONTRIBUTION ELB SB CZ and PJS Developed"
+                },
+                {
+                    "funding-source": "ELB Performed"
+                },
+                {
+                    "funding-source": "DV Developed"
+                },
+                {
+                    "funding-source": "SARS-CoV-2 CPE"
+                }
+            ],
+            "funding-statement": "FUNDING The study was supported by Defense Advanced Research Projects Agency (DARPA), Grant number HR00111920008. AUTHOR CONTRIBUTION ELB SB CZ and PJS Developed screening assays, ELB Performed PB1 guide screens, guide combinations, MOI and time course studies in vitro. DV Developed nose-cone nebulizer setup and optimized polymer-based delivery, performed in vivo experiments and data analysis, designed SARS-CoV-2 guides and transfections. SB and PT designed Cas13 mRNA and guides and PT performed PB2 screens. CZ performed endogenous gene knockdown experiments. LR synthesized the polymer and assisted with in vivo studies. NB, RH, and MGF assisted with polymer production. JB assisted with delivery experiment. HP synthesized mRNA and assisted with in vivo studies. JH, FM, and ERL performed SARS-CoV-2 CPE assays. PJS designed experiments and wrote the manuscript."
+        }
+    ]
+}

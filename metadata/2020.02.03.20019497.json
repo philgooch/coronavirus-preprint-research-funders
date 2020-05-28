@@ -1,0 +1,47 @@
+{
+    "abstract": "Objective: To estimate the serial interval of novel coronavirus (COVID-19) from information on 28 infector-infectee pairs. Methods: We collected dates of illness onset for primary cases (infectors) and secondary cases (infectees) from published research articles and case investigation reports. We subjectively ranked the credibility of the data and performed analyses on both the full dataset (n=28) and a subset of pairs with highest certainty in reporting (n=18). In addition, we adjusting for right truncation of the data as the epidemic is still in its growth phase. Results: Accounting for right truncation and analyzing all pairs, we estimated the median serial interval at 4.0 days (95% credible interval [CrI]: 3.1, 4.9). Limiting our data to only the most certain pairs, the median serial interval was estimated at 4.6 days (95% CrI: 3.5, 5.9). Conclusions: The serial interval of COVID-19 is shorter than its median incubation period. This suggests that a substantial proportion of secondary transmission may occur prior to illness onset. The COVID-19 serial interval is also shorter than the serial interval of severe acute respiratory syndrome (SARS), indicating that calculations made using the SARS serial interval may introduce bias.",
+    "author": "Andrei R. Akhmetzhanov; Natalie M Linton; Hiroshi Nishiura",
+    "date": 2020,
+    "doi": "10.1101/2020.02.03.20019497",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.03.20019497"
+    },
+    "title": "Serial interval of novel coronavirus (2019-nCoV) infections",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Japan Agency for Medical Research and Development",
+                    "award-id": [
+                        "JP18fk0108050"
+                    ]
+                },
+                {
+                    "funding-source": "Japan Society for the Promotion of Science"
+                },
+                {
+                    "funding-source": "Grants-in-Aid for Scientific Research"
+                },
+                {
+                    "funding-source": "KAKENHI in Japanese",
+                    "award-id": [
+                        "17H04701",
+                        "17H05808",
+                        "18H04895",
+                        "19H01074"
+                    ]
+                },
+                {
+                    "funding-source": "Japan Science and Technology Agency"
+                },
+                {
+                    "funding-source": "Core Research for Evolutional Science and Technology",
+                    "award-id": [
+                        "JPMJCR1413"
+                    ]
+                }
+            ],
+            "funding-statement": "H.N. received funding support from Japan Agency for Medical Research and Development [grant number: JP18fk0108050] the Japan Society for the Promotion of Science (JSPS) Grants-in-Aid for Scientific Research (KAKENHI in Japanese abbreviation) grant nos. 17H04701, 17H05808, 18H04895 and 19H01074, and the Japan Science and Technology Agency (JST) Core Research for Evolutional Science and Technology (CREST) program [grant number: JPMJCR1413]"
+        }
+    ]
+}

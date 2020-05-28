@@ -1,0 +1,23 @@
+{
+    "abstract": "This study analyzes the link between temperatures and COVID-19 contagions in a sample of Italian regions during the period ranging from February 24 to April 15. To that end, Bayesian Model Averaging techniques are used to analyze the relevance of the temperatures together with a set of additional climate, environmental, demographic, social and policy factors. The robustness of individual covariates is measured through posterior inclusion probabilities. The empirical analysis provides conclusive evidence on the role played by the temperatures given that it appears as the most relevant determinant of contagions. This finding is robust to (i) the prior distribution elicitation, (ii) the procedure to assign weights to the regressors, (iii) the presence of measurement errors in official data due to under-reporting, (iv) the employment of different metrics of temperatures or (v) the inclusion of additional correlates. In a second step, relative importance metrics that perform an accurate partitioning of the R2 of the model are calculated. The results of this approach support the evidence of the model averaging analysis, given that temperature is the top driver explaining 45% of regional contagion disparities. The set of policy-related factors appear in a second level of importance, whereas factors related to the degree of social connectedness or the demographic characteristics are less relevant.",
+    "author": "Vicente Rios; Lisa Gianmoena",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20101261",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20101261"
+    },
+    "title": "Is there a link between temperatures and COVID-19 contagions? Evidence from Italy",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Spanish Ministry of Economy and Competitiveness",
+                    "award-id": [
+                        "Project ECO2016-76681-R"
+                    ]
+                }
+            ],
+            "funding-statement": "This research has benefited from the financial support of the Spanish Ministry of Economy and Competitiveness (Project ECO2016-76681-R)."
+        }
+    ]
+}

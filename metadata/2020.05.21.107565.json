@@ -1,0 +1,59 @@
+{
+    "title": "Immunization with the receptor\u2013binding domain of SARS-CoV-2 elicits antibodies cross-neutralizing SARS-CoV-2 and SARS-CoV without antibody-dependent enhancement",
+    "author": "Jinkai Zang, #, Chenjian Gu, #, Bingjie Zhou, #, Chao Zhang, #, Yong Yang, #, Shiqi Xu, Xueyang Zhang, Yu Zhou, Lulu Bai, Yang Wu, Zhiping Sun, Rong Zhang, Qiang Deng, Zhenghong Yuan, Hong Tang, Di Qu, Dimitri Lavillette, Youhua Xie 2, Zhong Huang 1,* 1 CAS Key Laboratory of Molecular Virology & Immunology, Institut Pasteur of Shanghai, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China 2 Key Laboratory of Medical Molecular Virology (MOE/NHC/CAMS), Department of Medical Microbiology and Parasitology, School of Basic Medical Sciences, Shanghai Medical College, Fudan University, Shanghai, China 3 BSL-3 Laboratory of Fudan University, School of Basic Medical Sciences, Shanghai Medical College, Fudan University, Shanghai, China # These authors contributed equally * Corresponding author: Zhong Huang (huangzhong@ips.ac.cn) or Youhua Xie (yhxie@fudan.edu.cn) or Dimitri Lavillette (dlaville@ips.ac.cn)",
+    "date": 2020,
+    "affiliations": [
+        "CAS Key Laboratory of Molecular Virology & Immunology, Institut Pasteur of Shanghai, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China",
+        "Key Laboratory of Medical Molecular Virology (MOE/NHC/CAMS), Department of Medical Microbiology and Parasitology, School of Basic Medical Sciences, Shanghai Medical College, Fudan University, Shanghai, China",
+        "BSL-3 Laboratory of Fudan University, School of Basic Medical Sciences, Shanghai Medical College, Fudan University, Shanghai, China # These authors contributed equally",
+        "Corresponding author: Zhong Huang"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.21.107565",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.21.107565.pdf"
+    },
+    "abstract": "Recently emerged severe acute respiratory syndrome coronavirus 2\n(SARS-CoV-2) is the pathogen responsible for the ongoing coronavirus disease 2019 (COVID-19) pandemic. Currently, there is no vaccine available for preventing SARS-CoV-2 infection. Like closely related severe acute respiratory syndrome coronavirus (SARS-CoV), SARS-CoV-2 also uses its receptor-binding domain (RBD) on the spike (S) protein to engage the host receptor, human angiotensin-converting enzyme 2 (ACE2), facilitating subsequent viral entry. Here we report the immunogenicity and vaccine potential of SARS-CoV-2 RBD (SARS2-RBD)-based recombinant proteins. Immunization with SARS2-RBD recombinant proteins potently induced a multi-functional antibody response in mice. The resulting antisera could efficiently block the interaction between SARS2-RBD and ACE2, inhibit S-mediated cell-cell fusion, and neutralize both SARS-CoV-2 pseudovirus entry and authentic SARS-CoV-2 infection. In addition, the anti-RBD sera also exhibited cross binding, ACE2-blockade, and neutralization effects towards SARS-CoV. More importantly, we found that the anti-RBD sera did not promote antibody-dependent enhancement of either SARS-CoV-2 pseudovirus entry or authentic virus infection of Fc receptor-bearing cells. These findings provide a solid foundation for developing RBD-based subunit vaccines for SARS-CoV2.",
+    "keywords": [
+        "SARS-CoV-2",
+        "receptor-binding domain",
+        "vaccine",
+        "neutralizing antibody",
+        "antibody-dependent enhancement"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chinese Academy of Sciences",
+                    "award-id": [
+                        "XDB29040300"
+                    ]
+                },
+                {
+                    "funding-source": "Chinese Ministry of Science and Technology",
+                    "award-id": [
+                        "2020YFC0845900"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by grants from the Chinese Academy of Sciences (XDB29040300) and from the Chinese Ministry of Science and Technology (2020YFC0845900)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The BSL-3"
+                },
+                {
+                    "funding-source": "Fudan University"
+                },
+                {
+                    "funding-source": "Shanghai Science and Technology Committee and Project of Novel Coronavirus Research from Fudan University"
+                }
+            ],
+            "funding-statement": "The BSL-3 lab of Fudan University was supported by Shanghai Science and Technology Committee and Project of Novel Coronavirus Research from Fudan University"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "abstract": "The recent pandemic of COVID-19 has involved tens of thousands of patients in numerous countries and the causative virus, SARS COV-2 is highly transmissible. Molecular diagnostic tools are central to containment of the virus and initiating proper clinical care. Rapidity, user-friendliness, and high degree of sensitivity and specificity are desirable features of diagnostic assays for screening purposes. Herein, we present a single step reverse transcriptase LAMP assay (RT-LAMP), which can detect up to 500 viral copies in 30 minutes. We challenged our assay with a large number of clinical samples collected from 47 confirmed cases and 213 negative patients. Our LAMP assay showed a high degree of sensitivity and specificity compared to two commercialized qRT-PCR assay as gold standard. We present a rapid RT-LAMP assay that could extend the capacity of laboratories to process 2.5 more clinical samples relative to qRT-PCR and potentially could be used for high-throughput screening purposes.",
+    "affiliations": [
+        "Major National R&D Projects of the National Health Department (2018ZX10101003), National Natural Science Foundation of China (31770161), Shanghai Science and Technology Committee (grant numbers 17DZ2272900 and 14495800500), Shanghai Municipal Commission of Health and Family Planning (2017ZZ01024-001)"
+    ],
+    "author": "Liyan ling; Farnaz Farnaz Daneshnia; Xiaojing Li; Minghua Jiang; Jian Yu; Wanqing Liao; Hao Pei; Weihua Pan; Hua Fang; Cornelia Lass-Florl; Wenjie Fang; Amir Arastehfar",
+    "date": 2020,
+    "doi": "10.1101/2020.03.15.20036376",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.15.20036376"
+    },
+    "title": "Development and validation of a rapid single-step reverse transcriptase loop-mediated isothermal amplification (RT-LAMP) system potentially to be used for reliable and high-throughput screening of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Shanghai Sailing Program",
+                    "award-id": [
+                        "19YF1448000"
+                    ]
+                },
+                {
+                    "funding-source": "Major National R&D Projects of the National Health Department",
+                    "award-id": [
+                        "2018ZX10101003"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31770161"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Science and Technology Committee",
+                    "award-id": [
+                        "17DZ2272900",
+                        "14495800500"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Municipal Commission of Health and Family Planning",
+                    "award-id": [
+                        "2017ZZ01024-001"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Shanghai Sailing Program (19YF1448000), the Major National R&D Projects of the National Health Department (2018ZX10101003), National Natural Science Foundation of China (31770161), Shanghai Science and Technology Committee (grant numbers 17DZ2272900 and 14495800500), Shanghai Municipal Commission of Health and Family Planning (2017ZZ01024-001)"
+        }
+    ]
+}

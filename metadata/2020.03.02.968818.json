@@ -1,0 +1,60 @@
+{
+    "title": "Rapid metagenomic characterization of a case of imported COVID-19 in Cambodia",
+    "author": "Jessica E. Manning, Jennifer A. Bohl, Sreyngim Lay, Sophana Chea, Ly Sovann, Yi Sengdoeurn, Seng Heng, Chan Vuthy, Katrina Kalantar, Vida Ahyong, Michelle Tan, Jonathan Sheu, Cristina M. Tato, Joseph L. DeRisi, Laurence Baril, Veasna Duong, Philippe Dussart, Erik A. Karlsson,#",
+    "date": 2020,
+    "affiliations": [
+        "1 \u2013 Laboratory of Malaria and Vector Research, US National Institute of Allergy and Infectious Diseases, Phnom Penh, Cambodia 2 \u2013 Cambodian Center for Disease Control, Ministry of Health, Phnom Penh, Cambodia 3 \u2013 Chan Zuckerberg Initiative, Redwood City, California, USA 4 \u2013 Chan Zuckerberg Biohub, San Francisco, California, USA 5 \u2013 Institut Pasteur du Cambodge, Phnom Penh, Cambodia 6 \u2013 Virology Unit, Institut Pasteur du Cambodge, Phnom Penh, Cambodia",
+        "For correspondence on rapid",
+        "NGS sequencing:",
+        "Hong Kong University protocols and confirmed positive on January 27th, 2020.7",
+        "National Center for Biotechnology Information (NCBI) Sequence Read Archive"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.02.968818",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.02.968818.pdf"
+    },
+    "abstract": "Rapid production and publication of pathogen genome sequences during emerging disease outbreaks provide crucial public health information. In resource-limited settings, especially near an outbreak epicenter, conventional deep sequencing or bioinformatics are often challenging. Here we successfully used metagenomic next generation sequencing on an iSeq100 Illumina platform paired with an open-source bioinformatics pipeline to quickly characterize Cambodia\u2019s first case of COVID-2019.",
+    "keywords": [
+        "unbiased metagenomics",
+        "sequencing",
+        "coronavirus",
+        "COVID-19",
+        "SARS-CoV-2"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Division of Intramural Research"
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases"
+                },
+                {
+                    "funding-source": "National Institutes of Health and the Bill and Melinda Gates Foundation"
+                }
+            ],
+            "funding-statement": "The work of Dr Manning is supported by the Division of Intramural Research at the National Institute of Allergy and Infectious Diseases at the National Institutes of Health and the Bill and Melinda Gates Foundation"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "U.S Department of Health and Human Services, Office"
+                },
+                {
+                    "funding-source": "Assistant Secretary for Preparedness and Response",
+                    "award-id": [
+                        "1 IDSEP190051-01-00"
+                    ]
+                },
+                {
+                    "funding-source": "Institut Pasteur in Cambodia"
+                }
+            ],
+            "funding-statement": "The work of Dr Karlsson is supported, in part, by , by the U.S Department of Health and Human Services, Office of the Assistant Secretary for Preparedness and Response (Grant No 1 IDSEP190051-01-00) and through internal funding at Institut Pasteur in Cambodia"
+        }
+    ]
+}

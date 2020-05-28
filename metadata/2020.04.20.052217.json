@@ -1,0 +1,29 @@
+{
+    "title": "SARS-CoV-2 Encodes a PPxY Late Domain Motif that is Known to Enhance Budding and Spread in Enveloped RNA Viruses",
+    "date": 2020,
+    "affiliations": [
+        "Institut de biologie int\u00e9grative et des syst\u00e8mes (IBIS). Universit\u00e9 Laval. Qu\u00e9bec. Canada",
+        "",
+        "ABSTRACT Currently, the global COVID-19 (Coronavirus Disease-2019) pandemic is 9 affecting the health and/or socioeconomic life of almost each people in the world. Finding 10 vaccines and therapeutics is urgent but without forgetting to elucidate the molecular 11 mechanisms that allow some viruses to become dangerous for humans. Here, analysis of 12 all proteins of SARS-CoV-2 revealed a unique PPxY Late (L) domain motif"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.20.052217",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.20.052217.pdf"
+    },
+    "keywords": [
+        "SARS-CoV-2",
+        "Spike protein",
+        "PPxY Late Domain Motif",
+        "WW-domain",
+        "25 Nedd4 E3 ubiquitin ligases",
+        "Budding",
+        "Spread"
+    ],
+    "abstract": "Currently, the global COVID-19 (Coronavirus Disease-2019) pandemic is affecting the health and/or socioeconomic life of almost each people in the world. Finding vaccines and therapeutics is urgent but without forgetting to elucidate the molecular mechanisms that allow some viruses to become dangerous for humans. Here, analysis of all proteins of SARS-CoV-2 revealed a unique PPxY Late (L) domain motif 25PPAY28 in spike protein inside hot disordered loop predicted subject to phosphorylation and binding.\nIt was demonstrated in enveloped RNA viruses that PPxY motif recruits Nedd4 E3 ubiquitin ligases and ultimately the ESCRT complex to enhance virus budding and release that means a high viral load, hence facilitating new infections. Note that PPxY motif is not present in proteins of SARS-CoV. This suggests that PPxY motif by its role in enhancing the viral load could explain why SARS-CoV-2 is more contagious than SARS-CoV. Of course, after the experimental verifications showing that PPxY motif plays the same role as reported for other enveloped RNA viruses, it could become an interesting target for the development of novel host-oriented antivirals therapeutics for preventing S protein to recruit Nedd4 E3 ubiquitin ligases partners.",
+    "funding": [
+        {}
+    ]
+}

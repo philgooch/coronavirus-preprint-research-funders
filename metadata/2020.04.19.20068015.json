@@ -1,0 +1,69 @@
+{
+    "abstract": "Background: Coronavirus disease 2019 (Covid-19) is a major global threat that has already caused more than 100,000 deaths worldwide. It is characterized by distinct patterns of disease progression implying a diverse host immune response. However, the immunological features and molecular mechanisms involved in Covid-19 severity remain so far poorly known. Methods: We performed an integrated immune analysis that included in-depth phenotypical profiling of immune cells, whole-blood transcriptomic and cytokine quantification on a cohort of fifty Covid19 patients with a spectrum of disease severity. All patient were tested 8 to 12 days following first symptoms and in absence of anti-inflammatory therapy. Results: A unique phenotype in severe and critically ill patients was identified. It consists in a profoundly impaired interferon (IFN) type I response characterized by a low interferon production and activity, with consequent downregulation of interferon-stimulated genes. This was associated with a persistent blood virus load and an exacerbated inflammatory response that was partially driven by the transcriptional factor NF\u03baB. It was also characterized by increased tumor necrosis factor (TNF)-\u03b1 and interleukin (IL)-6 production and signaling as well as increased innate immune chemokines. Conclusion: We propose that type-I IFN deficiency in the blood is a hallmark of severe Covid-19 and could identify and define a high-risk population. Our study provides a rationale for testing IFN administration combined with adapted anti-inflammatory therapy targeting IL-6 or TNF-\u03b1 in most severe patients. These data also raise concern for utilization of drugs that interfere with the IFN pathway.\nCompeting Interest Statement",
+    "author": "Nicolas Roche; Alain Fischer; Caroline Morbieu; Paul Breillat; Flore Rozenberg; Sarah Merkling; Aurelien Corneau; Tali-Anne Szwebel; Frederic Rieux-Laucat; Laura Barnabei; Nikaia Smith; Pierre-Louis Tharaux; Helene Pere; Luc Mouthon; Nicolas Carlier; Vincent Bondet; Darragh Duffy; Solen Kerneis; Frederic Pene; Remy Gauzit; David Veyer; Nader Yatim; Nathalie Marin; Jean-Marc Treluyer; Jerome Hadjadj; Camille Chenevier-Gobeaux; Benjamin Terrier; Bruno Charbit; Catherine Blanc; Jeremy Boussier",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20068015",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20068015"
+    },
+    "title": "Impaired type I interferon activity and exacerbated inflammatory responses in severe Covid-19 patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fonds IMMUNOV,"
+                },
+                {
+                    "funding-source": "Innovation in Immunopathology"
+                }
+            ],
+            "funding-statement": "This study was supported by the Fonds IMMUNOV, for Innovation in Immunopathology"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale"
+                },
+                {
+                    "funding-source": "Agence National de la Recherche"
+                },
+                {
+                    "funding-source": "Investment for the Future\u201d",
+                    "award-id": [
+                        "ANR-10-IAHU-01"
+                    ]
+                },
+                {
+                    "funding-source": "Agence National de la Recherche",
+                    "award-id": [
+                        "ANR-flash Covid19 \u201cAIROCovid\u201d to FRL"
+                    ]
+                }
+            ],
+            "funding-statement": "The study was also supported by the Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale (INSERM), by a government grant managed by the Agence National de la Recherche as part of the \u201cInvestment for the Future\u201d program (ANR-10-IAHU-01), and by a grant from the Agence National de la Recherche (ANR-flash Covid19 \u201cAIROCovid\u201d to FRL)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "EUR G.E.N.E.",
+                    "award-id": [
+                        "reference #ANR-17-EURE-0013"
+                    ]
+                },
+                {
+                    "funding-source": "Universit\u00e9 de Paris IdEx",
+                    "award-id": [
+                        "ANR-18-IDEX-0001"
+                    ]
+                },
+                {
+                    "funding-source": "French Government"
+                },
+                {
+                    "funding-source": "Investments for the Future\u201d"
+                }
+            ],
+            "funding-statement": "L.B. is supported by the EUR G.E.N.E. (reference #ANR-17-EURE-0013) program of the Universit\u00e9 de Paris IdEx #ANR-18-IDEX-0001 funded by the French Government through its \u201cInvestments for the Future\u201d program"
+        }
+    ]
+}

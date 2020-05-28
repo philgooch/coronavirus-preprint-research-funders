@@ -1,0 +1,27 @@
+{
+    "title": "A Combined approach of MALDI-TOF Mass Spectrometry and multivariate analysis as a potential tool for the detection of SARS-CoV-2 virus in nasopharyngeal swabs.",
+    "author": "Mar\u00eda Florencia Rocca,*\u00b6, Jonathan Cristian Zintgraff 1,2\u00b6, Mar\u00eda",
+    "date": 2020,
+    "affiliations": [
+        "Instituto Nacional de Enfermedades Infecciosas (INEI) \u2013 Administraci\u00f3n Nacional de Laboratorios",
+        "Institutos de Salud (ANLIS) \u201cDr. Carlos G. Malbr\u00e1n\u201d, Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+        "Red Nacional de Espectrometr\u00eda de Masas aplicada a la Microbiolog\u00eda Cl\u00ednica (ReNaEM Argentina)",
+        "Servicio de Virosis respiratorias, Centro Nacional de Influenza de OMS, Laboratorio Nacional de Referencia de Enfermedades Respiratorias Virales del Ministerio de Salud, Departamento de Virolog\u00eda, Instituto Nacional de Enfermedades Infecciosas (INEI) \u2013Administraci\u00f3n Nacional de Laboratorios",
+        "Institutos de Salud (ANLIS) \u201cDr. Carlos G. Malbr\u00e1n\u201d, Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+        "Instituto de Qu\u00edmica de Recursos Naturales, Universidad de Talca, Talca 3460000, Chile",
+        "Laboratorio de Bacteriolog\u00eda, Departamento de Bioqu\u00edmica Cl\u00ednica, Hospital de Cl\u00ednicas Jos\u00e9 de San Mart\u00edn, Facultad de Farmacia y Bioqu\u00edmica, Universidad de Buenos Aires, Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+        "CONICET, Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas, Argentina",
+        "Instituto de Ciencias Qu\u00edmicas Aplicadas, Universidad Aut\u00f3noma de Chile, Talca 3467987, Chile"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.07.082925",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.07.082925.pdf"
+    },
+    "abstract": "Coronavirus disease 2019 (COVID-19) is caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The rapid, sensitive and specific diagnosis of SARS-CoV-2 by fast and unambiguous testing is widely recognized to be critical in responding to the ongoing outbreak. Since the current testing capacity of RT-PCR-based methods is being challenged due to the extraordinary demand of supplies, such as RNA extraction kits and PCR reagents worldwide, alternative and/or complementary testing assays should be developed. Here, we exploit the potential of mass spectrometry technology combined with machine learning algorithms as an alternative fast tool for SARSCoV-2 detection from nasopharyngeal swabs samples. According to our preliminary results, mass spectrometry-based methods combined with multivariate analysis showed an interesting potential as a complementary diagnostic tool and further steps should be focused on sample preparation protocols and the improvement of the technology applied.",
+    "funding": [
+        {}
+    ]
+}

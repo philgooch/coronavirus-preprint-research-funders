@@ -1,0 +1,318 @@
+{
+    "abstract": "Background: To mitigate and slow the spread of COVID-19, many countries have adopted unprecedented physical distancing policies, including the UK. We evaluate whether these measures might be sufficient to control the epidemic by estimating their impact on the reproduction number (R0, the average number of secondary cases generated per case). Methods: We asked a representative sample of UK adults about their contact patterns on the previous day. The questionnaire documents the age and location of contacts and as well as a measure of their intimacy (whether physical contact was made or not). In addition, we asked about adherence to different physical distancing measures. The first surveys were sent on Tuesday 24th March, one day after a \u201clockdown\u201d was implemented across the UK. We compared measured contact patterns during the lockdown to patterns of social contact made during a non-epidemic period. By comparing these, we estimated the change in reproduction number as a consequence of the physical distancing measures imposed. We used a meta-analysis of published estimates to inform our estimates of the reproduction number before interventions were put in place. Findings: We found a 73% reduction in the average daily number of contacts observed per participant (from 10.2 to 2.9). This would be sufficient to reduce R0 from 2.6 prior to lockdown to 0.62 (95% confidence interval [CI] 0.37 - 0.89) after the lockdown, based on all types of contact and 0.37 (95% CI = 0.22 - 0.53) for physical contacts only. Interpretation: The physical distancing measures adopted by the UK public have substantially reduced contact levels and will likely lead to a substantial impact and a decline in cases in the coming weeks. However, this projected decline in incidence will not occur immediately as there are significant delays between infection, the onset of symptomatic disease and hospitalisation, as well as further delays to these events being reported. Tracking behavioural change can give a more rapid assessment of the impact of physical distancing measures than routine epidemiological surveillance.\nCompeting Interest Statement",
+    "author": "Kevin Van Zandvoort; Petra Klepac; Christopher I Jarvis; G James Rubin; W John Edmunds; Amy Gimma; Kiesha Prem; CMMID COVID-19 working group",
+    "date": 2020,
+    "doi": "10.1101/2020.03.31.20049023",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.31.20049023"
+    },
+    "title": "Quantifying the impact of physical distance measures on the transmission of COVID-19 in the UK",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research and Innovations Programme"
+                },
+                {
+                    "funding-source": "Epidemic Intelligence",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Public Health, Societal",
+                    "award-id": [
+                        "101003688"
+                    ]
+                },
+                {
+                    "funding-source": "Economical Impact, No",
+                    "award-id": [
+                        "101003688"
+                    ]
+                }
+            ],
+            "funding-statement": "This project was funded by the European Union\u0092s Horizon 2020 Research and Innovations Programme - project EpiPose (Epidemic Intelligence to Minimize COVID-19\u0092s Public Health, Societal and Economical Impact, No 101003688)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Global Challenges Research Fund",
+                    "award-id": [
+                        "ES/P010873/1"
+                    ]
+                }
+            ],
+            "funding-statement": "CIJ and AG were funded by the Global Challenges Research Fund (ES/P010873/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research for Health in Humanitarian Crises"
+                },
+                {
+                    "funding-source": "UK Government"
+                },
+                {
+                    "funding-source": "Department for International"
+                },
+                {
+                    "funding-source": "National Institute for Health Research",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                }
+            ],
+            "funding-statement": "KvZ (Elrha\u0092s Research for Health in Humanitarian Crises [R2HC] Programme, UK Government [Department for International Development], KP was funded by the National Institute for Health Research (NIHR; 16/137/109)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation",
+                    "award-id": [
+                        "INV-003174"
+                    ]
+                }
+            ],
+            "funding-statement": "PK was funded by the Bill & Melinda Gates Foundation (INV-003174)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research Health Protection Research Unit",
+                    "award-id": [
+                        "NIHR HPRU"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR HPRU)"
+                },
+                {
+                    "funding-source": "Emergency Preparedness and Response"
+                },
+                {
+                    "funding-source": "College London in"
+                },
+                {
+                    "funding-source": "Public Health England"
+                },
+                {
+                    "funding-source": "University of East Anglia and Newcastle University"
+                }
+            ],
+            "funding-statement": "GJR was funded by the National Institute for Health Research Health Protection Research Unit (NIHR HPRU) in Emergency Preparedness and Response at King\u0092s College London in partnership with Public Health England (PHE), in collaboration with the University of East Anglia and Newcastle University"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Department of Health and Social Care"
+                },
+                {
+                    "funding-source": "Public Health England Megan Auzenbergs and Kathleen"
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation, OPP"
+                },
+                {
+                    "funding-source": "Graham Medley"
+                },
+                {
+                    "funding-source": "NTD Modelling Consortium"
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1184344"
+                    ]
+                },
+                {
+                    "funding-source": "Emery and Rein"
+                },
+                {
+                    "funding-source": "European Research Council Starting Grant, Action",
+                    "award-id": [
+                        "757699"
+                    ]
+                },
+                {
+                    "funding-source": "Nicholas Davies",
+                    "award-id": [
+                        "NIHR HPRU-2012-10096"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "HPRU-2012-10096"
+                    ]
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation, OPP"
+                },
+                {
+                    "funding-source": "Wellcome Trust,"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Stefan Flasche",
+                    "award-id": [
+                        "208812"
+                    ]
+                },
+                {
+                    "funding-source": "Sir Henry Dale Fellowship",
+                    "award-id": [
+                        "208812/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Thibaut Jombart"
+                },
+                {
+                    "funding-source": "Research Public Health Rapid Support Team, NIHR"
+                },
+                {
+                    "funding-source": "Health Protection Research Unit Modelling Methodology)"
+                },
+                {
+                    "funding-source": "Joel Hellewell, Sam"
+                },
+                {
+                    "funding-source": "Bosse and Sebastian Funk",
+                    "award-id": [
+                        "Wellcome Trust 210758/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "210758/Z/18/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Fiona Sun",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "Akira Endo"
+                },
+                {
+                    "funding-source": "The Nakajima Foundation; The"
+                },
+                {
+                    "funding-source": "Alan Turing Institute)",
+                    "award-id": [
+                        "PR-OD-1017"
+                    ]
+                },
+                {
+                    "funding-source": "Alicia Rosello",
+                    "award-id": [
+                        "NIHR: PR-OD-1017-20002"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "PR-OD-1017-20002"
+                    ]
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation, OPP",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "Fiona Sun",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "Kucharski and Timothy",
+                    "award-id": [
+                        "Wellcome Trust",
+                        "206250/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust,",
+                    "award-id": [
+                        "206250/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Gwen Knight"
+                },
+                {
+                    "funding-source": "UK Medical Research Council, MR",
+                    "award-id": [
+                        "P014658/1"
+                    ]
+                },
+                {
+                    "funding-source": "Hamish Gibbs"
+                },
+                {
+                    "funding-source": "Department of Health and Social Care ITCRZ",
+                    "award-id": [
+                        "03010"
+                    ]
+                },
+                {
+                    "funding-source": "Quentin Leclerc"
+                },
+                {
+                    "funding-source": "Medical Research Council London Intercollegiate Doctoral Training Program"
+                }
+            ],
+            "funding-statement": "The views expressed are those of the author(s) and not necessarily those of the NHS, the NIHR, the Department of Health and Social Care or Public Health England Megan Auzenbergs and Kathleen O'Reilly (Bill and Melinda Gates Foundation, OPP1191821); Graham Medley (NTD Modelling Consortium by the Bill and Melinda Gates Foundation (OPP1184344); Jon C Emery and Rein M G J Houben (European Research Council Starting Grant, Action Number #757699); Nicholas Davies (NIHR HPRU-2012-10096); Emily S Nightingale (Bill and Melinda Gates Foundation, OPP1183986); Wellcome Trust, and NIHR); Stefan Flasche (Sir Henry Dale Fellowship 208812/Z/17/Z); Thibaut Jombart (Research Public Health Rapid Support Team, NIHR Health Protection Research Unit Modelling Methodology); Joel Hellewell, Sam Abbott, James D Munday, Nikos I Bosse and Sebastian Funk (Wellcome Trust 210758/Z/18/Z); Fiona Sun (NIHR; 16/137/109); Akira Endo (The Nakajima Foundation; The Alan Turing Institute); Alicia Rosello (NIHR: PR-OD-1017-20002); Simon R Procter (Bill and Melinda Gates Foundation, OPP1180644); Fiona Sun (NIHR; 16/137/109); Adam J Kucharski and Timothy W Russell (Wellcome Trust, 206250/Z/17/Z); Gwen Knight (UK Medical Research Council, MR/P014658/1); Hamish Gibbs (Department of Health and Social Care ITCRZ 03010); Quentin Leclerc (Medical Research Council London Intercollegiate Doctoral Training Program studentship (grant no"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Health Data Research UK",
+                    "award-id": [
+                        "MR/S003975/1"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "UK Government"
+                }
+            ],
+            "funding-statement": "Eggo (Health Data Research UK MR/S003975/1); Arminder K Deol; This research was partly funded by the NIHR (16/137/109) using aid from the UK Government to support global health research"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "abstract": "Background CT is a very sensitive technique to detect pneumonia in COVID-19 patients. However, it is impaired by high costs, logistic issues and high risk of exposure. Chest x-ray (CXR) is a low-cost, low-risk, not time consuming technique and is emerging as the recommended imaging modality to use in COVID-19 pandemic. This technique, although less sensitive than CT-scan, can provide useful information about pulmonary involvement. Purpose To describe chest x-ray features of COVID-19 pneumonia and to evaluate the sensitivity of this technique in detecting pneumonia. A further scope is to assess the effectiveness of a post-processing algorithm in improving lung lesions detectability. Materials and Methods 72 patients with laboratory-confirmed COVID-19 underwent bedside chest X-ray. Two radiologists were asked to express their opinion about: (i) presence of pneumonia (negative or positive); (ii) localization (unilateral or bilateral); (iii) topography (according to pulmonary fields); (iv) density (non consolidative ground-glass or inhomogeneous opacities; consolidative nodulartype or triangular; mixed consolidative e non-consolidative); and (v) presence of pleural effusion. The point (i) was evaluated separately, while the other points in consensus. A quality assessment of post-processed x-ray images was performed by two different readers. Results The agreement about presence of pneumonia was almost perfect with K value of 0.933 and p < 0.001. Sensitivity was 69%. The following findings were seen: unilateral lung involvement in 50%; lower lung lesions in 54%; peripheral distribution in 48%; and non-consolidative pattern in 44%. Post-processed images improved the detection of lesions in 7 out 72 patients (\u224510%) Conclusion CXR owns a good sensitivity in detecting COVID-19 lung involvement. Use of post-processing algorithm can improve detection of lesions. Our data support recommendations of the Radiological Society of North America (RSNA) to consider chest x-ray as first step imaging examination in Covid-19 patients.",
+    "author": "Tommaso D'Angelo; Enrico Maria Mormina; Silvio Mazziotti; Maria Adele Marino; Michele Gaeta; Giuseppe Cicero; Giulio Siracusano; Massimo Chiappini; Alfredo Blandino; Aurelio La Corte; Giovanni Finocchio",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20061044",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20061044"
+    },
+    "title": "EFFECTIVENESS OF BASELINE AND POST-PROCESSED CHEST X-RAY IN NONEARLY COVID-19 PATIENTS",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Policlinico Universitario"
+                },
+                {
+                    "funding-source": "Martino of Messina"
+                }
+            ],
+            "funding-statement": "Funding available at the Policlinico Universitario G. Martino of Messina"
+        }
+    ]
+}

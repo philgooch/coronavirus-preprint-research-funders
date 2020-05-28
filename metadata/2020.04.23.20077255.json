@@ -1,0 +1,16 @@
+{
+    "abstract": "Mathematical modeling of infectious diseases is a powerful tool for the design of management policies and a fundamental part of the arsenal currently deployed to deal with the COVID-19 pandemic. Here we present a compartmental model for the disease where symptomatic and asymptomatic individuals move separately. We introduced healthcare burden parameters allowing to infer possible containment and suppression strategies. In addition, the model was scaled up to describe different interconnected areas, giving the possibility to trigger regionalized measures. It was specially adjusted to Mendoza-Argentina's parameters, but is easily adaptable for elsewhere. Overall, the simulations we carried out were notably more effective when mitigation measures were not relaxed in between the suppressive actions. Since asymptomatics or very mildly affected patients are the vast majority, we studied the impact of detecting and isolating them. The removal of asymptomatics from the infectious pool remarkably lowered the effective reproduction number, healthcare burden and overall fatality. Furthermore, different suppression triggers regarding ICU occupancy were attempted. The best scenario was found to be the combination of ICU occupancy triggers (on: 50%, off: 30%) with the detection and isolation of asymptomatic individuals. In the ideal assumption that 45% of the asymptomatics could be detected and isolated, there would be no need for quarantine, and Mendoza's healthcare system would not collapse. Our model and its analysis inform that the detection and isolation of all infected individuals, without leaving aside the asymptomatic group is the key to surpass this pandemic.",
+    "author": "L\u00eda Mayorga; Mar\u00eda Victoria S\u00e1nchez; Cristi\u00e1n Gabriel S\u00e1nchez; Sof\u00eda Masuelli; Luis S. Mayorga; Clara Garc\u00eda Samartino; Gabriel Flores",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20077255",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20077255"
+    },
+    "title": "Detection and isolation of asymptomatic individuals can make the difference in COVID-19 epidemic management",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

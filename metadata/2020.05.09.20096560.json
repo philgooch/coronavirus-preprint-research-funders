@@ -1,0 +1,38 @@
+{
+    "abstract": "Chest-X ray (CXR) radiography can be used as a first-line triage process for non-COVID-19 patients with pneumonia. However, the similarity between features of CXR images of COVID-19 and pneumonia caused by other infections make the differential diagnosis by radiologists challenging. We hypothesized that machine learning-based classifiers can reliably distinguish the CXR images of COVID-19 patients from other forms of pneumonia. We used a dimensionality reduction method to generate a set of optimal features of CXR images to build an efficient machine learning classifier that can distinguish COVID-19 cases from non-COVID-19 cases with high accuracy and sensitivity. By using global features of the whole CXR images, we were able to successfully implement our classifier using a relatively small dataset of CXR images. We propose that our COVID-Classifier can be used in conjunction with other tests for optimal allocation of hospital resources by rapid triage of non-COVID-19 cases.",
+    "affiliations": [
+        "University of California, Santa Cruz"
+    ],
+    "author": "Ali Shariati; Abolfazl Zargari Khuzani; Morteza Heidari",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20096560",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20096560"
+    },
+    "title": "COVID-Classifier: An automated machine learning model to assist in the diagnosis of COVID-19 infection in chest x-ray images",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIGMS/"
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "Independence Award",
+                    "award-id": [
+                        "K99GM126027"
+                    ]
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "University of California, Santa"
+                }
+            ],
+            "funding-statement": "This work was supported by the NIGMS/NIH through a Pathway to Independence Award K99GM126027 , NIH(NIGMS) (S.A.S.) and start-up package of the University of California, Santa Cruz"
+        }
+    ]
+}

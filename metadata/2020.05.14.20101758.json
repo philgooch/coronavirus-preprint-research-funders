@@ -1,0 +1,30 @@
+{
+    "abstract": "Background. The unprecedented impact of the Covid-19 pandemics on modern society has ignited a \u201cgold rush\u201d for effective treatment and diagnostic strategies, with a significant diversion of economical, scientific and human resources towards dedicated clinical research. We aimed to describe trends in this rapidly changing landscape to inform adequate resource allocation. Methods. We developed informatic tools (Covid Trial Monitor) to analyze in real time growth rate, geographical distribution and characteristics of Covid-19 related trials. We defined structured semantic ontologies with controlled vocabularies to categorize trial interventions, study endpoints and study designs. Data and analyses are publicly available at https://bioinfo.ieo.it/shiny/app/CovidCT Results. We observe a clear prevalence of monocentric trials with highly heterogeneous endpoints and a significant disconnect between geographic distribution and disease prevalence, implying that most countries would need to recruit unrealistic percentages of their total prevalent cases to fulfill enrolment. Conclusions. This geographically and methodologically incoherent growth sheds doubts on the actual feasibility of locally reaching target sample sizes and the probability of most of these trials providing reliable and transferable result. We call for the harmonization of clinical trial design criteria for Covid19 and the increased use of larger master protocols incorporating elements of adaptive designs. Covid Trial Monitor identifies critical issues in current Covid19-related clinical research and represents a useful resource for researchers and policymakers to improve the quality and efficiency of related trials",
+    "author": "Federica Corso; Piergiuseppe Pelicci; Bruno Achutti Duso; Luca Mazzarella; Federica Bellerba; Sara Gandini; Saverio Minucci; Giulia Tini",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20101758",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20101758"
+    },
+    "title": "Semantic and geographical analysis of Covid-19 trials reveals a fragmented clinical research landscape likely to impair informativeness.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Author Declarations All"
+                },
+                {
+                    "funding-source": "Yes All",
+                    "award-id": [
+                        "note: if posting a prospective study registered retrospectively",
+                        "please provide a statement in the trial ID field explaining why the study was not registered in advance"
+                    ]
+                },
+                {
+                    "funding-source": "EQUATOR Network"
+                }
+            ],
+            "funding-statement": "Statement no external funding was received for this work Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript.  Yes All necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived. I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance). I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable."
+        }
+    ]
+}

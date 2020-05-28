@@ -1,0 +1,16 @@
+{
+    "abstract": "The aim of this study is predicted 200.000 cases of Covid-19 in Spain. Covid-19 Spanish confirmed data obtained from Worldometer from 01 March 2020 - 17 April 2020. The data from 01 March 2020 - April 2020 using to fitting with data from April - 17 April 2020. For the evaluation of the forecasting accuracy measures, we use mean absolute percentage error (MAPE). Based on the results of SutteARIMA fitting data, the accuracy of SutteARIMA for the period 11 April 2020 - 17 April 2020 is 0.61% and we forecast 20.000 confirmed cases of Spain by the WHO situation report day 90/91 which is April 2020 / April 2020.",
+    "author": "Eva Boj del Val; Ansari Saleh Ahmar",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090951",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090951"
+    },
+    "title": "The date predicted 200.000 cases of Covid-19 in Spain using SutteARIMA",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "abstract": "Background The ability of global health systems to cope with increasing numbers of COVID-19 cases is of major concern. In readiness for this challenge, Australia has drawn on clinical pathway models developed over many years in preparation for influenza pandemics. These models have been used to estimate health care requirements for COVID-19 patients, in the context of broader public health measures. Methods An age and risk stratified transmission model of COVID-19 infection was used to simulate an unmitigated epidemic with parameter ranges reflecting uncertainty in current estimates of transmissibility and severity. Overlaid public health measures included case isolation and quarantine of contacts, and broadly applied social distancing. Clinical presentations and patient flows through the Australian health care system were simulated, including expansion of available intensive care capacity and alternative clinical assessment pathways. Findings An unmitigated COVID-19 epidemic would dramatically exceed the capacity of the Australian health system, over a prolonged period. Case isolation and contact quarantine alone will be insufficient to constrain case presentations within a feasible level of expansion of health sector capacity. Overlaid social restrictions will need to be applied at some level over the course of the epidemic to ensure that systems do not become overwhelmed, and that essential health sector functions, including care of COVID-19 patients, can be maintained. Attention to the full pathway of clinical care is needed to ensure access to critical care. Interpretation Reducing COVID-19 morbidity and mortality will rely on a combination of measures to strengthen and extend public health and clinical capacity, along with reduction of overall infection transmission in the community. Ongoing attention to maintaining and strengthening the capacity of health care systems and workers to manage cases is needed.",
+    "affiliations": [
+        "Australian Government Department of Health. Robert Moss is supported by two National Health and Medical Research Council (NHMRC) Centres of Research Excellence: \u0095 The Australian Partnership for Preparedness Research on Infectious Disease Emergencies (APPRISE) GNT1116530. \u0095 Supporting Participatory Evidence use for the Control of Transmissible Diseases in our Region Using Modelling (SPECTRUM) GNT1170960. Jodie McVernon is supported by",
+        "NHMRC Principal Research Fellowship GNT1117140"
+    ],
+    "author": "Allen Cheng; James M McCaw; Damien Brown; James Wood; Freya Shearer; Jodie McVernon; Andrew J Black; Robert Moss",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20056184",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20056184"
+    },
+    "title": "Modelling the impact of COVID-19 in Australia to inform transmission reducing measures and health system preparedness",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Australian Government Department of Health"
+                }
+            ],
+            "funding-statement": "This work was directly funded by the Australian Government Department of Health"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Robert Moss"
+                },
+                {
+                    "funding-source": "National Health and Medical Research Council"
+                },
+                {
+                    "funding-source": "Centres of Research"
+                },
+                {
+                    "funding-source": "The Australian Partnership for Preparedness Research on Infectious Disease Emergencies",
+                    "award-id": [
+                        "GNT1116530"
+                    ]
+                },
+                {
+                    "funding-source": "Supporting Participatory Evidence"
+                },
+                {
+                    "funding-source": "Control of Transmissible Diseases in"
+                },
+                {
+                    "funding-source": "Region Using Modelling",
+                    "award-id": [
+                        "GNT1170960"
+                    ]
+                }
+            ],
+            "funding-statement": "Robert Moss is supported by two National Health and Medical Research Council (NHMRC) Centres of Research Excellence: \u0095 The Australian Partnership for Preparedness Research on Infectious Disease Emergencies (APPRISE) GNT1116530. \u0095 Supporting Participatory Evidence use for the Control of Transmissible Diseases in our Region Using Modelling (SPECTRUM) GNT1170960"
+        }
+    ]
+}

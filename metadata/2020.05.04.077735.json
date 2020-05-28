@@ -1,0 +1,112 @@
+{
+    "title": "Temporal signal and the phylodynamic threshold of SARS-CoV-2",
+    "author": "Sebastian Duchene *, Leo Featherstone , Melina Haritopoulou-Sinanidou , Andrew Rambaut Philippe",
+    "date": 2020,
+    "affiliations": [
+        "Department of Microbiology and Immunology, Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, VIC, Australia",
+        "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, United Kingdom",
+        "Department of Microbiology, Immunology and Transplantation, Rega Institute, KU Leuven, Leuven, Belgium"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.04.077735",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.04.077735.pdf"
+    },
+    "abstract": "The ongoing SARS-CoV-2 outbreak marks the first time that large amounts of genome sequence data have been generated and made publicly available in near real-time. Early analyses of these data revealed low sequence variation, a finding that is consistent with a recently emerging outbreak, but which raises the question of whether such data are sufficiently informative for phylogenetic inferences of evolutionary rates and time scales. The phylodynamic threshold is a key concept that refers to the point in time at which sufficient molecular evolutionary change has accumulated in available genome samples to obtain robust phylodynamic estimates. For example, before the phylodynamic threshold is reached, genomic variation is so low that even large amounts of genome sequences may be insufficient to estimate the virus\u2019s evolutionary rate and the time scale of an outbreak. We collected genome sequences of SARS-CoV-2 from public databases at 8 different points in time and conducted a range of tests of temporal signal to determine if and when the phylodynamic threshold was reached, and the range of inferences that could be reliably drawn from nd",
+    "keywords": [
+        "2019 Novel Coronavirus (SARS-CoV-2)",
+        "molecular clock",
+        "temporal signal",
+        "phylodynamic threshold",
+        "phylogenetics"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Australian Research Council Discovery Early Career Researcher Award",
+                    "award-id": [
+                        "DE190100805"
+                    ]
+                },
+                {
+                    "funding-source": "Australian National Health and Medical Research Council",
+                    "award-id": [
+                        "APP1157586"
+                    ]
+                }
+            ],
+            "funding-statement": "SD was supported by an Australian Research Council Discovery Early Career Researcher Award (DE190100805) and an Australian National Health and Medical Research Council grant (APP1157586)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "206298/Z/17"
+                    ]
+                },
+                {
+                    "funding-source": "Collaborators Award",
+                    "award-id": [
+                        "206298/Z/17/Z\u2015A"
+                    ]
+                },
+                {
+                    "funding-source": "ARTIC"
+                }
+            ],
+            "funding-statement": "A.R. is supported by the Wellcome Trust (Collaborators Award 206298/Z/17/Z\u2015ARTIC network)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Research Council"
+                },
+                {
+                    "funding-source": "European Union's Horizon",
+                    "award-id": [
+                        "725422-ReservoirDOCS"
+                    ]
+                },
+                {
+                    "funding-source": "Research Foundation"
+                },
+                {
+                    "funding-source": "Wetenschappelijk Onderzoek",
+                    "award-id": [
+                        "G066215N",
+                        "G0D5117N",
+                        "G0B9317N"
+                    ]
+                }
+            ],
+            "funding-statement": "PL acknowledges funding from the European Research Council under the European Union's Horizon 2020 research and innovation programme (grant agreement no. 725422-ReservoirDOCS) and the Research Foundation -- Flanders (\u2018Fonds voor Wetenschappelijk Onderzoek -- Vlaanderen\u2019, G066215N, G0D5117N and G0B9317N)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Interne Fondsen KU Leuven"
+                },
+                {
+                    "funding-source": "Internal Funds KU Leuven",
+                    "award-id": [
+                        "C14/18/094"
+                    ]
+                },
+                {
+                    "funding-source": "Research Foundation"
+                },
+                {
+                    "funding-source": "Wetenschappelijk Onderzoek",
+                    "award-id": [
+                        "G0E1420N"
+                    ]
+                }
+            ],
+            "funding-statement": "GB acknowledges support from the Interne Fondsen KU Leuven / Internal Funds KU Leuven under grant agreement C14/18/094, and the Research Foundation \u2013 Flanders (\u2018Fonds voor Wetenschappelijk Onderzoek \u2013 Vlaanderen\u2019, G0E1420N)"
+        }
+    ]
+}

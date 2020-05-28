@@ -1,0 +1,41 @@
+{
+    "abstract": "This study quantifies the relationship between school closure timing and COVID-19 deaths and cases in the general population in all U.S. states. COVID-19 has higher symptomatic infection rates among the elderly, suggesting school closures could be unrelated to transmission. However, predicting daily cumulative COVID-19 deaths by state, earlier school closure is related to fewer deaths per capita and slower growth in deaths per capita. Results are similar for COVID-19 cases per capita.",
+    "affiliations": [
+        "National Academy of Education and by a grant from the American Educational Research Association which receives funds for its \u201cAERA Grants Program\u201d from the National Science Foundation under NSF Grant #DRL-1749275. Opinions reflect those of the author and do not necessarily reflect those of the granting agencies"
+    ],
+    "author": "Emily Rauscher",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20096594",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20096594"
+    },
+    "title": "Lower State COVID-19 Deaths and Cases with Earlier School Closure in the U.S.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Academy of Education and"
+                },
+                {
+                    "funding-source": "American Educational Research Association"
+                },
+                {
+                    "funding-source": "AERA Grants Program\u201d"
+                },
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "DRL-1749275"
+                    ]
+                },
+                {
+                    "funding-source": "NSF Grant",
+                    "award-id": [
+                        "DRL-1749275"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported by the Spencer Foundation/National Academy of Education and by a grant from the American Educational Research Association which receives funds for its \u201cAERA Grants Program\u201d from the National Science Foundation under NSF Grant #DRL-1749275"
+        }
+    ]
+}

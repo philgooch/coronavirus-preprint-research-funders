@@ -1,0 +1,16 @@
+{
+    "abstract": "We discovered that the time evolution of the inverse fractional daily growth of new infections, N/dN, in the current outbreak of COVID-19 is accurately described by a universal function, namely the two-parameter Gumbel cumulative function, in all countries that we have investigated. While the two Gumbel parameters, as determined bit fits to the data, vary from country to country (and even within different regions of the same country), reflecting the diversity and efficacy of the adopted containment measures, the functional form of the evolution of N/dN appears to be universal. The result of the fit in a given region or country appears to be stable against variations of the selected time interval. This makes it possible to robustly estimate the two parameters from the data data even over relatively small time periods. In turn, this allows one to predict with large advance and well-controlled confidence levels, the time of the peak in the daily new infections, its magnitude and duration (hence the total infections), as well as the time when the daily new infections decrease to a pre-set value (e.g. less than about 2 new infections per day per million people), which can be very useful for planning the reopening of economic and social activities. We use this formalism to predict and compare these key features of the evolution of the COVID-19 disease in a number of countries and provide a quantitative assessment of the degree of success in in their efforts to countain the outbreak.",
+    "author": "Mauro Giavalisco; Emanuele Daddi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067553",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067553"
+    },
+    "title": "Early forecasts of the evolution of the COVID-19 outbreaks and quantitative assessment of the effectiveness of countering measures.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding."
+        }
+    ]
+}

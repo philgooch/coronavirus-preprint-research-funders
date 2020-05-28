@@ -1,0 +1,62 @@
+{
+    "title": "Kallikrein 13: a new player in coronaviral infections",
+    "author": "3 Aleksandra Milewska, Katherine Falkowski, Magdalena Kalinska, Ewa Bielecka, 4 Antonina Naskalska, Pawel Mak, Adam Lesner, Marek Ochman, Maciej Urlik, Jan 5 Potempa, Tomasz Kantyka, Krzysztof Pyrc,* 6 7 1 Virogenetics Laboratory of Virology, Malopolska Centre of Biotechnology, Jagiellonian 8 University, Gronostajowa 7a, 30-387 Krakow, Poland. 9 2 Microbiology Department, Faculty of Biochemistry, Biophysics and Biotechnology, 10 Jagiellonian University, Gronostajowa 7, 30-387 Krakow, Poland. 11 3 Laboratory of Proteolysis and Post-translational Modification of Proteins, Malopolska 12 Centre of Biotechnology, Jagiellonian University, Gronostajowa 7a, 30-387 Krakow, 13 Poland. 14 4 Department of Analytical Biochemistry, Faculty of Biochemistry, Biophysics and 15 Biotechnology, Jagiellonian University, Gronostajowa 7 St., 30-387, Krakow, Poland. 16 5 University of Gdansk, Faculty of Chemistry, Wita Stwosza 63, 80-308 Gdansk, Poland. 17 6 Department of Cardiac, Vascular and Endovascular Surgery and Transplantology, Medical 18 University of Silesia in Katowice, Silesian Centre for Heart Diseases, Zabrze, Poland. 19 7 Centre for Oral Health and Systemic Diseases, University of Louisville School of Dentistry, 20 Louisville, KY 40202, USA. 21 8 Broegelmann Research Laboratory, Department of Clinical Science, University of Bergen, 22 5020 Bergen, Norway 23 24 25",
+    "date": 2020,
+    "affiliations": [
+        "Virogenetics Laboratory of Virology, Malopolska Centre of Biotechnology, Jagiellonian",
+        "University, Gronostajowa 7a, 30-387 Krakow, Poland. 9",
+        "Microbiology Department, Faculty of Biochemistry, Biophysics and Biotechnology",
+        "Jagiellonian University, Gronostajowa 7, 30-387 Krakow, Poland. 11",
+        "Laboratory of Proteolysis and Post-translational Modification of Proteins, Malopolska",
+        "Centre of Biotechnology, Jagiellonian University, Gronostajowa 7a, 30-387 Krakow",
+        "Department of Analytical Biochemistry, Faculty of Biochemistry, Biophysics and",
+        "Biotechnology, Jagiellonian University, Gronostajowa 7 St., 30-387, Krakow, Poland. 16",
+        "University of Gdansk, Faculty of Chemistry, Wita Stwosza 63, 80-308 Gdansk, Poland. 17",
+        "Department of Cardiac, Vascular and Endovascular Surgery and Transplantology, Medical",
+        "University of Silesia in Katowice, Silesian Centre for Heart Diseases, Zabrze, Poland. 19",
+        "Centre for Oral Health and Systemic Diseases, University of Louisville School of Dentistry, 20 Louisville, KY 40202, USA. 21",
+        "Broegelmann Research Laboratory, Department of Clinical Science, University of Bergen, 22 5020 Bergen, Norway 23 24 25",
+        "Laboratory of Virology, Malopolska Centre of Biotechnology, Jagiellonian University"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.01.971499",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.01.971499.pdf"
+    },
+    "abstract": "Human coronavirus HKU1 (HCoV-HKU1) is associated with respiratory disease and is prevalent worldwide, but in vitro model for virus replication is lacking. Interaction between the coronaviral spike (S) protein and its receptor is the major determinant of virus tissue and host specificity, but virus entry is a complex process requiring a concerted action of multiple cellular elements. Here, we show that KLK13 is required for the infection of the human respiratory epithelium and is sufficient to mediate the entry of HCoV-HKU1 to non-permissive RD cells. We also demonstrated HCoV-HKU1 S protein cleavage by KLK13 in the S1/S2 region, proving that KLK13 is the priming enzyme for this virus. Summarizing, we show for the first time that protease distribution and specificity predetermines the tissue and cell specificity of the virus and may also regulate interspecies transmission. It is also of importance that presented data may be relevant for the emerging coronaviruses, including SARS-CoV-2 and may help to understand the differences in their zoonotic potential.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Center UMO-",
+                    "award-id": [
+                        "2013/08/W/NZ1/00696",
+                        "2013/08/S/NZ6/00730",
+                        "UMO-2012/07/E/NZ6/01712",
+                        "UMO-2017/27/B/NZ6/02488"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants from the National Science Center UMO- 2013/08/W/NZ1/00696 2013/08/S/NZ6/00730 (A.N.), UMO-2012/07/E/NZ6/01712 and UMO-2017/27/B/NZ6/02488 (K.P.)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Faculty of Biochemistry, Biophysics"
+                },
+                {
+                    "funding-source": "Biotechnology of the Jagiellonian University"
+                },
+                {
+                    "funding-source": "Leading National Research Center"
+                },
+                {
+                    "funding-source": "Ministry of Science and Higher Education of the Republic of Poland"
+                }
+            ],
+            "funding-statement": "Faculty of Biochemistry, Biophysics and Biotechnology of the Jagiellonian University is a partner of the Leading National Research Center supported by the Ministry of Science and Higher Education of the Republic of Poland"
+        }
+    ]
+}

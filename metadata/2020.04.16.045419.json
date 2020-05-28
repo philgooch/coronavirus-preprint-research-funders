@@ -1,0 +1,22 @@
+{
+    "title": "Sybodies targeting the SARS-CoV-2 receptor-binding domain",
+    "author": "Justin Douglas Walter",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Medical Microbiology, University of Zurich, Switzerland",
+        "Linkster Therapeutics AG, Zurich, Switzerland",
+        "Division of Experimental and Clinical Research, Vetsuisse Faculty, University of Bern, Switzerland #Equal contribution",
+        "Corresponding authors:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.16.045419",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.16.045419.pdf"
+    },
+    "abstract": "The COVID-19 pandemic, caused by the novel coronavirus SARS-CoV-2, has resulted in a global health and economic crisis of unprecedented scale. The high transmissibility of SARS-CoV-2, combined with a lack of population immunity and prevalence of severe clinical outcomes, urges the rapid development of effective therapeutic countermeasures. Here, we report the generation of synthetic nanobodies, known as sybodies, against the receptor-binding domain (RBD) of SARS-CoV-2. In an expeditious process taking only twelve working days, sybodies were selected entirely in vitro from three large combinatorial libraries, using ribosome and phage display. We obtained six strongly enriched sybody pools against the isolated RBD and identified 63 unique anti-RBD sybodies which also interact in the context of the full-length SARS-CoV-2 spike ectodomain. Among the selected sybodies, six were found to bind to the viral spike with double-digit nanomolar affinity, and five of these also showed substantial inhibition of RBD interaction with human angiotensin-converting enzyme 2 (ACE2). Additionally, we identified a pair of anti-RBD sybodies that can simultaneously bind to the RBD. It is anticipated that compact binders such as these sybodies could feasibly be developed into an inhalable drug that can be used as a convenient prophylaxis against COVID-19. Moreover, generation of polyvalent antivirals, via fusion of anti-RBD sybodies to additional small binders recognizing secondary epitopes, could enhance the therapeutic potential and guard against escape mutants. We present full sequence information and detailed protocols for the identified sybodies, as a freely accessible resource.",
+    "funding": [
+        {}
+    ]
+}

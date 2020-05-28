@@ -1,0 +1,20 @@
+{
+    "abstract": "Introduction: Caly, Druce (1) reported that ivermectin inhibited SARS-CoV-2 in vitro for up to 48 h using ivermectin at 5 uM. The concentration resulting in 50% inhibition (IC50, 2 uM) was >35x higher than the maximum plasma concentration (Cmax) after oral administration of the approved dose of ivermectin when given fasted. Method: Simulations were conducted using an available population pharmacokinetic model to predict total (bound and unbound) and unbound plasma concentration-time profiles after a single and repeat fasted administration of the approved dose of ivermectin (200 ug/kg), 60 mg, and 120 mg. Plasma total Cmax was determined and then multiplied by the lung:plasma ratio reported in cattle to predict the lung Cmax after administration of each single dose. Results: Plasma ivermectin concentrations of total (bound and unbound) and unbound concentrations do not reach the IC50, even for a dose level 10x higher than the approved dose. Even with higher exposure in lungs than plasma, ivermectin is unlikely to reach the IC50 in lungs after single oral administration of the approved dose (predicted lung: 0.0857 uM) or at doses 10x higher that the approved dose administered orally (predicted lung: 0.817 uM). Conclusions: The likelihood of a successful clinical trial using the approved dose of ivermectin is low. Combination therapy should be evaluated in vitro. Re-purposing drugs for use in COVID-19 treatment is an ideal strategy but is only feasible when product safety has been established and experiments of re-purposed drugs are conducted at clinically relevant concentrations.",
+    "author": "Jie Zhou; Lauren RL Lohmer; Virginia D Schmith",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20073262",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20073262"
+    },
+    "title": "The Approved Dose of Ivermectin Alone is not the Ideal Dose for the Treatment of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill and Melinda Gates"
+                }
+            ],
+            "funding-statement": "VS has previously received a grant from the Bill and Melinda Gates foundation unrelated to this work"
+        }
+    ]
+}

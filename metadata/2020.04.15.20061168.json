@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: As we contend with the massive SARS-CoV-2 pandemic, preventing infections among healthcare workers (HCWs) and patients is critical for delivering care to patients admitted for other purposes, and many standard scheduling practices require reassessment. In most academic hospitals in the United States, inpatient rotations are designed to deliver optimal patient care by staggering rotations of attendings and house-staff, and much emphasis is placed on HCW burnout, yet during a pandemic preventing further infection is the single most important factor. Our purpose was to model various inpatient rotation schedules of physicians and nurses to determine patterns associated with optimal workforce preservation and lower nosocomial infections in settings in which personal protective equipment is imperfect or unavailable. Summary of Methods: We simulated the spread of COVID-19 in hospital wards using Monte Carlo methods. Universal model parameters for COVID-19 included incubation period distribution and latent period distribution. Situation-dependent COVID-19 model parameters included pre-admission infection probability, team member infection probability, physician-to-patient, nurse-to-patient, patient-to-physician, patient-to-nurse, and HCW-to-HCW transmission probabilities, team member absence after symptom onset, daily SARS-CoV-2 exposure probability of team members (e.g. via exposure to other staff), length of admission after COVID-19 symptoms, and length of simulation time. Model parameters that varied by hospital setting and service type included average patient load per team, average patient hospitalization, and number of physicians and nurses on a team and on duty. Results: The primary outcome measure was probability of team failure, defined as the likelihood that at some point there are insufficient attendings, house-staff or nurses to staff a fully functioning floor. In all of our simulations, physician and nurse rotation lengths of 1-3 days led to higher team failure rates. Nursing shifts of 12 versus 8 hours and avoiding staggering of physician rotations also decreased the chance of team failure. Conclusions: Simple changes in staff scheduling, such as lengthening nursing shifts or avoiding rotations that are either staggered or last fewer than three days, can result in improved workforce preservation. These workforce scheduling changes are easy to implement.\nCompeting Interest Statement",
+    "author": "Lilach Aizenbud; Fabio Parisi; Shelli Farhadian; Yuval Kluger; Yariv Aizenbud; Eyal Minsky-Fenick; Dan M Kluger; Ariel Jaffe; Harriet M Kluger; Jonathan M Kluger",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20061168",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20061168"
+    },
+    "title": "Impact of healthcare worker shift scheduling on workforce preservation during the COVID-19 pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

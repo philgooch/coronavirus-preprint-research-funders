@@ -1,0 +1,47 @@
+{
+    "abstract": "We analyzed the epidemiological dataset of confirmed cases with COVID-19 in Japan as of 28 February 2020 and estimated the number of severe and non-severe cases, accounting for under-ascertainment. The ascertainment rate of non-severe cases was estimated at 0.44 (95% confidence interval: 0.37, 0.50), indicating that unbiased number of non-cases would be more than twice the reported count. Severe cases are twice more likely diagnosed and reported than other cases.\nCompeting Interest Statement",
+    "author": "Ryosuke Omori; Hiroshi Nishiura; Kenji Mizumoto",
+    "date": 2020,
+    "doi": "10.1101/2020.03.09.20033183",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.09.20033183"
+    },
+    "title": "Ascertainment rate of novel coronavirus disease (COVID-19) in Japan",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Japan Agency for Medical Research and Development",
+                    "award-id": [
+                        "JP18fk0108050"
+                    ]
+                },
+                {
+                    "funding-source": "Japan Society for the Promotion of Science"
+                },
+                {
+                    "funding-source": "Grants-in-Aid for Scientific Research"
+                },
+                {
+                    "funding-source": "KAKENHI in Japanese",
+                    "award-id": [
+                        "17H04701",
+                        "17H05808",
+                        "18H04895",
+                        "19H01074"
+                    ]
+                },
+                {
+                    "funding-source": "Japan Science and Technology Agency"
+                },
+                {
+                    "funding-source": "Core Research for Evolutional Science and Technology",
+                    "award-id": [
+                        "JPMJCR1413"
+                    ]
+                }
+            ],
+            "funding-statement": "H.N. received funding support from Japan Agency for Medical Research and Development [grant number: JP18fk0108050] the Japan Society for the Promotion of Science (JSPS) Grants-in-Aid for Scientific Research (KAKENHI in Japanese abbreviation) grant nos. 17H04701, 17H05808, 18H04895 and 19H01074, and the Japan Science and Technology Agency (JST) Core Research for Evolutional Science and Technology (CREST) program [grant number: JPMJCR1413]"
+        }
+    ]
+}

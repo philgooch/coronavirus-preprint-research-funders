@@ -1,0 +1,16 @@
+{
+    "abstract": "Background and Aim. There is a paucity of data on the COVID-19 pandemic in Vietnam. In this paper, we sought to provide an epidemiologic description of patients who were infected with SARS-Cov-2 in Vietnam. Methods. Data were abstracted from the wikipedia's COVID-19 information resource and Johns Hopkins University Dashboard. Demographic data and treatment status were obtained for each patient in each day. The coverage period was from 23/1/2020 to 10/4/2020. Descriptive analyses of incident cases were stratified by gender and age group. The estimation of the reproduction ratio was done with a bootstrap method using the R statistical environment. Results. During the coverage period, Vietnam has recorded 257 cases of COVID-19. Approximately 54% of the cases were women. The median age of patients was 30 years (range: 3 months to 88 years), with 78% of patients aged 49 or younger. About 66% (n = 171) of patients were overseas tourists (20%) and Vietnamese students or workers returning from overseas (46%). Approximately 57% (n = 144) of patients have been recovered and discharged from hospitals. There have been no mortality. The reproduction ratio was estimated to range between 0.95 and 1.24. Conclusion. These data indicate that a majority of COVID-19 patients in Vietnam was imported cases in overseas tourists and young students and workers who had returned from overseas.",
+    "author": "Huy G Nguyen; Tuan V Nguyen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20061226",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20061226"
+    },
+    "title": "An epidemiologic profile of COVID-19 patients in Vietnam",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was conducted in support of an ongoing public health response. There is no funding for this study."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "abstract": "The SARS-CoV-2 driven disease, COVID-19, is presently a pandemic with increasing human and monetary costs. COVID-19 has put an unexpected and inordinate degree of pressure on healthcare systems of strong and fragile countries alike. In order to launch both containment and mitigation measures, each country requires accurate estimates of COVID-19 incidence as such preparedness allows agencies to plan efficient resource allocation and design control strategies. Here, we have developed a new adaptive, interacting, and cluster-based mathematical model to predict the granular trajectory COVID-19. We have analyzed incidence data from three currently afflicted countries of Italy, the United States of America, and India, and show that our approach predicts state-wise COVID-19 spread for each country with high accuracy. We show that R0 as the basic reproduction number exhibits significant spatial and temporal variation in these countries. However, by including a new function for temporal variation of R0 in an adaptive fashion, the predictive model provides highly reliable estimates of asymptomatic and undetected COVID-19 patients, both of which are key players in COVID-19 transmission. Our dynamic modeling approach can be applied widely and will provide a new fillip to infectious disease management strategies worldwide.",
+    "author": "Hariprasad Kodamana; Suresh Bishnoi; Sourabh Singh; N. M. Anoop Krishnan; Abhinav Sinha; Amreen Jan; R. Ravinder; Amit Sharma",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20074211",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20074211"
+    },
+    "title": "An Adaptive, Interacting, Cluster-Based Model Accurately Predicts the Transmission Dynamics of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "IIT Delhi HPC"
+                }
+            ],
+            "funding-statement": "The authors thank IIT Delhi HPC facility for computational resources."
+        }
+    ]
+}

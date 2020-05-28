@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Reported death rates from different countries during the COVID-19 pandemic vary. Lack of universal testing and death underreporting make between-country comparisons difficult. The country-level determinants of COVID-19 mortality are unknown. Objective: Derive a measure of COVID-related death rates that is comparable across countries and identify its country-level predictors. Methods: An ecological study design of publicly available data was employed. Countries reporting >25 COVID-related deaths until May 1, 2020 were included. The outcome was the mean mortality rate from COVID-19, an estimate of the country-level daily increase in reported deaths during the ascending phase of the epidemic curve. Potential predictors assessed were most recently published Demographic parameters (population and population density, percentage population living in urban areas, median age, average body mass index, smoking prevalence), Economic parameters (Gross Domestic Product per capita; environmental parameters: pollution levels, mean temperature (January-April)), co-morbidities (prevalence of diabetes, hypertension and cancer), health systems parameters (WHO Health Index and hospital beds per 10,000 population and international arrivals). Multivariable linear regression was used to analyse the data. Results: Thirty-one countries were included. Of all country-level predictors included in the multivariable model, only total number of international arrivals was significantly associated with the mean death rate: Beta 0.3798 (95% Confidence Interval 0.2414, 0.5182), P <0.001. Conclusion: International travel was directly associated with the mortality slope and thus potentially the spread of COVID-19. Stopping international travel, particularly from affected areas, may be the most effective strategy to control COVID outbreak and prevent related deaths.\nCompeting Interest Statement",
+    "author": "Zahra Pasdar; Sohinee Bhattacharya; David McLernon; Weronika A Szlachetka; Tiberiu A Pana; Jesus A Perdomo-Lampignano; Phyo K Myint; David T Gamble",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20100677",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20100677"
+    },
+    "title": "Number of International Arrivals Predicts Severity of the first Global Wave of the COVID-19 Pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for this study"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Rapid access to evidence is crucial in times of evolving clinical crisis. To that end, we propose a novel mechanism to answer clinical queries: Rapid Meta-Analysis (RMA). Unlike traditional meta-analysis, RMA balances quick time-to-production with reasonable data quality assurances, leveraging Artificial Intelligence to strike this balance. This article presents an example RMA to a currently relevant clinical question: Is ocular toxicity and vision compromise a side effect with hydroxychloroquine therapy? As of this writing, hydroxychloroquine is a leading candidate in the treatment of COVID-19. By combining AI with human analysis, our RMA identified 11 studies looking at ocular toxicity as a side effect and estimated the incidence to be 3.4% (95% CI: 1.11-9.96%). The heterogeneity across the individual study findings was high, and interpretation of the result should take this into account. Importantly, this RMA, from search to screen to analysis, took less than 30 minutes to produce.",
+    "author": "Steven Minton; Matthew Michelson; Tiffany Chow; Mike Ross; Neil Martin; Amelia Tee",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083378",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083378"
+    },
+    "title": "Ocular toxicity and Hydroxychloroquine: A Rapid Meta-Analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding"
+        }
+    ]
+}

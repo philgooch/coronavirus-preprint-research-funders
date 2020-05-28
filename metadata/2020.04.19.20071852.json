@@ -1,0 +1,16 @@
+{
+    "abstract": "The outbreak of COVID 19 has been provoking several problems to the health system around the world. One of the concerning is the crash of the health system due to the increasing demand suddenly. To avoid it, knowing the total number and daily new cases is crucial. In this study, we fitted curves growth models using a Bayesian approach. We extracted information obtained from some countries to build the prior distribution of the model. The total number of cases of the COVID 19 in the state of Goias was analyzed. Results from analyses indicated that the date of the outbreak peak is between 51 and 68 days after the beginning. Moreover, the total number of cases is around 3180 cases. The analysis did not take into consideration possibles changes in government control measures. We hope this study can provide some valuable information to public health management.",
+    "author": "Carlos Augusto Goncalves Tibirica; Wanderson da Silva Marques; Wisley Donizetti Velasco; Renato Rodrigues Silva",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071852",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071852"
+    },
+    "title": "A Bayesian analysis of the total number of cases of the COVID 19 when only a few data is available. A case study in the state of Goias, Brazil",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors did not receive any financial support for the research, authorship, and publication of this article."
+        }
+    ]
+}

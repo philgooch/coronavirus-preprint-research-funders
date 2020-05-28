@@ -1,0 +1,54 @@
+{
+    "abstract": "The COVID-19 pandemic has shown a markedly low proportion of cases among children. Age disparities in observed cases could be explained by children having lower susceptibility to infection, lower propensity to show clinical symptoms, or both. We evaluate these possibilities by fitting an age-structured mathematical model to epidemic data from six countries. We estimate that clinical symptoms occur in 25% (95% CrI: 19-32%) of infections in 10-19-year-olds, rising to 76% (68-82%) in over-70s, and that susceptibility to infection in under-20s is approximately half that of older adults. Accordingly, we find that interventions aimed at children may have a relatively small impact on total cases, particularly if the transmissibility of subclinical infections is low. The age-specific clinical fraction and susceptibility we have estimated has implications for the expected global burden of COVID-19 because of demographic differences across settings: in younger populations, the expected clinical attack rate would be lower, although it is likely that comorbidities in low-income countries will affect disease severity. Without effective control measures, regions with older populations may see disproportionally more clinical cases, particularly in the later stages of the pandemic.",
+    "author": "Petra Klepac; Mark Jit; Yang Liu; Rosalind M Eggo; Nicholas G Davies; Kiesha Prem; CMMID COVID-19 working group",
+    "date": 2020,
+    "doi": "10.1101/2020.03.24.20043018",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.24.20043018"
+    },
+    "title": "Age-dependent effects in the transmission and control of COVID-19 epidemics",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health Research",
+                    "award-id": [
+                        "HPRU-2012-10096"
+                    ]
+                }
+            ],
+            "funding-statement": "We acknowledge the following for funding: NGD: National Institutes of Health Research (HPRU-2012-10096)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation",
+                    "award-id": [
+                        "INV-003174"
+                    ]
+                }
+            ],
+            "funding-statement": "PK, YL, KP, MJ: This research was partly funded by the Bill & Melinda Gates Foundation (INV-003174)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "16/137/109"
+                    ]
+                },
+                {
+                    "funding-source": "UK Government"
+                }
+            ],
+            "funding-statement": "YL, MJ: This research was partly funded by the National Institute for Health Research (NIHR) (16/137/109) using UK aid from the UK Government to support global health research"
+        }
+    ]
+}

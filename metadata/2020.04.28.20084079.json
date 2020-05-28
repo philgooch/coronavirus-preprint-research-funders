@@ -1,0 +1,16 @@
+{
+    "abstract": "Introduction: The case fatality rate from COVID-19 differs markedly around the world. There are likely a number of factors one can attribute to such disparity, not least of which is differing healthcare models and approaches. Here, we examine the COVID-19 related health advice issued by six different countries, specifically examining the patient-led triage pathways in each country. Methods: A simulation study was conducted on current, nationwide, patient-led triage systems from three countries with low case fatality rates (Singapore, Norway and Japan) and two countries with high case fatality rates (the USA and the UK). Cases were simulated by clinicians to approximate typical COVID-19 presentations (mild, severe and critical), and COVID-19 mimickers (sepsis, bacterial pneumonia). The same simulations were applied to each of the five countrys patient-led triage systems, and the recommendations to refer on for medical care or to advise to stay at home were recorded and compared. Statistical analysis examined the potential correlation between triage outcomes and case fatality rates. Results: Patient-led triage systems from Singapore, Japan and Norway maintained a low threshold for advising clinical contact for patients with possible COVID-19 (88 to 100% of cases were referred). Patient-led triage systems from the USA and the UK maintained high thresholds for advising contact with either call centre support or clinical contact (28 and 33% of cases were referred, respectively), and triaged the majority of cases home with no further healthcare input. There was a strong inverse correlation between percentage of cases referred and the nations case fatality rate (Pearsons Correlation = -0.642, p = 0.01). Conclusion: In this simulation study, the triage algorithms of Singapore, Norway and Japan successfully identified severe COVID-19 and triaged such cases to medical care. The USA triage system and the UKs triage system performed poorly, failing to identify severe COVID-19 infection and sepsis. In this study, the performance of national COVID-19 triage systems strongly correlate with case fatality rates.",
+    "author": "Sohail Bhatti; Daniel Goyal; Fatma Mansab",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20084079",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20084079"
+    },
+    "title": "Patient-Led COVID-19 Triage Systems and Case Fatality Rates: A Comparative Study Between Singapore, Japan, Norway, the USA and the UK.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding"
+        }
+    ]
+}

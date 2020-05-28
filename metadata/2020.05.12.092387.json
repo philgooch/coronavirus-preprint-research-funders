@@ -1,0 +1,38 @@
+{
+    "title": "Comparison of SARS-CoV-2 Indirect and Direct Detection Methods",
+    "date": 2020,
+    "author": "Joel D. Pearson,a-c Daniel Trcka,a Sharon J. Hyduk,d Marie-Ming Aynaud,a J. Javier Hern\u00e1ndez,a,e",
+    "affiliations": [
+        "Lunenfeld Tanenbaum Research Institute, Mt Sinai Hospital, Sinai Health System, Toronto"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.092387",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.092387.pdf"
+    },
+    "abstract": "The COVID-19 pandemic caused by the SARS-CoV-2 virus has placed extensive strain on RNA isolation and RT-qPCR reagents. Rapid development of new test kits has helped to alleviate these shortages. However, comparisons of these new detection systems are largely lacking. Here, we compare indirect methods that require RNA extraction, and direct RT25 qPCR on patient samples. For RNA isolation we compared four different companies (Qiagen, Invitrogen, BGI and Norgen Biotek). For detection we compared two recently developed Taqman-based modules (BGI and Norgen Biotek), a SYBR green-based approach (NEB Luna Universal One-Step Kit) with published and newly-developed primers, and clinical results (Seegene STARMag RNA extraction system and Allplex 2019-nCoV RT-qPCR assay). Most RNA isolation procedures performed similarly, and while all RT-qPCR modules effectively detected purified viral RNA, the BGI system proved most sensitive, generating comparable results to clinical diagnostic data, and identifying samples ranging from 65 copies \u2013 2.1x105 copies of viral Orf1ab/\u03bcl. However, the BGI detection system is ~4x more expensive than other options tested here. With direct RT-qPCR we found that simply adding RNase inhibitor greatly improved sensitivity, without need for any other treatments (e.g. lysis buffers or boiling). The best direct methods were ~10 fold less sensitive than indirect methods, but reduce sample handling, as well as assay time and cost. These studies will help guide the selection of COVID-19 detection systems and provide a framework for the comparison of additional systems.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "RT-qPCR",
+        "Direct detection"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "JW and LP from the Krembil Foundation,"
+                },
+                {
+                    "funding-source": "Canadian Institutes of Health Research",
+                    "award-id": [
+                        "FDN-154299"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was funded by a grant to RB, JW and LP from the Krembil Foundation, and the Canadian Institutes of Health Research (CIHR; FDN-154299) to MIC"
+        }
+    ]
+}

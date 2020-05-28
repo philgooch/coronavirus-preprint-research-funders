@@ -1,0 +1,16 @@
+{
+    "abstract": "For Germany it is predicted that the first wave of the corona pandemic disease reaches its maximum of new infections on April 11th, 2020 +5.4-3.4 days with 90 percent confidence. With a delay of about 7 days the maximum demand on breathing machines in hospitals occurs on April 18th, 2020 +5.4-3.4 days. The first pandemic wave ends in Germany end of May 2020. The predictions are based on the assumption of a Gaussian time evolution well justified by the central limit theorem of statistics. The width and the maximum time and thus the duration of this Gaussian distribution are determined from a statistical \u039e2-fit to the observed doubling times before March 28, 2020.",
+    "author": "Reinhard Schlickeiser; Frank Schlickeiser",
+    "date": 2020,
+    "doi": "10.1101/2020.03.31.20048942",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.31.20048942"
+    },
+    "title": "A Gaussian model for the time development of the Sars-Cov-2 corona pandemic disease. Predictions for Germany made on March 30, 2020",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

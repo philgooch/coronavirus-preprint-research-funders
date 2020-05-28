@@ -1,0 +1,80 @@
+{
+    "title": "Architecture and self-assembly of the SARS-CoV-2 nucleocapsid protein",
+    "author": "Qiaozhen Ye, Alan M.V. West, Steve Silletti, Kevin D. Corbett,* 1Department of Cellular & Molecular Medicine, University of California San Diego, La Jolla, CA 2Department of Chemistry and Biochemistry, University of California San Diego, La Jolla, CA 3Ludwig Institute for Cancer Research, San Diego Branch, La Jolla, CA *Correspondence should be addressed to Kevin D. Corbett:",
+    "date": 2020,
+    "affiliations": [
+        "Department of Cellular & Molecular Medicine, University of California San Diego, La Jolla, CA",
+        "Department of Chemistry and Biochemistry, University of California San Diego, La Jolla, CA",
+        "Ludwig Institute for Cancer Research, San Diego Branch, La Jolla, CA",
+        "Correspondence should be addressed to Kevin D. Corbett:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.17.100685",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.17.100685.pdf"
+    },
+    "abstract": "The COVID-2019 pandemic is the most severe acute public health threat of the twenty-first century. To properly address this crisis with both robust testing and novel treatments, we require a deep understanding of the life cycle of the causative agent, the SARS-CoV-2 coronavirus. Here, we examine the architecture and self-assembly properties of the SARS-CoV-2 nucleocapsid (N) protein, which binds viral RNA and assembles into a filament that is packaged into new virions. We determined a 1.4 \u00c5 resolution crystal structure of this protein\u2019s N2b domain, revealing a compact, intertwined dimer very similar to that of related coronaviruses SARS-CoV and MERS-CoV. Using size exclusion chromatography and multi-angle light scattering, we find that this domain forms a dimer in solution, and that addition of the C-terminal spacer B/N3 domain mediates tetramer formation. Using hydrogen-deuterium exchange mass spectrometry, we find evidence that at least part of this putatively disordered domain is structured, potentially forming an \u03b1-helix that either self-associates or docks against the N2b domain to mediate tetramer formation. Finally, we map the locations of over 4,400 individual amino acid substitutions in the N protein from ~17,000 SARS-CoV-2 genome sequences, and find that they are strongly clustered in the protein\u2019s N2a linker domain. The nearly 300 substitutions identified within the N1b and N2b domains cluster away from their functional RNA binding and dimerization interfaces. Overall, this work reveals the architecture and selfassembly properties of a key protein in the SARS-CoV-2 life cycle. As the N protein is a common target of patient antibodies, this work will also benefit ongoing efforts to develop robust and specific serological tests, and could also benefit the analysis of patient-derived antibodies.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UC San Diego"
+                }
+            ],
+            "funding-statement": "K.D.C. acknowledges generous institutional support from UC San Diego"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Waters Synapt HDX-MS"
+                },
+                {
+                    "funding-source": "UCSD BPMS Facility"
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "OD016234"
+                    ]
+                }
+            ],
+            "funding-statement": "The Waters Synapt HDX-MS at the UCSD BPMS Facility is supported by NIH S10 OD016234"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Northeastern Collaborative Access Team"
+                },
+                {
+                    "funding-source": "Advanced Photon Source"
+                },
+                {
+                    "funding-source": "National Institute of General Medical Sciences from the National Institutes of Health",
+                    "award-id": [
+                        "P30 GM124165"
+                    ]
+                }
+            ],
+            "funding-statement": "The Northeastern Collaborative Access Team beamlines at the Advanced Photon Source are funded by the National Institute of General Medical Sciences from the National Institutes of Health (P30 GM124165)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Eiger",
+                    "award-id": [
+                        "24-ID-E"
+                    ]
+                },
+                {
+                    "funding-source": "NIH-ORIP HEI",
+                    "award-id": [
+                        "S10OD021527"
+                    ]
+                }
+            ],
+            "funding-statement": "The Eiger 16M detector on the 24-ID-E beam line is funded by a NIH-ORIP HEI grant (S10OD021527)"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "In this note we provide a result of analysis of blood test data from patients with SARS-Cov-2 using Ball Mapper Algorithm. We observe that patients with the virus and in particularly patients who end up in Intensive Care Unit have quite narrow values of those parameters. Please note that this is a preliminary work and it need to be validated on much larger dataset which we are trying to acquire at the moment.\nFunding Statement",
+    "author": "Simon Rudkin; Pawel Dlotko",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20061374",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20061374"
+    },
+    "title": "Covid-19 clinical data analysis using Ball Mapper",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

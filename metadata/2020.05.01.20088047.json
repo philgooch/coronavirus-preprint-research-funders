@@ -1,0 +1,29 @@
+{
+    "abstract": "Throughout the past four months, no number has dominated the public media more persistently than the reproduction number of COVID-19. This powerful but simple concept is widely used by the public media, scientists, and political decision makers to explain and justify political strategies to control the COVID-19 pandemic. Here we explore the effectiveness of political interventions using the reproduction number of COVID-19 across Europe. We propose a dynamic SEIR epidemiology model with a time-varying reproduction number, which we identify using machine learning and uncertainty quantification. During the early outbreak, the reproduction number was 4.5+/-21.4, with maximum values of 6.5 and 5.9 in Spain and France. As of today, it has dropped to 0.7+/-20.2, with minimum values of 0.4 and 0.3 in Austria and France. We found a strong correlation between passenger air travel and the reproduction number with a time delay of 12.6+/-22.7 days. Our new dynamic SEIR model provides the flexibility to simulate various outbreak control and exit strategies to inform political decision making and identify safe solutions in the benefit of global health.",
+    "author": "Kevin Linka; Mathias Peirlinck; Ellen Kuhl",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20088047",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20088047"
+    },
+    "title": "The reproduction number of COVID-19 and its correlation with public health interventions",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "DAAD Fellowship"
+                },
+                {
+                    "funding-source": "Kevin Linka and"
+                },
+                {
+                    "funding-source": "Stanford Bio-X IIP"
+                },
+                {
+                    "funding-source": "Mathias Peirlinck and Ellen Kuhl"
+                }
+            ],
+            "funding-statement": "This work was supported by a DAAD Fellowship to Kevin Linka and a Stanford Bio-X IIP seed grant to Mathias Peirlinck and Ellen Kuhl"
+        }
+    ]
+}

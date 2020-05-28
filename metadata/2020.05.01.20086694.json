@@ -1,0 +1,16 @@
+{
+    "abstract": "Background and Aims: No medications are proven to improve clinical outcomes in COVID-19. Famotidine is commonly used for gastric acid suppression but has recently gained attention as an antiviral that may inhibit SARS-CoV-2 replication. This study tested whether famotidine use is associated with improved clinical outcomes in patients with COVID-19 initially hospitalized to a non-intensive care setting. Methods: This was retrospective cohort study conducted among consecutive hospitalized patients with COVID-19 infection from February 25 to April 13, 2020 at a single medical center. The primary exposure was famotidine, received within 24 hours of hospital admission. The primary outcome was intubation or death. Propensity score matching was used to balance the baseline characteristics of patients who did and did not use famotidine. Results: 1,620 hospitalized patients with COVID-19 were identified including 84 (5.1%) who received famotidine within 24 hours of hospital admission. 340 (21%) patients met the study composite outcome of death or intubation. Use of famotidine was associated with reduced risk for death or intubation (adjusted hazard ratio (aHR) 0.42, 95% CI 0.21-0.85) and also with reduced risk for death alone (aHR 0.30, 95% CI 0.11-0.80). After balancing baseline patient characteristics using propensity score matching, these relationships were unchanged (HR for famotidine and death or intubation 0.43, 95% CI 0.21-0.88). Proton pump inhibitors, which also suppress gastric acid, were not associated with reduced risk for death or intubation. Conclusion: Famotidine use is associated with reduced risk of intubation or death in hospitalized COVID-19 patients. Randomized controlled trials are warranted to determine whether famotidine therapy improves outcomes in hospitalized COVID-19 patients.",
+    "author": "William C Turner; Joseph Conigliaro; Max R. O'Donnell; Zhezhen Jin; David D Markowitz; Magdalena E Sobieszczyk; Timothy C Wang; Daniel E Freedberg; Kevin J. Tracey; Aakriti Gupta; Julian A Abrams; Michael V Callahan; Donald W Landry; Jianhua Li; David A Tuveson",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20086694",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20086694"
+    },
+    "title": "Famotidine Use is Associated with Improved Clinical Outcomes in Hospitalized COVID-19 Patients: A Propensity Score Matched Retrospective Cohort Study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was unfunded."
+        }
+    ]
+}

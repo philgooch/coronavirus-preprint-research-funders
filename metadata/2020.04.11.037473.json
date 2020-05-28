@@ -1,0 +1,24 @@
+{
+    "title": "Multiscale 3-dimensional pathology findings of COVID-19 diseased lung using high-resolution cleared tissue microscopy",
+    "author": "J. Quincy Brown",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biomedical Engineering, Tulane University",
+        "Department of Pathology, LSU Health Sciences Center",
+        "Pathology and Laboratory Medicine Service, Southeast Louisiana Veterans Healthcare System",
+        "Department of Computer Science, Tulane University",
+        "LSU Health Sciences Center - University Medical Center), representing the first pathologic analysis of dissected lung and cardiac tissues from open autopsy, confirmed that in addition to diffuse alveolar damage, a novel finding of pulmonary thrombotic microangiopathy and hemorrhage significantly contributed to death, with evidence of the activation of megakaryocytes contributing to small vessel clot formation.3",
+        "LSU Health Sciences Center and Tulane University. We demonstrate near-teravoxel volumetric images of optically-cleared lung tissue over cubic millimeter volumes with virtual H&E contrast and at submicron resolution. Our work builds on the prior autopsy case-series report from LSU-HSC, confirming and expanding novel findings of widespread pulmonary microangiopathy involving activation of mature megakaryocytes in the lung"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.11.037473",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.11.037473.pdf"
+    },
+    "abstract": "The study of pulmonary samples from individuals who have died as a direct result of COVID19 infection is vital to our understanding of the pathogenesis of this disease. Histopathologic studies of lung tissue from autopsy of patients with COVID-19 specific mortality are only just emerging. All existing reports have relied on traditional 2-dimensional slide-based histological methods for specimen preparation. However, emerging methods for high-resolution, massively multiscale imaging of tissue microstructure using fluorescence labeling and tissue clearing methods enable the acquisition of tissue histology in 3-dimensions, that could open new insights into the nature of SARS-Cov-2 infection and COVID-19 disease processes. In this article, we present the first 3-dimensional images of lung autopsy tissues taken from a COVID-19 patient, including 3D \u201cvirtual histology\u201d of cubic-millimeter volumes of the diseased lung, providing unique insights into disease processes contributing to mortality that could inform frontline treatment decisions.",
+    "funding": [
+        {}
+    ]
+}

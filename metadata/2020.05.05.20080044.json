@@ -1,0 +1,20 @@
+{
+    "abstract": "A surge of patients with coronavirus disease 2019 (COVID-19) presenting to New York City hospitals in March 2020 led to a sharp increase in the utilization of blood cultures, which overwhelmed the capacity of automated blood culture instruments. We sought to evaluate the utilization and diagnostic yield of blood cultures during the COVID-19 pandemic to determine prevalence and common etiologies of bacteremia, and to inform a diagnostic approach to relieve blood culture overutilization. We performed a retrospective cohort analysis of 88,201 blood cultures from 28,011 patients at a multicenter network of hospitals within New York City to evaluate order volume, positivity rate, time to positivity, and etiologies of positive cultures in COVID-19. Ordering volume increased by 34.8% in the second half of March 2020 compared to the first half of the month. The rate of bacteremia was significantly lower among COVID-19 patients (3.8%) than COVID-19 negative patients (8.0%) and those not tested (7.1%), p < 0.001. COVID-19 patients had a high proportion of organisms reflective of commensal skin microbiota, reducing the bacteremia rate to 1.6% when excluded. More than 98% of all positive cultures were detected within 4 days of incubation. Bloodstream infections are very rare for COVID-19 patients, which supports the judicious use of blood cultures in the absence of compelling evidence for bacterial co-infection. Clear communication with ordering providers is necessary to prevent overutilization of blood cultures during COVID-19 surges, and laboratories should consider shortening the incubation period from 5 days to 4 days to free additional capacity.",
+    "author": "Donald Dietz; Dakai Liu; William Greendyke; Jason E. Zucker; Daniel A. Green; Sarah Russell; Justin G Aaron; Dennis Camp; Magdalena E Sobieszczyk; Charles Connelly; Justin J Choi; Susan Whittier; Jorge Sepulveda; Kelvin Espinal; Michael Joseph Satlin; Lars F Westblade",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20080044",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20080044"
+    },
+    "title": "Bacteremia and Blood Culture Utilization During COVID-19 Surge in New York City",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Roche Diagnostics"
+                }
+            ],
+            "funding-statement": "Potential conflicts of interest: J.J.C. has received research support from Roche Diagnostics"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "abstract": "Objective: We estimated that how many hospital workers in the United States (US) might get infected or die in the COVID-19 pandemic. We also estimated the impact of personal protective equipment (PPE) and age restrictions on these estimates. Methods: Our secondary analyses estimated hospital worker infections in the US based on health worker infection and death rates per 100 deaths from COVID-19 in Hubei and Italy. We used Monte Carlo simulations to compute point estimates with 95% confidence intervals for hospital worker infections in the US based on the two scenarios. We computed potential decrease in infections if the PPE were available only to those involved in direct care of COVID-19 patients (~ 30%) and if workers aged \u2265 60 years are restricted from patient care. Estimates were adjusted for hospital workers per bed in the US compared to China and Italy. Results: The hospital worker infections per 100 deaths were 108.2 in Hubei and 94.1 in Italy. Based on Hubei scenario, we estimated that about 53,640 US hospital workers (95% CI: 43,160 to 62,251) might get infected from COVID-19. The Italian scenario suggested 53,097 US hospital worker (95% CI: 37,133 to 69,003) might get infected during the pandemic. Availability of PPE to high-risk workers could reduce counts to 28,100 (95% CI: 23,048 to 33,242) considering Hubei and to 28,354 (95% CI: 19,829 to 36,848) considering Italy. Restricting hospital workers aged \u2265 60 years from direct patient care reduced counts to 1,985 (95% CI: 1,627 to 2,347) considering Hubei and to 2,002 (95% CI: 1,400 to 2,602) considering the Italian scenario. Conclusion: We estimated significant burden of illness due to COVID-19 if no strategies are adopted. Making PPE available to all hospital workers and reducing exposure of hospital workers above the age of 60 could have significant reductions in hospital worker infections.",
+    "affiliations": [
+        "Fogarty International Centre of the National Institute of Health"
+    ],
+    "author": "Junaid A Razzak; Muhammad Ramzan Tahir; Omrana Pasha-Razzak; Junaid Ahmad Bhatti",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20055988",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055988"
+    },
+    "title": "ESTIMATING COVID-19 INFECTIONS IN HOSPITAL WORKERS IN THE UNITED STATES",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fogarty International Centre of the National Institute of Health"
+                }
+            ],
+            "funding-statement": "JAR is partially supported by the grant funded by the Fogarty International Centre of the National Institute of Health"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "title": "A scientometric overview of CORD-19",
+    "author": "Giovanni Colavizza, Rodrigo Costas, Vincent A. Traag, Nees Jan van Eck, Thed van Leeuwen, and Ludo Waltman",
+    "date": 2020,
+    "affiliations": [
+        "University of Amsterdam",
+        "Centre for Science and Technology Studies (CWTS), Leiden University",
+        "TREC-COVID challenge has been announced on CORD-193"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.20.046144",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.20.046144.pdf"
+    },
+    "abstract": "As the COVID-19 pandemic unfolds, researchers from all disciplines are coming together and contributing their expertise. CORD-19, a dataset of COVID-19 and coronavirus publications, has recently been published alongside calls to help mine the information it contains, and to create tools to search it more effectively. Here, we focus on the delineation of the publications included in CORD-19, and analyse this delineation from a scientometric perspective. We find that CORD-19 contains research not only on COVID-19 and coronaviruses, but on viruses in general. Publications from CORD-19 mostly focus on a few, well-defined areas, including: coronaviruses (primarily SARS, MERS, COVID-19); public health and viral epidemics; the molecular biology of viruses; influenza and other families of viruses; immunology and antivirals; methodology (testing, diagnosing, clinical trials). CORD-19 publications published in 2020, especially focused on topics of pressing relevance (spread, infection, efficacy of counter-measures), are disproportionately popular on social media. While we fully endorse the initiative that led to CORD-19, we also advise to consider its relatively broad content critically. COVID-19, CORD-19, Coronavirus, Scientometrics, Bibliometrics.",
+    "funding": [
+        {}
+    ]
+}

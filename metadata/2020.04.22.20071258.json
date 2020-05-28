@@ -1,0 +1,32 @@
+{
+    "abstract": "OBJECTIVE To investigate the dynamics of viral RNA, IgM, and IgG and their relationships in patients with SARS-CoV-2 pneumonia over an 8-week period. DESIGN Retrospective, observational case series. SETTING Wenzhou Sixth Peoples Hospital PARTICIPANTS Thirty-three patients with laboratory confirmed SARS-CoV-2 pneumonia admitted to hospital. Data were collected from January 27 to April 10, 2020. MAIN OUTCOME MEASURES Throat swabs, sputum, stool, and blood samples were collected, and viral load was measured by reverse transcription PCR (RT-PCR). Specific IgM and IgG against spike protein (S), spike protein receptor binding domain (RBD), and nucleocapsid (N) were analyzed. RESULTS At the early stages of symptom onset, SARS-CoV-2 viral load is higher in throat swabs and sputum, but lower in stool. The median (IQR) time of undetectable viral RNA in throat swab, sputum, and stool was 18.5 (13.25-22) days, 22 (18.5-27.5) days, and 17 (11.5-32) days, respectively. In sputum, 17 patients (51.5%) had undetectable viral RNA within 22 days (short persistence), and 16 (48.5%) had persistent viral RNA more than 22 days (long persistence). Three patients (9.1%) had a detectable relapse of viral RNA in sputum within two weeks of their discharge from the hospital. One patient had persistent viral RNA for 59 days or longer. The median (IQR) seroconversion time of anti-S IgM, anti-RBD IgM, and anti-N IgM was 10.5 (7.75-15.5) days, 14 (9-24) days, and 10 (7-14) days, respectively. The median (IQR) seroconversion time of anti-S IgG, anti-RBD IgG, and anti-N IgG was 10 (7.25-16.5) days, 13 (9-17) days, and 10 (7-14) days, respectively. By week 8 after symptom onset, IgM were negative in many of the previously positive patients, and IgG levels remained less than 50% of the peak levels in more than 20% of the patients. In about 40% of the patients, anti-RBD IgG levels were 4-times higher in convalescence than in acute phase. SARS-CoV-2 RNA coexisted with antibodies for more than 50 days. Anti-RBD IgM and IgG levels, including anti-RBD IgM levels at presentation and peak time, were significantly higher in viral RNA short persistence patients than in long persistence patients. CONCLUSION This study adds important new information about the features of viral load and antibody dynamics of SARS-CoV-2. It is clear from these results that the viral RNA persists in sputum and stool specimens for a relatively long time in many patients. Anti-RBD may also serve as a potential protective antibody against SARS-CoV-2 infection, as viral persistence appears to be related to anti-RBD levels. Earlier treatment intervention also appears to be a factor in viral persistence.",
+    "author": "Jianping Huang; Shufei Li; Huanzheng Li; Chongquan Huang; Lianpeng Wu; Dong Chen; Jing Cai; Xueqin Xu; Xuan Lin; Jichan Shi; Chenyang xu; Jianyi Dai; Xiaoling Lin; Baochang Sun; Shaohua Tang; Tingting Mao; Feifei Su",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20071258",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20071258"
+    },
+    "title": "Long period dynamics of viral load and antibodies for SARS-CoV-2 infection: an observational cohort study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Research Project for Emergent"
+                },
+                {
+                    "funding-source": "Novel Coronavirus Infected Pneumonia of The Bureau of Science and Technology, Wenzhou",
+                    "award-id": [
+                        "ZY202004"
+                    ]
+                },
+                {
+                    "funding-source": "Zhejiang Province",
+                    "award-id": [
+                        "ZY202004"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded by The Research Project for Emergent prevention of Novel Coronavirus Infected Pneumonia of The Bureau of Science and Technology, Wenzhou City, Zhejiang Province (ZY202004)"
+        }
+    ]
+}

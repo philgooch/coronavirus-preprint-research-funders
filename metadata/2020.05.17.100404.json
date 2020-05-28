@@ -1,0 +1,48 @@
+{
+    "title": "Identification of five antiviral compounds from the Pandemic Response Box targeting SARS2 CoV-2",
+    "author": "Melle Holwerda, Philip Vkovski, Manon Wider, Volker Thiel, and Ronald Dijkman, #",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Virology and Immunology (IVI), Bern and Mittelh\u00e4usern, Switzerland",
+        "Department of Infectious Diseases and Pathobiology, Vetsuisse Faculty, University of Bern",
+        "Institute for infectious diseases (IFIK), University of Bern, Bern, Switzerland",
+        "Graduate school for biomedical sciences, University of Bern, Bern, Switzerland"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.17.100404",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.17.100404.pdf"
+    },
+    "abstract": "With currently over 4 million confirmed cases worldwide, including more than 300\u2019000 deaths, the current Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) pandemic has a major impact on the economy and health care system. Currently, a limited amount of prophylactic or therapeutic intervention options are available against SARS-CoV-2. In this study, we screened 400 25 compounds from the antimicrobial \u2018Pandemic Response Box\u2019 library for inhibiting properties against SARS-CoV-2. We identified sixteen compounds that potently inhibited SARS-CoV-2 replication, of which five compounds displayed equal or even higher antiviral activity compared to Remdesivir. These results show that five compounds should be further investigated for their mode of action, safety and efficacy against SARS-CoV-2.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "Coronavirus",
+        "Pandemic response box",
+        "antiviral compounds",
+        "17 antiviral screen",
+        "18 19"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Swiss National Science Foundation",
+                    "award-id": [
+                        "310030_179260",
+                        "310030_173085"
+                    ]
+                },
+                {
+                    "funding-source": "Federal Ministry of Education and Research",
+                    "award-id": [
+                        "#01KI1723A"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Swiss National Science Foundation (SNF; grant 310030_179260 and 310030_173085), and the Federal Ministry of Education and Research (BMBF; grant RAPID,  #01KI1723A)."
+        }
+    ]
+}

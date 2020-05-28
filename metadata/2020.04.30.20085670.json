@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: The SARS-CoV-2 virus emerged in December 2019 and caused a pandemic associated with a spectrum of COVID-19 disease ranging from asymptomatic to lethal infection. Serology testing is important for diagnosis of infection, determining infection attack rates and immunity in the population. It also informs vaccine development. Although several serology tests are in use, improving their specificity and sensitivity for early diagnosis on the one hand and for detecting past infection for population-based studies, are priorities. Methods: We evaluated the anti-SARS-CoV-2 antibody profiles to 15 SARS-CoV-2 antigens by cloning and expressing 15 open reading frames (ORFs) in mammalian cells and screened antibody responses to them in COVID-19 patients using the Luciferase Immunoprecipitation System (LIPS). Results: The LIPS technique allowed us to detect antibody responses in COVID-19 patients to 11 of the 15 SARS-CoV-2 antigens tested, identifying novel immunogenic targets. This technique shows that antigens ORF3b and ORF8 allow detection of antibody early in infection in a specific manner and reveals the immuno-dominance of the N antigen in COVID-19 patients. Conclusion: Our report provides an unbiased characterization of antibody responses to a range of SARS-CoV-2 antigens. The combination of 3 SARS-CoV-2 antibody LIPS assays, i.e. N, ORF3b, and ORF8, is sufficient to identify all COVID-19 patients of our cohort even at early time-points of illness, whilst Spike alone fails to do so. Furthermore, our study highlights the importance of investigating new immunogens NSP1, ORF3b, ORF7a and ORF8 which may mediate immune functions other than neutralization which may be beneficial or harmful to the patient.\nCompeting Interest Statement",
+    "author": "Leo LM Poon; Alex WH Chin; Ranawaka APM Perera; Sophie A Valkenburg; Daniel KW Chu; Malik JS Peiris; Yiu Cheong Yeung; Niloufar Kavian; Carolyn A Cohen; Chris Ka Pun Mok; Owen TY Tsang; Asmaa Hachim",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20085670",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20085670"
+    },
+    "title": "Beyond the Spike: identification of viral targets of the antibody response to SARS-CoV-2 in COVID-19 patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Grants Scheme",
+                    "award-id": [
+                        "GRF 17113718"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was partly supported by the Research Grants Scheme (GRF 17113718)"
+        }
+    ]
+}

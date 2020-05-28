@@ -1,0 +1,29 @@
+{
+    "abstract": "Wastewater-based epidemiology has been proposed to monitor the diffusion and trend of SARS-CoV-2 pandemic. In the present study, raw and treated samples from three wastewater treatment plants, and two river samples characterized the Milano Metropolitan Area, Italy, were surveyed for SARS-CoV-2 RNA positivity to real time PCR and infectiveness. Moreover, whole genome sequencing and phylogenetic analysis of isolated strains was performed. Raw wastewater samples resulted positive to PCR amplification, while treated water samples were always negative (four and two samples, respectively, sampled in two dates). Moreover, the rate of positivity in raw wastewater samples decreased after eight days, in congruence with the epidemiological trend estimated for the interested provinces. Virus infectiveness was always not significant, indicating the effectiveness of wastewater treatments, or the natural decay of viral vitality, which implied the absence of significant risk of infection from wastewaters. Samples from receiving rivers (two sites, sampled in the same dates as wastewaters) showed in some cases a positivity to PCR amplification, probably due to non-treated discharges, or the combined sewage overflows. Nevertheless, also for rivers vitality was negligible, indicating the absence of sanitary risks. Phylogenetic analysis of genome indicated that the isolated virus belongs to the most spread strain present in Europe and similar to another strain found in Lombardy.",
+    "author": "Alessandro Mancon; Franco Salerno; Anna Gigantiello; Fabrizio Stefani; Maria Rita Gismondo; Lorenzo Moja; Cristina Pagani; Davide Mileto; Mafalda Maresca; Concetta Longobardi; Francesca Romeri; Sara Giordana Rimoldi; Francesco Comandatore; Stefano Polesello",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20086009",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20086009"
+    },
+    "title": "Presence and vitality of SARS-CoV-2 virus in wastewaters and rivers",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ICMJE"
+                },
+                {
+                    "funding-source": "Stefano Polesello"
+                },
+                {
+                    "funding-source": "Water Alliance"
+                },
+                {
+                    "funding-source": "Acque di Lombardia"
+                }
+            ],
+            "funding-statement": "All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf and declare: no support from any organisation for the submitted work; Stefano Polesello has received research funds from Water Alliance \u0096 Acque di Lombardia company, while other authors has no relationships or activities that could appear to have influenced the submitted work"
+        }
+    ]
+}

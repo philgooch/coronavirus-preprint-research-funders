@@ -1,0 +1,29 @@
+{
+    "abstract": "We have developed a reverse-transcriptase loop mediated amplification (RT-LAMP) method targeting genes encoding the Spike (S) protein and RNA-dependent RNA polymerase (RdRP) of SARS-CoV-2. The LAMP assay achieves comparable limit of detection as commonly used RT-PCR protocols based on artificial targets, recombinant Sindbis virus, and clinical samples. Clinical validation of single-target (S gene) LAMP (N=120) showed a positive percent agreement (PPA) of 41/42 (97.62%) and negative percent agreement (NPA) of 77/78 (98.72%) compared to reference RT-PCR. Dual-target RT-LAMP (S and RdRP gene) achieved a PPA of 44/48 (91.97%) and NPA 72/72 (100%) when including discrepant samples. The assay can be performed without a formal extraction procedure, with lyophilized reagents which do need cold chain, and is amenable to point-of-care application with visual detection.",
+    "author": "Abu Naser Mohon; Kanti Pabbaraju; Alexander Greninger; Byron Berenger; Deirdre Church; Markus Czub; Luiz Lisboa; Dylan R Pillai; Guido van Marle; Cody Doolan; Keith Jerome; Jana Hundt; Thomas Griener",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20075747",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20075747"
+    },
+    "title": "Development and validation of direct RT-LAMP for SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Canadian Institutes for Health Research",
+                    "award-id": [
+                        "NFRFR-2019-00015"
+                    ]
+                },
+                {
+                    "funding-source": "Genome Canada"
+                },
+                {
+                    "funding-source": "Murdock Charitable Trust"
+                }
+            ],
+            "funding-statement": "Funding for this study was obtained from the Canadian Institutes for Health Research (NFRFR-2019-00015, DRP) and Genome Canada (DRP), and from the M.J. Murdock Charitable Trust (KRJ)."
+        }
+    ]
+}

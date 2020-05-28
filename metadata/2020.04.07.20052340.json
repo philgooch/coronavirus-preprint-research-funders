@@ -1,0 +1,16 @@
+{
+    "abstract": "Introduction The first reported UK case of COVID-19 occurred on 31 January 2020, and a lockdown of unknown duration began on 24 March. One model to forecast disease spread depends on clinical parameters and transmission rates. Output includes the basic reproduction number R0 and the log growth rate r in the exponential phase. Methods UK data on reported deaths is used to estimate r. A likelihood for the transmission parameters is defined from a gaussian density for r using the mean and standard error of the estimate. Parameter samples from the Metropolis-Hastings algorithm lead to an estimate and credible interval for R0 and forecasts for severe and critical cases, and deaths during a lockdown. Results In the exponential phase, the UK growth rate for log(deaths) is r = 0.224 with s.e. 0.005. R0 = 5.81 with 90% CI (5.08 , 6.98). In a 12 week lockdown from 24 March with transmission parameters reduced to 20% of their previous values, around 63,000 severely ill patients will need hospitalisation by mid June, 37,000 critically ill will need intensive care, whilst over 81,000 are expected to die. Had the lockdown begun on 17 March around 16,500 severe, 9,250 critical cases and 18,500 deaths would be expected by early June. With 10% transmission, severe and critical cases peak in April. Discussion The R0 estimate is around twice the value quoted by the UK government. The NHS faces extreme pressures, even if transmission is reduced ten-fold. An earlier lockdown could have saved many lives.",
+    "author": "Greg Dropkin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20052340",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20052340"
+    },
+    "title": "COVID-19 UK Lockdown Forecasts and R0",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

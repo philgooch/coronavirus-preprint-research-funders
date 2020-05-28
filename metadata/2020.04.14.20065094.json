@@ -1,0 +1,16 @@
+{
+    "abstract": "The SARS-CoV-2 pandemic has caused a severe international shortage of the nasopharyngeal swabs that are required for collection of optimal specimens, creating a critical bottleneck in the way of high-sensitivity virological testing for COVID-19. To address this crisis, we designed and executed an innovative, radically cooperative, rapid-response translational-research program that brought together healthcare workers, manufacturers, and scientists to emergently develop and clinically validate new swabs for immediate mass production by 3D printing. We performed a rigorous multi-step preclinical evaluation on 160 swab designs and 48 materials from 24 companies, laboratories, and individuals, and shared results and other feedback via a public data repository (http://github.com/rarnaout/Covidswab/). We validated four prototypes through an institutional review board (IRB)-approved clinical trial that involved 276 outpatient volunteers who presented to our hospital's drive-through testing center with symptoms suspicious for COVID-19. Each participant was swabbed with a reference swab (the control) and a prototype, and SARS-CoV-2 reverse-transcriptase polymerase chain reaction (RT-PCR) results were compared. All prototypes displayed excellent concordance with the control (\u03ba=0.85-0.89). Cycle-threshold (Ct) values were not significantly different between each prototype and the control, supporting the new swabs' non-inferiority (Mann-Whitney U [MWU] p>0.05). Study staff preferred one of the prototypes over the others and the control swab overall. The total time elapsed between identification of the problem and validation of the first prototype was 22 days. The swabs are available to order (http://printedswabs.org). Our experience holds lessons for the rapid development, validation, and deployment of new technology for this pandemic and beyond.",
+    "author": "Rose Lee; Lauren Tamburello; Kate Zulauf; Joe Previtera; Ramy Arnaout; Ahmed Abdul Azim; Annie Cheng; Cody J Callahan; Nancy Doraiswami; Amanda Yano; James Kirby; Keneth P Smith; Alex Green",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065094",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065094"
+    },
+    "title": "Open Development and Clinical Validation of Multiple 3D-Printed Sample-Collection Swabs: Rapid Resolution of a Critical COVID-19 Testing Bottleneck",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Payments covering the cost of the IRB and clinical trial PCR were provided by Carbon3D, EnvisionTec, Origin, Inc, and Hewlett-Packard."
+        }
+    ]
+}

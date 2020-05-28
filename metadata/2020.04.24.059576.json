@@ -1,0 +1,66 @@
+{
+    "title": "Introductions and early spread of SARS-CoV-2 in France",
+    "author": "Fabiana G\u00e1mbaro, Sylvie Behillil, Artem Baidaliuk, Flora Donati, M\u00e9lanie Albert, Andreea Alexandru, Maud Vanpeene, M\u00e9line Bizard, Angela Brisebarre, Marion Barbet, Fawzi Derrar, Sylvie van der Werf, $, Vincent Enouf, $, and Etienne Simon-Loriere, $",
+    "date": 2020,
+    "affiliations": [
+        "Evolutionary genomics of RNA viruses, Institut Pasteur, Paris, France",
+        "National Reference Center for Respiratory Viruses, Institut Pasteur, Paris, France",
+        "Molecular Genetics of RNA Viruses, CNRS - UMR 3569, University of Paris, Institut Pasteur, Paris, France",
+        "Mutualized Platform of Microbiology, Pasteur International Bioresources Network, Institut Pasteur, Paris, France",
+        "National Influenza Centre, Viral Respiratory Laboratory, Algiers, Algeria",
+        "Universit\u00e9 de Paris, Paris, France",
+        "National Reference Center for Respiratory Viruses at the Institut Pasteur in Paris as part of the ongoing surveillance (Figure 1A). We combined the 97 SARSCoV-2 genomes from France and 3 from Algeria generated here with 338 sequences published or freely available from the GISAID database, and performed a phylogenetic analysis focusing on the initial introductions and spread of the virus in France"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.24.059576",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.24.059576.pdf"
+    },
+    "abstract": "Following the emergence of coronavirus disease (COVID-19) in Wuhan, China in December 2019, specific COVID-19 surveillance was launched in France on January 10, 2020. Two weeks later, the first three imported cases of COVID-19 into Europe were diagnosed in France. We sequenced 97 severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) genomes from samples collected between January 24 and March 24, 2020 from infected patients in France. Phylogenetic analysis identified several early independent SARS-CoV-2 introductions without local transmission, highlighting the efficacy of the measures taken to prevent virus spread from symptomatic cases. In parallel, our genomic data reveals the later predominant circulation of a major clade in many French regions, and implies local circulation of the virus in undocumented infections prior to the wave of COVID-19 cases. This study emphasizes the importance of continuous and geographically broad genomic sequencing and calls for further efforts with inclusion of asymptomatic infections.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Institut Pasteur, CNRS"
+                },
+                {
+                    "funding-source": "Universit\u00e9 de Paris, Sant\u00e9"
+                },
+                {
+                    "funding-source": "French Government's Investissement"
+                },
+                {
+                    "funding-source": "Integrative Biology of Emerging Infectious Diseases\"",
+                    "award-id": [
+                        "n\u00b0ANR-10-LABX-62-IBEID"
+                    ]
+                },
+                {
+                    "funding-source": "Research & Action Emerging Infectious Diseases)",
+                    "award-id": [
+                        "ANR-10INBS-09"
+                    ]
+                },
+                {
+                    "funding-source": "France G\u00e9nomique",
+                    "award-id": [
+                        "ANR-10INBS-09-09"
+                    ]
+                }
+            ],
+            "funding-statement": "This study has received funding from Institut Pasteur, CNRS, Universit\u00e9 de Paris, Sant\u00e9 publique France, the French Government's Investissement d'Avenir program, Laboratoire d'Excellence \"Integrative Biology of Emerging Infectious Diseases\" (grant n\u00b0ANR-10-LABX-62-IBEID), REACTing (Research & Action Emerging Infectious Diseases), France G\u00e9nomique (ANR-10INBS-09-09), IBISA, and the EU grant Recover"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "Investissements d\u2019Avenir ANR-16-CONV-0005"
+                    ]
+                }
+            ],
+            "funding-statement": "ESL acknowledges funding from the INCEPTION program (Investissements d\u2019Avenir grant ANR-16-CONV-0005)"
+        }
+    ]
+}

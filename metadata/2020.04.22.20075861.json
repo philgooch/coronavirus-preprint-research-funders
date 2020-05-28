@@ -1,0 +1,85 @@
+{
+    "abstract": "The numbers of deaths caused by HIV could increase substantially if the COVID-19 epidemic leads to interruptions in the availability of HIV services. We compare publicly available scenarios for COVID-19 mortality with predicted additional HIV-related mortality based on assumptions about possible interruptions in HIV programs. An interruption in the supply of ART for 40% of those on ART for 3 months could cause a number of deaths on the same order of magnitude as the number that are anticipated to be saved from COVID-19 through social distancing measures. In contrast, if the disruption can be managed such that the supply and usage of ART is maintained, the increase in AIDS deaths would be limited to 1% over five years, although this could still be accompanied by substantial increases in new HIV infections if there are reductions in VMMC, oral PrEP use, and condom availability.",
+    "affiliations": [
+        "UK Department for International Development (DFID) under the MRC/DFID Concordat agreement and is also part of the EDCTP2 programme supported by the European Union"
+    ],
+    "author": "Timothy B Hallett; Jennifer A Smith; Britta L Jewell",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075861",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075861"
+    },
+    "title": "The Potential Impact of Interruptions to HIV Services: A Modelling Case Study for South Africa",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ICMJE"
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation for the"
+                },
+                {
+                    "funding-source": "Kaiser Permanente"
+                }
+            ],
+            "funding-statement": "All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf and declare: BLJ has received research grants from the Bill and Melinda Gates Foundation for the submitted work; and personal fees from Kaiser Permanente outside the submitted work"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation for the"
+                }
+            ],
+            "funding-statement": "JAS has received research grants from the Bill and Melinda Gates Foundation for the submitted work; and personal fees from BMGF outside the submitted work"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation and MRC for the"
+                },
+                {
+                    "funding-source": "Global Fund and BMGF"
+                }
+            ],
+            "funding-statement": "TBH has received research grants from the Bill and Melinda Gates Foundation and MRC for the submitted work; grants from BMGF, MRC and NIH outside the submitted work; and personal fees from WHO, Global Fund and BMGF outside the submitted work"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill & Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1194416"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Bill & Melinda Gates Foundation [OPP1194416]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "MRC GIDA",
+                    "award-id": [
+                        "MR/R015600/1"
+                    ]
+                },
+                {
+                    "funding-source": "UK Medical Research Council"
+                },
+                {
+                    "funding-source": "UK Department for International Development",
+                    "award-id": [
+                        "MRC/D"
+                    ]
+                },
+                {
+                    "funding-source": "DFID Concordat"
+                },
+                {
+                    "funding-source": "European Union"
+                }
+            ],
+            "funding-statement": "We also acknowledge funding from MRC GIDA [MR/R015600/1]; this award is jointly funded by the UK Medical Research Council (MRC) and the UK Department for International Development (DFID) under the MRC/DFID Concordat agreement and is also part of the EDCTP2 programme supported by the European Union"
+        }
+    ]
+}

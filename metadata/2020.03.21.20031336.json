@@ -1,0 +1,32 @@
+{
+    "abstract": "Objectives: Not all workers are employed in occupations in which working from home is possible. These workers are at an increased risk for exposure to infectious disease during a pandemic event, and are more likely to experience events of job displacement and disruption during all types of public health emergencies. Here, I characterized which occupational sectors in the United States are most able to work from home during a public health emergency such as COVID-19. Methods: 2018 national employment and wage data maintained by the U.S. Bureau of Labor Statistics (BLS) was merged with measures from the BLS O*NET survey data. The measures utilized rank the importance of using a computer at work, and the importance of working with or performing for the public, which relate to the ability to complete work at home. Results: About 25% (35.6 M) of the U.S. workforce are employed in occupations which could be done from home, primarily in sectors such as technology, computer, management, administrative, financial, and engineering. The remaining 75% of U.S. workers (including healthcare, manufacturing, retail and food services, et al.) are employed in occupations where working from home would be difficult. Conclusions: The majority of U.S. workers are employed in occupations that cannot be done at home, putting 108.4 M U.S. workers at increased risk for adverse health outcomes related to working during a public health emergency. These workers tend to be lower paid than workers who can work from home. During COVID-19, this could result in a large increase in the burden of mental health disorders in the U.S., in addition to increased cases of COVID-19 due to workplace transmission. Public health guidance to work from home is not applicable to the majority of the U.S. workforce, emphasizing the need for additional guidance for workers during public health emergencies.",
+    "affiliations": [
+        "National Institute for Occupational Safety and Health under Federal Training Grant T42OH008433. The content is solely the responsibility of the authors and does not necessarily represent the official views of NIOSH"
+    ],
+    "author": "Marissa G. Baker",
+    "date": 2020,
+    "doi": "10.1101/2020.03.21.20031336",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.21.20031336"
+    },
+    "title": "Who cannot work from home? Characterizing occupations facing increased risk during the COVID-19 pandemic using 2018 BLS data",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Occupational Safety and Health",
+                    "award-id": [
+                        "T42OH0084"
+                    ]
+                },
+                {
+                    "funding-source": "Federal Training Grant",
+                    "award-id": [
+                        "T42OH008433"
+                    ]
+                }
+            ],
+            "funding-statement": "Research reported here was supported by the National Institute for Occupational Safety and Health under Federal Training Grant T42OH008433. The content is solely the responsibility of the authors and does not necessarily represent the official views of NIOSH."
+        }
+    ]
+}

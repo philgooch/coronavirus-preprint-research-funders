@@ -1,0 +1,49 @@
+{
+    "abstract": "Background Public health authorities recommend that people practice social distancing, especially if they have symptoms of coronavirus disease (COVID 19), or are older and more at risk of serious illness if they become infected. We test the hypothesis that these groups are following these recommendations and are more likely to undertake social distancing. Methods We conducted an open online survey of 4,676 U.S. adults aged 18 and older between April 4 and April 7, 2020. We model the effects of age and common COVID-19 symptoms in the last two weeks on going out of the home for non-healthcare reasons the day before taking the survey, using a logistic model and the number of close contacts (within 6 feet) that respondents had with non-household members, using a Poisson count model. Our models control for several covariates, including other flu-like symptoms, sex, education, income, whether the respondent worked in February, household size, population density in the respondents ZIP code, state fixed effects, and the day of completion of the survey. We also weight our analyses to make the sample representative of the U.S. adult population. Findings About 52 percent of the adult United States population went out of their home the previous day. On average, adults had close contact with 1.9 non-household members. We find that having at least one COVID-19 symptom (fever, dry cough, or shortness of breath) increased the likelihood of going out the previous day and having additional close contacts with non-household members; however, the estimates were not statistically significant. When disaggregating our analysis by COVID 19 symptoms, we find no strong evidence of greater social distancing by people with a fever or cough in the last two weeks, but we do find that those who experienced shortness of breath have fewer close contacts, with an incidence rate ratio (IRR) of 0.49 (95% CI: 0.30 to 0.78). Having other flu-like symptoms reduces the odds of going out by 0.32 (95% CI: 0.18 to 0.60) and the incidence rate of having close contacts by 42 percent (IRR = 0.58; 95% CI: 0.38 to 0.88). We find that older people are just as likely to leave their homes as younger people, but people over the age of 50 had less than half the predicted number of close contacts than those who were younger than 30. Our approach has the limitation that the survey sample is self-selected. Our findings may therefore be subject to selection bias that is not adequately controlled for by weighting. In addition, the possibility exists of confounding of the results due to omitted variable bias. Conclusions We provide evidence that older people are having significantly fewer close contacts than younger people, which is in line with the public health authorities recommendations. We also find that people experiencing shortness of breath are practicing more intense social distancing. However, we find that those with two other common COVID 19 symptoms, fever and dry cough, are not engaging in greater social distancing, suggesting that increased targeting on relevant symptoms, and messaging, may be required.",
+    "affiliations": [
+        "Aging at Harvard University and the Boston University Global Development Policy Center. The Program on the Global Demography of Aging at Harvard University is supported by the National Institute on Aging of the National Institutes of Health under Award Number P30AG024409. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health"
+    ],
+    "author": "Mahesh Karra; Rashmi Dayalu; David Canning; Muqi Guo; David E Bloom",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20065219",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20065219"
+    },
+    "title": "The association between age, COVID-19 symptoms, and social distancing behavior in the United States",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Program on the Global Demography of Aging"
+                },
+                {
+                    "funding-source": "Harvard University and the Boston University Global Development Policy Center"
+                }
+            ],
+            "funding-statement": "We would like however to acknowledge the support of the Program on the Global Demography of Aging at Harvard University and the Boston University Global Development Policy Center"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Program on the Global Demography of Aging"
+                },
+                {
+                    "funding-source": "Harvard University"
+                },
+                {
+                    "funding-source": "National Institute on Aging of the National Institutes of Health",
+                    "award-id": [
+                        "P30AG024409"
+                    ]
+                },
+                {
+                    "funding-source": "Award Number",
+                    "award-id": [
+                        "P30AG024409"
+                    ]
+                }
+            ],
+            "funding-statement": "The Program on the Global Demography of Aging at Harvard University is supported by the National Institute on Aging of the National Institutes of Health under Award Number P30AG024409"
+        }
+    ]
+}

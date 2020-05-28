@@ -1,0 +1,55 @@
+{
+    "abstract": "SARS-Cov-2 (severe acute respiratory disease coronavirus 2), which causes Coronavirus Disease 2019 (COVID19) was first detected in China in late 2019 and has since then caused a global pandemic. While molecular assays to directly detect the viral genetic material are available for the diagnosis of acute infection, we currently lack serological assays suitable to specifically detect SARS-CoV-2 antibodies. Here we describe serological enzyme-linked immunosorbent assays (ELISA) that we developed using recombinant antigens derived from the spike protein of SARS-CoV-2. Using negative control samples representing pre-COVID 19 background immunity in the general adult population as well as samples from COVID19 patients, we demonstrate that these assays are sensitive and specific, allowing for screening and identification of COVID19 seroconverters using human plasma/serum as early as two days post COVID19 symptoms onset. Importantly, these assays do not require handling of infectious virus, can be adjusted to detect different antibody types and are amendable to scaling. Such serological assays are of critical importance to determine seroprevalence in a given population, define previous exposure and identify highly reactive human donors for the generation of convalescent serum as therapeutic. Sensitive and specific identification of coronavirus SARS-Cov-2 antibody titers may, in the future, also support screening of health care workers to identify those who are already immune and can be deployed to care for infected patients minimizing the risk of viral spread to colleagues and other patients.",
+    "author": "Adolfo Garcia-Sastre; Denise Jurczyszak; Giulio Kleiner; Teresa Aydillo; Katherine Kedzierska; Kaijun Jiang; Florian Krammer; Olli Vapalahti; Veronika Chromikova; Thomas Moran; Luz Amarilis Lugo; Allen Cheng; Viviana Simon; Jussi Hepojoki; Thi Nguyen; Maria Bermudez-Gonzalez; Daniel Stadlbauer; Fatima Amanat; Guha Asthagiri-Arunkumar; Meagan McMahon; Jonathan Stoever; Sean T.H. Liu; Daniel Fierer; Erna Milunka Kojic; Philip L. Felgner; Charlotte Cunningham-Rundles; Shirin Strohmeier; Daniel Caplivski; Lisa Miorin; Jose Polanco",
+    "date": 2020,
+    "doi": "10.1101/2020.03.17.20037713",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.17.20037713"
+    },
+    "title": "A serological assay to detect SARS-CoV-2 seroconversion in humans",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Personalized Virology Initiative"
+                }
+            ],
+            "funding-statement": "The work of the Personalized Virology Initiative is supported by institutional funds and philanthropic donations"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIAID Centers of Excellence for Influenza Research and Surveillance",
+                    "award-id": [
+                        "HHSN272201400008C"
+                    ]
+                },
+                {
+                    "funding-source": "Australian National Health and Medical Research Council",
+                    "award-id": [
+                        "1071916"
+                    ]
+                },
+                {
+                    "funding-source": "NHMRC Program Grant",
+                    "award-id": [
+                        "1071916"
+                    ]
+                },
+                {
+                    "funding-source": "NHMRC Research Fellowship Level",
+                    "award-id": [
+                        "#1102792"
+                    ]
+                },
+                {
+                    "funding-source": "Academy of Finland and Helsinki University Hospital Funds",
+                    "award-id": [
+                        "TYH2018322"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was partially supported by the NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS) contract HHSN272201400008C, the Australian National Health and Medical Research Council (NHMRC) NHMRC Program Grant (1071916) and NHMRC Research Fellowship Level B (#1102792), the Academy of Finland and Helsinki University Hospital Funds (TYH2018322)"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "PSGL-1 blocks SARS-CoV-2 S protein-mediated virus attachment and infection of target cells",
+    "date": 2020,
+    "author": "Sijia He, Brian Hetrick, Deemah Dabbagh, Ivan V. Akhrymuk, Kylene Kehn-Hall, Eric O. Freed, and Yuntao Wu,* 1National Center for Biodefense and Infectious Diseases, School of Systems Biology, George Mason University, Manassas, VA 20110, USA. 2Virus-Cell Interaction Section, HIV Dynamics and Replication Program, Center for Cancer Research, National Cancer Institute-Frederick, Frederick, MD 21702, USA. * Email:  ywu,@gmu.edu",
+    "affiliations": [
+        "National Center for Biodefense and Infectious Diseases, School of Systems Biology, George Mason University, Manassas, VA 20110, USA",
+        "Virus-Cell Interaction Section, HIV Dynamics and Replication Program, Center for Cancer Research, National Cancer Institute-Frederick, Frederick, MD 21702, USA",
+        ""
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.01.073387",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.01.073387.pdf"
+    },
+    "abstract": "P-selectin glycoprotein ligand-1 (PSGL-1) is a cell surface glycoprotein that binds to P-, E-, and L-selectins to mediate the tethering and rolling of immune cells on the surface of the endothelium for cell migration into inflamed tissues. PSGL-1 has been identified as an interferon-\u03b3 (INF-\u03b3)-regulated factor that restricts HIV-1 infectivity, and has recently been found to possess broad-spectrum antiviral activities. Here we report that virion incorporation of PSGL1 on SARS-CoV and SARS-CoV-2 pseudovirions blocks S protein-mediated virus attachment and infection of target cells. These findings suggest that PSGL-1-imprinted non-infectious viral particles could serve as a live attenuated vaccine for SARS-CoV-2 infection.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "US Public Health Service",
+                    "award-id": [
+                        "1R01AI148012"
+                    ]
+                },
+                {
+                    "funding-source": "NIAID"
+                },
+                {
+                    "funding-source": "Research in the Freed"
+                },
+                {
+                    "funding-source": "Intramural Research Program of the Center for Cancer Research, National"
+                },
+                {
+                    "funding-source": "Cancer Institute, NIH"
+                }
+            ],
+            "funding-statement": "This work was funded in part by US Public Health Service grants 1R01AI148012 from NIAID to Y.W., Research in the Freed laboratory is supported by the Intramural Research Program of the Center for Cancer Research, National Cancer Institute, NIH. Author contributions Experiments were designed by Y.W., E.O.F., and K.K"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Identification of antiviral drug candidates against SARS-CoV-2 from FDA-approved drugs",
+    "author": "Sangeun Jeon, Meehyun Ko, Jihye Lee, Inhee Choi, Soo Young Byun, Soonju Park, David Shum, Seungtaek Kim",
+    "date": 2020,
+    "affiliations": [
+        "Zoonotic Virus Laboratory, Institut Pasteur Korea, Seongnam, Korea",
+        "Medicinal Chemistry, Institut Pasteur Korea, Seongnam, Korea",
+        "Screening Discovery Platform, Institut Pasteur Korea",
+        "Zoonotic Virus Laboratory Institut Pasteur Korea 16, Daewangpangyo-ro 712 beon-gil Bundang-gu, Seongnam-si Gyeonggi-do, 13488 South Korea Tel) 82-31-8018-8230 Fax) 82-31-8018-8014 Email)"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.20.999730",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.20.999730.pdf"
+    },
+    "abstract": "COVID-19 is an emerging infectious disease and was recently declared as a pandemic by WHO. Currently, there is no vaccine or therapeutic available for this disease. Drug repositioning represents the only feasible option to address this global challenge and a panel of 48 FDAapproved drugs that have been pre-selected by an assay of SARS-CoV was screened to identify potential antiviral drug candidates against SARS-CoV-2 infection. We found a total of 24 drugs which exhibited antiviral efficacy (0.1 \u03bcM < IC50 < 10 \u03bcM) against SARS-CoV-2. In particular, two FDA-approved drugs - niclosamide and ciclesonide \u2013 were notable in some respects. These drugs will be tested in an appropriate animal model for their antiviral activities. In near future, these already FDA-approved drugs could be further developed following clinical trials in order to provide additional therapeutic options for patients with COVID-19.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Research Foundation of Korea"
+                },
+                {
+                    "funding-source": "Korean government",
+                    "award-id": [
+                        "NRF2017M3A9G6068245",
+                        "NRF-2020M3E9A1041756"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korean government (MSIT) (NRF2017M3A9G6068245 and NRF-2020M3E9A1041756)"
+        }
+    ]
+}

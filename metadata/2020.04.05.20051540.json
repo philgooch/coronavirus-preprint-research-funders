@@ -1,0 +1,34 @@
+{
+    "abstract": "Wastewater surveillance may represent a complementary approach to measure the presence and even prevalence of infectious diseases when the capacity for clinical testing is limited. Moreover, aggregate, population-wide data can help inform modeling efforts. We tested wastewater collected at a major urban treatment facility in Massachusetts and found the presence of SARS-CoV-2 at high titers in the period from March 18 - 25 using RT-qPCR. We then confirmed the identity of the PCR product by direct DNA sequencing. Viral titers observed were significantly higher than expected based on clinically confirmed cases in Massachusetts as of March 25. The reason for the discrepancy is not yet clear, however, and until further experiments are complete, these data do not necessarily indicate that clinical estimates are incorrect. Our approach is scalable and may be useful in modeling the SARS-CoV-2 pandemic and future outbreaks.",
+    "affiliations": [
+        "National Institute of General Medical Sciences. This work was supported by the Center for Microbiome Informatics and Therapeutics and Intra-CREATE Thematic Grant (Cities) grant NRF2019-THE001-0003a to JT and EJA"
+    ],
+    "author": "Claire Duvallet; Newsha Ghaeli; Peter Chai; William Hanage; Noriko Endo; Katya Moniz; Timothy Erickson; Eric Alm; Fuqing Wu; Xiaoqiong Gu; Janelle Thompson; Jianbo Zhang; Mariana Matus; Kathryn Kauffman; Amy Xiao; Wei Lin Lee",
+    "date": 2020,
+    "doi": "10.1101/2020.04.05.20051540",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.05.20051540"
+    },
+    "title": "SARS-CoV-2 titers in wastewater are higher than expected from clinically confirmed cases",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of General Medical Sciences"
+                }
+            ],
+            "funding-statement": "WPH was supported by the National Institute of General Medical Sciences"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Center for Microbiome Informatics and Therapeutics and Intra-CREATE Thematic Grant",
+                    "award-id": [
+                        "NRF2019-THE001"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Center for Microbiome Informatics and Therapeutics and Intra-CREATE Thematic Grant (Cities) grant NRF2019-THE001-0003a to JT and EJA"
+        }
+    ]
+}

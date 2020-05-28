@@ -1,0 +1,19 @@
+{
+    "title": "Identification of potential treatments for COVID-19 through artificial intelligence-enabled phenomic analysis of human cells infected with SARS-CoV-2",
+    "date": 2020,
+    "author": "Katie Heiser+1, Peter F. McLean+1, Chadwick T. Davis+1, Ben Fogelson, Hannah B. Gordon, Pamela Jacobson, Brett Hurst, Ben Miller, Ronald W. Alfa, Berton A. Earnshaw, Mason L. Victors, Yolanda T. Chong, Imran S. Haque, Adeline S. Low, Christopher C. Gibson, +Co-First Authors *Corresponding 1Recursion, Salt Lake City, UT, United States 2Utah State University, Logan, UT, United States",
+    "affiliations": [
+        "Utah State University, Logan, UT, United States"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.21.054387",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.21.054387.pdf"
+    },
+    "abstract": "To identify potential therapeutic stop-gaps for SARS-CoV-2, we evaluated a library of 1,670 approved and reference compounds in an unbiased, cellular image-based screen for their ability to suppress the broad impacts of the SARS-CoV-2 virus on phenomic profiles of human renal cortical epithelial cells using deep learning. In our assay, remdesivir is the only antiviral tested with strong efficacy, neither chloroquine nor hydroxychloroquine have any beneficial effect in this human cell model, and a small number of compounds not currently being pursued clinically for SARS-CoV-2 have efficacy. We observed weak but beneficial class effects of  -blockers, mTOR/PI3K inhibitors and Vitamin D analogues and a mild amplification of the viral phenotype with  -agonists.\nMain Text: SARS-CoV-2, a novel coronavirus, emerged in December 2019 in Wuhan, China. Over the following months the resulting disease, subsequently named COVID-19, spread across the rest of the world and was declared a pandemic by the World Health Organization on March 11th, 2020. As of submission, there are over 2.2M reported infections worldwide and over 150,000 reported deaths, with an anticipated world wide death toll in the millions and an economic impact sufficient to cause a worldwide recession or depression1\u200b ,2.There are currently no vaccines available and the only available therapies are supportive or based largely on anecdotal work.",
+    "funding": [
+        {}
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "abstract": "OBJECTIVE Most patients with Coronavirus Disease 2019 (COVID-19) were Mild or Moderate. Severe patients progressed rapidly to Critical condition including multi-organ failure and even death. Identification of early predictive factors is urgently necessary to facilitate appropriate intensive care. METHODS We included all patient admitted to Wuhan Union Hospital and treated by the supportive medical team of Beijing Tongren Hospital as of March 20, 2020. Indicators of injuries for multiple organs, including the heart, kidney and liver, and glucose homeostasis were specifically analyzed for predicting primary outcomes (an intensive care unit (ICU) or death). RESULTS The data of 120 patients with a severity equal to or greater than Moderate, discharged or died were extracted. After excluding patients with history of diabetes, chronic heart, kidney, and liver disease, 69 patients were included in the final analysis. There were 26 cases with primary outcomes including 16 deaths. Univariable analysis indicated that fasting blood glucose (FBG), lactate dehydrogenase (LDH), hydroxybutyrate dehydrogenase (HBDH), creatine kinase and creatinine were associated with primary outcomes and death. Among patients with primary outcomes, although FBG levels were much higher on admission, they dramatically decreased subsequently, while in deceased patients they increased continuously. Multivariable Cox regression indicated that FBG\u22657mmol/L was the only independent predictor for death (HR = 3.75, 95% CI 1.26-11.15). Cluster analysis found more proximities of FBG (at the time of admission) with LDH, HDDH or Creatinine (after 2-4 days of hospitalization) (r=0.43, 0.43 and 0.50, respectively, P<0.01 for all). Conclusions Blood glucose is a representative of the clustered indicators of multi-organ injury and earlier predictor for poor outcomes and death in the COVID patients. As it is easy to perform for clinical practices and self-monitoring, glucose testing will be much helpful for predicting poor outcomes to facilitate appropriate intensive care.",
+    "affiliations": [
+        "National Key R&D Program of China (2017YFC0909600). The funder has no role in data monitoring, study design, manuscript preparation, and statistical analysis of this paper"
+    ],
+    "author": "Shi Liu; De-Min Han; Wei He; Jian-Min Jin; Fei Wu; Xiao-Fang Liu; Peng Bai; Jin-Kui Yang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20058040",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20058040"
+    },
+    "title": "Blood glucose is a representative of the clustered indicators of multi-organ injury for predicting mortality of COVID-19 in Wuhan, China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2017YFC0909600"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded by the National Key R&D Program of China (2017YFC0909600)"
+        }
+    ]
+}

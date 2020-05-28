@@ -1,0 +1,26 @@
+{
+    "abstract": "Background: A growing number of epidemiological cases are proving the possibility of airborne transmission of coronavirus disease 2019 (COVID-19). Ensuring adequate ventilation rate is essential to reduce the risk of infection in confined spaces. Methods: We obtained the quantum generation rate by a COVID-19 infector with a reproductive number based fitting approach, and then estimated the association between infected probability and ventilation rate with the Wells-Riley equation. Results: The estimated quantum generation rate of COVID-19 is 14-48 /h. To ensure infected probabolity less than 1%, ventilation rate lareger than common values (100-350 m3/h and 1200-4000 m3/h for 15 minutes and 3 hours exposure, respectively) is required. If both the infector and susceptibles wear masks, the ventilation rate ensuring less than 1% infected probability is reduced to 50-180 m3/h and 600-2000 m3/h correspondingly, which is easier to be achieved by normal ventilation mode applied in some typical scenarios, including offices, classrooms, buses and aircraft cabins. Interpretation: The risk of potential airborne transmission in confined spaces cannot be ignored. Strict preventive measures that have been widely adopted should be effective in reducing the risk of airborne transmitted infection.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Natural Science Foundation of China (52041602)"
+    ],
+    "author": "Hui Dai; Bin Zhao",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20072397",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20072397"
+    },
+    "title": "Association of infected probability of COVID-19 with ventilation rates in confined spaces: a Wells-Riley equation based investigation",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "52041602"
+                    ]
+                }
+            ],
+            "funding-statement": "BZ has received funding from the National Natural Science Foundation of China (52041602)"
+        }
+    ]
+}

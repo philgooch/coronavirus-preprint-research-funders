@@ -1,0 +1,16 @@
+{
+    "abstract": "In order to quantitatively characterize the epidemic of COVID\u201519, useful relations among parameters describing an epidemic in general are derived based on the Kermack-McKendrick model. The first relation is 1/\u03c4grow=1/\u03c4trans\u22121/\u03c4inf, where \u03c4grow is the time constant of the exponential growth of an epidemic, \u03c4trans is the time for a pathogen to be transmitted from one patient to uninfected person, and the infectious time \u03c4inf is the time during which the pathogen keeps its power of transmission. The second relation p(\u221e) \u22481\u2212exp(\u2212(R0\u22121)/0.60) is the relation between p(\u221e), the final size of the disaster defined by the ratio of the total infected people to the population of the society,and the basic reproduction number, R0, which is the number of persons infected by the transmission of the pathogen from one infected person during the infectious time. The third relation 1/\u03c4end=1/\u03c4inf\u2212(1\u2212p(\u221e))/\u03c4trans gives the decay time constant \u03c4end at the ending stage of the epidemic. Derived relations are applied to influenza in Japan in 2019 for characterizing the epidemic.",
+    "author": "Toshihisa Tomie",
+    "date": 2020,
+    "doi": "10.1101/2020.02.26.20027797",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.26.20027797"
+    },
+    "title": "Relations of parameters for describing the epidemic of COVID\u201519 by the Kermack\u2015McKendrick model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

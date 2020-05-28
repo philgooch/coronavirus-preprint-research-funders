@@ -1,0 +1,65 @@
+{
+    "title": "Using curvature to infer COVID-19 fractal epidemic network fragility and systemic risk",
+    "date": 2020,
+    "author": "Danillo Barros de Souza Departamento de Matematica, Universidade Federal de Pernambuco (UFPE), Recife, 50670-901, Brazil",
+    "affiliations": [
+        "Danillo Barros de Souza Departamento de Matematica, Universidade Federal de Pernambuco (UFPE), Recife, 50670-901, Brazil",
+        "Santos Departamento de Matematica, Universidade Federal de Pernambuco (UFPE), Recife, 50670-901, Brazil, and",
+        "Department of Anatomy & Neurosciences, Amsterdam UMC, Vrije Universiteit Amsterdam, Amsterdam Neuroscience, 1081 HZ, Amsterdam, The Netherlands\u2217",
+        "Jones Albuquerque Instituto para Reducao de Riscos",
+        "Desastres de Pernambuco - Universidade Federal Rural de Pernambuco (IRRD-PE) Laboratorio de Imunopatologia Keizo Asami (LIKA) - Universidade de Federal de Pernambuco (UFPE) Recife, 50670-901, Brazil. (Dated: April 1, 2020)"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.01.20047225",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.01.20047225.pdf"
+    },
+    "abstract": "The damage of the novel Coronavirus disease (COVID-19) is reaching unprecedented scales. There are numerous classical epidemiology models trying to quantify epidemiology metrics. Usually, to forecast the epidemics, these classical approaches need parameter estimations, such as the contagion rate or the basic reproduction number. Here, we propose a data-driven, parameter-free approach to access the fragility and systemic risk of epidemic networks by studying the Forman-Ricci curvature. Network curvature has been used successfully to forecast risk in financial networks and we suggest that those results can be translated for COVID-19 epidemic time series as well. We first show that our hypothesis is true in a toy-model of epidemic time series with delays, which generates epidemic networks. By doing so, we are able to verify that the Forman-Ricci curvature can be a parameter-free estimate for the fragility and risk of the network at each stage of the simulated pandemic. On this basis, we then compute the Forman-Ricci curvature for real epidemic networks built from epidemic time series available from the World Health Organization (WHO). The Forman-Ricci curvature allow us to detect early warning signs of the emergence of the pandemic. The advantage of the method lies in providing an early geometrical data marker for epidemics, without the need of parameter estimation and stochastic modeling. The strategy above, together with other data-driven tools for investigating epidemic network dynamics, can be readily implemented on a daily basis to quickly estimate the growth, risk and fragility of real COVID-19 epidemic networks at different scales.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "FACEPE",
+                    "award-id": [
+                        "APQ-0602-1",
+                        "05/14"
+                    ]
+                },
+                {
+                    "funding-source": "PRONEX",
+                    "award-id": [
+                        "APQ-0602-1",
+                        "05/14",
+                        "0388-1",
+                        "03/14",
+                        "APQ-03991",
+                        "03/17"
+                    ]
+                },
+                {
+                    "funding-source": "CAPES",
+                    "award-id": [
+                        "88887",
+                        "136410/2017-00",
+                        "465614/2014-0"
+                    ]
+                },
+                {
+                    "funding-source": "Romeil Sandhu, Tryphon"
+                },
+                {
+                    "funding-source": "Ed Reznik, Liangjia"
+                },
+                {
+                    "funding-source": "Ivan Kolesov, Yasin"
+                },
+                {
+                    "funding-source": "Allen Tannenbaum"
+                }
+            ],
+            "funding-statement": "This research was partially funded by INES 2.0, FACEPE grants PRONEX APQ-0602-1.05/14, APQ 0388-1.03/14 and APQ-03991.03/17, CAPES grant 88887.136410/2017-00, and CNPq grant 465614/2014-0. [12] Romeil Sandhu, Tryphon Georgiou, Ed Reznik, Liangjia Zhu, Ivan Kolesov, Yasin Senbabaoglu, and Allen Tannenbaum"
+        }
+    ]
+}

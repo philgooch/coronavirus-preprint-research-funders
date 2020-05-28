@@ -1,0 +1,26 @@
+{
+    "title": "Using viral genomics to estimate undetected infections and extent of superspreading events for COVID-19",
+    "date": 2020,
+    "author": "Lucy M. Li,\u200b ,Patrick Ayscue\u200b1",
+    "affiliations": [
+        "Chan Zuckerberg Biohub, San Francisco, CA, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.05.20092098",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092098.pdf"
+    },
+    "abstract": "Asymptomatic infections and limited testing capacity have led to under-reporting of SARS-CoV-2 cases. This has hampered the ability to ascertain true infection numbers, evaluate the effectiveness of surveillance strategies, determine transmission dynamics, and estimate reproductive numbers. Leveraging both viral genomic and time series case data offers methods to estimate these parameters.\nUsing a Bayesian inference framework to fit a branching process model to viral phylogeny and time series case data, we estimated time-varying reproductive numbers and their variance, the total numbers of infected individuals, the probability of case detection over time, and the estimated time to detection of an outbreak for 12 locations in Europe, China, and the United States.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Diagnostic Development Initiative."
+                }
+            ],
+            "funding-statement": "AWS provided computational credit via the Diagnostic Development Initiative."
+        }
+    ]
+}

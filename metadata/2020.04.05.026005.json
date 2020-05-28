@@ -1,0 +1,40 @@
+{
+    "title": "Immuno-informatics Characterization SARS-CoV-2 Spike Glycoprotein for Prioritization of Epitope based Multivalent Peptide Vaccine",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "Spike glycoprotein",
+        "Vaccine",
+        "Immuno-informatics",
+        "Multi-epitope peptide vaccine construct",
+        "Molecular dynamics simulation"
+    ],
+    "author": "Saba Ismail, Sajjad Ahmad, Syed Sikander Azam, Computational Biology Lab, National Center for Bioinformatics (NCB), Quaid-i-Azam",
+    "date": 2020,
+    "affiliations": [
+        "Computational Biology Lab, National Center for Bioinformatics (NCB), Quaid-i-Azam",
+        "University, Islamabad, 45320, Pakistan",
+        "Both authors contributed equally to this work as first author"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.05.026005",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.05.026005.pdf"
+    },
+    "abstract": "The COVID-19 pandemic caused by SARS-CoV-2 is a public-health emergency of international concern and thus calling for the development of safe and effective therapeutics and prophylactics particularly a vaccine to protect against the infection. SARS-CoV-2 spike glycoprotein is an attractive candidate for vaccine, antibodies and inhibitor development because of many roles it plays in attachment, fusion and entry into the host cell. In this study, we characterized the SARSCoV-2 spike glycoprotein by immune-informatics techniques to put forward potential B and T cell epitopes, followed by the use of epitopes in construction of a multi-epitope peptide vaccine construct (MEPVC). The MEPVC revealed robust host immune system simulation with high production of immunoglobulins, cytokines and interleukins. Stable conformation of the MEPVC with a representative innate immune TLR3 receptor was observed involving strong hydrophobic and hydrophilic chemical interactions, along with enhanced contribution from salt-bridges towards inter-molecular stability. Molecular dynamics simulation in solution aided further in interpreting strong affinity of the MEPVC for TLR3. This stability is the attribute of several vital residues from both TLR3 and MEPVC as shown by radial distribution function (RDF) and a novel analytical tool axial frequency distribution (AFD). Comprehensive binding free energies estimation was provided at the end that concluded major domination by electrostatic and minor from van der Waals. Summing all, the designed MEPVC has tremendous potential of providing protective immunity against COVID-19 and thus has the potential to be considered in experimental studies. Keywords: COVID-19; SARS-CoV-2, Spike glycoprotein; Vaccine; Immuno-informatics; Multi-epitope peptide vaccine construct; Molecular dynamics simulation.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Pakistan-United States Science and Technology Cooperation Program",
+                    "award-id": [
+                        "Pak-US/2017/360"
+                    ]
+                }
+            ],
+            "funding-statement": "Authors are highly grateful to the Pakistan-United States Science and Technology Cooperation Program (Grant No Pak-US/2017/360) for granting the financial assistance"
+        }
+    ]
+}

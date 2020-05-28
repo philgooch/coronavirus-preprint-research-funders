@@ -1,0 +1,16 @@
+{
+    "abstract": "To optimize epidemiologic interventions, predictors of mortality should be identified. The US COVID-19 epidemic data, reported up to 31 March 2020, were analyzed using kernel regularized least squares regression. Six potential predictors of mortality were investigated: (i) the number of diagnostic tests performed in testing week I; (ii) the proportion of all tests conducted during week I of testing; (iii) the cumulative number of (test-positive) cases through 3-31-2020, (iv) the number of tests performed/million citizens; (v) the cumulative number of citizens tested; and (vi) the apparent prevalence rate, defined as the number of cases/million citizens. Two metrics estimated mortality: the number of deaths and the number of deaths/million citizens. While both expressions of mortality were predicted by the case count and the apparent prevalence rate, the number of deaths/million citizens was \u22483.5 times better predicted by the apparent prevalence rate than the number of cases. In eighteen states, early testing/million citizens/population density was inversely associated with the cumulative mortality reported by 31 March, 2020. Findings support the hypothesis that early and massive testing saves lives. Other factors \u2014e.g., population density\u2014 may also influence outcomes. To optimize national and local policies, the creation and dissemination of high resolution geo-referenced, epidemic data is recommended.",
+    "author": "Prakasha Kempaiah; Ariel L. Rivas; Renata Piccinini; Stephen D. Smith; James B. Hittner; Almira L. Hoogesteijn; Folorunso O. Fasina",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20102483",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20102483"
+    },
+    "title": "Early and massive testing saves lives: COVID-19 related infections and deaths in the United States during March of 2020",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

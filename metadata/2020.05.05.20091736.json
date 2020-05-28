@@ -1,0 +1,20 @@
+{
+    "abstract": "In the recent COVID-19 pandemic, computer simulations are used to predict the evolution of the virus propagation and to evaluate the prospective effectiveness of non-pharmaceutical interventions. As such, the corresponding mathematical models and their simulations are central tools to guide political decision-making. Typically, ODE-based models are considered, in which fractions of infected and healthy individuals change deterministically and continuously over time. In this work, we translate an ODE-based COVID-19 spreading model from literature to a stochastic multi-agent system and use a contact network to mimic complex interaction structures. We observe a large dependency of the epidemic's dynamics on the structure of the underlying contact graph, which is not adequately captured by existing ODE-models. For instance, existence of super-spreaders leads to a higher infection peak but a lower death toll compared to interaction structures without super-spreaders. Overall, we observe that the interaction structure has a crucial impact on the spreading dynamics, which exceeds the effects of other parameters such as the basic reproduction number R0. We conclude that deterministic models fitted to COVID-19 outbreak data have limited predictive power or may even lead to wrong conclusions while stochastic models taking interaction structure into account offer different and probably more realistic epidemiological insights.",
+    "author": "Michael Backenkoehler; Gerrit Grossmann; Verena Wolf",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091736",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091736"
+    },
+    "title": "Importance of Interaction Structure and Stochasticity for Epidemic Spreading: A COVID-19 Case Study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "DFG project"
+                }
+            ],
+            "funding-statement": "This work was partially funded by the DFG project MULTIMODE"
+        }
+    ]
+}

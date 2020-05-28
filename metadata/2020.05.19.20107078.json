@@ -1,0 +1,87 @@
+{
+    "title": "Dreaming during the Covid-19 pandemic: Computational assessment of dream reports reveals mental suffering associated with negative feelings and contagion fear",
+    "author": "Natalia Mota",
+    "date": 2020,
+    "affiliations": [
+        "Brain Institute at Federal University of Rio Grande do Norte \u2013 UFRN, Natal, Brazil",
+        "Department of Physics at Federal University of Pernambuco \u2013 UFPE, Recife, Brazil",
+        "Department of Modern Foreign Languages and Literatures at Federal University of Rio Grande do Norte \u2013 UFRN, Natal, Brazil",
+        "Department of Linguistics at Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro \u2013 PUC RJ, Rio de Janeiro, Brazil",
+        "IBM T.J. Watson Research Center, Yorktown Heights, Yorktown, NY, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.19.20107078",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.19.20107078.pdf"
+    },
+    "abstract": "Neuroscience and psychology agree that dreaming helps to cope with negative emotions and learn from experience. The current global threat related to the COVID-19 pandemic led to widespread social isolation. How does this situation affect dreams? Is dreaming during the pandemic related to mental suffering? Does the act of observing dreams help to mitigate mental suffering? To address these questions, we applied natural language processing tools to study 210 dream reports (n=67, Pandemic group n=42, plus control group balanced for age, sex and education) either before the Covid-19 outbreak or during March-April, 2020, following the pandemic announcement by the WHO and quarantine was imposed in Brazil. Postannouncement dreams showed a higher proportion of words related to anger and sadness, and higher average semantic similarities to the terms \u201ccontamination\u201d and \u201ccleanness\u201d, which tended to increase over time. These features were associated with mental suffering related to social isolation, as they explained 39% of the variance in PANSS negative subscale (p=0.0092). Besides, dream observation was positively self-evaluated and dream similarities to \u201ccontamination\u201d and \u201ccleanness\u201d revealed different impacts of the dream observation effect. These results corroborate the hypothesis that pandemic dreams reflect mental suffering, fear of contagion, and important changes in daily habits.",
+    "keywords": [
+        "COVID",
+        "dreams",
+        "natural language processing",
+        "sentiment analysis",
+        "semantic analysis"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Conselho Nacional de Desenvolvimento Cient\u00edfico",
+                    "award-id": [
+                        "401518/2014-0",
+                        "480053/2013-8",
+                        "408145/2016-1"
+                    ]
+                },
+                {
+                    "funding-source": "Research Productivity",
+                    "award-id": [
+                        "308775/2015-5",
+                        "306659/2019-0",
+                        "310712/2014-9"
+                    ]
+                },
+                {
+                    "funding-source": "Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior",
+                    "award-id": [
+                        "OBEDUC-ACERTA",
+                        "0898/2013"
+                    ]
+                },
+                {
+                    "funding-source": "Projects OBEDUC-ACERTA",
+                    "award-id": [
+                        "0898/2013"
+                    ]
+                },
+                {
+                    "funding-source": "STIC AmSud",
+                    "award-id": [
+                        "062/2015"
+                    ]
+                },
+                {
+                    "funding-source": "Funda\u00e7\u00e3o de Amparo"
+                },
+                {
+                    "funding-source": "Tecnologia do Estado de Pernambuco"
+                },
+                {
+                    "funding-source": "Center for Neuromathematics of the S\u00e3o Paulo Research Foundation FAPESP",
+                    "award-id": [
+                        "2013/07699-0"
+                    ]
+                },
+                {
+                    "funding-source": "Austrian Science Fund Project",
+                    "award-id": [
+                        "Y00777"
+                    ]
+                }
+            ],
+            "funding-statement": "We want to thanks the financial support from Boehringer-Ingelheim (grants 270,906 and 270,561).Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico (CNPq) PVE grant 401518/2014-0, Universal grants 480053/2013-8 and 408145/2016-1, and Research Productivity grants 308775/2015-5, 306659/2019-0 and 310712/2014-9; Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior (CAPES) Projects OBEDUC-ACERTA 0898/2013 and STIC AmSud 062/2015; Funda\u00e7\u00e3o de Amparo \u00e0 Ci\u00eancia e Tecnologia do Estado de Pernambuco (FACEPE); Center for Neuromathematics of the S\u00e3o Paulo Research Foundation FAPESP (grant 2013/07699-0); and the Austrian Science Fund Project (FWF) Y00777"
+        }
+    ]
+}

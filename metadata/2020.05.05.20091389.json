@@ -1,0 +1,42 @@
+{
+    "title": "Evolution of COVID-19 pandemic: Power law growth and saturation",
+    "author": "Soumyadeep Chatterjee, \u2217 B. Shayak, \u2020 Ali Asad, \u2021 Shashwat Bhattacharya, \u00a7 Shadab Alam, \u00b6 and Mahendra K. Verma, \u2217\u2217 1Department of Physics, Indian Institute of Technology Kanpur, Kanpur 208016, India 2Sibley School of Mechanical and Aerospace Engineering, Cornell University, Ithaca, NY, USA 3Department of Mechanical Engineering, Indian Institute of Technology Kanpur, Kanpur 208016, India",
+    "date": 2020,
+    "affiliations": [
+        "Department of Physics, Indian Institute of Technology Kanpur, Kanpur 208016, India",
+        "Sibley School of Mechanical and Aerospace Engineering, Cornell University, Ithaca, NY, USA",
+        "Department of Mechanical Engineering, Indian Institute of Technology Kanpur, Kanpur 208016, India"
+    ],
+    "journal": "Dated",
+    "volume": "1",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.05.20091389",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091389.pdf"
+    },
+    "abstract": "In this paper, we analyze the real-time infection data of COVID-19 epidemic for 21 nations up to April 20, 2020. We observe that China, South Korea, Australia, Hong Kong, and Switzerland have flattened their infection curves. For these nations, the total number of inf\u221aected individuals (I(t)) exhibits a succession of exponential growth and power-law growth (t2, t, t in sequence) before flattening of the curve. USA, Italy, UK, France, Spain, Germany, Belgium, Israel, Netherlands, India, and Sri Lanka have reached up to the linear growth (I(t) \u223c t), but they are yet to flatten their curves. Russia and Singapore are still in the exponential growth regime. Such features of I(t) curves could be used for understanding and forecast of the epidemic evolution. Besides these detailed analysis, we compare the predictions of an extended SEIR model and a delay differential equation-based model with the reported infection data, and observed a general agreement between them.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ali Asad",
+                    "award-id": [
+                        "6104-1"
+                    ]
+                },
+                {
+                    "funding-source": "Soumyadeep Chatterjee",
+                    "award-id": [
+                        "IF180094"
+                    ]
+                },
+                {
+                    "funding-source": "Department of Science & Technology, India"
+                }
+            ],
+            "funding-statement": "Ali Asad is supported by Indo-French (CEFIPRA) project 6104-1, and Soumyadeep Chatterjee is supported by INSPIRE fellowship (IF180094) of Department of Science & Technology, India. [1] WorldOMeter, URL https://www.worldometers.info/ coronavirus/. [2] W"
+        }
+    ]
+}

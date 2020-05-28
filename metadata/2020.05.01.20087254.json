@@ -1,0 +1,58 @@
+{
+    "abstract": "Covid-19 is a new infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Given the seriousness of the situation, the World Health Organization declared a global pandemic as the Covid-19 rapidly around the world. Among its applications, chest X-ray images are frequently used for an early diagnostic/screening of Covid-19 disease, given the frequent pulmonary impact in the patients, critical issue to prevent further complications caused by this highly infectious disease. In this work, we propose complementary fully automatic approaches for the classification of chest X-ray images under the analysis of 3 different categories: Covid-19, pneumonia and healthy cases. Given the similarity between the pathological impact in the lungs between Covid-19 and pneumonia, mainly during the initial stages of both lung diseases, we performed an exhaustive study of differentiation considering different pathological scenarios. To face these classification tasks, we exploited and adapted to this topic a densely convolutional network architecture, which connects each layer to every other layer in a feed-forward fashion. To validate the designed approaches, several representative experiments were performed using images retrieved from different public chest X-ray images datasets. Overall, satisfactory results were obtained from the designed experiments, facilitating the doctors' work and allowing better an early diagnostic/screening and treatment of this relevant pandemic pathology.",
+    "affiliations": [
+        "Instituto de Salud Carlos III, Government of Spain and FEDER funds of the European Union through the DTS18/00136 research projects and by the Ministerio de Ciencia, Innovaci\u00f3n y Universidades, Government of Spain through the RTI2018-095894-B-I00 research projects. Also, this work has received financial support from the European Union (European Regional Development Fund - ERDF) and the Xunta de Galicia, Centro de Investigaci\u00f3n del Sistema Universitario de Galicia, Ref. ED431G 2019/01"
+    ],
+    "author": "Joaquim de Moura; Marcos Ortega; Jorge Novo",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087254",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087254"
+    },
+    "title": "Fully automatic deep convolutional approaches for the analysis of Covid-19 using chest X-ray images",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Instituto de Salud Carlos III, Government"
+                },
+                {
+                    "funding-source": "Spain and FEDER"
+                },
+                {
+                    "funding-source": "European Union",
+                    "award-id": [
+                        "DTS18/00136"
+                    ]
+                },
+                {
+                    "funding-source": "Ministerio de Ciencia, Innovaci\u00f3n"
+                },
+                {
+                    "funding-source": "Government of Spain",
+                    "award-id": [
+                        "RTI2018-095894-B-I00"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is supported by the Instituto de Salud Carlos III, Government of Spain and FEDER funds of the European Union through the DTS18/00136 research projects and by the Ministerio de Ciencia, Innovaci\u00f3n y Universidades, Government of Spain through the RTI2018-095894-B-I00 research projects"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Union"
+                },
+                {
+                    "funding-source": "European Regional Development Fund"
+                },
+                {
+                    "funding-source": "Xunta de Galicia, Centro"
+                },
+                {
+                    "funding-source": "Sistema Universitario de Galicia, Ref"
+                }
+            ],
+            "funding-statement": "Also, this work has received financial support from the European Union (European Regional Development Fund - ERDF) and the Xunta de Galicia, Centro de Investigaci\u00f3n del Sistema Universitario de Galicia, Ref"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "In order to anticipate a future trends in the development of the novel coronavirus COVID-19 epidemic starting early at march 13, in the french overseas department Mayotte, we study in this paper a deterministic and stochastic epidemic model through several possible states: susceptible, exposed, infected including symptomatics and asymptomatics cases, simple or mild removed, severe removed (including hospitalized) and death cases. We first fit the constant transmission rate parameter to the epidemic data in Mayotte during an early exponential growth phase using an algorithm with a package of software R and based on a Likewook Maximum estimator. Thus, after the intervention and control measures imposed by the gouvernement, we introduce a simple temporally varying and exponentially decreasing transmission rate with a control parameter. This allows us to understand wheter these interventions are having the desired impact of controlling the epidemic by pointing out some percentages to maintain control which is critical in Mayotte given the fragility of its health infrastructure and the significant fraction of the population without access to water.",
+    "author": "Julien BALICCHI; Solym MANOU-ABI",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20062752",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20062752"
+    },
+    "title": "Analysis of the COVID-19 epidemic in french overseas department Mayotte based on a modified deterministic and stochastic SEIR model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors are gratefull to the staff of ARS-Mayotte for usefull informations. This paper will be performed in the following days."
+        }
+    ]
+}

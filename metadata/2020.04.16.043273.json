@@ -1,0 +1,27 @@
+{
+    "title": "Investigating the genomic landscape of novel coronavirus (2019-nCoV) to identify non-synonymous mutations for use in diagnosis and drug design",
+    "date": 2020,
+    "affiliations": [
+        "National Institute of Plant Genome Research, Jawaharlal Nehru University Campus, Aruna Asaf Ali Marg, New Delhi, 110067, India",
+        "Department of Plant Pathology, Kansas State University, 66506, Kansas, United State of America. + -These authors contributed equally"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.16.043273",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.16.043273.pdf"
+    },
+    "abstract": "This study presents a comprehensive phylogenetic analysis of SARS-CoV2 isolates to understand discrete mutations that are occurring between patient samples. This analysis will provide an explanation for varying treatment efficacies of different inhibitory drugs and a future direction towards a combinatorial treatment therapies based on the kind of mutation in the viral genome. Abstract Novel coronavirus has wrecked medical and health care facilities claiming ~5% death tolls globally. All efforts to contain the pathogenesis either using inhibitory drugs or vaccines largely remained futile due to a lack of better understanding of the genomic feature of this virus. In the present study, we compared the 2019-nCoV with other coronaviruses, which indicated that bat-SARS like coronavirus could be a probable ancestor of the novel coronavirus. The protein sequence similarity of pangolin-hCoV and bat-hCoV with human coronavirus was higher as compared to their nucleotide similarity denoting the occurrence of more synonymous mutations in the genome. Phylogenetic and alignment analysis of 591 novel coronaviruses of different clades from Group I to Group V revealed several mutations and concomitant amino acid changes. Detailed investigation on nucleotide substitution unfolded 100 substitutions in the coding region of which 43 were synonymous and 57 were of non-synonymous type. The non-synonymous substitutions resulting into 57 amino acid changes were found to be distributed over different hCoV proteins with maximum on spike protein. An important diamino acid change RG to KR was observed in ORF9 protein. Additionally, several interesting features of the novel coronavirus genome have been highlighted in respect to various other human infecting viruses which may explain extreme pathogenicity, infectivity and simultaneously the reason behind failure of the antiviral therapies. Keywords bat-hCoV, coronavirus, pangolin-hCoV, phylogeny, SARS, synonymous and non-synonymous substitutions.",
+    "keywords": [
+        "bat-hCoV",
+        "coronavirus",
+        "pangolin-hCoV",
+        "phylogeny",
+        "SARS",
+        "synonymous and non-synonymous substitutions"
+    ],
+    "funding": [
+        {}
+    ]
+}

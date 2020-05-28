@@ -1,0 +1,32 @@
+{
+    "abstract": "Background: Coronavirus disease 2019 (COVID-19) is a newly respiratory infectious disease caused by severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) with multiple organ injuries. The aim of this study was to analyze SARS-CoV-2-induced acute liver injury (ALI), its association with death risk and prognosis after discharge. Methods: Three-hundred and fifty-five COVID-19 patients were recruited. Clinical data were collected from electronic medical records. ALI was evaluated and its prognosis was tracked. The association between ALI and death risk was analyzed. Results: Of 355 COVID-19 patients, 211 were common, 88 severe, and 51 critical ill cases, respectively. On admission, 223 (62.8%) patients were with hypoproteinemia, 151(42.5%) with cholestasis, and 101 (28.5%) with hepatocellular injury. As expected, ALI was more common in critical ill patients. By multivariate logistic regression, male, older age and lymphocyte reduction were three important independent risk factors predicting ALI among COVID-19 patients. Death risk analysis shows that fatality rate was higher among patients with hypoproteinemia than those without hypoproteinemia (RR=9.471, P<0.001). Moreover, fatality rate was higher among patients with cholestasis than those without cholestasis (RR=2.182, P<0.05). Follow-up observation found that more than one hepatic functional indexes of two-third patients remained abnormal 14 days after discharge. Conclusions: ALI at early stage elevates death risk of COVID-19 patients. SARS-CoV-2-induced ALI has not recovered completely 14 days after discharge.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Natural Science Foundation of China (grants number: 81630084) and National Natural Science Foundation Incubation Program of the Second Affiliated Hospital of Anhui Medical University (grant number: 2019GQFY06)"
+    ],
+    "author": "Ming-Feng Han; De-Xiang Xu; Zhu-Xia Tan; Fang-Fang Liu; Shen Xu; Ying Xiang; Ying Li; Xiu-Yong Li; Meng-Die Li; Jun Fei; Hui-Xian Xiang; Lin Fu; Hui Zhao",
+    "date": 2020,
+    "doi": "10.1101/2020.04.02.20050997",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20050997"
+    },
+    "title": "Acute liver injury and its association with death risk of patients with COVID-19: a hospital-based prospective case-cohort study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81630084"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation Incubation Program of the Second Affiliated Hospital of Anhui Medical University",
+                    "award-id": [
+                        "2019GQFY06"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by National Natural Science Foundation of China (grants number: 81630084) and National Natural Science Foundation Incubation Program of the Second Affiliated Hospital of Anhui Medical University (grant number: 2019GQFY06)"
+        }
+    ]
+}

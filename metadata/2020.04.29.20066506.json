@@ -1,0 +1,36 @@
+{
+    "abstract": "Background: To increase bed capacity and resources, hospitals have postponed elective surgeries, although the financial impact of this decision is unknown. We sought to report elective surgical case distribution, associated gross hospital earnings and regional hospital and intensive care unit (ICU) bed capacity as elective surgical cases are cancelled and then resumed under simulated trends of COVID-19 incidence. Methods: A retrospective, cohort analysis was performed using insurance claims from 161 million enrollees from the MarketScan database from January 1, 2008 to December 31, 2017. COVID-19 cases were calculated using a generalized Richards model. Centers for Disease Control (CDC) reports on the number of hospitalized and intensive care patients by age were used to estimate the number of cases seen in the ICU, the reduction in elective surgeries and the financial impact of this from historic claims data, using a denominator of all inpatient revenue and outpatient surgeries. Results: Assuming 5% infection prevalence, cancelling all elective procedures decreases ICU overcapacity from 340% to 270%, but these elective surgical cases contribute 78% (IQR 74, 80) (1.1 trillion (T) US dollars) to inpatient hospital plus outpatient surgical gross earnings per year. Musculoskeletal, circulatory and digestive category elective surgical cases compose 33% ($447B) of total revenue. Conclusions: Procedures involving the musculoskeletal, cardiovascular and digestive system account for the largest loss of hospital gross earnings when elective surgery is postponed. As hospital bed capacity increases following the COVID-19 pandemic, restoring volume of these elective cases will help maintain revenue.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Heart, Lung, And Blood Institute (NHLBI) of the National Institutes of Health (NIH). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. None of the funding sources were involved in the design or conduct of the study, collection, management, analysis or interpretation of the data, or preparation, review or approval of the manuscript"
+    ],
+    "author": "Jessica N Cohan; Brenna C Kelly; Rupam Das; Joshua J Horns; Jim Hotaling; Benjamin S Brooke; Marta L McCrum; Alexander J Campbell; Heidi A Hanson; JOSEPH E TONNA",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20066506",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.17605/OSF.IO/U53M4",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20066506"
+    },
+    "title": "Balancing revenue generation with capacity generation: Case distribution, financial impact and hospital capacity changes from cancelling or resuming elective surgeries in the US during COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Heart, Lung"
+                },
+                {
+                    "funding-source": "And Blood Institute"
+                },
+                {
+                    "funding-source": "National Institutes of Health"
+                },
+                {
+                    "funding-source": "NIH"
+                }
+            ],
+            "funding-statement": "JET is supported by a career development award (K23HL141596) from the National Heart, Lung, And Blood Institute (NHLBI) of the National Institutes of Health (NIH)"
+        }
+    ]
+}

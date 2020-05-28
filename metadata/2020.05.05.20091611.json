@@ -1,0 +1,109 @@
+{
+    "abstract": "The recent emergence of a previously unknown coronavirus (SARS-CoV-2), first confirmed in the city of Wuhan in China in December 2019, has caused serious public health and economic issues due to its rapid dissemination worldwide. Although 61,888 confirmed cases had been reported in Brazil by 28 April 2020, little was known about the SARS-CoV-2 epidemic in the country. To better understand the recent epidemic in the second most populous state in southeast Brazil (Minas Gerais, MG), we looked at existing epidemiological data from 3 states and sequenced 40 complete genomes from MG cases using Nanopore. We found evidence of multiple independent introductions from outside MG, both from genome analyses and the overly dispersed distribution of reported cases and deaths. Epidemiological estimates of the reproductive number using different data sources and theoretical assumptions all suggest a reduction in transmission potential since the first reported case, but potential for sustained transmission in the near future. The estimated date of introduction in Brazil was consistent with epidemiological data from the first case of a returning-traveler from Lombardia, Italy. These findings highlight the unique reality of MGs epidemic and reinforce the need for real-time and continued genomic surveillance strategies as a way of understanding and therefore preparing against the epidemic spread of emerging viral pathogens.",
+    "affiliations": [
+        "Tecnol\u00f3gico (CNPQ). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript"
+    ],
+    "author": "Talita Adelino; Marluce Aparecida Assuncao Oliveira; Andre Luiz de Abreu; Marcos Vinicius Ferreira Silva; Cristiane Franco Soares Zoboli; Marilda Agudo Mendonca Teixeira de Siqueira; Adriana Aparecida Ribeiro; Alvaro Salgado; Clara Guerra Duarte; Vasco de Azevedo; Edward C. Holmes; Allison Fabri; Thales Gutemberg Souza Santos; Alana Vitor Barbosa da Costa; Ana Maria Bispo de Filippis; Luiz Carlos Junior Alcantara; Vagner Fonseca; Mauricio Teixeira Lima; Marta Giovanetti; Jose Lourenco; Felipe Iani; Tulio de Oliveira; Joilson Xavier; Carlos F. Campelo de Albuquerque; Katlin Nascimento Felicio; Dario Brock Ramalho; Ronaldo de Jesus",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091611",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091611"
+    },
+    "title": "The ongoing COVID-19 epidemic in Minas Gerais, Brazil: insights from epidemiological data and SARS-CoV-2 whole genome sequencing.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Pan American World Health Organization",
+                    "award-id": [
+                        "VPGDI-003-FIO-19-2-2-30"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Pan American World Health Organization (PAHO) (VPGDI-003-FIO-19-2-2-30)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funda\u00e7\u00e3o de Amparo"
+                },
+                {
+                    "funding-source": "Pesquisa do Estado do Rio de Janeiro"
+                }
+            ],
+            "funding-statement": "MG is supported by Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado do Rio de Janeiro (FAPERJ)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "South African Medical Research Council",
+                    "award-id": [
+                        "MRC-RFA-UFSP-01-2013/U"
+                    ]
+                },
+                {
+                    "funding-source": "UKZN HIVEPI)"
+                },
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "Human Health and Heredity in Africa Consortium",
+                    "award-id": [
+                        "H3Africa"
+                    ]
+                }
+            ],
+            "funding-statement": "V.F. and T.d.O. are supported by the South African Medical Research Council (MRC-RFA-UFSP-01-2013/UKZN HIVEPI) and the NIH H3AbioNet network, which is an initiative of the Human Health and Heredity in Africa Consortium (H3Africa)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Australian Research Council Australian Laureate Fellowship",
+                    "award-id": [
+                        "FL170100022"
+                    ]
+                }
+            ],
+            "funding-statement": "E.C.H. is supported by an Australian Research Council Australian Laureate Fellowship (FL170100022)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Zoology, University"
+                }
+            ],
+            "funding-statement": "J.L. is supported by a lectureship from the Department of Zoology, University of Oxford"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior"
+                },
+                {
+                    "funding-source": "Finance Code"
+                }
+            ],
+            "funding-statement": "J.X. and F.I is supported by the Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior - Brasil (CAPES) - Finance Code 001"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funda\u00e7\u00e3o de Amparo"
+                },
+                {
+                    "funding-source": "Pesquisa do Estado de Minas Gerais"
+                }
+            ],
+            "funding-statement": "F.I. is also supported by Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado de Minas Gerais (FAPEMIG)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Conselho Nacional de Desenvolvimento Cient\u00edfico"
+                }
+            ],
+            "funding-statement": "M.T.L. is supported by Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico (CNPQ)"
+        }
+    ]
+}

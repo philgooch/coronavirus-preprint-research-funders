@@ -1,0 +1,29 @@
+{
+    "abstract": "Background There is accumulating evidence for an overly activated immune response characterised by the release of pro-inflammatory cytokines in severe Covid-19. Suppression of the inflammatory response with immunomodulatory therapies may be a potential therapeutic strategy. We systematically review and assess the effectiveness of specific interleukin-1 and -6 inhibitors for the treatment of coronavirus-related infections. Methods Electronic databases, pre-print servers and clinical trial registries were searched to identify current and ongoing studies of immunomodulatory agents (anakinra, sarilumab, siltuximab and tocilizumab) for the treatment of Covid-19 and other coronavirus related super infections. The co-primary outcome was time to hospital discharge (days) and severity on an ordinal scale measured at day 15. Results Five retrospective studies (tocilizumab, two case series and two case reports; siltuximab, one case series) were shortlisted for inclusion, totalling 59 patients. All studies had a moderate or high risk of bias, with multiple limitations. Insufficient data and inter-study heterogeneity prevented meta-analysis. Primary outcomes were inconsistently reported but suggest many patients experienced an improvement in status seven days following therapy. The case fatality ratio (CFR) of patients with severe Covid-19 included in our review was 6.8%, a figure substantially lower than that estimated in non-interventional case series. Of the studies measuring IL-6, all reported elevated baseline levels. Twenty-five ongoing registered clinical trials exploring immunomodulatory agents in Covid-19 were identified, although inconsistency in participants and endpoints are noted. Conclusion Inhibition of IL-6 with tocilizumab and siltuximab requires further evaluation in managing the assumed hyperinflammatory response associated with severe Covid-19. These early data are considered hypothesis generating and justify the need for well-designed randomised clinical studies.",
+    "author": "Gisli Jenkins; Karen Robinson; Iain Stewart; Alan R Smyth; Laura Fabbri; Fasihul Khan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20076612",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20076612"
+    },
+    "title": "A systematic review of Anakinra, Tocilizumab, Sarilumab and Siltuximab for coronavirus-related infections",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Dr Gisli Jenkins"
+                },
+                {
+                    "funding-source": "Astra Zeneca,"
+                },
+                {
+                    "funding-source": "Boehringer Ingelheim,"
+                },
+                {
+                    "funding-source": "Action for Pulmonary Fibrosis,"
+                }
+            ],
+            "funding-statement": "Dr Gisli Jenkins reports grants from Astra Zeneca, grants from Biogen, personal fees from Boehringer Ingelheim, personal fees from Daewoong, personal fees from Galapagos, grants from Galecto, grants from GlaxoSmithKline, personal fees from Heptares, non-financial support from NuMedii, grants and personal fees from Pliant, personal fees from Promedior, non-financial support from Redx, personal fees from Roche, other from Action for Pulmonary Fibrosis, outside the submitted work The remaining authors have no actual or potential conflict of interest to declare in relation to this study"
+        }
+    ]
+}

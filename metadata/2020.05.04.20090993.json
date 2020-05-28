@@ -1,0 +1,41 @@
+{
+    "title": "TRENDS IN PERCEPTION OF COVID-19 IN POLISH INTERNET",
+    "author": "Irena Jarynowski",
+    "date": 2020,
+    "affiliations": [
+        "Interdisciplinary Research Institute, Wroclaw, Poland",
+        "System Modeling Group, Institute of Veterinary Epidemiology and Biostatistics, Freie",
+        "Universit\u00e4t Berlin, Germany",
+        "Department of Public Health, Faculty of Health Science, Wroclaw Medical University"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.04.20090993",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090993.pdf"
+    },
+    "abstract": "INTRODUCTION: Due to the spread of SARS CoV-2 virus responsible for COVID-19 disease, there is an urgent need to analyse COVID-2019 epidemic perception in Poland. This study aims to investigate social perception of coronavirus in the Internet media during the epidemic. It is a signal report highlighting the main issues in public perception and medical commutation in real time.\nMETHODS: We study the perception of COVID-2019 epidemic in Polish society using quantitative analysis of its digital footprints on the Internet on platforms: Google, Twitter, YouTube, Wikipedia and electronic media represented by Event Registry, from January 2020 to 29.04.2020 (before and after official introduction to Poland on 04.03.20). We present trend analysis with a support of natural language processing techniques.",
+    "keywords": [
+        "Internet",
+        "medical sociology",
+        "epidemiological monitoring",
+        "SARS-CoV-2",
+        "COVID-19",
+        "communications media",
+        "risk perception"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "FU Berlin",
+                    "award-id": [
+                        "FU AvH: 08166500"
+                    ]
+                }
+            ],
+            "funding-statement": "We thank PNFN (2019-21) and FU Berlin (FU AvH: 08166500) for partial financial support"
+        }
+    ]
+}

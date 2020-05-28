@@ -1,0 +1,16 @@
+{
+    "abstract": "Objective: To estimate the incubation period of Vietnamese confirmed COVID\u221219 cases. Methods: Only confirmed COVID\u221219 cases who are Vietnamese and locally infected with available data on date of symptom onset and clearly defined window of possible SARS\u2212CoV\u22122 exposure were included. We used three parametric forms with Hamiltonian Monte Carlo method for Bayesian Inference to estimate incubation period for Vietnamese COVID\u221219 cases. Leave-one-out Information Criterion was used to assess the performance of three models. Results: A total of 19 cases identified from 23 Jan 2020 to 13 April 2020 was included in our analysis. Average incubation periods estimated using different distribution model ranged from 6.0 days to 6.4 days with the Weibull distribution demonstrated the best fit to the data. The estimated mean of incubation period using Weibull distribution model was 6.4 days (95% credible interval (CI): 4.89 \u2212 8.5), standard deviation (SD) was 3.05 (95%CI 3.05 \u2212 5.30), median was 5.6, ranges from 1.35 to 13.04 days (2.5th to 97.5th percentiles). Extreme estimation of incubation periods is within 14 days from possible infection. Conclusion: This analysis provides evidence for an average incubation period for COVID\u221219 of approximately 6.4 days. Our findings support existing guidelines for 14 days of quarantine of persons potentially exposed to SARS\u2212CoV\u22122. Although for extreme cases, the quarantine period should be extended up to three weeks.",
+    "author": "Hagai Levine; Ngoc Pham Tuan; Ha Thu Nguyen; Long Viet Bui; Ha Nguyen; Hanh My Bui; Thuy Phuong Nguyen; Truong Nguyen; Toan Thi Thanh Do; Thu Anh Nguyen",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20096800",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20096800"
+    },
+    "title": "Estimation of the incubation period of SARS-CoV-2 in Vietnam",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The author(s) received no specific funding for this work."
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "abstract": "BACKGROUND: Increasing attention has been paid to cardiac involvement in patients with coronavirus disease 2019 (COVID-19). Yet, scarce information is available regarding the morphological and functional features of cardiac impairments in these patients. METHODS: We conducted a prospective and serial echocardiographic study to investigate the structural and functional cardiac changes among COVID-19 patients admitted to the intensive care unit (ICU). From January 21 to April 8, 2020, a total of 51 ICU patients (31 critically ill and 20 severely ill) with confirmed COVID-19 were monitored by serial transthoracic echocardiography examinations. Outcomes were followed up until April 8, 2020. RESULTS: Of 51 ICU patients, 33 (64.7%) had cardiovascular comorbidities. Elevations of levels of cardiac biomarkers including high-sensitivity cardiac troponin-I (hs-cTnI) and brain natriuretic peptide were observed in 62.7% and 86.3% of patients, respectively. Forty-two (82.3%) had at least one left-heart and/or right-heart echocardiographic abnormality. The overall median left ventricular ejection fraction (LVEF) was 65.0% (IQR 58.0-69.0%), with most (44,86.3%) having preserved LVEF. Sixteen patients (31.4%) had increased pulmonary artery systolic pressure, and 14 (27.5%) had right-ventricle (RV) enlargement. During the study period, 12 (23.5%) patients died. LVEF was comparable between survivors and non-survivors, while non-survivors had more often pulmonary hypertension (58.3% vs. 23.1%; P=0.028) and RV enlargement (58.3% vs. 17.9%, P=0.011). Kaplan-Meier analysis demonstrated similar survival curves between patients with vs. without echocardiographic left-heart abnormalities (P=0.450 by log-rank test), while right-heart abnormalities had adverse impact on mortality (P=0.012 by log-rank test). CONCLUSIONS: Typical cardiac abnormality in ICU patients with COVID-19 was right-heart dysfunction with preserved LVEF. Echocardiographic right-heart dysfunction was associated with disease severity and increased mortality in patients affected by COVID-19.",
+    "affiliations": [
+        "National Science Fund for Distinguished Young Scholars [81625002], National Natural Science Foundation of China (81930007, 81770238), Shanghai Outstanding Academic Leaders Program (18XD1402400), Shanghai Shen Kang Hospital Development Center (16CR3034A), and Shanghai Health and Family Planning commission (20184Y0022)"
+    ],
+    "author": "Handong Jiang; Mingli Zhu; Zhiqing Qiao; Zhichun Gu; Yong Zhou; Heng Ge; Jing Du; Wei Zhang; Jun Pu; Fenghua Li; Wei Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20095885",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20095885"
+    },
+    "title": "Cardiac Structural and Functional Characteristics in Patients with Coronavirus Disease 2019: A Serial Echocardiographic Study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Fund for Distinguished Young Scholars",
+                    "award-id": [
+                        "81625002"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81930007",
+                        "81770238"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Outstanding Academic Leaders Program",
+                    "award-id": [
+                        "18XD1402400"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Shen Kang Hospital Development Center",
+                    "award-id": [
+                        "16CR3034A"
+                    ]
+                },
+                {
+                    "funding-source": "Shanghai Health and Family Planning",
+                    "award-id": [
+                        "20184Y0022"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is supported by National Science Fund for Distinguished Young Scholars [81625002], National Natural Science Foundation of China (81930007, 81770238), Shanghai Outstanding Academic Leaders Program (18XD1402400), Shanghai Shen Kang Hospital Development Center (16CR3034A), and Shanghai Health and Family Planning commission (20184Y0022)"
+        }
+    ]
+}

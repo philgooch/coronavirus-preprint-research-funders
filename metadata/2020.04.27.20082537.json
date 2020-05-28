@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: World Health Organization declared COVID-19 as a pandemic on 11th March. Sri Lanka is currently experiencing a cluster epidemic with a specific group of overseas returnees and their contacts. The objective of this study was to develop a mathematical model to predict the epidemic in Sri Lanka incorporating measures taken for social distancing and prevention of social gatherings. Methods: A hybrid model incorporating both exponential and polynomial features was developed and parameters were estimated. The developed model was validated using the datasets of three reference countries. Finally, the model was applied to the Sri Lankan data to simulate the epidemic behaviour. Additional features were incorporated to the model to examine the effects of current control measures. Findings: Sri Lanka will have a peak of 177 COVID-19 active cases at the end of second incubation period from the index case of our projection, if the same trend continues. At 10% risk, we project a peak of 263 COVID-19 active cases at the end of third incubation period, and a peak of 353 at the end of fourth incubation period. Should the risk level reach 20%, the peak will be above 1000 active cases after 90 days. Simulations incorporating control measures predict that, deviation from the control measures currently in place could trigger exponential behaviour of the epidemic. Interpretation: The hybrid model combining exponential and polynomial functions showed promising results to predict COVID-19 epidemic. Projections indicate that any early relaxation of control measures is not advisable. This methodological approach can be replicated in other settings at the initial stages of the epidemic.\nCompeting Interest Statement",
+    "author": "Naleen C Ganegoda; Manuj C Weerasinghe; Dhammika Deepani Siriwardhana; Sanjeewa Nishantha Perera",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20082537",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20082537"
+    },
+    "title": "Mathematical Model to Study Early COVID-19 Transmission Dynamics in Sri Lanka",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "We did not receive any funding for this work."
+        }
+    ]
+}

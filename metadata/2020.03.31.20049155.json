@@ -1,0 +1,26 @@
+{
+    "abstract": "We analyze the early data on COVID-19 expansion in selected European countries using an analytical parametric model. A description of the time dependence of the disease expansion and a method to evaluate trends of the expansion are proposed. Several features are observed in the data, namely a high predictability of the expansion of disease in Italy and a convergence of the \u201cpushback\u201d parameter towards a limiting value in all the countries where restrictive measures have been adopted. Basic predictions for the evolution of the disease expansion are made for selected countries with a stable evolution in the parametric space of the model. The findings presented here should contribute to the understanding of the behavior of the disease expansion and the role of the restrictive measures on the evolution of the expansion.",
+    "affiliations": [
+        "Charles University grant UNCE/SCI/013"
+    ],
+    "author": "Martin Spousta",
+    "date": 2020,
+    "doi": "10.1101/2020.03.31.20049155",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.31.20049155"
+    },
+    "title": "Parametric analysis of early data on COVID-19 expansion in selected European countries",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Charles University",
+                    "award-id": [
+                        "UNCE/SCI/013"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported in part by Charles University grant UNCE/SCI/013"
+        }
+    ]
+}

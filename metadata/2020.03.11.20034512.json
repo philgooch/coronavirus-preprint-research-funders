@@ -1,0 +1,16 @@
+{
+    "abstract": "The emergence of the novel coronavirus (a.k.a. COVID-19, SARS-CoV-2) out of Wuhan, Hubei Province, China caught the world by surprise. As the outbreak began to spread outside of China, too little was known about the virus to model its transmission with any acceptable accuracy. World governments responded to rampant misinformation about the virus leading to collateral disasters, such as plunging financial markets, that could have been avoided if better models of the outbreak had been available. This is an engineering approach to model the spread of a new infectious disease from sparse data when little is known about the infectious agent itself. The paper is not so much about the model itself - because there are many good scientific approaches to model an epidemic - as it is about crunching numbers when there are barely any numbers to crunch. The coronavirus outbreak in USA is used to illustrate the implementation of this modeling approach. A Monte Carlo approach is implemented by using incubation period and testing efficiency as variables. Among others it is demonstrated that imposing early travel restrictions from infected countries slowed down the outbreak in the USA by about 26 days.",
+    "author": "Willem G Odendaal",
+    "date": 2020,
+    "doi": "10.1101/2020.03.11.20034512",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.11.20034512"
+    },
+    "title": "A Method to Model Outbreaks of New Infectious Diseases with Pandemic Potential such as COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was unfunded."
+        }
+    ]
+}

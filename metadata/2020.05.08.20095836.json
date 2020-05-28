@@ -1,0 +1,51 @@
+{
+    "abstract": "Coronavirus disease 2019 (COVID-19) is a highly contagious infection and threating the human lives in the world. The elevation of cytokines in blood is crucial to induce cytokine storm and immunosuppression in the transition of severity in COVID-19 patients. However, the comprehensive changes of serum proteins in COVID-19 patients throughout the SARS-CoV-2 infection is unknown. In this work, we developed a high-density antibody microarray and performed an in-depth proteomics analysis of serum samples collected from early COVID-19 (n=15) and influenza (n=13) patients. We identified a large set of differentially expressed proteins (n=125) that participate in a landscape of inflammation and immune signaling related to the SARS-CoV-2 infection. Furthermore, the significant correlations of neutrophil and lymphocyte with the CCL2 and CXCL10 mediated cytokine signaling pathways was identified. These information are valuable for the understanding of COVID-19 pathogenesis, identification of biomarkers and development of the optimal anti-inflammation therapy.",
+    "affiliations": [
+        "National Natural Science Foundation of China Grants (81671618, 81871302, 81673040, 31870823), CAMS Innovation Fund for Medical Sciences (CIFMS) (2017-I2M-3-001, 2017-I2M-B&R-01), the State Key Laboratory of Proteomics (SKLP-C202001\uff0cSKLP-O201703, SKLP-K201505), the Beijing Municipal Education Commission and the National Program on Key Basic Research Project (2018YFA0507503, 2017YFC0906703, 2018ZX09733003)"
+    ],
+    "author": "Minya Lu; Yongzhe Li; Jiayu Dai; Xiaomei Zhang; Xin Hou; Xiaobo Yu; Meng Xu; Yingchun Xu; Xian Wu; Dan Wang; Hu Duan; Hongye Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095836",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095836"
+    },
+    "title": "Serum protein profiling reveals a landscape of inflammation and immune signaling in early-stage COVID-19 infection",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China Grants",
+                    "award-id": [
+                        "81671618",
+                        "81871302",
+                        "81673040",
+                        "31870823"
+                    ]
+                },
+                {
+                    "funding-source": "CAMS Innovation Fund for Medical Sciences",
+                    "award-id": [
+                        "2017-I2M-3-001",
+                        "2017-I2M-B&R-01"
+                    ]
+                },
+                {
+                    "funding-source": "State Key Laboratory of Proteomics",
+                    "award-id": [
+                        "SKLP-C202001\uff0cSKLP-O201703",
+                        "SKLP-K201505"
+                    ]
+                },
+                {
+                    "funding-source": "Beijing Municipal Education Commission and the National Program on Key Basic Research Project",
+                    "award-id": [
+                        "2018YFA0507503",
+                        "2017YFC0906703",
+                        "2018ZX09733003"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported by grants from the National Natural Science Foundation of China Grants (81671618, 81871302, 81673040, 31870823), CAMS Innovation Fund for Medical Sciences (CIFMS) (2017-I2M-3-001, 2017-I2M-B&R-01), the State Key Laboratory of Proteomics (SKLP-C202001\uff0cSKLP-O201703, SKLP-K201505), the Beijing Municipal Education Commission and the National Program on Key Basic Research Project (2018YFA0507503, 2017YFC0906703, 2018ZX09733003)"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "abstract": "Background. Extensive contact tracing and testing in South Korea allows us to investigate the transmission dynamics of the COVID-19 into diverse local communities. Objective. Understand the critical aspects of transmission dynamics in a different age, sex, and clusters with various activities. Methods. We conducted a retrospective observational study with 3,127 confirmed cases' contact tracing data from the Center for Disease and Prevention (CDC) of South Korea. We investigated network property concerning infected persons' demographics and different infection clusters. Findings. Overall, women had higher centrality scores than men after week four, when the confirmed cases rapidly increased. Older adults have higher centrality than young/middle-aged adults after week 9. In the infection clusters, young/middle-aged adults' infection clusters (such as religious gatherings and gym facilities) have higher average path lengths and diameter than older adults' nursing home infection clusters. Interpretation. Some women had higher reproduction numbers and bridged successive transmission than men when the confirmed cases rapidly increased. Similarly, some older adults (who were not residents of nursing homes) had higher reproduction numbers and bridged successive transmission than young/middle-aged adults after the peak has passed. The young/middle-aged adults' religious gatherings and group workout have caused long successive transmissions. In contrast, the older adults' nursing homes were a small world where the transmissions within a few steps can reach out to many persons.",
+    "affiliations": [
+        "National Institute of General Medical Sciences Role of the funding source: The sponsor of the study had no role in study design, data collection, data analysis, data interpretation, or writing manuscript"
+    ],
+    "author": "Xiaoqian Jiang; Yejin Kim",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20091769",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20091769"
+    },
+    "title": "Evolving Transmission Network Dynamics of COVID-19 Cluster Infections in South Korea: a descriptive study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UT Startup"
+                },
+                {
+                    "funding-source": "UT STARs"
+                },
+                {
+                    "funding-source": "Cancer Prevention Research in Texas,"
+                },
+                {
+                    "funding-source": "National Institute of General Medical Sciences Role of the"
+                }
+            ],
+            "funding-statement": "Funding: UT Startup award, UT STARs award, and Cancer Prevention Research in Texas, and National Institute of General Medical Sciences Role of the funding source: The sponsor of the study had no role in study design, data collection, data analysis, data interpretation, or writing manuscript"
+        }
+    ]
+}

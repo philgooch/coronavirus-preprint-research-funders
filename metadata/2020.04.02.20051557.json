@@ -1,0 +1,20 @@
+{
+    "abstract": "The main objective of the present paper is twofold: first, to model the fatality curves of the COVID-19 disease, as represented by the cumulative number of deaths as a function of time; and second, to use the corresponding mathematical model to study the effectiveness of possible intervention strategies. We applied the Richards growth model (RGM) to the COVID-19 fatality curves from several countries, where we used the data from the Johns Hopkins University database up to May 8, 2020. Countries selected for analysis with the RGM were China, France, Germany, Iran, Italy, South Korea, and Spain. The RGM was shown to describe very well the fatality curves of China, which is in a late stage of the COVID-19 outbreak, as well as of the other above countries, which supposedly are in the middle or towards the end of the outbreak at the time of this writing. We also analysed the case of Brazil, which is in an initial sub-exponential growth regime, and so we used the generalised growth model which is more appropriate for such cases. An analytic formula for the efficiency of intervention strategies within the context of the RGM is derived. Our findings show that there is only a narrow window of opportunity, after the onset of the epidemic, during which effective countermeasures can be taken. We applied our intervention model to the COVID-19 fatality curve of Italy of the outbreak to illustrate the effect of several possible interventions.",
+    "author": "Gerson C. Duarte-Filho; Arthur Ara\u00fajo Brum; Francisco A. G. Almeida; In\u00eas C. L. Souza; Raydonal Ospina; Giovani L. Vasconcelos; Ant\u00f4nio M. S. Mac\u00eado",
+    "date": 2020,
+    "doi": "10.1101/2020.04.02.20051557",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20051557"
+    },
+    "title": "Modelling fatality curves of COVID-19 and the effectiveness of intervention strategies",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "CAPES and FACEPE, Brazil"
+                }
+            ],
+            "funding-statement": "We gratefully acknowledge partial financial support from CNPq, CAPES and FACEPE, Brazil"
+        }
+    ]
+}

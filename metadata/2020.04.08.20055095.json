@@ -1,0 +1,23 @@
+{
+    "abstract": "The coronavirus disease 2019 (COVID-19), which emerged from Wuhan, China, is now a pandemic, affecting across the globe. Government of different countries have developed and adopted various policies to contain this epidemic and the most common were the social distancing and lockdown. We proposed a SEIR epidemic model that accommodates the effects of lockdown and individual based precautionary measures and used it to estimate model parameters from the epidemic data up to 2nd April, 2020, freely available in GitHub repository for COVID-19, for nine developed and developing countries. We used the estimated parameters to predict the disease burden in these countries with special emphasis on India, Bangladesh and Pakistan. Our analysis revealed that the lockdown and recommended individual hygiene can slow down the outbreak but unable to eradicate the disease from the society. With the current human-to-human transmission rate and existing level of personal precautionary, the number of infected individuals in India will be increasing at least for the next 3 months and the peak will come in 5 months. We can, however, reduce the epidemic size and prolong the time to arrive epidemic peak by seriously following the measures suggested by the authorities. We need to wait for another one month to obtain more data and epidemiological parameters for giving a better prediction about the pandemic. It is to be mentioned that research community is working for drugs and/ or vaccines against COVID19 and the presence of such pharmaceutical interventions will significantly alter the results.",
+    "author": "Abhijit Paul; Nandadulal Bairagi; Samrat Chatterjee",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20055095",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20055095"
+    },
+    "title": "Prediction on Covid-19 epidemic for different countries: Focusing on South Asia under various precautionary measures",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Govt of India)"
+                },
+                {
+                    "funding-source": "MATRICS Scheme, Ref"
+                }
+            ],
+            "funding-statement": "The work is supported by SERB (Govt of India) under MATRICS Scheme, Ref no"
+        }
+    ]
+}

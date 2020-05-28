@@ -1,0 +1,20 @@
+{
+    "abstract": "The outbreak of SARS-CoV-2 in China has spread around the world, infecting millions and causing governments to implement strict policies to counteract the spread of the disease. One of the most effective strategies in reducing the severity of the pandemic is social distancing, where members of the population systematically reduce their interactions with others to limit the transmission rate of the virus. However, the implementation of social distancing can be difficult and costly, making it imperative that both policy makers and the citizenry understand the potential benefits if done correctly and the risks if not. In this work, a mathematical model is developed to study the effects of social distancing on the spread of the SARS-CoV-2 virus in Canada. The model is based upon a standard epidemiological SEIRD model that has been stratified to directly incorporate the proportion of individuals who are following social distancing protocols. The model parameters characterizing the disease are estimated from current epidemiological data on COVID-19 using machine learning techniques. The results of the model show that social distancing policies in Canada have already saved thousands of lives and that the prolonged adherence to social distancing guidelines could save thousands more. Importantly, our model indicates that social distancing can significantly delay the onset of infection peaks, allowing more time for the production of a vaccine or additional medical resources. Furthermore, our results stress the importance of easing social distancing restrictions gradually, rather than all at once, in order to prevent a second wave of infections. Model results are compared to the current capacity of the Canadian healthcare system by examining the current and future number of ventilators available for use, emphasizing the need for the increased production of additional medical resources.",
+    "author": "Cameron Meaney; Michelle Przedborski; Brydon Eastman; Mohammad Kohandel",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20068585",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20068585"
+    },
+    "title": "Mathematical modeling of COVID-19 containment strategies with considerations for limited medical resources",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Not Applicable."
+                }
+            ],
+            "funding-statement": "Not Applicable."
+        }
+    ]
+}

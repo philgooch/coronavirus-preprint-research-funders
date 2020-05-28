@@ -1,0 +1,58 @@
+{
+    "title": "Human organs-on-chips as tools for repurposing approved drugs as potential influenza and COVID19 therapeutics in viral pandemics",
+    "author": "Longlong Si,#, Haiqing Bai,#, Melissa Rodas, Wuji Cao, Crystal Yuri Oh, Amanda Jiang, Atiq Nurani, Danni Y. Zhu, Girija Goyal, Sarah E. Gilpin, Rachelle PrantilBaun, and Donald E. Ingber,-3",
+    "date": 2020,
+    "affiliations": [
+        "Wyss Institute for Biologically Inspired Engineering, Boston, MA 02115",
+        "Harvard John A. Paulson School of Engineering and Applied Sciences, Cambridge, MA 02139",
+        "Vascular Biology Program and Department of Surgery, Boston Children\u2019s Hospital and Harvard Medical School, Boston, MA 02115",
+        "Wyss Institute for Biologically Inspired Engineering at Harvard University, CLSB5",
+        "Blackfan Circle, Boston MA 02115 (ph: 617-432-7044, fax: 617-432-7828"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.13.039917",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.13.039917.pdf"
+    },
+    "abstract": "Rapidly spreading viral pandemics, such as those caused by influenza and SAR-CoV-2 (COVID19), require rapid action and the fastest way to combat this challenge is by repurposing existing drugs as anti-viral therapeutics. Here we first show that human organ-on-a-chip (Organ Chip) microfluidic culture devices lined by a highly differentiated, primary, human lung airway epithelium cultured under an air-liquid interface and fed by continuous medium flow can be used to model virus entry, replication, strain-dependent virulence, host cytokine production, and recruitment of circulating immune cells in response to infection by influenza, as well as effects of existing and novel therapeutics. These Airway",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "1-UG3-HL-141797-01"
+                    ]
+                },
+                {
+                    "funding-source": "NCATS",
+                    "award-id": [
+                        "1-UG3-HL-141797-01"
+                    ]
+                },
+                {
+                    "funding-source": "NCATS",
+                    "award-id": [
+                        "1-UH3-HL-141797-01"
+                    ]
+                },
+                {
+                    "funding-source": "DARPA",
+                    "award-id": [
+                        "W911NF-1"
+                    ]
+                },
+                {
+                    "funding-source": "Cooperative Agreements",
+                    "award-id": [
+                        "W911NF-12-2-0036",
+                        "W911NF-16-C-0050"
+                    ]
+                }
+            ],
+            "funding-statement": "We acknowledge research funding from NIH (NCATS 1-UG3-HL-141797-01 and NCATS 1-UH3-HL-141797-01) and DARPA under Cooperative Agreements (W911NF-12-2-0036 and W911NF-16-C-0050)"
+        }
+    ]
+}

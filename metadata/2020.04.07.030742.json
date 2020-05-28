@@ -1,0 +1,44 @@
+{
+    "abstract": "In December 2019, SARS-CoV-2 emerged causing the COVID-19 pandemic. SARS-CoV, the agent responsible for the 2003 SARS outbreak, utilizes ACE2 and TMPRSS2 host molecules for viral entry. ACE2 and TMPRSS2 have recently been implicated in SARS-CoV-2 viral infection. Additional host molecules including ADAM17, cathepsin L, CD147, and GRP78 may also function as receptors for SARS-CoV-2.",
+    "author": "Jeremy A. Hirota; Louise Organ; Michael J. Mansfield; Abiram Chandiramohan; Kjetil Ask; Bruce M. McManus; Arinjay Banerjee; Anna Dvorkin-Gheva; Jennifer A. Aguiar; Matthew S. Miller; Alison John; Andrew C. Doxey; Karen Mossman; Chitra Joseph; Owen Woody; Gisli Jenkins; Paul Hanson; Briallen Lobb; Nicholas Tiessen; Christopher Carlsten; Spencer Revill; Benjamin J-M. Tremblay",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.030742",
+    "identifiers": {
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.030742"
+    },
+    "title": "Gene expression and in situ protein profiling of candidate SARS-CoV-2 receptors in human airway epithelial cells and lung tissue",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Hirota JA and"
+                },
+                {
+                    "funding-source": "Hirota JA"
+                },
+                {
+                    "funding-source": "Canada Research Chairs"
+                },
+                {
+                    "funding-source": "Ontario Early Researcher Award. Doxey"
+                },
+                {
+                    "funding-source": "NSERC"
+                },
+                {
+                    "funding-source": "Ontario Early Researcher Award. This"
+                },
+                {
+                    "funding-source": "European Respiratory Journal",
+                    "award-id": [
+                        "previous version did not include this data"
+                    ]
+                },
+                {
+                    "funding-source": "Paul Hanson and Bruce McManus"
+                }
+            ],
+            "funding-statement": "This work was supported by start-up funds from Hirota JA and a CIHR grant from Mossman K. Hirota JA is supported by the Canada Research Chairs program and an Ontario Early Researcher Award. Doxey AC is supported by NSERC and an Ontario Early Researcher Award. This is the final version submitted for peer-review (European Respiratory Journal - ERJ). The version is double spaced as per ERJ submission guidelines. The final version now includes supplementary immunohistochemistry of human lung tissue microvasculature and human heart for positive ACE2 staining (previous version did not include this data). Paul Hanson and Bruce McManus were added as authors as they provided the human heart tissue for the ACE2 staining. A cartoon schematic was also added as a Figure 6 to summarize the characterization of the molecules."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "abstract": "Predictions of the COVID-19 pandemic in USA are compared using curve fitting and various recurrent neural networks (RNNs) including the standard long short-term memory (LSTM) RNN and 10 types of slim LSTM RNNs. The curve fitting method predicts the pandemic would end in early summer but the exact date and scale vary with the evolving data used for fitting. All LSTM RNNs result in short-term (8 to 10 days) predictions with comparable accuracies (smaller than 10 %) to curve fitting---they do not show advantage over curve fitting.\nCompeting Interest Statement",
+    "affiliations": [
+        "Johns Hopkins University Coronavirus Resource"
+    ],
+    "author": "Zhuowen Zhao; Yangzhi Zhao; Kieran Nehil-Puleo",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20102541",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20102541"
+    },
+    "title": "How well can we forecast the COVID-19 pandemic with curve fitting and recurrent neural networks?",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors declare no funding received for the work"
+        }
+    ]
+}

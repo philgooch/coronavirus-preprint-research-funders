@@ -1,0 +1,36 @@
+{
+    "abstract": "Portugal has been portrayed as a relatively successful case in the control of the COVID-19's March 2020 outbreak in Europe due to the timely confinement measures taken. As other European Union member states, Portugal is now preparing the phased loosening of the confinement measures, starting in the beginning of May. Even so, the current data, albeit showing at least a reduction in infection rates, renders difficult to forecast scenarios in the imminent future. Using South Korea data as scaffold, which is becoming a paradigmatic case of recovery following a high number of infected people, we fitted Portuguese data to biphasic models using non-linear regression and compared the two countries. The results, which suggest good fit, show that recovery in Portugal can be much slower than anticipated, with a very high percentage of active cases (over 50%) remaining still active even months after the projected end of mitigation measures. This, together with the unknown number of asymptomatic carriers, may increase the risk of a much slower recovery if not of new outbreaks. Europe and elsewhere must consider this contingency when planning the relief of containment measures.",
+    "author": "Ana Milhinhos; Pedro M. Costa",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20088856",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20088856"
+    },
+    "title": "On the progression of COVID19 in Portugal: A comparative analysis of active cases using non-linear regression",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Applied Molecular Biosciences Unit",
+                    "award-id": [
+                        "UIDB/04378/2020"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Applied Molecular Biosciences Unit (UCIBIO) which is financed by national funds from \u0091Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia\u0092, FCT (UIDB/04378/2020)"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "CEEC/IND/00175/2017",
+                        "UIDB/04046/2020",
+                        "UIDP/04046/2020",
+                        "UID/Multi/04551/2013"
+                    ]
+                }
+            ],
+            "funding-statement": "AM is supported by CEEC/IND/00175/2017 contract, BioISI (UIDB/04046/2020 and UIDP/04046/2020) and Green-IT (UID/Multi/04551/2013) grants from FCT"
+        }
+    ]
+}

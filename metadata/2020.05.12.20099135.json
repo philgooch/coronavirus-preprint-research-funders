@@ -1,0 +1,29 @@
+{
+    "abstract": "Background: There is growing concern that racial and ethnic minority communities around the world are experiencing a disproportionate burden of morbidity and mortality from symptomatic SARS-Cov-2 infection or coronavirus disease 2019 (Covid-19). Most studies investigating racial and ethnic disparities to date have focused on hospitalized patients or have not characterized who . Exposures: Self-reported race/ethnicity. Main outcome measures: We evaluated associations between race/ethnicity and receipt of Covid-19 testing, a positive test result, and 30-day mortality, accounting for a wide range of demographic and clinical risk factors including comorbid conditions, site of care, and urban versus rural residence. Results: Among all individuals in care, 74% were non-Hispanic white (white), 19% non-Hispanic black (black), and 7% Hispanic. Compared with white individuals, black and Hispanic individuals were more likely to be tested for Covid-19 (tests per 1000: white=9.0, [95% CI 8.9 to 9.1]; black=16.4, [16.2 to 16.7]; and Hispanic=12.2, [11.9 to 12.5]). While individuals from minority backgrounds were more likely to test positive (black vs white: OR 1.96, 95% CI 1.81 to 2.12; Hispanic vs white: OR 1.73, 95% CI 1.53 to 1.96), 30-day mortality did not differ by race/ethnicity (black vs white: OR 0.93, 95% CI 0.64 to 1.33; Hispanic vs white: OR 1.07, 95% CI 0.61 to 1.87). Conclusions: Black and Hispanic individuals are experiencing an excess burden of Covid-19 not entirely explained by underlying medical conditions or where they live or receive care. While there was no observed difference in mortality by race or ethnicity, our findings may underestimate risk in the broader US population as health disparities tend to be reduced in VA.\nCompeting Interest Statement\nThe authors have declared no competing interest.\nFunding Statement\nThis work was supported by National Institute on Alcohol Abuse and Alcoholism [U01-AA026224, U24-AA020794, U01-AA020790, U10-AA013566]. The funder had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.\nAuthor Declarations\nAll relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript.\nYes\nAll necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived.\nYes\nI understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).",
+    "affiliations": [
+        "National Institute on Alcohol Abuse and Alcoholism [U01-AA026224, U24-AA020794, U01-AA020790, U10-AA013566]. The funder had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication"
+    ],
+    "author": "Matthew S. Freiberg; Farah Kidwai-Khan; Kristina Crothers; Christopher I. Jarvis; Christopher T. Rentsch; Lesley S. Park; Melissa Skanderson; Anna Schultze; Mark Holodniy; Joseph T. King; Tamar H. Taddei; Ronald G. Hauser; Janet P. Tate; Vincent Lo Re; Kathleen M. Akgun; Amy C. Justice",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099135",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099135"
+    },
+    "title": "Covid-19 by Race and Ethnicity: A National Cohort Study of 6 Million United States Veterans",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute on Alcohol Abuse and Alcoholism",
+                    "award-id": [
+                        "U01-AA026224",
+                        "U24-AA020794",
+                        "U01-AA020790",
+                        "U10-AA013566"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by National Institute on Alcohol Abuse and Alcoholism [U01-AA026224, U24-AA020794, U01-AA020790, U10-AA013566]"
+        }
+    ]
+}

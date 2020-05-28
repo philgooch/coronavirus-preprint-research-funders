@@ -1,0 +1,50 @@
+{
+    "title": "Discovery of baicalin and baicalein as novel, natural product inhibitors of SARS-CoV-2 3CL protease in vitro",
+    "author": "Haixia Su, Sheng Yao, Wenfeng Zhao, Minjun Li, Jia Liu, WeiJuan Shang, Hang Xie, Changqiang Ke, Meina Gao, Kunqian Yu, Hong Liu, Jingshan Shen, Wei Tang, Leike Zhang, Jianping Zuo, Hualiang Jiang, Fang Bai, Yan Wu, Yang Ye, Yechun Xu,\u2020 1CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China. 2State Key Laboratory of Drug Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China. 3University of Chinese Academy of Sciences, Beijing 100049, China. 4Jiangsu Key Laboratory of Drug Discovery for Metabolic Disease and State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing 210009, China. 5Shanghai Synchrotron Radiation Facility, Shanghai Advanced Research Institute, Chinese Academy of Sciences, Shanghai 201210, China. 6State Key Laboratory of Virology, Wuhan Institute of Virology, Center for Biosafety MegaScience, Chinese Academy of Sciences, 430071 Wuhan, China. 7Shanghai Institute for Advanced Immunochemical Studies and School of Life Science and Technology, ShanghaiTech University, Shanghai 201210, China. \u2020Corresponding author. Email: baifang@shanghaitech.edu.cn (F.B.); wuyan@wh.iov.cn (Y.W.); yye@simm.ac.cn (Y.Y.); ycxu@simm.ac.cn (Y.X.) *These authors contributed equally to this work",
+    "date": 2020,
+    "affiliations": [
+        "CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China",
+        "State Key Laboratory of Drug Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China",
+        "University of Chinese Academy of Sciences, Beijing 100049, China",
+        "Jiangsu Key Laboratory of Drug Discovery for Metabolic Disease and State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing 210009, China",
+        "Shanghai Synchrotron Radiation Facility, Shanghai Advanced Research Institute, Chinese Academy of Sciences, Shanghai 201210, China",
+        "State Key Laboratory of Virology, Wuhan Institute of Virology, Center for Biosafety MegaScience, Chinese Academy of Sciences, 430071 Wuhan, China",
+        "Shanghai Institute for Advanced Immunochemical Studies and School of Life Science and Technology, ShanghaiTech University, Shanghai 201210, China",
+        "Corresponding author",
+        "These authors contributed equally to this work"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.13.038687",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.13.038687.pdf"
+    },
+    "abstract": "Human infections with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)\ncause coronavirus disease 19 (COVID-19) and there is currently no cure. The 3C-like protease (3CLpro), a highly conserved protease indispensable for replication of coronaviruses, is a promising target for development of broad-spectrum antiviral drugs. To advance the speed of drug discovery and development, we investigated the inhibition of SARS-CoV-2 3CLpro by natural products derived from Chinese traditional medicines. Baicalin and baicalein were identified as the first non-covalent, non-peptidomimetic inhibitors of SARS-CoV-2 3CLpro and exhibited potent antiviral activities in a cell-based system. Remarkably, the binding mode of baicalein with SARS-CoV-2 3CLpro determined by X-ray protein crystallography is distinctly different from those of known inhibitors. Baicalein is perfectly ensconced in the core of the substrate-binding pocket by interacting with two catalytic residues, the crucial S1/S2 subsites and the oxyanion loop, acting as a \u201cshield\u201d in front of the catalytic dyad to prevent the peptide substrate approaching the active site. The simple chemical structure, unique mode of action, and potent antiviral activities in vitro, coupled with the favorable safety data from clinical trials, emphasize that baicalein provides a great opportunity for the development of critically needed anti-coronaviral drugs.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2017YFB0202604",
+                        "2016YFA0502301"
+                    ]
+                },
+                {
+                    "funding-source": "Chinese Academy of Engineering and Ma Yun Foundation",
+                    "award-id": [
+                        "2020-CMKYGG-05"
+                    ]
+                },
+                {
+                    "funding-source": "Science and Technology Commission of Shanghai Municipality",
+                    "award-id": [
+                        "20431900200"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Key R&D Program of China (Nos. 2017YFB0202604 and 2016YFA0502301), Chinese Academy of Engineering and Ma Yun Foundation (No 2020-CMKYGG-05), and Science and Technology Commission of Shanghai Municipality (No 20431900200). Author contributions H.S. and H.X. prepared the protein sample. H.S., W.Z., and H.X. performed the enzymatic assay and the ITC measurement. H.S., W.Z., and M.L. determined the crystal structure. S.Y., J. L., and C.K. parepared the compounds and carried out the mass spectroscopy experiments. W.S, Y.W., and L.Z. performed antiviral activities measurement in cells. M.G., K.Y., H.L., J.S., W.T., and J.Z. helped with data analysis and interpretation. Y.X., H.J., Y.Y., and F.B. initiated the project and supervised the research. Y.X. wrote the manuscript with input from all co-authors."
+        }
+    ]
+}

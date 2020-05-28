@@ -1,0 +1,23 @@
+{
+    "abstract": "COVID-19 poses an immense and immediate threat to global public health. Population level interventions (PLIs) impact this threat, with estimable large effects on reducing mortality. Many countries worldwide have currently zero/low mortality and many have yet to implement such PLIs. The importance of timing of PLI implementation on mortality outcomes is poorly understood. We extracted cumulative country-specific COVID-19 mortality for France, Germany, Italy, Spain and the UK to examine country-specific mortality trends and found that all five countries experienced COVID-19 mortality epidemics initially of exponential nature. We estimated the magnitude of effect on mortality of the nationwide PLI implemented on day 18 of Italy's mortality epidemic and assessed the importance of timing of PLI implementation by computing the effect of implementation of a PLI of this magnitude at various times on subsequent mortality. The nationwide PLI in Italy saved an estimated 6,170 lives by day 30 of the Italian epidemic. Implementing a PLI with this effect magnitude in a country of 60 million people on the day of the first death, and on days 7, 10, 14 and 17 thereafter, compared to implementation on day 18, resulted in substantially greater numbers of lives saved. Implementation on day 1 resulted in an additional 3,477 lives saved, 6,955 intensive care unit admissions and 52,162 hospital admissions prevented, beyond that achieved by implementation on day 18. PLI implementation earlier than day 18 substantially enhances benefit. Intervention on the day of the first mortality event in a country achieves the greatest benefit.",
+    "affiliations": [
+        "National Institute of Health Research (NIHR) Emeritus Senior Investigator and is funded in part by European Research Council Advanced Grant 788575. This research was supported by the NIHR Imperial Biomedical Research Centre (BRC). The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care"
+    ],
+    "author": "Eloise S Johnston; Sebastian L Johnston; Jasper S Johnston",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071845",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071845"
+    },
+    "title": "The importance of timing of a population level intervention on COVID-19 mortality",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Imperial Biomedical Research Centre"
+                }
+            ],
+            "funding-statement": "This research was supported by the NIHR Imperial Biomedical Research Centre (BRC)"
+        }
+    ]
+}

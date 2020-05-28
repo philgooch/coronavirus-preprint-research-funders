@@ -1,0 +1,16 @@
+{
+    "abstract": "With the COVID-19 pandemic leading to radical political control of social behaviour, including restricted movement outsides homes. Can more detailed analysis of the published confirmed local case data from the pandemic in England using infection ratio and comparing local level data provide a deeper understanding of the wider community infection and inform the future unlocking process. The historic daily published 78,842 confirmed cases in England up to 13/4/2020 in each of 149 Upper Tier Local Authority (UTLA) were converted to Average Daily Infection Rate (RADIR), an R-value - the number of further people infected by one infected person after their 5-day incubation and during their 5-day infectious phase, and the associated Rate of Change of Infection Rate (\u03b4IR) also calculated. Results compared to look for significant variances between regions. Stepwise regression was carried out to see what local factors could be linked to the difference in local infection rates. The peak of COVID-19 infection has passed. The current RADIR is now below 1. The rate of decline is such that within 14 days it may be below 0.5. There are significant variations in the current RADIR and \u03b4IR between the UTLAs, suggesting that the disease locally may be at different stages. Regression analysis across UTLAs found that the only factor that could be related to the fall in RADIR was an increase in the number of confirmed infection/1,000 population. Extrapolation of these results showed that based on assuming a link to increased immunity, unreported community infection may be over 200 times higher than the reported confirmed cases providing evidence that by the end of the second week in April 26% of the population may already have had the disease and so now have increased immunity. Linking these increased estimated infected numbers to recorded deaths indicates a possible mortality rate of 0.14%. Analysis of the current reported local case data using the infectious ratio does provide greater insight into the current levels of community infection and can be used to make better-informed decisions about the future management of restricted social behaviour and movement",
+    "author": "Mark Davies; Mark Lunt; Adrian Heald; Michael Stedman; Arpana Verma; Simon G Anderson",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072264",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072264"
+    },
+    "title": "A phased approach to unlocking during the COVID-19 pandemic; Lessons from trend analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This research was funded by the authors"
+        }
+    ]
+}

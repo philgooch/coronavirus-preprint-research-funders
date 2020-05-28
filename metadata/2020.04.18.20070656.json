@@ -1,0 +1,32 @@
+{
+    "abstract": "BACKGROUND: Coronavirus Disease 2019 (COVID-19) has recently become a public emergency and a worldwide pandemic. The clinical symptoms of severe and non-severe patients vary, and the case-fatality rate (CFR) in severe COVID-19 patients is very high. However, the information on the risk factors associated with the severity of COVID-19 and of their prognostic potential is limited. METHODS: In this retrospective study, the clinical characteristics, laboratory findings, treatment and outcome data were collected and analyzed from 223 COVID-19 patients stratified into 125 non-severe patients and 98 severe patients. In addition, a pooled large-scale meta-analysis of 1646 cases was performed. RESULTS: We found that the age, gender and comorbidities are the common risk factors associated with the severity of COVID-19. For the diagnosis markers, we found that the levels of D-dimer, C-reactive protein (CRP), lactate dehydrogenase (LDH), procalcitonin (PCT) were significantly higher in severe group compared with the non-severe group on admission (D-Dimer: 87.3% vs. 35.3%, P<0.001; CRP, 65.1% vs. 13.5%, P<0.001; LDH: 83.9% vs. 22.2%, P<0.001; PCT: 35.1% vs. 2.2%, P<0.001), while the levels of aspartate aminotransferase (ASP) and creatinine kinase (CK) were only mildly increased. We also made a large scale meta-analysis of 1646 cases combined with 4 related literatures, and further confirmed the relationship between the COVID-19 severity and these risk factors. Moreover, we tracked dynamic changes during the process of COVID-19, and found CRP, D-dimer, LDH, PCT kept in high levels in severe patient. Among all these markers, D-dimer increased remarkably in severe patients and mostly related with the case-fatality rate (CFR). We found adjuvant antithrombotic treatment in some severe patients achieved good therapeutic effect in the cohort. CONCLUSIONS: The diagnosis markers CRP, D-dimer, LDH and PCT are associated with severity of COVID-19. Among these markers, D-dimer is sensitive for both severity and CFR of COVID-19. Treatment with heparin or other anticoagulants may be beneficial for COVID-19 patients.",
+    "affiliations": [
+        "National Key Research and Development Program of China (2016YFC1302203); Beijing Nova Program (grant number: xx2018040)"
+    ],
+    "author": "Xiaoyu Lyu; Xiaowei Wu; Yingxin Wei; Wenbin Zou; Dan Li; Yongshent Huang; Lin Wang; Yujun Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.18.20070656",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.18.20070656"
+    },
+    "title": "A cohort study of 223 patients explores the clinical risk factors for the severity diagnosis of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2016YFC1302203"
+                    ]
+                },
+                {
+                    "funding-source": "Beijing Nova Program",
+                    "award-id": [
+                        "xx2018040"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by funding from the National Key Research and Development Program of China (2016YFC1302203); Beijing Nova Program (grant number: xx2018040)"
+        }
+    ]
+}

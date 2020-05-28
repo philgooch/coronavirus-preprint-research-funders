@@ -1,0 +1,29 @@
+{
+    "abstract": "Background: The role of cellular immunity in pathogenesis of COVID-19 is unclear and conflicting data points to insufficient or pathogenic immunity as drivers of COVID-19 progression. Here we aimed to delineate the phenotype and function of the immune system in patients with moderate, severe, and critical COVID-19. Methods: In this prospective study, we included 53 patients with moderate (n=21), severe (n=18), and critical (n=14) COVID-19 manifestations. Using multiparametric flow cytometry we compared quantitative, phenotypic, and functional characteristics of circulating immune cells, SARS-CoV-2 antigen-reactive T-cells, and humoral immunity. Results: Deep phenotypic profiling revealed a depletion of circulating bulk CD8+ T-cells, CD4+ and CD8+ T-cell subsets with activated memory/effector T-cells expressing CD57+, HLA-DR+, and the key activation and migration molecule CD11a++ in critical COVID-19. Importantly, survival from acute respiratory distress syndrome was accompanied by a recovery of the depleted CD11++ T-cell subsets including T-cells expressing CD28, CD57, HLA-DR activation/effector molecules. We further observed a stronger response of S-protein specific T-cells producing inflammatory cytokines in critical COVID-19 cases. This seemingly contradictory observation is in fact confirmation of the underlying immunopathogenesis in patients with critical COVID-19. Conclusion: Our findings suggest a CD11a-based immune signature as a possible prognostic marker for disease development. Our data further reveal that increased rather than decreased SARS-CoV-2 specific T cell immunity is associated with adverse outcome in COVID-19. Tissue migration of activated effectors T-cells may constitute a crucial cornerstone in the immunopathogenesis of SARS-CoV-2 associated tissue injury.\nCompeting Interest Statement",
+    "author": "Moritz Anft; Margarethe Justine Konik; Arturo Blazquez-Navarro; Ulf Dittmer; Sebastian Dolff; Oliver Witzke; Ulrik Stervbo; Krystallenia Paniskaki; Sarah Skrzypczyk; Clemens Tempfer; Sviatlana Kaliszczyk; Eva Kohut; Thorsten Brenner; Toralf Roch; Carsten Watzl; Julia Kurek; Adrian Atila Nicolas Doevelaar; Felix Seibert; Jan Zapka; Nina Babel; Bodo Hoelzer; Timm Westhoff; Sharon Bajda; Patrizia Wehler; Constantin Thieme",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083089",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083089"
+    },
+    "title": "COVID-19 progression is potentially driven by T cell immunopathogenesis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Mercator Foundation,",
+                    "award-id": [
+                        "01ZX1612A"
+                    ]
+                },
+                {
+                    "funding-source": "BMBF NoChro",
+                    "award-id": [
+                        "FKZ 13GW0338B"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants from Mercator Foundation, the BMBF e:KID (01ZX1612A), and BMBF NoChro (FKZ 13GW0338B)"
+        }
+    ]
+}

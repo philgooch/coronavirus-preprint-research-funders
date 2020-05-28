@@ -1,0 +1,35 @@
+{
+    "title": "A Highly Scalable and Rapidly Deployable RNA Extraction-Free COVID-19 Assay by Quantitative Sanger Sequencing",
+    "date": 2020,
+    "author": "Devon Chandler-Brown,\u200b ,Anna M. Bueno,\u200b ,Oguzhan Atay,\u200b ,David S.Tsao,\u200b * 1BillionToOne Inc., Menlo Park, CA 94025, USA",
+    "affiliations": [
+        "Materials and correspondence: correspondence and material requests should be addressed to David S.Tsao, Ph.D.; BillionToOne, Inc. 1455 Adams Dr. Menlo Park, CA 94025, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.07.029199",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.029199.pdf"
+    },
+    "abstract": "There is currently an urgent unmet need to increase coronavirus disease 2019 (COVID-19) testing capability to effectively respond to the COVID-19 pandemic. However, the current shortage in RNA extraction reagents as well as limitations in qPCR protocols have resulted in bottlenecks in testing capacity. Herein, we describe a novel molecular diagnostic for COVID-19 based on Sanger sequencing. This assay uses the addition of a frame-shifted spike-in, a modified PCR master mix, and custom Sanger sequencing data analysis to detect and quantify SARS-CoV-2 RNA at a limit of detection comparable to existing qPCR-based assays, at 10-20 genome copy equivalents. Crucially, our assay was able to detect SARS-CoV-2 RNA from viral particles suspended in transport media that was directly added to the PCR master mix, suggesting that RNA extraction can be skipped entirely without any degradation of test performance. Since Sanger sequencing instruments are widespread in clinical laboratories and commonly have built-in liquid handling automation to support up to 3840 samples per instrument per day, the widespread adoption of qSanger COVID-19 diagnostics can unlock more than 1,000,000 tests per day in the US.",
+    "keywords": [
+        "qSanger",
+        "SARS-CoV-2",
+        "coronavirus",
+        "COVID-19"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Paul Buchheit and"
+                },
+                {
+                    "funding-source": "Shan Riku and Oscar Cabot for"
+                }
+            ],
+            "funding-statement": "We thank Paul Buchheit and Y Combinator for their financial support of the project, employees of Genewiz, Sequetech, IDT for support with and prioritization of our orders, Shan Riku and Oscar Cabot for their help with the distribution of the manuscript"
+        }
+    ]
+}

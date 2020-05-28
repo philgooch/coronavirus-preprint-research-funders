@@ -1,0 +1,23 @@
+{
+    "title": "Knowledge synthesis from 100 million biomedical documents augments the deep expression profiling of coronavirus receptors",
+    "date": 2020,
+    "author": "AJ Venkatakrishnan, Arjun Puranik, Akash Anand, David Zemmour, Xiang Yao, Xiaoying Wu, Ramakrishna Chilaka, Dariusz K. Murakowski, Kristopher Standish, Bharathwaj Raghunathan, Tyler Wagner, Enrique Garcia-Rivera, Hugo Solomon, Abhinav Garg, Rakesh Barve, Anuli Anyanwu-Ofili, Najat Khan, Venky Soundararajan",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.24.005702",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.24.005702.pdf"
+    },
+    "abstract": "The COVID-19 pandemic demands assimilation of all available biomedical knowledge to decode its mechanisms of pathogenicity and transmission. Despite the recent renaissance in unsupervised neural networks for decoding unstructured natural languages, a platform for the real-time synthesis of the exponentially growing biomedical literature and its comprehensive triangulation with deep omic insights is not available. Here, we present the nferX platform for dynamic inference from over 45 quadrillion possible conceptual associations extracted from unstructured biomedical text, and their triangulation with Single Cell RNA-sequencing based insights from over 25 tissues. Using this platform, we identify intersections between the pathologic manifestations of COVID-19 and the comprehensive expression profile of the SARS-CoV-2 receptor ACE2. We find that tongue keratinocytes, airway club cells, and ciliated cells are likely underappreciated targets of SARS-CoV-2 infection, in addition to type II pneumocytes and olfactory epithelial cells. We further identify mature small intestinal enterocytes as a possible hotspot of COVID-19 fecal-oral transmission, where an intriguing maturation-correlated transcriptional signature is shared between ACE2 and the other coronavirus receptors DPP4 (MERS-CoV) and ANPEP (\u0251-coronavirus). This study demonstrates how a holistic data science platform can leverage unprecedented quantities of structured and unstructured publicly available data to accelerate the generation of impactful biological insights and hypotheses.",
+    "keywords": [
+        "Deep-learning",
+        "Neural networks",
+        "Virus-host interaction",
+        "Single cell RNA-seq",
+        "COVID-19"
+    ],
+    "funding": [
+        {}
+    ]
+}

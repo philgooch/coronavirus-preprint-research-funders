@@ -1,0 +1,29 @@
+{
+    "abstract": "Background: The novel coronavirus SARS-CoV-2 has rapidly spread across the globe and is poised to cause millions of deaths worldwide. There are currently no proven pharmaceutical treatments, and vaccines are likely over a year away. At present, non-pharmaceutical interventions (NPIs) are the only effective option to reduce transmission of the virus, but it is not clear how to deploy these potentially expensive and disruptive measures. Modeling can be used to understand the potential effectiveness of NPIs for both suppression and mitigation efforts. Methods and Findings: We developed Corvid, an adaptation of the agent-based influenza model called FluTE to SARS-CoV-2 transmission. To demonstrate features of the model relevant for studying the effects of NPIs, we simulated transmission of SARS-CoV-2 in a synthetic population representing a metropolitan area in the United States. Transmission in the model occurs in several settings, including at home, at work, and in schools. We simulated several combinations of NPIs that targeted transmission in these settings, such as school closures and work-from-home policies. We also simulated three strategies for testing and isolating symptomatic cases. For our demonstration parameters, we show that testing followed by home isolation of ascertained cases reduced transmission by a modest amount. We also show how further reductions may follow by isolating cases in safe facilities away from susceptible family members or by quarantining all family members to prevent transmission from likely infections that have yet to manifest. Conclusions: Models that explicitly include settings where individuals interact such as the home, work, and school are useful for studying the effectiveness of NPIs, as these are more dependent on community structure than pharmaceutical interventions such as vaccination. Corvid can be used to help evaluate complex combinations of interventions, although there is no substitute for real-world observations. Our results on NPI effectiveness summarize the behavior of the model for an assumed set of parameters for demonstration purposes. Model results can be sensitive to the assumptions made about disease transmission and the natural history of the disease, both of which are not yet sufficiently characterized for SARS-CoV-2 for quantitative modeling. Models of SARS-CoV-2 transmission will need to be updated as the pathogen becomes better-understood.\nCompeting Interest Statement",
+    "affiliations": [
+        "Institute for Disease Modeling and their sponsorship through the Global Good Fund"
+    ],
+    "author": "Assaf P Oron; Devabhaktuni Srikrishna; Dennis L Chao; Michael Famulare",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20058487",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20058487"
+    },
+    "title": "Modeling layered non-pharmaceutical interventions against SARS-CoV-2 in the United States with Corvid",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill and Melinda Gates for"
+                },
+                {
+                    "funding-source": "Institute for Disease Modeling and"
+                },
+                {
+                    "funding-source": "Global Good Fund."
+                }
+            ],
+            "funding-statement": "DLC, APO, and MF would like to thank Bill and Melinda Gates for their active support of the Institute for Disease Modeling and their sponsorship through the Global Good Fund."
+        }
+    ]
+}

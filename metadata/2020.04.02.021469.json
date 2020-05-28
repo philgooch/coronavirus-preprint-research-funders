@@ -1,0 +1,50 @@
+{
+    "title": "LY6E Restricts the Entry of Human Coronaviruses, including the currently pandemic SARS-CoV-2",
+    "author": "Xuesen Zhao, 4#*, Shuangli Zheng, 2#, Danying Chen, Mei Zheng, Xinglin Li, 2 Guoli",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Infectious disease, Beijing Ditan Hospital, Capital Medical University, Beijing",
+        "Beijing Key Laboratory of Emerging Infectious Disease, Beijing 100015, China",
+        "Department of Pathology and Laboratory Medicine, Western University, 1151 Richmond Street"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.02.021469",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.02.021469.pdf"
+    },
+    "abstract": "C3A is a sub-clone of human hepatoblastoma HepG2 cell line with the strong contact inhibition of growth. We fortuitously found that C3A was more susceptible to human coronavirus HCoV28 OC43 infection than HepG2, which was attributed to the increased efficiency of virus entry into C3A cells. In an effort to search for the host cellular protein(s) mediating the differential susceptibility of the two cell lines to HCoV-OC43 infection, we found that ADAP2, GILT and LY6E, three cellular proteins with known activity of interfering virus entry, expressed at significantly higher levels in HepG2 cells. Functional analyses revealed that ectopic expression of LY6E, but not GILT or ADAP2, in HEK 293 cells inhibited the entry of HCoV-OC43. While 34 overexpression of LY6E in C3A and A549 cells efficiently inhibited the infection of HCoV35 OC43, knockdown of LY6E expression in HepG2 significantly increased its susceptibility to HCoV-OC43 infection. Moreover, we found that LY6E also efficiently restricted the entry mediated by the envelope spike proteins of other human coronaviruses, including the currently pandemic SARS-CoV-2. Interestingly, overexpression of serine protease TMPRSS2 or amphotericin treatment significantly neutralized the IFITM3 restriction of human coronavirus entry, but did not compromise the effect of LY6E on the entry of human coronaviruses. The work reported herein thus demonstrates that LY6E is a critical antiviral immune effector that controls CoV infection and pathogenesis via a distinct mechanism.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding Information This"
+                },
+                {
+                    "funding-source": "National Institutes of Health, USA",
+                    "award-id": [
+                        "AI113267"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81772173",
+                        "81971916"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Mega-Project of China",
+                    "award-id": [
+                        "2018ZX10301-408-002"
+                    ]
+                },
+                {
+                    "funding-source": "Zhao and The Commonwealth of Pennsylvania"
+                }
+            ],
+            "funding-statement": "Funding Information This work was supported by grants from the National Institutes of Health, USA (AI113267) to J.-T. Guo, National Natural Science Foundation of China (81772173 and 81971916) and National Science and Technology Mega-Project of China (2018ZX10301-408-002) to X. Zhao and The Commonwealth of Pennsylvania through the Hepatitis B Foundation."
+        }
+    ]
+}

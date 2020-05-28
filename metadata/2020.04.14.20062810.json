@@ -1,0 +1,26 @@
+{
+    "abstract": "The current COVID-19 pandemic has highlighted global supply chain shortcomings in the US hospital delivery system, most notably personal protective equipment (PPE) and COVID-19 is found on these masks ~ 7 days. Recent work from our group has shown two promising disinfection methods for N95 facial masks, dry heat (hot air (75C, 30 min) and UVGI which is UVGI 254 nm, 8W, 30 min. Using N95 five models of N95 masks from three different manufacturers we determined the following: 1) Hot air treated N95 masks applied over 5 cycles did not degrade the fit of masks (1.5% change in fit factor, p = .67), 2) UVGI treated N95 masks applied over 10 cycles were significantly degraded in fit and did not pass quantitative fit testing using OSHA testing protocols on a human model (-77.4% change in fit factor, p = .0002).\nCompeting Interest Statement",
+    "author": "Mervin Zhao; Lei Liao; Steven Chu; Larry F Chu; Xuanze Yu; Qiqi Wang; Wang Xiao; Haotian Wang; Yi Cui; Amy DPhil Price",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20062810",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20062810"
+    },
+    "title": "Is the fit of N95 facial masks effected by disinfection? A study of heat and UV disinfection methods using the OSHA protocol fit test.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Steve Chu and Yi Cui"
+                },
+                {
+                    "funding-source": "Steve Chu and Yi Cui",
+                    "award-id": [
+                        "US2015/065608"
+                    ]
+                }
+            ],
+            "funding-statement": "Steve Chu and Yi Cui reports non-financial support from 4C Air; In addition, Steve Chu and Yi Cui has a patent PCT /US2015/065608 licensed to 4C Air. 4C Air tested face masks from several manufacturers that include 4C Air's masks and those of other manufacturers"
+        }
+    ]
+}

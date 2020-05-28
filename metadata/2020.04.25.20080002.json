@@ -1,0 +1,16 @@
+{
+    "abstract": "Compared to other coronaviruses, COVID-19 has a longer incubation period and features asymptomatic infection at a high rate (>25%). Therefore, early detection of infection is the key to early isolation and treatment. Direct detection of the virus itself has advantages over indirect detection. Currently, the most sensitive and commercially validated method for COVID-19 testing is RT-qPCR, designed to detect amplified virus-specific RNA. Reliable testing has proven to be a bottleneck in early diagnosis of virus infection in all countries dealing with the pandemic. Significant performance and quality issues with available testing kits have caused confusion and serious health risks. In order to provide better understanding of the Quality and performance of COVID-19 RNA detection kits on the market, we designed a system to evaluate the specificity (quantitation), sensitivity (LOD) and robustness of the kits using positive RNA and pseudovirus controls based on COVID-19 genomic sequence. We evaluated 8 Nucleic Acid qPCR Kits approved in China, some of which are also approved in the US and EU. Our study showed that half of these 8 kits lack 1:1 linear relationship for virus RNA copy: qPCR signal. Of the 4 with linear response, 2 demonstrated sensitivity at 1 Copy viral RNA/Reaction, suitable for early detection of virus infection. Furthermore, we established the best RNA extraction, handling and qPCR procedures allowing highly sensitive and consistent performance using BGI qPCR kits. Our study provides an effective method to assess and compare performance quality of all COVID-19 nucleic acid testing kits, globally.",
+    "author": "Zhuopu Jiang; David Surace Kapitula; Jianhao Jiang; Claudia Qiao Lin; Jing Zhu; Xiangyong Chen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20080002",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20080002"
+    },
+    "title": "Performance &amp; Quality Evaluation of Marketed COVID-19 RNA Detection Kits",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding is used in the performance of the work described in this manuscript."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "During a pandemic, robust estimation of case fatality rates (CFRs) is essential to plan and control suppression and mitigation strategies. At present, estimates for the CFR of COVID-19 caused by SARS-CoV-2 infection vary considerably. Expert consensus of 0.1-1% covers in practical terms a range from normal seasonable Influenza to Spanish Influenza. In the following, I deduce a formula for an adjusted Infection Fatality Rate (IFR) to assess mortality in a period following a positive test adjusted for selection bias. Official datasets on cases and deaths were combined with data sets on number of tests. After data curation and quality control, a total of IFR (n=819) was calculated for 21 countries for periods of up to 26 days between registration of a case and death. Estimates for IRFs increased with length of period, but levelled off at >9days with a median for all 21 countries of 0.11 (95%-CI: 0.073-0.15). An epidemiologically derived IFR of 0.040 % (95%-CI: 0.029%-0.055%) was determined for Iceland and was very close to the calculated IFR of 0.057% (95%-CI: 0.042-0.078), but 2.7-6-fold lower than CFRs. IFRs, but not CFRs, were positively associated with increased proportions of elderly in age-cohorts (n=21, spearman's \u03c1 =.73, p =.02). Real-time data on molecular and serological testing may further displace classical diagnosis of disease and its related death. I will critically discuss, why, how and under which conditions the IFR, provides a more solid early estimate of the global burden of a pandemic than the CFR.",
+    "author": "Perikles Simon",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20057729",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20057729"
+    },
+    "title": "Robust Estimation of Infection Fatality Rates during the Early Phase of a Pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding supported the work presented."
+        }
+    ]
+}

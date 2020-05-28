@@ -1,0 +1,16 @@
+{
+    "abstract": "The World Health Organization (WHO) on March 11, 2020, has declared the novel Corona virus (COVID-19) outbreak a global pandemic. It is essential to understand how coronavirus transmits from one person to another and this knowledge will help protect the vulnerable and limit the spread of the Corona virus. The mode of respiratory transmission of Corona virus is not completely understood as of date. Using a computer simulation, this paper analyses the probability of spreading of Corona virus through air among the people who are standing in a queue. The parameters such as the diameter of the virus particle, room temperature, relative humidity, height of the person, distance between the people and the waiting time in the queue are considered in the computer model to determine the distribution of Corona virus and hence identify the risk factor of spreading the Covid-19. This paper describes the possibilities of getting infectious when a Covid-19 infected person present in a queue and the impact on the waiting time and the position in the queue on the transmission of Corona virus.",
+    "author": "Santhosh Samuel Mathews",
+    "date": 2020,
+    "doi": "10.1101/2020.05.16.20104489",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.16.20104489"
+    },
+    "title": "A Computer Simulation Study on novel Corona Virus Transmission among the People in a Queue",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The author received no financial support for the research, authorship, and/or publication of this article. This study has been conducted for the personal interest of the author and these activities emanates from a genuine interest to help the society by contributing the knowledge that may help to prevent the rapidly spreading Covid-19 pandemic across the globe"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: After more than three months into the coronavirus disease (COVID-19) epidemic, over 170,000 people had died worldwide. The current study aims to evaluate how mitigating interventions affected the epidemic process in the 30 largest metropolitan areas in the US and whether temperature played a role in the epidemic process. Methods: Publicly available COVID-19 cases and deaths data and weather data were analyzed at the metropolitan level. The time-varying reproductive numbers were used to explore the trends. Results: We found that virus transmissibility, measured by instantaneous reproduction number (Rt), had declined significantly since the end of March for all areas and almost all of them reached a Rt of 1 or below by April 15, 2020. Cities with warm temperature tended to have a lower peak Rt than that of cities with cold temperature. However, large geographic variations exist. Conclusions: Though the end of epidemic of COVID-19 is near, temperature may have some weak effects on the virus transmission, and the return of the coronavirus outbreak is still possible.\nCompeting Interest Statement",
+    "author": "Xinhua Yu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20081083",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20081083"
+    },
+    "title": "Impact of mitigating interventions and temperature on the instantaneous reproduction number in the COVID-19 epidemic among 30 US metropolitan areas",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

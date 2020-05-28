@@ -1,0 +1,20 @@
+{
+    "abstract": "Intensive care capacity and proper testing play a paramount role in the COVID-19 Case Fatality Rate (CFR). Nevertheless, the real impact of such important measures has not been appreciated due to the lack of proper metrics. In this work, we have proposed a method for estimating a lower bound for the number of positive cases by using the reported data on the oldest age group and the regions' population distributions. The proposed estimation method improved the expected similarity between the age-distribution of positive cases and regions' population. Further, we have provided a quantitative measure for the impact of intensive care on the critical cases by comparing the CFR among those who did and did not receive intensive care. Our findings showed that the chance of living among non-ICU receivers is less than half of ICU receivers (~24% vs ~60%).",
+    "author": "Amirhoshang Hoseinpour Dehkordi; Pouya Tavousi; Reza Nemati",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20071498",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20071498"
+    },
+    "title": "A deeper look at COVID-19 CFR: health care impact and roots of discrepancy",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "No Funding"
+                }
+            ],
+            "funding-statement": "No Funding"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "title": "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) envelope (E) protein harbors a conserved BH3-like sequence",
+    "author": "Vincent Navratil 1, Lo\u00efc Lionnard 3, Sonia Longhi 4, J. Marie Hardwick 5, Christophe Combet 6 and Abdel Aouacheria 3,* 1 PRABI, Rh\u00f4ne Alpes Bioinformatics Center, UCBL, Lyon, Universit\u00e9 de Lyon, Lyon, France. 2 European Virus Bioinformatics Center, Leutragraben 1, D-07743 Jena, Germany 3 ISEM, Institut des Sciences de l\u2019Evolution de Montpellier, Universit\u00e9 de Montpellier, UMR 5554, CNRS, IRD, EPHE, Place Eug\u00e8ne Bataillon, 34095 Montpellier, France 4 CNRS and Aix-Marseille Univ, Laboratoire Architecture et Fonction des Macromolecules Biologiques (AFMB), UMR 7257, Marseille, France. 5 W. Harry Feinstone Department of Molecular Microbiology and Immunology, Johns Hopkins University Bloomberg School of Public Health, Baltimore, Maryland 21205, USA 6 Centre de Recherche en Canc\u00e9rologie de Lyon, UMR Inserm U1052, CNRS 5286, Universit\u00e9 Claude Bernard Lyon 1, Centre L\u00e9on B\u00e9rard, Lyon, France",
+    "date": 2020,
+    "affiliations": [
+        "Rh\u00f4ne Alpes Bioinformatics Center, UCBL, Lyon1, Universit\u00e9 de Lyon, Lyon, France",
+        "European Virus Bioinformatics Center, Leutragraben 1, D-07743 Jena, Germany",
+        "ISEM, Institut des Sciences de l\u2019Evolution de Montpellier, Universit\u00e9 de Montpellier, UMR 5554, CNRS, IRD, EPHE, Place Eug\u00e8ne Bataillon, 34095 Montpellier, France",
+        "CNRS and Aix-Marseille Univ, Laboratoire Architecture et Fonction des Macromolecules Biologiques (AFMB), UMR 7257, Marseille, France. 5 W. Harry Feinstone Department of Molecular Microbiology and Immunology, Johns Hopkins University Bloomberg School of Public Health, Baltimore, Maryland 21205, USA",
+        "Centre de Recherche en Canc\u00e9rologie de Lyon, UMR Inserm U1052, CNRS 5286, Universit\u00e9 Claude Bernard Lyon 1, Centre L\u00e9on B\u00e9rard, Lyon, France",
+        "Institut des Sciences de l\u2019Evolution de Montpellier, Universit\u00e9 de Montpellier, CNRS, EPHE, IRD, Montpellier, France. Phone : +33467143751"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.09.033522",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.09.033522.pdf"
+    },
+    "abstract": "Following the outbreaks of severe acute respiratory syndrome coronavirus (SARS-CoV) in 2002 and Middle East respiratory syndrome coronavirus (MERS-CoV) in 2012, the novel coronavirus SARS-CoV-2 emerged at the end of 2019. SARS-CoV-2 is a highly infectious pathogen that rapidly spread around the world causing the worst pandemic in the past 100 years. SARS-CoV-2 shares high sequence homology with SARS-CoV and causes coronavirus disease 2019 (COVID-19), leading to pneumonia and severe acute respiratory distress syndrome. Although probably not as lethal as SARS-CoV, its robust transmissibility by asymptomatic individuals is an important contributor to the pandemic.",
+    "keywords": [
+        "coronavirus",
+        "covid-19",
+        "apoptosis",
+        "Bcl-2 family",
+        "BH3 motifs",
+        "protein-protein interactions",
+        "structure-function relationships",
+        "virus-host interactions"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Montpellier University and National Institutes of Health USA",
+                    "award-id": [
+                        "AI144373"
+                    ]
+                },
+                {
+                    "funding-source": "Pl Photorhabdus",
+                    "award-id": [
+                        "Kaposi\u2019s sarcoma-associated herpesvirus",
+                        "PDB code: 5X29",
+                        "C1 to C5",
+                        "dark green",
+                        "dark green",
+                        "green or yellow spheres",
+                        "red spheres",
+                        "5X29",
+                        "5X29",
+                        "EPI_ISL_41375225865_26065",
+                        "see panel C",
+                        "they were also reported as white dots in panel A",
+                        "bottom",
+                        "GenBank accession YP_0097243921",
+                        "EPI-ISL",
+                        "Supplemental Table S2"
+                    ]
+                },
+                {
+                    "funding-source": "GISAID",
+                    "award-id": [
+                        "https://www.gisaid.org/"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported by CNRS, Montpellier University and National Institutes of Health USA grant R21 AI144373. Legend to figures baikalensis; Aq, Amphimedon queenslandica; Am, Ambystoma mexicanum; Ce, Caenorhabditis elegans; Pl Photorhabdus luminescens; NDV, Newcastle disease virus; HHV8, Human herpesvirus 8 (Kaposi\u2019s sarcoma-associated herpesvirus); HBV, Hepatitis B Virus; HCV, Hepatitis C Virus; Sc, Saccharomyces cerevisiae; Sp, Schizosaccharomyces pombe; SARS: human SARS-CoV; SARS2: human SARS-CoV-2. Viral entries were italicized. (A) Experimentally determined NMR structure of the SARS-CoV E protein pentamer (PDB code: 5X29). The five chains (C1 to C5) were colored as follows: C1 (green), C2 (yellow), C3 (dark green), C4 (yellow) and C5 (dark green). Residues from the BH3-like core segment (LVKPTVYVY) are shown in red. The positions of the conserved Leu51 (blue) and Pro54 (cyan) residues are indicated. Interchain contacts between monomers are indicated, Leu28 (green or yellow spheres) on one chain and Tyr57 (red spheres) in the following chain. Note that the recombinant SARS-CoV-2 E protein used to generate the 5X29 structure lacked ten residues at the C-terminus. (B) Homology-driven model of the SARS-CoV-2 E protein based on 5X29. Only one chain (framed in (A)) is shown. Deleted amino acids from the EPI_ISL_41375225865_26065 translated sequence (see panel C) are colored in white. Other detected point mutations are indicated (they were also reported as white dots in panel A, bottom). The indicated PBM mutations and as well as the mutation affecting Ser6 are out of view. (C) Sequence alignment between SARS-CoV-2 E reference sequence and translated short reads from coronavirus genomes. Except for the reference human SARS-CoV-2 E sequence (GenBank accession number YP_0097243921), other sequences with EPI-ISL-* accession numbers (Supplemental Table S2) were retrieved from GISAID (https://www.gisaid.org/) (72) and annotated using tblastn. Residues that differ from the reference SARS-CoV-2 E sequence are highlighted in red. The deletion of eight residues detected in one putative SARS-CoV-2 E sequence is framed. Asterisks in the consensus line indicate positions that are fully conserved. Colons indicate positions that have strongly similar residues and dots are assigned to weakly similar positions."
+        }
+    ]
+}

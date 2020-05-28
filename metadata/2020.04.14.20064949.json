@@ -1,0 +1,16 @@
+{
+    "abstract": "Background On December 31, 2019, the World Health Organization (WHO) was notified of a novel coronavirus in China that was later named COVID-19. On March 11, 2020, the outbreak of COVID-19 was declared a pandemic. The first instance of the virus in Nigeria was documented on February 27, 2020. Methods This study provides a preliminary epidemiological analysis of the first 45 days of COVID-19 outbreak in Nigeria quantifying. We estimated the early transmissibility via time-varying reproduction number based on Bayesian method that incorporates uncertainty in the distribution of serial interval (time interval between symptoms onset in an infected individual and the infector) and adjusted for disease importation. Findings By April 11, 2020, 318 confirmed cases and 10 deaths from COVID-19 have occurred in Nigeria. At day 45, the exponential growth rate was 0.07 (95% Confidence Interval (CI): 0.05-0.10) with doubling time of 9.84 days (95% CI: 7.28 - 15.18). Separately for travel related and local cases the doubling time was 12.88 days and 2.86 days, respectively. Furthermore, we estimated the reproduction number for each day of the outbreak using three-weekly window while adjusting for travel related cases. The estimated reproduction number was 4.98 (95% CrI: 2.65 -8.41) at day 22 (March 19, 2020), peaking at 5.61 (95% CrI: 3.83 -7.88) at day 25 (March 22, 2020). The median reproduction number over the study period was 2.71 and the latest value at April 11, 2020 was 1.42 (95% CI: 1.26 - 1.58). Interpretation These 45-day estimates suggested that cases of COVID-19 in Nigeria have been remarkably lower than expected and the preparedness to detect needs to be shifted to stop local transmission.",
+    "author": "Adeshina I Adekunle; Oyelola Adegboye; Ezra Gayawan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20064949",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20064949"
+    },
+    "title": "Novel Coronavirus in Nigeria: Epidemiological analysis of the first 45 days of the pandemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

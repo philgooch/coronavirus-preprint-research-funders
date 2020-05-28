@@ -1,0 +1,16 @@
+{
+    "abstract": "As the COVID-19 pandemic has spread to the entire world, a race to understand the virus and to find an effective and safe vaccine or treatment has triggered interest in the factors contributing to mortality. For instance, some studies have suggested that the BCG vaccine could protect from COVID-19 and nicotine patches could be therapeutic against the virus. This study makes use of data for about 140 countries to evaluate the determinants of COVID-19 mortality. It finds that a country's share of spending on health care (as a measure of a country's effectiveness in tracking, recording, and reporting COVID-19 deaths) is positively associated with COVID-19 deaths. It also finds that the share of people above 65 years of age, obesity, and urbanization are all positively associated with COVID-19 mortality. There is no evidence that BCG vaccination, smoking prevalence, and PM25 pollution have any link to COVID-19 mortality. These estimation results are robust to alternative specifications and after controlling for confounding factors and excluding outliers. Policymakers should allocate resources towards the protection of the elderly and those suffering from underlying conditions such as obesity. They should also exercise caution about administering nicotine patches or the BCG vaccine to fight COVID-19 without the backing of concrete scientific evidence.",
+    "author": "Jay Squalli",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099093",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099093"
+    },
+    "title": "Evaluating the determinants of COVID-19 mortality: A cross-country study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

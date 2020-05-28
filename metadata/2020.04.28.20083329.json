@@ -1,0 +1,16 @@
+{
+    "abstract": "Background In a classic epidemic, the infected population has an early exponential phase, before slowing and fading to its peak. Mitigating interventions may change the exponent during the rising phase and a plateau can replace a peak. With interventions comes the risk that relaxation causes a second-wave. In the UK Covid-19 epidemic, infections cannot be counted, but their influence is seen in the curve of the mortality data. This work simulated social distancing and the lockdown in the UK Covid-19 epidemic to explore strategies for relaxation. Methods Cumulative mortality data was transposed 20 days earlier to identify three doubling periods separated by the 17th March - social distancing, and 23rd March - lockdown. A set of stochastic processes simulated viral transmission between interacting individuals using Covid-19 incubation and illness durations. Social distancing and restrictions on interactions were imposed and later relaxed. Principal Findings Daily mortality data, consistent with that seen in the UK Covid-19 epidemic to 24th April 2020 was simulated. This output predicts that under a lockdown maintained till early July 2020, UK deaths will exceed 31,000, but leave a large susceptible population and a requirement for vaccination or quarantine. An earlier staged relaxation carries a risk of a second-wave. The model allows exploration of strategies for lifting the lockdown. Interpretation Social distancing and the lockdown have had an impressive impact on the UK Covid-19 epidemic and saved lives, caution is now needed in planning its relaxation.",
+    "author": "Anthony D Lander",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083329",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083329"
+    },
+    "title": "Releasing the lockdown in the UK Covid-19 epidemic: a stochastic model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Unfunded"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "abstract": "The SARS-CoV-2 pandemic has caused a severe, international shortage of N95 respirators, which are essential to protect healthcare providers from infection. Given the contemporary limitations of the supply chain, it is imperative to identify effective means of decontaminating, reusing, and thereby conserving N95 respirator stockpiles. To be effective, decontamination must result in sterilization of the N95 respirator without impairment of respirator filtration or user fit. Although numerous methods of N95 decontamination exist, none are universally accessible. In this work we describe a microwave-generated steam decontamination protocol for N95 respirators for use in healthcare systems of all sizes, geographies, and means. Using widely available glass containers, mesh from commercial produce bags, a rubber band, and a 1100W commercially available microwave, we constructed an effective, standardized, and reproducible means of decontaminating N95 respirators. Employing this methodology against MS2 phage, a highly conservative surrogate for SARS-CoV-2 contamination, we report an average 6-log10 plaque forming unit (PFU) (99.9999%) and a minimum 5-log10 PFU (99.999%) reduction after a single three-minute microwave treatment. Notably, quantified respirator fit and function were preserved, even after 20 sequential cycles of microwave steam decontamination. This method provides a valuable means of effective decontamination and reuse of N95 respirators by frontline providers facing urgent need.",
+    "affiliations": [
+        "National Institute of Allergy and Infectious Diseases training grant (T32AI007061). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health"
+    ],
+    "author": "Kate E Zulauf; Alana Dale; Robert Seeley; Dvir Reif; Alex B Green; Alex N. Nguyen Ba; James E Kirby; Tanush Jagdish",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20076117",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20076117"
+    },
+    "title": "Microwave-Generated Steam Decontamination of N95 Respirators Utilizing Universally Accessible Materials",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases",
+                    "award-id": [
+                        "T32AI007061"
+                    ]
+                }
+            ],
+            "funding-statement": "KEZ was supported by the National Institute of Allergy and Infectious Diseases training grant (T32AI007061)"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Inhibition of SARS-CoV-2 infection (previously 2019-nCoV) by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion",
+    "author": "Shuai Xia,# Meiqin Liu,# Chao Wang,# Wei Xu,# Qiaoshuai Lan, Siliang Feng",
+    "date": 2020,
+    "affiliations": [
+        "Key Laboratory of Medical Molecular Virology (MOE/NHC/CAMS), School of",
+        "Basic Medical Sciences, Fudan-Jinbo Joint Research Center, Fudan University",
+        "Shanghai, China; 10",
+        "CAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for",
+        "Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, China; 12",
+        "National Laboratory of Biomacromolecules, Institute of Biophysics, Chinese",
+        "Academy of Sciences, Beijing, China; 14",
+        "State Key Laboratory of Toxicology and Medical Countermeasures, Beijing Institute 15 of Pharmacology and Toxicology, 27 Tai-Ping Road, Beijing 100850, China; 16",
+        "Key Laboratory of Human Disease Comparative Medicine, Chinese Ministry of",
+        "Health, Beijing Key Laboratory for Animal Models of Emerging and Re-emerging",
+        "Infectious Diseases, Institute of Laboratory Animal Science, Chinese Academy of",
+        "Medical Sciences and Comparative Medicine Center, Peking Union Medical College, 20 Beijing 100021, China; 21",
+        "Lindsley F. Kimball Research Institute, New York Blood Center, New York, NY, 22 USA; 23",
+        "Guangdong Provincial Key Laboratory of New Drug Screening, Guangzhou Key 24 Laboratory of Drug Research for Emerging Virus Prevention and Treatment, School of 25 Pharmaceutical Sciences, Southern Medical University, Guangzhou, China; 26",
+        "University of Chinese Academy of Sciences, Beijing, People's Republic of China"
+    ],
+    "journal": "Inhibition of SARS",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.09.983247",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.09.983247.pdf"
+    },
+    "abstract": "The recent outbreak of coronavirus disease (COVID-19) caused by SARS-CoV-2 infection in Wuhan, China has posed a serious threat to global public health. To develop specific anti-coronavirus therapeutics and prophylactics, the molecular mechanism that underlies viral infection must first be confirmed. Therefore, we herein used a SARS-CoV-2 spike (S) protein-mediated cell-cell fusion assay and found that SARS-CoV-2 showed plasma membrane fusion capacity superior to that of SARS-CoV. We solved the X-ray crystal structure of six-helical bundle (6-HB) core of the HR1 and HR2 domains in SARS-CoV-2 S protein S2 subunit, revealing that several mutated amino acid residues in the HR1 domain may be associated with enhanced interactions with HR2 domain. We previously developed a pan-coronavirus fusion inhibitor, EK1, which targeted HR1 domain and could inhibit infection by divergent human coronaviruses tested, including SARS-CoV and MERS-CoV. We then generated a series of lipopeptides and found that the EK1C4 was the most potent fusion inhibitor against SARS-CoV-2 S protein-mediated membrane fusion and pseudovirus infection with IC50s of 1.3 and 15.8 nM, about 241- and 149-fold more potent than that of EK1 peptide, respectively. EK1C4 was also highly effective against membrane fusion and infection of other human coronavirus pseudoviruses tested, including SARS-CoV and MERS-CoV, as well as SARSr-CoVs, potently inhibiting replication of 4 live human coronaviruses, including SARS-CoV-2. Intranasal application of EK1C4 before or after challenge with HCoV-OC43 protected mice from infection, suggesting that EK1C4 could be used for prevention and treatment of infection by currently circulating SARS-CoV-2 and emerging SARSr-CoVs. Keywords: Coronavirus; SARS-CoV; SARS-CoV-2; 2019-nCoV; fusion inhibitor",
+    "keywords": [
+        "Coronavirus",
+        "SARS-CoV",
+        "SARS-CoV-2",
+        "2019-nCoV",
+        "fusion inhibitor"
+    ],
+    "funding": [
+        {}
+    ]
+}

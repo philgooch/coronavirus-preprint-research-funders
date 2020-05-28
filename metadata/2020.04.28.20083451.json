@@ -1,0 +1,16 @@
+{
+    "abstract": "Acute respiratory distress syndrome (ARDS) and pediatric ARDS (PARDS) can be triggered by multiple pulmonary and non-pulmonary insults and are the source of substantial morbidity and mortality. The nasal and lower conducting airways have similar cell composition and nasal transcriptomes identify disease state and sub-classes in lung cancer, COPD, and asthma. We conducted an observational, prospective trial to determine whether this technique could identify PARDS endotypes in 26 control and 25 PARDS subjects <18 admitted to the pediatric ICU. RNA from inferior turbinate brushing was collected on days 1, 3, 7, and 14. Standard RNA-processing yielded 29% usable specimens by mRNA-Seq, and a low-input protocol increased yield to 95% usable specimens. 64 low-input specimens from 10 control and 15 PARDS subjects were used for model development. Control and some PARDS subjects clustered together in Group A while some day 1, 3, and 7 specimens clustered into Groups B and C with specimens from these subjects moving to Group A with PARDS resolution. In multivariate analysis, the only clinical variables associated with specimen Group B or C assignment was severity of lung injury or viral PARDS trigger. Compared to Group A, Group B had upregulation of innate immune processes and Group C had upregulation of ciliary and microtuble processes. Analysis of the 15 standard processing specimens identified the same grouping. Mortality trended higher in group B (25%) and C subjects (28.6%) compared to A (5%, p=0.1). Comparison of groups with 16 PARDS-associated serum biomarkers identified correlation of Endotype B with Tumor Necrosis Factor-alpha, but not other inflammatory cytokines and Endotype C with Surfactant Protein D. We identified three nasal transcriptomic PARDS endotypes. A is similar to control. B is marked by an innate immune signature only weakly reflected in the serum. C may be associated with loss of epithelial barrier integrity. Nasal transcriptomics may be useful for prognostic and predictive enrichment in future PARDS trials. ClinicalTrials.gov Identifier NCT03539783",
+    "author": "Erin Stoneman; Rashika Joshi; Rhonda Jones; Toni Yunger; James ; Brian Michael Varisco",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083451",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083451"
+    },
+    "title": "Identification of Three Endotypes in Pediatric Acute Respiratory Distress Syndrome by Nasal Transcriptomic Profiling",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

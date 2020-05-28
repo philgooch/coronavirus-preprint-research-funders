@@ -1,0 +1,27 @@
+{
+    "title": "Two mutations P/L and Y/C in SARS-CoV-2 helicase domain exist together and influence helicase RNA binding",
+    "author": "Feroza Begum, Arup Kumar Banerjee, Prem Prakash Tripathi, Upasana Ray",
+    "date": 2020,
+    "affiliations": [
+        "CSIR-Indian Institute of Chemical Biology, 4, Raja S.C., Mullick Road, Jadavpur, Kolkata-700032, West Bengal, India",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad- 201002, India",
+        "North Bengal Medical College and Hospital, Sushrutanagar, Siliguri-734012, West Bengal, India"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.095224",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.095224.pdf"
+    },
+    "abstract": "RNA helicases play pivotal role in RNA replication by catalysing the unwinding of complex RNA duplex structures into single strands in ATP/NTP dependent manner. SARS coronavirus 2 (SARS-CoV-2) is a single stranded positive sense RNA virus belonging to the family Coronaviridae. The viral RNA encodes non structural protein Nsp13 or the viral helicase protein that helps the viral RNA dependent RNA polymerase (RdRp) to execute RNA replication by unwinding the RNA duplexes. In this study we identified a novel mutation at position 541of the helicase where the tyrosine (Y) got substituted with cytosine (C). We found that Y541C is a destabilizing mutation increasing the molecular flexibility and leading to decreased affinity of helicase binding with RNA. Earlier we had reported a mutation P504L in the helicase protein for which had not performed RNA binding study. Here we report that P504L mutation leads to increased affinity of helicase RNA interaction. So, both these mutations have opposite effects on RNA binding. Moreover, we found a significant fraction of isolate population where both P504L and Y541C mutations were coexisting.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID 19",
+        "Helicase",
+        "Replication"
+    ],
+    "funding": [
+        {}
+    ]
+}

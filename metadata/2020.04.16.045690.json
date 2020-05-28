@@ -1,0 +1,29 @@
+{
+    "title": "The scRNA-seq expression profiling of the receptor ACE2 and the cellular protease TMPRSS2 reveals human organs susceptible to COVID-19 infection",
+    "author": "Jing Qi PhD#1, Yang Zhou PhD#1, Jiao Hua MSc#1, Liying Zhang MSc, Jialin Bian MSc, Beibei Liu MSc, Zicen Zhao MSc, Shuilin Jin PhD",
+    "date": 2020,
+    "affiliations": [
+        "School of Mathematics, Harbin Institute of Technology, 150001, Harbin, P.R. China # These authors contributed equally to the work * To whom all correspondence should be addressed"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.16.045690",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.16.045690.pdf"
+    },
+    "abstract": "Background COVID-19 caused by SARA-CoV-2 is a disaster sweeping over 200 countries, and more than 2,150,000 people are suffering from the disease and 140,000 people died. ACE2 is a receptor protein of SARSCoV-2, and TMPRSS2 promotes virus proliferation and transmission. Some patients developed multiple organ dysfunction syndromes other than lungs. Therefore, studying the viral susceptibility of other organs is important for a deeper understanding of viral pathogenesis. Methods The advantage of scRNA-seq data is the identification of cell types by clustering the gene expression of cells. ACE2 and TMPRSS2 are highly expressed in AT2 of lungs, we compared the ACE2 and TMPRSS2 expression levels of cell types from 31 organs, with AT2 of lungs to evaluate the risk of the viral infection using scRNA-seq data. Findings For the first time, we found the brain, gall bladder, and fallopian tube are vulnerable to COVID-19 infection. Besides, the nose, heart, small intestine, large intestine, esophagus, testis and kidney are also identified to be high-risk organs with high expression levels of ACE2 and TMPRSS2. Moreover, the susceptible organs are grouped into three risk levels based on the TMPRSS2 expression. As a result, the respiratory system, digestive system and reproductive system are at the top-risk level to COVID-19 infection. Interpretation This study provides evidence for COVID-19 infection in the human nervous system, digestive system, reproductive system, respiratory system, circulatory system and urinary system using scRNA-seq data, which helps for the clinical diagnosis and treatment of patients. Funding Natural Science Foundation of China.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Natural Science Foundation of China",
+                    "award-id": [
+                        "11971130"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was funded by the Natural Science Foundation of China (Grant No 11971130)"
+        }
+    ]
+}

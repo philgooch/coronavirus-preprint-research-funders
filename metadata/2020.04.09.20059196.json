@@ -1,0 +1,44 @@
+{
+    "abstract": "Background: In spite of the global containment on prevention efforts, the spread of coronavirus disease 2019 (COVID-19) is continuing to rise, with 1.1 million confirmed cases and 60,124 deaths recorded worldwide since 04 April 2020. The outbreak has a significant threat to international health and economy. At present, there is no approved vaccine or treatment for the disease, while efforts are underway. Remdesivir, a nucleotide-analogue antiviral drug developed for Ebola, is determined to prevent and stop infections with COVID-19, while results are yet controversial. Here, we aim to conduct a systematic review and meta-analysis of randomized controlled trials to compare the effectiveness of remdesivir and placebo in patients with COVID-19. Method and analysis: We will search MEDLINE-PubMed, Embase, Cochrane Library, ClinicalTrials.gov, and Google scholar databases without restriction in year of publication. We will include randomized controlled trials that assessed the effectiveness of remdesivir versus placebo for patients confirmed with COVID-19. We will follow the Preferred Reporting Items for Systematic Review and Meta-Analysis (PRISMA 2015) guidelines for the design and reporting of the results. The primary endpoint will be time to clinical recovery. The secondary endpoints will be all cause mortality, discharged date, frequency of respiratory progression, and treatment-emergent adverse events. Two independent authors will perform study selection, data extraction, and methodology quality assessment. RevMan 5.3 software will be used for statistical analysis. Random/fixed effect model will be carried out to calculate mean differences for continuous outcomes and risk ratio for dichotomous outcomes between remdesivir and placebo. Ethics and dissemination: This study does not require ethical approval, because no participants data will be involved in this systematic review and meta-analysis. The findings of this study will be published in reputable and peer-reviewed journal. Registration: This review protocol is submitted in PROSPERO database for registration and we will include the registration number in the revised version of the manuscript. Keywords: 2019 novel coronavirus, 2019-nCoV, Coronavirus diseases 2019, COVID-19, SARS-cov-2, Remdesivir, Randomized Controlled Trials. Systematic review, Meta-analysis, protocol\nCompeting Interest Statement",
+    "affiliations": [
+        "Center for Innovative Drug Development and Therapeutic Trials for Africa (CDT-Africa), College of Health Sciences, Addis Ababa University"
+    ],
+    "author": "Desye Gebrie; Tsegahun Manyazewal; Desalegn Getnet",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059196",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059196"
+    },
+    "keywords": [
+        "2019 novel coronavirus",
+        "2019-nCoV",
+        "Coronavirus diseases 2019",
+        "COVID-19",
+        "SARS-cov-2",
+        "Remdesivir",
+        "Randomized Controlled Trials",
+        "Systematic review",
+        "Meta-analysis",
+        "protocol"
+    ],
+    "title": "Efficacy of remdesivir versus placebo for the treatment of COVID-19: A protocol for systematic review and meta-analysis of randomized controlled trials",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Center for Innovative Drug Development and Therapeutic Trials for Africa",
+                    "award-id": [
+                        "CDT-Africa"
+                    ]
+                },
+                {
+                    "funding-source": "College of Health Sciences, Addis"
+                },
+                {
+                    "funding-source": "Ababa University"
+                }
+            ],
+            "funding-statement": "This study is supported by Center for Innovative Drug Development and Therapeutic Trials for Africa (CDT-Africa), College of Health Sciences, Addis Ababa University"
+        }
+    ]
+}

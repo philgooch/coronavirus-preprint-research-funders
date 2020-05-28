@@ -1,0 +1,19 @@
+{
+    "abstract": "In this study, we propose an evolution law of COVID-19 transmission based first on a representation of population by a domain part of an infinite ordered lattice in which epidemic evolution is represented by a wave like free spread starting from a first case as an epicentre. Free energy of spread on a given day is defined equal to the natural logarithm of the number of infected cases. Dissipation of propagation is obtained using a postulated form of free energy built using thermodynamics of irreversible processes in analogy to isotherm wave propagation in solids and elastic damage behaviour of materials. The proposed expression of daily free energy rate leads to dissipation of propagation introducing a parameter quantifying measures taking by governments to restrict transmission. Entropy daily rate representing disorder produced in the initial system is also explicitly defined. In this context, a simple law of evolution of infected cases as function of time is given in an iterative form. The model predicts different effects on peak of infected cases Imax and epidemic period, including effects of population size N, effects of measures taking to restrict spread, effects of population density and effect of a parameter T similar to absolute temperature in thermodynamics. Different effects are presented first. The model is than applied to epidemic spread in Tunisia and compared with data registered since the report of the first confirmed case on Mar 2, 2020. It is shown that the low epidemic size in Tunisia is essentially due to a low population density and relatively strict restriction measures including lockdown and quarantine.",
+    "affiliations": [
+        "National observer for new and emergent diseases, Tunisia"
+    ],
+    "author": "Oualid Limam; Mohamed Limam",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20088971",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20088971"
+    },
+    "title": "Contribution to COVID-19 spread modelling: A physical phenomenological dissipative formalism",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

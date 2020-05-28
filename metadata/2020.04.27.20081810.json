@@ -1,0 +1,169 @@
+{
+    "abstract": "The COVID-19 pandemic is an unprecedented global challenge. Highly variable in its presentation, spread and clinical outcome, novel point-of-care diagnostic classifiers are urgently required. Here, we describe a set of COVID-19 clinical classifiers discovered using a newly designed low-cost high-throughput mass spectrometry-based platform. Introducing a new sample preparation pipeline coupled with short-gradient high-flow liquid chromatography and mass spectrometry, our methodology facilitates clinical implementation and increases sample throughput and quantification precision. Providing a rapid assessment of serum or plasma samples at scale, we report 27 biomarkers that distinguish mild and severe forms of COVID-19, of which some may have potential as therapeutic targets. These proteins highlight the role of complement factors, the coagulation system, inflammation modulators as well as pro-inflammatory signalling upstream and downstream of Interleukin 6. Application of novel methodologies hence transforms proteomics from a research tool into a rapid-response, clinically actionable technology adaptable to infectious outbreaks.",
+    "affiliations": [
+        "National Research Node \u0091Mass spectrometry in Systems Medicine (MSCoresys), under grant agreement 031L0220A. The study was further supported by the Francis Crick Institute, which receives its core funding from Cancer Research UK (FC001134), the UK Medical Research Council (FC001134), and the Wellcome Trust (FC001134), and received specific funding from the BBSRC (BB/ N015215/1 and BB/N015282/1) and the Wellcome Trust (200829/Z/16/Z) as well as"
+    ],
+    "author": "Aleksej Zelezniak; Riccardo E. Marioni; Leif Erik Sander; Daniel Wendisch; Moritz Pfeiffer; Andreas Hocke; Stefan Hippenstiel; Michael Muelleder; Martin Witzenrath; Kathrin Textoris-Taube; David J. Porteous; Daniela Ludwig; Christian Drosten; Spyros I. Vernardis; Charlotte Thibeault; Anna-Sophia Egger; Vadim Demichev; Christiane Kilian; Kathryn S. Lilley; Wolfgang M. Kuebler; Claudia Langenberg; Caroline Hayward; Matthew White; Christoph B. Messner; Marco Kreidl; Archie Campbell; Florian Kurth; Christof von Kalle; Anja Freiwald; Federica Agostini; Laura Michalick; Markus Ralser",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20081810",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20081810"
+    },
+    "title": "Clinical classifiers of COVID-19 infection from novel ultra-high-throughput proteomics",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Education and Research"
+                },
+                {
+                    "funding-source": "National Research Node"
+                },
+                {
+                    "funding-source": "Systems Medicine",
+                    "award-id": [
+                        "MSCoresys",
+                        "031L0220A"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Ministry of Education and Research (BMBF), as part of the National Research Node \u0091Mass spectrometry in Systems Medicine (MSCoresys), under grant agreement 031L0220A"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Francis Crick Institute,"
+                },
+                {
+                    "funding-source": "Cancer Research UK",
+                    "award-id": [
+                        "FC001134"
+                    ]
+                },
+                {
+                    "funding-source": "UK Medical Research Council",
+                    "award-id": [
+                        "FC001134"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "FC001134"
+                    ]
+                },
+                {
+                    "funding-source": "BBSRC",
+                    "award-id": [
+                        "BB/ N015215/1",
+                        "BB/N015282/1"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "200829/Z/16/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Crick Idea",
+                    "award-id": [
+                        "10658"
+                    ]
+                }
+            ],
+            "funding-statement": "The study was further supported by the Francis Crick Institute, which receives its core funding from Cancer Research UK (FC001134), the UK Medical Research Council (FC001134), and the Wellcome Trust (FC001134), and received specific funding from the BBSRC (BB/ N015215/1 and BB/N015282/1) and the Wellcome Trust (200829/Z/16/Z) as well as a Crick Idea to Innovation (i2i) initiative (grant number 10658) (to MR)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Generation Scotland"
+                },
+                {
+                    "funding-source": "Chief Scientist Office of the Scottish Government Health Directorates",
+                    "award-id": [
+                        "CZD/16/6"
+                    ]
+                },
+                {
+                    "funding-source": "Scottish Funding Council",
+                    "award-id": [
+                        "HR03006"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "216767/Z/19/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "The Generation Scotland study received core support from the Chief Scientist Office of the Scottish Government Health Directorates (CZD/16/6) and the Scottish Funding Council (HR03006), and is now supported by the Wellcome Trust (216767/Z/19/Z)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Archie Campbell"
+                },
+                {
+                    "funding-source": "HDR UK and the Wellcome Trust",
+                    "award-id": [
+                        "216767/Z/19/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "Archie Campbell is funded by HDR UK and the Wellcome Trust (216767/Z/19/Z)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Caroline Hayward"
+                },
+                {
+                    "funding-source": "MRC University Unit Programme Grant",
+                    "award-id": [
+                        "MC_UU_00007/10"
+                    ]
+                },
+                {
+                    "funding-source": "QTL in Health and Disease)"
+                }
+            ],
+            "funding-statement": "Caroline Hayward is supported by an MRC University Unit Programme Grant (MC_UU_00007/10) (QTL in Health and Disease)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Riccardo Marioni"
+                },
+                {
+                    "funding-source": "Research UK",
+                    "award-id": [
+                        "ARUK-PG2017B-10"
+                    ]
+                }
+            ],
+            "funding-statement": "Riccardo Marioni is supported by an Alzheimer\u0092s Research UK project grant (ARUK-PG2017B-10)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Leif Erik Sander"
+                },
+                {
+                    "funding-source": "German Research Foundation",
+                    "award-id": [
+                        "SFB-TR84 114933180"
+                    ]
+                },
+                {
+                    "funding-source": "Berlin Institute of Health"
+                },
+                {
+                    "funding-source": "Ministry of Education and Research"
+                }
+            ],
+            "funding-statement": "Leif Erik Sander is supported by the German Research Foundation (DFG, SFB-TR84 114933180) and by the Berlin Institute of Health (BIH), which receives funding from the Ministry of Education and Research (BMBF)"
+        }
+    ]
+}

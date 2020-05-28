@@ -1,0 +1,30 @@
+{
+    "abstract": "COVID-19 epidemic in Malaysia started as a small wave of 22 cases in January 2020 through imported cases. It was followed by a bigger wave mainly from local transmissions resulting in 651 cases. The following wave saw unexpectedly three digit number of daily cases following a mass gathering urged the government to choose a more stringent measure. A limited lock-down approach called Movement Control Order (MCO) was immediately initiated to the whole country as a way to suppress the epidemic trajectory. The lock-down causes a major socio-economic disruption thus the ability to forecast the infection dynamic is urgently required to assist the government on timely decisions. Limited testing capacity and limited epidemiological data complicate the understanding of the future infection dynamic of the COVID-19 epidemic. Three different epidemic forecasting models was used to generate forecasts of COVID-19 cases in Malaysia using daily reported cumulative case data up until 1st April 2020 from the Malaysia Ministry of Health. The forecasts were generated using a Curve Fitting Model with Probability Density Function and Skewness Effect, the SIR Model, and a System Dynamic Model. Method one based on curve fitting with probability density function estimated that the peak will be on 19th April 2020 with an estimation of 5,637 infected persons. Method two based on SIR Model estimated that the peak will be on 20th - 31st May 2020 if Movement Contro (MCO) is in place with an estimation of 630,000 to 800,000 infected persons. Method three based on System Dynamic Model estimated that the peak will be on 17th May 2020 with an estimation of 22,421 infected persons. Forecasts from each of model suggested the epidemic may peak between middle of April to end of May 2020. Keywords: COVID-19, Infection dynamic, Prediction Modeling, SIR, System Learning, Lock-down",
+    "affiliations": [
+        "Universiti Teknologi Malaysia under grant no. R.J130000.7751.4J454"
+    ],
+    "author": "Nor Erne Nazira Bazin; Ahmad Athif Mohd Faudzi; Naomie Salim; Shaekh Mohammad Shithil; Shuhaimi Mansor; Weng Howe Chan; Eric Jiun Hooi Khoo; Anazida Zainal; Sharin Hazlin Huspi; Safiya Amaran",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20057463",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20057463"
+    },
+    "keywords": [
+        "COVID-19",
+        "Infection dynamic",
+        "Prediction Modeling",
+        "System Learning",
+        "Lock-down"
+    ],
+    "title": "COVID-19 epidemic in Malaysia: Impact of lock-down on infection dynamics",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Universiti Teknologi Malaysia"
+                }
+            ],
+            "funding-statement": "This work is funded by Universiti Teknologi Malaysia under grant no"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Clinical And Analytical Performance Of An Automated Serological Test That Identifies S1/S2 Neutralizing IgG In Covid-19 Patients Semiquantitatively.",
+    "date": 2020,
+    "author": "Fabrizio Bonellia#, Antonella Sarasinib, Claudia Zierolda, Mariella Calleria, Alice 4 Bonettib,c, Chiara Vismarad, Frank Blockia, Luca Pallavicinia, Alberto Chinalia, Daniela 5 Campisid, Elena Percivalleb, Anna Pia DiNapolib,c, Carlo Federico Pernod, Fausto 6 Baldantib,c",
+    "affiliations": [
+        "Department of Clinical, Surgical Diagnostic and Pediatric Sciences, University of Pavia",
+        "Department of Laboratory Medicine, ASST Niguarda Hospital, University of Milan",
+        "Running title: Automated Test For Covid-19 Neutralizing IgG Detection. 17 18 #Corresponding author: Fabrizio Bonelli"
+    ],
+    "journal": "SARS",
+    "volume": "2",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.19.105445",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.19.105445.pdf"
+    },
+    "abstract": "BACKGROUND. In the Covid-19 pandemic, highly selective serological testing is essential to define exposure to SARS-CoV-2 virus. Many tests have been developed, yet with variable speed to first result, and of unknown quality, particularly when considering the prediction of neutralizing capacity. OBJECTIVES/METHODS. The LIAISON\u00ae SARS-CoV-2 S1/S2 IgG assay was designed to measure antibodies against the SARS-CoV-2 native S1/S2 proteins in a standardized automated chemiluminescent assay. Clinical and analytical performance of the test were validated in an observational study using residual samples (>1500) with positive or negative Covid-19 diagnosis. RESULTS. The LIAISON\u00ae SARS-CoV-2 S1/S2 IgG assay proved highly selective and specific, and offers semiquantitative measures of serum or plasma levels of anti-S1/S2 IgG with neutralizing activity. The diagnostic sensitivity was 91.3% and 95.7% at >5 or \u226515 days from diagnosis respectively, and 100% when assessed against a neutralizing assay. The specificity ranged between 97% and 98.5%. The average imprecision of the assay was <5 % coefficient of variation. Assay performance at 2 different cut-offs was evaluated to optimize predictive values in settings with different % disease prevalence. CONCLUSIONS. The automated LIAISON\u00ae SARS-CoV-2 S1/S2 IgG assay brings efficient, sensitive, specific, and precise serological testing to the laboratory, with the capacity to test large amounts of samples per day: first results are available within 35 43 minutes with a throughput of 170 tests/hour. The test also provides a semiquantitative measure to identify samples with neutralizing antibodies, useful also for a large scale screening of convalescent plasma for safe therapeutic use.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "DiaSorin S.p."
+                }
+            ],
+            "funding-statement": "We acknowledge the full financial support from DiaSorin S.p.A. for this clinical trial"
+        }
+    ]
+}

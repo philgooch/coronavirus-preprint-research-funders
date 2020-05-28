@@ -1,0 +1,64 @@
+{
+    "abstract": "Introduction: The coronavirus disease 2019 (COVID-19) pandemic is straining the capacity of U.S. healthcare systems. Accurately identifying subgroups of hospitalized COVID-19 patients at high- and low-risk for complications would assist in directing resources. Objective: To validate the Epic Deterioration Index (EDI), a predictive model implemented in over 100 U.S. hospitals that has been recently promoted for use in COVID-19 patients. Methods: We studied adult patients admitted with COVID-19 to non-ICU level care at a large academic medical center from March 9 through April 7, 2020. We used the EDI, calculated at 15-minute intervals, to predict a composite adverse outcome of ICU-level care, mechanical ventilation, or death during the hospitalization. In a subset of patients hospitalized for at least 48 hours, we also evaluated the ability of the EDI (range 0-100) to identify patients at low risk of experiencing this composite outcome during their remaining hospitalization. We evaluated model discrimination and calibration using both raw EDI scores and their slopes. Results: Among 174 COVID-19 patients meeting inclusion criteria, 61 (35%) experienced the composite outcome. Area under the receiver-operating-characteristic curve (AUC) of the EDI was 0.76 (95% CI 0.68-0.84). Patients who met or exceeded an EDI of 64.8 made up 17% of the study cohort and had an 80% probability of experiencing the outcome during their hospitalization with a median lead time of 28 hours from when the threshold was first exceeded to the outcome. Employing the EDI slope lowered the AUCs to 0.68 (95% CI 0.60-0.77) and 0.67 (95% CI 0.59-0.75) for slopes calculated over 4 and 8 hours, respectively. In a subset of 109 patients hospitalized for at least 48 hours and who had not experienced the composite outcome, 14 (13%) patients who never exceeded an EDI of 37.9 had a 93% probability of not experiencing the outcome throughout the rest of their hospitalization, suggesting low risk. Conclusion: In this validation study, we found the EDI identifies small subsets of high- and low-risk patients with fair discrimination. These findings highlight the need for hospitals to carefully evaluate prediction models before widespread operational use among COVID-19 patients.",
+    "author": "John Z. Ayanian; Jie Cao; Benjamin Y. Li; Erkin Otles; Melissa Y. Wei; Fahad Kamran; Thomas S. Valley; Michael W. Sjoding; Carleen Penoza; John P. Donnelly; Karandeep Singh; Shengpu Tang; Brahmajee K. Nallamothu; Jonathon P. McBride; Jenna Wiens",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20079012",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20079012"
+    },
+    "title": "Validating a Widely Implemented Deterioration Index Model Among Hospitalized COVID-19 Patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Heart, Lung"
+                },
+                {
+                    "funding-source": "Blood Institute"
+                }
+            ],
+            "funding-statement": "TSV was supported by grant K23 HL140165 from the National Heart, Lung, and Blood Institute"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Heart, Lung"
+                },
+                {
+                    "funding-source": "Blood Institute"
+                }
+            ],
+            "funding-statement": "JPD was supported by grant K12-HL138039 from the National Heart, Lung, and Blood Institute"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute on Aging"
+                }
+            ],
+            "funding-statement": "MYW was supported by grant K23 AG056638 from the National Institute on Aging"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Library of Medicine and"
+                },
+                {
+                    "funding-source": "Michigan Institute for Data Science"
+                }
+            ],
+            "funding-statement": "MWS, JW, and BKN were supported by grant R01 LM013325-01 from the National Library of Medicine and by the Michigan Institute for Data Science"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Heart, Lung"
+                },
+                {
+                    "funding-source": "Blood Institute"
+                }
+            ],
+            "funding-statement": "MWS was supported by grant K01 HL136687 from the National Heart, Lung, and Blood Institute"
+        }
+    ]
+}

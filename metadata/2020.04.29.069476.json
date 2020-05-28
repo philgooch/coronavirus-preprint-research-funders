@@ -1,0 +1,16 @@
+{
+    "title": "SARS-CoV-2 selectively mimics a cleavable peptide of human ENaC in a strategic hijack of host proteolytic machinery",
+    "date": 2020,
+    "author": "Praveen Anand, Arjun Puranik, Murali Aravamudan, AJ Venkatakrishnan, Venky Soundararajan,* 1 nference Labs, Murugesh Pallya, Bengaluru, Karnataka 560047, India nference, inc, One Main Street, East Arcade, Cambridge, MA 02142, USA * Address correspondence to AJV (aj@nference.net) or VS (venky@nference.net)",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.29.069476",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.29.069476.pdf"
+    },
+    "abstract": "Molecular mimicry of host proteins is an evolutionary strategy adopted by viruses to evade immune surveillance and exploit host cell systems. We report that SARS-CoV-2 has evolved a unique S1/S2 cleavage site (RRARSVAS), absent in any previous coronavirus sequenced, that results in mimicry of an identical FURIN-cleavable peptide on the human epithelial sodium channel \u03b1-subunit (ENaC-\u03b1). Genetic truncation at this ENaC\u03b1 cleavage site causes aldosterone dysregulation in patients, highlighting the functional importance of the mimicked SARS-CoV-2 peptide. Single cell RNA-seq from 65 studies shows significant overlap between the expression of ENaC-\u03b1 and ACE2, the putative receptor for the virus, in cell types linked to the cardiovascular-renal-pulmonary pathophysiology of COVID-19. Triangulating this cellular fingerprint with amino acid cleavage signatures of 178 human proteases shows the potential for tissue-specific proteolytic degeneracy wired into the SARS-CoV-2 lifecycle. We extrapolate that the evolution of SARS-CoV-2 into a global coronavirus pandemic may be in part due to its targeted mimicry of human ENaC and hijack of the associated host proteolytic network.",
+    "funding": [
+        {}
+    ]
+}

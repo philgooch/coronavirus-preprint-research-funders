@@ -1,0 +1,16 @@
+{
+    "abstract": "I introduce social feasibility constraints in a SIR epidemiological model: at any point in time, the ability of a social planner to impose mitigation measures is limited, but it is increasing in the proportion of infected individuals. When considering threshold policies with constant levels of mitigation for a time period, the overall fatality rate in the population is non-monotonic in the levels of mitigation: higher levels of mitigation can increase the overall fatality rate. Intuitively, strong mitigation at a point in time can undermine the social feasibility of future mitigation.\nCompeting Interest Statement",
+    "author": "Pierre Chaigneau",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20100628",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20100628"
+    },
+    "title": "When strong mitigation against a pandemic backfires",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding required."
+        }
+    ]
+}

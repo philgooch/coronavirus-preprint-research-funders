@@ -1,0 +1,16 @@
+{
+    "abstract": "The novel Coronavirus Disease 2019 (COVID-19) has spread quickly across the globe. Here, we evaluated the role of climate (temperature and precipitation), region-specific susceptibility (BCG vaccination, malaria infection, and elderly population) and international traveller population (human mobility) in shaping the geographical patterns of COVID-19 cases across 1,055 countries/regions, and examined the sequential shift of multiple drivers of the accumulated cases from December, 2019 to April 12, 2020. The accumulated numbers of COVID-19 cases (per 1 million population) were well explained by a simple regression model. The explanatory power (R2) of the model increased up to > 70% in April 2020 as the COVID-19 spread progressed. Climate, host mobility, and host susceptibility largely explained the variance of the COVID-19 cases (per 1 million population), and their explanatory power improved as the pandemic progressed; the relative importance of host mobility and host susceptibility have been greater than that of climate. The number of days from outbreak onset showed greater explanatory power in the earlier stages of COVID-19 spread but rapidly lost its influence. Our findings demonstrate that the COVID-19 pandemic is deterministically driven by climate suitability, cross-border human mobility, and region-specific susceptibility. The present distribution of COVID-19 cases has not reached an equilibrium and is changing daily, especially in the Southern Hemisphere. Nevertheless, the present results, based on mapping the spread of COVID-19 and identifying multiple drivers of this outbreak trajectory, may contribute to a better understanding of the COVID-19 disease transmission risk and the measures against long-term epidemic.",
+    "author": "Takayuki Shiono; Buntarou Kusumoto; Junichi Fujinuma; Yasuhiro Kubota",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072157",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072157"
+    },
+    "title": "Multiple drivers of the COVID-19 spread: role of climate, international mobility, and region-specific conditions",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This study was done voluntarily without public fund."
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "abstract": "We estimate the effective reproduction number for 2019-nCoV based on the daily reported cases from China CDC. The results indicate that 2019-nCoV has a higher effective reproduction number than SARS with a comparable fatality rate.\nCompeting Interest Statement\nThe authors have declared no competing interest.",
+    "affiliations": [
+        "National Natural Science Foundation of China (71621002, 71771213, 71790615, 71972164 and 91846301), Chinese Academy of Sciences (ZDRW-XH-2017-3), and the Hunan Science and Technology Plan Project (2017RS3040, 2018JJ1034)"
+    ],
+    "author": "Hongbing Song; Zhongwei Jia; Dirk Pfeiffer; Qingpeng Zhang; Daniel Dajun Zeng; Zhidong Cao; Xin Lu",
+    "date": 2020,
+    "doi": "10.1101/2020.01.27.20018952",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.01.27.20018952"
+    },
+    "title": "Estimating the effective reproduction number of the 2019-nCoV in China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministry of Science and Technology",
+                    "award-id": [
+                        "2016QY02D0305"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "71621002",
+                        "71771213",
+                        "71790615",
+                        "71972164",
+                        "91846301"
+                    ]
+                },
+                {
+                    "funding-source": "Chinese Academy of Sciences",
+                    "award-id": [
+                        "ZDRW-XH-2017-3"
+                    ]
+                },
+                {
+                    "funding-source": "Hunan Science and Technology Plan Project",
+                    "award-id": [
+                        "2017RS3040",
+                        "2018JJ1034"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported in part by grants from the Ministry of Science and Technology (2016QY02D0305), National Natural Science Foundation of China (71621002, 71771213, 71790615, 71972164 and 91846301), Chinese Academy of Sciences (ZDRW-XH-2017-3), and the Hunan Science and Technology Plan Project (2017RS3040, 2018JJ1034)"
+        }
+    ]
+}

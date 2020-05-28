@@ -1,0 +1,32 @@
+{
+    "title": "SARS-CoV-2 genomes recovered by long amplicon tiling multiplex approach using nanopore sequencing and applicable to other sequencing platforms",
+    "author": "Paola Resende",
+    "date": 2020,
+    "affiliations": [
+        "1 \u2013 Laboratory of Respiratory Viruses and Measles, Oswaldo Cruz Institute, FIOCRUZ, Brazil. 2 \u2013 University College London, United Kingdom. 3 \u2013 Laboratory of Flaviviruses, Oswaldo Cruz Institute, FIOCRUZ, Brazil. 4 \u2013 Laborat\u00f3rio de Gen\u00e9tica Celular",
+        "Molecular, ICB, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil 5 \u2013 Great Ormond Street Hospital, United Kingdom 6 \u2013 National Coordination of Laboratories, Brazilian Ministry of Health, Bras\u00edlia, Brazil 7 \u2013 Pathogen Genomics Unit, University College London, United Kingdom",
+        "National Reference laboratory at FIOCRUZ in Brazil. This protocol was further optimised for higher throughput sequencing at University College London Pathogen Genomics Unit and UCL Genomics to sequence genomes for the COVID-19 Genomics UK Consortium (COGUK)"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.30.069039",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.30.069039.pdf"
+    },
+    "abstract": "Genomic surveillance has become a useful tool for better understanding virus pathogenicity, origin and spread. Obtaining accurately assembled, complete viral genomes directly from clinical samples is still a challenging. Here, we describe three protocols using a unique primer set designed to recover long reads of SARS-CoV-2 directly from total RNA extracted from clinical samples. This protocol is useful, accessible and adaptable to laboratories with varying resources and access to distinct sequencing methods: Nanopore, Illumina and/or Sanger.",
+    "keywords": [
+        "Coronavirus",
+        "Nanopore",
+        "GridION",
+        "MinION",
+        "Illumina",
+        "High-throughput sequencing",
+        "Long reads",
+        "Whole genome",
+        "SARS-CoV-2"
+    ],
+    "funding": [
+        {}
+    ]
+}

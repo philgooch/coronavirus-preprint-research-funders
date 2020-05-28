@@ -1,0 +1,44 @@
+{
+    "title": "COVID-19 epidemic: Power law spread and flattening of the curve",
+    "date": 2020,
+    "author": "Mahendra K. Verma \u00b7 Ali Asad \u00b7 Soumyadeep Chatterjee",
+    "affiliations": [
+        "Verma Department of Physics, Indian Institute of Technology Kanpur, Kanpur 208016, India Tel.: +512-2597396",
+        "Ali Asad Department of Physics, Indian Institute of Technology Kanpur, Kanpur 208016, India"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.02.20051680",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20051680.pdf"
+    },
+    "abstract": "In this paper, we analyze the real-time infection data of COVID-19 epidemic for nine nations. Our analysis is up to 7 April 2020. For China and South Korea, who have already flattened their infection curves, the number of infected individuals (I(t)) exhibits power-law behavior before flattening of the curve. Italy has transitioned to the power-law regime for some time. For the other six nations\u2014USA, Spain, Germany, France, Japan, and India\u2014a power-law regime is beginning to appear after exponential growth. We argue that the transition from an exponential regime to a powerlaw regime may act as an indicator for flattening of the epidemic curve. We also argue that long-term community transmission and/or the transmission by asymptomatic carriers traveling long distances may be inducing the power-law growth of the epidemic.",
+    "keywords": [
+        "COVID-19",
+        "Epidemic spread",
+        "Power law growth"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ali Asad",
+                    "award-id": [
+                        "61041"
+                    ]
+                },
+                {
+                    "funding-source": "Soumyadeep Chatterjee",
+                    "award-id": [
+                        "IF180094"
+                    ]
+                },
+                {
+                    "funding-source": "Department of Science & Technology, India"
+                }
+            ],
+            "funding-statement": "Ali Asad is supported by Indo-French (CEFIPRA) project 61041, and Soumyadeep Chatterjee is supported by INSPIRE fellowship (IF180094) of Department of Science & Technology, India"
+        }
+    ]
+}

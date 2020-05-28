@@ -1,0 +1,26 @@
+{
+    "abstract": "Despite the potential relevance to clinical outcome, intra-host dynamics of SARS-CoV-2 are unclear. Here, we quantify and characterize intra-host variation in SARS-CoV-2 raw sequence data uploaded to SRA as of 14 April 2020, and compare results between two sequencing methods (amplicon and RNA-Seq). Raw fastq files were quality filtered and trimmed using Trimmomatic, mapped to the WuhanHu1 reference genome using Bowtie2, and variants called with bcftools mpileup. To ensure sufficient coverage, we only included samples with 10X coverage for >90% of the genome (n=406 samples), and only variants with a depth >=10. Derived (i.e. non-reference) alleles were found at 408 sites. The number of polymorphic sites (i.e. sites with multiple alleles) within samples ranged from 0-13, with 72% of samples (295/406) having at least one polymorphic site. Correlation between number of polymorphic sites and coverage was very low for both sequencing methods (R2 < 0.1, p < 0.05). Polymorphisms were observed >1 sample at 66 sites (range: 2-38 samples). The minor allele frequency (MAF) at each shared polymorphic site was 0.03% - 48.5%. 33/66 sites occurred in ORF1a1b, and 37/66 changes were non-synonymous. At 10/66 sites, derived alleles were found in samples sequenced using both methods. Polymorphic amplicon samples were found at 10/10 positions, while polymorphic RNA-Seq samples were found at 7/10 positions. In conclusion, our results suggest that intra-host variation is prevalent among clinical samples. While mutations resulting from amplification and/or sequencing errors cannot be excluded, the observation of shared polymorphic sites with high MAF across multiple samples and sequencing methods is consistent with true underlying variation. Further investigation into intra-host evolutionary dynamics, particularly with longitudinal sampling, is critical for broader understanding of disease progression.",
+    "affiliations": [
+        "National Science Foundation SBIR award, (#1830867)"
+    ],
+    "author": "Susanna L Lamers; Rebecca Rose; Julia Garcia-Diaz; Sissy Cross; David J Nolan; Amy Feehan; Samual Moot",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078691",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078691"
+    },
+    "title": "Intra-host site-specific polymorphisms of SARS-CoV-2 is consistent across multiple samples and methodologies",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science Foundation SBIR",
+                    "award-id": [
+                        "#1830867"
+                    ]
+                }
+            ],
+            "funding-statement": "SLL was the recipient of a National Science Foundation SBIR award, (#1830867)."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "title": "Structure-Guided Mutagenesis Alters Deubiquitinating Activity and Attenuates Pathogenesis of a Murine Coronavirus",
+    "author": "Baker, Susan",
+    "date": 2020,
+    "affiliations": [
+        "Department of Microbiology and Immunology, Loyola University Chicago, Stritch School of",
+        "Department of Biological Sciences, Purdue University, West Lafayette",
+        "Department of Biochemistry, Purdue University, West Lafayette, IN"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/782409",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/782409.pdf"
+    },
+    "abstract": "Coronaviruses express a multifunctional papain-like protease, termed PLP2. PLP2 acts as a protease that cleaves the viral replicase polyprotein, and a deubiquitinating (DUB) enzyme which removes ubiquitin moieties from ubiquitin-conjugated proteins. Previous in vitro studies implicated PLP2 DUB activity as a negative regulator of the host interferon (IFN) response, but the role of DUB activity during virus infection was unknown. Here, we used X-ray structureguided mutagenesis and functional studies to identify amino acid substitutions within the ubiquitin-binding surface of PLP2 that reduced DUB activity without affecting polyprotein processing activity. We engineered a DUB mutation (Asp1772 to Ala) into a murine coronavirus and evaluated the replication and pathogenesis of the DUB mutant virus (DUBmut) in cultured macrophages and in mice. We found that the DUBmut virus replicates similarly as the wild-type virus in cultured cells, but the DUBmut virus activates an IFN response at earlier times compared to the wild-type virus infection in macrophages, consistent with DUB activity negatively regulating the IFN response. We compared the pathogenesis of the DUBmut virus to the wild-type virus and found that the DUBmut-infected mice had a statistically significant reduction (p<0.05)",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "AI085089"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI085089"
+                    ]
+                },
+                {
+                    "funding-source": "SCB and ADM)"
+                }
+            ],
+            "funding-statement": "This work was supported by the National Institutes of Health (NIH) grant R01 AI085089 (to SCB and ADM)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "Training Grant for Experimental Immunology",
+                    "award-id": [
+                        "#AI007508"
+                    ]
+                }
+            ],
+            "funding-statement": "MH and RCM were supported by NIH T32 Training Grant for Experimental Immunology (#AI007508) and RCM was supported by the Arthur J"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "MEC was supported by an"
+        }
+    ]
+}

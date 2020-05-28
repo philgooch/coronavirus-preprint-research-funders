@@ -1,0 +1,16 @@
+{
+    "abstract": "The Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has highlighted the need for the development of prompt mitigating responses under conditions of high uncertainty. Fundamental to the design of rapid state reactions is the ability to perform epidemiological model parameter inference for localised trajectory predictions. In this work, we perform Bayesian parameter inference using Markov Chain Monte Carlo (MCMC) methods on the Susceptible-Infected-Recovered (SIR) and Susceptible-Exposed-Infected-Recovered (SEIR) epidemiological models with time-varying spreading rates for South Africa. The results find two change points in the spreading rate of COVID-19 in South Africa as inferred from the confirmed cases. The first change point coincides with state enactment of a travel ban and the resultant containment of imported infections. The second change point coincides with the start of a state-led mass screening and testing programme which has highlighted community-level disease spread that was not well represented in the initial largely traveller based and private laboratory dominated testing data. The results further suggest that due to the likely effect of the national lockdown, community level transmissions are slower than the original imported case driven spread of the disease.",
+    "author": "Tshilidzi Marwala; Rendani Mbuvha",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083873",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083873"
+    },
+    "title": "Bayesian Inference of COVID-19 Spreading Rates in South Africa",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

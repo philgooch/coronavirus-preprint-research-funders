@@ -1,0 +1,254 @@
+{
+    "abstract": "Importance: An early minimally symptomatic phase is often followed by deterioration in patients with COVID-19 infection. This study shows that the addition of age and a minimal set of common blood tests taken in patients on admission to hospital significantly improves the National Early Warning Score (NEWS2) for risk-stratification of severe COVID disease. Objective: To supplement the NEWS2 score with a small number of easily obtained additional demographic, physiological and blood variables indicative of severity of COVID-19 infection. Design: Retrospective observational cohort with internal and temporal held-out external validation. Setting: Acute secondary care. Participants: 708 patients admitted to an acute multi-site UK NHS hospital with confirmed COVID-19 disease from 1st March to 5th April 2020. Intervention: Not applicable. Main outcome and measures: The primary outcome was patient status at 14 days after symptom onset categorised as severe disease (WHO-COVID-19 Outcomes Scales 6-8: i.e. transferred to intensive care unit or death). 218 of the 708 patients reached the primary end point. A range of physiological and blood biomarkers as well age, gender, ethnicity and comorbidities (hypertension, diabetes, heart, respiratory and kidney diseases) were assessed for their association with the primary outcome. Results: NEWS2 total score on admission was a weak predictor for severity of COVID-19 infection at 14 days (internally validated AUC = 0.628). The addition of age and common blood tests (CRP, neutrophil count, estimated GFR and albumin) provided substantial improvements to a risk stratification model but performance was still only moderate (AUC = 0.75). Common comorbidities hypertension, diabetes, heart, respiratory and kidney diseases have minor additional predictive value. Conclusions and relevance: Adding age and a minimal set of common blood parameters to NEWS2 improves the risk stratification of patients likely to develop severe COVID-19 outcomes. The addition of a few common parameters is likely to be much easier to implement in a short time-scale than a novel risk-scoring system.",
+    "affiliations": [
+        "College London MRC Skills Development Fellowship programme funded by the UK Medical Research Council (MRC, https://mrc.ukri.org) and by grant IS-BRC-1215-20018 for the National Institute for Health Research (NIHR, https://www.nihr.ac.uk) Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King\u0092s College London. RJBD is supported by:",
+        "Health Data Research UK, which is funded by the UK Medical Research Council, Engineering and Physical Sciences Research Council, Economic and Social Research Council, Department of Health and Social Care (England), Chief Scientist Office of the Scottish Government Health and Social Care Directorates, Health and Social Care Research and Development Division (Welsh Government), Public Health Agency (Northern Ireland), British Heart Foundation and Wellcome Trust",
+        "The",
+        "The National Institute for Health Research University College London Hospitals Biomedical Research Centre",
+        "National Institute for Health Research (NIHR) Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King\u0092s College London. KO\u0092G is supported by an MRC Clinical Training Fellowship. RZ is supported by",
+        "King\u0092s Prize Fellowship. AS is supported by"
+    ],
+    "author": "Daniel Stahl; Rosita Zakeri; Ajay Shah; Anthony Shek; Zeljko Kraljevic; Andrew Pickles; Kevin O'Gallagher; Ewan Carr; Thomas Searle; Rebecca Bendayan; Daniel Bean; James T Teo; Richard Dobson",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078006",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078006"
+    },
+    "title": "Supplementing the National Early Warning Score (NEWS2) for anticipating early deterioration among patients with COVID-19 infection",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "JTHT received research support and funding from InnovateUK, Bristol-Myers-Squibb, iRhythm Technologies, and holds shares"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UKRI Innovation Fellowship",
+                    "award-id": [
+                        "MR/S0031"
+                    ]
+                },
+                {
+                    "funding-source": "Health Data Research UK",
+                    "award-id": [
+                        "MR/S00310X/1",
+                        "https://www.hdruk.ac.uk"
+                    ]
+                }
+            ],
+            "funding-statement": "DMB is funded by a UKRI Innovation Fellowship as part of Health Data Research UK MR/S00310X/1 (https://www.hdruk.ac.uk)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "College London MRC Skills Development Fellowship"
+                },
+                {
+                    "funding-source": "UK Medical Research Council",
+                    "award-id": [
+                        "https://mrc.ukri.org",
+                        "IS-BRC-1215-20018"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute for Health Research",
+                    "award-id": [
+                        "https://www.nihr.ac.uk"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "South London and Maudsley NHS Foundation Trust and"
+                },
+                {
+                    "funding-source": "College London"
+                }
+            ],
+            "funding-statement": "RB is funded in part by grant MR/R016372/1 for the King\u0092s College London MRC Skills Development Fellowship programme funded by the UK Medical Research Council (MRC, https://mrc.ukri.org) and by grant IS-BRC-1215-20018 for the National Institute for Health Research (NIHR, https://www.nihr.ac.uk) Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King\u0092s College London"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "RJBD is supported by: 1"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "This Joint Undertaking"
+                },
+                {
+                    "funding-source": "DE Grobbee and SD Anker,"
+                }
+            ],
+            "funding-statement": "This Joint Undertaking receives support from the European Union\u0092s Horizon 2020 research and innovation programme and EFPIA; it is chaired by DE Grobbee and SD Anker, partnering with 20 academic and industry partners and ESC. 3"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Prize Fellowship"
+                }
+            ],
+            "funding-statement": "RZ is supported by a King\u0092s Prize Fellowship"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Trust"
+                }
+            ],
+            "funding-statement": "AS is supported by a King\u0092s Medical Research Trust studentship"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "British Heart Foundation",
+                    "award-id": [
+                        "CH/1999001/11735"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "NHS Foundation Trust and",
+                    "award-id": [
+                        "IS-BRC-1215-2000"
+                    ]
+                },
+                {
+                    "funding-source": "College London",
+                    "award-id": [
+                        "IS-BRC-1215-20006"
+                    ]
+                },
+                {
+                    "funding-source": "Fondation Leducq"
+                }
+            ],
+            "funding-statement": "KO is supported by grant MR/R017751/1 AMS is supported by the British Heart Foundation (CH/1999001/11735), the National Institute for Health Research (NIHR) Biomedical Research Centre at Guy\u0092s & St Thomas\u0092 NHS Foundation Trust and King\u0092s College London (IS-BRC-1215-20006), and the Fondation Leducq"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "NF-SI-0617-10120"
+                    ]
+                }
+            ],
+            "funding-statement": "AP is partially supported by NIHR NF-SI-0617-10120"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "University College London Hospitals"
+                },
+                {
+                    "funding-source": "Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "Clinical and Research Informatics Unit"
+                },
+                {
+                    "funding-source": "NIHR Health Informatics Collaborative"
+                },
+                {
+                    "funding-source": "Institute of Health Informatics"
+                },
+                {
+                    "funding-source": "University College London"
+                }
+            ],
+            "funding-statement": "This work was supported by the National Institute for Health Research (NIHR) University College London Hospitals (UCLH) Biomedical Research Centre (BRC) Clinical and Research Informatics Unit (CRIU), NIHR Health Informatics Collaborative (HIC), and by awards establishing the Institute of Health Informatics at University College London (UCL)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Health Data Research UK,"
+                },
+                {
+                    "funding-source": "UK Medical Research Council, Engineering"
+                },
+                {
+                    "funding-source": "Physical Sciences Research Council, Economic"
+                },
+                {
+                    "funding-source": "Social Research Council, Department",
+                    "award-id": [
+                        "England"
+                    ]
+                },
+                {
+                    "funding-source": "Health and Social Care",
+                    "award-id": [
+                        "England"
+                    ]
+                },
+                {
+                    "funding-source": "Chief Scientist Office of the Scottish Government Health and Social Care Directorates, Health"
+                },
+                {
+                    "funding-source": "Social Care Research and Development Division",
+                    "award-id": [
+                        "Welsh Government"
+                    ]
+                },
+                {
+                    "funding-source": "Welsh Government)"
+                },
+                {
+                    "funding-source": "Public Health Agency",
+                    "award-id": [
+                        "Northern Ireland"
+                    ]
+                },
+                {
+                    "funding-source": "Northern Ireland)"
+                },
+                {
+                    "funding-source": "British Heart Foundation and the Wellcome Trust"
+                }
+            ],
+            "funding-statement": "This work was also supported by Health Data Research UK, which is funded by the UK Medical Research Council, Engineering and Physical Sciences Research Council, Economic and Social Research Council, Department of Health and Social Care (England), Chief Scientist Office of the Scottish Government Health and Social Care Directorates, Health and Social Care Research and Development Division (Welsh Government), Public Health Agency (Northern Ireland), British Heart Foundation and the Wellcome Trust"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Biomedical Research Centres"
+                },
+                {
+                    "funding-source": "South London and Maudsley NHS Foundation Trust,"
+                },
+                {
+                    "funding-source": "NHS Foundation Trust,"
+                },
+                {
+                    "funding-source": "College London"
+                }
+            ],
+            "funding-statement": "This paper represents independent research part funded by the National Institute for Health Research (NIHR) Biomedical Research Centres at South London and Maudsley NHS Foundation Trust, and Guy\u0092s & St Thomas\u0092 NHS Foundation Trust, both with King\u0092s College London"
+        }
+    ]
+}

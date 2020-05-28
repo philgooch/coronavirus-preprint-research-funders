@@ -1,0 +1,20 @@
+{
+    "abstract": "We investigate the age structured data for the COVID-19 outbreak in Japan. We consider epidemic mathematical model with unreported infectious patient with and without age structure. In particular, we build a new mathematical model which allows to take into account differences in the response of patients to the disease according to their age. This model also allows for a heterogeneous response of the population to the social distancing measures taken by the local government. We fit this model to the observed data and obtain a snapshot of the effective transmissions occurring inside the population at different times, which indicates where and among whom the disease propagates after the start of the public measures.",
+    "author": "Ousmane Seydi; quentin griette; pierre magal",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20093807",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20093807"
+    },
+    "title": "Unreported cases for Age Dependent COVID-19 Outbreak in Japan",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "MPCUII"
+                }
+            ],
+            "funding-statement": "ANR flash COVID-19: MPCUII"
+        }
+    ]
+}

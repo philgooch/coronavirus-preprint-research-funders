@@ -1,0 +1,38 @@
+{
+    "abstract": "This paper focuses on the formulation of a deterministic COVID-19 transmission model by considering the exposed and recovered populations with immunity. The scenario of the simulation is depicted based on the patient zero in Malaysia. The transmission model is found to be able to predict the next confirmed case given a single case is introduced in a fully susceptible population. The mathematical model is developed based on the SEIR model which has susceptible, exposed, infectious and recovered populations. The system of equations which were obtained were solved numerically and the simulation results were analyzed. The analysis includes the impact of the disease if no control is taken.",
+    "affiliations": [
+        "The authors thank Universiti Malaysia Sarawak for the support rendered for postgraduate studies, the Sarawak Multimedia Authority for the research grant numbered RG/F08/SMA/05/2018 entitled Decision Analytics for Disease Alerts. Our heartfelt thanks also go to Malaysia Ministry of Health, Malaysia Department of Statistics for publishing the required research data"
+    ],
+    "author": "Jane Labadin; Boon Hao Hong",
+    "date": 2020,
+    "doi": "10.1101/2020.02.07.20021188",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.07.20021188"
+    },
+    "title": "Transmission Dynamics of COVID-19 in Malaysia Prior to the Movement Control Order",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Universiti Malaysia Sarawak for the"
+                },
+                {
+                    "funding-source": "Sarawak Multimedia Authority for the",
+                    "award-id": [
+                        "RG/F08/SMA/05/2018"
+                    ]
+                },
+                {
+                    "funding-source": "Decision Analytics for Disease Alerts. Our"
+                },
+                {
+                    "funding-source": "Malaysia Ministry of Health, Malaysia"
+                },
+                {
+                    "funding-source": "Department of Statistics for"
+                }
+            ],
+            "funding-statement": "The authors thank Universiti Malaysia Sarawak for the support rendered for postgraduate studies, the Sarawak Multimedia Authority for the research grant numbered RG/F08/SMA/05/2018 entitled Decision Analytics for Disease Alerts. Our heartfelt thanks also go to Malaysia Ministry of Health, Malaysia Department of Statistics for publishing the required research data."
+        }
+    ]
+}

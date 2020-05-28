@@ -1,0 +1,26 @@
+{
+    "abstract": "Background: Environmental factors, including air pollution, can strongly impact on spatio-temporal patterns of infectious diseases outbreak. In this study, we aimed to investigate the association and correlation between ambient air pollutants and case fatality rate (CFR) of the novel coronavirus disease (COVID-19) in China.Methods: Publicly accessible data on COVID-19 average CFR were utilized in the data analysis.The ambient daily air pollution including fine particulate matter(PM2.5), inhalable particles(PM10)and nitrogen dioxide(NO2)during the period from December 25,2019 to March 5,2020 were obtained from National Air Quality Real-time Publishing System of China.Ecological analysis was performed to explore the association and correlation between the cumulative average exposure of ambient air pollutants at different lags(14 and 28 days)and average CFR in China outside Hubei and cities in Hubei provinces via model fitting.Results:The average case fatality rate was highest in Wuhan city(4.53%) and the cumulative average exposure of ambient PM2.5, PM10 and NO2 at lag 28 days was 55.8\u00b1 12.1\u03bcg/m3,66.8\u00b19.2\u03bcg/m3, 20.7\u00b14.4\u03bcg/m3, respectively in Hubei province during the study period.Ecological analysis showed that ambient PM2.5, PM10 and NO2 exposure at both lag 14 and 28 days was positively correlated with average CFR in China outside Hubei(province-level).For city-level analysis in Hubei,significant associations were only found between cumulative ambient NO2 exposure and average CFR(r=0.693 for Lag0-14,r=0.697 for Lag0-28,respectively)during the same period.Conclusions: Our findings suggest ambient PM2.5, PM10 and NO2 exposure, especially at 28 lag days,positively associated with the case fatality rate of COVID-19 in China.These results could help provide guidance for identifying potential exposure windows and preventing and controlling the epidemic.\nCompeting Interest Statement\nThe authors have declared no competing interest.",
+    "affiliations": [
+        "National Natural Science Foundation of China (Grant nu :71874033)"
+    ],
+    "author": "Yongzhen Li; Wenming Shi; Li Luo; Tiantian Zhang; Guoli Zhao",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20088682",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20088682"
+    },
+    "title": "Associations between ambient air pollutants exposure and case fatality rate of COVID-19: a multi-city ecological study in China.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "nu :71874033"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by the National Natural Science Foundation of China (Grant nu :71874033)"
+        }
+    ]
+}

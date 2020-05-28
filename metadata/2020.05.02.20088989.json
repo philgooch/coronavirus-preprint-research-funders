@@ -1,0 +1,16 @@
+{
+    "abstract": "During the outbreak of an epidemic, it is of immense interest to monitor the effects of containment measures and forecast of outbreak including epidemic peak. To confront the epidemic, a simple S I R model is used to simulate the number of affected patients of Coronavirus disease in Romania and Pakistan. The model captures the growth in case onsets and the estimated results are almost compatible with the actual reported cases. Through the calibration of parameters, forecast for the appearance of new cases in Romania and Pakistan is reported till the end of this year by analysing the current situation. The constant level of number of patients and time-to-reach this level is also reported through the simulations. The drastic condition is also discussed which may occur if all the preventive restraints are removed.",
+    "author": "Mureed Hussain; Muhammad Ozair; Takasar Hussain; Aziz Ullah Awan; Dumitru Baleanu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20088989",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20088989"
+    },
+    "title": "Estimation of Transmission Potential and Severity of COVID-19 in Romania and Pakistan",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Authors declare that there is no funding."
+        }
+    ]
+}

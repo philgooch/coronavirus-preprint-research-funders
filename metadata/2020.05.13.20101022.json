@@ -1,0 +1,16 @@
+{
+    "abstract": "Background. Knowing the true infected and symptomatic case fatality ratios (IFR and CFR) for COVID-19 is of high importance for epidemiological model projections. A large correction factor is usually applied for missed cases. For the United State reported CFR of 5.96%, the estimated IFR values are 10-50-fold lower, justified by early reported CFR values of 0.1% to 0.5% in countries with more extensive testing. However, since then these values have risen 5 to 10-fold. We analyzed their age dependent CFR time courses to explain this increase and to determine whether a common factor can explain their CFRs. Methods. Age dependent time to fatality corrected CFR was calculated using two independent methods. A linear model was developed that predicts CFR based on age dependent CFR coefficients and the age distribution of cases. The model was tested by a linear regression of each country's CFR against case percentage of 70 years and over. The model was further tested by calculating the percent of the population in New York City who have been infected. Results. Corrected CFR values ranged from 0.58% to 5.0%. The large majority of CFR variation was explained by case age distribution above 70 years old. Using the CFR derived from the linear model we predicted between 14.7% and 22% of the adult population in NYC had been infected by COVID-19, in agreement with random testing studies (15.3% - 21%). Conclusions. The large rise in the reported CFR is due to the delay time between infection/diagnosis and fatality with COVID-19. The linear model based on their age specific CFR values provides an alternative method for calculating the true CFR in other regions. Most of the variation in CFR between countries was dependent on case age distribution, which must be considered in measures for mitigating the extensive impacts of the pandemic.",
+    "author": "Douglas L Rothman; Jessica Rothman; Theodore Holford; David Eidelberg; Samantha Rothman",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20101022",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20101022"
+    },
+    "title": "Analysis of the time and age dependence of the case-fatality-ratio for COVID-19 in seven countries with a high total-to-positive test ratio suggests that the true CFR may be significantly underestimated for the United States in current models",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors did not receive any external funding for this work."
+        }
+    ]
+}

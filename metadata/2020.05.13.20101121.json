@@ -1,0 +1,50 @@
+{
+    "abstract": "As the SARS-CoV-2 pandemic continues its rapid global spread, quantification of local transmission patterns has been, and will continue to be, critical for guiding pandemic response. Understanding the accuracy and limitations of statistical methods to estimate the reproduction number, R0, in the context of emerging epidemics is therefore vital to ensure appropriate interpretation of results and the subsequent implications for control efforts. Using simulated epidemic data we assess the performance of 6 commonly-used statistical methods to estimate R0 as they would be applied in a real-time outbreak analysis scenario - fitting to an increasing number of data points over time and with varying levels of random noise in the data. Method comparison was also conducted on empirical outbreak data, using Zika surveillance data from the 2015-2016 epidemic in Latin America and the Caribbean. We find that all methods considered here frequently over-estimate R0 in the early stages of epidemic growth on simulated data, the magnitude of which decreases when fitted to an increasing number of time points. This trend of decreasing bias over time can easily lead to incorrect conclusions about the course of the epidemic or the need for control efforts. We show that true changes in pathogen transmissibility can be difficult to disentangle from changes in methodological accuracy and precision, particularly for data with significant over-dispersion. As localised epidemics of SARS-CoV-2 take hold around the globe, awareness of this trend will be important for appropriately cautious interpretation of results and subsequent guidance for control efforts.",
+    "affiliations": [
+        "UK Department for International Development (DFID) under the MRC/DFID Concordat agreement and is also part of the EDCTP2 programme supported by the European Union (MO, CAD, AC, ID); the Fondation Math\u00e9matiques Jacques Hadamard (CH); the Imperial College Undergraduate Research Opportunity Programme (CH); the Imperial College Junior Research Fellowship, Wellcome Trust and the Royal Society [grant 213494/Z/18/Z] (ID)"
+    ],
+    "author": "Anne Cori; Ilaria Dorigatti; Christl A. Donnelly; Carole Harry; Megan O'Driscoll",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20101121",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20101121"
+    },
+    "title": "A comparative analysis of statistical methods to estimate the reproduction number in emerging epidemics with implications for the current COVID-19 pandemic",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "UK Medical Research Council"
+                },
+                {
+                    "funding-source": "UK Department for International Development",
+                    "award-id": [
+                        "MRC/D"
+                    ]
+                },
+                {
+                    "funding-source": "DFID Concordat"
+                },
+                {
+                    "funding-source": "European Union"
+                },
+                {
+                    "funding-source": "Fondation Math\u00e9matiques Jacques Hadamard"
+                },
+                {
+                    "funding-source": "Imperial College Undergraduate Research Opportunity Programme"
+                },
+                {
+                    "funding-source": "Imperial College Junior Research Fellowship, Wellcome"
+                },
+                {
+                    "funding-source": "Trust and the Royal Society",
+                    "award-id": [
+                        "213494/Z/18/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "This work is jointly funded by the UK Medical Research Council (MRC) and the UK Department for International Development (DFID) under the MRC/DFID Concordat agreement and is also part of the EDCTP2 programme supported by the European Union (MO, CAD, AC, ID); the Fondation Math\u00e9matiques Jacques Hadamard (CH); the Imperial College Undergraduate Research Opportunity Programme (CH); the Imperial College Junior Research Fellowship, Wellcome Trust and the Royal Society [grant 213494/Z/18/Z] (ID)"
+        }
+    ]
+}

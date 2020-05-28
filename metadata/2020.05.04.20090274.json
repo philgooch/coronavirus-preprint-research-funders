@@ -1,0 +1,16 @@
+{
+    "abstract": "Purpose Given incomplete data reporting by race, we used data on COVID-19 cases and deaths in US counties to describe racial disparities in COVID-19 disease and death and associated determinants. Methods Using publicly available data (accessed April 13, 2020), predictors of COVID-19 cases and deaths were compared between disproportionately (>13%) black and all other (<13% black) counties. Rate ratios were calculated and population attributable fractions (PAF) were estimated using COVID-19 cases and deaths via zero-inflated negative binomial regression model. National maps with county-level data and an interactive scatterplot of COVID-19 cases were generated. Results Nearly ninety-seven percent of disproportionately black counties (656/677) reported a case and 49% (330/677) reported a death versus 81% (1987/2,465) and 28% (684/ 2465), respectively, for all other counties. Counties with higher proportions of black people have higher prevalence of comorbidities and greater air pollution. Counties with higher proportions of black residents had more COVID-19 diagnoses (RR 1.24, 95% CI 1.17-1.33) and deaths (RR 1.18, 95% CI 1.00-1.40), after adjusting for county-level characteristics such as age, poverty, comorbidities, and epidemic duration. COVID-19 deaths were higher in disproportionally black rural and small metro counties. The PAF of COVID-19 diagnosis due to lack of health insurance was 3.3% for counties with <13% black residents and 4.2% for counties with >13% black residents. Conclusions Nearly twenty-two percent of US counties are disproportionately black and they accounted for 52% of COVID-19 diagnoses and 58% of COVID-19 deaths nationally. County-level comparisons can both inform COVID-19 responses and identify epidemic hot spots. Social conditions, structural racism, and other factors elevate risk for COVID-19 diagnoses and deaths in black communities.",
+    "author": "Austin T Jones; Brian Honnermann; Laina Mercer; Elise Lankiewicz; Stefan D Baral; Chris Beyrer; Jennifer Sherwood; Lenandro Mena; Greg Millett; Patrick S Sullivan; David Benkeser; Jeffrey S Crowley",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090274",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090274"
+    },
+    "title": "Assessing Differential Impacts of COVID-19 on Black Communities",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

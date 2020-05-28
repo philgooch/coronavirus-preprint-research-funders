@@ -1,0 +1,37 @@
+{
+    "abstract": "Objective: Report outcomes on patients with Multiple Sclerosis (MS) and related disorders with COVID-19 illness. Methods: From March 16 to April 30th, 2020, patients with MS or related disorders at NYU Langone MS Comprehensive Care Center (MSCC) were identified with laboratory-confirmed or suspected COVID-19. The diagnosis was established using a standardized questionnaire or by a review of in-patient hospital records. Results: We identified 76 patients (55 with relapsing MS of which 9 had pediatric-onset;17 with progressive MS; and 4 with related disorders). 37 underwent PCR testing and were confirmed positive. Of the entire group, 64 (84%) patients were on disease-modifying therapy (DMT) including anti-CD20 therapies (n=34, 44.7%) and sphingosine 1-phosphate receptor modulators (n=10, 13.5%). The most common COVID-19 symptoms were fever and cough, but 21.1% of patients had neurologic symptom recrudescence preceding or coinciding with the infection. A total of 18 (23.7%) were hospitalized; 8 (10.5%) had COVID-19 critical illness or related death. Features more common among those hospitalized or with critical illness or death were older age, presence of comorbidities, progressive disease, and a non-ambulatory status. No DMT class was associated with an increased risk of hospitalization or fatal outcome. Conclusions: Most MS patients with COVID-19 do not require hospitalization despite being on DMTs. Factors associated with critical illness were similar to the general at risk patient population. DMT use did not emerge as a predictor of poor COVID-19 outcome in this preliminary sample.",
+    "author": "R.E. Charlson; Lauren B Krupp; Jonathan Howard; Marshall Keilson; Nada Abou-Fayssal; Lana Zhovtis Ryerson; Leigh Charvet; Valerie Saha; Malcolm Gottesman; Ilya Kister; Josef Maxwell Gutman; Robyn Wolintz; Carrie Sammarco; Cristina Fernandez-Carbonell; Erica Parrotta",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20094508",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20094508"
+    },
+    "title": "COVID-19 OUTCOMES IN MS: EARLY EXPERIENCE FROM NYU MULTIPLE SCLEROSIS COMPREHENSIVE CARE CENTER",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Gerson Lehman, EMD"
+                },
+                {
+                    "funding-source": "Allergan Inc."
+                },
+                {
+                    "funding-source": "Tesaro Inc"
+                }
+            ],
+            "funding-statement": "Dr Krupp has received advisory board/consulting fees, travel and meal allowances, and/or research funding from Sanofi-Aventis, Biogen, Novartis, Gerson Lehman, EMD Serono, Allergan Inc., Tesaro Inc"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Dr Zhovtis Ryerson"
+                },
+                {
+                    "funding-source": "Biogen.No"
+                }
+            ],
+            "funding-statement": "Dr Zhovtis Ryerson received personal compensation for advisory board participation for Biogen and received research support from Biogen.No other relationships or activities that could appear to have influenced the submitted work"
+        }
+    ]
+}

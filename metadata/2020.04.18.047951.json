@@ -1,0 +1,57 @@
+{
+    "title": "Significant expression of FURIN and ACE2 on oral epithelial cells may facilitate the efficiency of SARS-CoV-2 entry",
+    "author": "Mei Zhong2\u0444, Bing-peng Lin,2\u0444, Hong-bin Gao, Andrew J Young, Xin-hong Wang, Chang Liu, Kai-bin Wu, Ming-xiao Liu, Jian-ming Chen, Jiang-yong Huang, Learn-han Lee, Cui-ling Qi, Lin-hu Ge, Li-jing Wang",
+    "date": 2020,
+    "affiliations": [
+        "Stomatology Hospital of Guangzhou Medical University, Guangzhou 510140, China",
+        "State Key Laboratory of Basic and Applied Research in Oral Regenerative Medicine, Stomatology Hospital of Guangzhou Medical University, Guangzhou 510140, China",
+        "Guangdong Laboratory Animals Monitoring Institute, Key Laboratory of Guangdong Laboratory Animals, Guangzhou 510663, China",
+        "Columbus Inpatient Care, Grove City, OH 43123, USA",
+        "Stomatology school of Ji\u2019nan University, Guangzhou 510000, China",
+        "Novel Bacteria and Drug Discovery Research Group, School of Pharmacy, Monash University Malaysia, Bandar Sunway, Malaysia",
+        "Vascular Biology Research Institute, School of Life Sciences and Biopharmaceutics, Guangdong Pharmaceutical University, Guangzhou 510006, Guangdong, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.18.047951",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.18.047951.pdf"
+    },
+    "abstract": "Background: Leading to a sustained epidemic spread with >2,000,000 confirmed human infections, including >100,000 deaths, COVID-19 was caused by SARS-CoV-2 and resulted in acute respiratory distress syndrome (ARDS) and sepsis, which brought more challenges to the patient's treatment. The S-glycoprotein, which recognized as the key factor for the entry of SARS-CoV-2 into the cell, contains two functional domains: an ACE2 receptor binding domain and a second domain necessary for fusion of the coronavirus and cell membranes. FURIN activity, exposes the binding and fusion domains, is essential for the zoonotic transmission of SARS-CoV-2. Moreover, it has been reported that ACE2 is likely to be the receptor for SARS-CoV-2. In addition, FURIN enzyme and ACE2 receptor were expressed in airway epithelia, cardiac tissue, and enteric canals, which considered as the potential target organ of the virus. However, report about the expression of FURIN and ACE2 in oral tissues was limited. Methods: In order to investigate the potential infective channel of new coronavirus in oral cavity, we analyze the expression of ACE2 and FURIN that mediate the new coronavirus entry into host cells in oral mucosa using the public single-cell sequence datasets. Furthermore, immunohistochemical staining experiment was performed to confirm the expression of ACE2 and FURIN in the protein level.",
+    "keywords": [
+        "Covid-19",
+        "oral mucosa",
+        "scRNA-Seq",
+        "ACE2",
+        "FURIN"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding We"
+                },
+                {
+                    "funding-source": "Medical Research Foundation of Guangdong",
+                    "award-id": [
+                        "A2017583"
+                    ]
+                },
+                {
+                    "funding-source": "LBP and No",
+                    "award-id": [
+                        "A2017589"
+                    ]
+                },
+                {
+                    "funding-source": "Guangzhou Medical University",
+                    "award-id": [
+                        "02-412-B205002-1003018 to WLJ"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding We acknowledge funding from Medical Research Foundation of Guangdong province (No A2017583 to LBP and No A2017589 to ZM), and High-level university construction funding of Guangzhou Medical University (02-412-B205002-1003018 to WLJ)"
+        }
+    ]
+}

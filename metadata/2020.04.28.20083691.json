@@ -1,0 +1,35 @@
+{
+    "abstract": "The COVID-19 pandemic continues to infect millions of people worldwide. In order to curb its spread and reduce morbidity and mortality, it is essential to develop sensitive and quantitative methods that identify infected individuals and enable accurate population-wide screening of both past and present infection. Here we show that Single Molecule Array assays detect seroconversion in COVID-19 patients as soon as one day after symptom onset using less than a microliter of blood. This multiplexed assay format allows us to quantitate IgG, IgM and IgA immunoglobulins against four SARS-CoV-2 targets, thereby interrogating 12 antibody isotype-viral protein interactions to give a high resolution profile of the immune response. Using a cohort of samples collected prior to the outbreak as well as samples collected during the pandemic, we demonstrate a sensitivity of 86% and a specificity of 100% during the first week of infection, and 100% sensitivity and specificity thereafter. This assay should become the gold standard for COVID19 serological profiling and will be a valuable tool for answering important questions about the heterogeneity of clinical presentation seen in the ongoing pandemic.",
+    "affiliations": [
+        "Hospital to Quanterix Corporation"
+    ],
+    "author": "Jared E. Feldman; Edward T. Ryan; Timothy M. Caradonna; Limor Cohen; Adam M. Maley; Richelle C. Charles; Bing Chen; Blake M. Hauser; Tal Gilboa; Alana F. Ogata; Aaron G. Schmidt; David R. Walt; Yongfei Cai; Maia Norman; Jun Zhang; Galit Alter",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083691",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083691"
+    },
+    "title": "Ultra-Sensitive High-Resolution Profiling of Anti-SARS-CoV-2 Antibodies for Detecting Early Seroconversion in COVID-19 Patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Global TravEpiNet"
+                },
+                {
+                    "funding-source": "US Centers for Disease Control and Prevention",
+                    "award-id": [
+                        "U01CK000490: ETR",
+                        "T32GM007753",
+                        "AI007245",
+                        "R01AI146779"
+                    ]
+                },
+                {
+                    "funding-source": "NIAID"
+                }
+            ],
+            "funding-statement": "In addition, support came from the Global TravEpiNet (GTEN) system sponsored by the US Centers for Disease Control and Prevention (Grant No U01CK000490: ETR, RCC) as well as a T32GM007753 grant from NIGMS, a T32 AI007245 from NIAID, and an R01AI146779 from NIAID"
+        }
+    ]
+}

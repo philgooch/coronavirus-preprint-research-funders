@@ -1,0 +1,23 @@
+{
+    "abstract": "An indirect immunofluorescent assay was developed in order to assess the serological status of 888 RT-PCR-confirmed COVID-19 patients (1,302 serum samples) and controls in Marseille, France. Incorporating an inactivated clinical SARS CoV-2 isolate as the antigen, the specificity of the assay was measured as 100% for IgA titre \u2265 1:200; 98.6% for IgM titre \u2265 1:200; and 96.3% for IgG titre \u2265 1:100 after testing a series of negative controls as well as 150 serums collected from patients with non-SARS-CoV-2 Coronavirus infection, non-Coronavirus pneumonia and infections known to elicit false-positive serology. Seroprevalence was then measured at 3% before a five-day evolution up to 47% after more than 15 days of evolution. We observed that the seroprevalence as well as the titre of specific antibodies were both significantly higher in patients with a poor clinical outcome than in patients with a favourable evolution. These data, which have to be integrated into the ongoing understanding of the immunological phase of the infection, suggest that serotherapy may not be a therapeutic option in patients with severe COVID-19 infection. The IFA assay reported here is useful for monitoring SARS-CoV-2 exposure at the individual and population levels.",
+    "author": "Philippe GAUTRET; Philippe PAROLA; Philippe COLSON; Bernard LA SCOLA; Herve TISSOT DUPONT; Laurence THOMAS; Jean-Christophe LAGIER; Sophie EDOUARD; Matthieu MILLION; Didier RAOULT; Philippe BROUQUI; Andreas STEIN; Clea melenotte; Michel Drancourt; Fabrizio De Pinto",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20092064",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092064"
+    },
+    "title": "Evaluating the serological status of COVID-19 patients using an indirect immunofluorescent assay, France.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "M\u00e9diterran\u00e9e Infection",
+                    "award-id": [
+                        "10-IAHU-03"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded by ANR-15-CE36-0004-01 and by ANR \u0093Investissements d\u0092Avenir\u0094 M\u00e9diterran\u00e9e Infection 10-IAHU-03"
+        }
+    ]
+}

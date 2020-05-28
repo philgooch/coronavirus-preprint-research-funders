@@ -1,0 +1,28 @@
+{
+    "title": "Specific mutations in SARS-CoV2 RNA dependent RNA polymerase and helicase alter protein structure, dynamics and thus function: Effect on viral RNA replication",
+    "author": "Feroza Begum, *Debica Mukherjee, *Sandeepan Das, *Dluya Thagriki, #Prem Prakash Tripathi, #Arup Kumar Banerjee, #Upasana Ray",
+    "date": 2020,
+    "affiliations": [
+        "CSIR-Indian Institute of Chemical Biology, 4, Raja S.C., Mullick Road, Jadavpur, Kolkata-700032, West Bengal, India",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad- 201002, India",
+        "Department of Biochemistry, North Bengal Medical College and Hospital, Sushrutanagar, Siliguri734012, West Bengal, India"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.26.063024",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.26.063024.pdf"
+    },
+    "abstract": "The open reading frame (ORF) 1ab of SARS-CoV2 encodes non-structural proteins involved in viral RNA functions like translation and replication including nsp1-4; 3C like proteinase; nsp6-10; RNA dependent RNA polymerase (RdRp); helicase and 3\u2019-5\u2019 exonuclease. Sequence analyses of ORF1ab unravelled emergence of mutations especially in the viral RdRp and helicase at specific positions, both of which are important in mediating viral RNA replication. Since proteins are dynamic in nature and their functions are governed by the molecular motions, we performed normal mode analyses of the SARS-CoV2 wild type and mutant RdRp and helicases to understand the effect of mutations on their structure, conformation, dynamics and thus function. Structural analyses revealed that mutation of RdRp (at position 4715 in the context of the polyprotein/ at position 323 of RdRp) leads to rigidification of structure and that mutation in the helicase (at position 5828 of polyprotein/ position 504) leads to destabilization increasing the flexibility of the protein structure. Such structural modifications and protein dynamics alterations might alter unwinding of complex RNA stem loop structures, the affinity/ avidity of polymerase RNA interactions and in turn the viral RNA replication. The mutation analyses of proteins of the SARS-CoV2 RNA replication complex would help targeting RdRp better for therapeutic intervention.",
+    "keywords": [
+        "RdRp",
+        "helicase",
+        "structure",
+        "function",
+        "SARS-CoV2"
+    ],
+    "funding": [
+        {}
+    ]
+}

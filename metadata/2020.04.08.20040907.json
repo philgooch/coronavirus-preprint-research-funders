@@ -1,0 +1,31 @@
+{
+    "abstract": "Objectives We tested artificial intelligence (AI) to support the diagnosis of COVID-19 using chest X-ray (CXR). Diagnostic performance was computed for a system trained on CXRs of Italian subjects from two hospitals in Lombardy, Italy. Methods We used for training and internal testing an ensemble of ten convolutional neural networks (CNNs) with mainly bedside CXRs of 250 COVID-19 and 250 non-COVID-19 subjects from two hospitals. We then tested such system on bedside CXRs of an independent group of 110 patients (74 COVID-19, 36 non COVID-19) from one of the two hospitals. A retrospective reading was performed by two radiologists in the absence of any clinical information, with the aim to differentiate COVID-19 from non-COVID-19 patients. Real-time polymerase chain reaction served as reference standard. Results At 10-fold cross-validation, our AI model classified COVID-19 and non COVID-19 patients with 0.78 sensitivity (95% confidence interval [CI] 0.74-0.81), 0.82 specificity (95% CI 0.78-0.85) and 0.89 area under the curve (AUC) (95% CI 0.86-0.91). For the independent dataset, AI showed 0.80 sensitivity (95% CI 0.72-0.86) (59/74), 0.81 specificity (29/36) (95% CI 0.73-0.87), and 0.81 AUC (95% CI 0.73-0.87). Radiologists reading obtained 0.63 sensitivity (95% CI 0.52-0.74) and 0.78 specificity (95% CI 0.61-0.90) in one centre and 0.64 sensitivity (95% CI 0.52-0.74) and 0.86 specificity (95% CI 0.71-0.95) in the other. Conclusions This preliminary experience based on ten CNNs trained on a limited training dataset shows an interesting potential of AI for COVID-19 diagnosis. Such tool is in training with new CXRs to further increase its performance.",
+    "author": "Simone Schiaffino; Davide Gandola; Isabella Castiglioni; Annalisa Polidori; Cristina Messa; Christian Salvatore; Caterina Beatrice Monti; Matteo Interlenghi; Davide Ippolito; Francesco Sardanelli",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20040907",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20040907"
+    },
+    "title": "Artificial intelligence applied on chest X-ray can aid in the diagnosis of COVID-19 infection: a first experience from Lombardy, Italy",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "General Electric, Bayer"
+                }
+            ],
+            "funding-statement": "Sardanelli has received research grants from and is member of speakers\u0092 bureau and of advisory group for General Electric, Bayer, and Bracco"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Italian Ministry of Health"
+                },
+                {
+                    "funding-source": "IRCCS Ospedale San Raffaele"
+                }
+            ],
+            "funding-statement": "This study was partially supported by funding from the Italian Ministry of Health to IRCCS Ospedale San Raffaele"
+        }
+    ]
+}

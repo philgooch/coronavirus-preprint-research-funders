@@ -1,0 +1,78 @@
+{
+    "abstract": "Background: Whether angiotensin-converting enzyme (ACE) Inhibitors and angiotensin receptor blockers (ARBs) mitigate or exacerbate SARS-CoV-2 infection remains uncertain. In a national study, we evaluated the association of ACE inhibitors and ARB with coronavirus disease-19 (COVID-19) hospitalization and mortality among individuals with hypertension. Methods: Among Medicare Advantage and commercially insured individuals, we identified 2,263 people with hypertension, receiving \u22651 antihypertensive agents, and who had a positive outpatient SARS-CoV-2 test (outpatient cohort). In a propensity score-matched analysis, we determined the association of ACE inhibitors and ARBs with the risk of hospitalization for COVID-19. In a second study of 7,933 individuals with hypertension who were hospitalized with COVID-19 (inpatient cohort), we tested the association of these medications with in-hospital mortality. We stratified all our assessments by insurance groups. Results: Among individuals in the outpatient and inpatient cohorts, 31.9% and 29.8%, respectively, used ACE inhibitors and 32.3% and 28.1% used ARBs. In the outpatient study, over a median 30.0 (19.0 - 40.0) days after testing positive, 12.7% were hospitalized for COVID-19. In propensity score-matched analyses, neither ACE inhibitors (HR, 0.77 [0.53, 1.13], P = 0.18), nor ARBs (HR, 0.88 [0.61, 1.26], P = 0.48), were significantly associated with risk of hospitalization. In analyses stratified by insurance group, ACE inhibitors, but not ARBs, were associated with a significant lower risk of hospitalization in the Medicare group (HR, 0.61 [0.41, 0.93], P = 0.02), but not the commercially insured group (HR: 2.14 [0.82, 5.60], P = 0.12; P-interaction 0.09). In the inpatient study, 14.2% died, 59.5% survived to discharge, and 26.3% had an ongoing hospitalization. In propensity score-matched analyses, neither use of ACE inhibitor (0.97 [0.81, 1.16]; P = 0.74) nor ARB (1.15 [0.95, 1.38]; P = 0.15) was associated with risk of in-hospital mortality, in total or in the stratified analyses. Conclusions: The use of ACE inhibitors and ARBs was not associated with the risk of hospitalization or mortality among those infected with SARS-CoV-2. However, there was a nearly 40% lower risk of hospitalization with the use of ACE inhibitors in the Medicare population. This finding merits a clinical trial to evaluate the potential role of ACE inhibitors in reducing the risk of hospitalization among older individuals, who are at an elevated risk of adverse outcomes with the infection.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Center for Advancing Translational Sciences (UL1TR001105) of the National Institutes of Health. Dr. Lu is supported by the National Heart, Lung, and Blood Institute (K12HL138037) and the Yale Center for Implementation Science. The NIH had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication"
+    ],
+    "author": "Saad B Omer; Harlan M Krumholz; Brandon Truax; Callahan Clark; Karthik Murugiah; Deneen Vojta; Sheng Ren; Yinglong Guo; Zhenqiu Lin; Rohan Khera; Yuan Lu; Erica S Spatz",
+    "date": 2020,
+    "doi": "10.1101/2020.05.17.20104943",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.17.20104943"
+    },
+    "title": "Association of Angiotensin-Converting Enzyme Inhibitors and Angiotensin Receptor Blockers with the Risk of Hospitalization and Death in Hypertensive Patients with Coronavirus Disease-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Food and Drug Administration"
+                },
+                {
+                    "funding-source": "Yale-Mayo Clinic Center of Excellence in Regulatory Science and Innovation"
+                },
+                {
+                    "funding-source": "National Institute on Minority Health and Health Disparities",
+                    "award-id": [
+                        "U54MD010711-01"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of Biomedical Imaging and Bioengineering",
+                    "award-id": [
+                        "R01EB028106-01"
+                    ]
+                }
+            ],
+            "funding-statement": "Dr Spatz receives support from the Food and Drug Administration to support projects within the Yale-Mayo Clinic Center of Excellence in Regulatory Science and Innovation (CERSI); the National Institute on Minority Health and Health Disparities (U54MD010711-01) to study precision-based approaches to diagnosing and preventing hypertension; and the National Institute of Biomedical Imaging and Bioengineering (R01EB028106-01) to study a cuff-less blood pressure device"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research & Development"
+                },
+                {
+                    "funding-source": "UnitedHealth Group,"
+                },
+                {
+                    "funding-source": "Drs Clark, Ren"
+                },
+                {
+                    "funding-source": "Mr Guo and Mr Truax"
+                },
+                {
+                    "funding-source": "UnitedHealth Group"
+                }
+            ],
+            "funding-statement": "The study was funded by Research & Development at UnitedHealth Group, and the authors Drs Clark, Ren, Vojta, and Mr Guo and Mr Truax are full-time employees of the UnitedHealth Group"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Heart, Lung",
+                    "award-id": [
+                        "K12HL138037"
+                    ]
+                },
+                {
+                    "funding-source": "Blood Institute",
+                    "award-id": [
+                        "K12HL138037"
+                    ]
+                },
+                {
+                    "funding-source": "Yale Center for Implementation Science"
+                }
+            ],
+            "funding-statement": "Dr Lu is supported by the National Heart, Lung, and Blood Institute (K12HL138037) and the Yale Center for Implementation Science"
+        }
+    ]
+}

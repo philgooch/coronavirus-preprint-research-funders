@@ -1,0 +1,35 @@
+{
+    "abstract": "In the age of a pandemic, such as the ongoing one caused by SARS-CoV-2, the world faces limited supply of tests, PPE and reagents, and factories are struggling to meet the growing demands. This study aimed to evaluate the efficacy of pooling specimen for testing of SARS-CoV-2 virus, to determine whether costs and resource savings could be achieved without impacting the sensitivity of the testing. Ten specimens were pooled for testing, containing either one or two known positive specimen of varying viral concentrations. Pooling specimens did not affect the sensitivity of detecting SARS-CoV-2, and the PCR cycle threshold (Ct) between testing of pooling specimen and subsequent individual testing was not significantly different using paired t-test. This study also identified cost savings garnered from pooling of specimen for testing at 4 differing prevalence rates, ranging from 0.1-10%. Pooling specimens to test for COVID-19 infection in low prevalence areas or in low risk population can dramatically decrease the resources burden on lab operations by up to 80%. This paves the possibility for large-scale population screening, allowing for assured policy decisions by governmental bodies to ease lockdown restrictions in areas with low incidence of infection, or with lower risk populations.",
+    "affiliations": [
+        "King Chulalongkorn Memorial Hospital\u0092s Excellent Center Program, National Research Council of Thailand (NRCT), and the Biological Threat Reduction Program (BTRP) of the US Defense Threat Reduction Agency (DTRA)"
+    ],
+    "author": "Thirawat Supharatpariyakorn; Gompol Suwanpimolkul; Phanni Wanthong; Chatchai Nopvichai; Supaporn Wacharapluesadee; Worrawat Khamhang; Siriporn Ghai; Weenassarin Ampoot; Thiravat Hemachudha; Kanthita Worachotsueptrakun; Opass Putcharoen; Watsamon Jantarabenjakul; Pasin Hemachudha; Thongchai Kaewpom; Artit Krichphiphat; Tanarak Plipat; Leilani Paitoonpong; Rome Buathong",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20087221",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20087221"
+    },
+    "title": "Evaluating efficiency of pooling specimens for PCR-based detection of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "King Chulalongkorn Memorial"
+                },
+                {
+                    "funding-source": "Excellent Center Program, National"
+                },
+                {
+                    "funding-source": "Research Council of Thailand"
+                },
+                {
+                    "funding-source": "Biological Threat Reduction Program"
+                },
+                {
+                    "funding-source": "US Defense Threat Reduction Agency"
+                }
+            ],
+            "funding-statement": "This study was supported by a research grant from the King Chulalongkorn Memorial Hospital\u0092s Excellent Center Program, National Research Council of Thailand (NRCT), and the Biological Threat Reduction Program (BTRP) of the US Defense Threat Reduction Agency (DTRA)"
+        }
+    ]
+}

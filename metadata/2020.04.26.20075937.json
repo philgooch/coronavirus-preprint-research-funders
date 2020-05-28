@@ -1,0 +1,23 @@
+{
+    "abstract": "A recent study tested 45 throat swabs taken from adults over age 30 who sought outpatient care at one of two central Wuhan hospitals for influenza-like-illness between December 30, 2019 and January 19, 2020. Although none were confirmed COVID-19 cases, nine retrospectively tested positive for the virus. Using the fact that Wuhan has 393 other hospitals, we extrapolate the total number of undetected cases of symptomatic COVID-19 in adults during this period. we estimate that there were 5,558 [95% CI: 2,761-9,864] adults with symptomatic COVID-19 infections in Wuhan between December 30th and January 19th, 2020.\nCompeting Interest Statement",
+    "author": "Benjamin J Cowling; Zhanwei Du; Lauren Ancel Meyers",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20075937",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20075937"
+    },
+    "title": "Using the COVID-19 to influenza ratio to estimate the numbers of symptomatic COVID-19 cases in Wuhan prior to the lockdown",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "U01 GM087719"
+                    ]
+                }
+            ],
+            "funding-statement": "We acknowledge grant support from NIH (U01 GM087719)"
+        }
+    ]
+}

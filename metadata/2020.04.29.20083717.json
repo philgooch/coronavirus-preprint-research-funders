@@ -1,0 +1,57 @@
+{
+    "title": "Critically ill SARS-CoV-2 patients display lupus-like hallmarks of extrafollicular B cell activation",
+    "date": 2020,
+    "author": "Matthew C. Woodruff, Richard P. Ramonell, Kevin S. Cashman, Doan C. Nguyen, Ariel M. Ley, Shuya Kyu, Ankur Saini, Natalie Haddad, Weirong Chen, J. Christina Howell, Tugba Ozturk, Saeyun Lee, Jacob Estrada, Andrea Morrison-Porter, Andrew Derrico, Fabliha A. Anam, Henry Wu, Sang N. Le, Scott A. Jenks, William T. Hu, F. Eun-Hyung Lee, Ignacio Sanz",
+    "affiliations": [
+        "Department of Medicine, Division of Rheumatology, Lowance Center for Human Immunology, Emory University, Atlanta, GA, USA",
+        "Department of Medicine, Division of Pulmonary, Allergy, Critical Care and Sleep Medicine, Emory University, Atlanta, GA, USA",
+        "Department of Neurology, Emory University, Atlanta, GA",
+        "Department of Medicine, Division of Infectious Diseases, Emory University, Atlanta, GA",
+        "These authors contributed equally: Matthew C. Woodruff and Richard P. Ramonell"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.29.20083717",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20083717.pdf"
+    },
+    "abstract": "/Introduction\nWide heterogeneity of disease course ranging from asymptomatic spread 1, 2 to respiratory failure and death 3, 4 has become a hallmark of the SARS-CoV-2 (COVID-19) pandemic. While this clinical spectrum is well documented, its immunologic underpinnings are less clear. We have therefore initiated studies of the B cell responses as they would participate in both early effector responses and in the initiation of memory formation. In terms of effector responses, we were particularly interested in the engagement and clinical correlates of the extra-follicular pathway (EF) we recently described in flaring SLE 5. In this systemic autoimmune disease, the EF pathway is initiated by newly activated na\u00efve B cell (aN) leading to large expansion of autoantibody-producing antibody-secreting cells through the generation of an epigenetically primed B cell precursor which are double negative (DN) for na\u00efve (IgD) and memory markers (CD27) and lacking expression of CXCR5 and CD21 (DN2) 6, 7, 8. These highly activated D2 cells are also distinguished by high expression of CD11c and T-bet and are TLR7-driven. Both TLR7-stimulation which is triggered by ssRNA and the central role played by their murine counterparts (typically characterized as Age-Associated B cells), in viral clearance, strongly supported the hypothesis that DN2 cells and the global EF pathway could be prominently engaged in COVID-19 patients 9. Also of note, EF B cell activation is particularly prominent in SLE patients of African-American ancestry, a population disproportionately represented in severe COVID-19 6, 9.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "R01-AG054991",
+                        "U19-AI110483"
+                    ]
+                },
+                {
+                    "funding-source": "Emory Autoimmunity Center of Excellence",
+                    "award-id": [
+                        "P01-AI125180-01",
+                        "R37-AI049660",
+                        "T32-HL116271-07"
+                    ]
+                },
+                {
+                    "funding-source": "COIs Dr Lee"
+                },
+                {
+                    "funding-source": "ViveBio LLC, AARP"
+                },
+                {
+                    "funding-source": "Biogen Inc;"
+                },
+                {
+                    "funding-source": "Fujirebio US;",
+                    "award-id": [
+                        "FTLD-TDP"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by National Institutes of Health grants: R01-AG054991 (W.T.H.), U19-AI110483 Emory Autoimmunity Center of Excellence (I.S.), P01-AI125180-01 (I.S., F.E.L.), R37-AI049660 (I.S.), and T32-HL116271-07 (R.P.R.).  COIs Dr Lee is the founder of MicroB-plex, Inc and has research grants with Genentech. Dr Hu has consulted for ViveBio LLC, AARP Inc, and Biogen Inc; has received research support from Fujirebio US; and has a patent on CSF-based diagnosis of FTLD-TDP."
+        }
+    ]
+}

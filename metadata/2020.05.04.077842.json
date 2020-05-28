@@ -1,0 +1,30 @@
+{
+    "title": "SARS-CoV-2 Spike Glycoprotein Receptor Binding Domain is Subject to Negative Selection with Predicted Positive Selection Mutations",
+    "author": "You Li, Ph.D.1,# Ye Wang, Ph.D.1,# Yaping Qiu, Zhen Gong, Ph.D. 1 Lei Deng, Min Pan, Huiping Yang, Jianan Xu, Li Yang, Ph.D. 1,* Jin Li, Ph.D. 1",
+    "date": 2020,
+    "affiliations": [
+        "Microbiology Laboratory, Sichuan Provincial Center for Disease Control and Prevention"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.04.077842",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.04.077842.pdf"
+    },
+    "abstract": "COVID-19 is a highly contagious disease caused by a novel coronavirus SARS-CoV-2. The interaction between SARS-CoV-2 spike protein and the host cell surface receptor ACE2 is responsible for mediating SARS-CoV-2 infection. By analyzing the spike-hACE2 interacting surface, we predicted many hot spot residues that make major contributions to the binding affinity. Mutations on most of these residues are likely to be deleterious, leading to less infectious virus strains that may suffer from negative selection. Meanwhile, several residues with mostly advantageous mutations have been predicted. It is more probable that mutations on these residues increase the transmission ability of the virus by enhancing spike-hACE2 interaction. So far, only a limited number of mutations has been reported in this region. However, the list of hot spot residues with predicted downstream effects from this study can still serve as a tracking list for SARS-CoV-2 evolution studies. Coincidentally, one advantageous mutation, p.476G>S, started to surge in the last couple of weeks based on the data submitted to the public domain, indicating that virus strains with increased transmission ability may have already spread.",
+    "keywords": [
+        "COVID-19",
+        "Spike RBD",
+        "Advantageous Mutation",
+        "Mutation Impact Prediction"
+    ],
+    "hyperbole": [
+        "unprecedented variants in hot spot residues might raise from the insufficient time of mutation accumulation.",
+        "These results further indicated that the relative short mutation accumulation time is one of the major reasons for the unprecedented variants in hot spot residue regions, even though COVID-19 has already been spread globally for several months.",
+        "the unprecedented variant in hot spot residues regions were likely suffered the host specificity selection, allowing the stabilized transmissions within species. However, despite of the negative Tajima\u2019s D in the hot spot residues regions of SARS-CoV and MERS-CoV (supplementary file 2), we still cannot exclude the possibility of positive selection, as the negative Tajima\u2019s D is more likely caused by the expansion of virus population. Collectively, we didn\u2019t find any mutations in the hot spot residues region in SARS-CoV-2 in our study, which might be driven by the host specificity selection."
+    ],
+    "funding": [
+        {}
+    ]
+}

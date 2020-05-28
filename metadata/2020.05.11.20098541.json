@@ -1,0 +1,16 @@
+{
+    "abstract": "We develop an automatic control system to help to design efficient mitigation measures for the Covid-19 epidemic in cities. Taking into account parameters associated to the population of each city and the mobility among them, the optimal control framework suggests the level and duration of protective measures that must be implemented to ensure that the number of infected individuals is within a range that avoids the collapse of the health care system. Compared against other mitigation measures that are implemented simultaneously and in equal strength across cities our method has three major particularities when: Accounts for city commute and health infrastructure: It takes into account the daily commute among cities to estimate the dynamics of infected people while keeping the number of infected people within a desired level at each city avoiding the collapse of its health care system. City-specific control: It allows for orchestrating the control measures among cities so as to prevent all cities to face the same level control. The model tends to induce alternation between periods of stricter controls and periods of a more normal life in each city and among the cities. Flexible scenarios: It is flexible enough to allow for simulating the impact of particular actions. For example, one can simulate the how the control all cities change when the number of care beds increases in specific places. Therefore, our method creates an automatic dance adjusting mitigation levels within cities and alternating among cities as suggested in~\\cite{Pue2020}. This automatic dance may help the city economy and orchestration of resources. We provide case studies using the major cities of the state of Sao Paulo given by using estimates on the daily mobility among the cities their health care system capacity. We use official data in our case studies. However, sub-notification of infected people in Brazil is notoriously high. Hence the case study should not be considered as a real world policy suggestion. It high sub-notification is taken into account, the optimal control algorithm will suggest stricter mitigation measures, as also shown in the case studies. Surprisingly, the total duration of the protocol for the state is barely affected by the sub-notification, but the severity of such protocols is strengthened. This stresses a twofold implication, first, the protocol depends on high-quality data and, second, such optimal and orchestrated protocol is robust and can be adjusted to the demand.",
+    "author": "Luis Gustavo Nonato; Paulo J. S. Silva; Tiago Pereira",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20098541",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20098541"
+    },
+    "title": "Robot dance: a city-wise automatic control of Covid-19 mitigation levels",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

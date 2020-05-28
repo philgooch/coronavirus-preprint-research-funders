@@ -1,0 +1,29 @@
+{
+    "abstract": "In response to the novel coronavirus disease 2019 (CoViD-19) pandemic, national and local institutions have issued public-health orders to slow the spread of the disease. Comparing CoViD-19 trends over time and place may thus provide important public health insights about the impact of different strategies. To aid these comparisons, we illustrate the properties of three comparative indicators of CoViD-19 mortality using estimates and projections for the world most affected areas. We first demonstrate how a Crude CoViD-19 Death Rate (CCDR) incorporates the temporal dimension of CoViD-19 mortality. We also show how the advantage of the indirectly age-standardized Comparative CoViD-19 Mortality Ratio (CCMR). Finally, we calculate declines in life expectancy at birth that translate CoViD-19 mortality projections into an easily interpretable metric. Projections used to illustrate this yields a .6-year decline in life expectancy at birth for the U.S.A., for instance, which would be twice the largest single-year decline in life expectancy at birth induced by HIV/AIDS (between 1992 and 1993) or the total decline induced by opioid overdoses (between 2014 and 2017). Data about the pandemic are changing too rapidly to draw any conclusion from the current values of the indicators, however, and there are multiple reasons to expect substantial revisions of these projections.",
+    "affiliations": [
+        "California Center for Population Research at UCLA (CCPR), which receives core support (P2C-HD041022) from the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)"
+    ],
+    "author": "Patrick Heuveline; Michael Tzen",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20085506",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20085506"
+    },
+    "title": "Beyond Deaths per Capita: Three CoViD-19 Mortality Indicators for Temporal and International Comparisons",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "California Center for Population Research",
+                    "award-id": [
+                        "P2C-HD041022"
+                    ]
+                },
+                {
+                    "funding-source": "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                }
+            ],
+            "funding-statement": "The authors benefited from facilities and resources provided by the California Center for Population Research at UCLA (CCPR), which receives core support (P2C-HD041022) from the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "abstract": "The COVID-19 novel virus, as an emerging highly pathogenic agent, has caused a pandemic. Revealing the influencing factors affecting transmission of COVID-19 is essential to take effective control measures. Several previous studies suggested that the spread of COVID-19 was likely associated with temperature and/or humidity. But, a recent extensive review indicated that conclusions on associations between climate and COVID-19 were elusive with high uncertainty due to caveats in most previous studies, such as limitations in time and space, data quality and confounding factors. In this study, by using a more extensive global dataset covering 578 time series from China, USA, Europe and the rest of the world, we show that climate show distinct impacts on early and late transmission of COVID-19 in the world after excluding the confounding factors. The early transmission ability of COVID-19 peaked around 6.3\u00b0C without or with little human intervention, but the later transmission ability was reduced in high temperature conditions under human intervention, probably driven by increased control efficiency of COVID-19. The transmission ability was positively associated with the founding population size of early reported cases and population size of a location. Our study suggested that with the coming summer seasons, the transmission risk of COVID-19 would increase in the high-latitude or high-altitude regions but decrease in low-latitude or low-altitude regions; human intervention is essential in containing the spread of COVID-19 around the world.",
+    "affiliations": [
+        "National Health Commission, WHO and the other published databases. All data in this study do not contain private or unpublished information of patients",
+        "Institute of Zoology, Chinese Academy of Sciences"
+    ],
+    "author": "zhibin zhang; xinru wan; Chaoyuan Cheng",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20102459",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20102459"
+    },
+    "title": "Early transmission of COVID-19 has an optimal temperature but late transmission decreases in warm climate",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Institute of Zoology, Chinese"
+                },
+                {
+                    "funding-source": "Academy of Sciences"
+                }
+            ],
+            "funding-statement": "This study was supported by the project of studying transmissions of COVID-19 and risk assessments based on big data analysis supported by the Institute of Zoology, Chinese Academy of Sciences"
+        }
+    ]
+}

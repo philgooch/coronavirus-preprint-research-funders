@@ -1,0 +1,59 @@
+{
+    "title": "A potent neutralizing human antibody reveals the N-terminal domain of the Spike protein of SARS-CoV-2 as a site of vulnerability",
+    "author": "Xiangyang Chi, Renhong Yan, Jun Zhang, Guanying Zhang, Yuanyuan Zhang, Meng",
+    "date": 2020,
+    "affiliations": [
+        "Beijing Institute of Biotechnology, Academy of Military Medical Sciences (AMMS), Beijing",
+        "Key Laboratory of Structural Biology of Zhejiang Province, Institute of Biology, Westlake",
+        "Institute for Advanced Study, School of Life Sciences, Westlake University, Hangzhou 310024",
+        "Beijing Advanced Innovation Center for Structural Biology, Tsinghua-Peking Joint Center for",
+        "Life Sciences, School of Life Sciences, Tsinghua University, Beijing 100084, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.08.083964",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.08.083964.pdf"
+    },
+    "abstract": "The pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) presents a global public health threat. Most research on therapeutics against SARS-CoV-2 focused on the receptor binding domain\n(RBD) of the Spike (S) protein, whereas the vulnerable epitopes and functional mechanism of non-RBD regions are poorly understood. Here we isolated and characterized monoclonal antibodies (mAbs) derived from convalescent COVID-19 patients. An mAb targeting the N-",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2020YFC0841400"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "projects 31971123",
+                        "81803429",
+                        "81703048",
+                        "31900671",
+                        "81920108015",
+                        "31930059"
+                    ]
+                },
+                {
+                    "funding-source": "Key R&D Program of Zhejiang Province",
+                    "award-id": [
+                        "2020C04001"
+                    ]
+                },
+                {
+                    "funding-source": "Science and Technology Department of Zhejiang Province",
+                    "award-id": [
+                        "2020C03129"
+                    ]
+                },
+                {
+                    "funding-source": "Leading Innovative and Entrepreneur Team Introduction Program of Hangzhou. Author"
+                }
+            ],
+            "funding-statement": "This work was funded by the National Key R&D Program of China (2020YFC0841400), the National Natural Science Foundation of China (projects 31971123, 81803429, 81703048, 31900671, 81920108015, 31930059), the Key R&D Program of Zhejiang Province (2020C04001), the SARS-CoV-2 emergency project of the Science and Technology Department of Zhejiang Province (2020C03129) and the Leading Innovative and Entrepreneur Team Introduction Program of Hangzhou. Author contributions: W.C., Q.Z. and J.L. conceived the project. X.C., R.Y., J.Z., G.Z., Y.Z., Y.G., Y.L., L.X., M.H., Z.Z., P.F., Y.D., Z.C., J.L.Z., X.S., Y.C., L.F., L.H., J.X. and C.Y. did the experiments. All authors contributed to data analysis. X.C., R.Y., J.L., Q.Z. and W.C. wrote the manuscript."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "abstract": "The SARS-CoV-2 pandemic has shown how the rapid rise in demand for patient and community sample testing, required for tracing and containing a highly infectious disease, has quickly overwhelmed testing capability globally. With most diagnostic infrastructure dependent on specialised instruments, their exclusive reagent supplies quickly become bottlenecks in times of peak demand, creating an urgent need for novel approaches to boost testing capacity. We address this challenge by refocusing the full synthetic biology stack available at the London Biofoundry onto the development of alternative patient sample testing pipelines. We present a reagent-agnostic automated SARS-CoV-2 testing platform that can be quickly deployed and scaled, and that accepts a diverse range of reagents. Using an in-house-generated, open-source, MS2-virus-like-particle-SARS-CoV-2 standard, we validate RNA extraction and RT-qPCR workflows as well as two novel detection assays based on CRISPR-Cas and Loop-mediated isothermal Amplification (LAMP) approaches. In collaboration with an NHS diagnostic testing lab, we report the performance of the overall workflow and benchmark SARS-CoV-2 detection in patient samples via RT-qPCR, CRISPR-Cas, and LAMP against clinical test sets. The validated RNA extraction and RT-qPCR platform has been installed in NHS diagnostic labs with a testing capacity of 1000 samples per day and now contributes to increased patient sample processing in the UK while we continue to refine and develop novel high-throughput diagnostic methods. Finally, our workflows and protocols can be quickly implemented and adapted by members of the Global Biofoundry Alliance and the wider scientific and medical diagnostics community.",
+    "affiliations": [
+        "National Physical Laboratory (NPL) and the Dementia Research Institute (DRI)"
+    ],
+    "author": "Marta Ciechonska; Paul Randell; Miles Priestman; Kirsten Jensen; Paul Freemont; Marko Storch; Michael A Crone; David J Sharp",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20088344",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20088344"
+    },
+    "title": "A new role for Biofoundries in rapid prototyping, development, and validation of automated clinical diagnostic tests for SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "EPSRC",
+                    "award-id": [
+                        "EP/R014000/1",
+                        "EP/S001859/1",
+                        "UKRI-B"
+                    ]
+                },
+                {
+                    "funding-source": "BBSRC",
+                    "award-id": [
+                        "BB/M025632/1"
+                    ]
+                },
+                {
+                    "funding-source": "National Physical Laboratory"
+                },
+                {
+                    "funding-source": "Dementia Research Institute"
+                }
+            ],
+            "funding-statement": "We acknowledge funding from UKRI-EPSRC (EP/R014000/1, EP/S001859/1), UKRI-BBSRC (BB/M025632/1), the National Physical Laboratory (NPL) and the Dementia Research Institute (DRI)"
+        }
+    ]
+}

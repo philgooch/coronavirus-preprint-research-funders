@@ -1,0 +1,89 @@
+{
+    "abstract": "The new coronavirus disease 2019 (COVID-19) has required the implementation of severe mobility restrictions and social distancing measures worldwide. While these measures have been proven effective in abating the epidemic in several countries, it is important to estimate the effectiveness of testing and tracing strategies to avoid a potential second wave of the COVID-19 epidemic. We integrate highly detailed (anonymized, privacy-enhanced) mobility data from mobile devices, with census and demographic data to build a detailed agent-based model to describe the transmission dynamics of SARS-CoV-2 in the Boston metropolitan area. We find that enforcing strict social distancing followed by a policy based on a robust level of testing, contact-tracing and household quarantine, could keep the disease at a level that does not exceed the capacity of the health care system. Assuming the identification of 50% of the symptomatic infections, and the tracing of 40% of their contacts and households, which corresponds to about 9% of individuals quarantined, the ensuing reduction in transmission allows the reopening of economic activities while attaining a manageable impact on the health care system. Our results show that a response system based on enhanced testing and contact tracing can play a major role in relaxing social distancing interventions in the absence of herd immunity against SARS-CoV-2.",
+    "affiliations": [
+        "National Institute of General Medical Sciences during the conduct of the study; AV reports grants and personal fees from Metabiota, Inc., outside of the submitted work; MC and APyP report grants from Metabiota, Inc., outside of the submitted work. The authors declare no other relationships or activities that could appear to have influenced the submitted work",
+        "Intesa Sanpaolo Innovation Center. The funders had no role in study design, data collection, and analysis, decision to publish, or preparation of the manuscript"
+    ],
+    "author": "Maria Litvinova; Alberto Aleta; Matteo Chinazzi; M. Elizabeth Halloran; Yamir Moreno; Alex Pentland; Alessandro Vespignani; Ira M Longini; Marco Ajelli; Natalie E Dean; Stefano Merler; Esteban Moro; David Martin-Corral; Ana Pastore y Piontti",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20092841",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20092841"
+    },
+    "title": "Modeling the impact of social distancing, testing, contact tracing and household quarantine on second-wave scenarios of the COVID-19 epidemic",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "AI139761"
+                    ]
+                },
+                {
+                    "funding-source": "NIAID",
+                    "award-id": [
+                        "AI139761"
+                    ]
+                }
+            ],
+            "funding-statement": "NED, IML, MEH, APP and AV acknowledge the support of NIH/NIAID AI139761"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Google Cloud Healthcare and Life Sciences Solutions"
+                }
+            ],
+            "funding-statement": "MC and AV acknowledge support from Google Cloud Healthcare and Life Sciences Solutions via the GCP research credits program"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "GM111274"
+                    ]
+                },
+                {
+                    "funding-source": "NIGMS",
+                    "award-id": [
+                        "GM111274"
+                    ]
+                },
+                {
+                    "funding-source": "MINECO",
+                    "award-id": [
+                        "FIS2016-78904-C3-3-P"
+                    ]
+                }
+            ],
+            "funding-statement": "MEH acknowledges support from the NIH/NIGMS U54 GM111274 EM acknowledges partial support by MINECO (FIS2016-78904-C3-3-P)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Government of Aragon and FEDER",
+                    "award-id": [
+                        "E36-17R"
+                    ]
+                },
+                {
+                    "funding-source": "MINECO and FEDER",
+                    "award-id": [
+                        "FIS2017-87519-P"
+                    ]
+                }
+            ],
+            "funding-statement": "YM acknowledges partial support from the Government of Aragon and FEDER funds, Spain through grant E36-17R (FENOL), and by MINECO and FEDER funds (FIS2017-87519-P)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intesa Sanpaolo Innovation Center"
+                }
+            ],
+            "funding-statement": "AA and YM acknowledge support from Intesa Sanpaolo Innovation Center"
+        }
+    ]
+}

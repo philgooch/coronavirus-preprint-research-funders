@@ -1,0 +1,40 @@
+{
+    "abstract": "Coronavirus disease (COVID-19) has spread around the world and it causes tremendous stress to the US health care system. Knowing the trend of the COVID-19 pandemic is critical for the federal and local governments and health care system to prepare plans. Our aim was to develop an approach and create a SAS macro to estimate the growth rate and doubling time in days. We fit a series of growth curves using a rolling approach to estimate the growth rates and the doubling times. This approach was applied to the death data of New York State during March 14th and 31st. The growth rate was 0.48 (95% CI, 0.39-0.57) and the doubling time was 2.77 days (95% CI, 2.49-3.04) for the period of March 14th-March 20th; the growth rate decreased to 0.25 (95% CI, 0.22-0.28) and the doubling time increased to 4.09 days (95% CI, 3.73-4.44) for the period of March 25th-March 31st. This approach can be used for short-term prediction and monitoring the trend of the COVID-19 pandemic.",
+    "affiliations": [
+        "Institute for Health Research, Kaiser Permanente Colorado. Xu was also supported by NIH/NCRR Colorado CTSI Grant Number UL1 RR025780"
+    ],
+    "author": "Susan Shetterly; Christina Clarke; Komal Narwaney; Stanley Xu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20057943",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20057943"
+    },
+    "title": "Estimating the Growth Rate and Doubling Time for Short-Term Prediction and Monitoring Trend During the COVID-19 Pandemic with a SAS Macro",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Institute for Health Research, Kaiser"
+                },
+                {
+                    "funding-source": "Permanente Colorado"
+                }
+            ],
+            "funding-statement": "This research was supported by the Institute for Health Research, Kaiser Permanente Colorado"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH"
+                },
+                {
+                    "funding-source": "NCRR Colorado CTSI Grant Number",
+                    "award-id": [
+                        "RR025780"
+                    ]
+                }
+            ],
+            "funding-statement": "Xu was also supported by NIH/NCRR Colorado CTSI Grant Number UL1 RR025780"
+        }
+    ]
+}

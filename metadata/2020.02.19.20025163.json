@@ -1,0 +1,64 @@
+{
+    "abstract": "Since the first case of Novel Coronavirus (2019-nCov) was identified in December 2019 in Wuhan City, China, the number of cases continues to grow across China and multiple cases have been exported to other countries. The cumulative number of reported deaths is at 637 as of February 7, 2020. Here we statistically estimated the time-delay adjusted death risk for Wuhan as well as for China excluding Wuhan to interpret the current severity of the epidemic in China. We found that the latest estimates of the death risk in Wuhan could be as high as 20% in the epicenter of the epidemic whereas we estimate it ~1% in the relatively mildly-affected areas. Because the elevated death risk estimates are likely associated with a breakdown of the medical/health system, enhanced public health interventions including social distancing and movement restrictions should be effectively implemented to bring the epidemic under control.",
+    "author": "Kenji Mizumoto; Gerardo Chowell",
+    "date": 2020,
+    "doi": "10.1101/2020.02.19.20025163",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.19.20025163"
+    },
+    "title": "Estimating the risk of 2019 Novel Coronavirus death during the course of the outbreak in China, 2020",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Japan Society for the Promotion of Science",
+                    "award-id": [
+                        "15K20936"
+                    ]
+                },
+                {
+                    "funding-source": "KAKENHI Grant Number",
+                    "award-id": [
+                        "15K20936"
+                    ]
+                },
+                {
+                    "funding-source": "Program for Advancing Strategic International Networks"
+                },
+                {
+                    "funding-source": "Accelerate the Circulation of Talented Researchers Grant Number",
+                    "award-id": [
+                        "G2801"
+                    ]
+                },
+                {
+                    "funding-source": "Leading Initiative for Excellent Young Researchers from the Ministry of Education, Culture"
+                },
+                {
+                    "funding-source": "Science & Technology of Japan"
+                }
+            ],
+            "funding-statement": "KM acknowledges support from the Japan Society for the Promotion of Science (JSPS) KAKENHI Grant Number 15K20936, from Program for Advancing Strategic International Networks to Accelerate the Circulation of Talented Researchers Grant Number G2801 and from the Leading Initiative for Excellent Young Researchers from the Ministry of Education, Culture, Sport, Science & Technology of Japan"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "1414374"
+                    ]
+                },
+                {
+                    "funding-source": "NSF-NIH-USDA Ecology and Evolution of Infectious Diseases"
+                },
+                {
+                    "funding-source": "UK Biotechnology and Biological Sciences Research Council",
+                    "award-id": [
+                        "BB/M008894/1"
+                    ]
+                }
+            ],
+            "funding-statement": "GC acknowledges support from NSF grant 1414374 as part of the joint NSF-NIH-USDA Ecology and Evolution of Infectious Diseases program; UK Biotechnology and Biological Sciences Research Council grant BB/M008894/1"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Comparison of SARS-CoV-2 infections among 3 species of non-human primates",
+    "author": "Shuaiyao Lu,#, Yuan Zhao,#, Wenhai Yu,#, Yun Yang,#, Jiahong Gao,#, Junbin Wang, Dexuan Kuang, Mengli Yang, Jing Yang, Chunxia Ma, Jingwen Xu, Xingli Qian, Haiyan Li, Siwen Zhao, Jingmei Li, Haixuan Wang, Haiting Long, Jingxian Zhou, Fangyu Luo",
+    "date": 2020,
+    "affiliations": [
+        "National Kunming High-level Biosafety Primate Research Center, Institute of Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Yunnan China",
+        "State Key Laboratory of Medical Molecular Biology, Department of Molecular Biology and Biochemistry, Institute of Basic Medical Sciences, Medical Primate Research Center, Neuroscience Center, Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing China",
+        "Medical Key Laboratory for Repository and Application of Pathogenic Microbiology, Guangdong Provincial Center for Disease Control and Prevention, Guangzhou China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.08.031807",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.08.031807.pdf"
+    },
+    "abstract": "COVID-19, caused by SARS-CoV-2 infection, has recently been announced as a pandemic all over the world. Plenty of diagnostic, preventive and therapeutic knowledges have been enriched from clinical studies since December 2019. However, animal models, particularly non-human primate models, are urgently needed for critical questions that could not be answered in clinical patients, evaluations of anti-viral drugs and vaccines. In this study, two families of non-human primates, old world monkeys (12 Macaca mulatta, 6 Macaca fascicularis) and new world monkeys (6 Callithrix jacchus), were experimentally inoculated with SARS-CoV-2. Clinical signs were recorded. Samples were collected for analysis of viral shedding, viremia and histopathological examination. Increased body temperature was observed in 100% (12/12) M. mulatta, 33.3% (2/6) M. fascicularis and none (0/6) of C. jacchus post inoculation of SARS-CoV-2. All of M. mulatta and M. fascicularis showed chest radiographic abnormality. Viral genomes were detected in nasal swabs, throat swabs, anal swabs and blood from all 3 species of monkeys. Viral shedding from upper respiratory reached the peak between day 6 and day 8 post inoculation. From necropsied M. mulatta and M. fascicularis, tissues showing virus positive were mainly lung, weasand, bronchus and spleen. No viral genome was seen in any of tissues from 2 necropsied C. jacchus. Severe gross lesions and histopathological changes were observed in lung, heart and stomach of SARS-CoV-2 infected animals. In summary, we have established a NHP model for COVID-19, which could be used to evaluate drugs and vaccines, and investigate viral pathogenesis. M. mulatta is the most susceptible to SARS-CoV2 infection, followed by M. fascicularis and C. jacchus.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "2020YFC0841100",
+                        "2020YFC0846400"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by 2020YFC0841100 and 2020YFC0846400"
+        }
+    ]
+}

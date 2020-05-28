@@ -1,0 +1,65 @@
+{
+    "title": "The heterogeneous landscape and early evolution of pathogen-associated CpG and UpA dinucleotides in SARS-CoV-2",
+    "keywords": [
+        "ssRNA viruses",
+        "SARS-CoV-2",
+        "pathogen-associated molecular patterns (PAMPs)",
+        "pattern recognition receptors (PRRs)",
+        "viral host mimicry",
+        "CpG motifs",
+        "evolution of synonymous mutations"
+    ],
+    "author": "Andrea di Gioacchino, Petr Sulc, Anastassia V. Komarova, Benjamin D. Greenbaum, Remi Monasson, and Simona Cocco",
+    "date": 2020,
+    "affiliations": [
+        "Laboratoire de Physique de l\u2019Ecole Normale Superieure, PSL & CNRS UMR8063, Sorbonne Universite, Universite de Paris, F-75005 Paris, France",
+        "School of Molecular Sciences and Center for Molecular Design and Biomimetics, The Biodesign Institute, Arizona State University, 1001 South McAllister Avenue, Tempe",
+        "Molecular Genetics of RNA viruses, Department of Virology, Institut Pasteur, CNRS",
+        "Computational Oncology, Department of Epidemiology and Biostatistics, Memorial Sloan",
+        "Kettering Cancer Center, 1275 York Avenue New York, NY 10065"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.06.074039",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.06.074039.pdf"
+    },
+    "abstract": "SARS-CoV-2 infection can lead to acute respiratory syndrome in patients, which can be due in part to dysregulated immune signalling. We analyze here the occurrences of CpG and UpA dinucleotides, which are putative pathogen-associated molecular patterns, along the viral sequence. Carrying out a comparative analysis with other ssRNA viruses and within the Coronaviridae family, we find the CpG content of SARS-CoV-2, while low compared to other betacoronaviruses, widely fluctuates along its primary sequence. While the CpG relative abundance and its associated CpG force parameter [1] are low for the spike protein (S) and comparable to circulating seasonal coronaviruses such as HKU1, they are much greater and comparable to SARS and MERS for the 3\u2019-end of the viral genome. In particular, the nucleocapsid protein (N), whose transcripts are relatively abundant in the cytoplasm of infected cells and present in the 3\u2019UTRs of all subgenomic RNA, has high CpG content. We speculate this dual nature of CpG content can confer to SARS-CoV-2 high ability to both enter the host and trigger pattern recognition receptors (PRRs) in different contexts. We then investigate the evolution of synonymous mutations since the outbreak of the COVID-19 pandemic. Using a new application of selective forces on dinucleotides to estimate context driven mutational processes, we find that synonymous mutations seem driven both by the viral codon bias and by the high value of the CpG force in the N protein, leading to a loss in CpG content. Sequence motifs preceding these CpG-loss-associated loci match recently identified binding patterns of the Zinc Finger anti-viral Protein (ZAP) protein.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "CE30-0021-01"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was partially supported by the ANR19 Decrypted CE30-0021-01 grants"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "7R01AI081848-04",
+                        "1R01CA240924-01"
+                    ]
+                },
+                {
+                    "funding-source": "Stand Up"
+                },
+                {
+                    "funding-source": "Lustgarten Foundation Convergence Dream Team Grant,"
+                },
+                {
+                    "funding-source": "The Pershing Square Sohn Prize\u2014Mark Foundation Fellow"
+                },
+                {
+                    "funding-source": "The Mark Foundation for Cancer Research"
+                }
+            ],
+            "funding-statement": "B.G. was supported by National Institutes of Health grants 7R01AI081848-04, 1R01CA240924-01, a Stand Up to Cancer \u2013 Lustgarten Foundation Convergence Dream Team Grant, and The Pershing Square Sohn Prize\u2014Mark Foundation Fellow supported by funding from The Mark Foundation for Cancer Research"
+        }
+    ]
+}

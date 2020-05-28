@@ -1,0 +1,109 @@
+{
+    "title": "1 Shotgun Transcriptome and Isothermal Profiling of SARS-CoV-2 Infection Reveals Unique 2 Host Responses, Viral Diversification, and Drug Interactions 3 4 Authors: 5 Daniel J. Butler1#, Christopher Mozsary1#, Cem Meydan1,2,3#, David Danko1,4#, Jonathan Foox1,2#, 6 Joel Rosiene5,6, Alon Shaiber5,6,7, Ebrahim Afshinnekoo1,2,3, Matthew MacKay1, Fritz J. 7 Sedlazeck8, Nikolay A. Ivanov1,2,9, Maria Sierra1, Diana Pohle10, Michael Zietz11, Undina 8 Gisladottir11, Vijendra Ramlall11,12, Craig D. Westover1, Krista Ryon1, Benjamin Young1, 9 Chandrima Bhattacharya1, Phyllis Ruggiero6, Bradley W. Langhorst13, Nathan Tanner13, Justyna 10 Gawrys6, Dmitry Meleshko1,4, Dong Xu14, Peter A. D. Steel15, Amos J. Shemesh15, Jenny 11 Xiang14,16, Jean Thierry-Mieg17, Danielle Thierry-Mieg17, Robert E. Schwartz18, Angelika 12 Iftner10, Daniela Bezdan10, John Sipley6, Lin Cong6, Arryn Craney6, Priya Velu6, Ari M. 13 Melnick18, Iman Hajirasouliha1,2,7, Stacy M. Horner19,20, Thomas Iftner10, Mirella Salvatore16, 14 Massimo Loda6, Lars F. Westblade6,16, Melissa Cushing6, Shawn Levy21, Shixiu Wu22,23, 15 Nicholas Tatonetti11, Marcin Imielinski5,6,7*, Hanna Rennert6*, Christopher E. Mason1,2,3,24* 16 17 Affiliations: 18 1Department of Physiology and Biophysics, Weill Cornell Medicine, NY, USA. 19 2The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Alsaud Institute for Computational 20 Biomedicine, Weill Cornell Medicine, NY, USA 21 3WorldQuant Initiative for Quantitative Prediction, Weill Cornell Medicine, NY, USA 22 4Tri-Institutional Computational Biol. & Medicine Program, Weill Cornell Medicine, NY, USA 23 5New York Genome Center, NY, USA 24 6Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, NY, USA 25 7Englander Institute for Precision Medicine and the Meyer Cancer Center, Weill Cornell 26 Medicine, NY, USA 27 8Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA 28 9Clinical & Translational Science Center, Weill Cornell Medicine, NY, USA 29 10Institute of Medical Virology and Epidemiology of Viral Diseases, University Hospital 30 Tuebingen, Germany 31 11Department of Biomedical Informatics, Department of Systems Biology, Department of 32 Medicine, Institute for Genomic Medicine, Columbia University, NY, USA 33 12Department of Cellular, Molecular Physiology & Biophysics, Columbia University, NY, USA 34 13New England Biolabs, MA, USA 35 14Genomics Resources Core Facility, Weill Cornell Medicine, NY, USA 36 15Department of Emergency Medicine, Weill Cornell Medicine, NY, USA 37 16Division of Infectious Diseases, Department of Medicine, Weill Cornell Medicine, NY, USA 38 17National Center for Biotechnology Information, National Library of Medicine, National 39 Institute of Health, MD, USA 40 18Department of Medicine, Weill Cornell Medicine, NY, USA 41 19Department of Molecular Genetics and Microbiology, Duke University Medical Center, NC, 42 USA 43 20Department of Medicine, Duke University Medical Center, NC, USA 44 21HudsonAlpha Discovery Institute, Huntsville, AL, USA 45 22 Hangzhou Cancer Institute, Hangzhou Cancer Hospital, Hangzhou, China 46 23Department of Radiation Oncology, Hangzhou Cancer Hospital, Hangzhou, China",
+    "date": 2020,
+    "affiliations": [
+        "Department of Physiology and Biophysics, Weill Cornell Medicine, NY, USA. 19",
+        "The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Alsaud Institute for Computational 20 Biomedicine, Weill Cornell Medicine, NY, USA 21",
+        "WorldQuant Initiative for Quantitative Prediction, Weill Cornell Medicine, NY, USA 22",
+        "Tri-Institutional Computational Biol. & Medicine Program, Weill Cornell Medicine, NY, USA 23",
+        "New York Genome Center, NY, USA 24",
+        "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, NY, USA 25",
+        "Englander Institute for Precision Medicine and the Meyer Cancer Center, Weill Cornell 26 Medicine, NY, USA 27",
+        "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA 28",
+        "Clinical & Translational Science Center, Weill Cornell Medicine, NY, USA 29",
+        "Institute of Medical Virology and Epidemiology of Viral Diseases, University Hospital 30 Tuebingen, Germany 31",
+        "Department of Biomedical Informatics, Department of Systems Biology, Department of 32 Medicine, Institute for Genomic Medicine, Columbia University, NY, USA 33",
+        "Department of Cellular, Molecular Physiology & Biophysics, Columbia University, NY, USA 34",
+        "New England Biolabs, MA, USA 35",
+        "Genomics Resources Core Facility, Weill Cornell Medicine, NY, USA 36",
+        "Department of Emergency Medicine, Weill Cornell Medicine, NY, USA 37",
+        "Division of Infectious Diseases, Department of Medicine, Weill Cornell Medicine, NY, USA 38",
+        "National Center for Biotechnology Information, National Library of Medicine, National 39 Institute of Health, MD, USA 40",
+        "Department of Medicine, Weill Cornell Medicine, NY, USA 41",
+        "Department of Molecular Genetics and Microbiology, Duke University Medical Center, NC, 42 USA 43",
+        "Department of Medicine, Duke University Medical Center, NC, USA 44",
+        "HudsonAlpha Discovery Institute, Huntsville, AL, USA 45 22 Hangzhou Cancer Institute, Hangzhou Cancer Hospital, Hangzhou, China 46",
+        "Department of Radiation Oncology, Hangzhou Cancer Hospital, Hangzhou, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.20.048066",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.20.048066.pdf"
+    },
+    "keywords": [
+        "coronavirus 71 disease 2019 (COVID-19)",
+        "loop-mediated isothermal amplification (LAMP)",
+        "next-generation sequencing (NGS)",
+        "RNA73 seq",
+        "global health",
+        "74 75"
+    ],
+    "abstract": "The Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) has caused thousands of deaths worldwide, including >18,000 in New York City (NYC) alone. The sudden emergence of this pandemic has highlighted a pressing clinical need for rapid, scalable diagnostics that can detect infection, interrogate strain evolution, and identify novel patient biomarkers. To address these challenges, we designed a fast (30-minute) colorimetric test (LAMP) for SARS-CoV-2 infection from naso/oropharyngeal swabs, plus a large-scale shotgun metatranscriptomics platform (total-RNA-seq) for host, bacterial, and viral profiling. We applied both technologies across 857 SARS-CoV-2 clinical specimens and 86 NYC subway samples, providing a broad molecular portrait of the COVID-19 NYC outbreak. Our results define new features of SARSCoV-2 evolution, nominate a novel, NYC-enriched viral subclade, reveal specific host responses in interferon, ACE, hematological, and olfaction pathways, and examine risks associated with use of ACE inhibitors and angiotensin receptor blockers. Together, these findings have immediate applications to SARS-CoV-2 diagnostics, public health, and new therapeutic targets.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "STARR Foundation",
+                    "award-id": [
+                        "I13-0052"
+                    ]
+                },
+                {
+                    "funding-source": "Vallee Foundation,"
+                },
+                {
+                    "funding-source": "WorldQuant Foundation, The"
+                },
+                {
+                    "funding-source": "Pershing Square Sohn Cancer Research Alliance, Citadel"
+                },
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "R01MH117406",
+                        "R25EB020393",
+                        "R01AI151059"
+                    ]
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1151054"
+                    ]
+                },
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "1840275"
+                    ]
+                },
+                {
+                    "funding-source": "National Center for Advancing Translational Sciences of the National Institutes of Health",
+                    "award-id": [
+                        "UL1TR000457"
+                    ]
+                },
+                {
+                    "funding-source": "Sloan Foundation",
+                    "award-id": [
+                        "G-2015-13964"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases",
+                    "award-id": [
+                        "1U19AI144297-01",
+                        "T15LM007079",
+                        "R35GM131905"
+                    ]
+                },
+                {
+                    "funding-source": "National Center for"
+                }
+            ],
+            "funding-statement": "We are grateful for support from the STARR Foundation (I13-0052) the Vallee Foundation, the WorldQuant Foundation, The Pershing Square Sohn Cancer Research Alliance, Citadel, the National Institutes of Health (R01MH117406, R25EB020393, R01AI151059), the Bill and Melinda Gates Foundation (OPP1151054), the NSF (1840275), the National Center for Advancing Translational Sciences of the National Institutes of Health (UL1TR000457, CTSC), and the Alfred P. Sloan Foundation (G-2015-13964). FJS supported by the National Institute of Allergy and Infectious Diseases (1U19AI144297-01). MZ supported by T15LM007079. NPT and UOG supported by R35GM131905. NAI was supported by the National Center for"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "abstract": "Angiotensin-Converting Enzyme 2 (ACE2) has been identified as the host receptor for SARS-coronavirus 2 (SARS-CoV-2) which has infected millions world-wide and likely caused hundreds of thousands of deaths. Utilizing transcriptomic data from four cohorts taken from Crohn\u2032s disease (CD) and non-inflammatory bowel disease (IBD) subjects, we observed evidence of increased ACE2 mRNA in ileum with demographic features that have been associated with poor outcomes in COVID-19 including age and raised BMI. ACE2 was downregulated in CD compared to controls in independent cohorts. Within CD, ACE2 expression was reduced in inflamed ileal tissue and also remarkably, from uninvolved tissue in patients with a worse prognosis in both adult and pediatric cohorts. In active CD, small bowel ACE2 expression was restored by anti-TNF therapy particularly in anti-TNF responders. Collectively our data suggest that ACE2 downregulation is associated with inflammation and worse outcomes in CD.",
+    "affiliations": [
+        "Immunobiology Research Institute. The Cedars-Sinai MIRIAD IBD Biobank is supported by the F. Widjaja Foundation Inflammatory Bowel and Immunobiology Research Institute, National Institutes of Health/National Institute of Diabetes and Digestive and Kidney Diseases [NIH/NIDDK] [grants P01 DK046763 and U01 DK062413], and The Leona M and Harry B Helmsley Charitable Trust"
+    ],
+    "author": "Shaohong Yang; Alka A Potdar; Thaddeus S Stappenbeck; Takeo Naito; Phillip Fleshner; Lee A Denson; Mark Daly; Jonathan Braun; Dermot P B McGovern; Talin Haritunians; Shishir Dube; Gregory Botwin; Stephan R Targan; Dalin Li; Subra Kugathasan; Janine Bilsborough",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20070995",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20070995"
+    },
+    "title": "Reduced expression of COVID-19 host receptor, ACE2 is associated with small bowel inflammation, more severe disease, and response to anti-TNF therapy in Crohn\u2032s disease",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Boehringer Ingelheim, Qu"
+                },
+                {
+                    "funding-source": "Bridge Biotherapeutics,"
+                }
+            ],
+            "funding-statement": "DPBM has consulted for Gilead, Pfizer, Boehringer Ingelheim, Qu Biologics, Bridge Biotherapeutics, and received grant support from Janssen"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "This work was supported by internal funds from the F"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Cedars-Sinai MIRIAD IBD Biobank"
+                }
+            ],
+            "funding-statement": "The Cedars-Sinai MIRIAD IBD Biobank is supported by the F"
+        }
+    ]
+}

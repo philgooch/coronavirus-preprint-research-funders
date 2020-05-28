@@ -1,0 +1,23 @@
+{
+    "abstract": "Objective: To determine the relative risk of drug-induced Long QT Syndrome (LQTS) associated with SARS-CoV-2 (COVID-19) proposed repurposed drugs compared to well-known torsadogenic compounds. Setting: Computer calculations and simulations were performed using primary pharmacokinetic and pharmacodynamic data for each proposed drug. Seven different LQTS indices were calculated and compared. The U.S. Food and Drug Administration (FDA) Adverse Event Reporting System (FAERS) database was queried with specific key words relating to arrhythmogenic events. Interventions: A thorough literature search was performed to gather information on the pharmacological properties of six drugs (azithromycin, chloroquine, favipiravir, hydroxychloroquine, lopinavir/ritonavir, and remdesivir) repurposed to treat COVID-19. Researchers emphasized the affinity of these drugs to block the rapid component of the delayed rectifier cardiac potassium current (IKr) encoded by the human ether-a-go-go gene (hERG), their propensity to prolong cardiac repolarization (QT interval), and cause torsade de pointes (TdP). The risk of drug-induced LQTS for these drugs was quantified by comparing six indices that assess such risk. Primary and secondary outcome measures: Level of risk estimated for the six COVID-19 drugs being proposed compared to 23 torsadogenic drugs. Number of proarrhythmic adverse events identified for these drugs in the FAERS. Results: Estimators of LQTS risk levels indicated a very high or high risk for all COVID-19 repurposed drugs with the exception for azithromycin, although cases of TdP have been reported with this drug. There was excellent agreement among the various indices used to assess risk of drug-induced LQTS for the six repurposed drugs and 23 torsadogenic compounds. Conclusion: The risk-benefit assessment for the use of repurposed drugs to treat COVID-19 is complicated since benefits are currently anticipated, not proven. Mandatory monitoring of the QT interval shall be performed, as such monitoring is possible for hospitalized patients or with the use of biodevices for outpatients prescribed these drugs.",
+    "affiliations": [
+        "Universite de Montreal. Brian Cicali is a previous employee of Tabula Rasa HealthCare, and is paid independently by TRHC for work outside of this paper"
+    ],
+    "author": "Jacques Turgeon; Meghan Arwood; Malavika Deodhar; Pamela Dow; Sweilem B Al Rihani; Brian Cicali; Veronique Michaud",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20066761",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20066761"
+    },
+    "title": "Risk of drug-induced Long QT Syndrome associated with the use of repurposed COVID-19 drugs: a systematic review",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Tabula Rasa HealthCare"
+                }
+            ],
+            "funding-statement": "This research was made possible by funding from Tabula Rasa HealthCare"
+        }
+    ]
+}

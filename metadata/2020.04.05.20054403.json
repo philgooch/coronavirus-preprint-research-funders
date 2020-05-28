@@ -1,0 +1,40 @@
+{
+    "abstract": "For African countries currently reporting COVID-19 cases, we estimate when they will report more than 1 000 and 10 000 cases. Assuming current trends, more than 80% are likely to exceed 1 000 cases by the end of April 2020, with most exceeding 10 000 a few weeks later.\nCompeting Interest Statement\nThe authors have declared no competing interest.",
+    "author": "Cari Van Schalkwyk; SACEMA 10 Modelling and Analysis Response Team; Carl Andrew Pearson; CMMID COVID-19 working group; Anna M Foss; Kathleen M O'Reilly; Juliet R C Pulliam",
+    "date": 2020,
+    "doi": "10.1101/2020.04.05.20054403",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.05.20054403"
+    },
+    "title": "Projected early spread of COVID-19 in Africa",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NTD Modelling Consortium"
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1184344"
+                    ]
+                }
+            ],
+            "funding-statement": "CABP gratefully acknowledges funding of the NTD Modelling Consortium by the Bill and Melinda Gates Foundation (OPP1184344)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Effectiveness of Supplementary Immunization Activities"
+                },
+                {
+                    "funding-source": "Bill and Melinda Gates Foundation",
+                    "award-id": [
+                        "OPP1191821"
+                    ]
+                }
+            ],
+            "funding-statement": "KMO gratefully acknowledges funding of the Effectiveness of Supplementary Immunization Activities by the Bill and Melinda Gates Foundation (OPP1191821)"
+        }
+    ]
+}

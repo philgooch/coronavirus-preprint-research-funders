@@ -1,0 +1,16 @@
+{
+    "abstract": "Background In February 2020, a locally-acquired COVID-19 case was detected in Lombardia, Italy. This was the first signal of ongoing transmission of SARS-CoV-2 in the country. The outbreak rapidly escalated to a national level epidemic, amid the WHO declaration of a pandemic. Methods We analysed data from the national case-based integrated surveillance system of all RT-PCR confirmed COVID-19 infections as of March 24th 2020, collected from all Italian regions and autonomous provinces. Here we provide a descriptive epidemiological summary on the first 62,843 COVID-19 cases in Italy as well as estimates of the basic and net reproductive numbers by region. Findings Of the 62,843 cases of COVID-19 analysed, 71.6% were reported from three Regions (Lombardia, Veneto and Emilia-Romagna). All cases reported after February 20th were locally acquired. Estimates of R0 varied between 2.5 (95%CI: 2.18-2.83) in Toscana and 3 (95%CI: 2.68-3.33) in Lazio, with epidemic doubling time of 3.2 days (95%CI: 2.3-5.2) and 2.9 days (95%CI: 2.2-4.3), respectively. The net reproduction number showed a decreasing trend starting around February 20-25, 2020 in northern regions. Notably, 5,760 cases were reported among health care workers. Of the 5,541 reported COVID-19 associated deaths, 49% occurred in people aged 80 years or above with an overall crude CFR of 8.8%. Male sex and age were independent risk factors for COVID-19 death. Interpretation The COVID-19 infection in Italy emerged with a clustering onset similar to the one described in Wuhan, China and likewise showed worse outcomes in older males with comorbidities. Initial R0 at 2.96 in Lombardia, explains the high case-load and rapid geographical spread observed. Overall Rt in Italian regions is currently decreasing albeit with large diversities across the country, supporting the importance of combined non-pharmacological control measures.",
+    "author": "Antonino Bella; Stefano Boros; Silvio Brusaferro; Andrea Siddu; Ornella Punzo; Filippo Trentini; Stefania Bellino; Giovanni Rezza; Xanthi Andrianou; COVID-19 working group; Antonietta Filia; Maria Rita Castrucci; Valentina Marziano; Paola Stefanelli; Patrizio Pezzotti; Flavia Riccardo; Massimo Fabiani; Alberto Mateo Urdiales; Marco Ajelli; Marco Tallon; Martina Del Manso; Corrado Di Benedetto; Piero Poletti; Andrea Piccioli; Maria Cristina Rota; Stefano Merler; Fortunato (Paolo) D'Ancona; Alessandra Ciervo; Giorgio Guzzetta",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20056861",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20056861"
+    },
+    "title": "Epidemiological characteristics of COVID-19 cases in Italy and estimates of the reproductive numbers one month into the epidemic",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Routine institutional funding was used to perform this work"
+        }
+    ]
+}

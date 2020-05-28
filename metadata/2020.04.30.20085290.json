@@ -1,0 +1,99 @@
+{
+    "abstract": "Background: Due to the ongoing COVID-19 pandemic, demand for diagnostic testing has increased drastically, resulting in shortages of necessary materials to conduct the tests and overwhelming the capacity of testing laboratories. The supply scarcity and capacity limits affect test administration: priority must be given to hospitalized patients and symptomatic individuals, which can prevent the identification of asymptomatic and presymptomatic individuals and hence effective tracking and tracing policies. We describe optimized group testing strategies applicable to SARS-CoV-2 tests in scenarios tailored to the current COVID-19 pandemic and assess significant gains compared to individual testing. Methods: We account for biochemically realistic scenarios in the context of dilution effects on SARS-CoV-2 samples and consider evidence on specificity and sensitivity of PCR-based tests for the novel coronavirus. Because of the current uncertainty and the temporal and spatial changes in the prevalence regime, we provide analysis for a number of realistic scenarios and propose fast and reliable strategies for massive testing procedures. Findings: We find significant efficiency gaps between different group testing strategies in realistic scenarios for SARS-CoV-2 testing, highlighting the need for an informed decision of the pooling protocol depending on estimated prevalence, target specificity, and high- vs. low-risk population. For example, using one of the presented methods, all 1.47 million inhabitants of Munich, Germany, could be tested using only around 141 thousand tests if the infection rate is below 0.4% is assumed. Using 1 million tests, the 6.69 million inhabitants from the city of Rio de Janeiro, Brazil, could be tested as long as the infection rate does not exceed 1%. Interpretation: Altogether this work may help provide a basis for efficient upscaling of current testing procedures, taking the population heterogeneity into account and fine grained towards the desired study populations, e.g. cross-sectional versus health-care workers and adapted mixtures thereof.\nCompeting Interest Statement",
+    "affiliations": [
+        "Graduate School of Quantitative Biosciences Munich (QBM) [GSC 1006 to D.S.F.] and by the Joachim Herz Stiftung"
+    ],
+    "author": "Claudio M. Verdun; Tim Fuchs; Philipp Grohs; Felix Krahmer; Pavol Harar; Dennis Elbr\u00e4chter; Fabian J. Theis; Julius Berner; David S. Fischer",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20085290",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20085290"
+    },
+    "title": "Group testing for SARS-CoV-2 allows for up to 10-fold efficiency increase across realistic scenarios and testing strategies",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "German Science Foundation"
+                },
+                {
+                    "funding-source": "Gottfried Wilhelm Leibniz Prize",
+                    "award-id": [
+                        "1734/20-1"
+                    ]
+                },
+                {
+                    "funding-source": "Grant BO",
+                    "award-id": [
+                        "1734/20-1",
+                        "PO-1347/3-2"
+                    ]
+                },
+                {
+                    "funding-source": "Germany's Excellence Strategy EXC-2111",
+                    "award-id": [
+                        "390814868"
+                    ]
+                }
+            ],
+            "funding-statement": "CMV gratefully acknowledge support by German Science Foundation (DFG) within the Gottfried Wilhelm Leibniz Prize under Grant BO 1734/20-1, under contract number PO-1347/3-2 and within Germany's Excellence Strategy EXC-2111 390814868"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "German Science Foundation in the"
+                },
+                {
+                    "funding-source": "Emmy Noether",
+                    "award-id": [
+                        "4512/1-1"
+                    ]
+                }
+            ],
+            "funding-statement": "CMV and FK gratefully acknowledge support by German Science Foundation in the context of the Emmy Noether junior research group KR 4512/1-1"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Chan Zuckerberg Initiative DAF"
+                },
+                {
+                    "funding-source": "Silicon Valley Community Foundation,",
+                    "award-id": [
+                        "182835"
+                    ]
+                }
+            ],
+            "funding-statement": "FJT gratefully acknowledges support by the BMBF (grant# 01IS18036A and grant# 01IS18053A) and by the Chan Zuckerberg Initiative DAF (advised fund of Silicon Valley Community Foundation, 182835)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Austrian Science Fund",
+                    "award-id": [
+                        "I3403-N32",
+                        "30148"
+                    ]
+                }
+            ],
+            "funding-statement": "JB and DE gratefully acknowledge support by Austrian Science Fund (FWF) under grants I3403-N32 and P 30148"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "German Research Foundation"
+                },
+                {
+                    "funding-source": "Graduate School of Quantitative Biosciences Munich",
+                    "award-id": [
+                        "GSC 1006 to D.S.F."
+                    ]
+                },
+                {
+                    "funding-source": "Joachim Herz Stiftung"
+                }
+            ],
+            "funding-statement": "PG and PH declare that no external funding was received and DSF acknowledges support from a German Research Foundation (DFG) fellowship through the Graduate School of Quantitative Biosciences Munich (QBM) [GSC 1006 to D.S.F.] and by the Joachim Herz Stiftung"
+        }
+    ]
+}

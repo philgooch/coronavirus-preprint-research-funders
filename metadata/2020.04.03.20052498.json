@@ -1,0 +1,48 @@
+{
+    "abstract": "In this work we propose a data-driven age-structured census-based SIRD-like epidemiological model capable of forecasting the spread of COVID-19 in Brazil. We model the current scenario of closed schools and universities, social distancing of individuals above sixty years old and voluntary home quarantine to show that it led to a considerable reduction in the number of infections as compared with a scenario without any control measures. Notwithstanding, our model predicts that the current measures are not enough to avoid overloading the health system, since the demand for intensive care units will soon surpass the number available. We also show that an urgent intense quarantine might be the only solution to avoid this scenario and, consequently, minimize the number of severe cases and deaths. On the other hand, we demonstrate that the early relaxation of the undergoing isolation measures would lead to an increase of millions of infections in a short period of time and the consecutive collapse of the health system.",
+    "affiliations": [
+        "National Institute of Science and Technology for Quantum Information). AC acknowledges UFAL for a paid license for scientific cooperation at UFRN and the John Templeton Foundation via the Grant Q-CAUSAL No. 61084, the Serrapilheira Institute (Grant No. Serra-1708-15763) and CNPQ (Grant No. 423713/2016-7)"
+    ],
+    "author": "Lais Martins; Samurai Brito; Rafael Chaves; Askery Canabarro; Renato Martins; Elayne Tenorio",
+    "date": 2020,
+    "doi": "10.1101/2020.04.03.20052498",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.03.20052498"
+    },
+    "title": "Data-Driven Study of the COVID-19 Pandemic via Age-Structured Modelling and Prediction of the Health System Failure in Brazil amid Diverse Intervention Strategies",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Science and Technology for Quantum Information)"
+                }
+            ],
+            "funding-statement": "We acknowledge the financial support by Brazilian agencies CAPES, CNPq, and INCT-IQ (National Institute of Science and Technology for Quantum Information)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UFRN and the John Templeton Foundation",
+                    "award-id": [
+                        "Q-CAUSAL",
+                        "61084"
+                    ]
+                },
+                {
+                    "funding-source": "Grant Q-CAUSAL No",
+                    "award-id": [
+                        "61084"
+                    ]
+                },
+                {
+                    "funding-source": "Serrapilheira Institute",
+                    "award-id": [
+                        "Serra-1708-15763",
+                        "423713/2016-7"
+                    ]
+                }
+            ],
+            "funding-statement": "AC acknowledges UFAL for a paid license for scientific cooperation at UFRN and the John Templeton Foundation via the Grant Q-CAUSAL No 61084, the Serrapilheira Institute (Grant No Serra-1708-15763) and CNPQ (Grant No 423713/2016-7)"
+        }
+    ]
+}

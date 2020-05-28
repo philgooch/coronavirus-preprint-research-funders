@@ -1,0 +1,27 @@
+{
+    "title": "Phylodynamics of SARS-CoV-2 transmission in Spain",
+    "author": "Francisco D\u00edez-Fuertes 1, Mar\u00eda Iglesias-Caballero, Sara Monz\u00f3n, Pilar Jim\u00e9nez, Sarai Varona, Isabel Cuesta, \u00c1ngel Zaballos, Michael M Thomson, Mercedes Jim\u00e9nez, Javier Garc\u00eda P\u00e9rez, Francisco Pozo, Mayte P\u00e9rez-Olmeda, Jos\u00e9 Alcam\u00ed, Inmaculada Casas",
+    "date": 2020,
+    "affiliations": [
+        "AIDS Immunopathology Unit, Centro Nacional de Microbiolog\u00eda, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain",
+        "IDIBAPS \u2013 Hospital Clinic de Barcelona, Spain",
+        "Respiratory Virus and Influenza Unit, National Influenza Center, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain",
+        "Bioinformatics Unit, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain",
+        "Genomics Unit, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain",
+        "HIV Biology and Variability Unit, Centro Nacional de Microbiolog\u00eda, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.20.050039",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.20.050039.pdf"
+    },
+    "abstract": "Objectives. SARS-CoV-2 whole-genome analysis has identified three large clades spreading worldwide, designated G, V and S. This study aims to analyze the diffusion of SARS-CoV-2 in Spain/Europe. Methods. Maximum likelihood phylogenetic and Bayesian phylodynamic analyses have been performed to estimate the most probable temporal and geographic origin of different phylogenetic clusters and the diffusion pathways of SARS-CoV-2. Results. Phylogenetic analyses of the first 28 SARS-CoV-2 whole genome sequences obtained from patients in Spain revealed that most of them are distributed in G and S clades (13 sequences in each) with the remaining two sequences branching in the V clade. Eleven of the Spanish viruses of the S clade and six of the G clade grouped in two different monophyletic clusters (S-Spain and G-Spain, respectively), with the S-Spain cluster also comprising 8 sequences from 6 other countries from Europe and the Americas. The most recent common ancestor (MRCA) of the SARS-CoV-2 pandemic was estimated in the city of Wuhan, China, around November 24, 2019, with a 95% highest posterior density (HPD) interval from October 30-December 17, 2019. The origin of S-Spain and G-Spain clusters were estimated in Spain around February 14 and 18, 2020, respectively, with a possible ancestry of SSpain in Shanghai. Conclusions. Multiple SARS-CoV-2 introductions have been detected in Spain and at least two resulted in the emergence of locally transmitted clusters, with further dissemination of one of them to at least 6 other countries. These results highlight the extraordinary potential of SARS-CoV-2 for rapid and widespread geographic dissemination.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this work."
+        }
+    ]
+}

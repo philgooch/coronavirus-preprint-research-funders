@@ -1,0 +1,51 @@
+{
+    "title": "Potent antiviral effect of protoporphyrin IX and verteporfin on SARS-CoV-2 infection",
+    "author": "Chenjian Gu, Yang Wu, Huimin Guo, Yuanfei Zhu, Wei Xu, Yuyan Wang, Zhiping Sun, Xia Cai, Yutang Li, Jing Liu, Zhenghong Yuan, Rong Zhang, Qiang Deng, Di Qu, 2**, Youhua Xie,** 1 Key Laboratory of Medical Molecular Virology (MOE/NHC/CAMS), Department of Medical Microbiology and Parasitology, School of Basic Medical Sciences, Shanghai Medical College, Fudan University 2 BSL-3 laboratory of Fudan University, School of Basic Medical Sciences, Shanghai Medical College, Fudan University 3 Children\u2019s hospital, Shanghai Medical College, Fudan University",
+    "date": 2020,
+    "affiliations": [
+        "Key Laboratory of Medical Molecular Virology (MOE/NHC/CAMS), Department of Medical Microbiology and Parasitology, School of Basic Medical Sciences, Shanghai Medical College, Fudan University",
+        "BSL-3 laboratory of Fudan University, School of Basic Medical Sciences, Shanghai Medical College, Fudan University",
+        "Children\u2019s hospital, Shanghai Medical College, Fudan University",
+        "Key Laboratory of Medical Molecular Virology (MOE/NHC/CAMS), School of Basic Medical Sciences, Shanghai Medical College, Fudan University, e-mail"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.30.071290",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.30.071290.pdf"
+    },
+    "abstract": "The infection of SARS-CoV-2 has spread to more than 200 countries and regions and the numbers of infected people and deaths worldwide are expected to continue to rise. Current treatment of COVID-19 is limited and mostly supportive. At present, there is no specific therapeutics against SARS-CoV-2. In this study, we discovered that protoporphyrin IX and verteporfin, two FDA-approved drugs for treatment of human diseases, had significant antiviral effect against SARS-CoV-2, with EC50 values for the reduction of viral RNA at nanomolar concentrations. Both drugs completely inhibited the cytopathic effect (CPE) produced by SARS-CoV-2 infection at lower drug concentrations than that of remdesivir. The selection indices of protoporphyrin IX and verteporfin are 952.74 and 368.93, respectively, suggesting wide safety margins. Both drugs were able to prevent SARS-CoV-2 infection as well as suppress established SARS-CoV-2 infection. The compounds share a porphyrin ring structure. Molecular docking indicates that the compounds may interact with viral receptor ACE2 and could block the cell-cell fusion mediated by ACE2 and viral S protein. Our finding suggests that protoporphyrin IX and verteporfin might be potential antivirals against SARS-CoV-2 infection and also sheds new light on the development of a novel class of small compounds against SARS-CoV-2.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science and Technology Major Project"
+                },
+                {
+                    "funding-source": "Prevention and Treatment of Infectious Diseases",
+                    "award-id": [
+                        "2018ZX10734401",
+                        "2018ZX10301208"
+                    ]
+                },
+                {
+                    "funding-source": "NSTMP for the Development of Novel Drugs",
+                    "award-id": [
+                        "2019ZX09721001"
+                    ]
+                },
+                {
+                    "funding-source": "Project of Novel Coronavirus Research of Fudan University. AUTHOR"
+                },
+                {
+                    "funding-source": "CONTRIBUTIONS Youhua Xie, Di"
+                },
+                {
+                    "funding-source": "Qu and Qing Deng"
+                }
+            ],
+            "funding-statement": "The study was supported by the National Science and Technology Major Project (NSTMP) for the Prevention and Treatment of Infectious Diseases (2018ZX10734401, 2018ZX10301208), NSTMP for the Development of Novel Drugs (2019ZX09721001), and Project of Novel Coronavirus Research of Fudan University. AUTHOR CONTRIBUTIONS Youhua Xie, Di Qu and Qing Deng drafted the manuscript"
+        }
+    ]
+}

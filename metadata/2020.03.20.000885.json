@@ -1,0 +1,44 @@
+{
+    "title": "Emergence of SARS-CoV-2 through Recombination and Strong Purifying Selection",
+    "author": "Feng Gao",
+    "date": 2020,
+    "affiliations": [
+        "Department of Medicine, Duke University Medical Center, Durham, NC 27710, USA",
+        "Theoretical Biology and Biophysics, Los Alamos National Laboratory, Los Alamos, NM 87544, USA",
+        "Department of Chemistry and Biochemistry, The University of Texas at El Paso, El Paso, TX 79968, USA",
+        "Department of Biochemistry and Molecular Pharmacology, Grossman School of Medicine, New York University, New York, NY 10016",
+        "These authors contributed equally"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.20.000885",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.20.000885.pdf"
+    },
+    "abstract": "COVID-19 has become a global pandemic caused by a novel coronavirus SARS-CoV-2. Understanding the origins of SARS-CoV-2 is critical for deterring future zoonosis and for drug discovery and vaccine development. We show evidence of strong purifying selection around the receptor binding motif (RBM) in the spike gene and in other genes among bat, pangolin and human coronaviruses, indicating similar strong evolutionary constraints in different host species. We also demonstrate that SARS-CoV-2\u2019s entire RBM was introduced through recombination with coronaviruses from pangolins, possibly a critical step in the evolution of SARS-CoV-2\u2019s ability to infect humans. Similar purifying selection in different host species and frequent recombination among coronaviruses suggest a common evolutionary mechanism that could lead to new emerging human coronaviruses.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH Grants",
+                    "award-id": [
+                        "AI122909",
+                        "AI118571",
+                        "GM129525",
+                        "AI145655"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding: This work was supported by NIH Grants (AI122909, AI118571, GM129525 and AI145655)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Los Alamos National Laboratory"
+                }
+            ],
+            "funding-statement": "EEG, BK, and BF acknowledge support by the LDRD program at Los Alamos National Laboratory"
+        }
+    ]
+}

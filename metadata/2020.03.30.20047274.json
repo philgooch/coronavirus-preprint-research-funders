@@ -1,0 +1,26 @@
+{
+    "abstract": "We have analyzed the COVID19 epidemic data of more than 174 countries (excluding China) in the period between January 22 and March 28, 2020. We found that some countries (such as the US, the UK, and Canada) follow an exponential epidemic growth, while others (like Italy and several other European countries) show a power law like growth. At the same time, regardless of the best fitting law, most countries can be shown to follow a trajectory similar to that of Italy, but with varying degrees of delay. We found that countries with ``younger\" epidemics tend to exhibit more exponential like behavior, while countries that are closer behind Italy tend to follow a power law growth. We hypothesize that there is a universal growth pattern of this infection that starts off as exponential and subsequently becomes more power law like. Although it cannot be excluded that this growth pattern is a consequence of social distancing measures, an alternative explanation is that it is an intrinsic epidemic growth law, dictated by a spatially distributed community structure, where the growth in individual highly mixed communities is exponential but the longer term, local geographical spread (in the absence of global mixing) results in a power-law. This is supported by computer simulations of a metapopulation model that gives rise to predictions about the growth dynamics that are consistent with correlations found in the epidemiological data. Therefore, seeing a deviation from straight exponential growth may not be a consequence of working non-pharmaceutical interventions (except for, perhaps, restricting the air travel). Instead, this is a normal course of raging infection spread. On the practical side, this cautions us against overly optimistic interpretations of the countries epidemic development and emphasizes the need to continue improving the compliance with social distancing behavior recommendations.",
+    "author": "Dominik Wodarz; Natalia L. Komarova",
+    "date": 2020,
+    "doi": "10.1101/2020.03.30.20047274",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.30.20047274"
+    },
+    "title": "Patterns of the COVID19 epidemic spread around the world: exponential vs power laws",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF DMS",
+                    "award-id": [
+                        "1662146/1662096"
+                    ]
+                },
+                {
+                    "funding-source": "NK & DW)"
+                }
+            ],
+            "funding-statement": "Support of grant NSF DMS 1662146/1662096 (NK & DW) is gratefully acknowledged. The authors or their institution never received payment or services from a third party for any aspect of the submitted work"
+        }
+    ]
+}

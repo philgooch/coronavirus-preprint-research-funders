@@ -1,0 +1,19 @@
+{
+    "abstract": "Introduction: Coronavirus disease 2019 (COVID-19) is an emerging infectious disease that was first reported in Wuhan, China, and has subsequently spread worldwide. Knowledge of coronavirus-related risk factors can help countries build more systematic and successful responses to COVID-19 disease outbreak. Here we used Supervised Machine Learning and Empirical Bayesian Kriging (EBK) techniques to reveal correlates and patterns of COVID-19 Disease outbreak in sub-Saharan Africa (SSA). Methods: We analyzed time series aggregate data compiled by Johns Hopkins University on the outbreak of COVID-19 disease across SSA. COVID-19 data was merged with additional data on socio-demographic and health indicator survey data for 39 of SSA 48 countries that reported confirmed cases and deaths from coronavirus between February 28, 2020 through March 26, 2020. We used supervised machine learning algorithm, Lasso for variable selection and statistical inference. EBK was used to also create a raster estimating the spatial distribution of COVID-19 disease outbreak. Results: The lasso Cross-fit partialing out predictive model ascertained seven variables significantly associated with the risk of coronavirus infection (i.e. new HIV infections among pediatric, adolescent, and middle-aged adult PLHIV, time (days), pneumococcal conjugate-based vaccine, incidence of malaria and diarrhea treatment). Our study indicates, the doubling time in new coronavirus cases was 3 days. The steady three-day decrease in coronavirus outbreak rate of change (ROC) from 37% on March 23, 2020 to 23% on March 26, 2020 indicates the positive impact of countries' steps to stymie the outbreak. The interpolated maps show that coronavirus is rising every day and appears to be severely confined in South Africa. In the West African region (i.e. Burkina Faso, Ghana, Senegal, CotedIviore, Cameroon, and Nigeria), we predict that new cases and deaths from the virus are most likely to increase. Interpretation: Integrated and efficiently delivered interventions to reduce HIV, pneumonia, malaria and diarrhea, are essential to accelerating global health efforts. Scaling up screening and increasing COVID-19 testing capacity across SSA countries can help provide better understanding on how the pandemic is progressing and possibly ensure a sustained decline in the ROC of coronavirus outbreak. Funding: Authors were wholly responsible for the costs of data collation and analysis.",
+    "affiliations": [
+        "Johns Hopkins University. Additional data from socio-demographic and health indicator surveys was derived from web resources of the World Bank, UNICEF, WHO and UNAIDS. All data used are publicly available, and sources are cited throughout"
+    ],
+    "author": "Ezekiel James; Dolapo Ogundehin; Pamela Gado; Christopher Obanubi; Michele Russell; Gertrude Odezugo; Doreen Magaji; Akinyemi Atobatele; Abiye Kalaiwo; Amobi Andrew Onovo",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20082057",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20082057"
+    },
+    "title": "Using Supervised Machine Learning and Empirical Bayesian Kriging to reveal Correlates and Patterns of COVID-19 Disease outbreak in sub-Saharan Africa: Exploratory Data Analysis",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Funding: Authors were wholly responsible for the costs of data collation and analysis"
+        }
+    ]
+}

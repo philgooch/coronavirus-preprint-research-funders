@@ -1,0 +1,62 @@
+{
+    "abstract": "The rapid global spread of SARS-CoV-2 and resultant mortality and social disruption have highlighted the need to better understand coronavirus immunity to expedite vaccine development efforts. Multiple candidate vaccines, designed to elicit protective neutralising antibodies targeting the viral spike glycoprotein, are rapidly advancing to clinical trial. However, the immunogenic properties of the spike protein in humans are unresolved. To address this, we undertook an in-depth characterisation of humoral and cellular immunity against SARS-CoV-2 spike in humans following mild to moderate SARS-CoV-2 infection. We find serological antibody responses against spike are routinely elicited by infection and correlate with plasma neutralising activity and capacity to block ACE2/RBD interaction. Expanded populations of spike-specific memory B cells and circulating T follicular helper cells (cTFH) were detected within convalescent donors, while responses to the receptor binding domain (RBD) constitute a minor fraction. Using regression analysis, we find high plasma neutralisation activity was associated with increased spike-specific antibody, but notably also with the relative distribution of spike-specific cTFH subsets. Thus both qualitative and quantitative features of B and T cell immunity to spike constitute informative biomarkers of the protective potential of novel SARS-CoV-2 vaccines.",
+    "affiliations": [
+        "ARC Centre of Excellence in Convergent Bio-Nano Science and Technology (SJK), an NHMRC program grant APP1149990 (SJK), NHMRC project grant GNT1162760 (AKW), and the Jack Ma Foundation (DIG, 489NAG). WHT is",
+        "Howard Hughes Medical Institute-Wellcome Trust International Research Scholar (208693/Z/17/Z).JAJ, DIG, MPD,WHT, SJK and AKW are supported by NHMRC fellowships"
+    ],
+    "author": "Hannah G Kelly; Melanie H Dietrich; Wen Shi Lee; Dale I Godfrey; Kanta Subbarao; Jennifer A Juno; Kathleen Wragg; Francesca L Mordant; Adam K Wheatley; Phillip Pymm; Nicholas A Gherardin; Helen E Kent; Arnold Reynaldi; C Jane Batten; Nichollas E Scott; Miles P Davenport; Hyon-Xhi Tan; Stephen J Kent; Robyn Esterbauer; Wai-Hong Tham",
+    "date": 2020,
+    "doi": "10.1101/2020.05.17.20104869",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.17.20104869"
+    },
+    "title": "Immunogenic profile of SARS-CoV-2 spike in individuals recovered from COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ARC Centre of Excellence in Convergent Bio-Nano Science and Technology",
+                    "award-id": [
+                        "APP1149990"
+                    ]
+                },
+                {
+                    "funding-source": "NHMRC",
+                    "award-id": [
+                        "APP1149990"
+                    ]
+                },
+                {
+                    "funding-source": "NHMRC",
+                    "award-id": [
+                        "GNT1162760"
+                    ]
+                },
+                {
+                    "funding-source": "Jack Ma Foundation",
+                    "award-id": [
+                        "489NAG"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was supported by the ARC Centre of Excellence in Convergent Bio-Nano Science and Technology (SJK), an NHMRC program grant APP1149990 (SJK), NHMRC project grant GNT1162760 (AKW), and the Jack Ma Foundation (DIG, 489NAG)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Howard Hughes Medical Institute-Wellcome Trust International Research Scholar",
+                    "award-id": [
+                        "208693/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "MPD,WHT, SJK"
+                },
+                {
+                    "funding-source": "NHMRC"
+                }
+            ],
+            "funding-statement": "WHT is a Howard Hughes Medical Institute-Wellcome Trust International Research Scholar (208693/Z/17/Z).JAJ, DIG, MPD,WHT, SJK and AKW are supported by NHMRC fellowships"
+        }
+    ]
+}

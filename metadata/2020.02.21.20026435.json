@@ -1,0 +1,34 @@
+{
+    "abstract": "As of March 31, 2020 the ongoing COVID-19 epidemic that started in China in December 2019 is now generating local transmission around the world. The geographic heterogeneity and associated intervention strategies highlight the need to monitor in real time the transmission potential of COVID-19. Singapore provides a unique case example for monitoring transmission, as there have been multiple disease clusters, yet transmission remains relatively continued. Here we estimate the effective reproduction number, Rt, of COVID-19 in Singapore from the publicly available daily case series of imported and autochthonous cases by date of symptoms onset, after adjusting the local cases for reporting delays as of March 17, 2020. We also derive the reproduction number from the distribution of cluster sizes using a branching process analysis that accounts for truncation of case counts. The local incidence curve displays sub-exponential growth dynamics, with the reproduction number following a declining trend and reaching an estimate at 0.7 (95% CI: 0.3, 1.0) during the first transmission wave by February 14, 2020 while the overall R based on the cluster size distribution as of March 17, 2020 was estimated at 0.6 (95% CI: 0.4, 1.02). The overall mean reporting delay was estimated at 6.4 days (95% CI: 5.8, 6.9), but it was shorter among imported cases compared to local cases (mean 4.3 vs. 7.6 days, Wilcoxon test, p<0.001). The trajectory of the reproduction number in Singapore underscores the significant effects of successful containment efforts in Singapore, but it also suggests the need to sustain social distancing and active case finding efforts to stomp out all active chains of transmission.",
+    "author": "Ping Yan; Amna Tariq; Kimberlyn Roosa; Seth Blumberg; Stefan Ma; Gerardo Chowell; Yiseul Lee",
+    "date": 2020,
+    "doi": "10.1101/2020.02.21.20026435",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.21.20026435"
+    },
+    "title": "Real-time monitoring the transmission potential of COVID-19 in Singapore, March 2020",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "1610429",
+                        "1633381"
+                    ]
+                }
+            ],
+            "funding-statement": "G.C. is supported by NSF grants 1610429 and 1633381"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "130900"
+                    ]
+                }
+            ],
+            "funding-statement": "G.C. and S.B. are partially supported by R01 GM 130900"
+        }
+    ]
+}

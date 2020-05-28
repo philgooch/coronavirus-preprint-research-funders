@@ -1,0 +1,56 @@
+{
+    "title": "Structure-Based Design, Synthesis and Biological Evaluation of Peptidomimetic Aldehydes as a Novel Series of Antiviral Drug Candidates Targeting the SARS-CoV-2 Main Protease",
+    "author": "Wenhao Dai a,d, Bing Zhang b, Xia-Ming Jiangc, Haixia Su a, Jian Li a, Yao Zhao b, Xiong Xie a, Zhenming Jin b, Jingjing Peng a, Fengjiang Liub, Chunpu Li a, You Lie, Fang Bai b, Haofeng Wangb, Xi Chen a, Xiaobo Cene, Shulei Hu a, Xiuna Yang b, Jiang Wang a, Xiang Liu f, Gengfu Xiao c, Hualiang Jiang a,b,d, Zihe Rao b, Lei-Ke Zhang c, Yechun Xu a, Haitao Yang b, Hong Liu a,b,d",
+    "date": 2020,
+    "affiliations": [
+        "State Key Laboratory of Drug Research, CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, 555 Zu Chong Zhi Road, Shanghai 201203, China",
+        "Shanghai Institute for Advanced Immunochemical Studies and School of Life Science and",
+        "Technology, ShanghaiTech University, Shanghai 201210, China",
+        "State Key Laboratory of Virology, Wuhan Institute of Virology, Center for Biosafety Mega-Science, Chinese Academy of Sciences, 430071 Wuhan, China",
+        "School of Pharmacy, China Pharmaceutical University, Nanjing 210009, Jiangsu, China",
+        "National Chengdu Center for Safety Evaluation of Drugs, #28 Gaopeng Avenue, High-Tech Development Zone, Chengdu, Sichuan, 610041, China",
+        "State Key Laboratory of Medicinal Chemical Biology, Frontiers Science Center for Cell Response, College of Life Sciences, College of Pharmacy, Nankai University"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.25.996348",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.25.996348.pdf"
+    },
+    "abstract": "SARS-CoV-2 is the etiological agent responsible for the COVID-19 outbreak in\nWuhan. Specific antiviral drug are urgently needed to treat COVID-19 infections. The main protease (Mpro) of SARS-CoV-2 is a key CoV enzyme that plays a pivotal role in mediating viral replication and transcription, which makes it an attractive drug target. In an effort to rapidly discover lead compounds targeting Mpro, two compounds (11a and 11b) were designed and synthesized, both of which exhibited excellent inhibitory activity with an IC50 value of 0.05 \u03bcM and 0.04 \u03bcM respectively. Significantly, both compounds exhibited potent anti-SARS-CoV-2 infection activity in a cell-based assay with an EC50 value of 0.42 \u03bcM and 0.33 \u03bcM, respectively. The X-ray crystal structures of SARS-CoV-2 Mpro in complex with 11a and 11b were determined at 1.5 \u00c5 resolution, respectively. The crystal structures showed that 11a and 11b are covalent inhibitors, the aldehyde groups of which are bound covalently to Cys145 of Mpro. Both compounds showed good PK properties in vivo, and 11a also exhibited low toxicity which is promising drug leads with clinical potential that merits further studies. Key Words: Coronaviruses (CoV), COVID-19, SARS-CoV-2, main protease (Mpro), chymotrypsin-like protease (3CLpro), peptidomimetic aldehydes, structure-based drug design, X-ray crystal structure Introduction:",
+    "keywords": [
+        "Coronaviruses (CoV)",
+        "COVID-19",
+        "SARS-CoV-2",
+        "main protease (Mpro)",
+        "chymotrypsin-like protease (3CLpro)",
+        "peptidomimetic aldehydes",
+        "structure-based drug design",
+        "X-ray crystal structure"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "21632008",
+                        "21672231",
+                        "21877118",
+                        "31970165",
+                        "81620108027"
+                    ]
+                },
+                {
+                    "funding-source": "Strategic Priority Research Program of the Chinese Academy of Sciences",
+                    "award-id": [
+                        "XDA12040107",
+                        "XDA12040201"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding: We are grateful to the National Natural Science Foundation of China (Nos. 21632008, 21672231, 21877118, 31970165 and 81620108027) and the Strategic Priority Research Program of the Chinese Academy of Sciences (XDA12040107 and XDA12040201) for financial support"
+        }
+    ]
+}

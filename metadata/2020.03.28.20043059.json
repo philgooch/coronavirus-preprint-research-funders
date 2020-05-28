@@ -1,0 +1,43 @@
+{
+    "abstract": "Diagnosis is the key point for confirmation and treatment of COVID-19. we focused on comparative analysis of virus dynamics between the upper respiratory and feces specimens in the COVID-19 patients. A total of 66 upper respiratory swabs, 51 feces, 56 urine and 56 plasma samples were sequentially collected from 23 patients in a designated hospital. The plasma and urine samples were all negative, except for urine samples from two severe cases at the latest available detection point. Conversely, virus was shed in respiratory swabs and feces samples during the diseased period. Ten of 12 (83.3%) cases were positive for feces samples, while 14 of 21 (66.7%) were positive for respiratory samples. In addition, the median duration of virus shedding was 10.0 days (IQR 8.0 to 17.0) in the upper respiratory swabs, but was 22.0 days (IQR 15.5 to 23.5) for the feces. Notably, at 26 days after discharge, case 3 (a 45-year-old) was detected positive again in the feces samples, but appears to be healthy and negative for respiratory swabs. These results indicated that beside respiratory samples, intestinal samples (e.g. feces) should be recommended for diagnosis of COVID-19, especially before a patient discharge and for monitoring the relapse of discharged patients.",
+    "affiliations": [
+        "Chinese Academy of Sciences (CAS) (Grant No. XDB29010102). Y.B. is supported by the NSFC Outstanding Young Scholars (Grant No. 31822055), and Youth Innovation Promotion Association of CAS (Grant No. 2017122). We declare no competing interests"
+    ],
+    "author": "Penghui Yang; Fanping Meng; Fusheng Wang; Yuhuan Gong; Ning Zhang; Yuhai Bi",
+    "date": 2020,
+    "doi": "10.1101/2020.03.28.20043059",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.28.20043059"
+    },
+    "title": "Virus shedding patterns in nasopharyngeal and fecal specimens of COVID-19 patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Strategic Priority Research Program of the Chinese Academy of Sciences",
+                    "award-id": [
+                        "XDB29010102"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Strategic Priority Research Program of the Chinese Academy of Sciences (CAS) (Grant No XDB29010102)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSFC Outstanding Young Scholars",
+                    "award-id": [
+                        "31822055"
+                    ]
+                },
+                {
+                    "funding-source": "Youth Innovation Promotion Association of CAS",
+                    "award-id": [
+                        "2017122"
+                    ]
+                }
+            ],
+            "funding-statement": "Y.B. is supported by the NSFC Outstanding Young Scholars (Grant No 31822055), and Youth Innovation Promotion Association of CAS (Grant No 2017122)"
+        }
+    ]
+}

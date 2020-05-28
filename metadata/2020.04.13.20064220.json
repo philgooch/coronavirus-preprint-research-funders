@@ -1,0 +1,16 @@
+{
+    "abstract": "To understand the scope and development of the COVID-19 pandemic, knowledge of the number of infected persons is essential. Often, the number of \"confirmed cases\", which is based on positive RT-PCR test results, is regarded as a reasonable indicator. However, limited COVID-19 test capacities in many countries are restricting the amount of testing that can be done. This can lead to the implementation of testing policies that restrict access to COVID-19 tests, and to testing backlogs and delays. As a result, confirmed case numbers can be significantly lower than the actual number of infections, especially during rapid growth phases of the epidemic. This study examines the quantitative relation between infections and reported confirmed case numbers for two different testing strategies, \"limited\" and \"inclusive\" testing, in relation to the growth rate of the epidemic. The results indicate that confirmed case numbers understate the actual number of infections substantially; during rapid growth phases where the daily growth rate can reach or exceed 30%, as has been seen in many countries, the confirmed case numbers under-report actual infections by up to 50 to 100-fold.",
+    "author": "Peter Richterich",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20064220",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20064220"
+    },
+    "title": "Severe underestimation of COVID-19 case numbers: effect of epidemic growth rate and test restrictions",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this study."
+        }
+    ]
+}

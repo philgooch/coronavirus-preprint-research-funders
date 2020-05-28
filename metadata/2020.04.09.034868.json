@@ -1,0 +1,53 @@
+{
+    "title": "De novo design of high-affinity antibody variable regions (Fv) against the SARS-CoV-2 spike protein",
+    "date": 2020,
+    "author": "Veda Sheersh Boorla#, Ratul Chowdhury#, and Costas D. Maranas",
+    "affiliations": [
+        "Department of Chemical Engineering, The Pennsylvania State University, University Park. PA 16802"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.09.034868",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.09.034868.pdf"
+    },
+    "abstract": "19, which emerged in the city of Wuhan, Hubei province, China in late 2019. Both vaccines and targeted therapeutics for treatment of this disease are currently lacking. Viral entry requires binding of the viral spike receptor binding domain (RBD) with the human angiotensin converting enzyme (hACE2). In an earlier 16 paper1, we report on the specific residue interactions underpinning this event. Here we report on the de novo computational design of high affinity antibody variable regions through the recombination of VDJ genes targeting the most solvent-exposed hACE2-binding residues of the SARS-CoV-2 spike protein using the 19 software tool OptMAVEn-2.02. Subsequently, we carry out computational affinity maturation of the designed prototype variable regions through point mutations for improved binding with the target epitope.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Center for Bioenergy Innovation of US Department of Energy",
+                    "award-id": [
+                        "DE-SC0018420"
+                    ]
+                },
+                {
+                    "funding-source": "US National Science Foundation",
+                    "award-id": [
+                        "CBET1703274"
+                    ]
+                },
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "CBET1703274"
+                    ]
+                },
+                {
+                    "funding-source": "High-Performance Computing"
+                },
+                {
+                    "funding-source": "The Inistitute for Computational and Data Sciences Advanced Cyber Infrastructure",
+                    "award-id": [
+                        "ICDS-ACI"
+                    ]
+                },
+                {
+                    "funding-source": "Pennsylvania State  University"
+                }
+            ],
+            "funding-statement": "This activity was partially enabled by research conducted within the Center for Bioenergy Innovation of US Department of Energy (DE-SC0018420) and US National Science Foundation (NSF) grant  CBET1703274. All computations were performed using the High-Performance Computing facility at The Inistitute for Computational and Data Sciences Advanced Cyber Infrastructure (ICDS-ACI) at Pennsylvania State  University"
+        }
+    ]
+}

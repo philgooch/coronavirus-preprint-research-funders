@@ -1,0 +1,16 @@
+{
+    "abstract": "Compartmental models enable the analysis and prediction of an epidemic including the number of infected, hospitalized and deceased individuals in a population. They allow for computational case studies on non-pharmaceutical interventions thereby providing an important basis for policy makers. While research is ongoing on the transmission dynamics of the SARS-CoV-2 coronavirus, it is important to come up with epidemic models that can describe the main stages of the progression of the associated COVID-19 respiratory disease. We propose an age-stratified discrete compartment model as an alternative to differential equation based S-I-R type of models. The model captures the highly age-dependent progression of COVID-19 and is able to describe the day-by-day advancement of an infected individual in a modern health care system. The fully-identified model for Switzerland not only predicts the overall histories of the number of infected, hospitalized and deceased, but also the corresponding age-distributions. The model-based analysis of the outbreak reveals an average infection fatality ratio of 0.4% with a pronounced maximum of 9.5% for those aged \u226580 years. The predictions for different scenarios of relaxing the soft lockdown indicate a low risk of overloading the hospitals through a second wave of infections. However, there is a hidden risk of a significant increase in the total fatalities (by up to 200%) in case schools reopen with insufficient containment measures in place.",
+    "author": "Dirk Mohr; Fadoua Balabdaoui",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095059",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095059"
+    },
+    "title": "Age-stratified model of the COVID-19 epidemic to analyze the impact of relaxing lockdown measures: nowcasting and forecasting for Switzerland",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no external funding received</strong>"
+        }
+    ]
+}

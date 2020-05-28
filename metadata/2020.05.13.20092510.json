@@ -1,0 +1,16 @@
+{
+    "abstract": "India, the second most populated country in the world, reported its first COVID-19 case in the state of Kerala with a travel history from Wuhan. Subsequently, a surge of cases was observed in the state mainly through the individuals who traveled from Europe and the Middle East to Kerala, thus initiating an outbreak. Since public awareness through dissemination of reliable information plays a significant role in controlling the spread of the disease, the Department of Health Services, Government of Kerala initially released daily updates through daily textual bulletins. However, this unstructured data requires refinement and enrichment for upstream applications, such as visualization, and/or analysis. Here we reported a citizen science initiative that leveraged publicly available and crowd-verified data on COVID-19 outbreak in Kerala from the government bulletins, supplemented with the information from media outlets to generate reusable datasets. This data was further used to provide real-time analysis, and daily updates of COVID-19 cases in Kerala, through a user-friendly bilingual dashboard (https://covid19kerala.info/) for non-specialists. We ensured longevity and reusability of the dataset by depositing it in a public repository, aligning with open source principles for future analytical efforts. Finally, to show the scope of the sourced data, we also provided a snapshot of outbreak trends and demographic characteristics of the individuals affected with COVID-19 in Kerala during the first 99 days of the outbreak.",
+    "author": "Manoj Karingamadathil; Jijo Pulickiyil Ulahannan; Rajeevan E; Shabeesh Balan; Unnikrishnan Sureshkumar; Neetha Nanoth Vellichirammal; Sooraj P Suresh; Sreekanth Chaliyeduth; Prem Prabhakaran; Musfir Mohammed; Nishad Thalhath; Akhil Balakrishnan; Jeevan Uthaman; NIkhil Narayanan; Sindhu Joseph; Sunil Thonikkuzhiyil Thomas",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20092510",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20092510"
+    },
+    "title": "A citizen science initiative for open data and visualization of COVID-19 outbreak in Kerala, India",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This study was not funded by any agencies and was purely a voluntary effort during the community-wide quarantine period by a team of technologists, academicians and students advocating open data and citizen science"
+        }
+    ]
+}

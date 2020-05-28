@@ -1,0 +1,20 @@
+{
+    "title": "A Modified ACE2 peptide mimic to block SARS-CoV2 entry",
+    "date": 2020,
+    "author": "Suman Saurabh,\u2020 and Shubh Sanket Purohit",
+    "affiliations": [
+        "Centre de Biophysique Moleculaire, Rue Charles Sadron, CNRS, Orleans 45071, France",
+        "Department of Medicine, Govt. Medical College, Nagpur 440012, India"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.07.082230",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.07.082230.pdf"
+    },
+    "abstract": "A 23-residue peptide fragment that forms a part of the \u03b1-1 helix of the ACE2 peptidase domain, the recognition domain for SARS-CoV2 on the ACE2 receptor, holds the potential as a drug to block the viral receptor binding domain (RBD) from forming a complex with ACE2. The peptide has recently been shown to bind the viral RBD with good efficiency. Here, we present a detailed analysis of the energetics of binding of the peptide to the SARS-CoV2 RBD. We use equilibrium molecular dynamics simulation to study the dynamics of the complex. We perform end-state binding energy calculations to gain a residue-level insight into the binding process and use the information to incorporate point mutations into the peptide. We demonstrate using binding energy calculations that the peptide with certain point mutations, especially E17L, shows a stronger binding to the RBD as compared to the wild type peptide. We propose that the modified peptide will thus be more efficient in blocking RBD-ACE2 binding.",
+    "funding": [
+        {}
+    ]
+}

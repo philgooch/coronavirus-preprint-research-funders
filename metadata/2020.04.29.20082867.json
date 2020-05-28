@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Pandemic COVID-19 by SARS-COV-2 infection is facilitated by the ACE2 receptor and protease TMPRSS2. Modestly sized case series have described clinical factors associated with COVID-19, while ACE2 and TMPRSS2 expression analyses have been described in some cell types. Cancer patients may have worse outcomes to COVID-19. Methods: We performed an integrated study of ACE2 and TMPRSS2 gene expression across and within organ systems, by normal versus tumor, across several existing databases (The Cancer Genome Atlas, Census of Immune Single Cell Expression Atlas, The Human Cell Landscape, and more). We correlated gene expression with clinical factors (including but not limited to age, gender, race, BMI and smoking history), HLA genotype, immune gene expression patterns, cell subsets, and single-cell sequencing as well as commensal microbiome. Results: Matched normal tissues generally display higher ACE2 and TMPRSS2 expression compared with cancer, with normal and tumor from digestive organs expressing the highest levels. No clinical factors were consistently identified to be significantly associated with gene expression levels though outlier organ systems were observed for some factors. Similarly, no HLA genotypes were consistently associated with gene expression levels. Strong correlations were observed between ACE2 expression levels and multiple immune gene signatures including interferon-stimulated genes and the T cell-inflamed phenotype as well as inverse associations with angiogenesis and transforming growth factor-\u03b2 signatures. ACE2 positively correlated with macrophage subsets across tumor types. TMPRSS2 was less associated with immune gene expression but was strongly associated with epithelial cell abundance. Single-cell sequencing analysis across nine independent studies demonstrated little to no ACE2 or TMPRSS2 expression in lymphocytes or macrophages. ACE2 and TMPRSS2 gene expression associated with commensal microbiota in matched normal tissues particularly from colorectal cancers, with distinct bacterial populations showing strong associations. Conclusions: We performed a large-scale integration of ACE2 and TMPRSS2 gene expression across clinical, genetic, and microbiome domains. We identify novel associations with the microbiota and confirm host immunity associations with gene expression. We suggest caution in interpretation regarding genetic associations with ACE2 expression suggested from smaller case series.\nFunding Statement",
+    "author": "Jason J Luke; Lei Huang; Riyue Bao; Kyle Hernandez",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20082867",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20082867"
+    },
+    "title": "ACE2 and TMPRSS2 expression by clinical, HLA, immune, and microbial correlates across 34 human cancers and matched normal tissues: implications for SARS-COV-2 COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

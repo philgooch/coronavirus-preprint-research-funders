@@ -1,0 +1,67 @@
+{
+    "title": "Sequence variation among SARS-CoV-2 isolates in Taiwan 3 Yu-Nong Gong1,2,\u2020, Kuo-Chien Tsao1,2,3,\u2020, Mei-Jen Hsiao2, Chung-Guei Huang2,3, Peng-Nien 4 Huang1, Po-Wei Huang2, Kuo-Ming Lee1, Yi-Chun Liu2, Shu-Li Yang2,3, Rei-Lin Kuo1,3,4,5, 5 Ming-Tsan Liu6, Ji-Rong Yang6, Cheng-Hsun Chiu7,8, Cheng-Ta Yang9,10, Shin-Ru Shih1,2,3,11,*, 6 Guang-Wu Chen1,2,12,*",
+    "date": 2020,
+    "affiliations": [
+        "Research Center for Emerging Viral Infections, College of Medicine, Chang Gung University",
+        "Taoyuan, Taiwan 10",
+        "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan",
+        "Department of Medical Biotechnology and Laboratory Science, College of Medicine, Chang",
+        "Gung University, Taoyuan, Taiwan 14",
+        "Division of Asthma, Allergy, and Rheumatology, Department of Pediatrics, Linkou Chang",
+        "Gung Memorial Hospital, Taoyuan, Taiwan. 16",
+        "Graduate Institute of Biomedical Sciences, College of Medicine, Chang Gung University",
+        "Taoyuan, Taiwan. 18",
+        "Centers for Disease Control, Taipei, Taiwan 19",
+        "Division of Pediatric Infectious Diseases, Department of Pediatrics, Chang Gung Memorial 20 Hospital, Chang Gung University College of Medicine, Taoyuan, Taiwan 21",
+        "Molecular Infectious Disease Research Center, Chang Gung Memorial Hospital, Chang Gung 22 University College of Medicine, Taoyuan, Taiwan 23",
+        "Department of Respiratory Therapy, College of Medicine, Chang Gung University, Taoyuan, 24 Taiwan 25",
+        "Department of Thoracic Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan",
+        "Research Center for Chinese Herbal Medicine, Research Center for Food and Cosmetic Safety, 27 and Graduate Institute of Health Industry Technology, College of Human Ecology, Chang Gung 28 University of Science and Technology, Taoyuan, Taiwan 29",
+        "Department of Computer Science and Information Engineering, School of Electrical and 30 Computer Engineering, College of Engineering, Chang Gung University, Taoyuan, Taiwan"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.29.014290",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.29.014290.pdf"
+    },
+    "abstract": "Taiwan experienced two waves of imported cases of coronavirus disease 2019 (COVID-19), first from China in January to late February, followed by those from other countries starting in early March. Additionally, several cases could not be traced to any imported cases and were suspected as sporadic local transmission. Twelve full viral genomes were determined in this study by Illumina sequencing either from virus isolates or directly from specimens, among which 5 originated from clustered infections. Phylogenetic tree analysis revealed that these sequences were in different clades, indicating that no major strain has been circulating in Taiwan. A deletion in open reading frame 8 was found in one isolate. Only a 4-nucleotide difference was observed among the 5 genomes from clustered infections.",
+    "keywords": [
+        "41 SARS-CoV-2",
+        "Illumina Sequencing",
+        "Phylogeny",
+        "ORF8 Deletion"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Center for Emerging Viral Infections from The Featured Areas Research Center Program"
+                },
+                {
+                    "funding-source": "Higher Education Sprout Project"
+                },
+                {
+                    "funding-source": "Ministry of Education"
+                },
+                {
+                    "funding-source": "Ministry of Science and Technology",
+                    "award-id": [
+                        "MOST 108-3017-F-182-001",
+                        "MOST 107-2221-E- 182-064-MY2",
+                        "MOST 106-2320-B-182A-013-MY3"
+                    ]
+                },
+                {
+                    "funding-source": "Linkou Chang Gung Memorial Hospital, Taiwan",
+                    "award-id": [
+                        "CLRPG3B0048",
+                        "CMRPD1H0231\u20133"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was financially supported by the Research Center for Emerging Viral Infections from The Featured Areas Research Center Program within the framework of the Higher Education Sprout Project by the Ministry of Education (MOE) in Taiwan, the Ministry of Science and Technology (MOST), Taiwan (MOST 108-3017-F-182-001, MOST 107-2221-E- 182-064-MY2, and MOST 106-2320-B-182A-013-MY3), and Linkou Chang Gung Memorial Hospital, Taiwan (No CLRPG3B0048 and CMRPD1H0231\u20133)"
+        }
+    ]
+}

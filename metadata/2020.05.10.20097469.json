@@ -1,0 +1,23 @@
+{
+    "abstract": "The COVID-19 pandemic has created an urgent need for models that can project epidemic trends, explore intervention scenarios, and estimate resource needs. Here we describe the methodology of Covasim (COVID-19 Agent-based Simulator), an open-source model developed to help address these questions. Covasim includes demographic information on age structure and population size; realistic transmission networks in different social layers, including households, schools, workplaces, and communities; age-specific disease outcomes; and intrahost viral dynamics, including viral-load-based transmissibility. Covasim also supports an extensive set of interventions, including non-pharmaceutical interventions, such as physical distancing, hygiene measures, and protective equipment; and testing interventions, such as symptomatic and asymptomatic testing, isolation, contact tracing, and quarantine. These interventions can incorporate the effects of delays, loss-to-follow-up, micro-targeting, and other factors. In collaboration with local health agencies and policymakers, Covasim has already been applied to examine disease dynamics and policy options in Africa, Europe, Oceania, and North America.",
+    "author": "Gregory Hart; Dina Mistry; Prashanth Selvaraj; Daniel J. Klein; Robyn M. Stuart; Brittany Hagedorn; Assaf P. Oron; Michael Famulare; Edward Wenger; Jamie A. Cohen; Jasmina Panovska-Griffiths; Romesh G. Abeysuriya; Dominic Delport; Cliff C. Kerr; Stewart Chang; Michal Jastrzebski; Rafael C. Nunez; Bradley Wagner; Katherine Rosenfeld; Amanda Izzo; Lauren George; Carrie Bennette; Anna Palmer",
+    "date": 2020,
+    "doi": "10.1101/2020.05.10.20097469",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.10.20097469"
+    },
+    "title": "Covasim: an agent-based model of COVID-19 dynamics and interventions",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Bill and Melinda Gates"
+                },
+                {
+                    "funding-source": "Global Good Fund"
+                }
+            ],
+            "funding-statement": "This work was supported by Bill and Melinda Gates through the Global Good Fund"
+        }
+    ]
+}

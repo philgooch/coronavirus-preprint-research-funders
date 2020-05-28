@@ -1,0 +1,35 @@
+{
+    "abstract": "Objectives: We aimed to identify key demographic risk factors for hospital attendance with COVID-19 infection. Design: Community survey Setting: The COVID Symptom Tracker mobile application co-developed by physicians and scientists at Kings College London, Massachusetts General Hospital, Boston and Zoe Global Limited was launched in the UK and US on 24th and 29th March 2020 respectively. It captured self-reported information related to COVID-19 symptoms and testing. Participants: 2,618,948 users of the COVID Symptom Tracker App. UK (95.7%) and US (4.3%) population. Data cut-off for this analysis was 21st April 2020. Main outcome measures: Visit to hospital and for those who attended hospital, the need for respiratory support in three subgroups (i) self-reported COVID-19 infection with classical symptoms (SR-COVID-19), (ii) self-reported positive COVID-19 test results (T-COVID-19), and (iii) imputed/predicted COVID-19 infection based on symptomatology (I-COVID-19). Multivariate logistic regressions for each outcome and each subgroup were adjusted for age and gender, with sensitivity analyses adjusted for comorbidities. Classical symptoms were defined as high fever and persistent cough for several days. Results: Older age and all comorbidities tested were found to be associated with increased odds of requiring hospital care for COVID-19. Obesity (BMI >30) predicted hospital care in all models, with odds ratios (OR) varying from 1.20 [1.11; 1.31] to 1.40 [1.23; 1.60] across population groups. Pre-existing lung disease and diabetes were consistently found to be associated with hospital visit with a maximum OR of 1.79 [1.64,1.95] and 1.72 [1.27; 2.31]) respectively. Findings were similar when assessing the need for respiratory support, for which age and male gender played an additional role. Conclusions: Being older, obese, diabetic or suffering from pre-existing lung, heart or renal disease placed participants at increased risk of visiting hospital with COVID-19. It is of utmost importance for governments and the scientific and medical communities to work together to find evidence-based means of protecting those deemed most vulnerable from COVID-19. Trial registration: The App Ethics have been approved by KCL ethics Committee REMAS ID 18210, review reference LRS-19/20-18210",
+    "author": "M. Jorge Cardoso; Carole H Sudre; Long H. Nguyen; Alessia Visconti; Karla A Lee; David Alden Drew; Maxim B Freydin; Mary Ni Lochlainn; Benjamin Murray; Thomas Varsavsky; Mario Falchi; Mark S Graham; Julien Lavigne du Cadet; Sajaysurya Ganesh; Claire J Steves; Marc Modat; Cristina Menni; Andrew T Chan; Ruth C. E. Bowyer; Joan Capdevila Pujol; Timothy D Spector; Xinyuan Zhang; Richard Davies; Julia S El-Sayed Moustafa; Sebastien Ourselin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20079251",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20079251"
+    },
+    "title": "Key predictors of attending hospital with COVID19: An association study from the COVID Symptom Tracker App in 2,618,948 individuals",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust,",
+                    "award-id": [
+                        "MRC/BHF"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "NIHR-funded BioResource, Clinical"
+                },
+                {
+                    "funding-source": "Research Facility and BRC"
+                },
+                {
+                    "funding-source": "GSTT NHS Foundation Trust in"
+                }
+            ],
+            "funding-statement": "Investigators received support from the Wellcome Trust, the MRC/BHF, Alzheimer\u0092s Society, EU, NIHR, CDRF, and the NIHR-funded BioResource, Clinical Research Facility and BRC based at GSTT NHS Foundation Trust in partnership with KCL"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "Background: Nearly 30,000 patients with coronavirus disease-2019 (COVID-19) have been hospitalized in New York City as of April 14th, 2020. Data on the epidemiology, clinical course, and outcomes of critically ill patients with COVID-19 in this setting are needed. Methods: We prospectively collected clinical, biomarker, and treatment data on critically ill adults with laboratory-confirmed-COVID-19 admitted to two hospitals in northern Manhattan between March 2nd and April 1st, 2020. The primary outcome was in-hospital mortality. Secondary outcomes included frequency and duration of invasive mechanical ventilation, frequency of vasopressor use and renal-replacement-therapy, and time to clinical deterioration following hospital admission. The relationship between clinical risk factors, biomarkers, and in-hospital mortality was modeled using Cox-proportional-hazards regression. Each patient had at least 14 days of observation. Results: Of 1,150 adults hospitalized with COVID-19 during the study period, 257 (22%) were critically ill. The median age was 62 years (interquartile range [IQR] 51-72); 170 (66%) were male. Two-hundred twelve (82%) had at least one chronic illness, the most common of which were hypertension (63%; 162/257) and diabetes mellitus (36%; 92/257). One-hundred-thirty-eight patients (54%) were obese, and 13 (5%) were healthcare workers. As of April 14th, 2020, in-hospital mortality was 33% (86/257); 47% (122/257) of patients remained hospitalized. Two-hundred-one (79%) patients received invasive mechanical ventilation (median 13 days [IQR 9-17]), and 54% (138/257) and 29% (75/257) required vasopressors and renal-replacement-therapy, respectively. The median time to clinical deterioration following hospital admission was 3 days (IQR 1-6). Older age, hypertension, chronic lung disease, and higher concentrations of interleukin-6 and d-dimer at admission were independently associated with in-hospital mortality. Conclusions: Critical illness among patients hospitalized with COVID-19 in New York City is common and associated with a high frequency of invasive mechanical ventilation, extra-pulmonary organ dysfunction, and substantial in-hospital mortality.\nCompeting Interest Statement",
+    "affiliations": [
+        "Columbia University. The remaining authors have no interests to declare",
+        "National Institute of Allergy and Infectious Diseases [F32AI147528-01 to M.J.C]. No other external funding was received"
+    ],
+    "author": "Natalie H Yip; Samuel D Jacobson; Jan Claassen; Benjamin J Meyer; LeRoy E Rabbani; Beth R Hochman; Justin G Aaron; Matthew J Cummings; Daniel Brodie; Max R O'Donnell; Matthew R Baldwin; Darryl Abrams; John Salazar-Schicchi; Elizabeth M Balough; Jonathan Hastie",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20067157",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20067157"
+    },
+    "title": "Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "ALung Technologies and"
+                }
+            ],
+            "funding-statement": "Dr Brodie receives research support from ALung Technologies and he was previously on their medical advisory board"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "U.S National Institute of Allergy and Infectious Diseases",
+                    "award-id": [
+                        "F32AI147528-01 to M.J.C"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the U.S National Institute of Allergy and Infectious Diseases [F32AI147528-01 to M.J.C]"
+        }
+    ]
+}

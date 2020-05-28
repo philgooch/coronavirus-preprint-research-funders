@@ -1,0 +1,19 @@
+{
+    "abstract": "Background: The rapid spread of coronavirus disease 2019 (COVID-19) revealed significant constraints in critical care capacity. In anticipation of subsequent waves, reliable prediction of disease severity is essential for critical care capacity management and may enable earlier targeted interventions to improve patient outcomes. The purpose of this study is to develop and externally validate a prognostic model/clinical tool for predicting COVID-19 critical disease at presentation to medical care. Methods: This is a retrospective study of a prognostic model for the prediction of COVID-19 critical disease where critical disease was defined as ICU admission, ventilation, and/or death. The derivation cohort was used to develop a multivariable logistic regression model. Covariates included patient comorbidities, presenting vital signs, and laboratory values. Model performance was assessed on the validation cohort by concordance statistics. The model was developed with consecutive patients with COVID-19 who presented to University of California Irvine Medical Center in Orange County, California. External validation was performed with a random sample of patients with COVID-19 at Emory Healthcare in Atlanta, Georgia. Results: Of a total 3208 patients tested in the derivation cohort, 9% (299/3028) were positive for COVID-19. Clinical data including past medical history and presenting laboratory values were available for 29% (87/299) of patients (median age, 48 years [range, 21-88 years]; 64% [36/55] male). The most common comorbidities included obesity (37%, 31/87), hypertension (37%, 32/87), and diabetes (24%, 24/87). Critical disease was present in 24% (21/87). After backward stepwise selection, the following factors were associated with greatest increased risk of critical disease: number of comorbidities, body mass index, respiratory rate, white blood cell count, % lymphocytes, serum creatinine, lactate dehydrogenase, high sensitivity troponin I, ferritin, procalcitonin, and C-reactive protein. Of a total of 40 patients in the validation cohort (median age, 60 years [range, 27-88 years]; 55% [22/40] male), critical disease was present in 65% (26/40). Model discrimination in the validation cohort was high (concordance statistic: 0.94, 95% confidence interval 0.87-1.01). A web-based tool was developed to enable clinicians to input patient data and view likelihood of critical disease. Conclusions and Relevance: We present a model which accurately predicted COVID-19 critical disease risk using comorbidities and presenting vital signs and laboratory values, on derivation and validation cohorts from two different institutions. If further validated on additional cohorts of patients, this model/clinical tool may provide useful prognostication of critical care needs.\nCompeting Interest Statement",
+    "affiliations": [
+        "University of California, Irvine"
+    ],
+    "author": "Xiaohui Xie; Justin Glabis-Bloom; Peter Chang; Brent Weinberg; Jennifer Soun; Alpesh Amin; Simukayi Mutasa; Daniel S Chow; Leslie Thompson; Bernadette Boden-Albala; Theresa Berens-Loveless; Daniela Bota; Edwin Monuki; Saahir Khan; Jung In Park; Jie Wu",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093435",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093435"
+    },
+    "title": "Development and External Validation of a Prognostic Tool for COVID-19 Critical Disease",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

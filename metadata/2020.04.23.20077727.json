@@ -1,0 +1,58 @@
+{
+    "abstract": "The COVID-19 pandemic has strained testing capabilities worldwide. There is an urgent need to find economical and scalable ways to test more people. We present Tapestry, a novel quantitative nonadaptive pooling scheme to test many samples using only a few tests. The underlying molecular diagnostic test is any real-time RT-PCR diagnostic panel approved for the detection of the SARS-CoV-2 virus. In cases where most samples are negative for the virus, Tapestry accurately identifies the status of each individual sample with a single round of testing in fewer tests than simple two-round pooling. We also present a companion Android application BYOM Smart Testing which guides users through the pipetting steps required to perform the combinatorial pooling. The results of the pooled tests can be fed into the application to recover the status and estimated viral load for each individual sample.",
+    "affiliations": [
+        "Department of Atomic Energy, Government of India, for funding under project no. 12-R&D-TFR-5.04-0800. SV thanks Wellcome Trust- DBT Alliance Early Career Fellowship (IA/E/16/1/502996) for funding. No external payment, service, or funding was received beyond this"
+    ],
+    "author": "Shashank Ch; Vinay Sagar; Thomas E. Schaus; Vidhya Appu; Vadhir Bhupathi; Nikhil Gopalkrishnan; Dasaradhi Palakodeti; Uma Ramakrishnan; Manoj Gopalkrishnan; Rishi Agarwal; Pratyush Agarwal; Sandeep Krishna; Nimay Gupta; Raunak Ramakrishnan; Mohammed Ali Rehan; Sabyasachi Ghosh; Anirudh Chakravarthy; Aditya Gupta; Shreya Pathak; Mohit Jindal; Srikar Krishna; Ritika Goyal; Sriram Varahan; Abhinav Jain; Ajit Rajwade; Sarthak Consul; Peng Yin; Yash Gupta",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20077727",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20077727"
+    },
+    "title": "Tapestry: A Single-Round Smart Pooling Technique for COVID-19 Testing",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "EMR/2017/004089",
+                        "MTR/2018/000817"
+                    ]
+                }
+            ],
+            "funding-statement": "MG was supported by SERB grants EMR/2017/004089 and MTR/2018/000817"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Simons Foundation for"
+                }
+            ],
+            "funding-statement": "SK thanks the Simons Foundation for funding"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Atomic Energy, Government",
+                    "award-id": [
+                        "12-R",
+                        "D-TFR-5",
+                        "04-0800"
+                    ]
+                }
+            ],
+            "funding-statement": "NCBS authors thank the Department of Atomic Energy, Government of India, for funding under project no. 12-R&D-TFR-5.04-0800"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust- DBT Alliance Early Career Fellowship",
+                    "award-id": [
+                        "IA/E/16/1/502996"
+                    ]
+                }
+            ],
+            "funding-statement": "SV thanks Wellcome Trust- DBT Alliance Early Career Fellowship (IA/E/16/1/502996) for funding"
+        }
+    ]
+}

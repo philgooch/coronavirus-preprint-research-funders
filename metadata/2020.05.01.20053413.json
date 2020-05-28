@@ -1,0 +1,51 @@
+{
+    "title": "Development of a Clinical Decision Support System for Severity Risk Prediction and Triage of COVID-19 Patients at Hospital Admission: an International Multicenter Study",
+    "author": "Guangyao Wu, MD; Pei Yang, MD; Henry C. Woodruff, PhD; Xiangang Rao, MD; Julien Guiot, MD, PhD; Anne-Noelle Frix, MD; Michel Moutschen, MD, PhD; Renaud Louis, MD, PhD; Jiawei Li, MD; Jing Li, MD; Chenggong Yan, MD; Dan Du, MD; Shengchao Zhao, MD; Yi Ding, MD; Bin Liu, MD; Wenwu Sun, MD; Fabrizio Albarello, MD; Alessandra D'Abramo, MD; Vincenzo Schinin\u00e0, MD; Emanuele Nicastri, MD; Mariaelena Occhipinti, MD; Giovanni Barisione, MD; Emanuela Barisione, MD; Iva Halilaj MSc; Yuanliang Xie, MD; Xiang Wang, MD; Pierre Lovinfosse, MD, PhD; Jianlin Wu, MD, PhD; Philippe Lambin, MD, PhD, *Contributed equally",
+    "date": 2020,
+    "affiliations": [
+        "Patients at Hospital Admission: an International Multicenter Study"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.01.20053413",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20053413.pdf"
+    },
+    "abstract": "Department of Radiology, The Central Hospital of Wuhan, Huazhong University of Science and Technology, Wuhan, China (P Yang MD, D Dan MD, S Zhao MD, Y Ding MD, B Liu MD, Y Xie MD, and X Wang MD) The D-Lab: Department of Precision Medicine, GROW - School for Oncology and Developmental Biology, Maastricht University Medical Center+, Maastricht, The Netherlands (G Wu MD, H Woodruff PhD, C Yan MD, I Halilaj, and Prof P Lambin MD) Department of Radiology and Nuclear Medicine, GROW- School for Oncology and Developmental Biology, Maastricht University Medical Center+, Maastricht, The Netherlands (H Woodruff PhD, and Prof P Lambin MD) Department of Pulmonary and Critical Care Medicine, The Central Hospital of Wuhan, Huazhong University of Science and Technology, Wuhan, China (W Sun MD) Nuclear Medicine and Oncological Imaging, Department of Medical Physics, CHU of Li\u00e8ge, Li\u00e8ge, Belgium (P Lovinfosse MD, PhD) Department of Infectiology, CHU of Li\u00e8ge, Li\u00e8ge, Belgium (M Moutschen MD, PhD) Department of Respiratory, CHU of Li\u00e8ge, Li\u00e8ge, Belgium (J Guiot MD, PhD, A Frix MD, and R Louis MD, PhD) Department of Ultrasound, The Central Hospital of Huangshi, Huangshi, China (X Rao MD) Department of Radiology, China Resources Wuhan Iron and Steel Hospital, Wuhan, China (J Li MD) Department of Radiology, The Central Hospital of Shaoyang, Shaoyang, China (J Li MD) Department of Medical Imaging Center, Nanfang Hospital, Southern Medical University, Guangzhou, China (C",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Program",
+                    "award-id": [
+                        "H2020",
+                        "ImmunoSABR - n\u00b0 733008",
+                        "PREDICT - ITN - n\u00b0 766276",
+                        "CHAIMELEON - n\u00b0 952172",
+                        "EuCanImage \u2013 n\u00b0 952103"
+                    ]
+                },
+                {
+                    "funding-source": "TRANSCAN Joint Transnational Call",
+                    "award-id": [
+                        "JTC2016 \u201cCLEARLY\u201d- n\u00b0 UM 2017-8295"
+                    ]
+                },
+                {
+                    "funding-source": "China Scholarships Council",
+                    "award-id": [
+                        "n\u00b0 201808210318"
+                    ]
+                },
+                {
+                    "funding-source": "Interreg V-A Euregio Meuse-Rhine",
+                    "award-id": [
+                        "\u201cEuradiomics\u201d - n\u00b0 EMR4"
+                    ]
+                }
+            ],
+            "funding-statement": "Funding/Support: This work was supported from ERC advanced grant (ERC-ADG-2015, n\u00b0 694812 Hypoximmuno), European Program H2020 (ImmunoSABR - n\u00b0 733008, PREDICT - ITN - n\u00b0 766276, CHAIMELEON - n\u00b0 952172, EuCanImage \u2013 n\u00b0 952103), TRANSCAN Joint Transnational Call 2016 (JTC2016 \u201cCLEARLY\u201d- n\u00b0 UM 2017-8295), China Scholarships Council (n\u00b0 201808210318), and Interreg V-A Euregio Meuse-Rhine (\u201cEuradiomics\u201d - n\u00b0 EMR4)"
+        }
+    ]
+}

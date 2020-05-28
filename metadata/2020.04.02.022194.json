@@ -1,0 +1,39 @@
+{
+    "title": "Structural basis of RNA recognition by the SARS-CoV-2 nucleocapsid phosphoprotein",
+    "author": "1Institute of Organic Chemistry and Biochemistry AS CR, v.v.i., Flemingovo nam. 2., 166 10 Prague 6, Czech Republic 2Department of Cell Biology, Faculty of Science, Charles University, Vinicna 7, 128 10 Prague 2, Czech Republic # co-first author *correspondence to veverka@uochb.cas.cz or boura@uochb.cas.cz",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Organic Chemistry and Biochemistry AS CR, v.v.i., Flemingovo nam. 2., 166",
+        "Prague 6, Czech Republic",
+        "Department of Cell Biology, Faculty of Science, Charles University, Vinicna 7, 128",
+        "Prague 2, Czech Republic # co-first author *correspondence to"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.02.022194",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.02.022194.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the causative agent of the Coronavirus disease 2019 (COVID-19) which is currently negatively affecting the population and disrupting the global economy. SARS-CoV-2 belongs to the +RNA virus family that utilize single-stranded positive-sense RNA molecules as genomes. SARS-CoV-2, like other coronaviruses, has an unusually large genome for a +RNA virus that encodes four structural proteins \u2013 the matrix (M), small envelope (E), spike (S) and nucleocapsid phosphoprotein (N) - and sixteen nonstructural proteins (nsp1-16) that together ensure replication of the virus in the host cell. The nucleocapsid phosphoprotein N is essential for linking the viral genome to the viral membrane. Its N-terminal RNA binding domain (N-NTD) captures the RNA genome while the Cterminal domain anchors the ribonucleoprotein complex to the viral membrane via its interaction with the M protein. Here, we characterized the structure of the N-NTD and its interaction with RNA using NMR spectroscopy. We observed a positively charged canyon on the surface of the N-NTD lined with arginine residues suggesting a putative RNA binding site. Next, we performed an NMR titration experiment using an RNA duplex. The observed changes in positions of signals in the N-NTD NMR spectra allowed us to construct a model of the N-NTD in complex with RNA.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Regional Development Fund; OP",
+                    "award-id": [
+                        "ChemBioDrug"
+                    ]
+                },
+                {
+                    "funding-source": "No CZ.",
+                    "award-id": [
+                        "01/0",
+                        "0/16_019/0000729"
+                    ]
+                }
+            ],
+            "funding-statement": "The work was supported from European Regional Development Fund; OP RDE; Project: \"Chemical biology for drugging undruggable targets (ChemBioDrug)\" (No CZ.02.1.01/0.0/0.0/16_019/0000729)"
+        }
+    ]
+}

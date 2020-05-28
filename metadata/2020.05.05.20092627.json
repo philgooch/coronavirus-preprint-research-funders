@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Understanding and projecting the spread of COVID-19 requires reliable estimates of the impact of weather on the transmission of the virus. Prior research on this topic has been inconclusive. We estimate the impact of weather on transmission by assembling one of the largest datasets integrating COVID-19 infections and weather, and use the results to project weather impact on transmission in the coming months. Methods: We assemble a dataset that includes virus transmission and weather data across 3,739 locations from December 12, 2019 to April 22, 2020. Using simulation, we identify key challenges to reliable estimation of weather impacts on transmission, design a statistical method to overcome these challenges, and validate it in a blinded simulation study. Controlling for location-specific response trends we then estimate how different weather variables are associated with the reproduction number for COVID-19. We then use the estimates to project the relative weather-related risk of COVID-19 transmission across the world and in large cities. Results: We show that the delay between exposure and detection of infection complicates the estimation of weather impact on COVID-19 transmission, potentially explaining significant variability in results to date. Correcting for that distributed delay and offering conservative estimates, we find a negative relationship between temperatures above 25 degrees Celsius and estimated reproduction number (R\u0302), with each degree Celsius associated with a 3.1% (95% CI: 1.5-4.8%) reduction in R\u0302. Higher levels of relative humidity strengthen the negative effect of temperature above 25 degrees. Moreover, one millibar of additional pressure increases R\u0302 by approximately 0.8 percent (0.6-1%) at the median pressure (1016 millibars) in our sample. We also find significant positive effects for wind speed, precipitation, and diurnal temperature on R\u0302. Sensitivity analysis and simulations show that results are robust to multiple assumptions. Despite conservative estimates, weather effects are associated with a 43% change in R\u0302 between the 5th and 95th percentile of weather conditions in our sample. Conclusions: The results provide evidence for the relationship between several weather variables and the spread of COVID-19, finding a negative association between temperature and humidity and transmission. However, the (conservatively) estimated effects of summer weather are not strong enough to seasonally control the epidemic in most locations.\nCompeting Interest Statement",
+    "author": "Catherine DiGennaro; Mohammad S. Jalali; Navid Ghaffarzadegan; Ran Xu; Heresh Amini; Marichi Gupta; Hazhir Rahmandad",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20092627",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092627"
+    },
+    "title": "Weather Conditions and COVID-19 Transmission: Estimates and Projections",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was used to conduct this study."
+        }
+    ]
+}

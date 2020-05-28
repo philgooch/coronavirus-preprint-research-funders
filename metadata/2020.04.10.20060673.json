@@ -1,0 +1,16 @@
+{
+    "abstract": "The lockdown response to COVID-19 has caused an unprecedented reduction in global economic activity. We test the hypothesis that this has reduced tropospheric and ground-level air pollution concentrations using satellite data and a network of >10,000 air quality stations. After accounting for the effects of meteorological variability, we find remarkable declines in ground-level nitrogen dioxide (NO2: -29 % with 95% confidence interval -44% to -13%), ozone (O3: -11%; -20% to -2%) and fine particulate matter (PM2.5: -9%; -28% to 10%) during the first two weeks of lockdown (n = 27 countries). These results are largely mirrored by satellite measures of the troposphere although long-distance transport of PM2.5 resulted in more heterogeneous changes relative to NO2. Pollutant anomalies were related to short-term health outcomes using empirical exposure-response functions. We estimate that there was a net total of 7400 (340 to 14600) premature deaths and 6600 (4900 to 7900) pediatric asthma cases avoided during two weeks post-lockdown. In China and India alone, the PM2.5-related avoided premature mortality was 1400 (1100 to 1700) and 5300 (1000 to 11700), respectively. Assuming that the lockdown-induced deviations in pollutant concentrations are maintained for the duration of 2020, we estimate 0.78 (0.09 to 1.5) million premature deaths and 1.6 (0.8 to 2) million pediatric asthma cases could be avoided globally. While the state of global lockdown is not sustainable, these findings illustrate the potential health benefits gained from reducing 'business as usual' air pollutant emissions from economic activities.",
+    "author": "Jos Lelieveld; Zander S Venter; Kristin Aunan; Sourangsu Chowdhury",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20060673",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20060673"
+    },
+    "title": "COVID-19 lockdowns cause global air pollution declines with implications for public health risk",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None."
+        }
+    ]
+}

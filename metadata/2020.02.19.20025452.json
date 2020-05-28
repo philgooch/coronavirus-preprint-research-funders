@@ -1,0 +1,32 @@
+{
+    "abstract": "As a novel coronavirus (COVID-19) continues to emerge throughout China and threaten the globe, its transmission characteristics remain uncertain. Here, we analyze the serial intervals-the time period between the onset of symptoms in an index (infector) case and the onset of symptoms in a secondary (infectee) case-of 468 infector-infectee pairs with confirmed COVID-19 cases reported by health departments in 18 Chinese provinces between January 21, 2020, and February 8, 2020. The reported serial intervals range from -11 days to 20 days, with a mean of 3.96 days (95% confidence interval: 3.53-4.39), a standard deviation of 4.75 days (95% confidence interval: 4.46-5.07), and 12.6% of reports indicating pre-symptomatic transmission.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Natural Science Foundation of China (61773091)"
+    ],
+    "author": "Benjamin J Cowling; Lauren Ancel Meyers; Xiaoke Xu; Ye Wu; Zhanwei Du; Lin Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.02.19.20025452",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.19.20025452"
+    },
+    "title": "The serial interval of COVID-19 from publicly reported confirmed cases",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "U01 GM087719"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "61773091"
+                    ]
+                }
+            ],
+            "funding-statement": "We acknowledge the financial support from NIH (U01 GM087719) and the National Natural Science Foundation of China (61773091)"
+        }
+    ]
+}

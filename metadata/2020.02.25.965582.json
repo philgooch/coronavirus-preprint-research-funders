@@ -1,0 +1,48 @@
+{
+    "title": "Screening of FDA-approved drugs using a MERS-CoV clinical isolate from South Korea identifies potential therapeutic options for COVID-19",
+    "date": 2020,
+    "author": "Meehyun Koa, So Young Changa, Soo Young Byunb, Inhee Choic, Anne-Laure Pham Hung d\u2019Alexandry d\u2019Orengiania, David Shumb, Ji-Young Mina, and Marc P. Windischd,e",
+    "affiliations": [
+        "Respiratory Virus Laboratory, Emerging Virus Group, Discovery Biology Department, Institut Pasteur Korea, Seongnam, Gyeonggi, Republic of Korea",
+        "Screening Discovery Platform, Translation Research Division, Institut Pasteur Korea, Seongnam, Gyeonggi, Republic of Korea",
+        "Medicinal Chemistry, Medicinal Chemistry & Business Development Group, Translational Research Department, Institut Pasteur Korea, Seongnam, Gyeonggi, Republic of Korea",
+        "Applied Molecular Virology Laboratory, Unmet Medical Needs Group, Discovery Biology Department, Institut Pasteur Korea, Seongnam, Gyeonggi, Republic of Korea",
+        "Division of Bio-Medical Science and Technology, University of Science and Technology, Yuseonggu, Daejeon, Republic of Korea",
+        "Center, GlaxoSmithKline. \u2020M.K. and S.Y.C. contributed equally to this work",
+        "Human Coronavirus-Erasmus Medical Center (HCoV-EMC) was isolated in 2012 from a patient in Saudi Arabia who developed pneumonia and renal failure (AM, Zaki, van Boheemen S, Bestebroer TM, Osterhaus AD, 2012). From the first outbreak in 2012 to January 2019, the HCoV-EMC epidemic resulted in 2,449 laboratory-confirmed cases and at least 845 deaths (fatality rate of 34%), mainly in the Arabian Peninsula. Thus, HCoV-EMC was renamed Middle East Respiratory Syndrome Coronavirus (MERS-CoV) (WHO, 2019)"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.25.965582",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.25.965582.pdf"
+    },
+    "abstract": "In 2015, the Middle East Respiratory Syndrome Coronavirus (MERS-CoV) reached the Republic of Korea through nosocomial transmission and was the largest epidemic outside of the Arabian Peninsula. To date, despite various strategies to identify CoV interventions, only limited therapeutic options are available. To address these unmet medical needs, we used a South Korean MERS-CoV clinical isolate and screened 5,406 compounds, including United States Food and Drug Administration (FDA)-approved drugs and bioactive molecules, for their activity against the isolate. The primary assay confirmed 221 hits by dose-response curve analysis and identified 54 hits with a therapeutic index (TI) greater than 6. Time-of-addition studies with 12 FDA-approved drugs demonstrated that 8 and 4 therapeutics act on the early and late stages of the viral life cycle, respectively. Among the drugs were e.g., three cardiotonic agents (ouabain, digitoxin, digoxin) with a TI greater than 100, an anti-malaria drug (atovaquone; TI >34), an inhalable corticosteroid (ciclesonide; TI >6), etc. Together, our results identify potential therapeutic options for treating MERS-CoV infections and could provide a basis for agents against a wider range of coronavirusrelated illnesses, including the currently emerging Coronavirus Disease 2019 (COVID-19) outbreak.",
+    "keywords": [
+        "Middle East Respiratory Syndrome Coronavirus",
+        "coronavirus disease",
+        "clinical isolate",
+        "high-throughput screening",
+        "FDA-approved drugs",
+        "drug repurposing",
+        "COVID-19"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Research Foundation"
+                },
+                {
+                    "funding-source": "Ministry of Science and ICT",
+                    "award-id": [
+                        "2016M3A9B6918984",
+                        "2017M3A9G6068245"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was supported by the National Research Foundation (NRF) of Korea, which is funded by the Ministry of Science and ICT [2016M3A9B6918984, 2017M3A9G6068245]"
+        }
+    ]
+}

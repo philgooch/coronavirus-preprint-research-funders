@@ -1,0 +1,51 @@
+{
+    "title": "Evolution and variation of 2019-novel coronavirus",
+    "author": "Chenglong Xiong, Lufang Jiang, Yue Chen, Qingwu Jiang, 2* 1 Department of Public Health Microbiology, School of Public Health, Fudan University, Shanghai 200032, China 2 School of Public Health, Fudan University, Key Laboratory of Public Health Safety, Ministry of Education, Shanghai 200032, China 3 School of Epidemiology and Public Health, Faculty of Medicine, University of Ottawa, Ottawa, Canada * Correspondence to: jiangqw@fudan.edu.cn (Q. J.) Running title: Underdetection of 2019-nCoV infection",
+    "date": 2020,
+    "affiliations": [
+        "Department of Public Health Microbiology, School of Public Health, Fudan University, Shanghai 200032, China",
+        "School of Public Health, Fudan University, Key Laboratory of Public Health Safety, Ministry of Education, Shanghai 200032, China",
+        "School of Epidemiology and Public Health, Faculty of Medicine, University of Ottawa, Ottawa, Canada",
+        "Correspondence to:",
+        "National Health Commission about the outbreak. As of 28 January 2020, there were 4631 confirmed cases and 106 deaths, and had affected 11 countries or regions [7,8]"
+    ],
+    "journal": "Keywords",
+    "volume": "1",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.01.30.926477",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.01.30.926477.pdf"
+    },
+    "abstract": "Background: The current outbreak caused by novel coronavirus (2019-nCoV) in China has become a worldwide concern. As of 28 January 2020, there were 4631 confirmed cases and 106 deaths, and 11 countries or regions were affected. Methods: We downloaded the genomes of 2019-nCoVs and similar isolates from the Global Initiative on Sharing Avian Influenza Database (GISAID and nucleotide database of the National Center for Biotechnology Information (NCBI). Lasergene 7.0 and MEGA 6.0 softwares were used to calculate genetic distances of the sequences, to construct phylogenetic trees, and to align amino acid sequences. Bayesian coalescent phylogenetic analysis, implemented in the BEAST software package, was used to calculate the molecular clock related characteristics such as the nucleotide substitution rate and the most recent common ancestor (tMRCA) of 2019-nCoVs. Results: An isolate numbered EPI_ISL_403928 showed different phylogenetic trees and genetic distances of the whole length genome, the coding sequences (CDS) of ployprotein (P), spike protein (S), and nucleoprotein (N) from other 2019-nCoVs. There are 22, 4, 2 variations in P, S, and N at the level of amino acid residues. The nucleotide substitution rates from high to low are 1\u00b705 \u00d7 10-2 (nucleotide substitutions/site/year, with 95% HPD interval being 6.27 \u00d7 10-4 to 2.72 \u00d7 10-2) for N, 5.34 \u00d7 10-3 (5.10 \u00d7 10-4, 1.28 \u00d7 10-2) for S, 1.69 \u00d7 10-3 (3.94 \u00d7 10-4, 3.60 \u00d7 10-3) for P, 1.65 \u00d7 10-3 (4.47 \u00d7 10-4, 3.24 \u00d7 10-3) for the whole genome, respectively. At this nucleotide substitution rate, the most recent common ancestor (tMRCA) of 2019-nCoVs appeared about 0.253-0.594 year before the epidemic. Conclusion: Our analysis suggests that at least two different viral strains of 2019-nCoV are involved in this outbreak that might occur a few months earlier before it was officially reported.",
+    "keywords": [
+        "2019-nCoV",
+        "evolution",
+        "variation",
+        "recessive infection",
+        "underdetection"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81872673"
+                    ]
+                },
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2017YFC1200203"
+                    ]
+                },
+                {
+                    "funding-source": "CONTRIBUTIONS All"
+                }
+            ],
+            "funding-statement": "This research was funded by the National Natural Science Foundation of China (grant No 81872673), the National Key Research and Development Program of China (grant No 2017YFC1200203). AUTHORS\u2019 CONTRIBUTIONS All authors made significant contributions to the conception, data acquisition, analysis and drafting of this manuscript and approve the final version submitted. C. X. and Q. J. conceived and designed the project. Y. C. and Q. J. developed the research question. C. X. and L. J. collected the sequences and calculated them. All members of the group contributed to the analysis design and interpretation of the data."
+        }
+    ]
+}

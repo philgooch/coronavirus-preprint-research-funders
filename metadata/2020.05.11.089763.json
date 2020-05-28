@@ -1,0 +1,32 @@
+{
+    "title": "Children\u2019s Hospital Los Angeles COVID-19 Analysis Research Database (CARD) \u2013 A Resource for Rapid SARS-CoV-2 Genome Identification Using Interactive Online Phylogenetic Tools",
+    "date": 2020,
+    "author": "Coronavirus Disease 2019 (COVID-19), caused by the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), continues to spread rapidly across the globe (Wu et al, 2020; Zhu et al., 2020). SARS-CoV-2 is a +ssRNA virus that belongs to the genus Betacoronavirus within the Coronaviridae family, which also includes SARS-CoV-1 and MERS-CoV. As of May 2020, at the time of writing, there have been over 4 million confirmed cases globally. Over one third of the global cases are in the United States of America with the U. S. death toll exceeding 79,000. Since the emergence of widely available genomic sequencing, rigorous genomic surveillance and contact tracing (Gire et al., 2014), coupled with extensive testing have come to play critical roles in understanding disease transmission routes, inferring outbreak points, and taking informed measures in containing infections",
+    "affiliations": [
+        "Hospital Los Angeles COVID-19 Analysis Research Database (CARD) - A Resource for Rapid SARS-CoV-2 Genome Identification Using Interactive Online Phylogenetic Tools Lishuang Shen1, Dennis Maglinte1, Dejerianne Ostrow1, Utsav Pandey1, Moiz Bootwalla1, Alex Ryutov1, Ananthanarayanan Govindarajan1, David Ruble1, Jennifer Han1, Timothy J. Triche1,2, Jennifer Dien Bard1,2, Jaclyn A. Biegel1,2, Alexander R. Judkins1,2, Xiaowu Gai1,2",
+        "Department of Pathology and Laboratory Medicine, Children\u2019s Hospital Los Angeles, Los Angeles, CA",
+        "Department of Pathology, Keck School of Medicine, University of Southern California, Los Angeles, CA",
+        "PhD Center for Personalized Medicine Division of Genomic Medicine Department of Pathology and Laboratory Medicine 4650 Sunset Blvd., Mailstop #173 Los Angeles, CA 90027 Phone: (323) 644-8506",
+        "The Department of Pathology and Laboratory Medicine at Children's Hospital Los Angeles (CHLA) launched the Centers for Disease Control and Prevention (CDC) RT-PCR assay for SARS-CoV-2 on March 13th",
+        "China National Center for"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.11.089763",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.11.089763.pdf"
+    },
+    "abstract": "Effective response to the Coronavirus Disease 2019 (COVID-19) pandemic requires genomic resources and bioinformatics tools for genomic epidemiology and surveillance studies that involve characterizing full-length viral genomes, identifying origins of infections, determining the relatedness of viral infections, performing phylogenetic analyses, and monitoring the continuous evolution of the SARS-CoV-2 viral genomes. The Children\u2019s Hospital, Los Angeles (CHLA) COVID-19 Analysis Research Database (CARD) (https://covid19.cpmbiodev.net/) is a comprehensive genomic resource that provides access to full-length SARS-CoV-2 viral genomes and associated meta-data for over 18,000 (as of May 10, 2020) isolates collected from global sequencing repositories and the sequencing performed at the Center for Personalized Medicine (CPM) at CHLA. Reference phylogenetic trees of global and USA viral isolates were constructed and are periodically updated using selected high quality SARS-CoV-2 genome sequences. These provide the baseline and analytical context for identifying the origin of a viral infection, as well as the relatedness of SARS-CoV-2 genomes of interest. A web-based and interactive Phylogenetic Tree Browser supports flexible tree manipulation and advanced analysis based on keyword search while highlighting time series animation, as well as subtree export for graphical representation or offline exploration. A Virus Genome Tracker accepts complete or partial SARS-CoV-2 genome sequence, compares it against all available sequences in the database (>18,000 at time of writing), detects and annotates the variants, and places the new viral isolate within the global or USA phylogenetic contexts based upon variant profiles and haplotype comparisons, in a few seconds. The generated analysis can potentially aid in genomic surveillance to trace the transmission of any new infection. Using CHLA CARD, we demonstrate the identification of a candidate outbreak point where 13 of 31 CHLA internal isolates may have originated. We also discovered multiple indels of unknown clinical significance in the orf3a gene. Keywords SARS-CoV-2, Coronavirus Disease 2019, COVID-19, Phylogenetic, Virus Genome Tracking, Haplotype. CHLA COVID-19 Analysis Research Database (CARD)",
+    "keywords": [
+        "SARS-CoV-2",
+        "Coronavirus Disease 2019",
+        "COVID-19",
+        "Phylogenetic",
+        "Virus Genome Tracking",
+        "Haplotype"
+    ],
+    "funding": [
+        {}
+    ]
+}

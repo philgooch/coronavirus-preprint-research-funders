@@ -1,0 +1,20 @@
+{
+    "abstract": "As the COVID19 spread in the US continues to grow, local and state officials face difficult decisions about when and how to transition to a new normal. We developed an agent-based simulation model to project the infection spread; outcomes include the number of COVID19 infections and resulting severe outcomes, and the need for hospital capacity under social distancing, particularly, shelter-in-place and voluntary quarantine. We populated the model using COVID19-specific parameters for the natural history of the disease and data from Georgia on the agents interactions and demographics. The simulation study covered a six-month period, testing different social distancing scenarios, including baselines (no-intervention or school closure only) and combinations of shelter-in-place and voluntary quarantine with different timelines and compliance levels. The outcomes are compared at the state and community levels. Main outcomes are the number and percentage of cumulative and daily new and symptomatic and asymptomatic infections, hospitalizations, and deaths; COVID19-related demand for hospital beds, ICU beds, and ventilators. Results: The combined intervention of shelter-in-place followed by voluntary quarantine reduced peak infections from 180,000 under no intervention and 120,000 under school closure, respectively, to below 80,000, and delayed the peak from April to June or later. Increasing shelter-in-place duration from four to five weeks yielded 3-14% and 4-6% decrease in cumulative infection and fatality rates, respectively. Regardless of the shelter-in-place duration, increasing voluntary quarantine compliance decreased daily new infections from almost 80,000 to 50,000, and decreased cumulative infection rate by 50%. The total number of fatalities ranged from 6,150 to 17,900 under different scenarios. Peak infection date varied across scenarios and counties; on average, increasing shelter-in-place duration delayed the peak day by 7 days across counties. The peak percentage is similar across rural and urban counties. Region D is estimated to have the highest COVID19-related healthcare needs with 7,357 hospital beds, 1,141 ICU beds, and 558 ventilators. Conclusions and Relevance Shelter-in-place followed by voluntary quarantine substantially reduce COVID19 infections, healthcare resource needs, and severe outcomes; delay the peak; and enable better preparedness. Time of the peak is projected to vary across locations, enabling reallocation of health system capacity.",
+    "author": "Pinar Keskinocak; Nicoleta Serban; Buse Eylul Oruc Aglar; John Asplund; Arden Baxter",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20084764",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20084764"
+    },
+    "title": "The Impact of Social Distancing on COVID19 Spread: State of Georgia Case Study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Georgia Tech. No"
+                }
+            ],
+            "funding-statement": "William W. George and by the Virginia C. and Joseph C. Mello endowments at Georgia Tech. No external funding was received."
+        }
+    ]
+}

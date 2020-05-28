@@ -1,0 +1,58 @@
+{
+    "title": "RNA-GPS Predicts SARS-CoV-2 RNA Localization to Host Mitochondria and Nucleolus",
+    "date": 2020,
+    "author": "Kevin Wu, James Zou, Howard Y. Chang",
+    "affiliations": [
+        "Department of Computer Science, Stanford University, Stanford, CA 94305, USA",
+        "Department of Biomedical Data Science, Stanford University School of Medicine, Stanford, CA 94305, USA",
+        "Center for Personal and Dynamic Regulomes, Stanford University School of Medicine, Stanford, CA 94305, USA",
+        "Howard Hughes Medical Institute, Stanford University School of Medicine, Stanford, CA 94305, USA *Co-corresponding authors"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.28.065201",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.28.065201.pdf"
+    },
+    "abstract": "The SARS-CoV-2 coronavirus is driving a global pandemic, but its biological mechanisms are less well understood. SARS-CoV-2 is an RNA virus whose multiple genomic and subgenomic RNA (sgRNA) transcripts hijack the host cell's machinery, located across distinct cytotopic locations. Subcellular localization of its viral RNA could play important roles in viral replication and host antiviral immune response. Here we perform computational modeling of SARS-CoV-2 viral RNA localization across eight subcellular neighborhoods. We compare hundreds of SARS-CoV-2 genomes to the human transcriptome and other coronaviruses and perform systematic sub-sequence analyses to identify the responsible signals. Using state-of-the-art machine learning models, we predict that the SARS-CoV-2 RNA genome and all sgRNAs are enriched in the host mitochondrial matrix and nucleolus. The 5\u2019 and 3\u2019 viral untranslated regions possess the strongest and most distinct localization signals. We discuss the mitochondrial localization signal in relation to the formation of double-membrane vesicles, a critical stage in the coronavirus life cycle. Our computational analysis serves as a hypothesis generation tool to suggest models for SARSCoV-2 biology and inform experimental efforts to combat the virus.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "RM1-HG007735",
+                        "HG004361"
+                    ]
+                }
+            ],
+            "funding-statement": "H.Y.C. is supported by RM1-HG007735 and R01- HG004361"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF CCF",
+                    "award-id": [
+                        "1763191"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "MD012867-01"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "P30AG059307"
+                    ]
+                },
+                {
+                    "funding-source": "Silicon Valley Foundation and the Chan-Zuckerberg Initiative"
+                }
+            ],
+            "funding-statement": "J.Z. is supported by NSF CCF 1763191, NIH R21 MD012867-01, NIH P30AG059307, and grants from the Silicon Valley Foundation and the Chan-Zuckerberg Initiative"
+        }
+    ]
+}

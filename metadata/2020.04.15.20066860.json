@@ -1,0 +1,24 @@
+{
+    "abstract": "Importance Critical care resources like ventilators, used to manage the current COVID-19 pandemic, are potentially inadequate. Established triage standards and guidelines may not contain the most appropriate severity assessment and outcome prediction models. Objectives Develop a draft pandemic specific triage assessment score for the current COVID-19 pandemic. Design a website where initial Toward a COVID-19 Scores (TACS) can be quickly calculated and used to compare various treatment strategies. Create a TACS Registry where data and outcomes for suspected and confirmed COVID-19 patients can be recorded. Use the TACS Registry to develop an influenza epidemic specific database and score for use in future respiratory based epidemics. Design, Setting, Participants Retrospective analysis of 3,301 ICU admissions with respiratory failure admitted to 41 U.S. Intensive Care Units from 2015-19. Independent external validation on 1,175 similar ICU Admissions using identical entry criteria from Barnes Jewish Hospital (BJH), Washington University from 2016-2019. Main Outcomes TACS was created with 16 readily available predictive variables for risk assessment of hospital mortality 24 hours after ICU Admission and the need for prolonged assisted mechanical ventilation (PAMV) ( >>96 hours) at 24- and 48-hours post ICU admission. Results TACS achieved an Area Under the Curve (AUC) for hospital mortality after 24 hours of 0.80 in the development dataset; 0.81 in the internal validation dataset. At a probability of 50% hospital mortality, positive predictive value (PPV) was 0.55, negative predictive value (NPV) 0.89; sensitivity 22%, specificity 97%. For PAMV after 24 hours, the AUC was 0.84 in the development dataset, 0.81 in the validation dataset. For PAMV after 48 hours, the AUC was 0.82 in the development dataset, 0.78 in the validation dataset. In the external validation the AUC for TACS was 0.76 +/- 0.024. We launched a website that is scaled for mobile device use ( https://covid19score.azurewebsites.net/) that provides open access to a user-friendly TACS Calculator for all predictions. We also designed a voluntary TACS Registry for collection of data and outcomes on ICU Admissions with COVID-19. Conclusions and Relevance Toward a COVID-19 score is a starting point for an epidemic specific triage assessment that could be used to evaluate various approaches to treatment. The TACS Registry provides the ability to establish a respiratory specific outcomes database that can be used to create a triage approach for future such pandemics.",
+    "affiliations": [
+        "COVID-19 score is a starting point for an epidemic specific triage assessment that could be used to evaluate various approaches to treatment. The TACS Registry provides the ability to establish a respiratory specific outcomes database that can be used to create a triage approach for future such pandemics",
+        "Foundation and Washington University"
+    ],
+    "author": "William A. Knaus; Rodrigo Vazquez Guillamet; Greg A. Menke; Paula M. Maurer; Andrew A. Kramer; Cristina Vazquez Guillamet; Cherie L. Hill",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20066860",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20066860"
+    },
+    "title": "TOWARD A COVID-19 SCORE-RISK ASSESSMENTS AND REGISTRY",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Gordon and Betty Moore Foundation and Washington University"
+                }
+            ],
+            "funding-statement": "Supported in part by The Gordon and Betty Moore Foundation and Washington University"
+        }
+    ]
+}

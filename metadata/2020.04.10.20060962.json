@@ -1,0 +1,120 @@
+{
+    "title": "Impact of Social Vulnerability on COVID-19 Incidence and Outcomes in the United States",
+    "author": "Viola Vaccarino, MD, PhD, Alanna A. Morris, MD, MSc, Arshed A. Quyyumi, MD",
+    "date": 2020,
+    "affiliations": [
+        "Department of Medicine, Division of Cardiology, Emory University School of Medicine, Atlanta, GA",
+        "Department of Biostatistics and Bioinformatics, Rollins School of Public Health, Emory University, Atlanta, GA",
+        "Department of Epidemiology, Rollins School of Public Health, Emory University, Atlanta, GA Date: April 07, 2020 Word Count: 1,167 Tables/Figures: 1/2 References: 14",
+        "Cardiology Emory University School of Medicine Director, Emory Clinical Cardiovascular Research Institute 1462 Clifton Road Northeast, Suite 507 Atlanta, Georgia 30322 Tel: 404-727-3655 Fax: 404 712-8785 E mail:",
+        "Johns Hopkins Center for Systems Science and Engineering database on April 4th, 2020.7 County-level SVI data for 2018 were obtained from the CDC GRASP database.8 As a proxy for county-level medical comorbidity, we utilized Hierarchical Condition Category (HCC) risk scores acquired from the Centers for Medicare and Medicaid Services (CMS), which are based on medical risk profiles and demographics of county Medicare beneficiaries.9,10"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.10.20060962",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20060962.pdf"
+    },
+    "abstract": "Importance Prior pandemics have disparately affected socially vulnerable communities. Whether regional variations in social vulnerability to disasters influence COVID-19 outcomes and incidence in the U.S. is unknown. Objective To examine the association of Social Vulnerability Index (SVI), a percentile-based measure of county-level social vulnerability to disasters, and its sub-components (socioeconomic status, household composition, minority status, and housing type/transportation accessibility) with the case fatality rate (CFR) and incidence of COVID-19. Design Ecological study of counties with at least 50 confirmed COVID-19 cases as of April 4th, 2020. Generalized linear mixed-effects models with state-level clustering were applied to estimate county-level associations of overall SVI and its sub-component scores with COVID-19 CFR (deaths/100 cases) and incidence (cases/1000 population), adjusting for population percentage aged >65 years, and for comorbidities using the average Hierarchical Condition Category (HCC) score. Counties with high SVI (\u2265median) and high CFR (\u2265median) were identified. Setting Population-based study of U.S. county-level data. Participants U.S. counties with at least 50 confirmed COVID-19 cases. Main outcomes and measures COVID-19 CFR and incidence. Results Data from 433 counties including 283,256 cases and 6,644 deaths were analyzed. Median SVI was 0.46 [Range: 0.01-1.00], and median CFR and incidence were 1.9% [Range: 0-13.3] and",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "None SOURCES OF FUNDING S.J."
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "HL130025",
+                        "HL007745-26A1"
+                    ]
+                }
+            ],
+            "funding-statement": "None SOURCES OF FUNDING S.J.I. is supported by NIH grants T32 HL130025 and T32 HL007745-26A1"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "American Heart Association",
+                    "award-id": [
+                        "19POST34400057"
+                    ]
+                },
+                {
+                    "funding-source": "Phyllis Katz Foundation"
+                }
+            ],
+            "funding-statement": "A.M. is supported by American Heart Association grant 19POST34400057 and the Abraham J. & Phyllis Katz Foundation"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "K12HD085850",
+                        "L30HL148912"
+                    ]
+                }
+            ],
+            "funding-statement": "S.S. is supported by NIH grants K12HD085850 & L30HL148912"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "HL124287"
+                    ]
+                },
+                {
+                    "funding-source": "NHLBI",
+                    "award-id": [
+                        "HL124287"
+                    ]
+                },
+                {
+                    "funding-source": "Robert Wood Johnson Foundation"
+                },
+                {
+                    "funding-source": "Harold Amos Medical Faculty Development Program)"
+                }
+            ],
+            "funding-statement": "A.A.M. is supported by funding from NIH/NHLBI K23 HL124287 and the Robert Wood Johnson Foundation (Harold Amos Medical Faculty Development Program)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "1P20HL113451-01",
+                        "1R61HL138657-02",
+                        "1P30DK111024-03S1",
+                        "5R01HL095479-08",
+                        "3RF1AG051633-01S2",
+                        "5R01AG042127-06",
+                        "2P01HL086773-08",
+                        "U54AG062334-01",
+                        "1R01HL141205-01",
+                        "5P01HL101398-02",
+                        "1P20HL113451-01",
+                        "5P01HL086773-09",
+                        "1RF1AG051633-01",
+                        "NS064162-01",
+                        "HL89650-01",
+                        "HL095479-01",
+                        "1DP3DK094346-01",
+                        "2P01HL086773"
+                    ]
+                },
+                {
+                    "funding-source": "American Heart Association",
+                    "award-id": [
+                        "15SFCRN23910003"
+                    ]
+                }
+            ],
+            "funding-statement": "A.A.Q. is supported by NIH grants 1P20HL113451-01, 1R61HL138657-02, 1P30DK111024-03S1, 5R01HL095479-08, 3RF1AG051633-01S2, 5R01AG042127-06, 2P01HL086773-08, U54AG062334-01, 1R01HL141205-01, 5P01HL101398-02, 1P20HL113451-01, 5P01HL086773-09 1RF1AG051633-01, R01 NS064162-01, R01 HL89650-01, HL095479-01, 1DP3DK094346-01, 2P01HL086773, and American Heart Association grant 15SFCRN23910003"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "abstract": "Aims: We aimed to determine the effectiveness of surveillance using testing for SARS-CoV-2 to identify an outbreak arising from a single case of border control failure at a country level. Methods: A stochastic version of the SEIR model CovidSIM v1.1 designed specifically for COVID-19 was utilised. It was seeded with New Zealand (NZ) population data and relevant parameters sourced from the NZ and international literature. Results: For what we regard as the most plausible scenario with an effective reproduction number of 2.0, the results suggest that 95% of outbreaks from a single imported case would be detected in the period up to day 33 after introduction. At the time point of detection, there would be a median number of 6 infected cases in the community (95%UI: 1-68). To achieve this level of detection, an on-going programme of 7,800 tests per million people per week for the NZ population would be required. The vast majority of this testing (96%) would be of symptomatic cases in primary care settings and the rest in hospitals. Despite the large number of tests required, there are plausible strategies to enhance testing yield and cost-effectiveness eg, (i) adjusting the eligibility criteria via symptom profiles; (ii) and pooling of test samples. Conclusions: This model-based analysis suggests that a surveillance system with a very high level of routine testing is probably required to detect an emerging or re-emerging SARS-CoV-2 outbreak within one month of a border control failure in a nation.",
+    "affiliations": [
+        "University of T\u00fcbingen and the IMAAC-NEXT Association. Professor Wilson is supported by the New Zealand Health Research Council and Ministry of Business Innovation and Employment (MBIE) funding of the BODE3 Programme. However, these organisations had no role in the decision to perform this study, in its content, or the decision to publish"
+    ],
+    "author": "Markus Schwehm; Nick Wilson; Matthew Parry; Michael G Baker; Ayesha J Verrall; Martin Eichner",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20100743",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20100743"
+    },
+    "title": "Detecting the Emergent or Re-Emergent COVID-19 Pandemic in a Country: Modelling Study of Combined Primary Care and Hospital Surveillance",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of T\u00fcbingen and the IMAAC-NEXT Association"
+                }
+            ],
+            "funding-statement": "Dr Schwehm is supported by the University of T\u00fcbingen and the IMAAC-NEXT Association"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "New Zealand Health Research Council and Ministry of Business Innovation and Employment"
+                }
+            ],
+            "funding-statement": "Professor Wilson is supported by the New Zealand Health Research Council and Ministry of Business Innovation and Employment (MBIE) funding of the BODE3 Programme"
+        }
+    ]
+}

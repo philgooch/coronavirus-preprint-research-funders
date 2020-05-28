@@ -1,0 +1,16 @@
+{
+    "abstract": "This article presents a mathematical infection model that is designed to estimate the course of coronavirus infection in Germany for several days in advance: How many people become ill or die, what is the temporal development? If the contact restriction is perfect, then the model predicts the development of the virus infection after the initial subsidence of the infection. However, since this restriction cannot always be strictly adhered to, the model is dynamically adapted to the development. This makes it possible to estimate the number of infected people, the number of new infections and deaths in Germany about a week in advance.\nCompeting Interest Statement",
+    "author": "Rainer Janssen; Juergen Mimkes",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20057588",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20057588"
+    },
+    "title": "On the corona infection model with contact restriction",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no funding</strong>"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Absence of SARS-CoV-2 infection in cats and dogs in close contact with a cluster of COVID-19 patients in a veterinary campus",
+    "author": "1,2* 3* 3 4 4 Sarah Temmam",
+    "date": 2020,
+    "affiliations": [
+        "Institut Pasteur, Pathogen Discovery Laboratory, Paris, France",
+        "Institut Pasteur, The OIE Collaborating Centre for Detection and Identification in",
+        "Ecole Nationale V\u00e9t\u00e9rinaire d\u2019Alfort, Maisons-Alfort, France",
+        "Institut Pasteur, National Reference Center for Respiratory Viruses, Molecular"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.07.029090",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.029090.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which originated in Wuhan, China, in 2019, is responsible for the COVID-19 pandemic. It is now accepted that the wild fauna, probably bats, constitute the initial reservoir of the virus, but little is known about the role pets can play in the spread of the disease in human communities, knowing the ability of SARS-CoV-2 to infect some domestic animals. We tested 21 domestic pets (9 cats and 12 dogs) living in close contact with their owners (belonging to a veterinary community of 20 students) in which two students tested positive for COVID-19 and several others (n = 11/18) consecutively showed clinical signs (fever, cough, anosmia, etc.) compatible with COVID-19 infection. Although a few pets presented many clinical signs indicative for a coronavirus infection, no animal tested positive for SARS-CoV-2 by RT-PCR and no antibodies against SARS-CoV-2 were detectable in their blood using an immunoprecipitation assay. These original data can serve a better evaluation of the host range of SARS-CoV-2 in natural environment exposure conditions.",
+    "keywords": [
+        "COVID-19 epidemiology",
+        "outbreak",
+        "self-isolation",
+        "feline",
+        "canine",
+        "luciferase immunoprecipitation system",
+        "LIPS"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Institut Pasteur, IBEID"
+                },
+                {
+                    "funding-source": "Cani-DNA BRC",
+                    "award-id": [
+                        "ANR-11-INBS-0003"
+                    ]
+                },
+                {
+                    "funding-source": "UE RECOVER"
+                }
+            ],
+            "funding-statement": "We also thank funding from Institut Pasteur, IBEID Labex, Reacting, Cani-DNA BRC that is part of the CRB-Anim infra-structure, ANR-11-INBS-0003 and UE RECOVER"
+        }
+    ]
+}

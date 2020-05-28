@@ -1,0 +1,29 @@
+{
+    "abstract": "COVID-19 challenges the daily function of nearly every institution of society. It is the duty of any society to be responsive to such challenges by relying on the best tools and logic available to analyze the costs and benefits of any mitigative action. We here provide a mathematical model to explore the epidemiological consequences of allowing standard intake and unaltered within-jail operational dynamics to be maintained during the ongoing COVID-19 pandemic, and contrast this with proposed interventions to reduce the burden of negative health outcomes. In this way, we provide estimates of the infection risks, and likely loss of life, that arise from current incarceration practices. We provide estimates for in-custody deaths and show how the within-jail dynamics lead to spill-over risks, not only affecting the incarcerated people, but increasing the exposure, infection, and death rates for both corrections officers with whom they interact within the jail system, and the broader community beyond the justice system. We show that, given a typical jail-community dynamic, operating in a business as usual way will result in significant and rapid loss of life. Large scale reductions in arrest and speeding of releases are likely to save the lives of incarcerated people, staff and the community at large.",
+    "author": "Aaron Horowitz; Eric Lofgren; Nina Fefferman; Brooke Madubuonwu; Kristian Lum",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20058842",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20058842"
+    },
+    "title": "The Epidemiological Implications of Incarceration Dynamics in Jails for Community, Corrections Officer, and Incarcerated Population Risks from COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "CDC Cooperative Agreement",
+                    "award-id": [
+                        "RFA-CK-17-001-M"
+                    ]
+                },
+                {
+                    "funding-source": "Modeling Infectious Diseases in Healthcare Program",
+                    "award-id": [
+                        "MInD-Healthcare"
+                    ]
+                }
+            ],
+            "funding-statement": "EL was supported by the CDC Cooperative Agreement RFA-CK-17-001-Modeling Infectious Diseases in Healthcare Program (MInD-Healthcare)"
+        }
+    ]
+}

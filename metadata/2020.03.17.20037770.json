@@ -1,0 +1,16 @@
+{
+    "abstract": "Motivated by the rapid upsurge of COVID-19 cases in the United States beginning March 2020, we forecast the disease spread and assess the effectiveness of containment strategies by using an estalished network-driven epidemic dynamic model. Our model is initialized using the daily counts of active and confirmed COVID-19 cases across the US. Based on our model predictions for the March 14-16 timeframe, the national epidemic peak could be expected to arrive by early June, corresponding to a daily active count of \u2248 7% of the US population, if no containment plans are implemented. Epidemic peaks are expected to arrive in the states of Washington and New York by May 21 and 25, respectively. With a modest 25% reduction in COVID-19 transmissibility via community-level interventions, the epidemic progression could be delayed by up to 34 days. Wholesale interstate traffic restriction is ineffective in delaying the epidemic outbreak, but it does desynchronize the arrival of state-wise epidemic peaks, which could potentially alleviate the burden on limited available medical resources. In addition to forecasting the arrival timeline of the state-wise epidemic peaks, we attempt at informing the optimal timing necessary to enforce community-level interventions. Our findings underscore the pressing need for preparedness and timely interventions in states with a large fraction of the vulnerable uninsured and liquid-asset-poverty populations.",
+    "author": "Payton Beeler; Pai Liu; Rajan K Chakrabarty",
+    "date": 2020,
+    "doi": "10.1101/2020.03.17.20037770",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.17.20037770"
+    },
+    "title": "COVID-19 Progression Timeline and Effectiveness of Response-to-Spread Interventions across the United States",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors received no specific funding for this work."
+        }
+    ]
+}

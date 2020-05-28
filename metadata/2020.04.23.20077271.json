@@ -1,0 +1,16 @@
+{
+    "abstract": "The outbreak the SARS-CoV-2 (CoV-2) virus has resulted in over 2.5 million cases of COVID19, greatly stressing global healthcare infrastructure. Lacking medical prophylactic measures to combat disease spread, many nations have adopted social distancing policies in order to mitigate transmission of CoV-2. While mathematical models have suggested the efficacy of social distancing to curb the spread of CoV-2, there is a lack of systematic studies to quantify the real-world efficacy of these approaches. Here, we quantify the spread rate of COVID19 before and after national social distancing measures were implemented in 26 nations and compare this to the changes in COVID19 spread rate over equivalent time periods in 27 nations that did not enact social distancing policies. We find that social distancing policies significantly reduced the COVID19 spread rate. Using mixed linear regression models we estimate that social distancing policies reduced the spread of COVID19 by 66%. These data suggest that social distancing policies may be a powerful tool to prevent spread of COVID19 in real-world scenarios.",
+    "author": "Raghu Kalluri; Daniel J McGrail; Jianli Dai; Kathleen M McAndrews",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20077271",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20077271"
+    },
+    "title": "Enacting national social distancing policies corresponds with dramatic reduction in COVID19 infection rates",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No extramural funding support."
+        }
+    ]
+}

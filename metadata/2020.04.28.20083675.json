@@ -1,0 +1,38 @@
+{
+    "abstract": "Coronavirus disease 2019 (COVID-19) is a disease triggered by SARS-CoV-2 infection, which is related in the most recent pandemic situation, significantly affecting health and economic systems. In this study we assessed the death rate associated to COVID-19 in Brazil and the United States of America (USA) to estimate the probability of Brazil becoming the next pandemic epicenter. We equated data between Brazil and USA obtained through the Worldometer website (www.worldometer.info). Epidemic curves from Brazil and USA were associated and regression analysis was undertaken to predict the Brazilian death rate regarding COVID-19 in June. In view of data from April 9th 2020, death rates in Brazil follow a similar exponential increase to USA (r=0.999; p<0.001), estimating 64,310 deaths by June 9th 2020. In brief, our results demonstrated that Brazil follows an analogous progression of COVID-19 deaths cases when compared to USA, signifying that Brazil could be the next global epicenter of COVID-19. We highlight public strategies to decrease the COVID-19 outbreak.",
+    "affiliations": [
+        "Sao Paulo State University, UNESP/Marilia, SP, Brazil and University of Health Sciences of Alagoas, AL, Brazil. Dr. Vitor receives financial support from FAPESP (Process number 2012/01366-6) financial support from the National Council for Scientific and Technological Development, an entity linked to the Ministry of Science, Technology, Innovations and Communications from Brazil (Process number 302197/2018-4)"
+    ],
+    "author": "David M. Garner; Pedro de Lemos Menezes; Vitor E Valenti",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083675",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083675"
+    },
+    "title": "BRAZIL IS PROJECTED TO BE THE NEXT GLOBAL COVID-19 PANDEMIC EPICENTER",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "FAPESP",
+                    "award-id": [
+                        "Process 2012/01366-6"
+                    ]
+                },
+                {
+                    "funding-source": "National Council for Scientific and Technological Development,"
+                },
+                {
+                    "funding-source": "Ministry of Science, Technology"
+                },
+                {
+                    "funding-source": "Innovations and Communications from Brazil",
+                    "award-id": [
+                        "Process 302197/2018-4"
+                    ]
+                }
+            ],
+            "funding-statement": "Dr Vitor receives financial support from FAPESP (Process number 2012/01366-6) financial support from the National Council for Scientific and Technological Development, an entity linked to the Ministry of Science, Technology, Innovations and Communications from Brazil (Process number 302197/2018-4)"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "In silico design and validation of commercial kit GPS\u2122 CoVID-19 dtec-RT-qPCR Test under criteria of UNE/EN ISO 17025:2005 and ISO/IEC 15189:2012",
+    "author": "Antonio Martinez",
+    "date": 2020,
+    "affiliations": [
+        "Department of Microbiology, University Miguel Hern\u00e1ndez, 03300-Orihuela, Alicante, Spain"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.27.065383",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.27.065383.pdf"
+    },
+    "abstract": "Background The Corona Virus Disease 2019 (COVID-19), caused by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), has become a serious infectious disease affecting human health worldwide and rapidly declared a pandemic by WHO. Early, several RT-qPCR were designed by using only the first SARS-CoV-2 genome sequence. Objectives A few days later, when additional SARS-CoV-2 genome were retrieved, the kit GPSTM CoVID-19 dtec-RT-qPCR Test was designed to provide a highly specific detection method and commercially available worldwide. The kit was validated following criteria recommended by the UNE/EN ISO 17025:2005 and ISO/IEC 15189:2012. Methods The present study approached the in silico specificity of the GPSTM CoVID-19 dtec-RT-qPCR Test and RT-qPCR designs currently published. The empirical validation parameters specificity (inclusivity/exclusivity), quantitative phase analysis (10-106 copies), reliability (repeatability/reproducibility) and sensitivity (detection/quantification limits) were evaluated for a minimum of 10-15 assays. Diagnostic validation was achieved by two independent reference laboratories, the Instituto de Salud Carlos III (ISCIII), (Madrid, Spain) and the Public Health England (PHE; Colindale, London, UK). Results The GPSTM RT-qPCR primers and probe showed the highest number of mismatches with the closet related non-SARS-CoV-2 coronavirus, including some indels. The kits passed all parameters of validation with strict acceptance criteria. Results from reference laboratories 100% correlated with these obtained by suing reference methods and received an evaluation with 100% of diagnostic sensitivity and specificity. Conclusions The GPSTM CoVID-19 dtec-RT-qPCR Test, available with full analytical and diagnostic validation, represents a case of efficient transfer of technology being successfully used since the pandemic was declared. The analysis suggested the GPSTM CoVID-19 dtec-RT-qPCR Test is the more exclusive by far. 55 56 57",
+    "keywords": [
+        "SARS-CoV-2",
+        "qPCR",
+        "detection",
+        "validation",
+        "UNE/EN ISO/IEC 17025:2005"
+    ],
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors"
+        }
+    ]
+}

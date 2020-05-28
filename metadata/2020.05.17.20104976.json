@@ -1,0 +1,16 @@
+{
+    "abstract": "We use stochastic branching process model, structured by age and level of healthcare access, to look at the heterogeneous spread of COVID-19 within a population. We examine the effect of control scenarios targeted at particular groups, such as school closures or social distancing by older people. Although we currently lack detailed empirical data about contact and infection rates between different age groups and groups with different levels of healthcare access within New Zealand, these scenarios illustrate how such evidence could be used to inform specific interventions. We find that an increase in the transmission rates amongst children as a result of reopening schools is, on its own, unlikely to significantly increase the number of cases. However, if this is accompanied by a change in adult behaviour, for example increased contact rates among parents, it could have a much bigger effect. We also find that there is a risk of undetected outbreaks occurring in communities that have low access to healthcare and that are socially isolated from more privileged communities. The greater the inequity and the greater the degree of social segregation, the longer it will take before any outbreaks are detected. Well-established evidence for health inequities, particularly in accessing primary healthcare and testing, indicates that M\u0101ori and Pacific peoples are at higher risk of undetected outbreaks in Aotearoa New Zealand. This highlights the importance of ensuring that community needs for access to healthcare, including early proactive testing, rapid contact tracing, and the ability to isolate, are being met equitably. Finally, these scenarios illustrate how information concerning contact and infection rates across different demographic groups may be useful in informing specific policy interventions.",
+    "author": "Kate Hannah; Michael J Plank; Rachelle N Binny; Alex James; Shaun C Hendy; Nicholas Steyn; Audrey Lustig",
+    "date": 2020,
+    "doi": "10.1101/2020.05.17.20104976",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.17.20104976"
+    },
+    "title": "A structured model for COVID-19 spread: modelling age and healthcare inequities",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

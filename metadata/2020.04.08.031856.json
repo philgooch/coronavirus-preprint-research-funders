@@ -1,0 +1,41 @@
+{
+    "title": "SARS-CoV-2 might manipulate against its host the immunity RNAi/Dicer/Ago system",
+    "author": "Claude Pasquier, and Alain Robichon",
+    "date": 2020,
+    "affiliations": [
+        "Universit\u00e9 C\u00f4te d\u2019Azur, CNRS, I3S, France",
+        "Universit\u00e9 C\u00f4te d'Azur, INRAE, CNRS, ISA, France"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.08.031856",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.08.031856.pdf"
+    },
+    "abstract": "The role of the RNAi/Dicer/Ago system to degrade RNA viruses has been elusive, which prompt authors to think that interferon (IFN) synthesis is essential, relegating the dsRNAs as accessory function. We investigate SARS-CoV-2 genome responsible of the new deadly COVID-19 pandemic for the theoretical possibilities to engage intra pairing within the viral RNA and also hybrid pairing with human transcriptome. Segmental pieces of RNAs that originate from SARSCoV-2 were computationally searched as a potential source of one strand, the complementary strand being from the host transcriptome. We therefore considered perfect complementarity of host RNA with any piece of SARS-CoV-2 RNA as a collection of theoretical siRNAs potentially Dicer substrates. Few human genes seems targeted by SARS-CoV-2 RNA, among them mitochondrial deubiquitinase USP30 and a subunit of ubiquitin protein ligase complex FBXO21 could explain premature death of infected cell by the collapse of mitochondria.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Alain Robichon and Claude Pasquier"
+                }
+            ],
+            "funding-statement": "This work was supported by the ANR grant \u201cMethylclonome\u201d ANR-12-BSV6-006-01 to Alain Robichon and Claude Pasquier"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "French National Research Agency"
+                },
+                {
+                    "funding-source": "LABEX SIGNALIFE",
+                    "award-id": [
+                        "reference # ANR-11-LABX-0028-01"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was also supported by the French National Research Agency (ANR) through the LABEX SIGNALIFE program (reference # ANR-11-LABX-0028-01)"
+        }
+    ]
+}

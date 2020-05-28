@@ -1,0 +1,81 @@
+{
+    "abstract": "Background: Hydroxychloroquine has recently received Emergency Use Authorization by the FDA and is currently prescribed in combination with azithromycin for COVID-19 pneumonia. We studied the safety of hydroxychloroquine, alone and in combination with azithromycin. Methods: New user cohort studies were conducted including 16 severe adverse events (SAEs). Rheumatoid arthritis patients aged 18+ and initiating hydroxychloroquine were compared to those initiating sulfasalazine and followed up over 30 days. Self-controlled case series (SCCS) were conducted to further establish safety in wider populations. Separately, SAEs associated with hydroxychloroquine-azithromycin (compared to hydroxychloroquine-amoxicillin) were studied. Data comprised 14 sources of claims data or electronic medical records from Germany, Japan, Netherlands, Spain, UK, and USA. Propensity score stratification and calibration using negative control outcomes were used to address confounding. Cox models were fitted to estimate calibrated hazard ratios (CalHRs) according to drug use. Estimates were pooled where I2<40%. Results: Overall, 956,374 and 310,350 users of hydroxychloroquine and sulfasalazine, and 323,122 and 351,956 users of hydroxychloroquine-azithromycin and hydroxychloroquine-amoxicillin were included. No excess risk of SAEs was identified when 30-day hydroxychloroquine and sulfasalazine use were compared. SCCS confirmed these findings. However, when azithromycin was added to hydroxychloroquine, we observed an increased risk of 30-day cardiovascular mortality (CalHR2.19 [1.22-3.94]), chest pain/angina (CalHR 1.15 [95% CI 1.05-1.26]), and heart failure (CalHR 1.22 [95% CI 1.02-1.45]) Conclusions: Short-term hydroxychloroquine treatment is safe, but addition of azithromycin may induce heart failure and cardiovascular mortality, potentially due to synergistic effects on QT length. We call for caution if such combination is to be used in the management of Covid-19.\nCompeting Interest Statement",
+    "affiliations": [
+        "Joint Undertaking (JU) under grant agreement No 806968. The JU receives support from the European Union\u2019s Horizon 2020 research and innovation programme and EFPIA. No funders had a direct role in this study. The views and opinions expressed are those of the authors and do not necessarily reflect those of the Clinician Scientist Award programme, NIHR, NHS or the Department of Health, England"
+    ],
+    "author": "Patricia Biedermann; Kristine E. Lynch; Dmitry Dymshyts; Aedin C. Culhane; Christian Reich; Jenna Reps; Scott L. DuVall; Oleg Zhuk; Mees Mosseveld; Kristina Fi\u0161ter; Danielle Newby; David Vizcaya; Haini Wen; Jill Hardin; Maria Tereza F. Abrahao; Fredrik Nyberg; George Hripcsak; Henry Morgan-Stewart; Sarah Seager; Selva Muthu Kumaran Sathappan; Jennifer C.E Lane; Paras Mehta; Kristin Kostka; Johan ver der Lei; Andrea V. Margulis; Peter Rijnbeek; Matthew Spotnitz; Paula Casajust; Azza Shoaibi; Lin Zhang; Patrick Ryan; Mitch Conover; Rupa Makadia; Osaid Alser; Edward Burn; Marcel de Wilde; Seng Chan You; Martijn Schuemie; Albert Prats-Uribe; Rae Woong Park; Sergio Fern\u00e1ndez Bertol\u00edn; Laura Hester; Alexander Davydov; Gowtham A. Rao; Seamus Kent; Sajan Khosla; James Weaver; Talita Duarte-Salles; Christophe G. Lambert; Spyros Kolovos; Joel Swerdel; Anna Ostropolets; Carmen Olga Torre; Thamir M Alshammari; Michael E. Matheny; Daniel Prieto-Alhambra; Ajit A. Londhe; Anthony Sena; Daniel R. Morales; Marc A. Suchard; Heba Alghoul",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20054551",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20054551"
+    },
+    "title": "Safety of hydroxychloroquine, alone and in combination with azithromycin, in light of rapid wide-spread use for COVID-19: a multinational, network cohort and self-controlled case series study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Oxford Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "Senior Research Fellowship"
+                },
+                {
+                    "funding-source": "US National Institutes of Health, Janssen"
+                },
+                {
+                    "funding-source": "Research & Development, IQVIA"
+                },
+                {
+                    "funding-source": "Korea Health Technology R&D Project"
+                },
+                {
+                    "funding-source": "Korea Health Industry Development Institute"
+                },
+                {
+                    "funding-source": "Ministry of Health & Welfare, Republic",
+                    "award-id": [
+                        "HI16C0992"
+                    ]
+                }
+            ],
+            "funding-statement": "This research received partial support from the National Institute for Health Research (NIHR) Oxford Biomedical Research Centre (BRC) and Senior Research Fellowship (DPA), US National Institutes of Health, Janssen Research & Development, IQVIA, and by a grant from the Korea Health Technology R&D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health & Welfare, Republic of Korea [grant number: HI16C0992]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The European Health Data & Evidence Network"
+                },
+                {
+                    "funding-source": "Innovative Medicines Initiative"
+                },
+                {
+                    "funding-source": "Joint Undertaking",
+                    "award-id": [
+                        "806968"
+                    ]
+                }
+            ],
+            "funding-statement": "The European Health Data & Evidence Network has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (JU) under grant agreement No 806968"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The JU"
+                },
+                {
+                    "funding-source": "European Union\u2019s Horizon"
+                },
+                {
+                    "funding-source": "EFPIA"
+                }
+            ],
+            "funding-statement": "The JU receives support from the European Union\u2019s Horizon 2020 research and innovation programme and EFPIA"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Regulation of angiotensin converting enzyme 2 (ACE2) in obesity: implications for COVID-19",
+    "author": "Saba Al Heialy",
+    "date": 2020,
+    "affiliations": [
+        "College of Medicine, Mohammed bin Rashid University of Medicine and Health Sciences , Dubai , United Arab Emirates",
+        "Meakins-Christie Laboratories, Research Institute of the McGill University Healthy Center , Montreal , Quebec , Canada",
+        "Sharjah Institute for Medical Research, College of Medicine, University of Sharjah, Sharjah, United Arab Emirates; 4. Al Jalila Children\u2019s Specialty Hospital, Dubai, United Arab Emirates"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.17.046938",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.17.046938.pdf"
+    },
+    "abstract": "The ongoing COVID-19 pandemic is caused by the novel coronavirus SARS-CoV-2. Age, smoking, obesity, and chronic diseases such as cardiovascular disease and diabetes have been described as risk factors for severe complications and mortality in COVID-19. Obesity and diabetes are usually associated with dysregulated lipid synthesis and clearance which can initiate or aggravate pulmonary inflammation and injury. It has been shown that for viral entry into the host cell, SARS-CoV-2 utilizes the angiotensin converting enzyme 2 (ACE2) receptors present on the cells. We aimed to characterize how SARS-CoV-2 dysregulates lipid metabolism pathways in the host and the effect of dysregulated lipogenesis on the regulation of ACE2, specifically in obesity. In our study, through the re-analysis of publicly available transcriptomic data, we first found that lung epithelial cells infected with SARS-CoV-2 showed upregulation of genes associated with lipid metabolism, including the SOC3 gene which is involved in regulation of inflammation and inhibition of leptin signaling. This is of interest as viruses may hijack host lipid metabolism to allow completion of their viral replication cycles. Furthermore, a mouse model of diet-induced obesity showed a significant increase in Ace2 expression in the lungs which negatively correlated with the expression of genes that code for sterol response element binding proteins 1 and 2 (SREBP). Suppression of Srebp1 showed a significant increase in Ace2 expression in the lung. Together our results suggest that the dysregulated lipogenesis and the subsequently high ACE2 expression in obese patients might be the mechanism underlying the increased risk for severe complications in those patients when infected by SARS-CoV-2.",
+    "keywords": [
+        "obesity",
+        "ACE2",
+        "COVID-19",
+        "SARS-CoV-2",
+        "lipid metabolism"
+    ],
+    "funding": [
+        {}
+    ]
+}

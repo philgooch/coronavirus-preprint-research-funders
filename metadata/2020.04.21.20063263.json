@@ -1,0 +1,16 @@
+{
+    "abstract": "This paper reports the development and web deployment of an inference model for Coronavirus COVID-19 using machine vision on chest radiographs (CXR). The transfer learning from the Residual Network (RESNET-50) was leveraged for model development on CXR images from healthy individuals, bacterial and viral pneumonia, and COVID-19 positives patients. The performance metrics showed an accuracy of 99%, a recall valued of 99.8%, a precision of 99% and an F1 score of 99.8% for COVID-19 inference. The model was further successfully validated on CXR images from an independent repository. The implemented model was deployed with a web graphical user interface for inference (https://medics-inference.onrender.com ) for the medical research community; an associated cron job is scheduled to continue the learning process when novel and validated information becomes available",
+    "author": "Roussel Hardo Azanfack Kenfack; Evariste Bosco Gueguim Kana; Martiale Gaetan Zebaze Kana; Armand F. Donfack Kana",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20063263",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20063263"
+    },
+    "title": "A web-based Diagnostic Tool for COVID-19 Using Machine Learning on Chest Radiographs (CXR)",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding provided"
+        }
+    ]
+}

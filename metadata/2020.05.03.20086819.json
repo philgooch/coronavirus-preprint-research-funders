@@ -1,0 +1,29 @@
+{
+    "abstract": "Importance: The COVID-19 pandemic has disrupted global surgical capacity. The impact of the pandemic in low and middle income countries has the potential to worsen already strained access to surgical care. Timely assessment of surgical volumes in these countries remains challenging. Objective: To determine whether usage data from a globally used anesthesiology calculator mobile application can serve as a proxy for global surgical case volume and contribute to monitoring of the impact of the COVID-19 pandemic, particularly in World Bank low income countries where official data collection is not currently practical. Design: Subset of data from an ongoing observational cohort study of users of the application collected from October 1, 2018 to April 18, 2020. Setting: The mobile application is available from public sources; users download and use the application per their own clinical needs on personal mobile devices. Participants: No user data was excluded from the study. Exposure(s): Events with impacts on surgical case volumes, including weekends, holidays, and the COVID-19 pandemic. Main Outcome(s) and Measure(s): It was previously noted that application usage was decreased on weekends and during winter holidays. We subsequently hypothesized that more detailed analysis would reveal impacts of country-specific or region-specific holidays on the volume of app use. Results: 4,300,975 data points from 92,878 unique users were analyzed. Physicians and other anesthesia providers comprised 85.8% of the study population. Application use was reduced on holidays and weekends and correlated with fluctuations in surgical volume. The COVID-19 pandemic was associated with substantial reductions in app use globally and regionally. There was strong cross correlation between COVID-19 case count and reductions in app use. By country, there was a median global reduction in app use to 58% of baseline (interquartile range, 46%-75%). Application use in low-income continues to decline but in high-income countries has stabilized. Conclusions and Relevance: Application usage metadata provides a real-time indicator of surgical volume. This data may be used to identify impacted regions where disruptions to surgical care are disproportionate or prolonged. A dashboard for continuous visualization of these data has been deployed.",
+    "author": "Vanessa Moll; Craig S Jabaley; Faye M Evans; Jacob E Sunshine; Ewen M Harrison; Nicholas J Kassebaum; Wil Van Cleve; Vikas N O'Reilly-Shah; Dustin R Long",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20086819",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20086819"
+    },
+    "title": "Real-time assessment of COVID-19 impact on global surgical case volumes",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "T32 GM086270-11"
+                    ]
+                },
+                {
+                    "funding-source": "NIGMS",
+                    "award-id": [
+                        "T32 GM086270-11"
+                    ]
+                }
+            ],
+            "funding-statement": "Sources of support: NIH/NIGMS (T32 GM086270-11, DRL)"
+        }
+    ]
+}

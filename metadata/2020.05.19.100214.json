@@ -1,0 +1,22 @@
+{
+    "title": "A. Sina Booeshaghi\u200b1\u200b and Lior Pachter2\u200b",
+    "date": 2020,
+    "author": "1 Department of Mechanical Engineering, California Institute of Technology 2 Division of Biology and Biological Engineering and Department of Computing and Mathematical Sciences, California Institute of Technology",
+    "affiliations": [
+        "Department of Mechanical Engineering, California Institute of Technology",
+        "Division of Biology and Biological Engineering and Department of Computing and Mathematical Sciences, California Institute of Technology",
+        "Hospital, 1768). Figure 1b shows the fraction of cells containing at least one copy of ACE2 (Booeshaghi and Pachter, 2020). Evidently, Figure 1a creates a misleading impression. In fact, ACE2\u200b has significantly lower",
+        "RNA expression in the lungs of aged mice than young mice"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.19.100214",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.19.100214.pdf"
+    },
+    "abstract": "Single-cell RNA-seq technologies have been successfully employed over the past decade to generate many high resolution cell atlases. These have proved invaluable in recent efforts aimed at understanding the cell type specificity of host genes involved in SARS-CoV-2 infections. While single-cell atlases are based on well-sampled highly-expressed genes, many of the genes of interest for understanding SARS-CoV-2 can be expressed at very low levels. Common assumptions underlying standard single-cell analyses don\u2019t hold when examining low-expressed genes, with the result that standard workflows can produce misleading results.",
+    "funding": [
+        {}
+    ]
+}

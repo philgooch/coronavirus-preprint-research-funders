@@ -1,0 +1,38 @@
+{
+    "abstract": "An outbreak of a novel coronavirus (SARS-CoV-2)-infected pneumonia (COVID-19) was first diagnosed in Wuhan, China, in December 2019 and then spread rapidly to other regions. We collected the time series data of the cumulative number of confirmed infected, dead, and cured cases from the health commissions in 31 provinces in mainland China. A descriptive model in a logistic form was formulated to infer the intrinsic epidemic rules of COVID-19, which illustrates robustness spatially and temporally. Our model is robust (R2>0.95) to depict the intrinsic growth rule for the cumulative number of confirmed infected, dead, and cured cases in 31 provinces in mainland China. Furthermore, we compared the intrinsic epidemic rules of COVID-19 in Hubei with that of severe acute respiratory syndrome (SARS) in Beijing, which was obtained from the Ministry of Public Health of China in 2003. We found that the infected case is the earliest to be saturated and has the lowest semi-saturation period compared with deaths and cured cases for both COVID-19 and SARS. All the three types of SARS cases are later to saturate and have longer semi-saturation period than that of COVID-19. Despite the virus caused SARS (SARS-CoV) and the virus caused COVID-19 (SARS-CoV-2) are homologous, the duration of the outbreak would be shorter for COVID-19.",
+    "affiliations": [
+        "National Key Research and Development Program of China (2018YFC1508903), the National Natural Science Foundation of China (41621061) and the support of International Center for Collaborative Research on Disaster Risk Reduction (ICCR-DRR)"
+    ],
+    "author": "Saini Yang; Chuanliang Han; Yimeng Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.02.23.20024802",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.23.20024802"
+    },
+    "title": "Intrinsic growth rules of patients infected, dead and recovered with 2019 novel coronavirus in mainland China",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Program of China",
+                    "award-id": [
+                        "2018YFC1508903"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "41621061"
+                    ]
+                },
+                {
+                    "funding-source": "International Center for Collaborative Research on Disaster Risk Reduction",
+                    "award-id": [
+                        "ICCR-DRR"
+                    ]
+                }
+            ],
+            "funding-statement": "This study is sponsored by the National Key Research and Development Program of China (2018YFC1508903), the National Natural Science Foundation of China (41621061) and the support of International Center for Collaborative Research on Disaster Risk Reduction (ICCR-DRR)"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": "COVIDier: A Deep-learning Tool For Coronaviruses Genome And Virulence Proteins Classification",
+    "author": "Peter T. Habib *1 , Alsamman M. Alsamman 2 , Maha Saber-Ayad, Sameh E. Hassanein 3, and Aladdin Hamwieh, 1Department of Biodiversity and Crop Improvement, International Center for Agriculture Research in the Dry Areas (ICARDA), Giza, Egypt. 2Department of Genome Mapping, Molecular Genetics, and Genome Mapping Laboratory, Agricultural Genetic Engineering Research Institute (AGERI), Giza, Egypt. 3Department of Bioinformatics & Computer Networks, AGERI, Agricultural Research Center (ARC), Giza, Egypt. 4College of Medicine, University of Sharjah, Sharjah, UAE 5Sharjah Institute for Medical Research, University of Sharjah, Sharjah, UAE 6College of Medicine, Cairo University, Cairo, Egypt *Corresponding author: p.habib,@gmail.com",
+    "date": 2020,
+    "affiliations": [
+        "Department of Biodiversity and Crop Improvement, International Center for Agriculture Research in the Dry Areas (ICARDA), Giza, Egypt",
+        "Department of Genome Mapping, Molecular Genetics, and Genome Mapping Laboratory, Agricultural Genetic Engineering Research Institute (AGERI), Giza, Egypt",
+        "Department of Bioinformatics & Computer Networks, AGERI, Agricultural Research Center (ARC), Giza, Egypt",
+        "College of Medicine, University of Sharjah, Sharjah, UAE",
+        "Sharjah Institute for Medical Research, University of Sharjah, Sharjah, UAE",
+        "College of Medicine, Cairo University, Cairo, Egypt",
+        "Corresponding author:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.03.075549",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.03.075549.pdf"
+    },
+    "abstract": "COVID-19, caused by SARS-CoV-2 infection, has already reached pandemic proportions in a matter of a few weeks. At the time of writing this manuscript, the unprecedented public health crisis caused more than 2.5 million cases with a mortality range of 5-7%. The SARS-CoV-2, also called novel Coronavirus, is related to both SARS-CoV and bat SARS. Great efforts have been spent to control the pandemic that has become a significant burden on the health systems in a short time. Since the emergence of the crisis, a great number of researchers started to use the AI tools to identify drugs, diagnosing using CT scan images, scanning body temperature, and classifying the severity of the disease. The emergence of variants of the SARS-CoV-2 genome is a challenging problem with expected serious consequences on the management of the disease. Here, we introduce COVIDier, a deep learning-based software that is enabled to classify the different genomes of Alpha coronavirus, Beta coronavirus, MERS, SARS-CoV-1, SARS-CoV-2, and bronchitis-CoV. COVIDier was trained on 1925 genomes, belonging to the three families of SARS retrieved from NCBI Database to propose a new method to train deep learning model trained on genome data using Multi-layer Perceptron Classifier (MLPClassifier), a deep learning algorithm, that could blindly predict the virus family name from the genome of by predicting the statistically similar genome from training data to the given genome. COVIDier able to predict how close the emerging novel genomes of SARS to the known genomes with accuracy 99%. COVIDier can replace tools like BLAST that consume higher CPU and time.",
+    "funding": [
+        {}
+    ]
+}

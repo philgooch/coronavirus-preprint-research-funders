@@ -1,0 +1,26 @@
+{
+    "abstract": "We model the extent to which age targeted quarantine can be used to reduce ICU admissions caused by novel coronavirus COVID-19. Using demographic data from New Zealand, we demonstrate that lowering the age threshold for quarantine to 50 years of age reduces ICU admissions drastically, and show that for sufficiently strict isolation protocols, isolating one third of the countries population for a total of 6 months is sufficient to avoid overwhelming ICU capacity throughout the entire course of the epidemic. Similar results are expected to hold for other countries, though some minor adaption will be required based on local age demographics and hospital facilities.\nCompeting Interest Statement",
+    "affiliations": [
+        "School of Medicine and Health Science, Carl von Ossietzky Universit\u00e4t Oldenburg"
+    ],
+    "author": "Alastair D Jamieson-Lane; Eric Cytrnbaum",
+    "date": 2020,
+    "doi": "10.1101/2020.04.01.20049692",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.01.20049692"
+    },
+    "title": "The Effectiveness of Targeted Quarantine for Minimising Impact of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "School of Medicine and Health Science, Carl"
+                },
+                {
+                    "funding-source": "Ossietzky Universit\u00e4t Oldenburg"
+                }
+            ],
+            "funding-statement": "All funding was provided by funding was provided by the School of Medicine and Health Science, Carl von Ossietzky Universit\u00e4t Oldenburg"
+        }
+    ]
+}

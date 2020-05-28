@@ -1,0 +1,26 @@
+{
+    "abstract": "In late 2019, the SARS-Cov-2 spread worldwide. The virus has high rates of proliferation and causes severe respiratory symptoms, such as pneumonia. There is still no specific treatment and diagnosis for the disease. The standard diagnostic method for pneumonia is chest X-ray image. There are many advantages to using Covid-19 diagnostic X-rays: low cost, fast and widely available. We propose an intelligent system to support diagnosis by X-ray images.We tested Haralick and Zernike moments for feature extraction. Experiments with classic classifiers were done. Support vector machines stood out, reaching an average accuracy of 89:78%, average recall and sensitivity of 0:8979, and average precision and specificity of 0:8985 and 0:9963 respectively. The system is able to differentiate Covid-19 from viral and bacterial pneumonia, with low computational cost.",
+    "affiliations": [
+        "Federal University of Pernambuco and the Brazilian research agencies FACEPE, CAPES and CNPq"
+    ],
+    "author": "Ricardo Emmanuel de Souza; Juliana Carneiro Gomes; Maira Araujo de Santana; Valter Augusto de Freitas Barbosa; Meuser Jorge Silva Valenca; Jonathan Bandeira; Wellington Pinheiro dos Santos; Aras Masood Ismael",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20092346",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092346"
+    },
+    "title": "IKONOS: An intelligent tool to support diagnosis of Covid-19 by texture analysis of x-ray images",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Federal University of Pernambuco and the Brazilian"
+                },
+                {
+                    "funding-source": "CAPES and CNPq"
+                }
+            ],
+            "funding-statement": "This study was funded by the Federal University of Pernambuco and the Brazilian research agencies FACEPE, CAPES and CNPq"
+        }
+    ]
+}

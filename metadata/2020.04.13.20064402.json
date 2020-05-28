@@ -1,0 +1,53 @@
+{
+    "abstract": "Background: The aim of this review was to evaluate the efficacy and safety of antibiotic agents in children with COVID-19, as well as to introduce the present situation of antibiotics use and bacterial coinfections in COVID-19 patients. Methods: We searched Cochrane library, Medline, Embase, Web of Science, CBM, Wanfang Data and CNKI from their inception to March 31, 2020. In addition, we searched related studies on COVID-19  through Google Scholar. We evaluated the risk of bias of included studies, and synthesized the results using a qualitative synthesis. Results: Six studies met our inclusion criteria. Five studies on SARS showed an overall risk of death of 7.2% to 20.0%. One study of SARS patients who used macrolides, quinolones or beta lactamases showed that the mean duration of hospital stay was 14.2, 13.8 and 16.2 days, respectively, and their average duration of fever was 14.3, 14.0 and 16.2 days, respectively. One cohort study on MERS indicated that macrolide therapy was not associated with a significant reduction in 90-day mortality (adjusted odds ratio [OR] 0.84, 95% confidence interval [CI] 0.47-1.51, P = 0.56) and improvement in MERS-CoV RNA clearance (adjusted hazard ratio [HR] 0.88, 95% CI 0.47, -1.64], P = 0.68). According to the findings of 33 studies, the proportion of antibiotics use ranged from 19.4% to 100.0% in children and 13.2% to 100.0% in adults, despite the lack of etiological evidence. The most commonly used antibiotics in adults were quinolones, cephalosporins and macrolides and in children meropenem and linezolid. Conclusions: The benefits of antibiotic agents for adults with SARS or MERS were questionable in the absence of bacterial coinfections. There is no evidence to support the use of antibiotic agents for children with COVID-19 in the absence of bacterial coinfection.\nCompeting Interest Statement\nThe authors have declared no competing interest.\nFunding Statement\nThis work was supported by grants from National Clinical Research Center for Child Health and Disorders (Children's Hospital of Chongqing Medical University, Chongqing, China) (grant number NCRCCHD-2020-EP-01) to [Enmei Liu]; Special Fund for Key Research and Development Projects in Gansu Province in 2020, to [Yaolong Chen]; The fourth batch of \"Special Project of Science and Technology for Emergency Response to COVID-19\" of Chongqing Science and Technology Bureau, to [Enmei Liu]; Special funding for prevention and control of emergency of COVID-19 from Key Laboratory of Evidence Based Medicine and Knowledge Translation of Gansu Province (grant number No. GSEBMKT-2020YJ01), to [Yaolong Chen].\nAuthor Declarations\nAll relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript.\nYes\nAll necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived.\nYes\nI understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).",
+    "author": "Yanfang Ma; Jianjian Wang; Myeong Soo Lee; Zhengxiu Luo; Yaolong Chen; Hyeong Sik Ahn; Muna Baskota; Yinmei Yang; Weiguo Li; Toshio Fukuoka; Enmei Liu; Xufei Luo; Qingyuan Li; Qi Zhou; Yuyi Tang; Xingmei Wang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20064402",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20064402"
+    },
+    "title": "Efficacy and Safety of Antibiotic Agents in Children with COVID-19: A Rapid Review",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Clinical Research Center for Child Health and Disorders"
+                },
+                {
+                    "funding-source": "Children's Hospital of Chongqing Medical University, Chongqing",
+                    "award-id": [
+                        "NCRCCHD-2020-EP-01",
+                        "Enmei Liu"
+                    ]
+                },
+                {
+                    "funding-source": "Special Fund for Key Research and Development Projects in Gansu Province in",
+                    "award-id": [
+                        "Yaolong Chen"
+                    ]
+                },
+                {
+                    "funding-source": "Special Project of Science and Technology for Emergency Response",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Chongqing Science and Technology Bureau,",
+                    "award-id": [
+                        "Enmei Liu",
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Key Laboratory of Evidence Based Medicine and Knowledge Translation of Gansu Province",
+                    "award-id": [
+                        "GSEBMKT-2020YJ01",
+                        "Yaolong Chen"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants from National Clinical Research Center for Child Health and Disorders (Children's Hospital of Chongqing Medical University, Chongqing, China) (grant number NCRCCHD-2020-EP-01) to [Enmei Liu]; Special Fund for Key Research and Development Projects in Gansu Province in 2020, to [Yaolong Chen]; The fourth batch of \"Special Project of Science and Technology for Emergency Response to COVID-19\" of Chongqing Science and Technology Bureau, to [Enmei Liu]; Special funding for prevention and control of emergency of COVID-19 from Key Laboratory of Evidence Based Medicine and Knowledge Translation of Gansu Province (grant number No GSEBMKT-2020YJ01), to [Yaolong Chen]"
+        }
+    ]
+}

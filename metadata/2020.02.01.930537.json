@@ -1,0 +1,30 @@
+{
+    "title": "Fast assessment of human receptor-binding capability of 2019 novel coronavirus (2019-nCoV)",
+    "date": 2020,
+    "author": "Qiang Huang, and Andreas Herrmann",
+    "affiliations": [
+        "State Key Laboratory of Genetic Engineering, MOE Engineering Research Center of Gene Technology, School of Life Sciences, Fudan University, Shanghai, 200438, China",
+        "Institute for Biology and IRI Lifesciences, Humboldt-Universit\u00e4t zu Berlin, 10115 Berlin, Germany"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.01.930537",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.01.930537.pdf"
+    },
+    "abstract": "The outbreaks of 2002/2003 SARS, 2012/2015 MERS and 2019/2020 Wuhan respiratory syndrome clearly indicate that genome evolution of an animal coronavirus (CoV) may enable it to acquire human transmission ability, and thereby to cause serious threats to global public health. It is widely accepted that CoV human transmission is driven by the interactions of its spike protein (S-protein) with human receptor on host cell surface; so, quantitative evaluation of these interactions may be used to assess the human transmission capability of CoVs. However, quantitative methods directly using viral genome data are still lacking. Here, we perform large-scale protein-protein docking to quantify the interactions of 2019-nCoV S-protein receptor-binding domain (S-RBD) with human receptor ACE2, based on experimental SARS-CoV S-RBD-ACE2 complex structure. By sampling a large number of thermodynamically probable binding conformations with Monte Carlo algorithm, this approach successfully identified the experimental complex structure as the lowest-energy receptor-binding conformations, and hence established an experiment-based strength reference for evaluating the receptor-binding affinity of 2019-nCoV via comparison with SARS-CoV. Our results show that this binding affinity is about 73% of that of SARS-CoV, supporting that 2019-nCoV may cause human transmission similar to that of SARS-CoV. Thus, this study presents a method for rapidly assessing the human transmission capability of a newly emerged CoV and its mutant strains, and demonstrates that post-genome analysis of protein-protein interactions may provide early scientific guidance for viral prevention and control.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "91430112"
+                    ]
+                }
+            ],
+            "funding-statement": "The methodology development in this work was partly supported by the grant from the National Natural Science Foundation of China (No 91430112)"
+        }
+    ]
+}

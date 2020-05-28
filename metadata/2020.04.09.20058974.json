@@ -1,0 +1,29 @@
+{
+    "abstract": "The novel coronavirus (SARS-CoV-2) is currently causing concern in the medical, epidemiological and mathematical communities as the virus is rapidly spreading around the world. Internationally, there are more than 1,200,000 cases detected and confirmed in the world on April 6. The asymptomatic and mild symptomatic cases are just going to be really crucial for us to understand what is driving this epidemic to transmit rapidly. Combining a mathematical model of severe (SARS-CoV-2) transmission with data from China, South Korea, Italy, France, Germany and United Kingdom, we provide the epidemic predictions of the number of reported and unreported cases for the SARS-CoV-2 epidemics and evaluate the effectiveness of control measures for each country.",
+    "affiliations": [
+        "Central Universities"
+    ],
+    "author": "Zhihua Liu; pierre magal; Glenn F Webb",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20058974",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20058974"
+    },
+    "title": "Predicting the number of reported and unreported cases for the COVID-19 epidemics in China, South Korea, Italy, France, Germany and United Kingdom",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSFC and CNRS",
+                    "award-id": [
+                        "11811530272"
+                    ]
+                },
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities"
+                }
+            ],
+            "funding-statement": "NSFC (Grant No 11871007), NSFC and CNRS (Grant No 11811530272) and the Fundamental Research Funds for the Central Universities"
+        }
+    ]
+}

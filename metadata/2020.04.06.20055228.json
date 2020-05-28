@@ -1,0 +1,47 @@
+{
+    "abstract": "The exact transmission route of many respiratory infectious diseases remains a subject for debate to date. The relative contribution ratio of each transmission route is largely undetermined, which is affected by environmental conditions, human behavior, the host and the microorganism. In this study, a detailed mathematical model is developed to investigate the relative contributions of different transmission routes to a multi-route transmitted respiratory infection. It is illustrated that all transmission routes can dominate the total transmission risk under different scenarios. Influential parameters considered include dose-response rate of different routes, droplet governing size that determines virus content in droplets, exposure distance, and virus dose transported to the hand of infector. Our multi-route transmission model provides a comprehensive but straightforward method to evaluate the transmission efficiency of different transmission routes of respiratory diseases and provides a basis for predicting the impact of individual level intervention methods such as increasing close-contact distance and wearing protective masks.",
+    "affiliations": [
+        "National Natural Science Foundation of China (51278440) and the Research Grants Council of Hong Kong\u0092s Collaborative Research Fund (C7025-16G), the Fundamental Research Funds for the Central Universities, and the HKU-Zhejiang Institute for Research and Innovation (HKU-ZIRI) Seed Funding Programme"
+    ],
+    "author": "Benjamin J Cowling; Caroline X. Gao; Matthew Hamilton; Sue Cotton; Lei Wang; Jianjian Wei; Yuguo Li",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20055228",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055228"
+    },
+    "title": "Multi-route respiratory infection: when a transmission route may dominate",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "51278440"
+                    ]
+                },
+                {
+                    "funding-source": "Research Grants Council of Hong"
+                },
+                {
+                    "funding-source": "Collaborative Research Fund",
+                    "award-id": [
+                        "C7025-16G"
+                    ]
+                },
+                {
+                    "funding-source": "Fundamental Research Funds for the Central Universities,"
+                },
+                {
+                    "funding-source": "HKU-Zhejiang Institute for Research and Innovation",
+                    "award-id": [
+                        "HKU-ZIRI"
+                    ]
+                },
+                {
+                    "funding-source": "Seed Funding Programme"
+                }
+            ],
+            "funding-statement": "This work was financially supported by the National Natural Science Foundation of China (51278440) and the Research Grants Council of Hong Kong\u0092s Collaborative Research Fund (C7025-16G), the Fundamental Research Funds for the Central Universities, and the HKU-Zhejiang Institute for Research and Innovation (HKU-ZIRI) Seed Funding Programme"
+        }
+    ]
+}

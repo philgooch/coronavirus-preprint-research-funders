@@ -1,0 +1,38 @@
+{
+    "abstract": "Suppressing SARS-CoV-2 will likely require the rapid identification and isolation of infected individuals, on an ongoing basis. RT-PCR (reverse transcription polymerase chain reaction) tests are accurate but costly, making regular testing of every individual expensive. The costs are a challenge for all countries and particularly for developing countries. Cost reductions can be achieved by combining samples and testing them in groups. We propose an algorithm for grouping subsamples, prior to testing, based on the geometry of a hypercube. At low prevalence, this testing procedure uniquely identifies infected individuals in a small number of tests. We discuss the optimal group size and explain why, given the highly infectious nature of the disease, parallel searches are preferred. We report proof of concept experiments in which a positive sample was detected even when diluted a hundred-fold with negative samples. Using these methods, the costs of mass testing could be reduced by a factor of ten to a hundred or more. If infected individuals are quickly and effectively quarantined, the prevalence will fall and so will the costs of regularly testing everyone. Such a strategy provides a possible pathway to the longterm elimination of SARS-CoV-2. Field trials of our approach are now under way in Rwanda and initial data from these are reported here.",
+    "affiliations": [
+        "International Development Research Centre and Global Affairs Canada. Research at Perimeter Institute is supported in part by the Government of Canada through the Department of Innovation, Science and Economic Development Canada and by the Province of Ontario through the Ministry of Colleges and Universities"
+    ],
+    "author": "Edouard Ntagwabira; Robert Rutayisire; Wilfred Ndifon; Thierry Nyatanyi; Emile Musoni; Muhammed Semakula; Jacob Souopgui; Annette Uwineza; Sabin Nsanzimana; Pacifique Ndishimye; Jean Baptiste Mazarati; Eva Ujeneza; Neil Turok; Yvan Butera; Daniel Nyamwasa; Clarisse Musanabaganwa; Ivan Emile Mwikarago; Claude Mambo Muvunyi; Maurice Ndashimye; Leon Mutesa; Nadine Rujeni",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20087924",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20087924"
+    },
+    "title": "A strategy for finding people infected with SARS-CoV-2: optimizing pooled testing at low prevalence",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Perimeter Institute"
+                },
+                {
+                    "funding-source": "Government of Canada"
+                },
+                {
+                    "funding-source": "Department of Innovation, Science"
+                },
+                {
+                    "funding-source": "Economic Development Canada and"
+                },
+                {
+                    "funding-source": "Province of Ontario"
+                },
+                {
+                    "funding-source": "Ministry of Colleges and Universities"
+                }
+            ],
+            "funding-statement": "Research at Perimeter Institute is supported in part by the Government of Canada through the Department of Innovation, Science and Economic Development Canada and by the Province of Ontario through the Ministry of Colleges and Universities"
+        }
+    ]
+}

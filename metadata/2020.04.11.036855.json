@@ -1,0 +1,70 @@
+{
+    "title": "Evaluation of heating and chemical protocols for inactivating SARS-CoV-2",
+    "author": "Boris Pastorino 1, Franck Touret 1, Magali Gilles 1, Xavier de Lamballerie 1, Remi N. Charrel 1",
+    "date": 2020,
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.11.036855",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.11.036855.pdf"
+    },
+    "abstract": "text\nClinical samples collected in COVID-19 patients are commonly manipulated in BSL-2 laboratories for diagnostic purpose. We used the French norm NF-EN-14476+A2 derived from the European standard EN-14885. To avoid the risk of exposure of laboratory workers, we showed that Triton-X100 must be added to guanidinium thiocyanate-lysis buffers to obtain a 6log reduction of infectious virus. Although heating protocol consisting of 92\u00b0C-15min was more effective rather than 56\u00b0C-30min and 60\u00b0C-60min to achieve 6-log reduction, it is not amenable for molecular detection on respiratory specimens because of important decrease of detectable RNA copies in the treated sample vs untreated sample. The 56\u00b0C-30min and 60\u00b0C-60min should be used for inactivation of serum / plasma samples for serology because of the 5log10 reduction of infectivity and low viral loads in blood specimens.",
+    "keywords": [
+        "SARS-CoV-2",
+        "coronavirus",
+        "heat inactivation",
+        "extraction buffer",
+        "COVID-19",
+        "biosafety"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Virus Archive Global",
+                    "award-id": [
+                        "EVA-GLOBAL"
+                    ]
+                },
+                {
+                    "funding-source": "European Union\u2019s Horizon",
+                    "award-id": [
+                        "2020-INFRAIA-2019"
+                    ]
+                },
+                {
+                    "funding-source": "Project No",
+                    "award-id": [
+                        "871029"
+                    ]
+                },
+                {
+                    "funding-source": "Advanced Nanosensing",
+                    "award-id": [
+                        "H2020"
+                    ]
+                },
+                {
+                    "funding-source": "Preparedness and Response in"
+                },
+                {
+                    "funding-source": "Pathogens of Medical and Veterinary"
+                },
+                {
+                    "funding-source": "Agence Nationale de la Recherche Franco-German"
+                },
+                {
+                    "funding-source": "Viral Hemorrhagic",
+                    "award-id": [
+                        "H2020"
+                    ]
+                },
+                {
+                    "funding-source": "REsearch and ACTion Targeing"
+                }
+            ],
+            "funding-statement": "This study was partially funded (i) by the European Virus Archive Global (EVA-GLOBAL) project that has received funding from the European Union\u2019s Horizon 2020-INFRAIA-2019 research and innovation programme, Project No 871029, (ii) \"Advanced Nanosensing platforms for Point of care glovbal disgnostics and surveillance\" (CONVAT) ,H2020, Project No101003544, (iii) PREPMedVet (Preparedness and Response in an Emergency contact to Pathogens of Medical and Veterinary importance) within the Agence Nationale de la Recherche Franco-German call on Civil security / Global security 2019 Edition, (iv) \"Viral Hemorrhagic fever moden approaches for developing bedside rapid diagnostics, IMI2 Program, H2020, Project No823666. It was also supported by Inserm through the Reacting (REsearch and ACTion Targeing emerging infectious diseases) initiative."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Sample pooling of CoViD-19 PCR tests has been recently proposed as a low cost alternative to individual tests. We show that sample pooling is efficient as long as the fraction of the population infected is relatively small. Fisher information theory suggests a rule of thumb that for low infection rates p, pooling 2/p samples is close to optimal. We present a simple strategy for survey design when not even a ballpark estimate of the infection rate is available.",
+    "author": "Istvan Szapudi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.05.20054445",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.05.20054445"
+    },
+    "title": "Efficient sample pooling strategies for COVID-19 data gathering",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding has been used for this project."
+        }
+    ]
+}

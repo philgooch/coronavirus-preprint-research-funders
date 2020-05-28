@@ -1,0 +1,53 @@
+{
+    "abstract": "Background: The outbreak of the coronavirus disease 2019 (COVID-19) has had a massive impact on the whole world. Computed tomography (CT) has been widely used in the diagnosis of this novel pneumonia. This study aims to understand the role of CT for the diagnosis and the main imaging manifestations of patients with COVID-19. Methods: We conducted a rapid review and meta-analysis on studies about the use of chest CT for the diagnosis of COVID-19. We comprehensively searched databases and preprint servers on chest CT for patients with COVID-19 between 1 January 2020 and 31 March 2020. The primary outcome was the sensitivity of chest CT imaging. We also conducted subgroup analyses and evaluated the quality of evidence using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. Results: A total of 104 studies with 5694 patients were included. Using RT-PCR results as reference, a meta-analysis based on 64 studies estimated the sensitivity of chest CT imaging in COVID-19 was 99% (95% CI, 0.97-1.00). If case reports were excluded, the sensitivity in case series was 96% (95% CI, 0.93-0.99). The sensitivity of CT scan in confirmed patients under 18 years old was only 66% (95% CI, 0.11-1.00). The most common imaging manifestation was ground-glass opacities (GGO) which was found in 75% (95% CI, 0.68-0.82) of the patients. The pooled probability of bilateral involvement was 84% (95% CI, 0.81-0.88). The most commonly involved lobes were the right lower lobe (84%, 95% CI, 0.78-0.90) and left lower lobe (81%, 95% CI, 0.74-0.87). The quality of evidence was low across all outcomes. Conclusions: In conclusion, this meta-analysis indicated that chest CT scan had a high sensitivity in diagnosis of patients with COVID-19. Therefore, CT can potentially be used to assist in the diagnosis of COVID-19.\nCompeting Interest Statement",
+    "author": "Yanfang Ma; Myeong Soo Lee; Nan Yang; Zhengxiu Luo; Xin Chen; Wei Li; Yunlan Liu; Meng Lv; Junqiang Lei; Hyeong Sik Ahn; Yaolong Chen; Mengshu Wang; Enmei Liu; Jinhui Tian; Xufei Luo; Mengjuan Ren; Toshio Fukuoka; Xiaohui Wang; Ling Wang; Xianzhuo Zhang",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20064733",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20064733"
+    },
+    "title": "Chest Computed Tomography for the Diagnosis of Patients with Coronavirus Disease 2019 (COVID-19): A Rapid Review and Meta-Analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Clinical Research Center for Child Health and Disorders"
+                },
+                {
+                    "funding-source": "Children's Hospital of Chongqing Medical University, Chongqing",
+                    "award-id": [
+                        "NCRCCHD-2020-EP-01",
+                        "Enmei Liu"
+                    ]
+                },
+                {
+                    "funding-source": "Special Fund for Key Research and Development Projects in Gansu Province in",
+                    "award-id": [
+                        "Yaolong Chen"
+                    ]
+                },
+                {
+                    "funding-source": "Special Project of Science and Technology for Emergency Response",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Chongqing Science and Technology Bureau,",
+                    "award-id": [
+                        "Enmei Liu",
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Key Laboratory of Evidence-Based Medicine and Knowledge Translation of Gansu Province",
+                    "award-id": [
+                        "GSEBMKT-2020YJ01",
+                        "Yaolong Chen"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by grants from National Clinical Research Center for Child Health and Disorders (Children's Hospital of Chongqing Medical University, Chongqing, China) (grant number NCRCCHD-2020-EP-01) to [Enmei Liu]; Special Fund for Key Research and Development Projects in Gansu Province in 2020, to [Yaolong Chen]; The fourth batch of \"Special Project of Science and Technology for Emergency Response to COVID-19\" of Chongqing Science and Technology Bureau, to [Enmei Liu]; Special funding for prevention and control of emergency of COVID-19 from Key Laboratory of Evidence-Based Medicine and Knowledge Translation of Gansu Province (grant number No GSEBMKT-2020YJ01), to [Yaolong Chen]"
+        }
+    ]
+}

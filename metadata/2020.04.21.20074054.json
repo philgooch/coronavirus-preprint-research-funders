@@ -1,0 +1,23 @@
+{
+    "abstract": "The COVID-19 epidemic started in the Hubei province in China in December 2019 and then spread around the world reaching the pandemic stage at the beginning of March 2020. Since then, several countries went into lockdown. We estimate the effect of the lockdown in France on the contact rate and the effective reproduction number Re of the COVID-19. We obtain a reduction by a factor 7 (Re=0.47, 95%-CI: 0.45-0.50), compared to the estimates carried out in France at the early stage of the epidemic. We also estimate the fraction of the population that would be infected by the beginning of May, at the official date at which the lockdown should be relaxed. We find a fraction of 3.7% (95%-CI: 3.0-4.8%) of the total French population, without taking into account the number of recovered individuals before April 1st, which is not known. This proportion is seemingly too low to reach herd immunity. Thus, even if the lockdown strongly mitigated the first epidemic wave, keeping a low value of Re is crucial to avoid an uncontrolled second wave (initiated with much more infectious cases than the first wave) and to hence avoid the saturation of hospital facilities. Our approach is based on the mechanistic-statistical formalism, which uses a probabilistic model to connect the data collection process and the latent epidemiological process, which is described by a SIR-type differential equation model.",
+    "author": "Julien Papaix; Samuel Soubeyrand; Lionel Roques; Antoine Sar; Etienne K Klein",
+    "date": 2020,
+    "doi": "10.1101/2020.04.21.20074054",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.21.20074054"
+    },
+    "title": "Effect of a one-month lockdown on the epidemic dynamics of COVID-19 in France",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funder INRAE"
+                },
+                {
+                    "funding-source": "MEDIA"
+                }
+            ],
+            "funding-statement": "Funder INRAE : MEDIA network"
+        }
+    ]
+}

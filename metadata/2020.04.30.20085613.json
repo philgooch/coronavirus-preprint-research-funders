@@ -1,0 +1,38 @@
+{
+    "abstract": "Background: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused a global pandemic. The percentage of infected individuals who seroconvert is still an open question. In addition, it has been shown in some individuals that viral genome can still be detected at considerable time post symptom resolution. Here we investigated both seroconversion and PCR-positivity in a large cohort of convalescent serum donors in New York City. Methods: Individuals with confirmed or suspected SARS-CoV-2 infection were screened via PCR for presence of viral genome and via enzyme-linked immunosorbent assay for presence of anti SARS-CoV-2 spike antibodies. Results: All but three confirmed SARS-CoV-2 patients seroconverted to the SARS-CoV-2 spike while only 37.4% of suspected SARS-CoV-2 patients seroconverted. PCR-positivity was detected up to 28 days from symptom resolution. Conclusions: Here we show that the vast majority of confirmed COVID19 patients seroconvert, potentially providing immunity to reinfection. We also report that in a large proportion of individuals, viral genome can be detected via PCR in the upper respiratory tract for weeks post symptom resolution, but it is unclear if this signal represents infectious virus.\nCompeting Interest Statement",
+    "affiliations": [
+        "National Institute of Allergy and Infectious Disease (NIAID) Collaborative Influenza Vaccine Innovation Centers (CIVIC) contract 75N93019C00051 and the NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS) contract HHSN272201400008C as well as institutional and philanthropic funding"
+    ],
+    "author": "Jane Houldsworth; Ania Wajnberg; Gopi Patel; Viviana Simon; Judith Aberg; Carlos Cordon-Cardo; Jeffrey Jhang; Ian Baine; Rao Mendu; Florian Krammer; David Reich; Mayce Mansour; Melissa Gitman; Suzanne Arinsburg; Emily Leven; Nicole M Bouvier; Adolfo Firpo",
+    "date": 2020,
+    "doi": "10.1101/2020.04.30.20085613",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.30.20085613"
+    },
+    "title": "Humoral immune response and prolonged PCR positivity in a cohort of 1343 SARS-CoV 2 patients in the New York City region",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Work on SARS-CoV-2"
+                },
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Disease"
+                },
+                {
+                    "funding-source": "Collaborative Influenza Vaccine Innovation Centers",
+                    "award-id": [
+                        "75N93019C00051"
+                    ]
+                },
+                {
+                    "funding-source": "NIAID Centers of Excellence for Influenza Research and Surveillance",
+                    "award-id": [
+                        "HHSN272201400008C"
+                    ]
+                }
+            ],
+            "funding-statement": "Work on SARS-CoV-2 immunity in the Krammer is supported by the National Institute of Allergy and Infectious Disease (NIAID) Collaborative Influenza Vaccine Innovation Centers (CIVIC) contract 75N93019C00051 and the NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS) contract HHSN272201400008C as well as institutional and philanthropic funding"
+        }
+    ]
+}

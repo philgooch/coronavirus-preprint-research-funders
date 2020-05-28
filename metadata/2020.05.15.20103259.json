@@ -1,0 +1,20 @@
+{
+    "abstract": "Managing the COVID-19 pandemic in the middle of the events requires real-time monitoring of its evolution to perform analyses of containment actions and to project near future scenarios. This work proposes a scheme to monitor the temporal evolution of the COVID-19 pandemic using the time series of its total number of confirmed cases in a given region. The monitored parameter is the spread rate obtained from this time series (day-1) expressed in %/day. The scheme's capability is verified using the epidemic data from China and South Korea. Its projection capability is shown for Italy and United States with scenarios for the ensuing 30 days from April 2nd, 2020. The spread rate (relative rate of change of the time series) is very sensitive to sudden changes in the epidemic evolution and can be used to monitor in real-time the effectiveness of containment actions. The logarithm of this variable allows identifying clear trends of the evolution of the COVID-10 epidemic in these countries. The spread rate calculated from the number of confirmed cases of infection is interpreted as a probability per unit of time of virus infection and containment actions. Its product with the number of confirmed cases of infections yields the number of new cases per day. The stabilization and control of the epidemic for China and South Korea appear to occur for values of this parameter below 0.77 %/day (doubling time of 90 days).",
+    "author": "Joao Manoel Losada Moreira",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103259",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103259"
+    },
+    "title": "Monitoring the evolution of the COVID-19 pandemic in China, South Korea, Italy and USA through the net relative rate of infection of the total number of confirmed cases",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior"
+                }
+            ],
+            "funding-statement": "The author thanks the Brazilian agency Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior (CAPES) for financial support and acknowledges it had no interference on data collection, interpretation, or decision to submit the work for publication"
+        }
+    ]
+}

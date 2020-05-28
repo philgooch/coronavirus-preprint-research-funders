@@ -1,0 +1,85 @@
+{
+    "title": "Broad Host Range of SARS-CoV-2 Predicted by Comparative and Structural Analysis of ACE2 in Vertebrates",
+    "date": 2020,
+    "author": "Joana Damasa,\u200b, Graham M. Hughesb,\u200b, Kathleen C. Keough,\u200b, Corrie A. Painter,\u200b, Nicole S. Persky,\u200b, Marco Corboa, Michael Hillerh,i,j,Klaus-Peter Koepflik, Andreas R. Pfenningl,Huabin Zhaom, Diane P. Genereuxe, Ross Swofforde, Katherine S. Pollard,n, Oliver A. Rydero,p,Martin T. Nweeiaq,r,s , Kerstin Lindblad-Tohe,t, Emma C. Teelingb,Elinor K. Karlssone,u,v, and Harris A. Lewina,w,x aThe Genome Center, University of California Davis, Davis, CA 95616, USA; bSchool of Biology and Environmental Science, University College Dublin, Belfield, Dublin 4, Ireland; cUniversity of California San Francisco, San Francisco, CA 94117, USA; dGladstone Institute of Data Science and Biotechnology, San Francisco, CA 94158, USA;eBroad Institute of MIT and Harvard, Cambridge, MA 02142, USA; fCancer Program, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA; gGenetic Perturbation Platform, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA; hMax Planck Institute of Molecular Cell Biology and Genetics, 01307 Dresden, Germany; iMax Planck Institute for the Physics of Complex Systems, 01187 Dresden, Germany; jCenter for Systems Biology Dresden, 01307 Dresden, Germany; kSmithsonian Conservation Biology Institute, Center for Species Survival, National Zoological Park, Front Royal, VA 22630, Washington, DC 20008 USA; lDepartment of Computational Biology, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, USA; mDepartment of Ecology and Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, Wuhan University, Wuhan 430072, China; nChan Zuckerberg Biohub, San Francisco, CA 94158, USA; oSan Diego Zoo Institute for Conservation Research, Escondido, CA 92027, USA; pDepartment of Evolution, Behavior, and Ecology, Division of Biology, University of California San Diego, La Jolla, CA 92093, USA; qHarvard School of Dental Medicine, Boston, MA 02115, USA; rCase Western Reserve University School of Dental Medicine, Cleveland, OH 44106, USA; sMarine Mammal Program, Department of Vertebrate Zoology, Smithsonian Institution, Washington, DC 20002, USA; tScience for Life Laboratory, Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, 751 23, Sweden; uBioinformatics and Integrative Biology, University of Massachusetts Medical School, Worcester, MA 01655, USA; vProgram in Molecular Medicine, University of Massachusetts Medical School, Worcester, MA 01655, USA; wDepartment of Evolution and Ecology, University of California Davis, Davis, CA 95616, USA; xJohn Muir Institute for the Environment, University of California Davis, Davis, CA 95616, USA",
+    "affiliations": [
+        "The Genome Center, University of California Davis, Davis, CA 95616, USA",
+        "School of Biology and Environmental Science, University College Dublin, Belfield, Dublin 4, Ireland",
+        "University of California San Francisco, San Francisco, CA 94117, USA",
+        "Gladstone Institute of Data Science and Biotechnology, San Francisco, CA 94158, USA;eBroad Institute of MIT and Harvard, Cambridge, MA 02142, USA",
+        "Cancer Program, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA",
+        "Genetic Perturbation Platform, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA",
+        "Max Planck Institute of Molecular Cell Biology and Genetics, 01307 Dresden, Germany",
+        "Max Planck Institute for the Physics of Complex Systems, 01187 Dresden, Germany",
+        "Center for Systems Biology Dresden, 01307 Dresden, Germany",
+        "Smithsonian Conservation Biology Institute, Center for Species Survival, National Zoological Park, Front Royal, VA 22630, Washington, DC 20008 USA",
+        "Department of Computational Biology, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, USA",
+        "Department of Ecology and Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, Wuhan University, Wuhan 430072, China",
+        "Department of Evolution and Ecology, College of Biological Sciences, University of California Davis, CA 95616, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.16.045302",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.16.045302.pdf"
+    },
+    "abstract": "The novel coronavirus SARS-CoV-2 is the cause of Coronavirus Disease-2019 (COVID-19). The main receptor of SARS-CoV-2, angiotensin I converting enzyme 2 (ACE2), is now undergoing extensive scrutiny to understand the routes of transmission and sensitivity in different species. Here, we utilized a unique dataset of 410 vertebrates, including 252 mammals, to study cross-species conservation of ACE2 and its likelihood to function as a SARS-CoV-2 receptor. We designed a five-category ranking score based on the conservation properties of 25 amino acids important for the binding between receptor and virus, classifying all species from very highto very low. Only mammals fell into the mediumto very high categories, and only catarrhine primates in the very highcategory, suggesting that they are at high risk for SARS-CoV-2 infection. We employed a protein structural analysis to qualitatively assess whether amino acid changes at variable residues would be likely to disrupt ACE2/SARS-CoV-2 binding, and found the number of predicted unfavorable changes significantly correlated with the binding score. Extending this analysis to human population data, we found only rare (<0.1%) variants in 10/25 binding sites. In addition, we observed evidence of positive selection in ACE2 in multiple species, including bats. Utilized appropriately, our results may lead to the identification of intermediate host species for SARS-CoV-2, justify the selection of animal models of COVID-19, and assist the conservation of animals both in native habitats and in human care.",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "ACE2",
+        "comparative genomics",
+        "host range",
+        "species conservation",
+        "evolution"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Robert and Rosabel Osborne Endowment"
+                }
+            ],
+            "funding-statement": "This work was supported by the Robert and Rosabel Osborne Endowment (HAL)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Irish Research Council Laureate Award"
+                }
+            ],
+            "funding-statement": "ECT is funded by an Irish Research Council Laureate Award"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "UCSF Discovery Fellowship and the Gladstone Institutes"
+                }
+            ],
+            "funding-statement": "KCK is supported by a UCSF Discovery Fellowship and the Gladstone Institutes"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ad Astra Fellowship"
+                },
+                {
+                    "funding-source": "University College Dublin"
+                }
+            ],
+            "funding-statement": "GMH is funded by an Ad Astra Fellowship at University College Dublin"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R01HG008742"
+                    ]
+                }
+            ],
+            "funding-statement": "EKK, DPG and RS were supported by NIH R01HG008742"
+        }
+    ]
+}

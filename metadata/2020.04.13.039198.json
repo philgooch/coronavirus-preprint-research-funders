@@ -1,0 +1,38 @@
+{
+    "title": "Identification of potential vaccine candidates against SARS-CoV-2, A step forward to fight novel coronavirus 2019-nCoV: A Reverse Vaccinology Approach",
+    "author": "Ekta Gupta, Rupesh Kumar Mishra, Ravi Ranjan Kumar Niraj,#",
+    "date": 2020,
+    "affiliations": [
+        "Lal Institute of Biotechnology, Jaipur (INDIA) - 302017",
+        "Amity Institute of Biotechnology, Amity University Rajasthan, Jaipur (INDIA)-303002",
+        "Assistant Professor Amity Institute of Biotechnology, Amity University Rajasthan, Jaipur (INDIA)-303002",
+        "National Center for Biotechnology Information or NCBI (https://www.ncbi.nlm.nih.gov/) with RefSeq NC_045512.2"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.13.039198",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.13.039198.pdf"
+    },
+    "abstract": "The recent Coronavirus Disease 2019 (COVID-19) causes an immense health crisis to global public health. The World Health Organization (WHO) declared the COVID-19 as a pandemic. The COVID-19 is the etiologic agent of a recently arose disease caused by the severe acute respiratory syndrome coronavirus 2 (SARSCoV-2). Presently, there is no vaccine available against this emerged viral disease. Therefore, it is indeed a need of the hour to develop an effectual and safe vaccine against this decidedly pandemic disease. In the current study, we collected SARS-CoV-2 genome from Indian geographical origin against human host, further more using reverse vaccinology and immunoinformatics tools here we claim effective vaccine candidates that can be mile stone in battle against COVID19. This novel study divulged two promising antigenic peptide GVYFASTEK and NFRVQPTESIV from surface glycoproteins (protein accession no. - QIA98583.1 and QHS34546.1) of SARS-CoV-2, which were predicated to be interacted with class I and class II MHC alleles and showed up to 90% conservancy and high value of antigenicity. Subsequently, the molecular docking studies were verified molecular interaction of these prime antigenic peptides with the residues of HLA-A*11-01 allele for MHC Class I and HLA DRB1*04-01 allele for MHC class II. After vigorous analysis, these peptides were predicted to be suitable epitopes which are capable to elicit the strong cell-mediated immune response against the SARS-CoV-2. Consequences from the present study could facilitate selecting SARS-CoV-2 epitopes for vaccine production pipelines in the immediate future. This novel research will certainly pave the way for a fast, reliable and virtuous platform to provide timely countermeasure of this dangerous pandemic disease, COVID-19.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "Immunoinformatics",
+        "Reverse vaccinology",
+        "Molecular docking",
+        "Epitope",
+        "Vaccine candidates"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ethical Approval This"
+                }
+            ],
+            "funding-statement": "This research did not receive any specific grant from funding agencies. Compliance with Ethical Standards: Conflict of interest The authors declare there is no conflict of interest. Ethical Approval This article does not contain any studies with human participants or animals performed by any of the authors."
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "title": "High speed large scale automated isolation of SARS-CoV-2 from clinical samples using miniaturized co-culture coupled with high content screening",
+    "date": 2020,
+    "author": "1Institut Hospitalo-Universitaire M\u00e9diterran\u00e9e-Infection, 19-21 Boulevard Jean Moulin, 13005, 8 Marseille, France. 9 2Aix-Marseille Universit\u00e9, Institut de Recherche pour le D\u00e9veloppement (IRD), UMR Microbes 10 Evolution Phylogeny and Infections (MEPHI), AP-HM, 19-21 Boulevard Jean Moulin, 13005, 11 Marseille, France",
+    "affiliations": [
+        "Institut Hospitalo-Universitaire M\u00e9diterran\u00e9e-Infection, 19-21 Boulevard Jean Moulin, 13005",
+        "Marseille, France. 9",
+        "Aix-Marseille Universit\u00e9, Institut de Recherche pour le D\u00e9veloppement (IRD), UMR Microbes",
+        "Evolution Phylogeny and Infections (MEPHI), AP-HM, 19-21 Boulevard Jean Moulin, 13005",
+        "Marseille, France"
+    ],
+    "journal": "Wuhan",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.097295",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.097295.pdf"
+    },
+    "abstract": "SARS-CoV-2, a novel coronavirus infecting humans, is responsible for the current COVID-19 global pandemic. If several strains could be isolated worldwide, especially for in-vitro drug susceptibility testing and vaccine development, few laboratories routinely isolate SARS-CoV-2. This is due to the fact that the current co-culture strategy is highly time consuming and requires working in a biosafety level 3 laboratory. In this work, we present a new strategy based on high content screening automated microscopy (HCS) allowing large scale isolation of SARS-CoV-2 from clinical samples in 1 week. A randomized panel of 104 samples, including 72 tested 27 positive by RT-PCR and 32 tested negative, were processed with our HCS procedure and were 28 compared to the classical isolation procedure. Isolation rate was 43 % with both strategies on RT-PCR positive samples, and was correlated with the initial RNA viral load in the samples, where we obtained a positivity threshold of 27 Ct. Co-culture delays were shorter with HCS 31 strategy, where 80 % of the positive samples were recovered by the third day of co-culture, as 32 compared to only 25 % with the classic strategy. Moreover, only the HCS strategy allowed us to recover all the positive elements after 1 week of co-culture. This system allows rapid and automated screening of clinical samples with minimal operator work load, thus reducing the risks of contamination. Keywords: COVID-19, SARS-CoV-2, co-culture, isolation, high content screening.",
+    "keywords": [
+        "COVID-19",
+        "SARS-CoV-2",
+        "co-culture",
+        "isolation",
+        "high content screening"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "French State"
+                },
+                {
+                    "funding-source": "National Research Agency"
+                },
+                {
+                    "funding-source": "Investments for the Future)",
+                    "award-id": [
+                        "ANR-10-IAHU-03"
+                    ]
+                },
+                {
+                    "funding-source": "M\u00e9diterran\u00e9e Infection)"
+                },
+                {
+                    "funding-source": "Azur and the European"
+                },
+                {
+                    "funding-source": "FEDER PRIMI."
+                }
+            ],
+            "funding-statement": "This work was supported by a grant from the French State managed by the National Research Agency under the \"Investissements d\u2019avenir (Investments for the Future)\" programme under the reference ANR-10-IAHU-03 (M\u00e9diterran\u00e9e Infection) and by the R\u00e9gion Provence-Alpes-C\u00f4ted\u2019Azur and the European funding FEDER PRIMI."
+        }
+    ]
+}

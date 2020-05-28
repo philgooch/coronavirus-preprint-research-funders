@@ -1,0 +1,23 @@
+{
+    "abstract": "A novel coronavirus (SARS-CoV-2) emerged from China in late 2019 and rapidly spread across the globe, infecting millions of people and generating societal disruption on a level not seen since the 1918 influenza pandemic. A safe and effective vaccine is desperately needed to prevent the continued spread of SARS-CoV-2; yet, rational vaccine design efforts are currently hampered by the lack of knowledge regarding viral epitopes targeted during an immune response, and the need for more in-depth knowledge on betacoronavirus immunology. To that end, we developed a computational workflow using a series of open-source algorithms and webtools to analyze the proteome of SARS-CoV-2 and identify putative T cell and B cell epitopes. Using increasingly stringent selection criteria to select peptides with significant HLA promiscuity and predicted antigenicity, we identified 41 potential T cell epitopes (5 HLA class I, 36 HLA class II) and 6 potential B cell epitopes, respectively. Docking analysis and binding predictions demonstrated enrichment for peptide binding to HLA-B (class I) and HLA-DRB1 (class II) molecules. Overlays of predicted B cell epitopes with the structure of the viral spike (S) glycoprotein revealed that 4 of 6 epitopes were located in the receptor-binding domain of the S protein. To our knowledge, this is the first study to comprehensively analyze all 10 (structural, non-structural and accessory) proteins from SARS-CoV-2 using predictive algorithms to identify potential targets for vaccine development.",
+    "author": "Inna G. Ovsyannikova; Stephen N. Crooke; Gregory A. Poland; Richard B. Kennedy",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.093757",
+    "identifiers": {
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.093757"
+    },
+    "title": "Immunoinformatic identification of B cell and T cell epitopes in the SARS-CoV-2 proteome",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Merck Research Laboratories",
+                    "award-id": [
+                        "MMR-II"
+                    ]
+                }
+            ],
+            "funding-statement": "Dr Kennedy has received funding from Merck Research Laboratories to study waning immunity to measles and mumps after immunization with the MMR-II\u00ae vaccine"
+        }
+    ]
+}

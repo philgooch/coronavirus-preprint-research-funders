@@ -1,0 +1,70 @@
+{
+    "abstract": "Our ability to understand and mitigate the spread of SARS-CoV-2 depends largely on antibody and viral RNA data that provide information about past exposure and shedding. Five months into the outbreak there is an impressive number of studies reporting antibody kinetics and RNA shedding dynamics, but extensive variation in detection assays, study group demographics, and laboratory protocols has presented a challenge for inferring the true biological patterns. Here, we combine existing data on SARS-CoV-2 IgG, IgM and RNA kinetics using a formal quantitative approach that enables integration of 3,214 data points from 516 individuals, published in 22 studies. This allows us to determine the mean values and distributions of IgG and IgM seroconversion times and titer kinetics, and to characterize how antibody and RNA detection probabilities change during the early phase of infection. We observe extensive variation in antibody response patterns and RNA detection patterns, explained by both individual heterogeneity and protocol differences such as targeted antigen and sample type. These results provide a robust reference for clinical management of individual patients, and a foundation for the mathematical models and serological surveys that underpin public health policies.",
+    "affiliations": [
+        "UCLA AIDS Institute and Charity Treks, and JOL-S and KCP are supported by the U.S. National Science Foundation (DEB-1557022), the Strategic Environmental Research and Development Program (SERDP, RC\u20102635) of the U.S. Department of Defense and the Cooperative Ecosystem Studies Unit Cooperative Agreement #W9132T1920006"
+    ],
+    "author": "Benny Borremans; Abby M McClain; Caitlin Cox; James O Lloyd-Smith; Sarah K Helman; Van Savage; K C Prager; Amandine Gamble",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103275",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103275"
+    },
+    "title": "Quantifying antibody kinetics and RNA shedding during early-phase SARS-CoV-2 infection",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "European Commission Horizon"
+                },
+                {
+                    "funding-source": "Marie Sklodowska-Curie Actions",
+                    "award-id": [
+                        "707840"
+                    ]
+                }
+            ],
+            "funding-statement": "BB was supported by the European Commission Horizon 2020 Marie Sklodowska-Curie Actions (grant no. 707840)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "JOL-S and AG"
+                },
+                {
+                    "funding-source": "Defense Advanced Research Projects Agency DARPA PREEMPT",
+                    "award-id": [
+                        "D18AC00031"
+                    ]
+                },
+                {
+                    "funding-source": "UCLA AIDS Institute and Charity Treks,",
+                    "award-id": [
+                        "JOL-S"
+                    ]
+                },
+                {
+                    "funding-source": "JOL-S and KCP"
+                },
+                {
+                    "funding-source": "U.S National Science Foundation",
+                    "award-id": [
+                        "DEB-1557022"
+                    ]
+                },
+                {
+                    "funding-source": "Strategic Environmental Research and Development Program",
+                    "award-id": [
+                        "RC\u20102635"
+                    ]
+                },
+                {
+                    "funding-source": "U.S Department of Defense and the Cooperative Ecosystem Studies Unit Cooperative Agreement",
+                    "award-id": [
+                        "W9132T1920006"
+                    ]
+                }
+            ],
+            "funding-statement": "JOL-S and AG are supported by the Defense Advanced Research Projects Agency DARPA PREEMPT # D18AC00031 and the UCLA AIDS Institute and Charity Treks, and JOL-S and KCP are supported by the U.S National Science Foundation (DEB-1557022), the Strategic Environmental Research and Development Program (SERDP, RC\u20102635) of the U.S Department of Defense and the Cooperative Ecosystem Studies Unit Cooperative Agreement #W9132T1920006"
+        }
+    ]
+}

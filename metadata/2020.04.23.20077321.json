@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Social capital has been associated with many public health variables including mortality, obesity, diabetes, and sexually-transmitted disease rates. However, the relationship of social capital to the spread of infectious disease like COVID-19 is lacking. The COVID-19 pandemic presents an unprecedented threat to global health and economy, for which control strategies have relied on aggressive social distancing. However, an understanding of how social capital is related to changes in human mobility patterns for adherence to social distancing is lacking. Objective: This study examines the association between state- and county-level social capital indices and community health indices in the United States, and the growth rate of COVID-19 cases. It also examines changes in human mobility. Methods: Using publicly available state- and county-specific time series data for COVID-19 cases from March 13 to March 31, we used exponential fits to determine growth rate. We obtained publicly available mobility change data, originally measured from GPS-enabled mobile devices. The design was then state- and county-level correlation analysis with social capital and community health indices from the Social Capital Project (United States Senate). Results: In bivariate linear correlation analyses, we find social capital and community health indices were negatively associated with COVID-19 growth rates at both the state and county levels. The correlation was strongest at the county level for the community health index: a one-unit increase in the county community health index was associated with a decrease in the COVID-19 growth rate exponent by 0.045. In further bivariate correlation analyses, we find that social capital indices were negatively associated with retail/recreation movement and positively associated with residential movement. That is, an increase in social capital is correlated with slower COVID-19 infection spread and more adherence to social distancing protocols. Conclusion: Our results indicate the potential benefit of incorporating social capital concepts in planning policies to control the spread of COVID-19, e.g. different social distancing requirements in different communities. The results also indicate a need for further research into this potentially causal relationship, including examining interventions to increase social capital, community health, and institutional health.\nCompeting Interest Statement",
+    "author": "Richard Socher; Lav R. Varshney",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20077321",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20077321"
+    },
+    "title": "COVID-19 Growth Rate Decreases with Social Capital",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this work."
+        }
+    ]
+}

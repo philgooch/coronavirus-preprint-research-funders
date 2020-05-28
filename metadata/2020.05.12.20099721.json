@@ -1,0 +1,31 @@
+{
+    "abstract": "After an initial phase characterized by the introduction of timely and drastic containment measures aimed at stopping the epidemic contagion from SARS-CoV2, many governments are preparing to relax such measures in the face of a severe economic crisis caused by lockdowns. Assessing the impact of such openings in relation to the risk of a resumption of the spread of the disease is an extremely difficult problem due to the many unknowns concerning the actual number of people infected, the actual reproduction number and infection fatality rate of the disease. In this work, starting from a compartmental model with a social structure, we derive models with multiple feedback controls depending on the social activities that allow to assess the impact of a selective relaxation of the containment measures in the presence of uncertain data. Specific contact patterns in the home, work, school and other locations for all countries considered have been used. Results from different scenarios in some of the major countries where the epidemic is ongoing, including Germany, France, Italy, Spain, the United Kingdom and the United States, are presented and discussed.",
+    "author": "Mattia Zanella; Giacomo Albi; Lorenzo Pareschi",
+    "date": 2020,
+    "doi": "10.1101/2020.05.12.20099721",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.12.20099721"
+    },
+    "title": "Relaxing lockdown measures in epidemic outbreaks using selective socio-economic containment with uncertainty",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "MIUR-PRIN Project",
+                    "award-id": [
+                        "2017KKJP4X"
+                    ]
+                }
+            ],
+            "funding-statement": "Pareschi acknowledge the support of MIUR-PRIN Project 2017, No 2017KKJP4X \u0093Innovative numerical methods for evolutionary partial differential equations and applications\u0094 and"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Mathematics"
+                }
+            ],
+            "funding-statement": "Zanella was partially supported by the MIUR - ``Dipartimenti di Eccellenza'' Program (2018-2022) -- Department of Mathematics ``F"
+        }
+    ]
+}

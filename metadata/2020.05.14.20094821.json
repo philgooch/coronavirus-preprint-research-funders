@@ -1,0 +1,48 @@
+{
+    "abstract": "During the Covid-19 pandemic, pristine and reprocessed N95 respirators are crucial equipment towards limiting nosocomial infections. The NIOSH test certifying the N95 rating, however, poorly simulates aerosols in healthcare settings, limiting our understanding of the exposure risk for healthcare workers wearing these masks, especially reprocessed ones. We used experimental conditions that simulated the sizes, densities and airflow properties of infectious aerosols in healthcare settings. We analyzed the penetration and leakage of aerosols through pristine and reprocessed N95 respirators. Seven reprocessing methods were investigated. Our findings suggest that pristine and properly reprocessed N95 respirators effectively limit exposure to infectious aerosols, but that care must be taken to avoid the elucidated degradation mechanisms and limit noncompliant wear.",
+    "affiliations": [
+        "University of Toronto COVID-19 Action Grant, the Hospital for Sick Children and Unity Health Toronto. P.Z.C. was supported by the NSERC Vanier Scholarship. F.X.G. was partially supported by the NSERC Senior Industrial Research Chair program"
+    ],
+    "author": "Gregory H Borschel; Ori D Rotstein; Paul Z Chen; Aldrich Ngan; Frank X Gu; Niclas Manson; Jason T Maynes",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20094821",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20094821"
+    },
+    "title": "Transmission of aerosols through pristine and reprocessed N95 respirators",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Natural Sciences and Engineering Research Council of Canada",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "University of Toronto COVID-19 Action Grant,"
+                },
+                {
+                    "funding-source": "Hospital for Sick Children and Unity Health Toronto"
+                }
+            ],
+            "funding-statement": "This research was supported by the Natural Sciences and Engineering Research Council of Canada (NSERC), the University of Toronto COVID-19 Action Grant, the Hospital for Sick Children and Unity Health Toronto"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSERC Vanier Scholarship"
+                }
+            ],
+            "funding-statement": "P.Z.C. was supported by the NSERC Vanier Scholarship"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSERC Senior Industrial Research Chair"
+                }
+            ],
+            "funding-statement": "F.X.G. was partially supported by the NSERC Senior Industrial Research Chair program"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "IgA MAb blocks SARS-CoV-2 Spike-ACE2 interaction providing mucosal immunity 2 3 Monir Ejemel#a, Qi Li#a, Shurong Houb#, Zachary A. Schillera#, Aaron L. Wallacea, Alla 4 Amcheslavskya, Nese Kurt Yilmazb, Jacqueline R. Toomeya, Ryan Schneidera, Brianna J. Closec, 5 Da-Yuan Chenc, Hasahn L. Conwayc, Saeed Mohsanc, Lisa A. Cavacinia*, Mark S. Klempnera*, 6 Celia A. Schifferb*, Yang Wanga* 7 8 aMassBiologics of the University of Massachusetts Medical School, Boston, Massachusetts, 9 USA 10 bBiochemistry and Molecular Pharmacology, University of Massachusetts Medical School, 11 Worcester, Massachusetts, USA 12 cNational Emerging Infectious Diseases Laboratories, Boston University, Boston, Massachusetts, 13 USA 14 15 #Co-first authors 16 *Co-corresponding authors",
+    "date": 2020,
+    "affiliations": [
+        "MassBiologics of the University of Massachusetts Medical School, Boston, Massachusetts",
+        "Biochemistry and Molecular Pharmacology, University of Massachusetts Medical School",
+        "Worcester, Massachusetts, USA 12",
+        "National Emerging Infectious Diseases Laboratories, Boston University, Boston, Massachusetts",
+        "USA 14 15 #Co-first authors 16 *Co-corresponding authors"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.15.096719",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.15.096719.pdf"
+    },
+    "abstract": "COVID-19 caused by SARS-CoV-2 has become a global pandemic requiring the development of interventions for the prevention or treatment to curtail mortality and morbidity. No vaccine to boost mucosal immunity or as a therapeutic has yet been developed to SARS-CoV-2. In this study we discover and characterize a cross-reactive human IgA monoclonal antibody, MAb362. MAb362 binds to both SARS-CoV and SARS-CoV-2 spike proteins and competitively blocks hACE2 receptor binding, by completely overlapping the hACE2 structural binding epitope. Furthermore, MAb362 IgA neutralizes both pseudotyped SARS-CoV and SARS-CoV-2 in human epithelial cells expressing hACE2. SARS-CoV-2 specific IgA antibodies, such as MAb362, may provide effective immunity against SARS-CoV-2 by inducing mucosal immunity within the respiratory system, a potentially critical feature of an effective vaccine.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH Contract",
+                    "award-id": [
+                        "NO1-AI-65315"
+                    ]
+                }
+            ],
+            "funding-statement": "The initial mouse immunization work in 2005 was supported by NIH Contract NO1-AI-65315"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R01AI150478"
+                    ]
+                }
+            ],
+            "funding-statement": "S.H., N.Y.K. and C.A.S. were supported by  NIH R01AI150478 Author Contributions: M.E., Q.L. cloned, expressed and purified MAbs, S proteins, truncations, and variants with assistance from A.W., A.A., J.T., and R.S"
+        }
+    ]
+}

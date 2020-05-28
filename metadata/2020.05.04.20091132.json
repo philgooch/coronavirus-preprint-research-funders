@@ -1,0 +1,22 @@
+{
+    "abstract": "The COVID-19 pandemic has resulted in increasing number of infections and deaths on a daily basis. There is no specific treatment or vaccine identified and the focus has been preventive measures based on statistical and mathematical models. These have relied on analyzing the behavior of populations and characteristics of the infection and applying modelling techniques. The analysis of epidemiological curve fitting on number of daily infections across affected countries could give useful insights on the characteristics of the epidemic. A variety of phenomenological models are available to capture dynamics of disease spread and growth. Data for this study used the number of daily new infections and cumulative number of infections in COVID-19 in three selected countries, Sri Lanka, Italy and Hebei province of China, from the first day of appearance of cases to 20th April 2020. In this study Gompertz, Logistic and Exponential growth curves were fitted on cumulative number of infections across countries. Akaikes information criteria (AIC) was used in determining the best fitting curve for each country. Results revealed that the most appropriate growth curves for Sri Lanka, Italy and China-Hebei are Exponential, Gompertz and Logistic curves respectively. The overall growth rate and final epidemic size evaluated from best models for the three countries and short-term forecasts were also generated. Log incidences over time in each country were regressed before and after the identified peak time of the respective outbreaks of countries. Hence, doubling time/halving time together with daily growth rates and predictions were estimated. Findings altogether demonstrate that outbreak seems extinct in Hebei-China whereas further transmissions are possible in Sri Lanka. In Italy, current outbreak transmits in a decreasing rate. Keywords: Novel Coronavirus (COVID-19), Phenomenological Models, Epidemiological Curve, Prediction",
+    "author": "Saroj Jayasinghe; sanjeewa Perera; A M C H Attanayake",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20091132",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20091132"
+    },
+    "keywords": [
+        "Novel Coronavirus (COVID-19)",
+        "Phenomenological Models",
+        "Epidemiological Curve",
+        "Prediction"
+    ],
+    "title": "Phenomenological Modelling of COVID-19 epidemics in Sri Lanka, Italy and Hebei Province of China",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding for the research"
+        }
+    ]
+}

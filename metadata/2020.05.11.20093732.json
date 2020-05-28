@@ -1,0 +1,16 @@
+{
+    "abstract": "The pandemic of coronavirus Disease 2019 (COVID-19) caused enormous loss of life globally. 1-3 Case identification is critical. The reference method is using real-time reverse transcription PCR (rRT-PCR) assays, with limitations that may curb its prompt large-scale application. COVID-19 manifests with chest computed tomography (CT) abnormalities, some even before the onset of symptoms. We tested the hypothesis that application of deep learning (DL) to the 3D CT images could help identify COVID-19 infections. Using the data from 920 COVID-19 and 1,073 non-COVID-19 pneumonia patients, we developed a modified DenseNet-264 model, COVIDNet, to classify CT images to either class. When tested on an independent set of 233 COVID-19 and 289 non-COVID-19 patients. COVIDNet achieved an accuracy rate of 94.3% and an area under the curve (AUC) of 0.98. Application of DL to CT images may improve both the efficiency and capacity of case detection and long-term surveillance.",
+    "author": "Xizhou Guan; Rongpin Wang; Weipeng Fan; Huayuan Guo; Wenjun Wang; Jingbo Du; Hao Li; Yaou Liu; Lutao Dai; Liuquan Cheng; Qian Jia; Haipeng Shen; Yanlin Yang; Peng Xie; Ning Xing; Yiqing Tan; Jicheng Du; Meifang Li; Na Zhang; Pan Liu; Lin Xu; Zongren Li; Jianxin Zhou; Xixiang Lin; Xia Fu; Lin Li; Zhibing Zhang; Gao Huang; Bohan Liu; Chenghui Zhao; Chongchong Wu; Wei Shan; Qin Zhong; Minchao Liu; Yuhui Sun; Yanqing Fan; Lin Ma; Xuelong Hu; Zhenhua Zhao; Kunlun He; Weimin An; Yongkang Nie",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20093732",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20093732"
+    },
+    "title": "Assisting Scalable Diagnosis Automatically via CT Images in the Combat against COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The code and CT image data, as well as clinical data were available only for research after obtaining the agreement of corresponding authors."
+        }
+    ]
+}

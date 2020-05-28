@@ -1,0 +1,23 @@
+{
+    "abstract": "OBJECTIVE: This living systematic review aims to provide a timely, rigorous and continuously updated summary of the available evidence on the role of cell-based therapies in the treatment of patients with COVID-19. DATA SOURCES: We conducted searches in PubMed/Medline, Embase, Cochrane Central Register of Controlled Trials (CENTRAL), grey literature and in a centralised repository in L-OVE (Living OVerview of Evidence). L-OVE is a platform that maps PICO questions to evidence from Epistemonikos database. In response to the COVID-19 emergency, L-OVE was adapted to expand the range of evidence it covers and customised to group all COVID-19 evidence in one place. All the searches covered the period until April 23, 2020 (one day before submission). ELIGIBILITY CRITERIA FOR SELECTING STUDIES AND METHODS: We adapted an already published common protocol for multiple parallel systematic reviews to the specificities of this question. We searched for randomised trials evaluating the effect of cell-based therapies versus placebo or no treatment in patients with COVID-19. Anticipating the lack of randomised trials directly addressing this question, we also searched for trials evaluating other coronavirus infections, such as MERS-CoV and SARS-CoV, and non-randomised studies in COVID-19. Two reviewers independently screened each study for eligibility. A living, web-based version of this review will be openly available during the COVID-19 pandemic. We will resubmit it every time the conclusions change or whenever there are substantial updates. RESULTS: We screened 1,043 records but no study was considered eligible. We identified 61 ongoing studies, including 39 randomised trials evaluating different types of cell-based therapies in COVID-19. CONCLUSIONS: We did not find any studies that met our inclusion criteria and hence there is no evidence to support or refute the use of cell-based therapies in the treatment of patients with COVID-19. A substantial number of ongoing studies should provide valuable evidence to inform researchers and decision makers in the near future. PROSPERO REGISTRATION NUMBER: CRD42020179711",
+    "author": "Javiera Corbalan; Gabriel Rada; Patricio Rojas",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078667",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078667"
+    },
+    "title": "Cell-based therapies for COVID-19: A living systematic review",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Epistemonikos Foundation"
+                },
+                {
+                    "funding-source": "COVID-19 L.OVE Working Group."
+                }
+            ],
+            "funding-statement": "This project was not commissioned by any organisation and did not receive external funding. Epistemonikos Foundation is providing training, support and tools at no cost for all the members of the COVID-19 L.OVE Working Group."
+        }
+    ]
+}

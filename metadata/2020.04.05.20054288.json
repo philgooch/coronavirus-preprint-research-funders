@@ -1,0 +1,16 @@
+{
+    "abstract": "Governments have implemented population-wide physical distancing measures to control COVID-19, but metrics evaluating their effectiveness are not readily available. We used a publicly available mobility index from a popular transit application to evaluate the effect of physical distancing on infection growth rates and reproductive numbers in 40 jurisdictions between March 23 and April 12, 2020. A 10% decrease in mobility was associated with a 14.6% decrease (exp(\u03b2) = 0.854; 95% credible interval: 0.835, 0.873) in the average daily growth rate and a -0.061 (95% CI: -0.071, -0.052) change in the instantaneous reproductive number 2 weeks later. Our analysis demonstrates that decreases in urban mobility were predictive of declines in epidemic growth. Mobility metrics offer an appealing method to calibrate population-level physical distancing policy and implementation.",
+    "author": "Derek R. MacFadden; Shelby L. Sturrock; Duncan J. Westwood; Nick Daneman; Kevin A. Brown; Jean-Paul R. Soucy; Isha Berry",
+    "date": 2020,
+    "doi": "10.1101/2020.04.05.20054288",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.05.20054288"
+    },
+    "title": "Estimating effects of physical distancing on the COVID-19 pandemic using an urban mobility index",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this study."
+        }
+    ]
+}

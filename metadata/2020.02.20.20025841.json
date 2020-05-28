@@ -1,0 +1,84 @@
+{
+    "abstract": "We report the kinetics of the immune response in relation to clinical and virological features of a patient with mild-to-moderate coronavirus disease-19 (COVID-19) requiring hospitalisation. Increased antibody-secreting cells, follicular T-helper cells, activated CD4+ and CD8+ T-cells and IgM/IgG SARS-CoV-2-binding antibodies were detected in blood, prior to symptomatic recovery. These immunological changes persisted for at least 7 days following full resolution of symptoms, indicating substantial anti-viral immunity in this non-severe COVID-19.\nCompeting Interest Statement",
+    "affiliations": [
+        "Australian National Health and Medical Research Council (NHMRC) Investigator Grant to KK (#1173871). CES has received funding from the European Union\u0092s Horizon 2020 research and innovation programme under the Marie Sk\u0142odowska-Curie grant agreement No 792532 and University of Melbourne McKenzie Fellowship laboratory support. KK is supported by",
+        "NHMRC Senior Research Fellowship Level B (#1102792) and SRL is supported by an NHMRC Practitioner Fellowship and an NHMRC program grant. SYCT is supported by",
+        "NHMRC Career Development Fellowship (#1145033). XJ is supported by China Scholarship Council-University of Melbourne joint Scholarship"
+    ],
+    "author": "Marios Koutsakos; Julian Druce; Xiaoxiao Jia; Leon Caly; Irani Thevarajan; Carolien E van de Sandt; Mike Catton; Katherine Kedzierska; Steven Tong; Benjamin Cowie; Sharon Lewin; Suellen Nicholson; Thi HO Nguyen",
+    "date": 2020,
+    "doi": "10.1101/2020.02.20.20025841",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.20.20025841"
+    },
+    "title": "Breadth of concomitant immune responses underpinning viral clearance and patient recovery in a non-severe case of COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Australian National Health and Medical Research Council",
+                    "award-id": [
+                        "11738"
+                    ]
+                },
+                {
+                    "funding-source": "Investigator Grant",
+                    "award-id": [
+                        "#1173871"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was funded by the Australian National Health and Medical Research Council (NHMRC) Investigator Grant to KK (#1173871)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Marie Sk\u0142odowska-Curie",
+                    "award-id": [
+                        "792532"
+                    ]
+                },
+                {
+                    "funding-source": "University of Melbourne McKenzie Fellowship"
+                }
+            ],
+            "funding-statement": "CES has received funding from the European Union\u0092s Horizon 2020 research and innovation programme under the Marie Sk\u0142odowska-Curie grant agreement No 792532 and University of Melbourne McKenzie Fellowship laboratory support"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NHMRC Senior Research Fellowship Level",
+                    "award-id": [
+                        "#1102792"
+                    ]
+                },
+                {
+                    "funding-source": "NHMRC Practitioner Fellowship and"
+                },
+                {
+                    "funding-source": "NHMRC"
+                }
+            ],
+            "funding-statement": "KK is supported by a NHMRC Senior Research Fellowship Level B (#1102792) and SRL is supported by an NHMRC Practitioner Fellowship and an NHMRC program grant"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NHMRC Career Development Fellowship",
+                    "award-id": [
+                        "#1145033"
+                    ]
+                }
+            ],
+            "funding-statement": "SYCT is supported by a NHMRC Career Development Fellowship (#1145033)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "China Scholarship Council-University of Melbourne"
+                }
+            ],
+            "funding-statement": "XJ is supported by China Scholarship Council-University of Melbourne joint Scholarship"
+        }
+    ]
+}

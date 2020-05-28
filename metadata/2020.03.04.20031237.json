@@ -1,0 +1,26 @@
+{
+    "abstract": "COVID-19 has become a major public health problem globally. There is good evidence that ACE2 is a receptor for SARS-CoV-2, and high expression of ACE2 may increase susceptibility to infection. We aimed to explore risk factors affecting susceptibility to infection and prioritize drug repositioning candidates, based on Mendelian randomization (MR) studies on ACE2 lung expression. We conducted a phenome-wide MR study to prioritize diseases/traits and blood proteins causally linked to ACE2 lung expression in GTEx. We also explored drug candidates whose targets overlapped with the top-ranked proteins in MR, as these drugs may alter ACE2 expression and may be clinically relevant. The most consistent finding was tentative evidence of an association between diabetes-related traits and increased ACE2 expression. Based on one of the largest GWAS on type 2 diabetes (T2DM) to date (N=898,130), T2DM was causally linked to raised ACE2 expression (p=2.91E-03;MR-IVW). Significant associations (at nominal level; p<0.05) with ACE2 expression was observed across multiple DM datasets and analytic methods, for type 1 and 2 diabetes and related traits including early start of insulin. Other diseases/traits having nominal significant associations with increased expression included inflammatory bowel disease, (ER+) breast and lung cancers, asthma, smoking and elevated ALT. We also identified drugs that may target the top-ranked proteins in MR, such as fostamatinib and zinc. In conclusion, our analysis suggested that diabetes and related traits may increase ACE2 expression, which may influence susceptibility to infection (or more severe infection). However, none of these findings withstood rigorous multiple testing corrections (at FDR<0.05). Proteome-wide MR analyses might help uncover mechanisms underlying ACE2 expression and guide drug repositioning. Further studies are required to verify our findings.",
+    "affiliations": [
+        "Chinese University of Hong Kong Direct Grant"
+    ],
+    "author": "Hon-Cheong So; Alexandria Lau; Shitao Rao",
+    "date": 2020,
+    "doi": "10.1101/2020.03.04.20031237",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.04.20031237"
+    },
+    "title": "Exploring diseases/traits and blood proteins causally related to expression of ACE2, the putative receptor of SARS-CoV-2: A Mendelian Randomization analysis highlights tentative relevance of diabetes-related traits",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Lo Kwee Seong Biomedical Research Fund,"
+                },
+                {
+                    "funding-source": "Chinese University of Hong Kong Direct Grant"
+                }
+            ],
+            "funding-statement": "This study was partially supported by the Lo Kwee Seong Biomedical Research Fund, an NSFC grant and a Chinese University of Hong Kong Direct Grant"
+        }
+    ]
+}

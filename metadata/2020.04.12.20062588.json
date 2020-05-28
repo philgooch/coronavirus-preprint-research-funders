@@ -1,0 +1,20 @@
+{
+    "abstract": "The ongoing COVID-19 pandemic spread to the UK in early 2020 with the first few cases being identified in late January. A rapid increase in confirmed cases started in March, and the number of infected people is however unknown, largely due to the rather limited testing scale. A number of reports published so far reveal that the COVID-19 has long incubation period, high fatality ratio and non-specific symptoms, making this novel coronavirus far different from common seasonal influenza. In this note, we present a modified SEIR model which takes into account the time lag effect and probability distribution of model states. Based on the proposed model, it is estimated that the actual total number of infected people by 1 April in the UK might have already exceeded 610,000. Average fatality rates under different assumptions at the beginning of April 2020 are also estimated. Our model also reveals that the R0 value is between 7.5-9 which is much larger than most of the previously reported values. The proposed model has a potential to be used for assessing future epidemic situations under different intervention strategies.",
+    "author": "Kang Li; Peiliang SUN",
+    "date": 2020,
+    "doi": "10.1101/2020.04.12.20062588",
+    "identifiers": {
+        "arxiv": null,
+        "doc_id": null,
+        "doi": "10.7326/M20-0504",
+        "isbn": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.12.20062588"
+    },
+    "title": "An SEIR Model for Assessment of Current COVID-19 Pandemic Situation in the UK",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors"
+        }
+    ]
+}

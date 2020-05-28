@@ -1,0 +1,20 @@
+{
+    "abstract": "It has been three months since the novel coronavirus (COVID-19) pandemic outbreak. Many research studies were carried to understand its epidemiological characteristics in the early phase of the disease outbreak. The current study is yet another contribution to better understand the disease properties by parameter estimation of mathematical SIR epidemic modeling. The authors use Johns Hopkins University dataset to estimate the basic reproduction number of COVID-19 for representative countries (Japan, Germany, Italy, France, and Netherlands) selected using cluster analysis. As a by-product, the authors estimate transmission, recovery, and death rates for each selected country and carry statistical tests to see if there are any significant differences.",
+    "affiliations": [
+        "Johns Hopkins University dataset to estimate the basic reproduction number of COVID-19 for representative countries (Japan, Germany, Italy, France, and Netherlands) selected using cluster analysis. As a by-product, the authors estimate transmission, recovery, and death rates for each selected country and carry statistical tests to see if there are any significant differences",
+        "Johns Hopkins University dataset is used"
+    ],
+    "author": "Saydaliev Hayot Berk; Shirali Kadyrov",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20057638",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20057638"
+    },
+    "title": "Purely data-driven exploration of COVID-19 pandemic after three months of the outbreak",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "<strong>Funding Statement no funding available</strong>"
+        }
+    ]
+}

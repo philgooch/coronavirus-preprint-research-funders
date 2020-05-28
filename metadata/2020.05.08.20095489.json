@@ -1,0 +1,28 @@
+{
+    "abstract": "We have recently introduced two novel mathematical models for characterizing the dynamics of the cumulative number of individuals in a given country reported to be infected with COVID-19. Here we show that these models can also be used for determining the time-evolution of the associated number of deaths. In particular, using data up to around the time that the rate of deaths reaches a maximum, these models provide estimates for the time that a plateau will be reached signifying that the epidemic is approaching its end, as well as for the cumulative number of deaths at that time. The plateau is defined to occur when the rate of deaths is 5% of the maximum rate. Results are presented for South Korea, Italy, Spain, France, UK, Germany, and USA. The number of COVID-19 deaths in other counties can be analyzed similarly.",
+    "author": "George A Kastis; Nikolaos Dikaios; Athanasios S Fokas",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095489",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095489"
+    },
+    "title": "COVID-19: Predictive Mathematical Models for the Number of Deaths in South Korea, Italy, Spain, France, UK, Germany, and USA",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Senior Fellowship"
+                }
+            ],
+            "funding-statement": "A.S.F. acknowledges support from EPSRC, UK, in the form of a Senior Fellowship"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Royal Society in the"
+                }
+            ],
+            "funding-statement": "N.D. acknowledges support from Royal Society in the form of a fellowship"
+        }
+    ]
+}

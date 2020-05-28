@@ -1,0 +1,46 @@
+{
+    "abstract": "Different ways of calculating mortality ratios during epidemics can yield widely different results, particularly during the COVID-19 pandemic. We formulate both a survival probability model and an associated infection duration-dependent SIR model to define individual- and population-based estimates of dynamic mortality ratios. The key parameters that affect the dynamics of the different mortality estimates are the incubation period and the length of time individuals were infected before confirmation of infection. We stress that none of these ratios are accurately represented by the often misinterpreted case fatality ratio (CFR), the number of deaths to date divided by the total number of infected cases to date. Using available data on the recent SARS-CoV-2 outbreaks and simple assumptions, we estimate and compare the different dynamic mortality ratios and highlight their differences. Informed by our modeling, we propose a more systematic method to determine mortality ratios during epidemic outbreaks and discuss sensitivity to confounding effects and errors in the data.",
+    "affiliations": [
+        "National Science Foundation (DMS-1814364)"
+    ],
+    "author": "Tom Chou; Lucas B\u00f6ttcher; Mingtao Xia",
+    "date": 2020,
+    "doi": "10.1101/2020.03.26.20044693",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.26.20044693"
+    },
+    "title": "Why estimating population-based case fatality rates during epidemics may be misleading",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "SNF Early Postdoc.Mobility"
+                }
+            ],
+            "funding-statement": "LB acknowledges financial support from the SNF Early Postdoc.Mobility fellowship on ``Multispecies interacting stochastic systems in biology''"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Army Research Office",
+                    "award-id": [
+                        "W911NF-18-1-0345"
+                    ]
+                },
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "R01HL146552"
+                    ]
+                },
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "DMS-1814364"
+                    ]
+                }
+            ],
+            "funding-statement": "The authors also acknowledge financial support from the Army Research Office (W911NF-18-1-0345), the NIH (R01HL146552), and the National Science Foundation (DMS-1814364)"
+        }
+    ]
+}

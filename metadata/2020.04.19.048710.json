@@ -1,0 +1,60 @@
+{
+    "title": "Broad and differential animal ACE2 receptor usage by SARS-CoV-2",
+    "author": "Xuesen Zhao, 2#*, Danying Chen, 2#, Robert Szabla, Mei Zheng, Guoli Li, 2",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Infectious disease, Beijing Ditan Hospital, Capital Medical University",
+        "Beijing Key Laboratory of Emerging Infectious Disease, Beijing 100015, China",
+        "Department of Biochemistry, Western University, 1151 Richmond Street, London"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.19.048710",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.19.048710.pdf"
+    },
+    "abstract": "The COVID-19 pandemic has caused an unprecedented global public health and economy crisis. The origin and emergence of its causal agent, SARS-CoV-2, in the human population remains mysterious, although bat and pangolin were proposed to be the natural reservoirs. Strikingly, comparing to the SARS-CoV-2-like CoVs identified in bats and pangolins, SARS-CoV-2 harbors a polybasic furin cleavage site in its spike (S)",
+    "keywords": [
+        "SARS-CoV-2",
+        "animal ACE2",
+        "receptor",
+        "entry",
+        "furin cleavage",
+        "animal hosts"
+    ],
+    "hyperbole": [
+        "pandemic has caused an unprecedented global public health and economy crisis. The origin and emergence of its causal agent, SARS-CoV-2, in the human population remains mysterious, although bat and pangolin were proposed to be the natural reservoirs. Strikingly, comparing to the SARS-CoV-2-like CoVs identified in bats and pangolins, SARS-CoV-2 harbors a polybasic furin cleavage site in its spike (S)",
+        "pandemic has caused an unprecedented public health and economy crisis.",
+        "raising the alarming possibility of virus transmission from infected"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "81772173",
+                        "81971916"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Mega-Project of China",
+                    "award-id": [
+                        "2018ZX10301-408-002"
+                    ]
+                },
+                {
+                    "funding-source": "Zhao and from the Canadian Institutes of Health Research",
+                    "award-id": [
+                        "MOP-89903 to MSJ"
+                    ]
+                },
+                {
+                    "funding-source": "Figure and Figure"
+                }
+            ],
+            "funding-statement": "This work was supported by grants from the National Natural Science Foundation of China (81772173 and 81971916) and National Science and Technology Mega-Project of China (2018ZX10301-408-002) to X Zhao and from the Canadian Institutes of Health Research (MOP-89903 to MSJ). Figure and Figure legends fusion peptide. TM: transmembrane domain. CT: cytoplasmic tail. The S protein is cleaved into S1 and S2 subunit during biogenesis at the polybasic furin cleavage site (RRAR ), which is not present in SARS-CoV and other animal SARS-CoV-2-like"
+        }
+    ]
+}

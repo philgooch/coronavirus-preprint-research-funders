@@ -1,0 +1,16 @@
+{
+    "abstract": "The entire world and France were strongly impacted by the SARS-COV-2 epidemic. Finding appropriate measures that effectively contain the spread of the epidemic without putting a too severe pressure on social and economic life is major challenge for modern predictive approaches. To assess the impact of confinement (March 17th till May 11th) and deconfinement, we develop a novel rate model to monitor and predict the spread of the epidemic and its impact on the health care system. The model accounts for age-dependent interactions between population groups and predicts consequences for various infection categories such as number of infected, hospitalized, load of intensive care units (ICU), number of death, recovered and more. We use online health care data for the five most infected regions of France to calibrate the model. At day of deconfinement (May 11th), we find that 13% (around 4.8M) of the population is infected in the five most affected regions of France (extrapolating to 5.8M for France). The model predicts that if the reproduction rate R0 is reduced by at least a factor of 2.5-3 for all age groups, which could be achieved by wearing masks and social distancing, a significant second peak could be prevented. However, if the reduction in R0 for the age group 0-25 would be less and below 2 (school openings), a second peak is unavoidable in which case the ICU will be saturated. In that context testing should be focused on children, but it will nevertheless have a limited impact on reducing the spread.",
+    "author": "Andrea Papale; David holcman; Juergen Reingruber",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20099465",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20099465"
+    },
+    "title": "Monitoring and predicting SARS-CoV-2 epidemic in France after deconfinement using a multiscale age-stratified rate model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

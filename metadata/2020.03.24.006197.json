@@ -1,0 +1,22 @@
+{
+    "title": "In-Silico evidence for two receptors based strategy of SARS-CoV-2",
+    "date": 2020,
+    "author": "Edoardo Milanetti, 2 Mattia Miotto, 2 Lorenzo Di Rienzo, Michele Monti, 4 Giorgio Gosti, and Giancarlo Ruocco, 2",
+    "affiliations": [
+        "Department of Physics, Sapienza University, Piazzale Aldo Moro 5, 00185, Rome, Italy",
+        "Center for Life Nanoscience, Istituto Italiano di Tecnologia, Viale Regina Elena 291, 00161, Rome, Italy",
+        "Centre for Genomic Regulation (CRG), The Barcelona Institute for Science and Technology, Dr. Aiguader 88, 08003 Barcelona",
+        "RNA System Biology Lab, Department of Neuroscience and Brain Technologies, Istituto Italiano di Tecnologia, Via Morego 30, 16163, Genoa, Italy"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.24.006197",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.24.006197.pdf"
+    },
+    "abstract": "We propose a novel numerical method able to determine efficiently and effectively the relationship of complementarity between portions of protein surfaces. This innovative and general procedure, based on the representation of the molecular iso-electron density surface in terms of 2D Zernike polynomials, allows the rapid and quantitative assessment of the geometrical shape complementarity between interacting proteins, that was unfeasible with previous methods. We first tested the method with a large dataset of known protein complexes obtaining an overall area under the ROC curve of 0.76 in the blind recognition of binding sites and then applied it to investigate the features of the interaction between the Spike protein of SARS-CoV-2 and human cellular receptors. Our results indicate that SARS-CoV-2 uses a dual strategy: its spike protein could also interact with sialic acid receptors of the cells in the upper airways, in addition to the known interaction with Angiotensin-converting enzyme 2.",
+    "funding": [
+        {}
+    ]
+}

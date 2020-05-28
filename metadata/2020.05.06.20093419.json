@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: Research is ongoing to identify an effective way to prevent or treat COVID-19, but thus far these efforts have not yet identified a possible solution. Prior studies indicate the protective role of Ultraviolet-B (UVB) radiation in human health, mediated by vitamin D synthesis. In this study, we empirically outline a negative association of UVB radiation as measured by ultraviolet index (UVI) with the number of deaths attributed to COVID-19 (COVID-19 deaths). Methods: We carry out an observational study, applying a fixed-effect log-linear regression model to a panel dataset of 152 countries over a period of 108 days (n=6524). We use the cumulative number of COVID-19 deaths and case-fatality rate (CFR) as the main dependent variables to test our hypothesis and isolate UVI effect from potential confounding factors such as underlying time trends, country-specific time-constant and time-varying factors such as weather. Findings: After controlling for time-constant and time-varying factors, we find that a permanent unit increase in UVI is associated with a 1.2 percentage points decline in daily growth rates of cumulative COVID-19 deaths [p < 0.01] as well as a 1.0 percentage points decline in the daily growth rates of CFR [p < 0.05]. These results represent a significant percentage reduction in terms of the daily growth rates of cumulative COVID-19 deaths (-11.88%) and CFR (-38.46%). Our results are consistent across different model specifications. Interpretation: We find a significant negative association between UVI and COVID-19 deaths, indicating evidence of the protective role of UVB in mitigating COVID-19 deaths. If confirmed via clinical studies, then the possibility of mitigating COVID-19 deaths via sensible sunlight exposure or vitamin D intervention will be very attractive because it is cost-effective and widely available.\nCompeting Interest Statement",
+    "author": "Rahul Kalippurayil Moozhipurath; Bernd Skiera; Lennart Kraft",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093419",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093419"
+    },
+    "title": "Evidence of Protective Role of Ultraviolet-B (UVB) Radiation in Reducing COVID-19 Deaths",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This study is not sponsored by any organization. The corresponding author had full access to all the data and had final responsibility for the submission decision."
+        }
+    ]
+}

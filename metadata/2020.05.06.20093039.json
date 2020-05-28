@@ -1,0 +1,16 @@
+{
+    "abstract": "Assessing the contribution of mobility declines to the control of Covid-19 diffusion is an urgent challenge of global import. We analyze the temporal correlation between transmission rates (estimated effective reproduction numbers) and societal mobility levels using daily mobility data from Google and Apple in an international panel of 99 countries and a panel of all states in the United States. Reduced form regression estimates that flexibly control for time trends suggest that a 10 percentage point reduction in mobility is associated with a 0.04-0.07 reduction in the value of the effective reproduction number, R(t), depending on geographical region and modelling choice. According to these estimates, to avoid the critical value of R = 1, easing mobility restrictions may have to be limited or delayed until other non-mobility related preventative measures reduce R to a level of approximately 0.7 in Europe, 0.75 in Asia, and 0.8 in the United States. Given gaps in data availability and inference challenges, these estimates should be interpreted with caution.",
+    "author": "Ram Fishman; Nittai K Bergman",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093039",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093039"
+    },
+    "title": "Mobility Levels and Covid-19 Transmission Rates",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this work."
+        }
+    ]
+}

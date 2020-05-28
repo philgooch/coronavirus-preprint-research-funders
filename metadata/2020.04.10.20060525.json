@@ -1,0 +1,16 @@
+{
+    "abstract": "A potential shortage of intensive care ventilators has led to the idea to ventilate more than one patient with a single ventilator. Besides other problems, this is associated with the lack of knowledge concerning distribution of tidal volume and the patients' individual respiratory system mechanics. In this study we used two simple hand-manufactured adaptors to connect physical models of two adult respiratory systems to one ventilator. The artificial lungs were ventilated in the pressure-controlled mode and we investigated if disconnecting one lung from the ventilation circuit for several breaths would allow to determine reliably the other lung's tidal volume and compliance. Compliances and volumes were measured both with the ventilator and external sensors corresponded well. However, tidal volumes measured via the ventilator were smaller compared to the tidal volumes measured via the external sensors with an absolute error of 5.3 +/- 2.5%. The tidal volumes of the individual artificial lungs were distributed in proportion to the compliances and did not differ relevantly when both artificial lungs were connected to when one was disconnected. We conclude that in case of emergency, ventilation of two patients with one ventilator requires two simple hand-crafted tubes as adaptors and available standard breathing circuit components. In such a setting, respiratory system mechanics and tidal volume of each individual patient can be reliably measured during short term clamping of the tracheal tube of the respective other patient.",
+    "author": "Juergen Beck; Peter C. Reinacher; Hartmut Buerkle; Martin A. Schick; Thomas E. Schlaepfer; Stefan Schumann",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20060525",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20060525"
+    },
+    "title": "When Resources Are Scarce - Feasibility of Emergency Ventilation of Two Patients With One Ventilator",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this work"
+        }
+    ]
+}

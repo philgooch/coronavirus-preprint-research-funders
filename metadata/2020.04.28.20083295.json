@@ -1,0 +1,66 @@
+{
+    "abstract": "Background Information on risk factors for COVID-19 is sub-optimal. We investigated demographic, lifestyle, socioeconomic, and clinical risk factors, and compared them to risk factors for pneumonia and influenza in UK Biobank. Methods UK Biobank recruited 37-70 year olds in 2006-2010 from the general population. The outcome of confirmed COVID-19 infection (positive SARS-CoV-2 test) was linked to baseline UK Biobank data. Incident influenza and pneumonia were obtained from primary care data. Poisson regression was used to study the association of exposure variables with outcomes. Findings Among 428,225 participants, 340 had confirmed COVID-19. After multivariable adjustment, modifiable risk factors were higher body mass index (RR 1.24 per SD increase), smoking (RR 1.38), slow walking pace as a proxy for physical fitness (RR 1.66) and use of blood pressure medications as a proxy for hypertension (RR 1.40). Non-modifiable risk factors included older age (RR 1.10 per 5 years), male sex (RR 1.64), black ethnicity (RR 1.86), socioeconomic deprivation (RR 1.26 per SD increase in Townsend Index), longstanding illness (RR 1.38) and high cystatin C (RR 1.24 per 1 SD increase). The risk factors overlapped with pneumonia somewhat; less so for influenza. The associations with modifiable risk factors were generally stronger for COVID-19, than pneumonia or influenza. Interpretation These findings suggest that modification of lifestyle may help to reduce the risk of COVID-19 and could be a useful adjunct to other interventions, such as social distancing and shielding of high risk. Funding British Heart Foundation, Medical Research Council, Chief Scientist Office.",
+    "affiliations": [
+        "British Heart Foundation Centre of Research Excellence Grant RE/18/6/34217. CLN acknowledges funding from",
+        "Medical Research Council Fellowship (MR/R024774/1). SVK acknowledge funding from the Medical Research Council (MC_UU_12017/13) and Scottish Government Chief Scientist Office (SPHSU13). SVK also acknowledges funding from NRS Senior Clinical Fellowship (SCAF/15/02)"
+    ],
+    "author": "Carlos A Celis-Morales; Daniel F. Mackay; Frederick K Ho; Stuart R Gray; Claire L Niedzwiedz; Claire Hastie; Naveed Sattar; Jason M.R. Gill; Srinivasa Vittal Katikireddi; Jill P. Pell; Colin Berry; Donald M. Lyall; Paul I Welsh; Lyn D. Ferguson",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083295",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083295"
+    },
+    "title": "Modifiable and non-modifiable risk factors for COVID-19: results from UK Biobank",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "British Heart Foundation Centre of Research Excellence Grant",
+                    "award-id": [
+                        "RE/18/6/34217"
+                    ]
+                }
+            ],
+            "funding-statement": "The work in this study is supported by the British Heart Foundation Centre of Research Excellence Grant RE/18/6/34217"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council Fellowship",
+                    "award-id": [
+                        "MR/R024774/1"
+                    ]
+                }
+            ],
+            "funding-statement": "CLN acknowledges funding from a Medical Research Council Fellowship (MR/R024774/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council",
+                    "award-id": [
+                        "MC_UU_12017/13"
+                    ]
+                },
+                {
+                    "funding-source": "Scottish Government Chief Scientist Office",
+                    "award-id": [
+                        "SPHSU13"
+                    ]
+                }
+            ],
+            "funding-statement": "SVK acknowledge funding from the Medical Research Council (MC_UU_12017/13) and Scottish Government Chief Scientist Office (SPHSU13)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NRS Senior Clinical Fellowship",
+                    "award-id": [
+                        "SCAF/15/02"
+                    ]
+                }
+            ],
+            "funding-statement": "SVK also acknowledges funding from NRS Senior Clinical Fellowship (SCAF/15/02)"
+        }
+    ]
+}

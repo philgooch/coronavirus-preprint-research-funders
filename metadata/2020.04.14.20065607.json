@@ -1,0 +1,23 @@
+{
+    "abstract": "On March 18, 2020 the Malaysian government implemented a 14-day Movement Control Order (MCO) as part of the mitigation plan in controlling the COVID-19 epidemic in the country. The MCO aims to limit the contact rates among the population and hence prevent the surge of infected individuals. However, the trend of the epidemic before and after the MCO was not apparent. By applying the Susceptible, Exposed, Infectious and Removed (SEIR) mathematical model, we aimed to forecast the trend of COVID-19 epidemic in Malaysia using data from March 17 to 27, 2020. Based on several predetermined assumptions, the results of the analyses showed that after the implementation of the 14-day MCO from March 18 to 31, 2020, it is forecasted that the epidemic in Malaysia will peak approximately in the end of April 2020 and will subside by about the first week of July 2020. The MCO will flatten the epidemic curve but will prolong the duration of the epidemic. Decision to extend the duration of the MCO should depend on the consideration of socioeconomic factors as well. Keywords: SEIR model, COVID-19, forecasting, trend, Malaysia",
+    "author": "Poh Ying Lim; Aidalina Mahmud",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20065607",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20065607"
+    },
+    "keywords": [
+        "SEIR model",
+        "COVID-19",
+        "forecasting",
+        "trend",
+        "Malaysia"
+    ],
+    "title": "Applying the SEIR Model in Forecasting The COVID-19 Trend in Malaysia: A Preliminary Study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

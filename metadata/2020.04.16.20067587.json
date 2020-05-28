@@ -1,0 +1,26 @@
+{
+    "abstract": "Introduction: This retrospective study investigated the implications of changes in blood parameters and cellular immune function in patients with 2019-coronavirus infected disease (COVID-19). Methods: Records were reviewed of 85 patients with COVID-19 between February 4 and 16, 2020. The primary outcome was in-hospital mortality at 28 days. Results: Fourteen patients died. The baseline leukocyte count, neutrophil count and hemoglobin was significantly higher in non-survivors compared with survivors, while the reverse was true of lymphocyte count, platelet, PaO2/FiO2, CD3+ count and CD4+ count. The percentage of neutrophil count > 6.3*109/L in death group was significantly higher than that in survival group, and multivariate logistic regression showed neutrophil count was independently associated with mortality. However, there were not significant difference in IgG, IgM, IgA, C3, C4 and the percentage of IgE > 100 IU/ml between the death group and survival group. Areas under the receiver operating characteristic curves of the following at baseline could significantly predict mortality: leukocyte, neutrophil, lymphocyte, CD3+ and CD4+ counts. Conclusions: For patients with COVID-19, lymphocyte, CD3+ and CD4+ counts that marked decrease suggest a poor outcome. A high neutrophil count is independently associated with mortality. At admission, leukocyte, neutrophil, lymphocyte, CD3+ and CD4+ counts should receive added attention.",
+    "affiliations": [
+        "Medjaden Academy & Research Foundation for Young Scientists (Grant No. COVID-19-MJA20200323)"
+    ],
+    "author": "Feng Xu; Yue-lin Sun; Yang Yang; Yue-qiang Fu; Yi Wang; Si-wei Lu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20067587",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20067587"
+    },
+    "title": "Impact of blood analysis and immune function on the prognosis of patients with COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medjaden Academy & Research Foundation for Young Scientists",
+                    "award-id": [
+                        "COVID-19-MJA20200323"
+                    ]
+                }
+            ],
+            "funding-statement": "This project was supported by the Medjaden Academy & Research Foundation for Young Scientists (Grant No COVID-19-MJA20200323)"
+        }
+    ]
+}

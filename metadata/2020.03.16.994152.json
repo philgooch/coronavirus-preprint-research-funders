@@ -1,0 +1,44 @@
+{
+    "title": "Characterization of the SARS-CoV-2 Spike in an Early Prefusion Conformation",
+    "date": 2020,
+    "author": "Tingting Li,#, Qingbing Zheng,#, Hai Yu,#, Dinghui Wu,#, Wenhui Xue,#, 5 Yuyun Zhang, Xiaofen Huang, Lizhi Zhou, Zhigang Zhang, Zhenghui Zha, 6 Tingting Chen, Zhiping Wang, Jie Chen, Hui Sun, Tingting Deng, Yingbin 7 Wang, Yixin Chen, Qinjian Zhao, Jun Zhang, Ying Gu, Shaowei Li, 8 Ningshao Xia",
+    "affiliations": [
+        "State Key Laboratory of Molecular Vaccinology and Molecular Diagnostics, School 11 of Life Sciences, School of Public Health, Xiamen University, Xiamen, China 361102 12",
+        "National Institute of Diagnostics and Vaccine Development in Infectious Disease",
+        "Xiamen University, Xiamen, China 361102 14",
+        "Department of Pulmonary Medicine, The First Affiliated Hospital of Xiamen",
+        "University, Xiamen, China 361003"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.16.994152",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.16.994152.pdf"
+    },
+    "abstract": "Pandemic coronavirus disease 2019 (COVID-19) is caused by the emerging severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), for which there are no efficacious vaccines or therapeutics that are urgently needed. We expressed three versions of spike (S) proteins\u2014receptor binding domain (RBD), S1 subunit and S ectodomain\u2014in insect cells. RBD appears monomer in solutions, whereas S1 and S associate into homotrimer with substantial glycosylation. The three proteins confer excellent antigenicity with six convalescent COVID-19 patient sera. Cryo-electron microscopy (cryo-EM) analyses indicate that the SARS-CoV-2 S trimer dominate in a unique conformation distinguished from the classic prefusion conformation of coronaviruses by the upper S1 region at lower position ~15 \u00c5 proximal to viral membrane. Such conformation is proposed as an early prefusion state for the SARS35 CoV-2 spike that may broaden the knowledge of coronavirus and facilitate vaccine development. Key words: COVID-19, SARS-CoV-2, spike, cryo-electron microscopy, antigenicity, early prefusion conformation",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation"
+                }
+            ],
+            "funding-statement": "This work was supported by grants from the National Natural Science Foundation (grant no"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Major Project of Fujian Provincial Science Foundation for COVID-19 Research",
+                    "award-id": [
+                        "2020YZ014001"
+                    ]
+                },
+                {
+                    "funding-source": "Financial Disclosure The"
+                }
+            ],
+            "funding-statement": "U1705283, 31670935, 81971932, 81991491, 31730029), and the Major Project of Fujian Provincial Science Foundation for COVID-19 Research (Grants  2020YZ014001). Financial Disclosure The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript"
+        }
+    ]
+}

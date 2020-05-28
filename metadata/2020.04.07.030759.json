@@ -1,0 +1,44 @@
+{
+    "title": "Characterizing geographical and temporal dynamics of novel coronavirus SARS-CoV-2 using informative subtype markers",
+    "author": "Zhengqiao Zhao, Bahrad A. Sokhansanj 2\u2020, Gail L. Rosen,+",
+    "date": 2020,
+    "affiliations": [
+        "Ecological and Evolutionary Signal-Processing and Informatics Laboratory, Department of Electrical and Computer Engineering, College of Engineering, Drexel University, Philadelphia, PA, USA",
+        "Independent Researcher, Los Angeles, CA, USA"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.07.030759",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.030759.pdf"
+    },
+    "abstract": "We propose an efficient framework for genetic subtyping of a pandemic virus, with application to the novel 2 coronavirus SARS-CoV-2. Efficient identification of subtypes is particularly important for tracking the geographic distribution and temporal dynamics of infectious spread in real-time. In this paper, we utilize an 4 entropy analysis to identify nucleotide sites within SARS-CoV-2 genome sequences that are highly informative of genetic variation, and thereby define an Informative Subtype Marker (ISM) for each sequence. 6\nWe further apply an error correction technique to the ISMs, for more robust subtype definition given ambiguity and noise in sequence data. We show that, by analyzing the ISMs of global SARS-CoV-2 sequence 8 data, we can distinguish interregional differences in viral subtype distribution, and track the emergence of 9 subtypes in different regions over time. Based on publicly available data up to April 5, 2020, we show, for 10 example: (1) distinct genetic subtypes of infections in Europe, with earlier transmission linked to subtypes prevalent in Italy with later development of subtypes specific to other countries over time; (2) within the",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "1919691"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was partially supported by NSF grant #1919691"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Extreme Science and Engineering Discovery Environment"
+                },
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "ACI-1548562"
+                    ]
+                }
+            ],
+            "funding-statement": "This work also used the Extreme Science and Engineering Discovery Environment (XSEDE), which is supported by National Science Foundation grant number #ACI-1548562. Author Contributions"
+        }
+    ]
+}

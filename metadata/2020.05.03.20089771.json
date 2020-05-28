@@ -1,0 +1,16 @@
+{
+    "abstract": "Kuwait has been experiencing a COVID-19 outbreak since the first imported case on Feb 24, 2020. Analysis of data from the early stage of COVID-19 outbreak in Kuwait can provide important information about the potential epidemic and healthcare burdens as well as assist in evaluating the potential impact of various outbreak control measures. Such control measures are essentially implemented to achieve a sufficient reduction in the effective reproduction number during an outbreak. In this study, we use a mathematical modeling framework to simulate the outbreak dynamics of SARS-CoV-2 transmission in Kuwait and forecast the potential burden on the healthcare system. We calibrate the model against daily numbers of detected infection and death cases using a maximum likelihood framework and estimate both the basic and effective reproduction numbers. Our results indicate that the early control measures implemented in Kuwait had the effect of delaying the intensity of the outbreak but were unsuccessful in reducing Rt below 1. This highlights a need for a systematic investigation of the current public health interventions as well as a scientific surveillance tool that is sufficiently sensitive to outbreak temporal dynamics. Meanwhile, the developed model can serve as a public health tool to control the current outbreak and can be used to anticipate effective measures should a second wave re-emerge in Kuwait.",
+    "author": "Abdullah A. A. Al-Shammari; Barrak Al-Ahmad; Hamad Ali; Mohammad H. Jamal; Abdullah Alshukry; Fahd Al-Mulla; Faisal H. Al-Refaei; Qais Al-Duwairi; Salman Al-Sabah",
+    "date": 2020,
+    "doi": "10.1101/2020.05.03.20089771",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.03.20089771"
+    },
+    "title": "Real-time tracking and forecasting of the COVID-19 outbreak in Kuwait: a mathematical modeling study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for the work presented."
+        }
+    ]
+}

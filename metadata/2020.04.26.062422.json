@@ -1,0 +1,42 @@
+{
+    "title": "Quality control of low-frequency variants in SARS-CoV-2 genomes",
+    "date": 2020,
+    "author": "Mikhail Rayko,\u200b *,Aleksey Komissarov,\u200b",
+    "affiliations": [
+        "Center for Algorithmic Biotechnology, Institute of Translational Biomedicine, St. Petersburg State University, Saint Petersburg, Russia",
+        "Applied Genomics Laboratory, SCAMT Institute, ITMO University, Saint Petersburg, Russia; *To whom correspondence may be addressed -"
+    ],
+    "journal": "SARS",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.26.062422",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.26.062422.pdf"
+    },
+    "abstract": "During the current outbreak of COVID-19, research labs around the globe submit sequences of the local SARS-CoV-2 genomes to the GISAID database to provide a comprehensive analysis of the variability and spread of the virus during the outbreak. We explored the variations in the submitted genomes and found a significant number of variants that can be seen only in one submission (singletons). While it is not completely clear whether these variants are erroneous or not, these variants show lower transition/transversion ratio. These singleton variants may influence the estimations of the viral mutation rate and tree topology. We suggest that genomes with multiple singletons even marked as high-covered should be considered with caution. We also provide a simple script for checking variant frequency against the database before submission.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Aleksey Komissarov"
+                },
+                {
+                    "funding-source": "Government of the Russian Federation"
+                },
+                {
+                    "funding-source": "ITMO Fellowship and Professorship Program"
+                }
+            ],
+            "funding-statement": "Aleksey Komissarov was financially supported by the Government of the Russian Federation through the ITMO Fellowship and Professorship Program"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Mikhail Rayko"
+                }
+            ],
+            "funding-statement": "Mikhail Rayko was supported by St"
+        }
+    ]
+}

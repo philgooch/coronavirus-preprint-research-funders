@@ -1,0 +1,50 @@
+{
+    "title": "Evidence for host-dependent RNA editing in the transcriptome of SARS-CoV-2",
+    "author": "Silvo Conticello",
+    "date": 2020,
+    "affiliations": [
+        "Core Research Laboratory, ISPRO, Firenze, 50139, Italy",
+        "Department of Medical Biotechnologies, University of Siena, Siena, 53100, Italy",
+        "Department of Experimental and Clinical Medicine, University of Florence, Firenze 50139, Italy",
+        "Institute of Clinical Physiology, National Research Council, 56124, Pisa, Italy",
+        "Correspondence to:",
+        "These authors contributed equally"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.02.973255",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.02.973255.pdf"
+    },
+    "abstract": "The COVID-19 outbreak has become a global health risk and understanding the response of the host to the SARS-CoV-2 virus will help to contrast the disease. Editing by host deaminases is an innate restriction process to counter viruses, and it is not yet known whether it operates against Coronaviruses. Here we analyze RNA sequences from bronchoalveolar lavage fluids derived from infected patients. We identify nucleotide changes that may be signatures of RNA editing: Adenosine-to-Inosine changes from ADAR deaminases and Cytosine-to-Uracil changes from APOBEC ones. A mutational analysis of genomes from different strains of human-hosted Coronaviridae reveals mutational patterns compatible to those observed in the transcriptomic data. Our results thus suggest that both APOBECs and ADARs are involved in Coronavirus genome editing, a process that may shape the fate of both virus and patient.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Ministero della Salute",
+                    "award-id": [
+                        "PE-2013-02357669",
+                        "IG-17701"
+                    ]
+                },
+                {
+                    "funding-source": "Formal Analysis, Investigation"
+                },
+                {
+                    "funding-source": "GM and SGC; Writing"
+                },
+                {
+                    "funding-source": "SGC Competing"
+                },
+                {
+                    "funding-source": "NCBI SRA and Virus"
+                },
+                {
+                    "funding-source": "GISAID"
+                }
+            ],
+            "funding-statement": "Funding: The research was supported by grants from Ministero della Salute [PE-2013-02357669] and from AIRC [IG-17701] Author contributions: Conceptualization: SDG, FM, MGT, GM, SGC; Formal Analysis, Investigation, Software: SDG, FM; Visualization: GM; Writing \u2013 original draft: GM and SGC; Writing \u2013 review&editing: SDG, FM, MGT, GM, SGC Competing interests: Authors declare no competing interests Data and materials availability: Sequencing and genomic data are available through NCBI SRA and Virus repositories, and GISAID"
+        }
+    ]
+}

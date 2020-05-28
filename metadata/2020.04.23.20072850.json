@@ -1,0 +1,16 @@
+{
+    "abstract": "We consider and compare various exit strategy building blocks and key measures to mitigate the current SARS-CoV-2 pandemic, some already proposed as well as improvements we suggest. Our comparison is based on a computerized simulation integrating accumulated SARS-CoV-2 epidemiological knowledge. Our results stress the importance of immediate on-symptom isolation of suspected cases and household members, and the beneficial effects of prompt testing capacity. Our findings expose significant epidemic-suppression differences among strategies with seemingly similar economic cost stressing the importance of not just the portion of population and business that is released, but also the pattern. The most effective building blocks are the ones that integrate several base strategies - they allow to release large portions of the population while still achieving diminishing viral spread. However, it may come with a price on somewhat more complex schemes. For example, our simulations indicate that a personal isolation of 4 days once every two weeks, for example a long weekend (Fri-Mon) self-isolation once every two weeks, while protecting the 5% most sensitive population would reduce R well below 1 even if ten percent of the population do not follow it. This kind of integrated strategy can be either voluntary or mandatory and enforced. We further simulate the contrasting approach of a stratified population release in a hope to achieve herd immunity, which for the time being seems inferior to other suggested building blocks. Knowing the tradeoff between building blocks could help optimize exit strategies to be more effective and suitable for a particular area or country, while maximizing human life as well as economic value. Given our results, we believe that pandemic can be controlled within a reasonable amount of time and at a reasonable socio-economic burden.",
+    "author": "Smadar Shilo; Yeela Talmor-Barkan; Elad Barkan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20072850",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20072850"
+    },
+    "title": "Comparison of SARS-CoV-2 Exit Strategies Building Blocks",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

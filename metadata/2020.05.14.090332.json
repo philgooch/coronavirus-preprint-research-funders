@@ -1,0 +1,40 @@
+{
+    "title": "Distribution of ACE2, CD147, cyclophilins, CD26 and other SARS-CoV-2 associated molecules in 2 human tissues and immune cells in health and disease",
+    "date": 2020,
+    "author": "Radzikowska U.1, Ding M.1, Tan G.1, Zhakparov D.1, Peng Y.1, Wawrzyniak P.1, Wang 5 M.1, Li S.1, Morita H.1,10, Altunbulakli C.1, Reiger M.11, Neumann AU.11, Lunjani N.1, Traidl, Hoffmann C.2, Nadeau K.14, O\u2019Mahony L.1, Akdis CA.1, Sokolowska M.1,2# 7",
+    "affiliations": [
+        "Swiss Institute of Allergy and Asthma Research (SIAF), University of Zurich, Davos, Switzerland 11",
+        "Christine K\u00fchne \u2013 Center for Research and Education (CK-CARE), Davos, Switzerland 12",
+        "Department of Regenerative Medicine and Immune Regulation, Medical University of Bialystok",
+        "Bialystok, Poland 14",
+        "Department of Allergology, Zhongnan Hospital of Wuhan University, Wuhan, China 15",
+        "Functional Genomic Centre Zurich, ETH Zurich/University of Zurich, Zurich, Switzerland 16",
+        "Otorhinolaryngology Hospital, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou",
+        "Division of Clinical Chemistry and Biochemistry, University Childrens Hospital Zurich, Zurich",
+        "Switzerland; Childrens Research Center, University Childrens Hospital Zurich, Zurich, Switzerland 20",
+        "Department of Otolaryngology, Head and Neck Surgery, Beijing TongRen Hospital, Capital Medical 21 University and the Beijing Key Laboratory of Nasal Diseases, Beijing Institute of Otolaryngology, 22 Beijing, China 23",
+        "Department of Cancer Immunology, Institute for Cancer Research, Oslo University Hospital, Oslo, 24 Norway 25",
+        "Department of Allergy and Clinical Immunology, National Research Institute for Child Health and 26 Development, Tokyo, Japan 27",
+        "Chair and Institute of Environmental Medicine, UNIKA-T, Technical University of Munich and 28 Helmholtz Zentrum Munchen, Augsburg, Germany"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.090332",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.090332.pdf"
+    },
+    "abstract": "Background. Morbidity and mortality from COVID-19 caused by novel coronavirus SARS-CoV-2 is accelerating worldwide and novel clinical presentations of COVID-19 are often reported. The range of human cells and tissues targeted by SARS-CoV-2, its potential receptors and associated regulating factors are still largely unknown. The aim of our study was to analyze the expression of known and potential SARS-CoV-2 receptors and related molecules in the extensive collection of primary human cells and tissues from healthy subjects of different age and from patients with risk factors and known comorbidities of COVID-19. 57 Methods. We performed RNA sequencing and explored available RNA-Seq databases to study gene expression and co-expression of ACE2, CD147 (BSG), CD26 (DPP4) and their direct and indirect molecular partners in primary human bronchial epithelial cells, bronchial and skin biopsies, bronchoalveolar lavage fluid, whole blood, peripheral blood mononuclear cells (PBMCs), monocytes, neutrophils, DCs, NK cells, ILC1, ILC2, ILC3, CD4+ and CD8+ T cells, B cells and plasmablasts. We analyzed the material from healthy children and adults, and from adults in relation to their disease or COVID-19 risk factor status. 65 Results. ACE2 and TMPRSS2 were coexpressed at the epithelial sites of the lung and skin, whereas CD147 (BSG), cyclophilins (PPIA and PPIB), CD26 (DPP4) and related molecules were expressed in both, epithelium and in immune cells. We also observed a distinct age-related expression profile of these genes in the PBMCs and T cells from healthy children and adults. Asthma, COPD, hypertension, smoking, obesity, and male gender status generally led to the higher expression of ACE2- and CD14770 related genes in the bronchial biopsy, BAL or blood. Additionally, CD147-related genes correlated 71 positively with age and BMI. Interestingly, we also observed higher expression of ACE2- and CD14772 related genes in the lesional skin of patients with atopic dermatitis. 73 74 Conclusions. Our data suggest different receptor repertoire potentially involved in the SARS-CoV-2 infection at the epithelial barriers and in the immune cells. Altered expression of these receptors related with age, gender, obesity and smoking, as well as with the disease status might contribute to COVID-19 morbidity and severity patterns.",
+    "keywords": [
+        "COVID-19",
+        "SARS receptor",
+        "obesity",
+        "hypertension",
+        "asthma",
+        "COPD",
+        "comorbidity"
+    ],
+    "funding": [
+        {}
+    ]
+}

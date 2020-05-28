@@ -1,0 +1,20 @@
+{
+    "abstract": "On March 16 2020, French authorities ordered a large scale lockdown to counter the COVID-19 epidemic wave rising in the country, stopping non-essential economic, educational, and entertainment activities, maintaining mainly food retailers and healthcare institutions. One month later, the number of new hospitalizations and ICU admissions had reached a plateau and were beginning a slow descent. We developed a spatialized, deterministic, age-structured, and compartmental SARS-CoV-2 transmission model able to reproduce the pre-lockdown dynamic of the epidemic in each of the 13 French metropolitan regions. Thanks to this model, we estimate, at regional and national levels, the total number of hospitalizations, ICU admissions, hospital beds requirements (hospitalization and ICU), and hospital deaths which may have been prevented by this massive and unprecedented intervention in France. If no control measures had been set up, between March 19 and April 19 2020, our analysis shows that almost 23% of the French population would have been affected by COVID-19 (14.8 million individuals). Hence, the French lockdown prevented 587,730 hospitalizations and 140,320 ICU admissions at the national level. The total number of ICU beds required to treat patients in critical conditions would have been 104,550, far higher than the maximum French ICU capacity. This first month of lockdown also permitted to avoid 61,739 hospital deaths, corresponding to a 83.5% reduction of the total number of predicted deaths. Our analysis shows that in absence of any control measures, the COVID-19 epidemic would have had a critical morbidity and mortality burden in France, overwhelming in a matter of weeks French hospital capacities.",
+    "author": "Pascal Cr\u00e9pey; Cl\u00e9ment Massonnaud; Jonathan Roux",
+    "date": 2020,
+    "doi": "10.1101/2020.04.22.20075705",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.22.20075705"
+    },
+    "title": "COVID-19: One-month impact of the French lockdown on the epidemic burden",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Spread of Pathogens on Healthcare Institutions Networks)"
+                }
+            ],
+            "funding-statement": "The study was partly funded by the French national research agency (ANR) through the SPHINx (Spread of Pathogens on Healthcare Institutions Networks) project"
+        }
+    ]
+}

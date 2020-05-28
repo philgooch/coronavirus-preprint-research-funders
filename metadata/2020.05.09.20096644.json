@@ -1,0 +1,16 @@
+{
+    "abstract": "Using a respiratory virus epidemiological model we derive equations for the critical levels of mask efficiency (fraction blocked) and mask adoption (fraction of population wearing masks) that lower the effective reproduction number to unity. The model extends a basic epidemiological model and assumes that a specified fraction of a population dons masks at a given initial number of infections. The model includes a contribution from the ocular (nasolacrimal duct) route, and does not include contributions from contact (fomite) routes. The model accommodates dose-response (probability of infection) functions that are linear or non-linear. Our motivation to study near-population-wide mask wearing arises from the concept that, between two mask wearers, the concentration of particles at inhalation should be the square of the mask penetration fraction. This combination, or team, of masks can provide a strong dose-lowering squaring effect, which enables the use of lower-efficiency, lower-cost, lower pressure-drop (easier breathing) masks. For an epidemic with basic reproduction number R0=2.5 and with a linear dose-response, the critical mask efficiency is calculated to be 0.5 for a mask adoption level of 0.8 of the population. Importantly, this efficiency is well below that of a N95 mask, and well above that of some fabric masks. Numerical solutions of the model at near-critical levels of mask efficiency and mask adoption demonstrate avoidance of epidemics. To be conservative we use mask efficiencies measured with the most-penetrating viral-particle sizes. The critical mask adoption level for surgical masks with an efficiency of 0.58 is computed to be 0.73. With surgical masks (or equally efficient substitutes) and 80% and 90% adoption levels, respiratory epidemics with R0 of about 3 and 4, respectively, would be theoretically extinguished.",
+    "author": "Alan D Kot",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20096644",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20096644"
+    },
+    "title": "Critical levels of mask efficiency and of mask adoption that theoretically extinguish respiratory virus epidemics",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received."
+        }
+    ]
+}

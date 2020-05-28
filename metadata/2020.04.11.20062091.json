@@ -1,0 +1,49 @@
+{
+    "abstract": "One of the challenges with urgent evaluation of patients with acute respiratory distress syndrome (ARDS) in the emergency room (ER) is distinguishing between cardiac vs infectious etiologies for their pulmonary findings. We evaluated ER patient classification for cardiac and infection causes with clinical data and chest X-ray image data. We show that a deep-learning model trained with an external image data set can be used to extract image features and improve the classification accuracy of a data set that does not contain enough image data to train a deep-learning model. We also conducted clinical feature importance analysis and identified the most important clinical features for ER patient classification. This model can be upgraded to include a SARS-CoV-2 specific classification with COVID-19 patients data. The current model is publicly available with an interface at the web link: http://nbttranslationalresearch.org/.",
+    "affiliations": [
+        "National Institute of Health NCI grant U01CA187013, and National Science Foundation with grant number 1452211, 1553680, and 1723529, National Institute of Health grant R01LM012601, as well as was partially supported by National Institute of Health grant from the National Institute of General Medical Sciences (P20GM103429)"
+    ],
+    "author": "Wei Dong; Sara Nehring; Jonathan Stubblefield; Xiuzhen Huang; Mitchell Hervert; Lingrui Cai; Karl Walker; Jason Causey; Emily Bellis; Jennifer Fowler; Jason H. Moore; Jake Qualls",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20062091",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20062091"
+    },
+    "title": "Cardiac or Infectious? Transfer Learning with Chest X-Rays for ER Patient Classification",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Health NCI",
+                    "award-id": [
+                        "U01CA187013"
+                    ]
+                },
+                {
+                    "funding-source": "National Science Foundation",
+                    "award-id": [
+                        "1452211",
+                        "1553680",
+                        "1723529"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of Health",
+                    "award-id": [
+                        "R01LM012601"
+                    ]
+                },
+                {
+                    "funding-source": "National Institute of Health"
+                },
+                {
+                    "funding-source": "National Institute of General Medical Sciences",
+                    "award-id": [
+                        "P20GM103429"
+                    ]
+                }
+            ],
+            "funding-statement": "This research work was partially supported by National Institute of Health NCI grant U01CA187013, and National Science Foundation with grant number 1452211, 1553680, and 1723529, National Institute of Health grant R01LM012601, as well as was partially supported by National Institute of Health grant from the National Institute of General Medical Sciences (P20GM103429)"
+        }
+    ]
+}

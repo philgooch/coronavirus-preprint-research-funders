@@ -1,0 +1,16 @@
+{
+    "abstract": "A newly emerged coronavirus, SARS-CoV-2, caused severe outbreaks of pneumonia in China in December 2019 and has since spread to various countries around the world. To probe the origin and transmission dynamics of this virus, we performed phylodynamic analysis of 247 high quality genomic sequences of viruses available in the GISAID platform as of March 05, 2020. A substantial number of earliest sequences reported in Wuhan in December 2019, including those of viruses recovered from the Huanan Seafood Market (HNSM), the site of the initial outbreak, were genetically diverse, suggesting that viruses of multiple sources were involved in the original outbreak. The viruses were subsequently disseminated to different parts of China and other countries, with diverse mutational profiles being recorded in strains recovered subsequently. Interestingly, four genetic clusters defined as Super-transmitters (STs) were found to become dominant and were responsible for the major outbreaks in various countries. Among the four clusters, ST1 is widely disseminated in Asia and the US and mainly responsible for outbreaks in the states of Washington and California in the US as well as those in South Korea at the end of February and early March, whereas ST4 contributed to the pandemic in Europe. Each ST cluster carried a signature mutation profile which allowed us to trace the origin and transmission patterns of specific viruses in different parts of the world. Using the signature mutations as markers of STs, we further analysed 1539 genome sequences reported after February 29, 2020. We found that around 90% of these genomes belonged to STs with ST4 being the dominant one and their contribution to pandemic in different continents were also depicted. The identification of these super-transmitters provides insight into the control of further transmission of SARS-CoV-2.",
+    "author": "Xuemei YANG; Wai-Chi CHAN; Ning Dong; Sheng CHEN",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071399",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071399"
+    },
+    "title": "Identification of super-transmitters of SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This study was not supported by any research grant."
+        }
+    ]
+}

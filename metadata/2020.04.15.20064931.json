@@ -1,0 +1,41 @@
+{
+    "abstract": "Effective public response to a pandemic relies upon accurate measurement of the extent and dynamics of an outbreak. Viral genome sequencing has emerged as a powerful approach to link seemingly unrelated cases, and large-scale sequencing surveillance can inform on critical epidemiological parameters. Here, we report the analysis of 236 SARS-CoV2 sequences from cases in the New York City metropolitan area during the initial stages of the 2020 COVID-19 outbreak. The majority of cases throughout the region had no recent travel history or known exposure, and genetically linked cases were spread throughout the region. Comparison to global viral sequences showed that the majority were most related to cases from Europe. Our data are consistent with numerous seed transmissions from multiple sources and a prolonged period of unrecognized community spreading. This work highlights the complementary role of real-time genomic surveillance in addition to traditional epidemiological indicators.",
+    "affiliations": [
+        "Langone Genome Technology Center), UM1AI148574 (M.J.M), and R35GM119703 to (M.T.M.). This work was partially supported by the NYULH Office for Science and Research"
+    ],
+    "author": "Gael Westby; Matthew T Maurano; Ludovic Boytard; Paul Zappile; Nicholas A Vulpescu; Mark J Mulligan; Sitharam Ramaswami; Iman Osman; Christian Marier; Jared Pinnell; Adriana Heguy; Paolo Cotzia; Megan Hogan; Raquel Ordonez; Yutong Zhang; Andre M Ribeiro-dos-Santos; John Chen; Maria Aguero-Rosenfeld; Dacia Dimartino; Vanessa Raabe; Emily Guzman; Margaret Black; Emily Huang; Tatyana Gindin; Guomiao Shen; John Cadley; Peter Meyn; Marie I Samanovic-Golden; Antonio Serrano; Brendan Belovarac; Theodore Vougiouklakis; Xiaojun Feng; Andrew Lytle; Lawrence H Lin; Matija Snuderl; Amy Rapkiewicz; Raven Luther; George Jour",
+    "date": 2020,
+    "doi": "10.1101/2020.04.15.20064931",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.15.20064931"
+    },
+    "title": "Sequencing identifies multiple, early introductions of SARS-CoV2 to New York City Region",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "P30CA016087"
+                    ]
+                },
+                {
+                    "funding-source": "NYU Langone Genome Technology Center)",
+                    "award-id": [
+                        "UM1AI148574",
+                        "R35GM119703"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was partially funded by NIH grants P30CA016087 (NYU Langone Genome Technology Center), UM1AI148574 (M.J.M), and R35GM119703 to (M.T.M.)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NYULH Office for Science and Research"
+                }
+            ],
+            "funding-statement": "This work was partially supported by the NYULH Office for Science and Research"
+        }
+    ]
+}

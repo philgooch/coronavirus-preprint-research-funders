@@ -1,0 +1,23 @@
+{
+    "abstract": "SARS-CoV-2 RT-PCR based tests are being used to rule out infection among high-risk individuals such as exposed inpatients and healthcare workers. It is critical to understand how the predictive value of the test varies with time from exposure and symptom onset in order to avoid being falsely reassured by negative tests. As such, the goal of our study was to estimate the false negative rate by day since infection. We used previously published data on RT-PCR sensitivity on samples derived from nasal swabs by day since symptom onset (n=633) and fit a cubic polynomial spline to calculate the false negative rate by day since exposure and symptom onset. Over the four days of infection prior to the typical time of symptom onset (day 5) the probability of a false negative test in an infected individual falls from 100% on day one (95% CI 69-100%) to 61% on day four (95% CI 18-98%), though there is considerable uncertainty in these numbers. On the day of symptom onset, the median false negative rate was 39% (95% CI 16-77%). This decreased to 26% (95% CI 18-34%) on day 8 (3 days after symptom onset), then began to rise again, from 27% (95% CI 20-34%) on day 9 to 61% (95% CI 54-67%) on day 21. Care must be taken when interpreting RT-PCR tests for SARS-CoV-2 infection, particularly if performed early in the course of infection, when using these results as a basis for removing precautions intended to prevent onward transmission. If there is high clinical suspicion, patients should not be ruled out on the basis of RT-PCR alone, and the clinical and epidemiologic situation should be carefully considered.",
+    "affiliations": [
+        "Johns Hopkins University COVID-19 emergency response fund"
+    ],
+    "author": "Oliver Laeyendecker; Justin Lessler; Denali Boon; Stephen Lauer; Lauren Kucirka",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20051474",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20051474"
+    },
+    "title": "Variation in False Negative Rate of RT-PCR Based SARS-CoV-2 Tests by Time Since Exposure",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Johns Hopkins University COVID-19"
+                }
+            ],
+            "funding-statement": "This work was funded by a Johns Hopkins University COVID-19 emergency response fund"
+        }
+    ]
+}

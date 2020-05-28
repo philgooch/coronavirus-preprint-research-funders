@@ -1,0 +1,16 @@
+{
+    "abstract": "Social distancing has been adopted as a non-pharmaceutical intervention to prevent the COVID-19 pandemic from overwhelming the medical resources across the United States (US). The catastrophic socio-economic impacts of this intervention could outweigh its benefits if the timing and duration of implementation are left uncontrolled and ill-strategized. Here we investigate the dynamics of social distancing on age-stratified US population and benchmark its effectiveness in reducing the burden on hospital and ICU beds. Our findings highlight the diminishing marginal benefit of social distancing, characterized by a linear decrease in medical demands against an exponentially increasing social distancing duration. We determine an optimal intermittent social-to-no-distancing ratio of 5:1 corresponding to ~80% reduction in healthcare demands; beyond this ratio, benefit of social distancing diminishes to a negligible level. COVID-19 Medical Forecast: https://eece.wustl.edu/chakrabarty-group/covid/",
+    "author": "Payton Beeler; Pai Liu; Rajan K Chakrabarty",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059550",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059550"
+    },
+    "title": "Diminishing Marginal Benefit of Social Distancing in Balancing COVID-19 Medical Demand-to-Supply",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "abstract": "The COVID-19 pandemic has severely disrupted worldwide supplies of viral transport media (VTM) due to widespread demand for SARS-CoV-2 RT-PCR testing. In response to this ongoing shortage, we began production of VTM in-house in support of diagnostic testing in our hospital network. As our diagnostic laboratory was not equipped for reagent production, we took advantage of space and personnel that became available due to closure of the research division of our medical center. We utilized a formulation of VTM described by the CDC that was simple to produce, did not require filtration for sterilization, and used reagents that were available from commercial suppliers. Performance of VTM was evaluated by several quality assurance measures. Based on Ct values of spiking experiments, we found that our VTM supported highly consistent amplification of the SARS-CoV-2 target (coefficient of variation = 2.95%) using the Abbott RealTime SARS-CoV-2 EUA assay on the Abbott m2000 platform. VTM was also found to be compatible with multiple swab types and, based on accelerated stability studies, able to maintain functionality for at least four months at room temperature. We further discuss how we met logistical challenges associated with large-scale VTM production in a crisis setting including use of staged, assembly line for VTM transport tube production.",
+    "affiliations": [
+        "National Institute of Allergy and Infectious Diseases of the National Institutes of Health under award number F32 AI124590. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health"
+    ],
+    "author": "Sarah DuBois-Coyne; Kenneth P Smith; Ikram Mezghani; Mustafa Talay; Annie Cheng; Shade Rodriguez; James E Kirby; Amber Chopelas",
+    "date": 2020,
+    "doi": "10.1101/2020.04.29.20085514",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.29.20085514"
+    },
+    "title": "Large-scale, in-house production of viral transport media to support SARS-CoV-2 PCR testing in a multi-hospital healthcare network during the COVID-19 pandemic",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Allergy and Infectious Diseases of the National Institutes of Health",
+                    "award-id": [
+                        "AI124590"
+                    ]
+                }
+            ],
+            "funding-statement": "K.P.S. was supported by the National Institute of Allergy and Infectious Diseases of the National Institutes of Health under award number F32 AI124590"
+        }
+    ]
+}

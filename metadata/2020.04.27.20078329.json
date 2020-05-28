@@ -1,0 +1,16 @@
+{
+    "abstract": "We propose an additional intervention that would contribute to the control of the COVID-19 pandemic, offer more protection for people working in essential jobs, and help guide an eventual reopening of society. The intervention is based on: (1) testing every individual (2) repeatedly, and (3) self-quarantine of infected individuals. Using a standard epidemiological model (SIR), we show here that by identification and isolation of the majority of infectious individuals, including those who may be asymptomatic, the reproduction number R0 of SARS-CoV-2 would be reduced well below 1.0, and the epidemic would collapse. We replicate these observations in a more complex stochastic dynamic model on a social network graph. We also find that the testing regime would be additive to other interventions, and be effective at any level of prevalence. If adopted as a policy, any industrial society could sustain the regime for as long as it takes to find a safe and effective cure or vaccine. Our model also indicates that unlike sampling-based tests, population-scale testing does not need to be very accurate: false negative rates up to 15% could be tolerated if 80% comply with testing every ten days, and false positives can be almost arbitrarily high when a high fraction of the population is already effectively quarantined. Testing at the required scale would be feasible if existing qPCR-based methods are scaled up and multiplexed. A mass produced, low throughput field test kit could also be carried out at home. Economic analysis also supports the feasibility of the approach: current reagent costs for tests are in the range of a dollar or less, and the estimated benefits for population-scale testing are so large that the policy would be cost-effective even if the costs were larger by more than two orders of magnitude. To identify both active and previous infections, both viral RNA and antibodies could be tested. All technologies to build such test kits, and to produce them in the scale required to test the entire world's population exist already. Integrating them, scaling up production, and implementing the testing regime will require resources and planning, but at a scale that is very small compared to the effort that every nation would devote to defending itself against a more traditional foe.",
+    "author": "Jussi Taipale; Paul Romer; Sten Linnarsson",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20078329",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20078329"
+    },
+    "title": "Population-scale testing can suppress the spread of COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was used"
+        }
+    ]
+}

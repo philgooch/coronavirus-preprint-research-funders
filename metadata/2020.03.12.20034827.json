@@ -1,0 +1,28 @@
+{
+    "abstract": "Background: The coronavirus disease (COVID-19) caused by the severe acute respiratory syndrome (SARS-CoV-2) has spread to nearly every country in the world since it first emerged in China in December 2019. Many countries have implemented social distancing as a measure to 'flatten the curve' of the ongoing epidemics. Evaluation of the impact of government-imposed social distancing and of other measures to control further spread of COVID-19 is urgent, especially because of the large societal and economic impact of the former. The aim of this study was to compare the effectiveness of self-imposed prevention measures and of short-term government-imposed social distancing in mitigating, delaying, or preventing a COVID-19 epidemic. Methods and Findings: We developed a deterministic compartmental transmission model of SARS-CoV-2 in a population stratified by disease status (susceptible, exposed, infectious with mild or severe disease, diagnosed and recovered) and disease awareness status (aware and unaware) due to the spread of COVID-19. Self-imposed measures were assumed to be taken by disease-aware individuals and included handwashing, mask-wearing, and social distancing. Government-imposed social distancing reduced the contact rate of individuals irrespective of their disease or awareness status. The model was parameterized using current best estimates of key epidemiological parameters from COVID-19 clinical studies. The model outcomes included the peak number of diagnoses, attack rate, and time until the peak number of diagnoses. For fast awareness spread in the population, self-imposed measures can significantly reduce the attack rate, diminish and postpone the peak number of diagnoses. A large epidemic can be prevented if the efficacy of these measures exceeds 50%. For slow awareness spread, self-imposed measures reduce the peak number of diagnoses and attack rate but do not affect the timing of the peak. Early implementation of short-term government-imposed social distancing can only delay the peak (by at most 7 months for a 3-month intervention). The delay can be even longer and the height of the peak can be additionally reduced if this intervention is combined with self-imposed measures that are continued after government-imposed social distancing has been lifted. Our analyses do not account for stochasticity, demographics, heterogeneities in contact patterns or mixing, spatial effects, imperfect isolation of individuals with severe disease, and reinfection with COVID-19. Conclusions: Our results suggest that information dissemination about COVID-19, which causes individual adaption of handwashing, mask-wearing and social distancing can be an effective strategy to mitigate and delay the epidemic. Early-initiated short-term government-imposed social distancing can buy time for healthcare systems to prepare for an increasing COVID-19 burden. We stress the importance of disease awareness in controlling the ongoing epidemic and recommend that, in addition to policies on social distancing, governments and public health institutions mobilize people to adopt self-imposed measures with proven efficacy in order to successfully tackle COVID-19. Keywords: SARS-CoV-2; COVID-19; mathematical model; prevention measures; mitigation; epidemic control; disease awareness; social distancing; handwashing; mask-wearing\nFunding Statement",
+    "author": "Thi Mui Pham; Martin C.J. Bootsma; Mirjam E. Kretzschmar; Alexandra Teslya; Noortje G. Godijk; Ganna Rozhnova",
+    "date": 2020,
+    "doi": "10.1101/2020.03.12.20034827",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.12.20034827"
+    },
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "mathematical model",
+        "prevention measures",
+        "mitigation",
+        "epidemic control",
+        "disease awareness",
+        "social distancing",
+        "handwashing",
+        "mask-wearing"
+    ],
+    "title": "Impact of self-imposed prevention measures and short-term government-imposed social distancing on mitigating and delaying a COVID-19 epidemic: A modelling study",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Author Declarations"
+        }
+    ]
+}

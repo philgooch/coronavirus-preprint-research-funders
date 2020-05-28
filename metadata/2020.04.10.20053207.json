@@ -1,0 +1,30 @@
+{
+    "abstract": "The COVID-19 disease is one of worst pandemics to sweep the globe in recent times. It is noteworthy that the disease has its greatest impact on the elderly. Herein, we investigated the potential of childhood vaccination, specifically against measles, mumps and rubella (MMR), to identify if this could potentially confer acquired protection over SARS-CoV-2. We identified sequence homology between the fusion proteins of SARS-CoV-2 and measles and mumps viruses. Moreover, we also identified a 29% amino acid sequence homology between the Macro (ADP-ribose-1-phosphatase) domains of SARS-CoV-2 and rubella virus. The rubella Macro domain has surface-exposed conserved residues and is present in the attenuated rubella virus in MMR. Hence, we hypothesize that MMR could protect against poor outcome in COVID-19 infection. As an initial test of this hypothesis, we identified that 1) age groups that most likely lack of MMR vaccine-induced immunity had the poorest outcome in COVID-19, and 2) COVID-19 disease burden correlates with rubella antibody titres, potentially induced by SARS-CoV2 homologous sequences. We therefore propose that vaccination of at risk age groups with an MMR vaccination merits further consideration as a time-appropriate and safe intervention.",
+    "author": "Bjoern Neumann; Yorgo Modis; Amir Reyahi; Alexis Joannides; Robin Franklin; Rocio Fernandez; Adam Young",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20053207",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20053207"
+    },
+    "title": "Homologous protein domains in SARS-CoV-2 and measles, mumps and rubella viruses: preliminary evidence that MMR vaccine might provide protection against COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Author Declarations All"
+                },
+                {
+                    "funding-source": "Yes All",
+                    "award-id": [
+                        "note: if posting a prospective study registered retrospectively",
+                        "please provide a statement in the trial ID field explaining why the study was not registered in advance"
+                    ]
+                },
+                {
+                    "funding-source": "EQUATOR Network"
+                }
+            ],
+            "funding-statement": "Statement n/a Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript.  Yes All necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived. I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance). I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable."
+        }
+    ]
+}

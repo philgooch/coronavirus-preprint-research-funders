@@ -1,0 +1,65 @@
+{
+    "title": "Evidence of the Recombinant Origin and Ongoing Mutations in Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)",
+    "keywords": [
+        "SARS-CoV-2",
+        "pangolin CoVs",
+        "recombination",
+        "mutations"
+    ],
+    "date": 2020,
+    "author": "Jiao-Mei Huang, Syed Sajid Jan, Xiaobin Wei, Yi Wan,# and Songying Ouyang,#",
+    "affiliations": [
+        "State Key Laboratory of Marine Resource Utilization in South China Sea, Marine College, Key Laboratory of Tropical Biological Resources of Ministry of Education, School of Life and Pharmaceutical Sciences, Hainan University, Haikou, China",
+        "The Key Laboratory of Innate Immune Biology of Fujian Province, Provincial University Key Laboratory of Cellular Stress Response and Metabolic Regulation, Biomedical Research Center of South China, Key Laboratory of OptoElectronic Science and Technology for Medicine of the Ministry of Education, College of Life Sciences, Fujian Normal University, Fuzhou, China",
+        "Laboratory for Marine Biology and Biotechnology, Pilot National Laboratory for Marine Science and Technology (Qingdao), Qingdao, China",
+        "Department of Clinical Laboratory, Haikou People's Hospital, Affiliated Haikou Hospital, Xiangya School of Medicine, Central South University, Haikou, Hainan, China",
+        "Contributed equally to this work",
+        "Lead contact # To whom correspondence should be addressed:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.16.993816",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.16.993816.pdf"
+    },
+    "abstract": "The recent global outbreak of viral pneumonia designated as Coronavirus Disease 2019 (COVID-19) by coronavirus (SARS-CoV-2) has threatened global public health and urged to investigate its source. Whole genome analysis of SARS-CoV-2 revealed ~96% genomic similarity with bat CoV (RaTG13) and clustered together in phylogenetic tree. Furthermore, RaTG13 also showed 97.43% spike protein similarity with SARS-CoV-2 suggesting that RaTG13 is the closest strain. However, RBD and key amino acid residues supposed to be crucial for human-to-human and cross-species transmission are homologues between SARSCoV-2 and pangolin CoVs. These results from our analysis suggest that SARS-CoV-2 is a recombinant virus of bat and pangolin CoVs. Moreover, this study also reports mutations in coding regions of 125 SARS-CoV-2 genomes signifying its aptitude for evolution. In short, our findings propose that homologous recombination has been occurred between bat and pangolin CoVs that triggered cross-species transmission and emergence of SARS-CoV-2, and, during the ongoing outbreak, SARS-CoV-2 is still evolving for its adaptability.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31770948",
+                        "31570875"
+                    ]
+                },
+                {
+                    "funding-source": "Marine Economic Development Special Fund of Fujian Province",
+                    "award-id": [
+                        "FJHJF-L-2020-2"
+                    ]
+                },
+                {
+                    "funding-source": "Fujian Normal University",
+                    "award-id": [
+                        "Z0210509"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Natural Science Foundation of China grants 31770948 and 31570875 and Marine Economic Development Special Fund of Fujian Province (FJHJF-L-2020-2) and the High-level personnel introduction grant of Fujian Normal University (Z0210509)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Key Research and Development Program",
+                    "award-id": [
+                        "COVID-19",
+                        "2020002"
+                    ]
+                }
+            ],
+            "funding-statement": "We also gratefully acknowledge the support from Key Research and Development Program (COVID-19) of Hainan (No ZDYF(XGFY)2020002)"
+        }
+    ]
+}

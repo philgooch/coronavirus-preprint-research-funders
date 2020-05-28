@@ -1,0 +1,20 @@
+{
+    "abstract": "Background: A novel coronavirus disease 2019 (COVID-19) broke out in Wuhan of Hubei province and had spread throughout the world since December 2019. Because the clinically diagnosed cases in Hubei province were reported for the first time on February 13, 2020, a very high peak of new cases in China was observed. The reason why so many clinically diagnosed cases appeared was not clear. Methods: All data of new cases in China were acquired from WHO situation reports. Linear fitting was used to infer the ability to detect COVID-19 infections. Primer-BLAST and nucleotide blast were applied to check the specificity of primers. Expression data of human mRNA in different tissues was obtained from Human Protein Atlas. Finding: Based on the data and analysis of changes of new laboratory-confirmed cases and new clinically diagnosed cases, it was inferred that there were many false-negative results in all clinically diagnosed cases in Hubei province. There were eight non-specific primers in dozens of primers used in clinical or research detection of COVID-19. Among them, a pair of primer for the ORF1ab regions of SARS-CoV-2 genome, which widely applied to detect SARS-CoV-2 virus in China, well matched some human mRNAs such as Cathepsin C transcripts. Compared to other transcripts, Cathepsin C mRNA had a high abundance in tonsil, lung and small intestine. Interpretation: Some non-specific RT-PCR primers could cause the serious interference during RT-PCR amplification so as to increase the risk of false-negative diagnoses for COVID-19 infections. Funding Key Research Project of the Higher Education of Henan Province\nCompeting Interest Statement",
+    "author": "Wei Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.07.20056804",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.07.20056804"
+    },
+    "title": "Non-specific Primers Reveal False-negative Risk in Detection of COVID-19 Infections",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Key Research Project of the Higher Education of Henan Province."
+                }
+            ],
+            "funding-statement": "The study was supproted by Key Research Project of the Higher Education of Henan Province."
+        }
+    ]
+}

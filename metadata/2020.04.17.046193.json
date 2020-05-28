@@ -1,0 +1,43 @@
+{
+    "title": "Shotgun proteomics of SARS-CoV-2 infected cells and its application to the optimisation of whole viral particle antigen production for vaccines",
+    "author": "GRENGA Lucia",
+    "date": 2020,
+    "affiliations": [
+        "Universit\u00e9 Paris Saclay, CEA, INRAE, D\u00e9partement M\u00e9dicaments et Technologies pour la Sant\u00e9 (DMTS), SPI, 30200 Bagnols-sur-C\u00e8ze, France",
+        "Laboratory \u201cInnovative technologies for Detection and Diagnostics\u201d, BP 17171, F-30200 Bagnols-sur-C\u00e8ze, France",
+        "Lazzaro Spallanzani National Institute of Infectious Diseases (Rome, Italy) via the EVAg network (European Virus Archive goes global). SARSCoV-2 stocks used in the experiments had undergone two passages on Vero E6 cells and were stored at -80\u00b0C. Virus titer was determined by standard plaque assay (1x107 pfu/ml)"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.17.046193",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.17.046193.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) has resulted in a pandemic and continues to spread quickly around the globe. Currently, no effective vaccine is available to prevent COVID-19 and an intense global development activity is in progress. In this context, the different technology platforms face several challenges resulting from the involvement of a new virus still not fully characterised. Finding of the right conditions for virus amplification for the development of vaccines based on inactivated or attenuated whole viral particles is among them. Here, we describe the establishment of a workflow based on shotgun tandem mass spectrometry data to guide the optimisation of the conditions for viral amplification. In parallel, we analysed the dynamic of the host cell proteome following SARS-CoV-2 infection providing a global overview of biological processes modulated by the virus and that could be further explored to identify drug targets to address the pandemic.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "French Alternative Energies and Atomic Energy Commission"
+                },
+                {
+                    "funding-source": "CBRNE",
+                    "award-id": [
+                        "ANR-17-CE18-0023-01"
+                    ]
+                },
+                {
+                    "funding-source": "European Virus Archive"
+                },
+                {
+                    "funding-source": "European Union\u2019s Horizon",
+                    "award-id": [
+                        "653316"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was funded in part by the French Alternative Energies and Atomic Energy Commission (CEA), the French joint ministerial program of R&D against CBRNE threats, and the ANR program \u201cPhylopeptidomics\u201d (ANR-17-CE18-0023-01). This publication was supported by the European Virus Archive goes Global (EVAg) project that has received funding from the European Union\u2019s Horizon 2020 research and innovation programme under grant agreement N\u00b0653316."
+        }
+    ]
+}

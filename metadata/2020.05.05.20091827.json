@@ -1,0 +1,43 @@
+{
+    "abstract": "Objective: Develop the AI and casual inference-inspired methods for forecasting and evaluating the effects of public health interventions on curbing the spread of Covid-19. Methods: We developed recurrent neural network (RNN) for modeling the transmission dynamics of the epidemics and Counterfactual-RNN (CRNN) for evaluating and exploring public health intervention strategies to slow down the spread of Covid-19 worldwide. We applied the developed methods to real-time forecasting the confirmed cases of Covid-19 across the world. The data were collected from January 22 to April 18, 2020 by John Hopkins Coronavirus Resource Center (https://coronavirus.jhu.edu/MAP.HTML). Results: The average errors of 1-step to 10-step forecasting were 2.9%. In the absence of a COVID-19 vaccine, we evaluated the potential effects of a number of public health measures. We found that the estimated peak number of new cases and cumulative cases, and the maximum number of cumulative cases worldwide with one week later additional intervention were reduced to 103,872, 2,104,800, and 2,271,648, respectively. The estimated total peak number of new cases and cumulative cases would be the same as the above and the maximum number of cumulative cases would be 3,864,872 in the world with 3 week later additional intervention. Duration time of the Covid-19 spread would be increased from 91 days to 123 days. Our estimation results showed that we were in the eve of stopping the spread of COVID-19 worldwide. However, we observed that transmission would quickly rebound if interventions were relaxed. Conclusions: The accuracy of the AI-based methods for forecasting the trajectory of Covid-19 was high. The AI and causal inference-inspired methods are a powerful tool for helping public health planning and policymaking. We concluded that the spread of COVID-19 would be stopped very soon.",
+    "affiliations": [
+        "Hopkins Coronavirus Resource Center (https://coronavirus.jhu.edu/MAP.HTML). Results: The average errors of 1-step to 10-step forecasting were 2.9%. In the absence of",
+        "National Key R&D Program of China (Grant no. 2018YFC0116600), by the National Natural Science Foundation of China (Grant nos. 11925103 & 61773125), and by the STCSM (Grant no. 18DZ1201000)"
+    ],
+    "author": "Wei Lin; Qiyang Ge; Shudi Li; Zhixin Hu; Li Jin; Momiao Xiong",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20091827",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20091827"
+    },
+    "title": "A Noel Intervention Recurrent autoencoder for real time forecasting and non-pharmaceutical intervention selection to curb the spread of Covid-19 in the world",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Dr Wei Lin"
+                },
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2018YFC0116600"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "11925103",
+                        "61773125"
+                    ]
+                },
+                {
+                    "funding-source": "STCSM",
+                    "award-id": [
+                        "18DZ1201000"
+                    ]
+                }
+            ],
+            "funding-statement": "Dr Wei Lin is supported by the National Key R&D Program of China (Grant no. 2018YFC0116600), by the National Natural Science Foundation of China (Grant nos. 11925103 & 61773125), and by the STCSM (Grant no. 18DZ1201000)"
+        }
+    ]
+}

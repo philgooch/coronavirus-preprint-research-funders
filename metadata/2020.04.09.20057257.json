@@ -1,0 +1,27 @@
+{
+    "abstract": "During the early stages of an emerging disease outbreak, governments are required to make critical decisions on how to respond appropriately, despite limited data being available to inform these decisions. Analytical risk assessment is a valuable approach to guide decision-making on travel restrictions and border measures during the early phase of an outbreak, when transmission is primarily contained within a source country. Here we introduce a modular framework for estimating the importation risk of an emerging disease when the direct travel route is restricted and the risk stems from indirect importation via intermediary countries. This was the situation for Australia in February 2020. The framework was specifically developed to assess the importation risk of COVID-19 into Australia during the early stages of the outbreak from late January to mid-February 2020. The dominant importation risk to Australia at the time of analysis was directly from China, as the only country reporting uncontained transmission. However, with travel restrictions from mainland China to Australia imposed from February 1, our framework was designed to consider the importation risk from China into Australia via potential intermediary countries in the Asia Pacific region. The framework was successfully used to contribute to the evidence base for decisions on border measures and case definitions in the Australian context during the early phase of COVID-19 emergence and is adaptable to other contexts for future outbreak response.",
+    "affiliations": [
+        "Australian Department of Health. JMcV is supported by",
+        "NHMRC Principal Research Fellowship"
+    ],
+    "author": "James M McCaw; Nefel Tellioglu; Andrew Black; Nicholas Geard; Jodie McVernon; Freya Shearer; James Walker",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20057257",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20057257"
+    },
+    "title": "Assessing the risk of spread of COVID-19 to the Asia Pacific region",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Australian Department of Health. JMcV"
+                },
+                {
+                    "funding-source": "NHMRC Principal Research Fellowship."
+                }
+            ],
+            "funding-statement": "This material is based on work funded in part by the Australian Department of Health. JMcV is supported by a NHMRC Principal Research Fellowship."
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Computational analysis on the ACE2-derived peptides for neutralizing the ACE2 binding to the spike protein of SARS-CoV-2",
+    "author": "Cecylia S. Lupala,#, Vikash Kumar,#, Xuanxuan Li, Xiao-dong Su, and Haiguang Liu",
+    "date": 2020,
+    "affiliations": [
+        "Computational Science Research Center, Haidian, Beijing 6 100193, People\u2019s Republic of China",
+        "Engingeering Physics Department, Tsinghua University, Haidian, Beijing 100084, People\u2019s",
+        "Republic of China",
+        "School of Life Sciences, State Key Laboratory of Protein and Plant Gene Research and",
+        "Biomedical Pioneering Innovation Center (BIOPIC), Peking University, Beijing 100871",
+        "People's Republic of China 12",
+        "Physics Department, Beijing Normal University, Haidian, Beijing 100875, People's Republic 13 of China 14 15 # These authors contributed equally 16",
+        "Corresponding author: Haiguang Liu"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.03.075473",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.03.075473.pdf"
+    },
+    "abstract": "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causative agent of the COVID-19, is spreading globally and has infected more than 3 million people. It has been discovered that SARS-CoV-2 initiates the entry into cells by binding to human angiotensin22 converting enzyme 2 (hACE2) through the receptor binding domain (RBD) of its spike glycoprotein. Hence, drugs that can interfere the SARS-CoV-2-RBD binding to hACE2 potentially can inhibit SARS-CoV-2 from entering human cells. Here, based on the N-terminal helix \u03b11 of human ACE2, we designed nine short peptides that have potential to inhibit SARS-CoV-2 binding. Molecular dynamics simulations of peptides in the their free and SARS-CoV-2 RBD-bound forms allow us to identify fragments that are stable in water and have strong binding affinity to the SARS28 CoV-2 spike proteins. The important interactions between peptides and RBD are highlighted to 29 provide guidance for the design of peptidomimetics against the SARS-CoV-2.",
+    "keywords": [
+        "ACE2",
+        "SARS-CoV-2",
+        "receptor binding domain",
+        "spike protein",
+        "peptide"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Beijing Computational Science Research Center"
+                }
+            ],
+            "funding-statement": "The work is supported by Beijing Computational Science Research Center (CSRC) via a director discretionary grant"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "31971136",
+                        "U1530402"
+                    ]
+                }
+            ],
+            "funding-statement": "The funding from the national natural science foundation (31971136, U1530402) supports the research"
+        }
+    ]
+}

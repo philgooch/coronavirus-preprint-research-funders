@@ -1,0 +1,34 @@
+{
+    "title": "Structural and Functional Implications of Non-synonymous Mutations in the Spike protein of 2,954 SARS-CoV-2 Genomes",
+    "keywords": [
+        "SARS-CoV-2",
+        "Spike protein",
+        "Receptor binding domain",
+        "mutation",
+        "virus evolution"
+    ],
+    "date": 2020,
+    "author": "Shijulal Nelson-Sathi, Umasankar PK, E Sreekumar, R Radhakrishnan Nair, Iype Joseph, Sai Ravi Chandra Nori, Jamiema Sara Philip, Roshny Prasad, Navyasree KV, Shikha Ramesh, Heera Pillai, Sanu Ghosh, Santosh Kumar TR and M. Radhakrishna Pillai",
+    "affiliations": [
+        "Rajiv Gandhi Centre for Biotechnology, Thiruvananthapuram, India"
+    ],
+    "journal": "Human ACE",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.02.071811",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.02.071811.pdf"
+    },
+    "abstract": "SARS-CoV-2, the causative agent of COVID-2019 pandemic is an RNA virus prone to mutations. Information on mutations within the circulating strains of the virus is pivotal to understand disease spread and dynamics. Here, we analyse the mutations associated with 2,954 globally reported high quality genomes of SARS-CoV-2 with special emphasis on genomes of viral strains from India. Molecular phylogenetic analysis suggests that SARS-CoV-2 strains circulating in India form five distinct phyletic clades designated R1-R5. These clades categorize into the previously reported S, G as well as a new unclassified subtype. A detailed analysis of gene encoding the Spike (S) protein in the strains across the globe shows non-synonymous mutations on 54 amino acid residues. Among these, we pinpoint 4 novel mutations in the region that interacts with human ACE2 receptor (RBD). Further in silico molecular docking analyses suggest that these RBD mutations could alter the binding affinity of S-protein with ACE2 that may lead to changes in SARS-CoV-2 infectivity. Strikingly, one of these RBD mutations (S438F) is unique to a subset within the R4 clade suggesting intrinsic S-protein variations in strains currently circulating in India. Together, our findings reveal a unique pattern of SARS-CoV-2 evolution that may alert vaccine and therapeutic development.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Biotechnology, Government"
+                }
+            ],
+            "funding-statement": "The work was supported by the Department of Biotechnology, Government of India"
+        }
+    ]
+}

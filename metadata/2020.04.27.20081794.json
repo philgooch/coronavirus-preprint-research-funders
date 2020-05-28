@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The recent pandemic of CoVID-19 has emerged as a threat to global health security. There are a very few prognostic models on CoVID-19 using machine learning. Objectives: To predict mortality among confirmed CoVID-19 patients in South Korea using machine learning and deploy the best performing algorithm as an open-source online prediction tool for decision-making. Materials and methods: Mortality for confirmed CoVID-19 patients (n=3,299) between January 20, 2020 and April 30, 2020 was predicted using five machine learning algorithms (logistic regression, support vector machine, K nearest neighbor, random forest and gradient boosting). Performance of the algorithms was compared, and the best performing algorithm was deployed as an online prediction tool. Results: The random forest algorithm was the best performer in terms of predictive ability (accuracy=0.981), discrimination (area under ROC curve=0.886), calibration (Matthews Correlation Coefficient=0.459; Brier Score=0.063) and. The best performer algorithm (random forest) was deployed as the online CoVID-19 Community Mortality Risk Prediction tool named CoCoMoRP (https://ashis-das.shinyapps.io/CoCoMoRP/). Conclusions: We describe the development and deployment of an open-source machine learning tool to predict mortality risk among CoVID-19 confirmed patients using publicly available surveillance data. This tool can be utilized by potential stakeholders such as health providers and policy makers to triage patients at the community level in addition to other approaches.\nCompeting Interest Statement",
+    "author": "Saji Saraswathy Gopalan; ASHIS DAS; Shiba Mishra",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20081794",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20081794"
+    },
+    "title": "Predicting community mortality risk due to CoVID-19 using machine learning and development of a prediction tool",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "None"
+        }
+    ]
+}

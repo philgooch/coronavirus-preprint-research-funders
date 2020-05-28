@@ -1,0 +1,67 @@
+{
+    "abstract": "Preliminary reports suggest that the Coronavirus Disease 2019 (COVID\u221219) pandemic has led to disproportionate morbidity and mortality among historically disadvantaged populations. The extent to which these disparities are related to socioeconomic versus biologic factors is largely unknown. We investigate the racial and socioeconomic associations of COVID\u221219 hospitalization among 418,794 participants of the UK Biobank, of whom 549 (0.13%) had been hospitalized. Both black participants (odds ratio 3.4; 95%CI 2.4\u22124.9) and Asian participants (odds ratio 2.1; 95%CI 1.5\u22123.2) were at substantially increased risk as compared to white participants. We further observed a striking gradient in COVID\u221219 hospitalization rates according to the Townsend Deprivation Index \u2212 a composite measure of socioeconomic deprivation \u2212 and household income. Adjusting for such factors led to only modest attenuation of the increased risk in black participants, adjusted odds ratio 3.1 (95%CI 2.0\u22124.8). These observations confirm and extend earlier preliminary and lay press reports of higher morbidity in non-white individuals in the context of a large population of participants in a national biobank. The extent to which this increased risk relates to variation in pre-existing comorbidities, differences in testing or hospitalization patterns, or additional disparities in social determinants of health warrants further study.",
+    "affiliations": [
+        "Novartis Institute for Biomedical Research; received sponsored research agreements from the Novartis Institute for Biomedical Research and IBM Research, and reports a patent related to a genetic risk predictor (20190017119). The remaining authors have no disclosures",
+        "National Heart, Lung, and Blood Institute (to A.P.P.), grant 5U01HG009080 from the National Institutes of Health Center for Multi- and Trans-ethnic Mapping of Mendelian and Complex Diseases (to M.A.R.)",
+        "Merkin Institute Fellowship from the Broad Institute of MIT and Harvard (to A.V.K.), grant 1K08HG010155 (to A.V.K.) and 5R01HG01014002 (to M.A.R.) from the National Human Genome Research Institute",
+        "Hassenfeld Scholar Award from Massachusetts General Hospital (to A.V.K.), and a sponsored research agreement from IBM Research (to A.V.K.)"
+    ],
+    "author": "Manuel A Rivas; Aniruddh Pradip Patel; Manish D Paranjpe; Amit V Khera; Nina P Kathiresan",
+    "date": 2020,
+    "doi": "10.1101/2020.04.27.20082107",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.27.20082107"
+    },
+    "title": "Race, Socioeconomic Deprivation, and Hospitalization for COVID-19 in English participants of a National Biobank",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Heart, Lung",
+                    "award-id": [
+                        "to A.P.P."
+                    ]
+                },
+                {
+                    "funding-source": "Blood Institute",
+                    "award-id": [
+                        "to A.P.P.",
+                        "5U01HG009080"
+                    ]
+                },
+                {
+                    "funding-source": "National Institutes of Health Center for Multi- and Trans-ethnic Mapping of Mendelian and Complex Diseases",
+                    "award-id": [
+                        "to M.A.R."
+                    ]
+                },
+                {
+                    "funding-source": "Merkin Institute Fellowship from the Broad Institute of MIT and Harvard",
+                    "award-id": [
+                        "to A.V.K.",
+                        "1K08HG010155",
+                        "to A.V.K.",
+                        "5R01HG01014002",
+                        "to M.A.R."
+                    ]
+                },
+                {
+                    "funding-source": "National Human Genome Research Institute,"
+                },
+                {
+                    "funding-source": "Hassenfeld Scholar Award from Massachusetts General Hospital",
+                    "award-id": [
+                        "to A.V.K."
+                    ]
+                },
+                {
+                    "funding-source": "IBM Research",
+                    "award-id": [
+                        "to A.V.K."
+                    ]
+                }
+            ],
+            "funding-statement": "Funding support was provided by grant T32HL007208 from the National Heart, Lung, and Blood Institute (to A.P.P.), grant 5U01HG009080 from the National Institutes of Health Center for Multi- and Trans-ethnic Mapping of Mendelian and Complex Diseases (to M.A.R.), a Merkin Institute Fellowship from the Broad Institute of MIT and Harvard (to A.V.K.), grant 1K08HG010155 (to A.V.K.) and 5R01HG01014002 (to M.A.R.) from the National Human Genome Research Institute, a Hassenfeld Scholar Award from Massachusetts General Hospital (to A.V.K.), and a sponsored research agreement from IBM Research (to A.V.K.)."
+        }
+    ]
+}

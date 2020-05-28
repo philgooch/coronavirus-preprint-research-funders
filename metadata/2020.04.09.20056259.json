@@ -1,0 +1,52 @@
+{
+    "abstract": "Objectives: There is uncertainty about when the first cases of COVID-19 appeared in Spain, as asymptomatic patients can transmit the virus. We aimed to determine whether influenza diagnoses masked early COVID-19 cases and, if so, estimate numbers of undetected COVID-19 cases in a large database of primary-care records covering >6 million people in Catalonia. Design: Time-series study of influenza and COVID-19 cases, using all influenza seasons from autumn-winter 2010-2011 to autumn-winter 2019-2020. Setting: Primary care, Catalonia, Spain. Participants: People registered in one of the contributing primary-care practices, covering >6 million people and >85% of the population. Main outcome measures: Weekly new cases of influenza and COVID-19 diagnosed in primary care. Analyses: Daily counts of both cases were computed using the total cases recorded over the previous 7 days to avoid weekly effects on recording practice. Epidemic curves were characterised for the 2010-2011 to 2019-2020 influenza seasons. Influenza seasons with a similar epidemic curve and peak case number as the 2019-2020 season were used to model predictions for 2019-2020. ARIMA models were fitted to the included influenza seasons, overall and stratified by age, to estimate expected case numbers. Daily excess influenza cases were defined as the number of observed minus expected cases. Results: Four influenza season curves (2011-2012, 2012-2013, 2013-2014, and 2016-2017) were used to estimate the number of expected cases of influenza in 2019-2020. Between 4 February 2020 and 20 March 20202, 8,017 (95% CI: 1,841 to 14,718) excess influenza cases were identified. This excess was highest in the 15-64 age group. Conclusions: COVID-19 cases may have been present in the Catalan population when the first imported case was reported on 25 February 2020. COVID-19 carriers may have been misclassified as influenza diagnoses in primary care, boosting community transmission before public health measures were taken. In future, the surveillance of excess influenza cases using widely available primary-care electronic medical records could help detect new outbreaks of COVID-19 or other influenza-like illness-causing pathogens. Earlier detection would allow public health responses to be initiated earlier than during the current crisis.",
+    "affiliations": [
+        "National Institute for Health Research (NIHR) Oxford Biomedical Research Centre (BRC). DPA is funded through an NIHR Senior Research Fellowship (Grant number SRF-2018-11-ST2-004). The views expressed in this publication are those of the author(s) and not necessarily those of the NHS, the National Institute for Health Research or the Department of Health. AP-U is supported by Fundacion Alfonso Martin Escudero and the Medical Research Council (grant numbers MR/K501256/1, MR/N013468/1)"
+    ],
+    "author": "Manuel Medina-Peralta; Nuria Mora; Daniel Prieto-Alhambra; Albert Prats-Uribe; Ermengol Coma; Francesc Fina",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20056259",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20056259"
+    },
+    "title": "Excess cases of influenza suggest an earlier start to the coronavirus epidemic in Spain than official figures tell us: an analysis of primary care electronic medical records from over 6 million people from Catalonia",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Oxford Biomedical Research Centre"
+                }
+            ],
+            "funding-statement": "The research was partially supported by the National Institute for Health Research (NIHR) Oxford Biomedical Research Centre (BRC)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Senior Research Fellowship",
+                    "award-id": [
+                        "SRF-2018-11-ST2-004"
+                    ]
+                }
+            ],
+            "funding-statement": "DPA is funded through an NIHR Senior Research Fellowship (Grant number SRF-2018-11-ST2-004)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fundacion Alfonso Martin Escudero and the Medical Research Council",
+                    "award-id": [
+                        "MR/K501256/1",
+                        "MR/N013468/1"
+                    ]
+                }
+            ],
+            "funding-statement": "AP-U is supported by Fundacion Alfonso Martin Escudero and the Medical Research Council (grant numbers MR/K501256/1, MR/N013468/1)"
+        }
+    ]
+}

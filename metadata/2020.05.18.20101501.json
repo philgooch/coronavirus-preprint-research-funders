@@ -1,0 +1,22 @@
+{
+    "abstract": "Background During the current pandemic of coronavirus (COVID-19) many countries have taken drastic measures to reduce transmission of SARS-CoV2. The measures often include physical distancing that aims to reduce the number of contacts in the population. Little is known about the actual reduction in number of contacts as a consequence of physical distancing measures. Methods In the Netherlands, a cross-sectional survey was carried out in 2016/2017 in which 8179 participants retrospectively reported the number, age and gender of different persons they had contacted (spoken to in person or touched) during the previous day. The survey was repeated among 2830 of the original participants, using the same questionnaire, in March and April 2020 after physical distancing measures had been implemented. Results The average number of contacts in the community was reduced from on average 12.5 (interquartile range: 2-17) to 3.7 (interquartile range: 0-4) different persons per participant, a reduction of 71% (95% confidence interval: 71-71). The reduction in the number of community contacts was highest for children and adolescents (between 5 and 20 years) and smallest for elderly persons of 80 years and older. The reduction in the effective number of total contacts, measured as the largest eigenvalue of the matrix with community and household contacts, was 62% (95% confidence interval: 48 - 72). Conclusion The substantial reduction in contacts has contributed greatly in halting the COVID-19 epidemic. This reduction was unevenly distributed over age groups, household sizes and occupations. These findings offer guidance for the lifting of age-group targeted measures.",
+    "author": "Susan van den Hof; Jacco Wallinga; Jantien A. Backer; Hester E. de Melker; Don Klinkenberg; Fiona R.M. van der Klis; Liesbeth Mollema",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20101501",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20101501"
+    },
+    "title": "The impact of physical distancing measures against COVID-19 transmission on contacts and mixing patterns in the Netherlands: repeated cross-sectional surveys",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "101003688"
+                    ]
+                }
+            ],
+            "funding-statement": "This project has received funding from the European Union\u0092s Horizon 2020 research and innovation programme - project EpiPose (grant agreement number 101003688)"
+        }
+    ]
+}

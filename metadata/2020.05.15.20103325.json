@@ -1,0 +1,16 @@
+{
+    "abstract": "A very special type of pneumonic disease that generated the COVID-19 pandemic was first identified in Wuhan, China in December 2019 and is spreading all over the world. The ongoing outbreak presents a challenge for data scientists to model COVID-19, when the epidemiological characteristics of the COVID-19 are yet to be fully explained. The uncertainty around the COVID-19 with no vaccine and effective medicine available until today create additional pressure on the epidemiologists and policy makers. In such a crucial situation, it is very important to predict infected cases to support prevention of the disease and aid in the preparation of healthcare service. In this paper, we have tried to understand the spreading capability of COVID-19 in India taking into account of the lockdown period. The numbers of confirmed cases are increased in India and states in the past few weeks. A differential equation based simple model has been used to understand the pattern of COVID-19 in India and some states. Our findings suggest that the physical distancing and lockdown strategies implemented in India are successfully reducing the spread and that the tempo of pandemic growth has slowed in recent days.",
+    "author": "Gunjan Singh; Brijesh P Singh",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103325",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103325"
+    },
+    "title": "Modeling Tempo of COVID-19 Pandemic in India and Significance of Lockdown",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Relevance of enriched expression of SARS-CoV-2 binding receptor ACE2 in gastrointestinal tissue with pathogenesis of digestive symptoms, diabetes-associated mortality, and disease recurrence in COVID-19 patients",
+    "author": "Microsoft Office User",
+    "date": 2020,
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.14.040204",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.14.040204.pdf"
+    },
+    "abstract": "Introduction COVID-19, is caused by a new strain of coronavirus called SARS-coronavirus-2 (SARS-CoV-2), which is a positive sense single strand RNA virus. In humans, it binds to angiotensin converting enzyme 2 (ACE2) with the help a structure on its surface called the S-spike. COVID-19 poses intriguing issues with imperative relevance to clinicians. The pathogenesis of GI symptoms, diabetes-associated mortality, and disease recurrence in COVID-19 are of particular relevance because they cannot be sufficiently explained from the existing knowledge of the viral diseases. Tissue specific variation of ACE2 expression in healthy individuals can help in understanding the pathophysiological basis the aforementioned collection of symptoms. Materials and Methods The data were downloaded from the Human Protein Atlas available at (https://www.proteinatlas.org/search/ACE2) and the tissue specific expression (both mRNA and protein) of ACE2 as yielded from the studies with RNA sequencing and immunohistochemistry (IHC) was analyzed as a function of the various components of the digestive tract. A digestive system specific functional enrichment map of ACE2 gene was created using g:profiler (https://biit.cs.ut.ee/gprofiler/gost) utility and the data were visualized using Cytoscape software, version 3.7.2 (https://cytoscape.org/). Results The correlated expression (genomic and proteomic) of ACE2 (to which SARS-CoV-2 binds through the S-spike) was found to be enriched in the lower gastrointestinal tract (GIT) (highest in small intestine, followed by colon and rectum), and was undetectable in the upper GIT components: mouth cavity (tongue, oral mucosa, and salivary glands), esophagus, and stomach. High expression of ACE2 was noted in the glandular cells as well as in the enterocytes in the lining epithelium (including brush border epithelium). Among other digestive system organs, gallbladder (GB) showed high expression of ACE2 in glandular cells, while any protein expression was undetectable in liver and pancreas. Conclusions Based on the findings of this study and supportive evidence from the literature we propose that a SARS-CoV-2 binding with ACE2 mediates dysregulation of the sodium dependent nutrient transporters and hence may be a plausible basis for the digestive symptoms in COVID-19 patients. ACE2 mediated dysregulation of sodium dependent glucose transporter (SGLT1 or SLC5A1) in the intestinal epithelium also links it to the pathogenesis of diabetes mellitus which can be a possible reason for the associated mortality in COVID-19 patients with diabetes. High expression of ACE2 in mucosal cells of the intestine and GB make these organs potential sites for the virus entry and replication. Continued replication of the virus at these ACE2 enriched sites may be a basis for the disease recurrence reported in some, thought to be cured, patients.",
+    "keywords": [
+        "SARS-CoV2",
+        "digestive symptoms",
+        "COVID19",
+        "diabetes",
+        "recurrence",
+        "mortality",
+        "amino acid transporter",
+        "glucose transporter"
+    ],
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "There was no dedicated funding for this project."
+        }
+    ]
+}

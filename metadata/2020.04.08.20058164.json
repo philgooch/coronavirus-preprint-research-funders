@@ -1,0 +1,16 @@
+{
+    "abstract": "The SARS-CoV-2 virus, emerged from Wuhan, China is spreading all over the world in an unprecedented manner, causing millions of infections and thousands of deaths. However, the spread of the disease across countries and regions are not even. Why some countries and regions are more affected than some other countries and regions? We employ simple statistical methods to investigate any linkage between the severity of the disease and the environmental, economic, and social factors of countries. The estimation results indicate that the number of confirmed cases of Coronavirus infection is higher in countries with lower yearly average temperatures, higher economic openness, and stronger political democracy. However, findings of this analysis should be interpreted carefully keeping in mind the fact that statistical relations do not necessarily imply causation. Only clinical experiments with medical expertise can confirm how the virus behaves in the environment.",
+    "author": "Mohammad Alamgir Hossain",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20058164",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20058164"
+    },
+    "title": "Is the spread of COVID-19 across countries influenced by environmental, economic and social factors?",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was required."
+        }
+    ]
+}

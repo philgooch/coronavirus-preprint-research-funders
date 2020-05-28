@@ -1,0 +1,88 @@
+{
+    "abstract": "Background The burden and impact of healthcare-associated COVID-19 infections is unknown. We aimed to examine the utility of rapid sequencing of SARS-CoV-2 combined with detailed epidemiological analysis to investigate healthcare-associated COVID-19 infections and to inform infection control measures. Methods We set up rapid viral sequencing of SARS-CoV-2 from PCR-positive diagnostic samples using nanopore sequencing, enabling sample-to-sequence in less than 24 hours. We established a rapid review and reporting system with integration of genomic and epidemiological data to investigate suspected cases of healthcare-associated COVID-19. Results Between 13 March and 24 April 2020 we collected clinical data and samples from 5191 COVID-19 patients in the East of England. We sequenced 1000 samples, producing 747 complete viral genomes. We conducted combined epidemiological and genomic analysis of 299 patients at our hospital and identified 26 genomic clusters involving 114 patients. 66 cases (57.9%) had a strong epidemiological link and 15 cases (13.2%) had a plausible epidemiological link. These results were fed back clinical, infection control and hospital management teams, resulting in infection control interventions and informing patient safety reporting. Conclusions We established real-time genomic surveillance of SARS-CoV-2 in a UK hospital and demonstrated the benefit of combined genomic and epidemiological analysis for the investigation of healthcare-associated COVID-19 infections. This approach enabled us to detect cryptic transmission events and identify opportunities to target infection control interventions to reduce further healthcare-associated infections.",
+    "author": "Martin D Curran; Anna Yakovleva; Ashley Popay; Sushmita Sridhar; Gordon Dougan; Laura Caller; Ian Goodfellow; Grant R Hall; Elinor Moore; William L Hamilton; Myra Hosmillo; Iain Roddick; Sarah L Caddy; Sally N Forret; Theresa Feltwell; Fahad A Khokhar; M. Estee Torok; Charlotte J Houldcroft; Aminu Jahun; Theodore Gouliouris; Surendra Parmar; Sharon Peacock; Luke W Meredith; Michael p Weekes; Nicholas Brown; Ben Warne; Stephen Baker; Mark Reacher",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095687",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095687"
+    },
+    "title": "Rapid implementation of real-time SARS-CoV-2 sequencing to investigate healthcare-associated COVID-19 infections",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Medical Research Council"
+                },
+                {
+                    "funding-source": "UK Research & Innovation"
+                },
+                {
+                    "funding-source": "National Institute of Health Research"
+                },
+                {
+                    "funding-source": "NIHR"
+                },
+                {
+                    "funding-source": "Genome Research Limited,"
+                },
+                {
+                    "funding-source": "Wellcome Sanger Institute"
+                }
+            ],
+            "funding-statement": "This work was funded COG-UK, which is supported by funding from the Medical Research Council (MRC) part of UK Research & Innovation (UKRI), the National Institute of Health Research (NIHR) and Genome Research Limited, operating as the Wellcome Sanger Institute"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "207498/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Senior Fellowship",
+                    "award-id": [
+                        "207498/Z/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "ARTIC Network Collaborative Award",
+                    "award-id": [
+                        "206298/B/17/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Collaborative Award",
+                    "award-id": [
+                        "204870/Z/16/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Senior Research Fellowship",
+                    "award-id": [
+                        "215515/Z/19/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Senior Clinical Research Fellowship",
+                    "award-id": [
+                        "108070/Z/15/Z"
+                    ]
+                },
+                {
+                    "funding-source": "Academy of Medical Sciences and the Health Foundation"
+                },
+                {
+                    "funding-source": "Clinician Scientist Fellowship"
+                },
+                {
+                    "funding-source": "National Institute for Health Research Cambridge Biomedical Research Centre"
+                },
+                {
+                    "funding-source": "Cambridge University Hospitals NHS Foundation Trust"
+                }
+            ],
+            "funding-statement": "It was also supported by the Wellcome Trust (Senior Fellowship 207498/Z/17/Z and ARTIC Network Collaborative Award 206298/B/17/Z to IG, Collaborative Award 204870/Z/16/Z supporting CJH, Senior Research Fellowship to SGB 215515/Z/19/Z, Senior Clinical Research Fellowship 108070/Z/15/Z to MPW), the Academy of Medical Sciences and the Health Foundation (Clinician Scientist Fellowship to MET), and the National Institute for Health Research Cambridge Biomedical Research Centre at the Cambridge University Hospitals NHS Foundation Trust (BW, GD, MET)"
+        }
+    ]
+}

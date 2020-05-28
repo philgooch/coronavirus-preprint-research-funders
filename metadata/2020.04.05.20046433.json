@@ -1,0 +1,34 @@
+{
+    "abstract": "A novel pneumonia-associated respiratory syndrome named coronavirus disease-2019 (COVID-19), which caused by SARS-CoV-2 and broken in Wuhan, China in the end of 2019. Unfortunately, there is no specific antiviral agent or vaccine available to treat SARS-CoV-2 infections. Also, information regarding the immunological characteristics in COVID-19 patients remains limited. Here we collected the blood samples from 18 healthy donors (HD) and 38 COVID-19 patients to analyze changes in \u03b3\u03b4 T cells. In comparison to HD, the \u03b3\u03b4 T cells percentage was decreased. \u03b3\u03b4 T cells are able to immediately respond to SARS-CoV-2 infection and upregulate the activation marker CD25. In addition, the increased expression of CD4 in \u03b3\u03b4 T cells may serve as a biomarker for the assessment of SARS-CoV-2 infection.",
+    "affiliations": [
+        "Jiaotong University Foundation (xzy032020002)"
+    ],
+    "author": "Yaling Guo; Xiaofeng Yang; Jinsong Hu Hu; Lei Lei; Rui Guo; Lin Shi; Dan Zhang; Yanbin Cheng; Xiaobo Zhou; Hongbo Qian; Xingzhe Zhang; Baojun Zhang; Tongxin Dai",
+    "date": 2020,
+    "doi": "10.1101/2020.04.05.20046433",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.05.20046433"
+    },
+    "title": "The phenotypic changes of \u03b3\u03b4 T cells in COVID-19 patients",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Natural Science Foundation of China",
+                    "award-id": [
+                        "81820108017",
+                        "81771673",
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "Jiaotong University Foundation",
+                    "award-id": [
+                        "xzy032020002"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported in part by grants from Natural Science Foundation of China (NSFC, Grant No 81820108017 and 81771673) and a COVID-19 special project from Xi\u0092an Jiaotong University Foundation (xzy032020002)"
+        }
+    ]
+}

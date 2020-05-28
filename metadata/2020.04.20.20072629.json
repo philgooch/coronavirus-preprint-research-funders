@@ -1,0 +1,71 @@
+{
+    "abstract": "A major open question, affecting the policy makers decisions, is the estimation of the true size of COVID-19 infections. Most of them are undetected, because of a large number of asymptomatic cases. We provide an efficient, easy to compute and robust lower bound estimator for the number of undetected cases. A \"modified\" version of the Chao estimator is proposed, based on the cumulative time-series distribution of cases and deaths. Heterogeneity has been accounted for by assuming a geometrical distribution underlying the data generation process. An (approximated) analytical variance formula has been properly derived to compute reliable confidence intervals at 95%. An application to Austrian situation is provided and results from other European Countries are mentioned in the discussion.",
+    "author": "Dankmar Boehning; Antonello Maruotti; Heinz Holling; Irene Rocchetti",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20072629",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20072629"
+    },
+    "title": "Estimating the undetected infections in the Covid-19 outbreak by harnessing capture-recapture methods",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Author Declarations All"
+                },
+                {
+                    "funding-source": "Yes All",
+                    "award-id": [
+                        "note: if posting a prospective study registered retrospectively",
+                        "please provide a statement in the trial ID field explaining why the study was not registered in advance"
+                    ]
+                },
+                {
+                    "funding-source": "EQUATOR Network"
+                },
+                {
+                    "funding-source": "Yes All"
+                },
+                {
+                    "funding-source": "Funding Statement No"
+                },
+                {
+                    "funding-source": "Author Declarations All"
+                },
+                {
+                    "funding-source": "Yes All",
+                    "award-id": [
+                        "note: if posting a prospective study registered retrospectively",
+                        "please provide a statement in the trial ID field explaining why the study was not registered in advance"
+                    ]
+                },
+                {
+                    "funding-source": "EQUATOR Network"
+                },
+                {
+                    "funding-source": "Yes All"
+                },
+                {
+                    "funding-source": "Funding Statement No"
+                },
+                {
+                    "funding-source": "Author Declarations All"
+                },
+                {
+                    "funding-source": "Yes All",
+                    "award-id": [
+                        "note: if posting a prospective study registered retrospectively",
+                        "please provide a statement in the trial ID field explaining why the study was not registered in advance"
+                    ]
+                },
+                {
+                    "funding-source": "EQUATOR Network"
+                },
+                {
+                    "funding-source": "Yes All"
+                }
+            ],
+            "funding-statement": "No funding received. ### Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript. Yes All necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived. Yes I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance). Yes I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable. Yes All data used are publically available and the sources have been identified in the paper.\" /> \" /> ### Funding Statement No funding received. ### Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript. Yes All necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived. Yes I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance). Yes I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable. Yes All data used are publically available and the sources have been identified in the paper.\" /> ### Funding Statement No funding received. ### Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript. Yes All necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived. Yes I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance). Yes I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable. Yes All data used are publically available and the sources have been identified in the paper.\" />"
+        }
+    ]
+}

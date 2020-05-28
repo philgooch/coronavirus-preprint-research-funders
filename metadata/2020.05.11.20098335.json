@@ -1,0 +1,16 @@
+{
+    "abstract": "Motivated by the current COVID-19 epidemic, this work introduces an epidemiological model in which separate compartments are used for susceptible and asymptomatic \"socially distant\" populations. Distancing directives are represented by rates of flow into these compartments, as well as by a reduction in contacts that lessens disease transmission. The dynamical behavior of this system is analyzed, under various different rate control strategies, and the sensitivity of the basic reproduction number to various parameters is studied. One of the striking features of this model is the existence of a critical implementation delay in issuing separation mandates: while a delay of about four weeks does not have an appreciable effect, issuing mandates after this critical time results in a far greater incidence of infection. In other words, there is a nontrivial but tight \"window of opportunity\" for commencing social distancing. Different relaxation strategies are also simulated, with surprising results. Periodic relaxation policies suggest a schedule which may significantly inhibit peak infective load, but that this schedule is very sensitive to parameter values and the schedule's frequency. Further, we considered the impact of steadily reducing social distancing measures over time. We find that a too-sudden reopening of society may negate the progress achieved under initial distancing guidelines, if not carefully designed.",
+    "author": "Eduardo D Sontag; Cynthia Hixahuary Sanchez Tapia; Jana Gevertz; James Greene",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20098335",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20098335"
+    },
+    "title": "A novel COVID-19 epidemiological model with explicit susceptible and asymptomatic isolation compartments reveals unexpected consequences of timing social distancing",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this project."
+        }
+    ]
+}

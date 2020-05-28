@@ -1,0 +1,66 @@
+{
+    "title": "Self-amplifying RNA SARS-CoV-2 lipid nanoparticle vaccine induces equivalent preclinical antibody titers and viral neutralization to recovered COVID-19 patients",
+    "author": "Paul F. McKay, Kai Hu, Anna K. Blakney, Karnyart Samnuan, Cl\u00e9ment R. Bouton, Paul Rogers, Krunal Polra, Paulo J.C. Lin, Christopher Barbosa, Ying Tam, Robin J. Shattock,* 1 Department of Infectious Diseases, Imperial College London, Norfolk Place, London, United Kingdom W, 1PG 2Acuitas Therapeutics, Vancouver, British Columbia, Canada, V6T 1Z, *Corresponding author. Email: r.shattock@imperial.ac.uk",
+    "date": 2020,
+    "affiliations": [
+        "Department of Infectious Diseases, Imperial College London, Norfolk Place, London, United Kingdom W2 1PG",
+        "Acuitas Therapeutics, Vancouver, British Columbia, Canada, V6T 1Z3",
+        "Corresponding author"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.22.055608",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.22.055608.pdf"
+    },
+    "abstract": "The spread of the SARS-CoV-2 into a global pandemic within a few months of onset motivates the development of a rapidly scalable vaccine. Here, we present a self-amplifying RNA encoding the SARS-CoV-2 spike protein encapsulated within a lipid nanoparticle as a vaccine and demonstrate induction of robust neutralization of a pseudo-virus, proportional to quantity of specific IgG and of higher quantities than recovered COVID-19 patients. These data provide insight into the vaccine design and evaluation of immunogenicity to enable rapid translation to the clinic.\nMAIN The unprecedented and rapid spread of SARS-CoV-2 into a global pandemic, with the current estimated number of confirmed cases >2.2 million people,1 has motivated the need for a rapidly producible and scalable vaccine. Coronaviruses are positive-sense, single stranded RNA viruses that cause disease pathology ranging from the common cold to pneumonia.2,3 Despite being listed on the WHO blueprint priority list, there are currently no licensed vaccines for SARS or MERS.4 However, previous studies have elucidated the need to stabilize coronavirus spike proteins in their pre-fusion conformation in order to serve as a vaccine immunogen.5",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Marie Sk\u0142odowska Curie Individual Fellowship",
+                    "award-id": [
+                        "H2020"
+                    ]
+                },
+                {
+                    "funding-source": "European Commission",
+                    "award-id": [
+                        "H2020",
+                        "794059"
+                    ]
+                }
+            ],
+            "funding-statement": "AKB is supported by a Marie Sk\u0142odowska Curie Individual Fellowship funded by the European Commission H2020 (No 794059)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Department of Health and Social Care"
+                },
+                {
+                    "funding-source": "UK Aid"
+                },
+                {
+                    "funding-source": "Engineering and Physical Sciences Research Council",
+                    "award-id": [
+                        "EP/R013764/1"
+                    ]
+                },
+                {
+                    "funding-source": "Department of Health and Social Care)"
+                }
+            ],
+            "funding-statement": "PFM, KH, KS, CRB, KP, PR and RJS are funded by the Department of Health and Social Care using UK Aid funding and is managed by the Engineering and Physical Sciences Research Council (EPSRC, grant number: EP/R013764/1, note: the views expressed in this publication are those of the author(s) and not necessarily those of the Department of Health and Social Care)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIHR Biomedical Research Centre of Imperial College Healthcare NHS Trust"
+                }
+            ],
+            "funding-statement": "This work was supported in part by the NIHR Biomedical Research Centre of Imperial College Healthcare NHS Trust"
+        }
+    ]
+}

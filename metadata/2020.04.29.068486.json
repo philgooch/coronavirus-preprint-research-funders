@@ -1,0 +1,41 @@
+{
+    "title": "SARS-CoV-2 Spike S1 Receptor Binding Domain undergoes Conformational Change upon Interaction with Low Molecular Weight Heparins",
+    "date": 2020,
+    "author": "SARS-CoV-2 Spike S, Receptor Binding Domain undergoes Conformational Change upon Interaction with Low Molecular Weight Heparins",
+    "affiliations": [
+        "Structural Biosciences, School of Life Sciences, Keele University, Newcastle-Under-Lyme, Staffordshire, ST5 5BG, UK",
+        "Department of Biochemistry and Systems Biology, Institute of Systems, Molecular and Integrative Biology, University of Liverpool, Liverpool, L69 7ZB, UK",
+        "School of Medicine, Keele University, Newcastle-Under-Lyme, Staffordshire, ST5 5BG, UK",
+        "National Institute for Biological Standards and Control, Potters Bar, Hertfordshire, EN6 3QG, UK",
+        "Istituto di Ricerche Chimiche",
+        "Biochimiche G. Ronzoni, Via G. Colombo 81, 20133, Milan, Italy",
+        "School of Chemistry, Keele University, Newcastle-Under-Lyme, Staffordshire, ST5 5BG, UK",
+        "Institute of Translational Medicine, University of Liverpool, Liverpool, L69 3BX, UK",
+        "Guy Hilton Research Centre, School of Pharmacy and Bioengineering, Keele University, Hartshill, Stoke-on-"
+    ],
+    "journal": "Mycroft",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.29.068486",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.29.068486.pdf"
+    },
+    "abstract": "The dependence of the host on the interaction of hundreds of extracellular proteins with the cell surface glycosaminoglycan heparan sulphate (HS) for the regulation of homeostasis is exploited by many microbial pathogens as a means of adherence and invasion. The closely related polysaccharide heparin, the widely used anticoagulant drug, which is structurally similar to HS and is a common experimental proxy, can be expected to mimic the properties of HS. Heparin prevents infection by a range of viruses when added exogenously, including S-associated coronavirus strain HSR1 and inhibits cellular invasion by SARS-CoV-2. We have previously demonstrated that unfractionated heparin binds to the Spike (S1) protein receptor binding domain, induces a conformational change and have reported the structural features of heparin on which this interaction depends. Furthermore, we have demonstrated that enoxaparin, a low molecular weight clinical anticoagulant, also binds the S1 RBD protein and induces conformational change. Here we expand upon these studies, to a wide range of low molecular weight heparins and demonstrate that they induce a variety of conformational changes in the SARS-CoV-2 RBD. These findings may have further implications for the rapid development of a first-line therapeutic by repurposing low molecular weight heparins, as well as for nextgeneration, tailor-made, GAG-based antiviral agents, against SARS-CoV-2 and other members of the Coronaviridae.",
+    "keywords": [
+        "heparin",
+        "low molecular weight heparin",
+        "LMWH",
+        "coronavirus",
+        "SARS-CoV-2",
+        "COVID-19",
+        "nCoV-19",
+        "Spike",
+        "S1",
+        "circular dichroism",
+        "surface plasmon resonance"
+    ],
+    "funding": [
+        {}
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "abstract": "Capsid integrity quantitative PCR (qPCR), a molecular detection method for infectious viruses combining azo dye pretreatment with qPCR, has been widely used in recent years; however, variations in pretreatment conditions for various virus types can limit the efficacy of specific protocols. By identifying and critically synthesizing 42 recent peer-reviewed studies employing capsid integrity qPCR for viruses in the last decade (2009 to 2019) in the fields of food safety and environmental virology, we aimed to establish recommendations for the detection of infectious viruses. Intercalating dyes are effective measures of viability in PCR assays provided the viral capsid is damaged; viruses that have been inactivated by other causes, such as loss of attachment or genomic damage, are less well detected using this approach. Although optimizing specific protocols for each virus is recommended, we identify a framework for general assay conditions. These include concentrations of ethidium monoazide, propidium monoazide or its derivates between 10 and 200 uM; incubation on ice or at room temperature (20 to 25C) for 5 to 120 min; and dye activation using LED or high light (500 to 800 Watts) exposure for periods ranging from 5 to 20 min. These simple steps can benefit the investigation of infectious virus transmission in routine (water) monitoring settings and during viral outbreaks such as the current COVID-19 pandemic or endemic diseases like dengue fever.",
+    "affiliations": [
+        "Singapore National Research Foundation and Ministry of Education under the Research Centre of Excellence Programme"
+    ],
+    "author": "David C Shoults; Kwanrawee Sirikanchana; Emanuele Sozzi; Skorn Mongkolsuk; Stefan Wuertz; Cheng Dan; Mats Leifels",
+    "date": 2020,
+    "doi": "10.1101/2020.05.08.20095364",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20095364"
+    },
+    "title": "Capsid integrity quantitative PCR to determine virus infectivity in environmental and food applications; a systematic review",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Singapore National Research Foundation and Ministry of Education"
+                },
+                {
+                    "funding-source": "Research Centre of Excellence Programme"
+                }
+            ],
+            "funding-statement": "This research was supported by the Singapore National Research Foundation and Ministry of Education under the Research Centre of Excellence Programme"
+        }
+    ]
+}

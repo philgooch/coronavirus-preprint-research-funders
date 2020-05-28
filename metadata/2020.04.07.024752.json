@@ -1,0 +1,46 @@
+{
+    "title": "Human ACE2 receptor polymorphisms predict SARS-CoV-2 susceptibility",
+    "author": "Eric W. Stawiski, Devan Diwanji, Kushal Suryamohan, Ravi Gupta, Frederic A. Fellouse, J. Fah Sathirapongsasuti, Jiang Liu, Ying-Ping Jiang, Aakrosh Ratan, Monika Mis, Devi Santhosh, Sneha Somasekar, Sangeetha Mohan10, Sameer Phalke10, Boney Kuriakose, Aju Antony10, Jagath R. Junutula, Stephan C. Schuster, Natalia Jura,#, Somasekar Seshagiri,#",
+    "date": 2020,
+    "affiliations": [
+        "Research and Development Department, MedGenome Inc., Foster City, CA 94404, USA",
+        "Cardiovascular Research Institute, University of California San Francisco, San Francisco, CA 94158, USA",
+        "Department of Cellular and Molecular Pharmacology University of California San Francisco, San Francisco, CA 94158, USA",
+        "MedGenome Labs Ltd., 3rd Floor, Narayana Nethralaya Building, Narayana Health City, #258/A, Bommasandra, Hosur Road, Bangalore, Karnataka 560099, India",
+        "ModMab Therapeutics, Accelerator for Donnelly Collaboration, University of Toronto, Toronto, Ontario M5S 1A8, Canada",
+        "ModMab Therapeutics, 348 Hatch Drive, Foster City, CA 94404, USA",
+        "Center for Public Health Genomics, University of Virginia, Charlottesville, VA, USA",
+        "GenomeAsia100K Consortium",
+        "Midwestern University, Glendale, AZ 85308",
+        "Department of Molecular Biology, SciGenom Labs Pvt Ltd, Kerala 682037, India",
+        "AgriGenome Labs Private Ltd, Kochi, Kerala 682030, India",
+        "Singapore Centre for Environmental Life Sciences Engineering, Nanyang Technological University, Singapore, Singapore",
+        "SciGenom Research Foundation, 3rd Floor, Narayana Nethralaya Building, Narayana Health City, #258/A, Bommasandra, Hosur Road, Bangalore, Karnataka, 560099, India. * co-first author # correspondence: NJ -"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.07.024752",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.07.024752.pdf"
+    },
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the cause of coronavirus disease (COVID-19) that has resulted in a global pandemic. It is a highly contagious positive strand RNA virus and its clinical presentation includes severe to critical respiratory disease that appears to be fatal in ~3-5% of the cases. The viral spike (S) coat protein engages the human angiotensin-converting enzyme2 (ACE2) cell surface protein to invade the host cell. The SARS-CoV-2 S-protein has acquired mutations that increase its affinity to human ACE2 by ~10-15-fold compared to SARSCoV S-protein, making it highly infectious. In this study, we assessed if ACE2 polymorphisms might alter host susceptibility to SARS-CoV-2 by affecting the ACE2 Sprotein interaction. Our comprehensive analysis of several large genomic datasets that included over 290,000 samples representing >400 population groups identified multiple ACE2 protein-altering variants, some of which mapped to the S-protein-interacting ACE2 surface. Using recently reported structural data and a recent S-proteininteracting synthetic mutant map of ACE2, we have identified natural ACE2 variants that are predicted to alter the virus-host interaction and thereby potentially alter host susceptibility. In particular, human ACE2 variants S19P, I21V, E23K, K26R, T27A, N64K, T92I, Q102P and H378R are predicted to increase susceptibility. The T92I variant, part of a consensus NxS/T N-glycosylation motif, confirmed the role of N90 glycosylation in immunity from non-human CoVs. Other ACE2 variants K31R, N33I, H34R, E35K, E37K, D38V, Y50F, N51S, M62V, K68E, F72V, Y83H, G326E, G352V, D355N, Q388L and D509Y are putative protective variants predicted to show decreased binding to SARS-CoV-2 S-protein. Overall, ACE2 variants are rare, consistent with the lack of selection pressure given the recent history of SARS-CoV epidemics, however, are likely to play an important role in altering susceptibility to CoVs.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "DD was supported by an F30 fellowship"
+        },
+        {
+            "award-group": [],
+            "funding-statement": "Grant number: 1F30CA247147"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "SCELSE"
+                }
+            ],
+            "funding-statement": "AR and SCS were supported by SCELSE"
+        }
+    ]
+}

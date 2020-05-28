@@ -1,0 +1,16 @@
+{
+    "abstract": "A time-series model was developed for Number of Total Infected Cases in India, using data from Mar 3 to May 7, 2020. Two models developed in the early phases were discarded when they lost statistical validity, The third, current, model is a 3rd-degree polynomial that has remained stable over the last 30 days (since Apr 8), with R2 > 0.998 consistently. This model is used to forecast Total Covid cases, after cautionary discussion of triggers that would invalidate the model. The purpose of all forecasts in the study is to provide a comparator to evaluate policy initiatives to control the pandemic: the forecasts are not objectives by themselves. Actual observations less than forecasts mean successful policy interventions. Figures of Doubling Time, Fatality Rate and Recovery Rate used by authorities are questioned. Elongation of doubling rates is inherent in the model, and worthy of mention only when the time actually exceeds what the model predicts. The popular Fatality Rate and Recovery Rate metrics are shown to be illogical. The study defines two terms Ongoing Fatality Rate (OFR), and Ongoing Recovery Rate (ORR) and determines these currently to be ~9% and ~76% respectively in India. Over time, OFR will decline to the eventual Case Fatality Rate (CFR), while ORR will eventually climb to (1-CFR). There is no statistical basis to assume eventual Indian CFR, and 5.5% CFR at China is used as a proxy. Using these metrics, the current model forecasts by May-end, >150000 Total Infected, \u223c5000 Deaths and >85000 Active Cases. There is no pull-back evident in the current model in the foreseeable future, and cases continue to rise at progressively slower rates. Subject to usual caveats, the model is used to forecast till Sep 15. The study argues that Indian hospital infrastructure is reasonably ready to handle Active Cases as predicted for Sept 15: in that sense, the curve is FLAT ENOUGH. However, the curve is NOT flat enough with respect to fatalities: nearly 100000 by Sept 15. Setting an arbitrary limit that Total Deaths must be within 50,000 by Sept 15, the study retrofits a model that shows what the desired growth of Covid19 cases should be. It is seen that overall doubling time of 38 days is required in period June 1 to Sep 15, if deaths are to remain below 50000.",
+    "author": "Smarajit Dey",
+    "date": 2020,
+    "doi": "10.1101/2020.05.11.20097865",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.11.20097865"
+    },
+    "title": "MODELING COVID19 IN INDIA (MAR 3 - MAY 7, 2020): HOW FLAT IS FLAT, AND OTHER HARD FACTS",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding received"
+        }
+    ]
+}

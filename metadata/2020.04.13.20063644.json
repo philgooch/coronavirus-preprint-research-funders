@@ -1,0 +1,54 @@
+{
+    "abstract": "Background As governments across Europe have issued non-pharmaceutical interventions (NPIs) such as social distancing and school closing, the mobility patterns in these countries have changed. It is likely different countries and populations respond differently to the same NPIs and that these differences are reflected in the epidemic development. Methods We build a Bayesian model that estimates the number of deaths on a given day dependent on changes in the basic reproductive number, R0, due to changes in mobility patterns. We utilize mobility data from Google mobility reports using five different categories: retail and recreation, grocery and pharmacy, transit stations, workplace and residential. The importance of each mobility category for predicting changes in R0 is estimated through the model. Findings The changes in mobility have a large overlap with the introduction of governmental NPIs, highlighting the importance of government action for population behavioural change. The grocery and pharmacy sector is estimated to account for 97 % of the reduction in R0 (95% confidence interval [0\u22c579,0\u22c599]). Interpretation Our model predicts three-week epidemic forecasts, using real-time observations of changes in mobility patterns, which can provide governments with direct feedback on the effects of their NPIs. The model predicts the changes in a majority of the countries accurately but overestimates the impact of NPIs in Sweden and Denmark and underestimates them in France and Belgium. Funding Financial support: Swedish Research Council for Natural Science, grant No. VR-2016-06301 and Swedish E-science Research Center. Computational resources: Swedish National Infrastructure for Computing, grant No. SNIC-2019/3-319.",
+    "affiliations": [
+        "Swedish E-science Research Center. Computational resources: Swedish National Infrastructure for Computing, grant No. SNIC-2019/3-319"
+    ],
+    "author": "Patrick Bryant; Arne Elofsson",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20063644",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20063644"
+    },
+    "title": "Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Funding Financial"
+                },
+                {
+                    "funding-source": "Swedish Research Council for Natural Science,",
+                    "award-id": [
+                        "VR-2016-06301"
+                    ]
+                },
+                {
+                    "funding-source": "Swedish E-science Research Center"
+                }
+            ],
+            "funding-statement": "Funding Financial support: Swedish Research Council for Natural Science, grant No VR-2016-06301 and Swedish E-science Research Center"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Swedish National Infrastructure for Computing,",
+                    "award-id": [
+                        "SNIC-2019/3-319"
+                    ]
+                }
+            ],
+            "funding-statement": "Computational resources: Swedish National Infrastructure for Computing, grant No SNIC-2019/3-319"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Swedish Research Council for Natural Science",
+                    "award-id": [
+                        "VR-2016-06301"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the Swedish Research Council for Natural Science grant No VR-2016-06301 to AE"
+        }
+    ]
+}

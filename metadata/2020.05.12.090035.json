@@ -1,0 +1,35 @@
+{
+    "title": "Comparative analysis of antiviral efficacy of FDA-approved drugs against SARS-CoV-2 in human lung cells: Nafamostat is the most potent antiviral drug candidate",
+    "author": "Meehyun Ko, Sangeun Jeon, Wang-Shick Ryu, Seungtaek Kim",
+    "date": 2020,
+    "affiliations": [
+        "Zoonotic Virus Laboratory, Institut Pasteur Korea, Seongnam, Korea",
+        "CEO Office, Institut Pasteur Korea, Seongnam, Korea",
+        "Zoonotic Virus Laboratory Institut Pasteur Korea 16, Daewangpangyo-ro 712 beon-gil Bundang-gu, Seongnam-si Gyeonggi-do, 13488 South Korea Tel) 82-31-8018-8230 Fax) 82-31-8018-8014 Email)"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.12.090035",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.12.090035.pdf"
+    },
+    "abstract": "Drug repositioning represents an effective way to control the current COVID-19 pandemic. Previously, we identified 24 FDA-approved drugs which exhibited substantial antiviral effect against SARS-CoV-2 in Vero cells. Since antiviral efficacy could be altered in different cell lines, we developed an antiviral screening assay with human lung cells, which is more appropriate than Vero cell. Comparative analysis of antiviral activities revealed that nafamostat is the most potent drug in human lung cells (IC50 = 0.0022\u03bcM).",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Research Foundation of Korea"
+                },
+                {
+                    "funding-source": "Korean government",
+                    "award-id": [
+                        "NRF-2017M3A9G6068245",
+                        "NRF-2020M3E9A1041756"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korean government (MSIT) (NRF-2017M3A9G6068245 and NRF-2020M3E9A1041756)"
+        }
+    ]
+}

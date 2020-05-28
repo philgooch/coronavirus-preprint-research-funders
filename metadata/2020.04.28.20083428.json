@@ -1,0 +1,30 @@
+{
+    "abstract": "A simplified model of Covid-19 epidemic dynamics under quarantine conditions and method to estimate quarantine effectiveness are developed. The model is based on the growth rate of new infections when total number of infections is significantly smaller than population size of infected country or region. The model is developed on the basis of collected epidemiological data of Covid19 pandemic, which shows that the growth rate of new infections has tendency to decrease linearly when the quarantine is imposed in a country (or a region) until it reaches constant value, which corresponds to the effectiveness of quarantine measures taken in the country. The growth rate of new infections can be used as criteria to estimate quarantine effectiveness.",
+    "author": "Algis Dziugys; Robertas Navakas; Martynas Bieliunas; Gediminas Skarbalius; Edgaras Misiulis",
+    "date": 2020,
+    "doi": "10.1101/2020.04.28.20083428",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.28.20083428"
+    },
+    "title": "Simplified model of Covid-19 epidemic prognosis under quarantine and estimation of quarantine effectiveness",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Research Council of Lithuania",
+                    "award-id": [
+                        "P-MIP-17-108"
+                    ]
+                },
+                {
+                    "funding-source": "Agreement No",
+                    "award-id": [
+                        "S-MIP-17-69",
+                        "2017-2020"
+                    ]
+                }
+            ],
+            "funding-statement": "This research is funded by the Research Council of Lithuania under the project P-MIP-17-108 \"ComDetect\" (Agreement No S-MIP-17-69), 2017-2020"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "abstract": "Background The first COVID-19 case in Kenya was confirmed on March 13th, 2020. Here, we provide forecasts for the potential incidence rate, and magnitude, of a COVID-19 epidemic in Kenya based on the observed growth rate and age distribution of confirmed COVID-19 cases observed in China, whilst accounting for the demographic and geographic dissimilarities between China and Kenya. Methods We developed a modelling framework to simulate SARS-CoV-2 transmission in Kenya, KenyaCoV. KenyaCoV was used to simulate SARS-CoV-2 transmission both within, and between, different Kenyan regions and age groups. KenyaCoV was parameterized using a combination of human mobility data between the defined regions, the recent 2019 Kenyan census, and estimates of age group social interaction rates specific to Kenya. Key epidemiological characteristics such as the basic reproductive number and the age-specific rate of developing COVID-19 symptoms after infection with SARS-CoV-2, were adapted for the Kenyan setting from a combination of published estimates and analysis of the age distribution of cases observed in the Chinese outbreak. Results We find that if person-to-person transmission becomes established within Kenya, identifying the role of subclinical, and therefore largely undetected, infected individuals is critical to predicting and containing a very significant epidemic. Depending on the transmission scenario our reproductive number estimates for Kenya range from 1.78 (95% CI 1.44 - 2.14) to 3.46 (95% CI 2.81-4.17). In scenarios where asymptomatic infected individuals are transmitting significantly, we expect a rapidly growing epidemic which cannot be contained only by case isolation. In these scenarios, there is potential for a very high percentage of the population becoming infected (median estimates: >80% over six months), and a significant epidemic of symptomatic COVID-19 cases. Exceptional social distancing measures can slow transmission, flattening the epidemic curve, but the risk of epidemic rebound after lifting restrictions is predicted to be high.",
+    "affiliations": [
+        "National Institute for Health Research (NIHR) (project reference 17/63/82) using UK aid from the UK Government to support global health research; Wellcome Trust (Grant 102975) and"
+    ],
+    "author": "Rabia Aziza; Kat S Rock; Andrea Parisi; Ivy K Kombe; Matt Keeling; Samuel P C Brand; D James Nokes; Edwine Barasa; Charles N Agoti; Joe Hilton",
+    "date": 2020,
+    "doi": "10.1101/2020.04.09.20059865",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.09.20059865"
+    },
+    "title": "Forecasting the scale of the COVID-19 epidemic in Kenya",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research",
+                    "award-id": [
+                        "17/63/8"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR",
+                    "award-id": [
+                        "project reference 17/63/82"
+                    ]
+                },
+                {
+                    "funding-source": "UK Government"
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "102975"
+                    ]
+                },
+                {
+                    "funding-source": "Wellcome Trust"
+                },
+                {
+                    "funding-source": "KEMRI-Wellcome Trust Research Programme",
+                    "award-id": [
+                        "203077"
+                    ]
+                }
+            ],
+            "funding-statement": "This research was funded by: the National Institute for Health Research (NIHR) (project reference 17/63/82) using UK aid from the UK Government to support global health research; Wellcome Trust (Grant 102975) and a Wellcome Trust core award grant to KEMRI-Wellcome Trust Research Programme (number 203077)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Develop African Research Leaders"
+                },
+                {
+                    "funding-source": "DELTAS Africa Initiative",
+                    "award-id": [
+                        "DEL-15-003"
+                    ]
+                }
+            ],
+            "funding-statement": "Kombe were supported by the Initiative to Develop African Research Leaders (IDeAL)through the DELTAS Africa Initiative [DEL-15-003]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The DELTAS Africa Initiative"
+                },
+                {
+                    "funding-source": "African Academy of Sciences"
+                },
+                {
+                    "funding-source": "Alliance for Accelerating Excellence in Science in Africa"
+                },
+                {
+                    "funding-source": "New Partnership for"
+                },
+                {
+                    "funding-source": "Development Planning and Coordinating Agency",
+                    "award-id": [
+                        "NEPAD Agency"
+                    ]
+                },
+                {
+                    "funding-source": "NEPAD Agency)"
+                },
+                {
+                    "funding-source": "Wellcome Trust",
+                    "award-id": [
+                        "107769/Z/10/Z"
+                    ]
+                },
+                {
+                    "funding-source": "UK government"
+                }
+            ],
+            "funding-statement": "The DELTAS Africa Initiative is an independent funding scheme of the African Academy of Sciences (AAS)\u0092s Alliance for Accelerating Excellence in Science in Africa (AESA) and supported by the New Partnership for Africa\u0092s Development Planning and Coordinating Agency (NEPAD Agency) with funding from the Wellcome Trust [107769/Z/10/Z] and the UK government"
+        }
+    ]
+}

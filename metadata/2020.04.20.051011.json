@@ -1,0 +1,25 @@
+{
+    "title": "1 Limited SARS-CoV-2 diversity within hosts and following 2 passage in cell culture",
+    "author": "41 Author Summary",
+    "date": 2020,
+    "affiliations": [
+        "Department of Pathology and Laboratory Medicine, University of Wisconsin-Madison, Madison, 13 WI, United States of America 14",
+        "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, WI",
+        "United States of America 16",
+        "Wisconsin State Laboratory of Hygiene, Madison, WI, United States of America 17",
+        "Influenza Research Institute, School of Veterinary Sciences, University of Wisconsin-Madison",
+        "Madison, WI, United States 19",
+        "Wisconsin National Primate Research Center, University of Wisconsin-Madison, Madison, WI, 20 United States of America"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.20.051011",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.20.051011.pdf"
+    },
+    "abstract": "Since the first reports of pneumonia associated with a novel coronavirus (COVID-19) emerged in Wuhan, Hubei province, China, there have been considerable efforts to sequence the causative virus, SARS-CoV-2 (also referred to as hCoV-19) and to make viral genomic information available quickly on shared repositories. As of 30 March 2020, 7,680 consensus sequences have been shared on GISAID, the principal repository for SARS-CoV-2 genetic information. These sequences are primarily consensus sequences from clinical and passaged samples, but few reports have looked at diversity of virus populations within individual hosts or cultures. Understanding such diversity is essential to understanding viral evolutionary dynamics. Here, we characterize within-host viral diversity from a primary isolate and passaged samples, all originally deriving from an individual returning from Wuhan, China, who was diagnosed with COVID-19 and subsequently sampled in Wisconsin, United States. We use a metagenomic approach with Oxford Nanopore Technologies (ONT) GridION in combination with Illumina MiSeq to capture minor within-host frequency variants \u22651%. In a clinical swab obtained from the day of hospital presentation, we identify 15 single nucleotide variants (SNVs) \u22651% frequency, primarily located in the largest gene \u2013 ORF1a. While viral diversity is low overall, the dominant genetic signatures are likely secondary to population size changes, with some evidence for mild purifying selection throughout the genome. We see little to no evidence for positive selection or ongoing adaptation of SARS-CoV-2 within cell culture or in the primary isolate evaluated in this study.",
+    "funding": [
+        {}
+    ]
+}

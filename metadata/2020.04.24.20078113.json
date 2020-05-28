@@ -1,0 +1,16 @@
+{
+    "abstract": "In the context of the COVID-19 pandemic, governments worldwide face the challenge of designing tailored measures of epidemic control to provide reliable health protection while allowing more societal and economic activity. In this paper, we propose an extension of the epidemiological SEIR model to enable a detailed analysis of commonly discussed tailored measures of epidemic control - among them group-specific protection and the use of tracing apps. We introduce groups into the SEIR model that may differ both, in their underlying parameters as well as in their behavioral response to public health interventions. We allow for different infectiousness parameters within and across groups, different asymptomatic, hospitalization, and lethality rates, as well as different take-up rates of tracing apps. Our results visualize the sharp trade-offs between different goals of epidemic control, namely a low death toll, avoiding overload of the health system, and a short duration of the epidemic. We show that a combination of tailored mechanisms, e.g., the protection of vulnerable groups together with a \u201ctrace & isolate\u201d approach, can be effective in preventing a high death toll. Protection of vulnerable groups without further measures requires unrealistically strict isolation. A key insight is that high compliance is critical for the effectiveness of a \u201ctrace & isolate\u201d approach. Our model allows to analyze the interplay of group-specific social distancing and tracing also beyond our case study in scenarios with a large number of groups reflecting, e.g., sectoral, regional, or age differentiation and group-specific take-up rates for tracing apps.",
+    "author": "Veronika Grimm; Martin Schmidt; Friederike Mengel",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078113",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078113"
+    },
+    "title": "Extensions of the SEIR Model for the Analysis of Tailored Social Distancing and Tracing Approaches to Cope with COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was explicitly received for any aspect of the submitted work."
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Genomic determinants of pathogenicity in SARS-CoV-2 and other human coronaviruses",
+    "author": "Ayal B. Gussow, Noam Auslander,#, Guilhem Faure, Yuri I. Wolf, Feng Zhang, Eugene V. Koonin,# 1National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, MD 20894, USA 2Broad Institute of MIT and Harvard, Cambridge, MA, USA * These authors contributed equally #For correspondence: koonin@ncbi.nlm.nih.gov; noam.auslander@nih.gov",
+    "date": 2020,
+    "affiliations": [
+        "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, MD 20894, USA",
+        "Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+        "These authors contributed equally #For correspondence:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.05.026450",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.05.026450.pdf"
+    },
+    "abstract": "SARS-CoV-2 poses an immediate, major threat to public health across the globe. Here we report an indepth molecular analysis to reconstruct the evolutionary origins of the enhanced pathogenicity of SARSCoV-2 and other coronaviruses that are severe human pathogens. Using integrated comparative genomics and machine learning techniques, we identify key genomic features that differentiate SARSCoV-2 and the viruses behind the two previous deadly coronavirus outbreaks, SARS-CoV and MERS-CoV, from less pathogenic coronaviruses. These features include enhancement of the nuclear localization signals in the nucleocapsid protein and distinct inserts in the spike glycoprotein that appear to be associated with high case fatality rate of these coronaviruses as well as the host switch from animals to humans. The identified features could be crucial elements of coronavirus pathogenicity and possible targets for diagnostics, prognostication and interventions.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Intramural Research Program of the National Library of Medicine"
+                },
+                {
+                    "funding-source": "NIH"
+                }
+            ],
+            "funding-statement": "This research was supported by the Intramural Research Program of the National Library of Medicine at the NIH"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "title": "Structural Basis for the Inhibition of the RNA-Dependent RNA Polymerase from SARS-CoV-2 by Remdesivir",
+    "author": "Zhou, Edward",
+    "date": 2020,
+    "affiliations": [
+        "The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China",
+        "Department of Biophysics, and Department of Pathology of Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou 310058, China",
+        "School of Medicine, Tsinghua University, Haidian District, Beijing, China",
+        "Department of Cardiology, Peking Union Medical College Hospital, Peking Union Medical College and Chinese Academy of Medical Sciences, Beijing, China",
+        "Tsinghua-Peking Center for Life Sciences, Tsinghua University, Beijing, China",
+        "University of Chinese Academy of Sciences, Beijing 100049, China",
+        "Wuxi Biortus Biosciences Co. Ltd",
+        "Dongsheng West Road, Jiangyin 214437, China",
+        "Center of Cryo-Electron Microscopy, Zhejiang University School of Medicine, Hangzhou 310058, China",
+        "Center of Diagnostic Electron Microscopy, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou 310058, China",
+        "Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Jiao Tong University, Shanghai 200240, China",
+        "Key Laboratory of Immunity and Inflammatory Diseases of Zhejiang Province, Hangzhou 310058, China"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.08.032763",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.08.032763.pdf"
+    },
+    "abstract": "The pandemic of Corona Virus Disease 2019 (COVID-19) caused by SARS-CoV-2 has become a global crisis. The replication of SARS-CoV-2 requires the viral RNA-dependent RNA polymerase (RdRp), a direct target of the antiviral drug, Remdesivir. Here we report the structure of the SARS-CoV-2 RdRp either in the apo form or in complex with a 50base template-primer RNA and Remdesivir at a resolution range of 2.5-2.8 \u00c5. The complex structure reveals that the partial double-stranded RNA template is inserted into the central channel of the RdRp where Remdesivir is incorporated into the first replicated base pair and terminates the chain elongation. Our structures provide critical insights into the working mechanism of viral RNA replication and a rational template for drug design to combat the viral infection.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Shanghai Municipal Science and Technology Major Project",
+                    "award-id": [
+                        "2019SHZDZX02",
+                        "XDB08020303"
+                    ]
+                },
+                {
+                    "funding-source": "Zhejiang University",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "funding-source": "National Science Foundation of China",
+                    "award-id": [
+                        "81922071"
+                    ]
+                },
+                {
+                    "funding-source": "Science and Technology Commission of Shanghai Municipality",
+                    "award-id": [
+                        "20431900100"
+                    ]
+                },
+                {
+                    "funding-source": "Jack Ma Foundation",
+                    "award-id": [
+                        "2020-CMKYGG-05"
+                    ]
+                },
+                {
+                    "funding-source": "CAMS Innovation Fund for"
+                },
+                {
+                    "funding-source": "National Science and Technology Major Project for New Drugs",
+                    "award-id": [
+                        "2019ZX09734001-002"
+                    ]
+                },
+                {
+                    "funding-source": "Tsinghua University-Peking University Center for Life Sciences",
+                    "award-id": [
+                        "045-160321001"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was partially supported by Shanghai Municipal Science and Technology Major Project 2019SHZDZX02 and XDB08020303 to H.E.X.; Zhejiang University special scientific research fund for COVID-19 prevention and control E33 and the National Science Foundation of China 81922071 to Y.Z.; Science and Technology Commission of Shanghai Municipality 20431900100 and Jack Ma Foundation 2020-CMKYGG-05 to H.J. and J.S.; CAMS Innovation Fund for \"13th Five-Year\" National Science and Technology Major Project for New Drugs 2019ZX09734001-002 and Tsinghua University-Peking University Center for Life Sciences 045-160321001 to S"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Key Research and Development Program of China Grant",
+                    "award-id": [
+                        "2016YFA0500600"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China",
+                    "award-id": [
+                        "31970130",
+                        "3167083"
+                    ]
+                },
+                {
+                    "funding-source": "National Key R&D Program of China",
+                    "award-id": [
+                        "2016YFA050230"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation",
+                    "award-id": [
+                        "31770796"
+                    ]
+                },
+                {
+                    "funding-source": "National Science and Technology Major Project",
+                    "award-id": [
+                        "2018ZX09711002"
+                    ]
+                }
+            ],
+            "funding-statement": "Z.; National Key Research and Development Program of China Grant 2016YFA0500600 and National Natural Science Foundation of China 31970130 and 3167083 to S.T.; and the National Key R&D Program of China 2016YFA050230 to Y.X; the National Natural Science Foundation 31770796 and the National Science and Technology Major Project 2018ZX09711002 to Y.J"
+        }
+    ]
+}

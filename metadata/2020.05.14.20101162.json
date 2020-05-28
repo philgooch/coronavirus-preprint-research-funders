@@ -1,0 +1,35 @@
+{
+    "abstract": "We estimated time-varying reproduction numbers of COVID-19 transmission in counties and regions of California and in states of the United States, using the Wallinga-Teunis method of estimations applied to publicly available data. The serial interval distribution assumed incorporates wide uncertainty in delays from symptom onset to case reporting. This assumption contributes smoothing and a small but meaningful increase in numerical estimates of reproduction numbers due to the likely existence of secondary cases not yet reported. Transmission in many areas of the U.S. may not yet be controlled, including areas in which case counts appear to be stable or slowly declining.",
+    "affiliations": [
+        "University of California, San Francisco"
+    ],
+    "author": "Jennifer C. Kwan; Travis C. Porco; Lee Worden; Eugene T. Richardson; Rae Wannier; Alex Y. Ge; Micaela Neus",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20101162",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20101162"
+    },
+    "title": "Estimation of COVID-19 transmission rates in California and the U.S. with reporting delays",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "GM130900-01A1"
+                    ]
+                },
+                {
+                    "funding-source": "NIGMS",
+                    "award-id": [
+                        "GM130900-01A1"
+                    ]
+                },
+                {
+                    "funding-source": "University of California, San"
+                }
+            ],
+            "funding-statement": "LW and TCP are funded by NIH/NIGMS grant R01 GM130900-01A1 to the University of California, San Francisco"
+        }
+    ]
+}

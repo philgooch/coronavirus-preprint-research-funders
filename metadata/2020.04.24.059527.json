@@ -1,0 +1,44 @@
+{
+    "title": "A transcriptional regulatory atlas of coronavirus infection of 2 human cells",
+    "author": "Scott A Ochsner & Neil J McKenna",
+    "date": 2020,
+    "affiliations": [
+        "Pathways Project and Department of Molecular and",
+        "Cellular Biology, Baylor College of Medicine, Houston, TX 77030",
+        "Department of Molecular and Cellular Biology",
+        "Baylor College of Medicine"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.24.059527",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.24.059527.pdf"
+    },
+    "abstract": "Identifying transcriptional responses that are most consistently associated with experimental coronavirus (CoV) infection can help illuminate human cellular signaling pathways impacted by CoV infection. Here, we distilled over 3,000,000 data points from publically archived CoV infection transcriptomic datasets into consensus regulatory signatures, or consensomes, that rank genes based on their transcriptional responsiveness to infection of human cells by MERS, SARS-CoV-1 and SARS-CoV-2 subtypes. We computed overlap between genes with elevated rankings in the CoV consensomes against those from transcriptomic and ChIP-Seq consensomes for nearly 880 cellular signaling pathway nodes. Validating the CoV infection consensomes, we identified robust overlap between their highly ranked genes and high confidence targets of signaling pathway nodes with known roles in CoV infection. We then developed a series of use cases that illustrate the utility of the CoV consensomes for hypothesis generation around mechanistic aspects of the cellular response to CoV infection. We make the CoV infection datasets and their universe of underlying data points freely accessible through the Signaling Pathways Project web knowledgebase at https://www.signalingpathways.org/datasets/index.jsf.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute of Diabetes, Digestive"
+                },
+                {
+                    "funding-source": "Kidney Diseases NIDDK Information Network",
+                    "award-id": [
+                        "DK097748"
+                    ]
+                },
+                {
+                    "funding-source": "National Cancer Institute",
+                    "award-id": [
+                        "CA125123"
+                    ]
+                },
+                {
+                    "funding-source": "Brockman Medical Research Foundation"
+                }
+            ],
+            "funding-statement": "This work was supported by the National Institute of Diabetes, Digestive and Kidney Diseases NIDDK Information Network U24 (DK097748), the National Cancer Institute (CA125123) and by the Brockman Medical Research Foundation"
+        }
+    ]
+}

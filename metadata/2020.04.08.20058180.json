@@ -1,0 +1,16 @@
+{
+    "abstract": "Objective: Describe the changes in patient population, bed occupancy, severity of illness and ventilator requirements across a large health system in the greater New York City area during the pandemic response in comparison with the 2019 baseline. Design: Observational, descriptive study of ICUs monitored by a tele-ICU system across Northwell Health. Inclusion criteria: All patients admitted to Northwell Health tele-ICUs during 2019 and between March 23, 2020 and April 6, 2020. Exposure: A data extract was developed to collect data every hour for each ICU bed in the Northwell tele-critical care program as a quality reporting initiative to understand ICU capacity and resource utilization. A similar extract was developed for each hour of 2019. Main Outcomes and Measures: Average of any given hour during the pre-COVID-19 and pandemic periods for the following metrics: proportion of beds occupied, proportion of ventilated patients, severity of illness (measured by the ICU Discharge Readiness Score (DRS)), and length of stay (LOS). Results: Hourly analysis of data from 186 ICU beds from 14 ICUs and 9 hospitals were included, representing 10,714 patients in 2019 and 465 patients between March 23 and April 6, 2020. Average hourly occupancy increased from 64% to 78%, while the proportion of patients invasively ventilated increased from 33.9% to 84.2%. Median DRS (severity of illness score) increased from 1.08 (IQR: 0.24-6.98) to 39.38 (IQR: 12.00-71.28). Proportion of patients with Hispanic ethnicity doubled (7.8% to 16.6%; p<0.01) and proportion of female patients decreased from 46.3% to 32.9% (p<0.01). Conclusions and Relevance: In addition to the expected increase in ICU occupancy and ventilator requirements, this large group of ICUs in midst of the COVID-19 epidemic are faced with managing a cohort of ICU patients with a dramatically higher severity of illness than their typical census.",
+    "author": "Omar Badawi; Pamela J Amelung; Martin Doerfler; Saurabh Chandra; Iris Berman; Xinggang Liu",
+    "date": 2020,
+    "doi": "10.1101/2020.04.08.20058180",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.08.20058180"
+    },
+    "title": "Impact of COVID-19 pandemic on severity of illness and resources required during intensive care in the greater New York City area",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding received for this report."
+        }
+    ]
+}

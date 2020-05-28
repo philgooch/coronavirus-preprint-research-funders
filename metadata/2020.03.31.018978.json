@@ -1,0 +1,74 @@
+{
+    "title": "A SARS-CoV-2 Vaccination Strategy Focused on Population-Scale Immunity",
+    "author": "Mark Yarmarkovich, John M. Warrington, Alvin Farrel, John M. Maris",
+    "date": 2020,
+    "affiliations": [
+        "Oncology and Center for Childhood Cancer Research; Children\u2019s Hospital of",
+        "Department of Biomedical and Health Informatics, Children\u2019s Hospital of Philadelphia; Philadelphia, PA, 19104",
+        "School of Medicine at the University of Pennsylvania; Philadelphia, PA, 19104",
+        "Hospital of Philadelphia Colket Translational Research Building, Rm. 3030 3501 Civic Center Blvd. Philadelphia, PA, 19104 215-590-5242"
+    ],
+    "journal": "Williams",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.31.018978",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.31.018978.pdf"
+    },
+    "abstract": "Here we propose a vaccination strategy for SARS-CoV-2 based on identification of both highly conserved regions of the virus and newly acquired adaptations that are presented by MHC class I and II across the vast majority of the population, are highly dissimilar from the human proteome, and are predicted B cell epitopes. We present 65 peptide sequences that we expect to result in a safe and effective vaccine which can be rapidly tested in DNA, mRNA, or synthetic peptide constructs. These include epitopes that are contained within evolutionarily divergent regions of the spike protein reported to increase infectivity through increased binding to the ACE2 receptor, and within a novel furin cleavage site thought to increase membrane fusion. This vaccination strategy specifically targets unique vulnerabilities of SARS-CoV-2 and should engage a robust adaptive immune response in the vast majority of the human population.",
+    "keywords": [
+        "COVID19",
+        "SARS-CoV-2",
+        "coronavirus",
+        "vaccine",
+        "DNA vaccine",
+        "RNA vaccine"
+    ],
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This work was supported by a St"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Stand Up To Cancer Pediatric Dream Team Translational Research Grant",
+                    "award-id": [
+                        "SU2C-AACR-DT2727"
+                    ]
+                },
+                {
+                    "funding-source": "Beau Biden Cancer Moonshot Pediatric Immunotherapy Discovery and Development Networ",
+                    "award-id": [
+                        "NCI U54 CA232568"
+                    ]
+                },
+                {
+                    "funding-source": "NCI Grant",
+                    "award-id": [
+                        "CA232568"
+                    ]
+                }
+            ],
+            "funding-statement": "Baldrick\u2019s-Stand Up To Cancer Pediatric Dream Team Translational Research Grant (SU2C-AACR-DT2727) and the Beau Biden Cancer Moonshot Pediatric Immunotherapy Discovery and Development Networ (NCI Grant U54 CA232568)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "CA220500"
+                    ]
+                },
+                {
+                    "funding-source": "Angio Endowed Chair and the Quod Erat Demonstrandum"
+                },
+                {
+                    "funding-source": "Science Center in Philadelphia"
+                }
+            ],
+            "funding-statement": "This work was also supported by NIH R35 CA220500 and the Giulio D\u2019Angio Endowed Chair and the Quod Erat Demonstrandum (QED) program at the Science Center in Philadelphia"
+        }
+    ]
+}

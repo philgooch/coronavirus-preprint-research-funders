@@ -1,0 +1,16 @@
+{
+    "abstract": "Object The COVID-19 outbreak emerged in late 2019 in China, expanding rapidly thereafter. Even in Japan, epidemiological linkage of transmission was probably lost already by February 18, 2020. From that time, it has been necessary to detect clusters using syndromic surveillance. Method We identified common symptoms of COVID-19 as fever and respiratory symptoms. Therefore, we constructed a model to predict the number of patients with antipyretic analgesics (AP) and multi-ingredient cold medications (MIC) controlling well-known pediatric infectious diseases including influenza or RS virus infection. To do so, we used the National Official Sentinel Surveillance for Infectious Diseases (NOSSID), even though NOSSID data are weekly data with 10 day delays, on average. The probability of a cluster with unknown febrile disease with respiratory symptoms is a product of the probabilities of aberrations in AP and MIC, which is defined as one minus the probability of the number of patients prescribed a certain type of drug in PS compared to the number predicted using a model. This analysis was conducted prospectively in 2020 using data from October 1, 2010 through 2019 by prefecture and by age-class. Results The probability of unknown febrile disease with respiratory symptom cluster was estimated as less than 60% in 2020. Discussion The most severe limitation of the present study is that the proposed model cannot be validated. A large outbreak of an unknown febrile disease with respiratory symptoms must be experienced, at which time, practitioners will have to wing it. We expect that no actual cluster of unknown febrile disease with respiratory symptoms will occur, but if it should occur, we hope to detect it.",
+    "author": "Tamie Sugawara; Junko Kurita; Yoshiyuki Sugishita; Miwako Kamei; Tomoaki Ueno; Hirokazu Kawanohara; Yasushi Ohkusa",
+    "date": 2020,
+    "doi": "10.1101/2020.04.11.20061697",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.11.20061697"
+    },
+    "title": "Surveillance by age-class and prefecture for emerging infectious febrile diseases with respiratory symptoms, including COVID\u221219",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The author(s) received no specific funding for this work."
+        }
+    ]
+}

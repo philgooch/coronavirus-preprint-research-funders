@@ -1,0 +1,35 @@
+{
+    "abstract": "Several outbreak prediction models for COVID-19 are being used by officials around the world to make informed-decisions and enforce relevant control measures. Among the standard models for COVID-19 global pandemic prediction, simple epidemiological and statistical models have received more attention by authorities, and they are popular in the media. Due to a high level of uncertainty and lack of essential data, standard models have shown low accuracy for long-term prediction. Although the literature includes several attempts to address this issue, the essential generalization and robustness abilities of existing models needs to be improved. This paper presents a comparative analysis of machine learning and soft computing models to predict the COVID-19 outbreak. Among a wide range of machine learning models investigated, two models showed promising results (i.e., multi-layered perceptron, MLP, and adaptive network-based fuzzy inference system, ANFIS). Based on the results reported here, and due to the highly complex nature of the COVID-19 outbreak and variation in its behavior from nation-to-nation, this study suggests machine learning as an effective tool to model the outbreak.",
+    "affiliations": [
+        "Selye University in the field of Digital Slovakia and creative industry\u0094 of the Research and Innovation Operational Programme (ITMS code:NFP313010T504) co-funded by the European Regional Development Fund"
+    ],
+    "author": "Annamaria R. Varkonyi-Koczy; Sina F. Ardabili; Timon Rabczuk; Amir MOSAVI; Filip Ferdinand; Peter M. Atkinson; Uwe Reuter; Pedram Ghamisi",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20070094",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20070094"
+    },
+    "title": "COVID-19 Outbreak Prediction with Machine Learning",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Selye University in the"
+                },
+                {
+                    "funding-source": "Digital Slovakia and"
+                },
+                {
+                    "funding-source": "Research and Innovation Operational Programme",
+                    "award-id": [
+                        "ITMS code:NFP313010T504"
+                    ]
+                },
+                {
+                    "funding-source": "European Regional Development Fund."
+                }
+            ],
+            "funding-statement": "This research is supported within the project of \u0093Support of research and development activities of the J. Selye University in the field of Digital Slovakia and creative industry\u0094 of the Research and Innovation Operational Programme (ITMS code:NFP313010T504) co-funded by the European Regional Development Fund."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "title": "SARS-CoV-2 activates lung epithelia cell proinflammatory signaling and leads to immune dysregulation in COVID-19 patients by single-cell sequencing",
+    "author": "Huarong Chen, Weixin Liu, Dabin Liu, Liuyang Zhao, Jun Yu,#",
+    "date": 2020,
+    "affiliations": [
+        "Institute of Digestive Disease and Department of Medicine and Therapeutics, State Key laboratory of Digestive Disease, Li Ka Shing Institute of Health Sciences, CUHK Shenzhen Research Institute, The Chinese University of Hong Kong, Hong Kong",
+        "Professor Jun Yu, Institute of Digestive Disease and Department of Medicine and Therapeutics, Prince of Wales Hospital, The Chinese University of Hong Kong, Hong Kong. Tel: (852) 37636099; Fax: (852) 21445330",
+        "Shenzhen Virtual University Park Support Scheme to CUHK Shenzhen Research Institute"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.08.20096024",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.08.20096024.pdf"
+    },
+    "abstract": "Objective: The outbreak of Coronavirus disease 2019 (COVID-19) caused by SARS-CoV-2 infection has become a global health emergency. We aim to decipher SARS-CoV-2 infected cell types, the consequent host immune response and their interplay in the lung of COVID-19 patients.\nDesign: We analyzed single-cell RNA sequencing (scRNA-seq) data of lung samples from 17 subjects (6 severe COVID-19 patients, 3 mild patients who recovered and 8 healthy controls). The expression of SARS-CoV-2 receptors (ACE2 and TMPRSS2) was examined among different cell types in the lung. The immune cells infiltration patterns, their gene expression profiles, and the interplay of immune cells and SARS-CoV-2 target cells were further investigated.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Science and Technology Program Grant Shenzhen",
+                    "award-id": [
+                        "JCYJ20170413161534162"
+                    ]
+                },
+                {
+                    "funding-source": "HMRF Hong Kong",
+                    "award-id": [
+                        "17160862"
+                    ]
+                },
+                {
+                    "funding-source": "RGC-CRF Hong Kong",
+                    "award-id": [
+                        "C4039-19G"
+                    ]
+                },
+                {
+                    "funding-source": "RGC-GRF Hong Kong",
+                    "award-id": [
+                        "14163817"
+                    ]
+                },
+                {
+                    "funding-source": "Vice-Chancellor's Discretionary Fund CUHK and CUHK"
+                },
+                {
+                    "funding-source": "Shenzhen Virtual University Park Support Scheme"
+                },
+                {
+                    "funding-source": "CUHK Shenzhen Research Institute"
+                }
+            ],
+            "funding-statement": "Grant Support: This project was supported by Science and Technology Program Grant Shenzhen (JCYJ20170413161534162), HMRF Hong Kong (17160862), RGC-CRF Hong Kong (C4039-19G), RGC-GRF Hong Kong (14163817), Vice-Chancellor's Discretionary Fund CUHK and CUHK direct grant, Shenzhen Virtual University Park Support Scheme to CUHK Shenzhen Research Institute"
+        }
+    ]
+}

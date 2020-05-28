@@ -1,0 +1,34 @@
+{
+    "abstract": "Importance: Case series without control groups suggest that Covid-19 may cause ischemic stroke, but whether Covid-19 is associated with a higher risk of ischemic stroke than would be expected from a viral respiratory infection is uncertain. Objective: To compare the rate of ischemic stroke between patients with Covid-19 and patients with influenza, a respiratory viral illness previously linked to stroke. Design: A retrospective cohort study. Setting: Two academic hospitals in New York City. Participants: We included adult patients with emergency department visits or hospitalizations with Covid-19 from March 4, 2020 through May 2, 2020. Our comparison cohort included adult patients with emergency department visits or hospitalizations with influenza A or B from January 1, 2016 through May 31, 2018 (calendar years spanning moderate and severe influenza seasons). Exposures: Covid-19 infection confirmed by evidence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in the nasopharynx by polymerase chain reaction, and laboratory-confirmed influenza A or B. Main Outcomes and Measures: A panel of neurologists adjudicated the primary outcome of acute ischemic stroke and its clinical characteristics, etiological mechanisms, and outcomes. We used logistic regression to compare the proportion of Covid-19 patients with ischemic stroke versus the proportion among patients with influenza. Results: Among 2,132 patients with emergency department visits or hospitalizations with Covid-19, 31 patients (1.5%; 95% confidence interval [CI], 1.0%-2.1%) had an acute ischemic stroke. The median age of patients with stroke was 69 years (interquartile range, 66-78) and 58% were men. Stroke was the reason for hospital presentation in 8 (26%) cases. For our comparison cohort, we identified 1,516 patients with influenza, of whom 0.2% (95% CI, 0.0-0.6%) had an acute ischemic stroke. After adjustment for age, sex, and race, the likelihood of stroke was significantly higher with Covid-19 than with influenza infection (odds ratio, 7.5; 95% CI, 2.3-24.9). Conclusions and Relevance: Approximately 1.5% of patients with emergency department visits or hospitalizations with Covid-19 experienced ischemic stroke, a rate 7.5-fold higher than in patients with influenza. Future studies should investigate the thrombotic mechanisms in Covid-19 in order to determine optimal strategies to prevent disabling complications like ischemic stroke.",
+    "affiliations": [
+        "National Institutes of Health grants K23NS091395, R01HL144541, and UL1TR000457, as well as support from NewYork-Presbyterian Hospital and Weill Cornell Medical College, including their Clinical and Translational Science Center. No funding organization had a role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication"
+    ],
+    "author": "Cenai Zhang; Philip E. Stieg; Saad Mir; Costantino Iadecola; Kelsey N. Lansdale; Santosh B. Murthy; Ivan Diaz; Alexander E. Merkler; Neal S. Parikh; Matthew E. Fink; Joshua Kahan; Samuel S. Bruce; Parag Goyal; Natalie M. LeMoss; Ajay Gupta; Alan Z. Segal; Babak B. Navi; Thomas R. Campion; Joshua Lantos; Eaton Lin; Hooman Kamel; Edward J. Schenck",
+    "date": 2020,
+    "doi": "10.1101/2020.05.18.20105494",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.18.20105494"
+    },
+    "title": "Risk of Ischemic Stroke in Patients with Covid-19 versus Patients with Influenza",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institutes of Health",
+                    "award-id": [
+                        "K23NS091395",
+                        "R01HL144541",
+                        "UL1TR000457"
+                    ]
+                },
+                {
+                    "funding-source": "NewYork-Presbyterian Hospital and Weill Cornell Medical College,"
+                },
+                {
+                    "funding-source": "Clinical and Translational Science Center"
+                }
+            ],
+            "funding-statement": "This study was supported by the National Institutes of Health grants K23NS091395, R01HL144541, and UL1TR000457, as well as support from NewYork-Presbyterian Hospital and Weill Cornell Medical College, including their Clinical and Translational Science Center"
+        }
+    ]
+}

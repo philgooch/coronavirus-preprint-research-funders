@@ -1,0 +1,57 @@
+{
+    "abstract": "Enclosed societies (i.e. locations that are connected to wider community only by subgroups of their population and that are dominated by within society transmission) have the potential, upon establishment of a respiratory disease, to suffer a large proportion of the population within becoming infected. Care homes are particularly susceptible to COVID19 outbreaks and suffer high mortality due to vulnerable population within. Recent data on the number of new outbreak reports in care homes to Public Health England shows an initial increase then plateau perhaps associated with an SIS model dynamic. Without change in policy moving forward a high prevalence in such setting is predicted of around 75%. Action is needed to support staff in such settings.",
+    "author": "Hugo Lewkowicz; Nick Gent; James Sedgwick; Thomas House; Ian Hall; Lorenzo Pellis",
+    "date": 2020,
+    "doi": "10.1101/2020.05.07.20089243",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.07.20089243"
+    },
+    "title": "Rapid increase of Care Homes reporting outbreaks a sign of eventual substantial disease burden",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust and the Royal Society",
+                    "award-id": [
+                        "202562/Z/16/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "LP is funded by the Wellcome Trust and the Royal Society (grant 202562/Z/16/Z)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Royal Society",
+                    "award-id": [
+                        "INF\\R2\\180067"
+                    ]
+                },
+                {
+                    "funding-source": "Alan Turing Institute for Data Science and Artificial Intelligence"
+                }
+            ],
+            "funding-statement": "TH is supported by the Royal Society (Grant Number INF\\R2\\180067) and Alan Turing Institute for Data Science and Artificial Intelligence"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research Health Protection Research Unit",
+                    "award-id": [
+                        "NIHR HPRU"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR HPRU)"
+                },
+                {
+                    "funding-source": "Emergency Preparedness and Response and the National Institute for Health Research Policy Research Programme in Operational Research"
+                },
+                {
+                    "funding-source": "Alan Turing Institute for Data Science and Artificial Intelligence"
+                }
+            ],
+            "funding-statement": "IH is supported by the National Institute for Health Research Health Protection Research Unit (NIHR HPRU) in Emergency Preparedness and Response and the National Institute for Health Research Policy Research Programme in Operational Research (OPERA) and Alan Turing Institute for Data Science and Artificial Intelligence"
+        }
+    ]
+}

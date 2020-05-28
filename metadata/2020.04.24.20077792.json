@@ -1,0 +1,16 @@
+{
+    "abstract": "Coronavirus disease 2019 (COVID-19), a highly infectious disease, was first detected in Wuhan, China, in December 2019. The disease has spread to 212 countries and territories around the world and infected (confirmed) more than three million people. In India, the disease was first detected on 30 January 2020 in Kerala in a student who returned from Wuhan. The total (cumulative) number of confirmed infected people is more than 37000 till now across India (3 May 2020). Most of the research and newspaper articles focus on the number of infected people in the entire country. However, given the size and diversity of India, it may be a good idea to look at the spread of the disease in each state separately, along with the entire country. For example, currently, Maharashtra has more than 10000 confirmed cumulative infected cases, whereas West Bengal has less than 800 confirmed infected cases (1 May 2020). The approaches to address the pandemic in the two states must be different due to limited resources. In this article, we will focus the infected people in each state (restricting to only those states with enough data for prediction) and build three growth models to predict infected people for that state in the next 30 days. The impact of preventive measures on daily infected-rate is discussed for each state.",
+    "author": "Bibhas Chakraborty; Palash Ghosh; Rik Ghosh",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20077792",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20077792"
+    },
+    "title": "COVID-19 in India: State-wise Analysis and Prediction",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

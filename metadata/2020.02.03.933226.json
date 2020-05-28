@@ -1,0 +1,56 @@
+{
+    "title": "Preliminary identification of potential vaccine targets for the COVID-19 coronavirus (SARS-CoV-2) based on SARS-CoV immunological studies",
+    "keywords": [
+        "Coronavirus",
+        "2019-nCoV",
+        "2019 novel coronavirus",
+        "SARS-CoV-2",
+        "COVID-19",
+        "SARSCoV",
+        "MERS-CoV",
+        "T cell epitopes",
+        "B cell epitopes",
+        "spike protein",
+        "nucleocapsid protein",
+        "vaccine"
+    ],
+    "date": 2020,
+    "author": "Syed Faraz Ahmed,#, Ahmed A. Quadeer,#, and Matthew R. McKay",
+    "affiliations": [
+        "Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology, Hong Kong, China",
+        "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Hong Kong, China"
+    ],
+    "journal": "Keywords",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.02.03.933226",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.02.03.933226.pdf"
+    },
+    "abstract": "The beginning of 2020 has seen the emergence of COVID-19 outbreak caused by a novel coronavirus, Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). There is an imminent need to better understand this new virus and to develop ways to control its spread. In this study, we sought to gain insights for vaccine design against SARS-CoV-2 by considering the high genetic similarity between SARS-CoV-2 and SARS-CoV, which caused the outbreak in 2003, and leveraging existing immunological studies of SARS-CoV. By screening the experimentally-determined SARS-CoV-derived B cell and T cell epitopes in the immunogenic structural proteins of SARS-CoV, we identified a set of B cell and T cell epitopes derived from the spike (S) and nucleocapsid (N) proteins that map identically to SARS-CoV-2 proteins. As no mutation has been observed in these identified epitopes among the available SARS-CoV-2 sequences (as of 9 February 2020), immune targeting of these epitopes may potentially offer protection against this novel virus. For the T cell epitopes, we performed a population coverage analysis of the associated MHC alleles and proposed a set of epitopes that is estimated to provide broad coverage globally, as well as in China. Our findings provide a screened set of epitopes that can help guide experimental efforts towards the development of vaccines against SARS-CoV-2.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Supplementary Table"
+                },
+                {
+                    "funding-source": "General Research Fund of the Hong Kong Research Grants Council",
+                    "award-id": [
+                        "16204519"
+                    ]
+                }
+            ],
+            "funding-statement": "We thank all the authors, the originating and submitting laboratories (listed in Supplementary Table 7) for their sequence and metadata shared through GISAID, on which this research is based. M.R.M. and A.A.Q. were supported by the General Research Fund of the Hong Kong Research Grants Council (RGC) [Grant No 16204519]"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Hong Kong Ph."
+                }
+            ],
+            "funding-statement": "S.F.A. was supported by the Hong Kong Ph.D"
+        }
+    ]
+}

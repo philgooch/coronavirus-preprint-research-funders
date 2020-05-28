@@ -1,0 +1,47 @@
+{
+    "abstract": "Background: The SARS-CoV-2 virus responsible for COVID-19 poses a significant challenge to healthcare systems worldwide. Despite governmental initiatives aimed at containing the spread of the disease, several countries are experiencing unmanageable increases in the demand for ICU beds, medical equipment, and larger testing capacity. Efficient COVID-19 diagnosis enables healthcare systems to provide better care for patients while protecting caregivers from the disease. However, many countries are constrained by the limited amount of test kits available, the lack of equipment and trained professionals. In the case of patients visiting emergency rooms (ERs) with a suspect of COVID-19, a prompt diagnosis can improve the outcome and even provide information for efficient hospital management. In this context, a quick, inexpensive and readily available test to perform an initial triage at ER could help to smooth patient flow, provide better patient care, and reduce the backlog of exams. Methods: In this Case-control quantitative study, we developed a strategy backed by artificial intelligence to perform an initial screening of suspect COVID-19 cases. We developed a machine learning classifier that takes widely available simple blood exams as input and predicts if that suspect case is likely to be positive (having SARS-CoV-2) or negative(not having SARS-CoV-2). Based on this initial classification, positive cases can be referred for further highly sensitive testing (e.g. CT scan, or specific antibodies). We used publicly available data from the Albert Einstein Hospital in Brazil from 5,644 patients. Focussing on using simple blood exams, a sample of 599 subjects that had the fewest missing values for 16 common exams were selected. From these 599 patients, only 81 were positive for SARS-CoV-2 (determined by RT-PCR). Based on this data, we built an artificial intelligence classification framework, ER-CoV, aiming at determining which patients were more likely to be negative for SARS-CoV-2 when visiting an ER and that were categorized as a suspect case by medical professionals. The primary goal of this investigation is to develop a classifier with high specificity and high negative predictive values, with reasonable sensitivity. Findings: We identified that our framework achieved an average specificity of 92.16% [95% CI 91.73 - 92.59] and negative predictive value (NPV) of 95.29% [95% CI 94.65% - 95.90%]. Those values are completely aligned with our goal of providing an effective low-cost system to triage suspected patients at ERs. As for sensitivity, our model achieved an average of 63.98% [95% CI 59.82% - 67.50%] and positive predictive value (PPV) of 48.00% [95% CI 44.88% - 51.56%]. An error analysis identified that, on average, 45% of the false negative results would have been hospitalized anyway, thus the model is making mistakes for severe cases that would not be overlooked, partially mitigating the fact that the test is not high-sensitive. All code for our AI model, called ER-CoV is publicly available at https://github.com/soares-f/ER-CoV. Interpretation: Based on the capacity of our model to accurately predict which cases are negative from suspected patients arriving at emergency rooms, we envision that this framework can play an important role in patient triage. Probably the most important outcome is related to testing availability, which at this point is extremely low in many countries. Considering the achieved specificity, we would reduce by at least 90% the number of SARS-CoV-2 tests performed at emergency rooms, with the chance of getting a false negative at around 5%. The second important outcome is related to patient management in hospitals. Patients predicted as positive by our framework could be immediately separated from the other patients while waiting for the results of confirmatory tests. This could reduce the spread rate inside hospitals since in many hospitals all suspected cases are kept in the same ward. In Brazil, where the data was collected, rate infection is starting to quickly spread, the lead time of a SARS-CoV-2 can be up to 2 weeks. Funding: University of Sheffield provided financial support for the Ph.D scholarship for Felipe Soares.\nCompeting Interest Statement",
+    "affiliations": [
+        "SARS-CoV-2 can be up to 2 weeks. Funding: University of Sheffield provided financial support for the Ph.D scholarship for Felipe Soares",
+        "The University of Sheffield provided financial support for the Ph.D. scholarship for Felipe Soares Prof. Fogliatto's research is funded by CNPq [Grant # 303509/2015-5]. Prof. Anzanello\u0092s research is funded by CNPq [Grant # 306724/2018-9]"
+    ],
+    "author": "Aline Villavicencio; Marco Idiart; Mark Stevenson; Felipe Soares; Maria Helena Pitombeira Rigatto; Michel Jose Anzanello; Flavio Sanson Fogliatto",
+    "date": 2020,
+    "doi": "10.1101/2020.04.10.20061036",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.10.20061036"
+    },
+    "title": "A novel specific artificial intelligence-based method to identify COVID-19 cases using simple blood exams",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "University of Sheffield"
+                },
+                {
+                    "funding-source": "Felipe Soares"
+                }
+            ],
+            "funding-statement": "Funding: University of Sheffield provided financial support for the Ph.D scholarship for Felipe Soares"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "# 303509/2015-5"
+                    ]
+                }
+            ],
+            "funding-statement": "Fogliatto's research is funded by CNPq [Grant # 303509/2015-5]"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "# 306724/2018-9"
+                    ]
+                }
+            ],
+            "funding-statement": "Anzanello\u0092s research is funded by CNPq [Grant # 306724/2018-9]"
+        }
+    ]
+}

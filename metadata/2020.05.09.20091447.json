@@ -1,0 +1,16 @@
+{
+    "abstract": "SARS-CoV-2 has emerged as a previously unknown zoonotic coronavirus that spread worldwide causing a serious pandemic. While reliable nucleic acid-based diagnostic assays were rapidly available, there exists only a limited number of validated serological assays. Here, we evaluated a novel flow cytometric approach based on antigen-expressing HEK 293T cells to assess spike-specific IgG and IgM antibody responses. Analyses of 201 pre-COVID-19 sera proved a high assay specificity in comparison to commercially available CLIA and ELISA systems, while also revealing the highest sensitivity in specimens from PCR-confirmed SARS-CoV-2 infected patients. Additionally, a soluble Angiotensin-Converting-Enzyme 2 (ACE-2) variant was established as external standard to quantify spike-specific antibody responses on different assay platforms. In conclusion, our newly established flow cytometric assay allows sensitive and quantitative detection of SARS-CoV-2-specific antibodies, which can be easily adopted in different laboratories and does not rely on external supply of assay kits.",
+    "author": "Dennis Lapuente; Andreas E. Kremer; Matthias Tenbusch; Sophia Antonia Peter; Klaus Korn; Pascal Irrgang; Markus Hoffmann; Armin Ensser; Clara Maier; Katharina Ziegler; Thomas H. Winkler; Thorsten Birkholz; Philipp Steininger; Frank Neipel; Julian Huebner; Klaus Ueberla",
+    "date": 2020,
+    "doi": "10.1101/2020.05.09.20091447",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.09.20091447"
+    },
+    "title": "Rapid response flow cytometric assay for the detection of antibody responses to SARS-CoV-2",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received."
+        }
+    ]
+}

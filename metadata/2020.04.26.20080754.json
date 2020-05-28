@@ -1,0 +1,16 @@
+{
+    "abstract": "Background: The coronavirus, which originated in Wuhan, causing the disease called COVID-19, spread more than 200 countries and continents end of the March. There is a lot of data since the virus started. However, these data will be explanatory when accurate analyzes are made and will allow future predictions to be made. In this study, it was aimed to model the outbreak with different time series models and also predict the indicators. Methods: The data was collected from 25 countries which have different process at least 20 days. ARIMA(p,d,q), Simple Exponential Smoothing, Holts Two Parameter, Browns Double Exponential Smoothing Models were used. The prediction and forecasting values were obtained for the countries. Trends and seasonal effects were also evaluated. Results: China has almost under control according to forecasting. The cumulative death prevalence in Italy and Spain will be the highest, followed by the Netherlands, France, England, China, Denmark, Belgium, Brazil and Sweden respectively as of the first week of April. The highest daily case prevalence was observed in Belgium, America, Canada, Poland, Ireland, Netherlands, France and Israel between 10% and 12%.The lowest rate was observed in China and South Korea. Turkey was one of the leading countries in terms of ranking these criteria. The prevalence of the new case and the recovered were higher in Spain than Italy. Conclusions: More accurate predictions for the future can be obtained using time series models with a wide range of data from different countries by modelling real time and retrospective data.\nCompeting Interest Statement",
+    "author": "Nadire Erarslan; Handan Ankarali; Ozge Pasin",
+    "date": 2020,
+    "doi": "10.1101/2020.04.26.20080754",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.26.20080754"
+    },
+    "title": "Modeling and Short-Term Forecasts of Indicators for COVID-19 Outbreak in 25 Countries at the end of March",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

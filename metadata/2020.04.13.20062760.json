@@ -1,0 +1,69 @@
+{
+    "abstract": "We describe regional variation in the reproduction number of SARS-CoV-2 infections observed using publicly reported data in the UK, with a view to understanding both if there are clear hot spots in viral spread in the country, or if there are any clear spatial patterns. We estimate that the viral replication number remains slightly above 1 overall but that its trend is to decrease, based on case data up to the 8 April. This suggests the peak of the first wave of COVID-19 patients is imminent. We find that there is significant regional variation in different regions of the UK and that this is changing over time. Within England currently the reproductive ratio is lowest in the Midlands (1.11 95% CI 1.07; 1.14), and highest in the North East of England (1.38 95% CI 1.33-1.42). It remains unclear whether the overall reduction in the reproductive number is a result of social distancing measures, due to the long and variable time delays between infection and positive detection of cases. As we move forwards, if we are to prevent further outbreaks, it is critical that we can both reduce the time taken for detection and improve our ability to predict the regional spread of outbreaks",
+    "affiliations": [
+        "The Alan Turing Institute under the EPSRC grant EP/N510129/1. LL acknowledges the financial support of the EPSRC via Early Career Fellowship EP/P01660X/"
+    ],
+    "author": "Chris Martin; Luke Gompels; Leon Danon; Lucas Lacasa; Krasimira Tsaneva-Atanasova; Gareth Griffith; Robert J Challen; Tom Edwards; Ellen Brooks-Pollock; Martin Pitt",
+    "date": 2020,
+    "doi": "10.1101/2020.04.13.20062760",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.13.20062760"
+    },
+    "title": "Estimates of regional infectivity of COVID-19 in the United Kingdom following imposition of social distancing measures",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "RCh and KTA"
+                },
+                {
+                    "funding-source": "EPSRC",
+                    "award-id": [
+                        "EP/N014391/1"
+                    ]
+                },
+                {
+                    "funding-source": "NHS England, Global"
+                },
+                {
+                    "funding-source": "Digital Exemplar"
+                }
+            ],
+            "funding-statement": "RCh and KTA gratefully acknowledges the financial support of the EPSRC via grant EP/N014391/1 and NHS England, Global Digital Exemplar programme"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "The Alan Turing Institute",
+                    "award-id": [
+                        "EP/N510129/1"
+                    ]
+                },
+                {
+                    "funding-source": "EPSRC",
+                    "award-id": [
+                        "EP/N510129/1"
+                    ]
+                }
+            ],
+            "funding-statement": "LD and KTA gratefully acknowledges the financial support of The Alan Turing Institute under the EPSRC grant EP/N510129/1"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "EPSRC",
+                    "award-id": [
+                        "EP/P0166"
+                    ]
+                },
+                {
+                    "funding-source": "Early Career Fellowship",
+                    "award-id": [
+                        "EP/P01660X"
+                    ]
+                }
+            ],
+            "funding-statement": "LL acknowledges the financial support of the EPSRC via Early Career Fellowship EP/P01660X/"
+        }
+    ]
+}

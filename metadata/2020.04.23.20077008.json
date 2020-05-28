@@ -1,0 +1,16 @@
+{
+    "abstract": "Several ecological studies of the coronavirus disease 2019 (COVID-19) have reported correlations between group-level aggregated exposures and COVID-19 outcomes. While some studies might be helpful in generating new hypotheses related to COVID-19, results of such type of studies should be interpreted with cautions. To illustrate how ecological studies and results could be biased, we conducted an ecological study of COVID-19 outcomes and the distance to Brussels using European country-level data. We found that, the distance was negatively correlated with COVID-19 outcomes; every 100 km away from Brussels was associated with approximately 6% to 17% reductions (all P<0.01) in COVID-19 cases and deaths in Europe. Without cautions, such results could be interpreted as the closer to the Europe Union headquarters, the higher risk of COVID-19 in Europe. However, these results are more likely to reflect the differences in the timing of and the responding to the outbreak, etc. between European countries, rather than the 'effect' of the distance to Brussels itself. Associations observed at the group level have limitations to reflect individual-level associations - the so-called ecological fallacy. Given the public concern over COVID-19, ecological studies should be conducted and interpreted with great cautions, in case the results would be mistakenly understood.",
+    "author": "Shuai Li; Xinyang Hua",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20077008",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20077008"
+    },
+    "title": "The closer to the Europe Union headquarters, the higher risk of COVID-19? Cautions regarding ecological studies of COVID-19",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding was received for this work."
+        }
+    ]
+}

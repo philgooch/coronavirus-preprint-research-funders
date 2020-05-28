@@ -1,0 +1,16 @@
+{
+    "abstract": "The Coronavirus (COVID-19) is a world pandemic that has been affecting Portugal since 2 of March 2020. Portuguese government has been making efforts to contradict the exponential growth through social isolation measures. We have developed a mathematical model to predict the impact of such measures in the number of infected cases and peak of infection. We estimate the peak to be around 2 million infected cases by the beginning of May if no additional measures are taken. The model indicates that current measures effectively isolated 25-30% of the population, contributing for some reduction on the infection peak. Importantly, our simulations show that the infection burden can be further reduced with higher isolation degree, providing information for a second intervention.",
+    "author": "Nuno Taveira; Ricardo Jorge Pais",
+    "date": 2020,
+    "doi": "10.1101/2020.03.28.20046250",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.28.20046250"
+    },
+    "title": "Predicting the evolution and control of COVID-19 pandemic in Portugal.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding. Study supported by the authors."
+        }
+    ]
+}

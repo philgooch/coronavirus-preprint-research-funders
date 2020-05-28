@@ -1,0 +1,16 @@
+{
+    "abstract": "This paper presents two epidemiological models that have been developed in order to study the disease dynamics of the COVID-19 pandemic and exit strategies from the lockdown which has been imposed on many countries world-wide. A strategy is needed such that both the health system is not overloaded letting people die in an uncontrolled way and also such that the majority of people can get back their social contacts as soon as possible. We investigate the potential effects of a combination of measures such as continuation of hygienic constraints after leaving lockdown, isolation of infectious persons, repeated and adaptive short-term contact reductions and also large-scale use of antibody tests in order to know who can be assumed to be immune and participate at public life without constraints. We apply two commonly used modeling approaches: extended SEIR models formulated both as System Dynamics and Agent-Based Simulation, in order to get insight into the disease dynamics of a complete country like Germany and also into more detailed behavior of smaller regions. We confirm the findings of other models that without intervention the consequences of the pandemic can be catastrophic and we extend such findings with effective strategies to overcome the challenge. Based on the modeling assumptions it can be expected that repeated short-term contact reductions will be necessary in the next years to avoid overload of the health system and that on the other side herd immunity can be achieved and antibody tests are an effective way to mitigate the contact reductions for many.",
+    "author": "Holger Hackstein; Lisa Maile; Reinhard German; Peter Bazan; Anatoli Djanatliev",
+    "date": 2020,
+    "doi": "10.1101/2020.04.14.20063750",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.14.20063750"
+    },
+    "title": "Modeling Exit Strategies from COVID-19 Lockdown with a Focus on Antibody Tests",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received for this research"
+        }
+    ]
+}

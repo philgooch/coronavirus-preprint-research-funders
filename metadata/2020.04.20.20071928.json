@@ -1,0 +1,16 @@
+{
+    "abstract": "An opportunity exists in exploring epidemic modeling as a novel way to determine physiological and demic parameters for genetic association studies on a population/environmental (quasi) epidemiological study level. First, the spread of SARS-COV-2 has produced population specific lineages; second, epidemic spread model parameters are tied directly to these physiological and demic rates (e. g. incubation time, recovery time, transmission rate); and third, these parameters may serve as novel phenotypes to associate with region-specific genetic mutations as well as demic characteristics (e. g. age structure, cultural observance of personal space, crowdedness). Therefore, we sought to understand whether the parameters of epidemic models could be determined from the trajectory of infections, recovery, and hospitalizations prior to peak, and also to evaluate the quality and comparability of data between jurisdictions reporting their statistics necessary for the analysis of model parameters across populations. We found that, analytically, the pre-peak growth of an epidemic is limited by a subset of the model variates, and that the rate limiting variables are dominated by the expanding eigenmode of their equations. The variates quickly converge to the ratio of eigenvector components of the positive growth rate, which determines the doubling time. There are 9 parameters and 4 independent components in the eigenmode, leaving 5 undetermined parameters. Those parameters can be strikingly population dependent, and can have significant impact on estimates of hospital loads downstream. Without a sound framework, measurements of infection rates and other parameters are highly corrupted by uneven testing rates to uneven counting and reporting of relevant values. From the standpoint of phenotype parameters, this means that structured experiments must be performed to estimate these parameters in order to perform genetic association studies, or to construct viable models that accurately predict critical quantities such as hospitalization loads.",
+    "author": "Daniel E Platt; Laxmi E Parida; Pierre Zalloua",
+    "date": 2020,
+    "doi": "10.1101/2020.04.20.20071928",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.20.20071928"
+    },
+    "title": "Lies, Gosh Darn Lies, and Not Enough Good Statistics: Why Epidemic Model Parameter Estimation Fails",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors are grateful for support from IBM."
+        }
+    ]
+}

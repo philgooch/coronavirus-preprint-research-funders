@@ -1,0 +1,30 @@
+{
+    "abstract": "We evaluated the impact of early social distancing on the COVID-19 transmission in the Sao Paulo metropolitan area. Using an age-stratified SEIR model, we determined the time-dependent reproductive number, and forecasted the ICU beds necessary to tackle this epidemic. Within 60 days, these measures might prevent 89,133 deaths.\nCompeting Interest Statement",
+    "affiliations": [
+        "Brazilian National Council for Scientific and Technological Development \u0096 CNPq, process/contract identification: 312656/2019-0 and 310551/2018-8, respectively"
+    ],
+    "author": "Helder Nakaya; Fabiana Ganem; Fabio Macedo Mendes; Silvano Barbosa Oliveira; Fredi A Diaz-Quijano; Victor Bertolo Gomes Porto; Julio Croda; Wildo Araujo",
+    "date": 2020,
+    "doi": "10.1101/2020.04.06.20055103",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.06.20055103"
+    },
+    "title": "The impact of early social distancing at COVID-19 Outbreak in the largest Metropolitan Area of Brazil.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "FADQ and JC"
+                },
+                {
+                    "funding-source": "Brazilian National Council for Scientific and Technological Development",
+                    "award-id": [
+                        "312656/2019-0",
+                        "310551/2018-8"
+                    ]
+                }
+            ],
+            "funding-statement": "FADQ and JC were granted a fellowship for research productivity from the Brazilian National Council for Scientific and Technological Development \u0096 CNPq, process/contract identification: 312656/2019-0 and 310551/2018-8, respectively."
+        }
+    ]
+}

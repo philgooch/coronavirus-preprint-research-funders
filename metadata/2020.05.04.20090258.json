@@ -1,0 +1,40 @@
+{
+    "abstract": "How do fine modifications to social distancing measures really affect COVID-19 spread? A major problem for health authorities is that we do not know. In an imaginary world, we might develop a harmless biological virus that spreads just like COVID-19, but is traceable via a cheap and reliable diagnosis. By introducing such an imaginary virus into the population and observing how it spreads, we would have a way of learning about COVID-19 because the benign virus would respond to population behaviour and social distancing measures in a similar manner. Such a benign biological virus does not exist. Instead, we propose a safe and privacy-preserving digital alternative. Our solution is to mimic the benign virus by passing virtual tokens between electronic devices when they move into close proximity. As Bluetooth transmission is the most likely method used for such inter-device communication, and as our suggested \"virtual viruses\" do not harm individuals' software or intrude on privacy, we call these Safe Blues. In contrast to many app-based methods that inform individuals or governments about actual COVID-19 patients or hazards, Safe Blues does not provide information about individuals' locations or contacts. Hence the privacy concerns associated with Safe Blues are much lower than other methods. However, from the point of view of data collection, Safe Blues has two major advantages: - Data about the spread of Safe Blues is uploaded to a central server in real time, which can give authorities a more up-to-date picture in comparison to actual COVID-19 data, which is only available retrospectively. - Sampling of Safe Blues data is not biased by being applied only to people who have shown symptoms or who have come into contact with known positive cases. These features mean that there would be real statistical value in introducing Safe Blues. In the medium term and end game of COVID-19, information from Safe Blues could aid health authorities to make informed decisions with respect to social distancing and other measures. In this paper we outline the general principles of Safe Blues and we illustrate how Safe Blues data together with neural networks may be used to infer characteristics of the progress of the COVID-19 pandemic in real time. Further information is on the Safe Blues website: https://safeblues.org/.",
+    "affiliations": [
+        "Centre of Excellence for Mathematical and Statistical Frontiers (ACEMS) under grant number CE140100049"
+    ],
+    "author": "Peter G. Taylor; Shane G. Henderson; Yoni Nazarathy; Raj Abhijit Dandekar; Sarat Moka; Christopher Rackauckas; Marijn Jansen; Aapeli Vuorinen",
+    "date": 2020,
+    "doi": "10.1101/2020.05.04.20090258",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.04.20090258"
+    },
+    "title": "Safe Blues: A Method for Estimation and Control in the Fight Against COVID-19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Australian Research Council",
+                    "award-id": [
+                        "DP180101602"
+                    ]
+                }
+            ],
+            "funding-statement": "MJ and YN are supported by Australian Research Council (ARC) under grant number DP180101602"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Australian Research Council"
+                },
+                {
+                    "funding-source": "Centre of Excellence for Mathematical and Statistical Frontiers",
+                    "award-id": [
+                        "CE140100049"
+                    ]
+                }
+            ],
+            "funding-statement": "SM and PGT are supported by the Australian Research Council (ARC) Centre of Excellence for Mathematical and Statistical Frontiers (ACEMS) under grant number CE140100049"
+        }
+    ]
+}

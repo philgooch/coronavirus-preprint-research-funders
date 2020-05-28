@@ -1,0 +1,35 @@
+{
+    "abstract": "The COVID-19 virus was first discovered from China. It has been widely spread internationally. Currently, compare with the rising trend of the overall international epidemic situation, China's domestic epidemic situation has been contained and shows a steady and upward trend. In this situation, overseas imports have become the main channel for china to increase the number of infected people. Therefore, how to track the spread channel of international epidemics and predict the growth of overseas case imports is become an open research question. This study proposes a Gaussian sparse network model based on lasso and uses Hong Kong as an example. To explore the COVID-19 virus from a network perspective and analyzes 75 consecutive days of COV-19 data in 188 countries and regions around the world. This article establishes an epidemic spread relationship network between Hong Kong and various countries and regions around the world and build a regression model based on network information to fit Hong Kong's COV-19 epidemic growth data. The results show that the regression model based on the relationship network can better fit the existing cumulative number growth curve. After combining the SEIJR model, we predict the future development trend of cumulative cases in Hong Kong (without blocking international traffic). Based on the prediction results, we suggest that Hong Kong can lift the international traffic blockade from early to mid-June",
+    "author": "Liang Yong; Miao Rui; Dang Qi",
+    "date": 2020,
+    "doi": "10.1101/2020.05.13.20099978",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.13.20099978"
+    },
+    "title": "A Sparse Gaussian Network Model for Prediction the Growth Trend of COVID-19 Overseas Import Case: When can Hong Kong Lift the International Traffic Blockad?",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Macau Science and Technology Development Funds Grands No.",
+                    "award-id": [
+                        "003/2016/A"
+                    ]
+                },
+                {
+                    "funding-source": "AFJ and No.",
+                    "award-id": [
+                        "0055/2018/A2"
+                    ]
+                },
+                {
+                    "funding-source": "Macau Special Administrative Region of the"
+                },
+                {
+                    "funding-source": "Republic of China"
+                }
+            ],
+            "funding-statement": "This work was supported by the Macau Science and Technology Development Funds Grands No.003/2016/AFJ and No.0055/2018/A2 from the Macau Special Administrative Region of the People\u0092s Republic of China"
+        }
+    ]
+}

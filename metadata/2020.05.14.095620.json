@@ -1,0 +1,34 @@
+{
+    "title": "Unveiling diffusion pattern and structural impact of the most invasive SARS-CoV-2 spike mutation",
+    "date": 2020,
+    "affiliations": [
+        "Department of Life and Environmental Science, Marche Polytechnic University, Via Brecce Bianche, 60131, Ancona, Italy",
+        "Department of Biology, University of Rome \u201cTor Vergata\u201d, Via Cracovia, 1, 00133, Roma, Italy",
+        "Department of Evolutionary Genetics, Max Planck Institute for Evolutionary Anthropology, Deutscher Platz, 6, 04103, Leipzig, Germany",
+        "Department of Earth and Environmental Sciences, University of Milano-Bicocca, Piazza della Scienza 2, 20126, Milan, Italy",
+        "School of Biological Sciences, University of Bristol, Bristol BS8 1TQ, UK",
+        "Department of Life Sciences and Biotechnology, University of Ferrara, Via Luigi Borsari 46, 44121, Ferrara, Italy",
+        "Institute of Chemical Science and Technologies, SCITEC-CNR, Via Mario Bianco 9, 20131, Milan, Italy",
+        "New York-Marche Structural Biology Center (NY-MaSBiC), Marche Polytechnic University, Via Brecce Bianche, 60131, Ancona, Italy Keywords SARS-Cov-2 evolution, spike protein, infectivity, generalized linear mixed models, coalescent-based inference, molecular dynamics"
+    ],
+    "journal": "This SARS",
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.095620",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.095620.pdf"
+    },
+    "abstract": "Starting in Wuhan, China, SARS-CoV-2 epidemics quickly propagated worldwide in less than three months, geographically sorting genomic variants in newly established propagules of infections. Stochasticity in transmission within and between countries and/or actual advantage in virus transmissibility could explain the high frequency reached by some genomic variants during the course of the outbreak. Using a suite of statistical, population genetics, and theoretical approaches, we show that the globally most represented spike protein variant (i.e., the G clade, A \u2192 G nucleotide change at genomic position 23,403; D \u2192 G amino acid change at spike protein position 614) i) underwent a significant demographic expansion in most countries not explained by stochastic effects or enhanced pathogenicity; ii) affects the spike S1/S2 furin-like site increasing its conformational plasticity (short range effect), and iii) modifies the internal motion of the receptor-binding domain affecting its cross-connection with other functional domains (long-range effect). Our study unambiguously links the spread of the G614 with a non-random process, and we hypothesize that this process is related to the selective advantage produced by a specific structural modification of the spike protein. We conclude that the different conformation of the S1/S2 proteolytic site is at the basis of the higher transmission rate of this invasive SARS-CoV-2 variant, and provide structural information to guide the design of selective and efficient drugs.",
+    "keywords": [
+        "SARS-Cov-2 evolution",
+        "spike protein",
+        "infectivity",
+        "generalized linear mixed models",
+        "coalescent-based inference",
+        "molecular dynamics"
+    ],
+    "funding": [
+        {}
+    ]
+}

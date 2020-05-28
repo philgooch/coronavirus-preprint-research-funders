@@ -1,0 +1,100 @@
+{
+    "abstract": "Early assessments of the spreading rate of COVID-19 were subject to significant uncertainty, as expected with limited data and difficulties in case ascertainment, but more reliable inferences can now be made. Here, we estimate from European data that COVID-19 cases are expected to double initially every three days, until social distancing interventions slow this growth, and that the impact of such measures is typically only seen nine days - i.e. three doubling times - after their implementation. We argue that such temporal patterns are more critical than precise estimates of the basic reproduction number for initiating interventions. This observation has particular implications for the low-and middle-income countries currently in the early stages of their local epidemics.",
+    "author": "Rajenki Das; Emma Bennett; Hugo Lewkowicz; Bindu Vekaria; Thomas A House; Martyn Fyles; Luke Webb; Elizabeth Fearon; Francesca Scarabel; Christopher E Overton; Helena B Stage; Katrina A Lythgoe; Xiaoxi Pang; Lauren H K Chappell; Jacob Curran-Sebastian; Ian Hall; Lorenzo Pellis",
+    "date": 2020,
+    "doi": "10.1101/2020.04.12.20059972",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.12.20059972"
+    },
+    "title": "Challenges in control of Covid-19: short doubling time and long delay to effect of interventions",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust and the Royal Society",
+                    "award-id": [
+                        "202562/Z/16/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "LP, HS and CO are funded by the Wellcome Trust and the Royal Society (grant 202562/Z/16/Z)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Wellcome Trust and Royal Society",
+                    "award-id": [
+                        "107652/Z/15/Z"
+                    ]
+                }
+            ],
+            "funding-statement": "KL is funded by the Wellcome Trust and Royal Society (107652/Z/15/Z)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Novel Coronavirus",
+                    "award-id": [
+                        "COVID-19"
+                    ]
+                }
+            ],
+            "funding-statement": "FS is funded by the CIHR 2019 Novel Coronavirus (COVID-19) rapid research program"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "BBSRC",
+                    "award-id": [
+                        "BB/R009236/1"
+                    ]
+                }
+            ],
+            "funding-statement": "LC is funded by the BBSRC (grant BB/R009236/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "award-id": [
+                        "MR/S020462/1"
+                    ]
+                }
+            ],
+            "funding-statement": "EF is funded by the MRC (grant MR/S020462/1)"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Royal Society",
+                    "award-id": [
+                        "INF\\R2\\180067"
+                    ]
+                },
+                {
+                    "funding-source": "Alan Turing Institute for Data Science and Artificial Intelligence"
+                }
+            ],
+            "funding-statement": "TH is supported bythe Royal Society (Grant Number INF\\R2\\180067) and Alan Turing Institute for Data Science and Artificial Intelligence"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Institute for Health Research Health Protection Research Unit",
+                    "award-id": [
+                        "NIHR HPRU"
+                    ]
+                },
+                {
+                    "funding-source": "NIHR HPRU)"
+                },
+                {
+                    "funding-source": "Emergency Preparedness and Response and the National Institute for Health Research Policy Research Programme in Operational Research"
+                },
+                {
+                    "funding-source": "Alan Turing Institute for Data Science and Artificial Intelligence"
+                }
+            ],
+            "funding-statement": "IH is supported by the National Institute for Health Research Health Protection Research Unit (NIHR HPRU) in Emergency Preparedness and Response and the National Institute for Health Research Policy Research Programme in Operational Research (OPERA) and Alan Turing Institute for Data Science and Artificial Intelligence"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "BACKGROUND: Due to uncertainties encompassing the transmission dynamics of COVID-19, mathematical models informing the trajectory of disease are being proposed throughout the world. Current pandemic is also characterized by surge in hospitalizations which has overwhelmed even the most resilient health systems. Therefore, it is imperative to assess supply side preparedness in tandem with demand projections for comprehensive outlook. OBJECTIVE: Hence, we attempted this study to forecast the demand for hospital resources for one year period and correspondingly assessed capacity and tipping points of Indian health system to absorb surges in demand due to COVID-19. METHODS: We employed age- structured deterministic SEIR model and modified it to allow for testing and isolation capacity to forecast the demand under varying scenarios. Projections for documented cases were made for varying degree of mitigation strategies of a) No-lockdown b) Moderate-lockdown c) Full-lockdown. Correspondingly, data on a) General beds b) ICU beds and c) Ventilators was collated from various government records. Further, we computed the daily turnover of each of these resources which was then adjusted for proportion of cases requiring mild, severe and critical care to arrive at maximum number of COVID-19 cases manageable by health care system of India. FINDINGS: Our results revealed pervasive deficits in the capacity of public health system to absorb surge in demand during peak of epidemic. Also, continuing strict lockdown measures was found to be ineffective in suppressing total infections significantly, rather would only push the peak by a month. However, augmented testing of 500,000 tests per day during peak (mid-July) under moderate lockdown scenario would lead to more reported cases (5,500,000-6,000,000), leading to surge in demand for hospital resources. A minimum allocation of 10% public resources and 30% private resources would be required to commensurate with demand under that scenario. However, if the testing capacity is limited by 200,000 tests per day under same scenario, documented cases would plummet by half.",
+    "author": "Dr Muhammad Shaffi Fazaludeen Koya; Anuraag Saini; Veenapani Rajeev Verma; Umakant Dash; Sumirtha Gandhi",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20100537",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20100537"
+    },
+    "title": "Projecting Demand-Supply Gap of Hospital Capacity in India in the face of COVID-19 pandemic using Age-Structured Deterministic SEIR model",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "This study is not funded by any agency"
+        }
+    ]
+}

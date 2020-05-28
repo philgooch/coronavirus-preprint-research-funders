@@ -1,0 +1,16 @@
+{
+    "abstract": "We use an established semi-mechanistic Bayesian hierarchical model of the COVID-19 pandemic, driven by European mortality data, to estimate the prevalence of immunity. We allow the infection-fatality ratio (IFR) to vary, adapt the model's priors to better reflect emerging information, and re-evaluate the model fitting in the light of current mortality data. The results indicate that the IFR of COVID-19 may be an order of magnitude smaller than the current consensus, with the corollary that the virus is more prevalent than currently believed. These results emerge from a simple model and ought to be treated with caution. They emphasise the value of rapid community-scale antibody testing when this becomes available.",
+    "author": "Gustav W Delius; Niall J MacKay; Benedict J Powell; Jonathan W Pitchford; Martin A Bees; George W A Constable",
+    "date": 2020,
+    "doi": "10.1101/2020.04.19.20071811",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.19.20071811"
+    },
+    "title": "More prevalent, less deadly? Bayesian inference of the COVID19 Infection Fatality Ratio from mortality data",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding"
+        }
+    ]
+}

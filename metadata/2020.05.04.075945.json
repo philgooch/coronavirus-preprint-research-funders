@@ -1,0 +1,45 @@
+{
+    "title": "The UCSC SARS-CoV-2 Genome Browser",
+    "date": 2020,
+    "author": "Jason D. Fernandes,\u200b ,Angie S. Hinrichs,\u200b ,Hiram Clawson,\u200b ,Jairo Navarro Gonzalez,\u200b ,Brian T. Lee\u200b1,Luis R. Nassar,\u200b ,Brian J. Raney,\u200b ,Kate R. Rosenbloom,\u200b ,Santrupti Nerli,\u200b ,Arjun Rao,\u200b ,Daniel Schmelter,\u200b ,Ann S. Zweig,\u200b ,Todd M. Lowe,\u200b ,Manuel Ares, Jr.\u200b4,Russ Corbet-Detig,\u200b ,W. James Kent\u200b1, David Haussler,\u200b ,Maximilian Haeussler,\u200b",
+    "affiliations": [
+        "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA, 95064, USA",
+        "Howard Hughes Medical Institute, University of California Santa Cruz, Santa Cruz, CA, 95064, USA",
+        "ImmunoX Initiative, University of California San Francisco, San Francisco, CA 94143, USA",
+        "Molecular, Cell and Developmental Biology, University of California Santa Cruz, Santa Cruz, CA, 95064, USA",
+        "Center for Molecular Biology of RNA,University of California Santa Cruz, Santa Cruz, CA, 95064, USA Correspondence should be addressed to:"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.04.075945",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.04.075945.pdf"
+    },
+    "abstract": "Background: Researchers are generating molecular data pertaining to the SARS-CoV-2 RNA genome and its proteins at an unprecedented rate during the COVID-19 pandemic. As a result, there is a critical need for rapid and continuously updated access to the latest molecular data in a format in which all data can be quickly cross-referenced and compared. We adapted our genome browser visualization tool to the viral genome for this purpose. Molecular data, curated from published studies or from database submissions, are mapped to the viral genome and grouped together into \u201cannotation tracks\u201d where they can be visualized along the linear map of the viral genome sequence and programmatically downloaded in standard format for analysis. Results: The UCSC Genome Browser for SARS-CoV-2 (https://genome.ucsc.edu/covid19.html) provides continuously updated access to the mutations in the many thousands of SARS-CoV-2 genomes deposited in GISAID and the international nucleotide sequencing databases, displayed alongside phylogenetic trees. These data are augmented with alignments of bat, pangolin, and other animal and human coronavirus genomes, including per-base evolutionary rate analysis. All available annotations are cross-referenced on the virus genome, including those from major databases (PDB, RFAM, IEDB, UniProt) as well as up-to-date individual results from preprints. Annotated data include predicted and validated immune epitopes, promising antibodies, RT-PCR and sequencing primers, CRISPR guides (from research, diagnostics, vaccines, and therapies), and points of interaction between human and viral genes. As a community resource, any user can add manual annotations which are quality checked and shared publicly on the browser the next day. Conclusions: We invite all investigators to contribute additional data and annotations to this resource to accelerate research and development activities globally. Contact us at genome-www@soe.ucsc.eduwith data suggestions or requests for support for adding data. Rapid sharing of data will accelerate SARS-CoV-2 research, especially when researchers take time to integrate their data with those from other labs on a widely-used community browser platform with standardized machine-readable data formats, such as the SARS-CoV-2 Genome Browser.",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "The UCSC Human Genome Browser",
+                    "award-id": [
+                        "5U41HG002371-19"
+                    ]
+                },
+                {
+                    "funding-source": "The SARS-CoV-2"
+                },
+                {
+                    "funding-source": "Pat & Rowland Rebele and"
+                },
+                {
+                    "funding-source": "University of California Office of the President Emergency COVID-19 Research Seed Funding Grant",
+                    "award-id": [
+                        "R00RG2456"
+                    ]
+                }
+            ],
+            "funding-statement": "The UCSC Human Genome Browser software, quality control, and training is funded by NHGRI, currently with grant 5U41HG002371-19. The SARS-CoV-2 genome browser and data annotation tracks are funded by generous individual donors including Pat & Rowland Rebele and a University of California Office of the President Emergency COVID-19 Research Seed Funding Grant R00RG2456."
+        }
+    ]
+}

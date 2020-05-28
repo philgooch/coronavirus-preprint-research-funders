@@ -1,0 +1,29 @@
+{
+    "abstract": "The ability to detect an infectious agent in a widespread epidemic is crucial to the success of quarantine efforts in addition to sensitive and accurate screening of potential cases of infection from patients in a clinical setting. Enabling testing outside of sophisticated laboratories broadens the scope of control and surveillance efforts, but also requires robust and simple methods that can be used without expensive instrumentation. Here we report a method to identify SARS-CoV-2 (COVID-19) virus RNA from purified RNA or cell lysis using loop-mediated isothermal amplification (LAMP) using a visual, colorimetric detection. This test was additionally verified using RNA samples purified from respiratory swabs collected from COVID-19 patients in Wuhan, China with equivalent performance to a commercial RT-qPCR test while requiring only heating and visual inspection. This simple and sensitive method provides an opportunity to facilitate virus detection in the field without a requirement for complex diagnostic infrastructure.",
+    "affiliations": [
+        "Wuhan Institute of Virology, and the Chinese Academy of Sciences"
+    ],
+    "author": "Luo Sun; Raphael Ohuru Nyaruaba; Yinhua Zhang; Nelson Odiwuor; Hongping Wei; Jin Xiong; Nathan A Tanner",
+    "date": 2020,
+    "doi": "10.1101/2020.02.26.20028373",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.26.20028373"
+    },
+    "title": "Rapid Molecular Detection of SARS-CoV-2 (COVID-19) Virus RNA Using Colorimetric LAMP",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "New England Biolabs, Inc"
+                },
+                {
+                    "funding-source": "Wuhan Institute of Virology,"
+                },
+                {
+                    "funding-source": "Chinese Academy of Sciences"
+                }
+            ],
+            "funding-statement": "Work was funded by New England Biolabs, Inc., Wuhan Institute of Virology, and the Chinese Academy of Sciences"
+        }
+    ]
+}

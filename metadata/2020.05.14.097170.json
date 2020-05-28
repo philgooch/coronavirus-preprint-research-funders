@@ -1,0 +1,28 @@
+{
+    "title": "SARS-CoV-2 transcriptome analysis and molecular cataloguing of immunodominant epitopes for multi-epitope based vaccine design",
+    "author": "Sandeep Kumar Kushwaha",
+    "date": 2020,
+    "affiliations": [
+        "DBT-National Institute of Animal Biotechnology (NIAB), Hyderabad-500032, Telangana, India",
+        "Center of Bioinformatics, University of Allahabad, Prayagraj-211002, Uttar Pradesh, India"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.14.097170",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.14.097170.pdf"
+    },
+    "abstract": "1. Introduction Corona viruses are a group of related viruses that are responsible for causing diseases ranging from the common cold to severe diseases like Middle East respiratory syndrome (MERS), SARS-CoV-2 in mammals and birds. SARS-CoV-2 is a positive sense single-stranded RNA virus belonging to the family Coronaviridae and subgenus Sarbecovirus. It is responsible for the widespread global pandemic causing an upper respiratory tract infection of humans [1]. SARS-CoV-2 virion ranges from approximately 50-200 nm in diameter [2]. SARS-CoV-2 is made up of four structural proteins known as the S (spike), E (envelope), M (membrane) and N (nucleocapsid) proteins. The nucleocapsid protein contains the viral RNA and the spike, membrane, envelope make up the viral envelope. The spike protein is responsible for the viral attachment with angiotensin-converting enzyme 2 (ACE2) receptors and facilitates entry into the host cells [3]. The ACE2 receptors are present in the goblet (secretory) cells of ciliated cells in the nose, back of the throat, lungs, gut, heart muscles and kidney which facilitates the hand to mouth transmission route. The viral RNA is released in the nasal cells when the transmembrane serine protease 2 (TMPRSS2) splits the spike proteins, and enters inside the cell, the viral genetic material replicates into millions. Seroconversion of SARS-CoV-2 took place within four days of infection and was found in most patients by day 14 and persistent specific IgG and antibody production was reported even after 2 years of infection [4]. Whereas limited serological details of SARS-CoV-2 are available at the moment, it is reported that a patient showed the presence of IgM after 9 days of infection, and later production of IgG after 2 weeks [5]. In an in vitro plaque testing with patient sera, it was confirmed that it is able to neutralize SARS-CoV highlighting the successful mounting of humoral response [6]. The current evidences have shown that Th1 immune response can be successful for controlling SARS-CoV and may work for SARS-CoV-2 as well, since the epitopes overlap for both, the T-epitopes can be identified and will be valuable for designing the cross-reactive vaccines. Epitopes are the antigenic regions of an antigen, causing an immune response which is identified by antibodies generated from T-and B-cells. T-cell epitopes present on the cell surface binds to the major histocompatibility complex (MHC) molecules. The MHC I molecules presents peptides of 8-11 amino acids in length, which are CD8+ T-cell epitopes. In contrast, MHC II molecules present longer peptides of 13-17 amino acids in length, which are CD4+ T-cell epitopes. The epitope-based vaccine development offers prospective advantages over the whole protein approach because the immune response against highly reserved epitopes over a widespread population can be used for the treatment of highly variable pathogens [7, 8]. Various successful studies were reported for the epitope-based vaccine design against West Nile virus [9], dengue virus [10], chikungunya virus [11], shigellosis [12] etc. COVID-19 first cases were observed in Wuhan, China in December 2019, which seems to be the origin of SARS-CoV-2 virus. As of April 2020, there are more than 3.04 million confirmed cases, with 211 thousand deaths globally. Vaccines and commercial detection kits are mostly in the developmental stages to combat this viral infection, and currently, chloroquine and hydroxychloroquine drugs are being",
+    "keywords": [
+        "SARS-CoV-2",
+        "COVID-19",
+        "and B-cell",
+        "Peptide",
+        "Epitopes",
+        "Vaccine"
+    ],
+    "funding": [
+        {}
+    ]
+}

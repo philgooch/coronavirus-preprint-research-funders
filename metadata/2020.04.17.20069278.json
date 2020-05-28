@@ -1,0 +1,16 @@
+{
+    "abstract": "There are many ways of analyzing the progress of an epidemic, but when it comes to short term forecasting, it is very hard to beat a simple time series regression model. These are good at allowing for the noise in day to day observations, extracting the trend and projecting it forward. We develop regression models to exploit this, using the daily statistics released by PHE and NHSE. These strongly suggest that the tide has turned and that taking one day with the next, the national figures for deaths from this virus will now fall back noticeably, easing the pressure on the NHS and its staff.",
+    "author": "Adam Golinski; Peter D. Spencer",
+    "date": 2020,
+    "doi": "10.1101/2020.04.17.20069278",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.17.20069278"
+    },
+    "title": "Coronametrics: The UK turns the corner",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "Personal unfunded research."
+        }
+    ]
+}

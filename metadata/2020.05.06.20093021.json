@@ -1,0 +1,34 @@
+{
+    "abstract": "The Coronavirus Disease 2019 (COVID-19) has swept the whole world with high mortality. Since droplet transmission is the main route of transmission, wearing a mask serves as a crucial preventive measure. However, the virus has spread quite quickly, causing severe mask shortage. Finding alternative materials for homemade masks while ensuring the significant performance indicators will help alleviate the shortage of masks. Referring to the national standard for the \"Surgical Mask\" of China, 17 materials to be selected for homemade masks were tested in four key indicators: pressure difference, particle filtration efficiency, bacterial filtration efficiency and resistance to surface wetting. Eleven single-layer materials met the standard of pressure difference (\u226449 Pa), of which 3 met the standard of resistance to surface wetting (\u22653), 1 met the standard of particle filtration efficiency (\u226530%), but none met the standard of bacterial filtration efficiency (\u226595%). Based on the testing results of single-layer materials, fifteen combinations of paired materials were tested. The results showed that three double-layer materials including double-layer medical non-woven fabric, medical non-woven fabric plus non-woven shopping bag, and medical non-woven fabric plus granular tea towel could meet all the standards of pressure difference, particle filtration efficiency, and resistance to surface wetting, and were close to the standard of the bacterial filtration efficiency. In conclusion, if resources are severely lacking and medical masks cannot be obtained, homemade masks using available materials, based on the results of this study, can minimize the chance of infection to the maximum extent.",
+    "affiliations": [
+        "West China Hospital of Sichuan University for tackling COVID-19(No.HX-2019-nCoV-024,HX-2019-nCoV-020,HX-2019-nCoV-038,HX-2019-nCoV-067),and joint fund of technology innovation project from Chengdu Science and Technology Bureau for tacking COVID-19,grant no.2020-YF05-00263-SN"
+    ],
+    "author": "Dijia Wang; Xiaoli Zhou; Hao Huang; Jin Huang; Liu Yang; Liang Du; Yifan Cheng; Hui Zhang; Zhiyong Zong; Yan Liu; Yanjun You; Xin Yong; Youlin Long; Qiong Guo",
+    "date": 2020,
+    "doi": "10.1101/2020.05.06.20093021",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.06.20093021"
+    },
+    "title": "Selection of homemade mask materials for preventing transmission of COVID-19: a laboratory study",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "West China Hospital of Sichuan University for",
+                    "award-id": [
+                        "COVID-19",
+                        "HX-2019-nCoV-024,HX-2019-nCoV-020,HX-2019-nCoV-038,HX-2019-nCoV-067"
+                    ]
+                },
+                {
+                    "funding-source": "Chengdu Science and Technology Bureau for",
+                    "award-id": [
+                        "COVID-19",
+                        "2020-YF05-00263-SN"
+                    ]
+                }
+            ],
+            "funding-statement": "The study was supported by science and technology project from West China Hospital of Sichuan University for tackling COVID-19(No.HX-2019-nCoV-024,HX-2019-nCoV-020,HX-2019-nCoV-038,HX-2019-nCoV-067),and joint fund of technology innovation project from Chengdu Science and Technology Bureau for tacking COVID-19,grant no.2020-YF05-00263-SN"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "abstract": "Objectives: To provide the first known comprehensive analysis of COVID-19 outcomes in a federal penitentiary system. We examined the following COVID-19 outcomes within federal penitentiaries and contrasted them with the overall population in the penitentiaries' respective provincial jurisdictions: testing, prevalence, the proportion recovered, and fatality. Methods: Data for prisons were obtained from the Correctional Service of Canada and, for the general population, from COVID-19 Esri Canadian Outbreak Tracking Hub. Data were retrieved between March 30 and April 21, 2020, and are accurate to this date. Penitentiary-, province- and sex-specific frequency statistics for each outcome were calculated. Results: Data on 50 of 51 penitentiaries (98%) were available. Of these, 72% of penitentiaries reported fewer tests per 1000 population than the Canadian general population average (16 tests/1000 population), and 24% of penitentiaries reported zero tests. Penitentiaries with high levels of testing were those that already had elevated COVID-19 prevalence. Five penitentiaries reported an outbreak (at least one case). Hardest hit penitentiaries were those in Quebec and British Columbia, with some prisons reporting COVID-19 prevalence of 30% to 40%. Of these, two were women's prisons. Female prisoners were over-represented among cases (31% of cases overall, despite representing 5% of the total prison population). Conclusion: Increased sentinel or universal testing may be appropriate given the confined nature of prison populations. This, along with rigorous infection prevention control practices and the potential release of prisoners, will be needed to curb current outbreaks and those likely to come.",
+    "author": "Arjumand Siddiqi; Alexandra Blair; Abtin Parnia",
+    "date": 2020,
+    "doi": "10.1101/2020.05.02.20086314",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.02.20086314"
+    },
+    "title": "Testing lags and emerging COVID-19 outbreaks in federal penitentiaries in Canada",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Fonds de Recherche du Qu\u00e9bec-Sant\u00e9"
+                }
+            ],
+            "funding-statement": "AB receives postdoctoral funding from the Fonds de Recherche du Qu\u00e9bec-Sant\u00e9"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "Canada Research Chair in Population Health Equity"
+                }
+            ],
+            "funding-statement": "AS is supported by the Canada Research Chair in Population Health Equity"
+        }
+    ]
+}

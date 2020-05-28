@@ -1,0 +1,26 @@
+{
+    "abstract": "We describe a minimum, rapidly scalable ventilator designed for COVID-19 patients with ARDS. Our design philosophy is not only to try to address potential ventilator shortages, but also to account for uncertainties in the supply chains of parts commonly used in traditional ventilators. To do so we employ a modular design approach and broadly explore taking advantage of parts from non-traditional supply chains. In our current prototype, we demonstrate volume control with assist control on a test lung and present a linear actuator-driven pinch valve-based implementation for both pressure control and volume control with decelerating inspiratory flow. We estimate the component cost of the system to be around $500. We publish our draft design documents and current implementation which is open and accessible in the hope that broadening the community globally will accelerate arriving at a solution and that peer review will improve the final design.",
+    "author": "Joseph Orr; Hongquan Li; Deepak Krishnamurthy; Kai Kuck; Lara Brewer; Jim Cybulski; Tomasz Petelenz; Beca Chacin; Ethan Li; Patrick Kolbay; Derek Sakata; Soeren Hoehne; Manu Prakash; Thomas Clardy",
+    "date": 2020,
+    "doi": "10.1101/2020.04.18.20070367",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.18.20070367"
+    },
+    "title": "Utah-Stanford Ventilator (Vent4US): Developing a rapidly scalable ventilator for COVID-19 patients with ARDS",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Schmidt Futures, Moore"
+                },
+                {
+                    "funding-source": "CZI BioHub and HHMI-Gates Foundation for"
+                },
+                {
+                    "funding-source": "Prakash Lab"
+                }
+            ],
+            "funding-statement": "We thank Schmidt Futures, Moore Foundation, CZI BioHub and HHMI-Gates Foundation for financial support to the Prakash Lab"
+        }
+    ]
+}

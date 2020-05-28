@@ -1,0 +1,48 @@
+{
+    "abstract": "A respiratory illness has been spreading rapidly in China, since its outbreak in Wuhan city, Hubei province in December 2019. The illness was caused by a novel coronavirus, named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Clinical manifestations related to SARS-CoV-2 infection ranged from no symptom to fatal pneumonia. World Health Organization (WHO) named the diseases associated with SARS-CoV-2 infection as COVID-19. Real time RT-PCR is the only laboratory test available till now to confirm the infection. However, the accuracy of real time RT-PCR depends on many factors, including sampling location and of methods, quality of RNA extraction and training of operators etc. Variations in these factors might significantly lower the sensitivity of the detection. We developed a peptide-based luminescent immunoassay to detect IgG and IgM. Cut-off value of this assay was determined by the detection of 200 healthy sera and 167 sera from patients infected with other pathogens than SARS-CoV-2. To evaluate the performance of this assay, we detected IgG and IgM in the 276 sera from confirmed patients. The positive rate of IgG and IgM were 71.4% (197/276) and 57.2% (158/276) respectively. By combining with real time RT-PCR detection, this assay might help to enhance the accuracy of diagnosis of SARS-CoV-2 infection.",
+    "affiliations": [
+        "The Major National S&T program grant (2017ZX10202203 and 2017ZX10302201) from Science & Technology Commission of China; The grant (81871635, 81671997 and 81902060) from the National Natural Science Foundation of China, and the grant (20180141 and 20170413) from the Science & Technology Commission of Yuzhong district, Chongqing"
+    ],
+    "author": "Luyi Huang; Jianglin Xiang; Daoxin Wang; Ni Tang; Yanmeng Chen; Yuan Hu; Hongxin Du; Xuefei Cai; Jieli Hu; Chunyang Gan; Wenguang Tian; Xiaoli Zhang; Fachun Zhou; Yaokai Chen; Ailong Huang; Amei Chen; Kai Fan; Deqiang Wang; Zhijie Li; Guicheng Wu; Qingzhu Gao; Changlong He; Haijun Deng; Jie Wei; Beizhong Liu; Yong Lin; Kun Wang; Quanxin Long; Ping Liu; Juan Chen; Peng Hu; Jihua Ren; Jing Wang; Pu Liao",
+    "date": 2020,
+    "doi": "10.1101/2020.02.22.20026617",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.02.22.20026617"
+    },
+    "title": "A Peptide-based Magnetic Chemiluminescence Enzyme Immunoassay for Serological Diagnosis of Corona Virus Disease 2019 (COVID-19)",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Emergency Project from the Science & Technology Commission of Chongqing; The"
+                },
+                {
+                    "funding-source": "Major National S&T",
+                    "award-id": [
+                        "2017ZX10202203",
+                        "2017ZX10302201"
+                    ]
+                },
+                {
+                    "funding-source": "Science & Technology Commission of China; The",
+                    "award-id": [
+                        "81871635",
+                        "81671997",
+                        "81902060"
+                    ]
+                },
+                {
+                    "funding-source": "National Natural Science Foundation of China,",
+                    "award-id": [
+                        "20180141",
+                        "20170413"
+                    ]
+                },
+                {
+                    "funding-source": "Science & Technology Commission of Yuzhong"
+                }
+            ],
+            "funding-statement": "This work was supported by the Emergency Project from the Science & Technology Commission of Chongqing; The Major National S&T program grant (2017ZX10202203 and 2017ZX10302201) from Science & Technology Commission of China; The grant (81871635, 81671997 and 81902060) from the National Natural Science Foundation of China, and the grant (20180141 and 20170413) from the Science & Technology Commission of Yuzhong district, Chongqing"
+        }
+    ]
+}

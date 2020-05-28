@@ -1,0 +1,23 @@
+{
+    "abstract": "Background: A novel coronavirus was detected in Wuhan, China and reported to WHO on 31 December 2019. WHO declared a global pandemic on 11 March 2020. The first case in the US was reported in January 2020. Since mid-March 2020, the number of confirmed cases has increased exponentially in the States, with 1.1 million confirmed cases, and 57.4 thousand deaths as of 30 April 2020. Even though some believe that this new lethal coronavirus does not show any partiality to the rich, previous epidemiological studies find that the poor in the US are more susceptible to the epidemics due to their limited access to preventive measures and crowded living conditions. In this study, we postulate that the rich is more susceptible to Covid-19 infection during the early stage before social distancing measures have been introduced. This may be attributed to the higher mobility (both inter- and intra-city), given their higher tendency to travel for business/education, and to more social interactions. However, we postulate after the lockdown/social distancing has been imposed, the infection among the rich may be reduced due to better living conditions. Further, the rich may be able to afford better medical treatment once infected, hence a relatively lower mortality. In contrast, without proper medical insurance coverage, the poor may be prevented from receiving timely and proper medical treatment, hence a higher mortality. Method: We will collect the number of confirmed Covid-19 cases in the US during the period of Jan 2020 to Apr 2020 from Johns Hopkins University, also the number of Covid-19 tests in the US from the health departments across the States. County-level socio-economic status (SES) including age, sex, race/ethnicity, income, education, occupation, employment status, immigration status, and housing price, will be collected from the US Census Bureau. State/county-level health conditions including the prevalence of chronic diseases will be collected from the US CDC. State/county-level movement data including international and domestic flights will be collected from the US Bureau of Transportation Statistics. We will also collect the periods of lockdown/social distancing. Regression models are constructed to examine the relationship between SES, and Covid-19 infection and mortality at the state/county-level before and after lockdown/social distancing, while accounting for Covid-19 testing capacities and co-morbidities. Expected Findings: We expect that there is a positive correlation between Covid-19 infection and SES at the state/county-level in the US before social distancing. In addition, we expect a negative correlation between Covid-19 mortality and SES.\nCompeting Interest Statement",
+    "author": "Peiyang Guo; Yang Han; Wilton W.T. Fok; Ruiqiao Bai; Jacqueline C.K. Lam; Victor O.K. Li",
+    "date": 2020,
+    "doi": "10.1101/2020.05.01.20087403",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.01.20087403"
+    },
+    "title": "Who is more susceptible to Covid-19 infection and mortality in the States?",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Theme-based Research Scheme of the Research Grants Council of Hong Kong,",
+                    "award-id": [
+                        "T41-709/17-N"
+                    ]
+                }
+            ],
+            "funding-statement": "This research is supported in part by the Theme-based Research Scheme of the Research Grants Council of Hong Kong, under Grant No T41-709/17-N"
+        }
+    ]
+}

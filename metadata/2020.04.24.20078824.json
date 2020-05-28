@@ -1,0 +1,16 @@
+{
+    "abstract": "A recent study by Bendavid et al. claimed that the rate of infection of COVID-19 in Santa Clara county was between 2.49% and 4.16%, 50-85 times higher than the number of officially confirmed cases. The statistical methodology used in that study overestimates of rate of infection given the available data. We jointly estimate the sensitivity and specificity of the test kit along with rate of infection with a simple Bayesian model, arriving at lower estimates of the rate of COVID-19 in Santa Clara county. Re-analyzing their data with our model, we find that the rate of infection was likely between 0.27% and 3.21%.",
+    "author": "Stephen T Bennett; Mark Steyvers",
+    "date": 2020,
+    "doi": "10.1101/2020.04.24.20078824",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.24.20078824"
+    },
+    "title": "Estimating COVID-19 Antibody Seroprevalence in Santa Clara County, California. A re-analysis of Bendavid et al.",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received relating to this study."
+        }
+    ]
+}

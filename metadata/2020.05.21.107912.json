@@ -1,0 +1,24 @@
+{
+    "title": "Analyzing the impact of SARS CoV-2 on the human proteome",
+    "date": 2020,
+    "author": "Ernesto Estrada",
+    "affiliations": [
+        "Instituto Universitario de Matem\u00e1ticas y Aplicaciones, Universidad de Zaragoza, 50009 Zaragoza, Spain; ARAID Foundation, Government of Arag\u00f3n, 50018 Zaragoza, Spain"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.21.107912",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.21.107912.pdf"
+    },
+    "abstract": "The COVID-19 respiratory disease is caused by the novel coronavirus SARS-CoV-2, which uses the enzyme ACE2 to entry human cells. This disease is characterized by important damages at multi-organ level, partially due to the abundant expression of ACE2 in practically all human tissues. However, not every organ in which ACE2 is abundant is affected by SARS CoV-2, which suggests the existence of other multi-organ routes for transmitting the perturbations produced by the virus. We consider here diffusive processes through the protein-protein interaction (PPI) network of proteins targeted by SARS CoV-2 as such alternative route. We found a subdiffusive regime that allows the propagation of virus perturbations through the PPI network at a significant rate. By following the main subdiffusive routes across the PPI network we identify proteins mainly expressed in the heart, cerebral cortex, thymus, testis, lymph node, kidney, among others of the organs reported to be affected by COVID-19.",
+    "hyperbole": [
+        "is remarkable that so few organs become viruspositive, despite the presence of ACE2 on the endothelia of all organs and SARS-CoV in blood plasma of infected individuals\u201d.",
+        "The remarkable finding here is however the fact that such shock wave occurs at much earlier times in the subdiffusive regimes than at the normal diffusion. That is, while for \u03b1 = 1.0 these perturbations occur at t \u2248 0.1 \u2212 0.3, for \u03b1 = 0.75 they occur at t \u2248 0.0 \u2212 0.2, and for \u03b1 = 0.5 at t \u2248 0.0 \u2212 0.1. Seeing this phenomenon in the light of what we have observed in the previous paragraph is not strange due to the observation that such processes go at much faster rate at earlier times, and at short distances, than the normal diffusion. In fact, this is a consequence of the existence of a positive scalar T for which E\u03b1,1 (\u2212\u03b3t\u03b1) decreases faster than exp (\u2212\u03b3t) for t \u2208 (0, T ) for \u03b3 \u2208 R+ and \u03b1 \u2208 R+ (see Theorem 4.1 in (32 )). Hereafter, we will consider the value of \u03b1 = 0.75 for our experiments due to the fact that it reveals a subdiffusive regime, but the shoch waves observed before are not occurring in an almost instantaneous way like when \u03b1 = 0.5 , which would be difficult from a biological perspective.",
+        "Also remarkable, the average shortest diffusive path length is almost identical to the shortest (topological) one. This means that this protein mainly uses shortest (topological) paths in perturbing other proteins in the PPI. In other words, it is highly efficient in conducting such perturbations. We will analyze this characteristics of the PPI of human proteins targeted by SARS CoV-2 in a further section of this work."
+    ],
+    "funding": [
+        {}
+    ]
+}

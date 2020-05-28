@@ -1,0 +1,30 @@
+{
+    "title": "SARS-CoV-2, an evolutionary perspective of interaction with human ACE2 reveals undiscovered amino acids necessary for complex stability",
+    "author": "Yunierkis Perez Castillo",
+    "date": 2020,
+    "affiliations": [
+        "Carrera de Ingenier\u00eda en Biotecnolog\u00eda, Facultad de Ingenier\u00eda y Ciencias Agropecuarias, Universidad de Las Am\u00e9ricas, Quito, Ecuador, EC170125",
+        "Biodiversidad Medio Ambiente y Salud (BIOMAS), Direcci\u00f3n General de Investigaci\u00f3n, Universidad de Las Am\u00e9ricas, Quito, Ecuador",
+        "One Health Research Group, Faculty of Health Sciences, Universidad de Las Am\u00e9ricas, Quito, Ecuador",
+        "Grupo de Bio-Quimioinform\u00e1tica y Escuela de Ciencias F\u00edsicas y Matem\u00e1ticas, Universidad de Las Am\u00e9ricas, Quito, Ecuador, EC170125"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.03.21.001933",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.03.21.001933.pdf"
+    },
+    "abstract": "The emergence of SARS-CoV-2 has resulted in more than 200,000 infections and nearly 9,000 deaths globally so far. This novel virus is thought to have originated from an animal reservoir, and acquired the ability to infect human cells using the SARS-CoV cell receptor hACE2. In the wake of a global pandemic it is essential to improve our understanding of the evolutionary dynamics surrounding the origin and spread of a novel infectious disease. One way theory predicts selection pressures should shape viral evolution is to enhance binding with host cells. We first assessed evolutionary dynamics in select betacoronavirus spike protein genes to predict where these genomic regions are under directional or purifying selection between divergent viral lineages at various scales of relatedness. With this analysis, we determine a region inside the receptor-binding domain with putative sites under positive selection interspersed among highly conserved sites, which are implicated in structural stability of the viral spike protein and its union with human receptor hACE2. Next, to gain further insights into factors associated with coronaviruses recognition of the human host receptor, we performed modeling studies of five different coronaviruses and their potential binding to hACE2. Modeling results indicate that interfering with the salt bridges at hot spot 353 could be an effective strategy for inhibiting binding, and hence for the prevention of coronavirus infections. We also propose that a glycine residue at the receptor binding domain of the spike glycoprotein can have a critical role in permitting bat variants of the coronaviruses to infect human cells.",
+    "keywords": [
+        "SARS-CoV-2",
+        "positive selection",
+        "purifying selection",
+        "spike protein",
+        "ACE2",
+        "molecular dynamics"
+    ],
+    "funding": [
+        {}
+    ]
+}

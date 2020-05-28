@@ -1,0 +1,38 @@
+{
+    "abstract": "Background: The accurate detection of SARS-CoV-2 through respiratory sampling is critical for the prevention of further transmission and the timely initiation of treatment for COVID-19. There is a diverse range of SARS-CoV-2 detection rates in reported studies, with uncertainty as to the optimal sampling strategy for COVID-19 diagnosis and monitoring. Methods: We performed a systematic review and meta-analysis of studies comparing respiratory sampling strategies for the detection of SARS-CoV-2 RNA. The inclusion criteria were studies that assessed at least two respiratory sampling sites (oropharyngeal swab, nasopharyngeal swab, and sputum) in participants with COVID-19. The percentage positive tests were compared between sampling modalities by constructing a Z-test assuming independence and using the standard errors obtained from the random effects meta-analysis. Findings: From 1039 total studies, we identified 11 studies that met our inclusion criteria, with SARS-CoV-2 testing results from a total of 3442 respiratory tract specimens. Compared to nasopharyngeal swab sampling, sputum testing resulted in significantly higher rates of SARS-CoV-2 RNA detection while oropharyngeal swab testing had lower rates of viral RNA detection. Earlier sampling after symptom onset was associated with improved detection rates, but the differences in SARS-CoV-2 RNA detection by sampling method was consistent regardless of the duration of symptoms. Interpretation: The results support sputum sampling as a primary method of COVID-19 diagnosis and monitoring, and highlight the importance of early testing after symptom onset to increase the rates of COVID-19 diagnosis.\nCompeting Interest Statement",
+    "affiliations": [
+        "Harvard University for AIDS Research (NIAID 5P30AI060354)"
+    ],
+    "author": "Elmira Esmaeilzadeh; Abbas Mohammadi; Ronald J Bosch; Yijia Li; Jonathan Li",
+    "date": 2020,
+    "doi": "10.1101/2020.05.14.20102038",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.14.20102038"
+    },
+    "title": "SARS-CoV-2 Detection in Different Respiratory Sites: A Systematic Review and Meta-Analysis",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "NIH",
+                    "award-id": [
+                        "U01AI106701"
+                    ]
+                },
+                {
+                    "funding-source": "Harvard University for AIDS Research",
+                    "award-id": [
+                        "NIAID 5P30AI060354"
+                    ]
+                },
+                {
+                    "funding-source": "NIAID",
+                    "award-id": [
+                        "5P30AI060354"
+                    ]
+                }
+            ],
+            "funding-statement": "This study was funded in part by the NIH grants U01AI106701 and by the Harvard University for AIDS Research (NIAID 5P30AI060354)"
+        }
+    ]
+}

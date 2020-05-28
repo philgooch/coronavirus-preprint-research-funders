@@ -1,0 +1,16 @@
+{
+    "abstract": "The present study discusses the spread of COVID\u22122019 epidemic of India and its end by using SIR model. Here we have discussed about the spread of COVID\u22122019 epidemic in great detail using Euler method. The Euler method is a method for solving the ordinary differential equations. The SIR model has the combination of three ordinary differential equations. In this study, we have used the data of COVID\u22122019 Outbreak of India on 8 May, 2020. In this data, we have used 135710 susceptible cases, 54340 infectious cases and 1830 reward/removed cases for the initial level of experimental purpose. Data about a wide variety of infectious diseases has been analyzed with the help of SIR model. Therefore, this model has been already well tested for infectious diseases by various scientists and researchers. Using the data to the number of COVID\u22122019 outbreak cases in India the results obtained from the analysis and simulation of this proposed SIR model showing that the COVID\u22122019 epidemic cases increase for some time and there after this outbreak decrease. The results obtained from the SIR model also suggest that the Euler method can be used to predict transmission and prevent the COVID\u22122019 epidemic in India. Finally, from this study, we have found that the outbreak of COVID\u22122019 epidemic in India will be at its peak on 25 May 2020 and after that it will work slowly and on the verge of ending in the first or second week of August 2020.",
+    "author": "Dr. Ramjeet Singh Yadav",
+    "date": 2020,
+    "doi": "10.1101/2020.05.15.20103077",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.15.20103077"
+    },
+    "title": "Mathematical Modeling and Simulation of SIR Model for COVID\u22122019 Epidemic Outbreak: A Case Study of India",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No funding"
+        }
+    ]
+}

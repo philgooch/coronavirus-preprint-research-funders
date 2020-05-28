@@ -1,0 +1,22 @@
+{
+    "title": "Artificial intelligence predicts the immunogenic landscape of SARS-CoV-2: toward universal blueprints for vaccine designs",
+    "date": 2020,
+    "author": "Brandon Malone, Boris Simovski, Cl\u00e9ment Molin\u00e9, Jun Cheng, Marius Gheorghe, Hugues Fontenelle, Ioannis Vardaxis, Simen Tenn\u00f8e, Jenny-Ann Malmberg, Richard Stratford, Trevor Clancy\u00b61",
+    "affiliations": [
+        "NEC OncoImmunity AS, Oslo Cancer Cluster, Ullernchausseen 64/66, 0379 Oslo, Norway",
+        "NEC Laboratories Europe GmbH Kurfuersten-Anlage 36, 69115 Heidelberg, Germany",
+        "These authors contributed equally",
+        "Corresponding author"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.21.052084",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.21.052084.pdf"
+    },
+    "abstract": "The global population is at present suffering from a pandemic of Coronavirus disease 2019 (COVID-19), caused by the novel coronavirus Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). The goals of this study were to use artificial intelligence (AI) to predict blueprints for designing universal vaccines against SARS-CoV-2, that contain a sufficiently broad repertoire of T-cell epitopes capable of providing coverage and protection across the global population. To help achieve these aims, we profiled the entire SARS-CoV-2 proteome across the most frequent 100 HLA-A, HLA-B and HLA-DR alleles in the human population, using host-infected cell surface antigen presentation and immunogenicity predictors from the NEC Immune Profiler suite of tools, and generated comprehensive epitope maps. We then used these epitope maps as input for a Monte Carlo simulation designed to identify statistically significant \u201cepitope hotspot\u201d regions in the virus that are most likely to be immunogenic across a broad spectrum of HLA types. We then removed epitope hotspots that shared significant homology with proteins in the human proteome to reduce the chance of inducing off-target autoimmune responses. We also analyzed the antigen presentation and immunogenic landscape of all the nonsynonymous mutations across 3400 different sequences of the virus, to identify a trend whereby SARS-COV-2 mutations are predicted to have reduced potential to be presented by host-infected cells, and consequently detected by the host immune system. A sequence conservation analysis then removed epitope hotspots that occurred in less-conserved regions of the viral proteome. Finally, we used a database of the HLA genotypes of approximately 22 000 individuals to develop a \u201cdigital twin\u201d type simulation to model how effective different combinations of hotspots would work in a diverse human population, and used the approach to identify an optimal constellation of epitopes hotspots that could provide maximum coverage in the global population. By combining the antigen presentation to the infected-host cell surface and immunogenicity predictions of the NEC Immune Profiler with a robust Monte Carlo and digital twin simulation, we have managed to profile the entire SARS-CoV-2 proteome and identify a subset of epitope hotspots that could be harnessed in a vaccine formulation to provide a broad coverage across the global population.",
+    "funding": [
+        {}
+    ]
+}

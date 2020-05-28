@@ -1,0 +1,45 @@
+{
+    "abstract": "Background Chloroquine and Hydroxychloroquine have been found to be efficient on COV-19, and reported to be efficient in Chinese patients infected by this virus. We evaluate the role of Hydroxychloroquine on respiratory viral loads. Patients and methods Patients were included in a single arm protocol to receive 600mg of hydroxychloroquine daily and their viral load in nasal swabs was tested daily. Depending on their clinical presentation azithromycin was added to the treatment. Untreated patients from another center and cases refusing the protocol were included as negative control. Presence and absence of virus at Day-6 was considered the end point. Results Twenty cases were treated in this study and showed a significant reduction of the viral carriage at D-6 compared to controls, and much lower than reported average carrying duration of untreated patients in the literature. Azithromycin added to Hydroxychloroquine was significantly more efficient for virus elimination. Conclusion : Hydroxychloroquine is significantly associated with viral load reduction/disappearance in patients with COVID-19 and its effect is reinforced by Azithromycin.",
+    "affiliations": [
+        "French National Agency for Drug safety (ANSM) (2020-000890-25) and to the French Ethic Committee (CPP Ile de France) (20.02.28.99113) for reviewing and approved on 5th and 6th March, 2020, respectively. This trial is registered with EU Clinical trials register number 2020-000890-25",
+        "Agence Nationale de la Recherche (ANR, fr: National Agency for Research), (reference: M\u00e9diterran\u00e9e Infection 10-IAHU-03)"
+    ],
+    "author": "Van Thuan HOANG; Vera ESTEVES VIEIRA; Philippe GAUTRET; Philippe PAROLA; Philippe COLSON; Bernard LA SCOLA; Line MEDDED; Johan COURJON; Herve TISSOT DUPONT; Stephane HONORE; Barbara DOUDIER; Valerie GIORDANENGO; Jean Marc ROLAIN; Jean Christophe LAGIER; Didier RAOULT; Philippe BROUQUI; Eric CHABRIERE; Morgan MAILHE",
+    "date": 2020,
+    "doi": "10.1101/2020.03.16.20037135",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.03.16.20037135"
+    },
+    "title": "Hydroxychloroquine and Azithromycin as a treatment of COVID-19: preliminary results of an open-label non-randomized clinical trial",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "French Government"
+                },
+                {
+                    "funding-source": "Investments for the Future)"
+                },
+                {
+                    "funding-source": "Agence Nationale de la Recherche",
+                    "award-id": [
+                        "fr: National Agency for Research"
+                    ]
+                },
+                {
+                    "funding-source": "National Agency for Research)",
+                    "award-id": [
+                        "10-IAHU-0"
+                    ]
+                },
+                {
+                    "funding-source": "M\u00e9diterran\u00e9e Infection",
+                    "award-id": [
+                        "10-IAHU-03"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was supported by the French Government under the \u00ab Investissements d\u0092avenir \u00bb (Investments for the Future) program managed by the Agence Nationale de la Recherche (ANR, fr: National Agency for Research), (reference: M\u00e9diterran\u00e9e Infection 10-IAHU-03)"
+        }
+    ]
+}

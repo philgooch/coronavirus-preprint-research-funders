@@ -1,0 +1,16 @@
+{
+    "abstract": "Objective: To estimate surge capacities and demands of Brazil's health system in view of severe cases of the novel coronavirus disease. Methods: Three types of hospital equipments demanded by severe COVID-19 patients are considered: available intensive care unit (ICU) beds, existing surgery operating rooms and respirators located in other hospital areas. They are taken into account on a cumulative basis forming three levels of hospital equipment usage. Based on a mean duration of hospitalization for the disease, it is estimated the daily admission capacity of infected patients per state and for the entire country for each level of hospital equipment usage. Furthermore, an exponential regression model is fitted by means of the daily national number of new documented patients. The prediction intervals for the number of new patients for certain days in the immediate future are then calculated and compared to the admissible daily demand for the three incremental groups of equipments. The data are made publicly available by the Brazilian federal government and are gathered and analyzed by means of the Python programming language. Results: 41% of the (adult) ICU beds in Brazil were available during 2019, indicating that this hospital equipment has not been on average operating near capacity in national numbers. Nevertheless, there is a marked heterogeneity in the absolute and relative numbers of available and existing ICU beds and existing surgery operating rooms and extra respirators between its states. Conclusions: The remarkable differences between states' hospital resources directly reflect into the number of possible daily admissions of COVID-19 patients with respiratory failure for the three considered levels of hospital equipment usage. In national numbers, Brazil's health system is estimated to be capable of daily admitting 693, 1243 and 2166 severe patients under the three studied scenarios. The fitted model predicted that only the first limit, if any, would be reached.",
+    "author": "Juliana Cristina Cardoso Ferreira; Eric Luis Barroso Cavalcante",
+    "date": 2020,
+    "doi": "10.1101/2020.04.02.20050351",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.02.20050351"
+    },
+    "title": "Surge capacities and predicted demands of Brazil's health system associated with severe COVID-19 cases",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "The authors or their institutions did not receive payment or services from a third party for any aspect of the submitted work."
+        }
+    ]
+}

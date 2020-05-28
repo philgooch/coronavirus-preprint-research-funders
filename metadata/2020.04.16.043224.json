@@ -1,0 +1,19 @@
+{
+    "title": "Transcriptional Difference between SARS-COV-2 and other Human Coronaviruses Revealed by Sub-genomic RNA Profiling",
+    "author": "Lin Lv#, Xiaoqing Xie#, Qiyu Gong, Ru Feng, Xiaokui Guo, Bing Su, Lei Chen",
+    "date": 2020,
+    "affiliations": [
+        "Shanghai Institute of Immunology, Shanghai Jiao Tong University School of Medicine, Shanghai 200025"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.04.16.043224",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.04.16.043224.pdf"
+    },
+    "abstract": "SARS-COV-2 and all other coronaviruses express its 3 prime genes by forming sub-genomic RNA. As the genome of these virus exist in RNA form, only by profiling the relative abundance of these sgRNAs, can the viral transcriptome be revealed. Utilizing publically available meta-transcriptomic data generated from patient samples, we were able to infer the viral transcriptome in vivo, which is distinct from the in vitro one derived from cell culture. Inter-sample diversity was also observed and a sample specific transcript was identified. By doing the same analysis to MERS and SARS data, we were able to compare the three in terms of transcription. Among the differences, SARS-COV-2 has significantly elevated expression of the Spike gene, which may contribute to its high transmissibility.",
+    "funding": [
+        {}
+    ]
+}

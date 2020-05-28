@@ -1,0 +1,23 @@
+{
+    "abstract": "We develop here a data-driven approach for disease recognition based on given symptoms, to be efficient tool for anomaly detection. In a clinical setting and when presented with a patient with a combination of traits, a doctor may wonder if a certain combination of symptoms may be especially predictive, such as the question, \"Are fevers more informative in women than men?\" The answer to this question is, yes. We develop here a methodology to enumerate such questions, to learn what are the stronger warning signs when attempting to diagnose a disease, called Conditional Predictive Informativity, (CPI), whose ranking we call CPIR. This simple to use process allows us to identify particularly informative combinations of symptoms and traits that may help medical field analysis in general, and possibly to become a new data-driven advised approach for individual medical diagnosis, as well as for broader public policy discussion. In particular we have been motivated to develop this tool in the current environment of the pressing world crisis due to the COVID 19 pandemic. We apply the methods here to data collected from national, provincial, and municipal health reports, as well as additional information from online, and then curated to an online publically available Github repository.",
+    "author": "Abd AlRahman R. AlMomani; Erik M. Bollt",
+    "date": 2020,
+    "doi": "10.1101/2020.04.25.20079905",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.25.20079905"
+    },
+    "title": "Informative Ranking of Stand Out Collections of Symptoms: A New Data-Driven Approach to Identify the Strong Warning Signs of COVID 19",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Army Research Office,"
+                },
+                {
+                    "funding-source": "DARPA"
+                }
+            ],
+            "funding-statement": "This work was funded in part by the Army Research Office, and also DARPA"
+        }
+    ]
+}

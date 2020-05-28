@@ -1,0 +1,51 @@
+{
+    "title": "A simple RNA preparation method for SARS-CoV-2 detection by RT-qPCR",
+    "author": "Aniela Wozniak,$, Ariel Cerda,$, Catalina Ibarra-Henriquez,$, Valentina Sebastian",
+    "date": 2020,
+    "affiliations": [
+        "Departamento de Laboratorios Cl\u00ednicos. Escuela de Medicina. Facultad de Medicina",
+        "FONDAP Center for Genome Regulation. Millennium Institute for Integrative Biology (iBio)",
+        "Departamento de Gen\u00e9tica Molecular y Microbiolog\u00eda, Pontificia Universidad Cat\u00f3lica de"
+    ],
+    "identifiers": {
+        "arxiv": null,
+        "doi": "10.1101/2020.05.07.083048",
+        "isbn": null,
+        "doc_id": null,
+        "url": "http://biorxiv.org/cgi/content/short/2020.05.07.083048.pdf"
+    },
+    "abstract": "The technique RT-qPCR for viral RNA detection is the current worldwide strategy used for early detection of the novel coronavirus SARS-CoV-2. RNA extraction is a key pre-analytical step in RT-qPCR, often achieved using commercial kits. However, the magnitude of the COVID-19 pandemic is causing disruptions to the global supply chains used by many diagnostic laboratories to procure the commercial kits required for RNA extraction. Shortage in these essential reagents is even more acute in developing countries with no means to produce kits locally. We sought to find an alternative procedure to replace commercial kits using common reagents found in molecular biology laboratories. Here we report a method for RNA extraction that takes about 40 min to complete ten samples, and is not more laborious than current commercial RNA extraction kits. We demonstrate that this method can be used to process nasopharyngeal swab samples and yields RT-qPCR results comparable to those obtained with commercial kits. Most importantly, this procedure can be easily implemented in any molecular diagnostic laboratory. Frequent testing is crucial for individual patient management as well as for public health decision making in this pandemic. Implementation of this method could maintain crucial testing going despite commercial kit shortages.",
+    "keywords": [
+        "Coronavirus",
+        "SARS-CoV-2",
+        "RNA extraction"
+    ],
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Faculty of Biological Sciences, Faculty"
+                },
+                {
+                    "funding-source": "Iniciativa Cient\u00edfica Milenio"
+                },
+                {
+                    "funding-source": "Fondo de Desarrollo de \u00c1reas Prioritarias"
+                },
+                {
+                    "funding-source": "Center for Genome Regulation",
+                    "award-id": [
+                        "15090007"
+                    ]
+                },
+                {
+                    "funding-source": "Fondo Nacional de Desarrollo Cient\u00edfico y Tecnol\u00f3gico",
+                    "award-id": [
+                        "1180759"
+                    ]
+                }
+            ],
+            "funding-statement": "This work was funded by intramural funds provided by the Faculty of Biological Sciences, Faculty of Medicine, V rr t r\u2019s r s r tt st st tut s r \u2019s b r t ry s s supp rt by u I st tut rItrtv Biology \u2013 iBio (Iniciativa Cient\u00edfica Milenio \u2013 MINECON), Fondo de Desarrollo de \u00c1reas Prioritarias (FONDAP) Center for Genome Regulation (15090007) and Fondo Nacional de Desarrollo Cient\u00edfico y Tecnol\u00f3gico (FONDECYT, 1180759)."
+        }
+    ]
+}

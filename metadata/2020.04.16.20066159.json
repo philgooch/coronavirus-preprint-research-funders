@@ -1,0 +1,16 @@
+{
+    "abstract": "Purpose: We are currently in the middle of a global crisis. Covid19 pandemic has suddenly threatened the existence of human life. Till date, as no medicine or vaccine is discovered, the best way to fight against this pandemic is prevention. The impact of different environmental, social, economic and health parameters is unknown and under research. It is important to identify the factors which can weaken the virus, and the nations which are more vulnerable to this virus. Materials and Methods: Data of weather, vaccination trends, life expectancy, lung disease, number of infected people in the pre-lockdown and post-lockdown period of highly infected nations are collected. These are extracted from authentic online resources and published reports. Analysis is done to find the possible impact of each parameter on CoVid19. Results: CoVid19 has no linear correlation with any of the selected parameters, though few parameters have depicted non-linear relationship in the graphs. Further investigations have shown better result for some parameters. A combination of the parameters results in a better correlation with infection rate. Conclusions: Though depending on the study outcome, the impact of CoVid19 in India can be predicted, the required lockdown period cannot be calculated due to data limitation.",
+    "author": "Soumi Ray; Mitu Roy",
+    "date": 2020,
+    "doi": "10.1101/2020.04.16.20066159",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.16.20066159"
+    },
+    "title": "Susceptibility and Sustainability of India against CoVid19: a multivariate approach",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "NO fund"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "abstract": "In this work we present an analysis of the two major strategies currently implemented around the world in the fight against COVID-19: Social distancing & shelter-in-place measures to protect the susceptible, and testing & contact-tracing to identify, isolate and treat the infected. The majority of countries have principally relied on the former; we consider the examples of Italy, Canada and the United States. By fitting a disease transmission model to daily case report data, we infer that in each of the three countries, the current level of national shutdown is equivalent to about half the population being under quarantine. We demonstrate that in the absence of other measures, scaling back social distancing in such a way as to prevent a second wave will take prohibitively long. In contrast, South Korea, a country that has managed to control and suppress its outbreak principally through mass testing and contact tracing, and has only instated a partial shutdown. For all four countries, we estimate the level of testing which would be required to allow a complete exit from shutdown and a full lifting of social distancing measures, without a resurgence of COVID-19. We find that a \"brute-force\" approach of untargeted universal testing requires an average testing rate of once every 36 to 48 hours for every individual, depending on the country. If testing is combined with contact tracing, and/or if tests are able to identify latent infection, then an average rate of once every 4 to 5 days is sufficient.",
+    "affiliations": [
+        "National Science and Engineering Research Council of Canada, Discovery Grant 400684 (PI: Cojocaru)"
+    ],
+    "author": "Naseem Hakim; Lia Humphrey; Edward W Thommes; Ayman Chit; Roie Fields; Monica Gabriela Cojocaru",
+    "date": 2020,
+    "doi": "10.1101/2020.04.23.20077503",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.23.20077503"
+    },
+    "title": "A path out of COVID-19 quarantine: an analysis of policy scenarios",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "National Science and Engineering Research Council of Canada, Discovery",
+                    "award-id": [
+                        "400684",
+                        "PI: Cojocaru"
+                    ]
+                }
+            ],
+            "funding-statement": "Fields acknowledge support from the National Science and Engineering Research Council of Canada, Discovery Grant 400684 (PI: Cojocaru)"
+        }
+    ]
+}

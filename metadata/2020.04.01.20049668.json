@@ -1,0 +1,44 @@
+{
+    "abstract": "Objectives: Italy has been disproportionately affected by the COVID-19 pandemic, becoming the nation with the third highest death toll in the world as of May 10th, 2020. We analyzed the severity of COVID-19 pandemic across 20 Italian regions. Method: We manually retrieved the daily cumulative numbers of laboratory-confirmed cases and deaths attributed to COVID-19 across 20 Italian regions. For each region, we estimated the crude case fatality ratio and time-delay adjusted case fatality ratio (aCFR). We then assessed the association between aCFR and sociodemographic, health care and transmission factors using multivariate regression analysis. Results: The overall aCFR in Italy was estimated at 17.4%. Lombardia exhibited the highest aCFR (24.7%) followed by Marche (19.3%), Emilia Romagna (17.7%) and Liguria (17.6%). Our aCFR estimate was greater than 10% for 12 regions. Our aCFR estimates were statistically associated with population density and cumulative morbidity rate in a multivariate analysis. Conclusion: Our aCFR estimates for overall Italy and for 7 out of 20 regions exceeded those reported for the most affected region in China. Our findings highlight the importance of social distancing to suppress incidence and reduce the death risk by preventing saturating the health care system.",
+    "author": "Sushma Dahal; Kenji Mizumoto; Gerardo Chowell",
+    "date": 2020,
+    "doi": "10.1101/2020.04.01.20049668",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.04.01.20049668"
+    },
+    "title": "Spatial variability in the risk of death from COVID-19 in 20 regions of Italy",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Japan Society for the Promotion of Science",
+                    "award-id": [
+                        "18K17368",
+                        "20H03940"
+                    ]
+                },
+                {
+                    "funding-source": "Leading Initiative for Excellent Young Researchers from the Ministry of Education, Culture"
+                },
+                {
+                    "funding-source": "Science & Technology of Japan"
+                }
+            ],
+            "funding-statement": "KM acknowledges support from the Japan Society for the Promotion of Science (JSPS) KAKENHI (Grant Number 18K17368 and 20H03940) and from the Leading Initiative for Excellent Young Researchers from the Ministry of Education, Culture, Sport, Science & Technology of Japan"
+        },
+        {
+            "award-group": [
+                {
+                    "funding-source": "NSF",
+                    "award-id": [
+                        "1414374"
+                    ]
+                },
+                {
+                    "funding-source": "NSF-NIH-USDA Ecology and Evolution of Infectious Diseases"
+                }
+            ],
+            "funding-statement": "GC acknowledges support from NSF grant 1414374 as part of the joint NSF-NIH-USDA Ecology and Evolution of Infectious Diseases program"
+        }
+    ]
+}

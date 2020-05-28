@@ -1,0 +1,16 @@
+{
+    "abstract": "Many governments have responded to the ongoing COVID-19 pandemic by imposing social policies that restrict interactions outside of the home, resulting in a large fraction of the workforce either working from home or not working. However, to maintain essential services, a substantial number of workers are not subject to these limitations, and maintain many of their pre-intervention interactions. To explore how interactions among such \"essential\" workers, and between essential workers and the rest of the population, impact disease risk and the effectiveness of pandemic control, we evaluated several models of essential worker interactions within a standard epidemiology framework. The models were designed to correspond to key characteristics of, respectively, cashiers, factory employees, and healthcare workers. We find in all three models that essential workers are at substantially elevated risk of infection compared to the rest of the population, and that increasing the numbers of essential workers necessitates the imposition of more stringent interaction controls on the rest of the population in order to manage the pandemic. However, different archetypes of essential workers differ in both their individual probability of infection and impact on the broader pandemic, highlighting the need to understand and target for intervention the specific risks faced by different groups of essential workers.",
+    "author": "William R Milligan; Zachary L Fuller; Molly Przeworski; Guy Sella; Michael B Eisen; Ipsita Agarwal",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20092262",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092262"
+    },
+    "title": "Impact of essential workers in the context of social distancing for epidemic control",
+    "funding": [
+        {
+            "award-group": [],
+            "funding-statement": "No external funding was received"
+        }
+    ]
+}

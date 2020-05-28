@@ -1,0 +1,23 @@
+{
+    "abstract": "We assess the efficacy of spatially targeted lockdown or mass-testing and case-isolation in individual communities, as a compliment to contact-tracing and social-distancing, for containing SARS-CoV-2 outbreaks. Using the UK as a case study,we construct a stochastic branching process model for the virus transmission, embedded on a network interaction model encoding mobility patterns in the UK. The network model is based on commuter data from the 2011 census, a catchment area model for schools, and a phenomenological model for mobility and interactions outside of work, school, and the home.We show that for outbreak scenarios where contact-tracing and moderate social distancing alone provide suppression but do not contain the spread, targeted lockdowns or mass-testing interventions at the level of individual communities (with just a few thousand inhabitants) can be effective at containing outbreaks. For spatially targeted mass-testing, a moderate increase in testing capacity would be required (typically<40000 additional tests per day), while for local lockdowns we find that only a small fraction (typically<0.1%) of the population needs to be locked down at any one time (assuming that one third of transmission occurs in the home, at work or school, and out in the wider community respectively). The efficacy of spatially targeted interventions is contingent on an appreciable fraction of transmission events occurring within (relative to across)communities. Confirming the efficacy of community-level interventions therefore calls for detailed investigation of spatial transmission patterns for SARS-CoV-2, accounting for sub-community-scale transmission dynamics, and changes in mobility patterns due to the presence of other containment measures (such as social distancing and travel restrictions).",
+    "author": "Philip JD Crowley; Tom Kirk; Justin Alsing; Nairi Usher",
+    "date": 2020,
+    "doi": "10.1101/2020.05.05.20092221",
+    "identifiers": {
+        "url": "http://medrxiv.org/cgi/content/short/2020.05.05.20092221"
+    },
+    "title": "Containing Covid-19 outbreaks with spatiallytargeted short-term lockdowns and mass-testing",
+    "funding": [
+        {
+            "award-group": [
+                {
+                    "funding-source": "Swedish Research Council",
+                    "award-id": [
+                        "2017-04212"
+                    ]
+                }
+            ],
+            "funding-statement": "JA is partially supported by a Swedish Research Council (VR) grant under Dnr 2017-04212"
+        }
+    ]
+}
