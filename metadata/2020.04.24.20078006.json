@@ -41,7 +41,7 @@
         {
             "award-group": [
                 {
-                    "funding-source": "College London MRC Skills Development Fellowship"
+                    "funding-source": "King\u0092s College London MRC Skills Development Fellowship"
                 },
                 {
                     "funding-source": "UK Medical Research Council",
@@ -63,10 +63,7 @@
                     "funding-source": "Biomedical Research Centre"
                 },
                 {
-                    "funding-source": "South London and Maudsley NHS Foundation Trust and"
-                },
-                {
-                    "funding-source": "College London"
+                    "funding-source": "South London and Maudsley NHS Foundation Trust and King\u0092s College London"
                 }
             ],
             "funding-statement": "RB is funded in part by grant MR/R016372/1 for the King\u0092s College London MRC Skills Development Fellowship programme funded by the UK Medical Research Council (MRC, https://mrc.ukri.org) and by grant IS-BRC-1215-20018 for the National Institute for Health Research (NIHR, https://www.nihr.ac.uk) Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King\u0092s College London"
@@ -81,6 +78,9 @@
                     "funding-source": "This Joint Undertaking"
                 },
                 {
+                    "funding-source": "European Union\u0092s Horizon"
+                },
+                {
                     "funding-source": "DE Grobbee and SD Anker,"
                 }
             ],
@@ -89,7 +89,7 @@
         {
             "award-group": [
                 {
-                    "funding-source": "Prize Fellowship"
+                    "funding-source": "King\u0092s Prize Fellowship"
                 }
             ],
             "funding-statement": "RZ is supported by a King\u0092s Prize Fellowship"
@@ -97,7 +97,7 @@
         {
             "award-group": [
                 {
-                    "funding-source": "Medical Research Trust"
+                    "funding-source": "King\u0092s Medical Research Trust"
                 }
             ],
             "funding-statement": "AS is supported by a King\u0092s Medical Research Trust studentship"
@@ -120,13 +120,7 @@
                     "funding-source": "Biomedical Research Centre"
                 },
                 {
-                    "funding-source": "NHS Foundation Trust and",
-                    "award-id": [
-                        "IS-BRC-1215-2000"
-                    ]
-                },
-                {
-                    "funding-source": "College London",
+                    "funding-source": "Guy\u0092s & St Thomas\u0092 NHS Foundation Trust and King\u0092s College London",
                     "award-id": [
                         "IS-BRC-1215-20006"
                     ]
@@ -242,10 +236,10 @@
                     "funding-source": "South London and Maudsley NHS Foundation Trust,"
                 },
                 {
-                    "funding-source": "NHS Foundation Trust,"
+                    "funding-source": "Guy\u0092s & St Thomas\u0092 NHS Foundation Trust,"
                 },
                 {
-                    "funding-source": "College London"
+                    "funding-source": "King\u0092s College London"
                 }
             ],
             "funding-statement": "This paper represents independent research part funded by the National Institute for Health Research (NIHR) Biomedical Research Centres at South London and Maudsley NHS Foundation Trust, and Guy\u0092s & St Thomas\u0092 NHS Foundation Trust, both with King\u0092s College London"

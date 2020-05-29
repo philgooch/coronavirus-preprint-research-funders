@@ -20,7 +20,7 @@
                     ]
                 },
                 {
-                    "funding-source": "HCL and RGN and",
+                    "funding-source": "HCL and RGN",
                     "award-id": [
                         "DK083912",
                         "DK082841",
@@ -38,7 +38,7 @@
                     "funding-source": "Integrated Systems Biology Approach"
                 },
                 {
-                    "funding-source": "Diabetic Microvascular",
+                    "funding-source": "Diabetic Microvascular Complications\u0092",
                     "award-id": [
                         "DK081943"
                     ]
@@ -47,10 +47,10 @@
                     "funding-source": "University of Michigan"
                 },
                 {
-                    "funding-source": "Brien Kidney Translational Core"
+                    "funding-source": "Brien Kidney Translational Core Center\u0092"
                 },
                 {
-                    "funding-source": "Kidney Precision Medicine",
+                    "funding-source": "Kidney Precision Medicine Project\u0092",
                     "award-id": [
                         "funded by the following from the NIDDK: U2C DK114886",
                         "UH3DK114861",
@@ -75,19 +75,22 @@
                     "funding-source": "Chan Zuckerberg Initiative"
                 },
                 {
-                    "funding-source": "Human Cell Atlas Kidney Seed",
+                    "funding-source": "Human Cell Atlas Kidney Seed Network\u0092",
                     "award-id": [
                         "5-COE-201"
                     ]
                 },
                 {
-                    "funding-source": "MK and OGT and",
+                    "funding-source": "MK and OGT",
                     "award-id": [
                         "5-COE-2019-861-S-B"
                     ]
                 },
                 {
                     "funding-source": "JDRF and M-Diabetes Center of Excellence"
+                },
+                {
+                    "funding-source": "University of Michigan\u0092"
                 }
             ],
             "funding-statement": "This work was supported in part by the Intramural Research Program at the National Institute of Diabetes and Digestive and Kidney Diseases (DK069062) to HCL and RGN and (DK083912, DK082841, DK020572, DK092926) to RGK, by the extramural research program of the National Institute of Diabetes and Digestive and Kidney Diseases R24 DK082841 \u0091Integrated Systems Biology Approach to Diabetic Microvascular Complications\u0092 and P30 DK081943 \u0091University of Michigan O'Brien Kidney Translational Core Center\u0092 to MK, via \u0091Kidney Precision Medicine Project\u0092 (KPMP, funded by the following grants from the NIDDK: U2C DK114886, UH3DK114861, UH3DK114866, UH3DK114870, UH3DK114908, UH3DK114915, UH3DK114926, UH3DK114907, UH3DK114920, UH3DK114923, UH3DK114933, and UH3DK114937, with U2C DK114886 and UH3 DK114907) to MK and OGT, via the Chan Zuckerberg Initiative \u0091Human Cell Atlas Kidney Seed Network\u0092 to MK and OGT and by JDRF 5-COE-2019-861-S-B \u0091JDRF and M-Diabetes Center of Excellence at the University of Michigan\u0092 to MK"

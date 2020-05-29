@@ -14,7 +14,7 @@
         {
             "award-group": [
                 {
-                    "funding-source": "Harvard MIT Center for Regulatory Sciences and",
+                    "funding-source": "Harvard MIT Center for Regulatory Sciences",
                     "award-id": [
                         "NIH/NCI",
                         "U54-CA225088"
@@ -23,12 +23,8 @@
                 {
                     "funding-source": "NIH",
                     "award-id": [
-                        "U54-CA225088"
-                    ]
-                },
-                {
-                    "funding-source": "NL and DP)",
-                    "award-id": [
+                        "U54-CA225088",
+                        "to PKS",
                         "T32-GM007753"
                     ]
                 },
